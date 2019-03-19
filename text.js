@@ -1,18 +1,16 @@
 const fs = require("fs");
 
-var row = [];
-var content;
-// First I want to read the file
-fs.readFile("raw/1.txt", "utf8", function read(err, data) {
-    if (err) {
-        console.log(err);
-    }
-    content = data;
+function main() {
+    fs.readFile("raw/1.txt", "utf8", function read(err, data) {
+        if (err) {
+            console.log(err);
+        }
+        content = data;
 
-    // Invoke the next step here however you like
-    processFile();
-});
-
+        // Invoke the next step here however you like
+        processFile();
+    });
+}
 
 
 function processFile() {
@@ -30,7 +28,4 @@ function processFile() {
 
     var date = MM[0] + " " + DD[0] + ", " + YY[0];
     row.push(date);
-    // // done with date
-
-    //slicing the text at DRUGS
 };

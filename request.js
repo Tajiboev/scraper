@@ -12,7 +12,7 @@ async function scrape(page) {
         const text = $('pre').text().trim();
 
         const rgx = page.text.match(/\d{2,4}/g);
-        const fileName = `text/Report-${rgx[2]}-${rgx[0]}-${rgx[1]}`;
+        const fileName = `text/Report-${rgx[2]}-${rgx[0]}-${rgx[1]}.txt`;
 
         fs.writeFile(fileName, text, finish);
 
