@@ -4,6 +4,7 @@ const fs = require('fs');
 
 
 var done = [];
+var errors = []
 
 async function scrape(page) {
     try {
@@ -18,15 +19,15 @@ async function scrape(page) {
 
         function finish(e) {
             if (e) {
-                console.log('rror while writing to file', e)
+                console.log('error while writing to file', e)
             } else {
                 done.push(fileName)
                 console.log('success in', done.length);
             };
         };
 
-    } catch (e) {
-        console.log('error occured in catch', e);
+    } catch (err) {
+        console.log('error occured in catch! ', err.options.uri);
     }
 };
 
