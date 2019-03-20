@@ -2,10 +2,6 @@ const request = require('request-promise');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-
-var done = [];
-var errors = []
-
 async function scrape(page) {
     try {
         const mainHtml = await request(page.href);
@@ -15,24 +11,21 @@ async function scrape(page) {
         const rgx = page.text.match(/\d{2,4}/g);
         const fileName = `text/Report-${rgx[2]}-${rgx[0]}-${rgx[1]}.txt`;
 
-        fs.writeFile(fileName, text, finish);
-
-        function finish(e) {
-            if (e) {
-                console.log('error while writing to file', e)
+        fs.writeFile(fileName, text, function finish(err) {
+            if (err) {
+                console.log('error (while writing)', err.message);
             } else {
-                done.push(fileName)
-                console.log('success in', done.length);
-            };
-        };
+                console.log('successful')
+            }
+        });
 
     } catch (err) {
-        console.log('error occured in catch! ', err.options.uri);
+        console.log('error (in catch). URL:', err.options.uri);
     }
 };
 
 
-function main() {
+function fetchText() {
 
     fs.readFile('links/1995 Enforcement Reports-link.json', function (err, contents) {
         if (err) {
@@ -48,4 +41,4 @@ function main() {
 
 }
 
-main();
+fetchText();
