@@ -6,26 +6,21 @@ function main() {
             console.log("error while reading file", err);
         } else {
             // Invoke the next step here however you like
-            processText(data);
+            process(data);
             // console.log(data)
         }
     });
 }
 
-function processText(text) {
-    getDateFrom(text);
+function process(text) {
+    var transformed = transform(text);
+    var date = getDate(transformed)
+    var divided = divide(transformed)
 }
 
-function getDateFrom(theText) {
-    var transformedText = theText
-        .toLowerCase()
-        .replace(/\s/g, "")
-        .replace(/\./g, ".\n")
-        .replace(/recallsandfieldcorrections/g, "THEKEYWORDHERE");
-
-    // // get the date
+function getDate(data) {
     var regex = /(January|February|March|April|May|June|July|August|September|October|November|December)\d{2},\d{4}/i;
-    var rawDate = transformedText.match(regex);
+    var rawDate = data.match(regex);
     var initial = rawDate[0];
 
     var MM = initial.match(
@@ -35,16 +30,27 @@ function getDateFrom(theText) {
     var YY = initial.match(/\d{4}/);
 
     var date = MM[0] + " " + DD[0] + ", " + YY[0];
-    divide(transformedText);
-    return date
+    return date;
 }
 
-function divide(textWithKeyword) {
-    var arr = [];
-    var keywordcount = (textWithKeyword.match(/KEYWORDHERE/g) || []).length;
+function transform(theText) {
+    var transformedText = theText
+        .toLowerCase()
+        .replace(/\s/g, "")
+        .replace(/\./g, ".\n")
+        .replace(/recallsandfieldcorrections/g, "THEKEYWORDHERE");
 
-    var initialPosition = textWithKeyword.indexOf("KEYWORDHERE");
-    var nextPosition = textWithKeyword.indexOf(
+    return transformedText;
+}
+
+
+
+function divide(rawtext) {
+    var arr = [];
+    var keywordcount = rawtext.match(/KEYWORDHERE/g).length;
+
+    var initialPosition = rawtext.indexOf("KEYWORDHERE");
+    var nextPosition = rawtext.indexOf(
         "KEYWORDHERE",
         initialPosition + 1
     );
@@ -52,25 +58,25 @@ function divide(textWithKeyword) {
     arr.push(nextPosition);
     for (let i = 0; i <= keywordcount; i++) {
         initialPosition = nextPosition;
-        nextPosition = textWithKeyword.indexOf("KEYWORDHERE", initialPosition + 1);
+        nextPosition = rawtext.indexOf("KEYWORDHERE", initialPosition + 1);
         if (!arr.includes(nextPosition) && nextPosition != -1) {
             arr.push(nextPosition);
         }
         if (nextPosition == -1) {
-            arr.push(textWithKeyword.length);
+            arr.push(rawtext.length);
         }
     }
     var paragraphs = [];
     for (let n = 0; n < arr.length - 1; n++) {
-        var aParagraph = textWithKeyword.slice(arr[n], arr[n + 1]);
-        paragraphs[n] = aParagraph;
+        var keyword_to_keyword = rawtext.slice(arr[n], arr[n + 1]);
+        paragraphs[n] = `${keyword_to_keyword}`;
     };
 
     var filtered_paragraphs = paragraphs.filter((elem) => {
         return elem.includes("KEYWORDHERE:drug") || elem.includes("KEYWORDHERE:bio") || elem.includes("KEYWORDHERE:device")
     })
 
-    fs.writeFile(`paragraphs/Report-1995-11-29.txt`, filtered_paragraphs, finished);
+    fs.writeFile(`paragraphs/Report-1995-11-29.txt`, filtered_paragraphs[0], finished);
 
     function finished(err) {
         if (err) {

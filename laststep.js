@@ -19,7 +19,9 @@ function getTheInfo(container) {
     // console.log(lastResult);
 };
 
-function findMultiples() {
+function findMultiples(arrayOfParagraphs) {
+    let number_of_products = arrayOfParagraphs.match(/recall#/g)
+
     let arrayContainer = [];
     return arrayContainer
 };
