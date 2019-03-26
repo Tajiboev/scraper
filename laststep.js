@@ -16,7 +16,7 @@ function getTheInfo(container) {
             "reason": getReason(element)
         });
     });
-    // console.log(lastResult);
+    console.log(lastResult);
 };
 
 function findMultiples(arrayOfParagraphs) {
@@ -109,7 +109,7 @@ function getRecallDate(element) {
 }
 
 var parray = [
-    `KEYWORDHERE:foods--classiii========================_______________productleaderbrandoralelectrolytesolution,unflavored,in1-literor4-packof8ouncebottles.
+    `KEYWORDHERE:drugs--classiii========================_______________productleaderbrandoralelectrolytesolution,unflavored,in1-literor4-packof8ouncebottles.
     recall#f-056-6.
     codelot#5163or#5146inkedontopofbottle.
     manufactureruniversalindustries,columbus,mississippi.

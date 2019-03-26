@@ -76,7 +76,9 @@ function divide(rawtext) {
         return elem.includes("KEYWORDHERE:drug") || elem.includes("KEYWORDHERE:bio") || elem.includes("KEYWORDHERE:device")
     })
 
-    fs.writeFile(`paragraphs/Report-1995-11-29.txt`, filtered_paragraphs[0], finished);
+    // var product_as_paragraph = filtered_paragraphs;
+
+    fs.writeFile(`paragraphs/Report-1995-11-29.txt`, filtered_paragraphs, finished);
 
     function finished(err) {
         if (err) {
