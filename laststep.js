@@ -1,31 +1,25 @@
+const fs = require('fs')
+
 var lastResult = [];
 
 function getTheInfo(container) {
     container.forEach(element => {
         lastResult.push({
-            "date": "today",
+            "date": "1995-11-29",
             "category": getCategory(element),
             "class": getClass(element),
             "name": getProductName(element),
             "recall number": getRecallNumber(element),
             "manufacturer": getManufaturer(element),
             "distribution": getDistribution(element),
-            "recall date": getRecallDate(element),
+            // "recall date": getRecallDate(element),
             "recalled by": getRecaller(element),
             "quantity": getQuantity(element),
             "reason": getReason(element)
         });
     });
-    console.log(lastResult);
+    console.log(`${lastResult.length} products found in 1995-11-29`);
 };
-
-function findMultiples(arrayOfParagraphs) {
-    let number_of_products = arrayOfParagraphs.match(/recall#/g)
-
-    let arrayContainer = [];
-    return arrayContainer
-};
-
 
 function getProductName(element) {
     var pIndex = element.indexOf("product");
@@ -76,7 +70,7 @@ function getReason(element) {
 }
 
 function getClass(element) {
-    var aclass = element.substr(element.indexOf("class"), 8);
+    var aclass = element.substr(element.indexOf("class"), 9);
     return aclass;
 }
 
@@ -106,39 +100,17 @@ function getRecallDate(element) {
     let YY = initial.match(/\d{4}/);
     let recalldate = MM[0] + " " + DD[0] + ", " + YY[0];
     return recalldate;
-}
+};
 
-var parray = [
-    `KEYWORDHERE:drugs--classiii========================_______________productleaderbrandoralelectrolytesolution,unflavored,in1-literor4-packof8ouncebottles.
-    recall#f-056-6.
-    codelot#5163or#5146inkedontopofbottle.
-    manufactureruniversalindustries,columbus,mississippi.
-    recalledbycardinalhealth,inc.
-    ,dublin,ohio,bye-mailnoticeonoctober19,1995.
-    firm-initiatedrecallongoing.
-    distributionnationwide.
-    quantityapproximately1,0001-literbottlesweredistributed.
-    reasonproducthasanoff-colorpossiblyduetothepresenceofaspergillusniger.
-    productleaderbrandoralelectrolytesolution22,unflavored,in1-literor4-packof8ouncebottles.
-    recall#f-056-111.
-    codelot#5163or#5146inkedontopofbottle.
-    manufactureruniversalindustries,columbus,mississippi.
-    recalledbycardinalhealth,inc.
-    ,dublin,ohio,bye-mailnoticeonoctober19,1995.
-    firm-initiatedrecallongoing.
-    distributionnationwide.
-    quantityapproximately1,0001-literbottlesweredistributed.
-    reasonproducthasanoff-colorpossiblyduetothepresenceofaspergillusniger.`,
-    `KEYWORDHERE:foods--classii========================_______________productleaderMEbrandoralelectrolytesolution,unflavored,in1-literor4-packof8ouncebottles.
-    recall#f-056-66.
-    codelot#5163or#5146inkedontopofbottle.
-    manufactureruniversalindustries,columbus,mississippi.
-    recalledbycardinalhealth,inc.
-    ,dublin,ohio,bye-mailnoticeonoctober19,1995.
-    firm-initiatedrecallongoing.
-    distributionnationwide.
-    quantityapproximately1,0001-literbottlesweredistributed.
-    reasonproducthasanoff-colorpossiblyduetothepresenceofaspergillusniger.`
-];
+function main() {
+    fs.readFile("readytoprocess/Report-1995-11-29.json", function read(err, data) {
+        if (err) {
+            console.log("error while reading file", err);
+        } else {
+            var ready_to_process_array = JSON.parse(data)
+            getTheInfo(ready_to_process_array);
+        }
+    });
+};
 
-getTheInfo(parray);
+main();
