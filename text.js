@@ -1,7 +1,12 @@
 const fs = require("fs");
 
-function main() {
-    fs.readFile("text/Report-1995-11-29.txt", "utf8", function read(err, data) {
+const files = fs.readdirSync('text');
+const file_name = files[0];
+
+main(file_name);
+
+function main(filename) {
+    fs.readFile(`text/${filename}`, "utf8", function read(err, data) {
         if (err) {
             console.log("error while reading file", err);
         } else {
@@ -14,23 +19,7 @@ function main() {
 
 function process(text) {
     var transformed = transform(text);
-    var date = getDate(transformed)
     var divided = divide(transformed)
-}
-
-function getDate(data) {
-    var regex = /(January|February|March|April|May|June|July|August|September|October|November|December)\d{2},\d{4}/i;
-    var rawDate = data.match(regex);
-    var initial = rawDate[0];
-
-    var MM = initial.match(
-        /(January|February|March|April|May|June|July|August|September|October|November|December)/i
-    );
-    var DD = initial.match(/\d{2}/);
-    var YY = initial.match(/\d{4}/);
-
-    var date = MM[0] + " " + DD[0] + ", " + YY[0];
-    return date;
 }
 
 function transform(theText) {
@@ -42,7 +31,6 @@ function transform(theText) {
 
     return transformedText;
 }
-
 
 
 function divide(rawtext) {
@@ -127,15 +115,13 @@ function divide(rawtext) {
     console.log(`There are ${to_prod_final_array.length} products in 1995-11-29`);
     var data_to_prod = JSON.stringify(to_prod_final_array)
 
-    fs.writeFile(`readytoprocess/Report-1995-11-29.json`, data_to_prod, finished);
+    fs.writeFile(`readytoprocess/${file_name}.json`, data_to_prod, finished);
 
     function finished(err) {
         if (err) {
             console.log(err);
         } else {
-            console.log(`Success! Saved to readytoprocess/Report-1995-11-29.json! Plese procede to laststep.js`);
+            console.log(`Success! Saved to readytoprocess/${file_name}.json! Plese procede to laststep.js`);
         }
     };
 };
-
-main();

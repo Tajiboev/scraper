@@ -1,6 +1,74 @@
-const fs = require('fs')
+const fs = require('fs');
+const Excel = require('exceljs');
 
 var lastResult = [];
+
+function createXLSX(last_arr) {
+    var workbook = new Excel.Workbook();
+    var worksheet = workbook.addWorksheet('1995-11-29');
+
+    worksheet.columns = [{
+            header: 'date',
+            key: 'date',
+        },
+        {
+            header: 'category',
+            key: 'category',
+        },
+        {
+            header: 'class',
+            key: 'class',
+        },
+        {
+            header: 'name',
+            key: 'name',
+        }, {
+            header: 'recall_number',
+            key: 'recall_number',
+        },
+        {
+            header: 'manufacturer',
+            key: 'manufacturer',
+        }, {
+            header: 'distribution',
+            key: 'distribution',
+        }, {
+            header: 'recall_date',
+            key: 'recall_date',
+        }, {
+            header: 'recalled_by',
+            key: 'recalled_by',
+        }, {
+            header: 'quantity',
+            key: 'quantity',
+        }, {
+            header: 'reason',
+            key: 'reason',
+        }
+    ];
+
+    for (i of last_arr) {
+        worksheet.addRow({
+            date: i.date,
+            category: i.category,
+            class: i.class,
+            name: i.name,
+            recall_number: i.recall_number,
+            manufacturer: i.manufacturer,
+            distribution: i.distribution,
+            recall_date: i.recall_date,
+            recalled_by: i.recalled_by,
+            quantity: i.quantity,
+            reason: i.reason
+        });
+    };
+
+    workbook.xlsx.writeFile('excel-ready/1995/1995-11-29.xlsx', 'utf8')
+        .then(function () {
+            console.log("done writing XLSX, 1995-11-29")
+        });
+
+}
 
 function getTheInfo(container) {
     container.forEach(element => {
@@ -9,22 +77,25 @@ function getTheInfo(container) {
             "category": getCategory(element),
             "class": getClass(element),
             "name": getProductName(element),
-            "recall number": getRecallNumber(element),
+            "recall_number": getRecallNumber(element),
             "manufacturer": getManufaturer(element),
             "distribution": getDistribution(element),
-            // "recall date": getRecallDate(element),
-            "recalled by": getRecaller(element),
+            "recall_date": getRecallDate(element),
+            "recalled_by": getRecaller(element),
             "quantity": getQuantity(element),
             "reason": getReason(element)
         });
     });
-    console.log(`${lastResult.length} products found in 1995-11-29`);
+    createXLSX(lastResult)
 };
 
 function getProductName(element) {
     var pIndex = element.indexOf("product");
     var dIndex = element.indexOf(".", pIndex);
-    var pname = element.slice(pIndex, dIndex).replace("product", "");
+    if (dIndex - pIndex < 10) {
+        dIndex = element.indexOf(",", pIndex)
+    }
+    var pname = element.slice(pIndex, dIndex).replace("product", "").replace('\n', ' ');
     return pname;
 }
 
@@ -48,11 +119,11 @@ function getDistribution(element) {
 
 function getRecaller(element) {
     var recIndex = element.indexOf("recalledby");
-    var dotIndex = element.indexOf(".", recIndex);
-    var manufacturer = element
+    var dotIndex = element.indexOf(",", recIndex);
+    var recaller = element
         .slice(recIndex, dotIndex)
         .replace("recalledby", "");
-    return manufacturer;
+    return recaller;
 }
 
 function getQuantity(element) {
@@ -65,20 +136,24 @@ function getQuantity(element) {
 function getReason(element) {
     var reaIndex = element.indexOf("reason");
     var dotIndex = element.indexOf(".", reaIndex);
+    var commaIndex = element.indexOf(",", reaIndex);
     var reason = element.slice(reaIndex, dotIndex).replace("reason", "");
+    if (reason.length < 15) {
+        reason = element.slice(reaIndex, commaIndex).replace("reason", "");
+    }
     return reason;
 }
 
 function getClass(element) {
-    var aclass = element.substr(element.indexOf("class"), 9);
-    return aclass;
+    var classX = element.substr(element.indexOf("class"), 9);
+    return classX;
 }
 
 function getCategory(element) {
-    var acategory = element
+    var categoryX = element
         .substr(element.indexOf("KEYWORDHERE:"), 17)
         .replace("KEYWORDHERE:", "");
-    return acategory;
+    return categoryX;
 }
 
 function getRecallNumber(element) {
@@ -89,17 +164,22 @@ function getRecallNumber(element) {
 }
 
 function getRecallDate(element) {
-    let rgx = /(January|February|March|April|May|June|July|August|September|October|November|December)\d{2},\d{4}/i;
-    let rawDate = element.match(rgx);
-    let initial = rawDate[0];
+    let rgx = /(January|February|March|April|May|June|July|August|September|October|November|December)\d+,\d{4}/i;
+    var working_string = element.slice(element.indexOf("recalledby"), element.length);
+    let rawDate = working_string.match(rgx);
+    if (rawDate != null) {
+        let initial = rawDate[0];
 
-    let MM = initial.match(
-        /(January|February|March|April|May|June|July|August|September|October|November|December)/i
-    );
-    let DD = initial.match(/\d{2}/);
-    let YY = initial.match(/\d{4}/);
-    let recalldate = MM[0] + " " + DD[0] + ", " + YY[0];
-    return recalldate;
+        let MM = initial.match(
+            /(January|February|March|April|May|June|July|August|September|October|November|December)/i
+        );
+        let DD = initial.match(/\d{1,2}/);
+        let YY = initial.match(/\d{4}/);
+        let recalldate = MM[0] + " " + DD[0] + ", " + YY[0];
+        return recalldate;
+    } else {
+        return "unknown recall date"
+    }
 };
 
 function main() {
