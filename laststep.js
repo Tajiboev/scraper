@@ -67,7 +67,7 @@ function createXLSX(last_arr) {
         });
     };
 
-    workbook.xlsx.writeFile(`excel/1995/${working_file_name.replace('.json', '')}.xlsx`, 'utf8')
+    workbook.xlsx.writeFile(`excel/1995/${working_file_name.replace('.json', '')}-try.xlsx`, 'utf8')
         .then(function () {
             console.log("done writing XLSX")
         });
@@ -76,7 +76,7 @@ function createXLSX(last_arr) {
 function beautify(text) {
     return text.split(' ')
         .map((s) => s.charAt(0).toUpperCase() + s.substring(1)).join(' ')
-        .replace('\n', ' ')
+        .replace(/(\r\n|\n|\r)/gm, " ")
         .trim();
 }
 
@@ -147,7 +147,12 @@ function getReason(element) {
     var reaIndex = element.indexOf("reason");
     var dotIndex = element.indexOf(".", reaIndex);
     var commaIndex = element.indexOf(",", reaIndex);
-    var reason = element.slice(reaIndex, dotIndex).replace("reason", "");
+    if (dotIndex = element.length) {
+        var reason = element.slice(reaIndex, element.length).replace("reason", "");
+    } else {
+        var reason = element.slice(reaIndex, dotIndex).replace("reason", "");
+    };
+
     if (reason.length < 15) {
         reason = element.slice(reaIndex, commaIndex).replace("reason", "");
     }
