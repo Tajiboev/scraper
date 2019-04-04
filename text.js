@@ -1,18 +1,19 @@
 const fs = require("fs");
 
-const files = fs.readdirSync('text');
-const file_name = files[0];
+const files = fs.readdirSync('text/1995');
 
+var file_name = files[10];
 main(file_name);
 
+var errorFiles = [3, 20, 48, 49, 'in year 1995']
+
+
 function main(filename) {
-    fs.readFile(`text/${filename}`, "utf8", function read(err, data) {
+    fs.readFile(`text/1995/${filename}`, "utf8", function read(err, data) {
         if (err) {
-            console.log("error while reading file", err);
+            console.log(`error while reading ${filename}`, err);
         } else {
-            // Invoke the next step here however you like
             process(data);
-            // console.log(data)
         }
     });
 }
@@ -25,10 +26,9 @@ function process(text) {
 function transform(theText) {
     var transformedText = theText
         .toLowerCase()
-        .replace(/\s/g, "")
+        .replace(/([ ]{2,})/g, " ")
         .replace(/\./g, ".\n")
-        .replace(/recallsandfieldcorrections/g, "KEYWORDHERE");
-
+        .replace(/recalls and field corrections/ig, "KEYWORDHERE");
     return transformedText;
 }
 
@@ -61,7 +61,7 @@ function divide(rawtext) {
     };
 
     var filtered_paragraphs = paragraphs.filter((elem) => {
-        return elem.includes("KEYWORDHERE:drug") || elem.includes("KEYWORDHERE:bio") || elem.includes("KEYWORDHERE:device")
+        return elem.includes("KEYWORDHERE: drug") || elem.includes("KEYWORDHERE: bio") || elem.includes("KEYWORDHERE: device")
     });
 
     var to_prod_final_array = [];
@@ -112,16 +112,16 @@ function divide(rawtext) {
         lookForMultiples(i)
     };
 
-    console.log(`There are ${to_prod_final_array.length} products in 1995-11-29`);
+    console.log(`There are ${to_prod_final_array.length} products in ${file_name}`);
     var data_to_prod = JSON.stringify(to_prod_final_array)
 
-    fs.writeFile(`readytoprocess/${file_name}.json`, data_to_prod, finished);
+    fs.writeFile(`readytoprocess/1995/${file_name.replace('.txt', '')}.json`, data_to_prod, finished);
 
     function finished(err) {
         if (err) {
             console.log(err);
         } else {
-            console.log(`Success! Saved to readytoprocess/${file_name}.json! Plese procede to laststep.js`);
+            console.log(`Success! ${file_name.replace('.txt', '')}.json!`);
         }
     };
 };

@@ -1,49 +1,53 @@
 const fs = require('fs');
 const Excel = require('exceljs');
+const directory = 'readytoprocess/1995'
+
+const files = fs.readdirSync(directory);
+const working_file_name = files[0];
 
 var lastResult = [];
 
 function createXLSX(last_arr) {
     var workbook = new Excel.Workbook();
-    var worksheet = workbook.addWorksheet('1995-11-29');
+    var worksheet = workbook.addWorksheet(`${working_file_name.replace('.json', '')}`);
 
     worksheet.columns = [{
-            header: 'date',
+            header: 'recall_classification_date',
             key: 'date',
         },
         {
-            header: 'category',
+            header: 'product_type',
             key: 'category',
         },
         {
-            header: 'class',
+            header: 'classification',
             key: 'class',
-        },
-        {
-            header: 'name',
-            key: 'name',
         }, {
             header: 'recall_number',
             key: 'recall_number',
         },
         {
+            header: 'product',
+            key: 'name',
+        }, {
+            header: 'recalling_firm',
+            key: 'recalled_by',
+        },
+        {
             header: 'manufacturer',
             key: 'manufacturer',
         }, {
-            header: 'distribution',
-            key: 'distribution',
-        }, {
-            header: 'recall_date',
+            header: 'recall_initiation_date',
             key: 'recall_date',
-        }, {
-            header: 'recalled_by',
-            key: 'recalled_by',
-        }, {
-            header: 'quantity',
-            key: 'quantity',
         }, {
             header: 'reason',
             key: 'reason',
+        }, {
+            header: 'volume',
+            key: 'quantity',
+        }, {
+            header: 'distribution',
+            key: 'distribution',
         }
     ];
 
@@ -63,17 +67,23 @@ function createXLSX(last_arr) {
         });
     };
 
-    workbook.xlsx.writeFile('excel-ready/1995/1995-11-29.xlsx', 'utf8')
+    workbook.xlsx.writeFile(`excel/1995/${working_file_name.replace('.json', '')}.xlsx`, 'utf8')
         .then(function () {
-            console.log("done writing XLSX, 1995-11-29")
+            console.log("done writing XLSX")
         });
+} //--fn create excel end
 
+function beautify(text) {
+    return text.split(' ')
+        .map((s) => s.charAt(0).toUpperCase() + s.substring(1)).join(' ')
+        .replace('\n', ' ')
+        .trim();
 }
 
 function getTheInfo(container) {
     container.forEach(element => {
         lastResult.push({
-            "date": "1995-11-29",
+            "date": `${working_file_name.replace('Report-', '').replace('.json', '')}`,
             "category": getCategory(element),
             "class": getClass(element),
             "name": getProductName(element),
@@ -95,8 +105,8 @@ function getProductName(element) {
     if (dIndex - pIndex < 10) {
         dIndex = element.indexOf(",", pIndex)
     }
-    var pname = element.slice(pIndex, dIndex).replace("product", "").replace('\n', ' ');
-    return pname;
+    var pname = element.slice(pIndex, dIndex).replace("product", "");
+    return beautify(pname);
 }
 
 function getManufaturer(element) {
@@ -105,31 +115,31 @@ function getManufaturer(element) {
     var manufacturer = element
         .slice(mIndex, dotIndex)
         .replace("manufacturer", "");
-    return manufacturer;
+    return beautify(manufacturer);
 }
 
 function getDistribution(element) {
     var disIndex = element.indexOf("distribution");
     var dotIndex = element.indexOf(".", disIndex);
-    var manufacturer = element
+    var distribution = element
         .slice(disIndex, dotIndex)
         .replace("distribution", "");
-    return manufacturer;
+    return beautify(distribution);
 }
 
 function getRecaller(element) {
-    var recIndex = element.indexOf("recalledby");
+    var recIndex = element.indexOf("recalled by");
     var dotIndex = element.indexOf(",", recIndex);
     var recaller = element
         .slice(recIndex, dotIndex)
-        .replace("recalledby", "");
-    return recaller;
+        .replace("recalled by", "");
+    return beautify(recaller);
 }
 
 function getQuantity(element) {
     var qIndex = element.indexOf("quantity");
     var dotIndex = element.indexOf(".", qIndex);
-    var quantity = element.slice(qIndex, dotIndex).replace("quantity", "");
+    var quantity = element.slice(qIndex, dotIndex).replace("quantity", "").trim();
     return quantity;
 }
 
@@ -141,49 +151,60 @@ function getReason(element) {
     if (reason.length < 15) {
         reason = element.slice(reaIndex, commaIndex).replace("reason", "");
     }
-    return reason;
+    return beautify(reason);
 }
 
 function getClass(element) {
-    var classX = element.substr(element.indexOf("class"), 9);
-    return classX;
+    var classX = element.substr(element.indexOf("class"), 9).replace("class", "");
+    return classX.toUpperCase();
 }
 
 function getCategory(element) {
     var categoryX = element
         .substr(element.indexOf("KEYWORDHERE:"), 17)
-        .replace("KEYWORDHERE:", "");
-    return categoryX;
+        .replace("KEYWORDHERE:", "").trim()
+
+    switch (categoryX) {
+        case "drug":
+            categoryX = 'Drugs';
+            break;
+        case "biol":
+            categoryX = 'Biologics';
+            break;
+        case "devi":
+            categoryX = 'Devices';
+            break;
+        default:
+            categoryX = 'N/A'
+    }
+
+    return beautify(categoryX);
 }
 
 function getRecallNumber(element) {
-    var numIndex = element.indexOf("recall#");
+    var numIndex = element.indexOf("recall #");
     var dotIndex = element.indexOf(".", numIndex);
-    var recallnumber = element.slice(numIndex, dotIndex).replace("recall#", "");
+    var recallnumber = element.slice(numIndex, dotIndex).replace("recall #", "").trim();
     return recallnumber;
 }
 
 function getRecallDate(element) {
-    let rgx = /(January|February|March|April|May|June|July|August|September|October|November|December)\d+,\d{4}/i;
-    var working_string = element.slice(element.indexOf("recalledby"), element.length);
-    let rawDate = working_string.match(rgx);
-    if (rawDate != null) {
-        let initial = rawDate[0];
+    var working_string = element.slice(element.indexOf("recalled by"), element.length);
 
-        let MM = initial.match(
-            /(January|February|March|April|May|June|July|August|September|October|November|December)/i
-        );
-        let DD = initial.match(/\d{1,2}/);
-        let YY = initial.match(/\d{4}/);
-        let recalldate = MM[0] + " " + DD[0] + ", " + YY[0];
-        return recalldate;
+    let rgxMM = working_string.match(/(January|February|March|April|May|June|July|August|September|October|November|December)/i);
+    let rgxDD = working_string.match(/\d{1,2}/);
+    let rgxYY = working_string.match(/\d{4}/);
+
+    if (rgxMM != null && rgxMM != null) {
+        let recalldate = rgxMM[0] + " " + rgxDD[0] + ", " + rgxYY[0];
+        return beautify(recalldate);
     } else {
         return "unknown recall date"
     }
 };
 
-function main() {
-    fs.readFile("readytoprocess/Report-1995-11-29.json", function read(err, data) {
+function main(name) {
+    fs.readFile(`${directory}/${name}`, function read(err, data) {
         if (err) {
             console.log("error while reading file", err);
         } else {
@@ -193,4 +214,4 @@ function main() {
     });
 };
 
-main();
+main(working_file_name)
