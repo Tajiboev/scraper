@@ -9,9 +9,9 @@ async function scrape(page) {
         let text = $('pre').text().trim();
 
         let rgx = page.text.match(/\d{2,4}/g);
-        let fileName = `text/Report-${rgx[2]}-${rgx[0]}-${rgx[1]}.txt`;
+        let fileName = `text/1996/Report-${rgx[2]}-${rgx[0]}-${rgx[1]}.txt`;
         if (fileName.includes('undefined')) {
-            fileName = `text/Report-${rgx[0]}-${rgx[1]}.txt`;
+            fileName = `text/1996/Report-${rgx[0]}-${rgx[1]}.txt`;
         }
 
         fs.writeFile(fileName, text, function finish(err) {
@@ -30,7 +30,7 @@ async function scrape(page) {
 
 function fetchText() {
 
-    fs.readFile('links/1995-link.json', function (err, contents) {
+    fs.readFile('links/1996-link.json', function (err, contents) {
         if (err) {
             console.log('error while reading', err)
         } else {

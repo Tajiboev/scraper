@@ -2,11 +2,13 @@ const fs = require("fs");
 const Excel = require('exceljs');
 
 const files = fs.readdirSync('text/1995');
-const working_file_name = files[10];
+const nm = 54;
+const working_file_name = files[nm];
+console.log(nm);
 
 textjs(working_file_name);
 
-var errorFiles = [3, 20, 48, 49, 'in year 1995']
+var errorFiles = [3, 20, 32, 33, 48, 49, 50, 'in year 1995', 'total 53']
 
 function textjs(filename) {
     fs.readFile(`text/1995/${filename}`, "utf8", function read(err, data) {
