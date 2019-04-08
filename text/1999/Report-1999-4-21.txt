@@ -1,0 +1,831 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  21
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      28 captures
+	      27 Nov 1999 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+
+
+April 21, 1999
+99-16
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+________
+PRODUCT
+
+Cut salad products:
+
+
+1. a) SYSCO IMPERIAL 2 X 2 LCR LETTUCE, NET WT. 20 LBS
+   b) SYSCO IMPERIAL LETT. LCR 2 X 2" W/GB, NET WT. 5 LBS
+   c) CUSTOM CUTS LCR LETT, NET WT. 20 LBS
+2. SYSCO IMPERIAL LETT. LCR MIX 2" X 2", NET WT. 5 LBS
+3. a) SYSCO IMPERIAL LETT. ALL AMER SALAD W/ROM, NET WT. 20 LBS 
+(4/5#)
+   b) SYSCO IMPERIAL LETT. ALL AMER SALAD W/ROM, NET WT. 5 LBS
+4. SYSCO IMPERIAL CABB. RED SHD. 1/8", NET WT. 5 LBS.
+ 
+Recall #F-339/342-9.
+CODE
+Best by 01/24/99 through 02/09/99;
+MANUFACTURER
+Custom Cuts, St. Paul, Minnesota.
+RECALLED BY
+Manufacturer, by letter on February 3, 1999.  Completed recall 
+resulted from sample analysis and follow-up by the Wisconsin 
+Department of Agriculture.
+DISTRIBUTION
+Wisconsin, Minnesota, Iowa, Nebraska.
+QUANTITY
+Approximately 9,000 pounds were distributed.
+REASON
+Products may be contaminated with Listeria monocytogenes.
+________
+PRODUCT
+Frozen Mamey, a cut up tropical fruit in 24/14 ounce retail 
+packages per case, in 12/14 ounce retail packages per case and 
+6/5 pound bulk packages per case under the following brand names:
+a) "El Sembrador" brand distributed by L.J. General        
+International Corp., Miami, FL 33142, labeled in 
+part:"***ElSembradorxxx100% NATURAL FROZEN MAMEY NET WT. 14 oz. 
+(397 grs.)***DIST. BY L & J GENERAL INTERNATIONAL***MIAMI, FL 
+33142 TEL. (305)638-5161**PRODUCT OF GUATEMALA***"
+b) "El Sembrador" brand distributed by L.J. General International 
+Corp., Miami, FL 33142, labeled in part: "***El Sembrador**100 % 
+NATURAL**MAMEY**NET WT. 14 oz. (397 grs.)**DIST. BY** L & J 
+GENERAL INTERNATIONAL**MIAMI, FL 33142 TEL. (305)638-
+5161**PRODUCT OF HONDURAS***"
+c) "La Fe" brand distributed by Gonzalez & Tapanes Foods, Inc., 
+North Bergen, N.J. 07042, labeled in part: "***La 
+Fe***MAMEY***NET WT.14 oz. (397 grams)***Product of Guatemala" 
+d) "La Fe" brand distributed by Gonzalez & Tapanes Foods, Inc., 
+North Bergen, N.J. 07042, labeled in part: "***La Fe **MAMEY**NET 
+WT.14 oz. (397 grams)**Product of Honduras***" 
+e) Bulk product in 5 lb packages with no brand name labeled in 
+part: "***MAMEY***Mammea americana***Net Weight 5 Lbs. Product of 
+Guatemala*** BY AGRODEX***Amatitlan***".  Recall #F-343-9.
+CODE
+All product on the market at time of recall initiation.
+MANUFACTURER
+Agrodex S.A., Amatitlan, Guatemala and Centrex San Pedro Sula, 
+Honduras.
+RECALLED BY
+Jagua Trading Group Corporation, Miami, Florida, by letters on 
+February 26, 1999, and March 5, 1999.  Firm-initiated recall 
+ongoing.  See also FDA talk paper T99-11 dated February 20, 1999, 
+and FDA press release P99-6 dated March 8, 1999. 
+DISTRIBUTION
+Florida, New Jersey, California, Connecticut, New York, Georgia, 
+Arizona, Illinois, Louisiana, Pennsylvania, Massachusetts, Rhode 
+Island, North Carolina.
+QUANTITY
+Approximately 9,445 cases were distributed.
+REASON
+Product was epidemiologically associated with an outbreak of 
+typhoid fever caused by Salmonella typhi.
+________
+PRODUCT
+World Classic brand Frozen Raw Shrimp, in 16 ounce plastic bags.
+The following counts are involved: 26/30 count; 16/20 count, 
+36/40 count and 51/60 count.  Recall #F-344-9.
+CODE
+Not Coded.
+MANUFACTURER
+TOPCO Associates, Skokie, Illinois (own-label distributor);
+Mid-Pacific Seafoods, Vernon, California (repacker).
+RECALLED BY
+Penn-Traffic Company, Inc., Syracuse, New York, by telephone and 
+fax dated November 20, 1998.  Completed recall resulted from 
+sample analysis and follow-up by the New York State Department of 
+Agriculture and Markets.
+DISTRIBUTION
+New York, Ohio, Pennsylvania, West Virginia.
+QUANTITY
+Quantities received and retrieved/returned are as follows:
+16/20 count:   Received 7,500 bags
+Returned 3,139 bags (43% retrieved)
+26/30 count:   Received 3,000 bags
+Returned 2,258 bags (75% retrieved)
+36/40 count:   Received 38,000 bags
+Returned 23,309 bags (61% retrieved)
+51/60 count:   Received 45,000 bags
+Returned 25,949 bags (58% retrieved).
+REASON
+Product contained undeclared sulfites.
+________
+PRODUCT
+Frozen Mamey in 14 ounce retail packages.  Recall #F-348-9.
+CODE
+All product on the market at the time of the recall.
+MANUFACTURER
+Coco, S.A., La Escuadrilla, Guatemala.
+RECALLED BY
+L & J General International, Miami, Florida, by visit and by 
+letter hand delivered or faxed on or about March 11, 1999.  
+Firm-initiated recall ongoing.  See also FDA talk paper T99-11 
+dated February 20, 1999, and FDA press release P99-6 dated March 
+8, 1999.
+DISTRIBUTION
+Florida, New York, Georgia, Ohio, North Carolina.
+QUANTITY
+Approximately 3,104 cases were distributed.
+REASON
+Product was epidemiologically associated with an outbreak of 
+typhoid fever caused by Salmonella typhi.
+
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS II
+________
+PRODUCT
+Senor Murphy Candymakers brand Caramel Corn with Nuts, packaged 
+in 8 ounce clear cellophane bags.  Recall #F-345-9.
+CODE
+None.
+MANUFACTURER
+Senor Murphy Candymakers, Inc., Santa Fe, New Mexico.
+RECALLED BY
+Manufacturer.  All product was pulled from the stores and from 
+the manufacturing site.  Firm-initiated recall complete.
+DISTRIBUTION
+New Mexico.
+QUANTITY
+Firm estimates none remains on the market.
+REASON
+Product did not bear an ingredient statement and contains 
+peanuts, pecans and pine nuts.
+________
+PRODUCT
+Ultrameal Natural Country Peach Flavor, a powdered beverage 
+product, in 22.2 ounce jars.  Recall #F-346-9.
+CODE
+0119038.
+MANUFACTURER
+HealthComm International, Inc., Gig Harbor, Washington.
+RECALLED BY
+Manufacturer, by telephone on or about April 1, 1999, followed by 
+letter.  Firm-initiated recall ongoing.
+DISTRIBUTION
+New Hampshire, Florida, Minnesota, Oklahoma, Colorado.
+QUANTITY
+2,922 jars were distributed.
+REASON
+Product contains undeclared dairy ingredients.
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+________
+PRODUCT
+Nestle Carnation Follow-Up Infant Formula, intended for babies, 4 
+months of age or older who are eating cereal and other baby 
+foods, in 32 fluid ounce cans.  Recall #F-332-9.
+CODE
+Order         Consumer      Case Production     Can Production
+Unit Code     Unit Code     Code                Code
+50000-12101   50000-12001   8196EW3448          8196EWFR3448
+50000-12101   50000-12001   8196EW3449          8196EWFR3449.
+MANUFACTURER
+Nestle Food Company, Nutritional Products Division, Eau Claire, 
+Wisconsin.
+RECALLED BY
+Nestle USA, Inc., Glendale, California, by sales bulletin, and by 
+telephone and/or visit beginning March 3, 1999.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Nationwide and Guam.
+QUANTITY
+12,651 cases (6 cans per case) were distributed.
+REASON
+Product has a lumpy, curdled appearance.
+________
+PRODUCT
+Greer brand Applesauce, in 16 ounce metal cans.  Recall #F-347-9.
+CODE
+FJ7XAH and FJ8XAH.
+MANUFACTURER
+McCall Farms, Inc., Effingham, South Carolina.
+RECALLED BY
+Manufacturer, by visit on or about February 25, 1999.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Georgia, North Carolina, South Carolina.
+QUANTITY
+25,225 cases of code FJ7XAH and 40,440 cases of code FJ8XAH were
+manufactured and distributed; firm estimated that 10-20% remained
+in retail stores at time of recall initiation.
+REASON
+Product is held in detinned cans.
+
+RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS I
+________
+PRODUCT
+GH Release Oral Liquid (2-(3H)- Furanone dihydro), OTC in 32 
+fluid ounce bottles.  Recall #D-185-9.
+CODE
+All lot codes.
+MANUFACTURER
+Phillips Pharmatech Labs, Inc., Largo, Florida.
+RECALLED BY
+Oxygen Performance, Inc., also known as FURY, Clearwater, 
+Florida, by letters on February 1 and 22, 1999.  Firm-initiated 
+recall ongoing.  See also FDA talk paper T99-5 dated January 21, 
+1999.
+DISTRIBUTION
+California, Florida, Georgia, Alabama, Iowa.
+QUANTITY
+2,500 bottles were distributed.
+REASON
+Product is an unapproved new drug.
+________
+PRODUCT
+GH Revitalizer Oral Liquid (2-(3H)- Furanone dihydro), OTC in 32 
+fluid ounce bottles, labeled for use for bodybuilding and sleep 
+purposes.  Recall #D-186-9.
+CODE
+All lot codes.
+MANUFACTURER
+GH Revitalizer, also known as HI-IR Industries, Orange Park, 
+Florida.
+RECALLED BY
+Manufacturer, by letter dated February 9, 1999.  Firm-initiated 
+recall ongoing. See also FDA talk paper T99-5 dated January 21, 
+1999.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+Approximately 3,600 bottles were distributed; firm estimates none 
+remains on the market.
+REASON
+Product is an unapproved new drug.
+
+RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS II
+________
+PRODUCT
+Oxygen USP, Rx in cryogenic home vessels.  Recall #D-173-9.
+CODE
+Serial numbers:  93040130 and 93041441.
+MANUFACTURER
+Health First, Richmond, Virginia.
+RECALLED BY
+Manufacturer, by telephone on December 14, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Virginia.
+QUANTITY
+2 vessels were distributed.
+REASON
+Current good manufacturing practice deficiencies including 
+failure to perform potency assays.
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+________
+PRODUCT
+Liothyronine Sodium, USP, bulk powder, Rx, packaged in 250 mg, 
+1g, and 5g units, for further manufacture or prescription 
+compounding by pharmacies.  Recall #D-187-9.
+CODE
+Lot numbers: ML0014, NJ0033, NF0248, and NF0301.
+MANUFACTURER
+Medisca, Inc., Plattsburgh, New York (domestic supplier bulk 
+drug); Topchem S.R.L., Milano, Italy (foreign bulk drug 
+supplier).
+RECALLED BY
+Spectrum Quality Products, Gardena, California, by certified mail 
+and telephone beginning March 9, 1999.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+California, Connecticut, Idaho, Illinois, Indiana, Louisiana, 
+Maryland, Montana, New Mexico, New York, Texas, Utah, Wisconsin.
+QUANTITY
+13 250-mg bottles; 11 1-g bottles; 2 5-g bottles were 
+distributed.
+REASON
+Misbranded - Product is actually levothyroxine not 
+liothyronine sodium as labeled 
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+________
+PRODUCT
+Platelets, Pheresis.  Recall #B-650-9.
+CODE
+Unit numbers: 16340-6977-01, 16340-6977-02, 16342-6440-02, 
+16342-6405, 16342-6445-01, 16342-6448-01, 16342-6502-01, 
+16342-3615-01, 16344-3679-01, 16344-3679-02, 16344-3683-01, 
+16344-3678-02, 16344-3709, 16344-3678-01.
+MANUFACTURER
+Blood Systems, Inc., Meridian, Mississippi.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by telephone on 
+September 15, 1998, and by letter dated October 7, 1998.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Mississippi.
+QUANTITY
+14 units were distributed.
+REASON
+Blood products either had an unacceptable platelet count or a 
+high white blood cell count.
+________
+PRODUCT
+Autologous Frozen Red Blood Cells.  Recall #B-651-9.
+CODE
+Unit #04FS92390.
+MANUFACTURER
+American Red Cross Blood Services, Dedham, Massachusetts.
+RECALLED BY
+Manufacturer, by telephone on August 13, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Massachusetts.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was labeled with an extended expiration date.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Recovered Plasma.
+Recall #B-664/666-9.
+CODE
+Unit #5033126.
+MANUFACTURER
+BloodCare, doing business as Carter BloodCare, Dallas, Texas.
+RECALLED BY
+Manufacturer, by letter dated October 20, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Texas and Switzerland.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were distributed after receipt of information 
+concerning a post donation illness.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-667-9.
+CODE
+Unit #21GK99343.
+MANUFACTURER
+American Red Cross Blood Services, Dedham, Massachusetts.
+RECALLED BY
+Manufacturer, by telephone on September 21, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Massachusetts.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who subsequently tested 
+repeatedly reactive for anti-HTLV-I/II, was not quarantined, and 
+was distributed after receipt of the information.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-669-9.
+CODE
+Unit #40GE33944.
+MANUFACTURER
+American Red Cross Blood Services, Peoria, Illinois.
+RECALLED BY
+Manufacturer, by letter dated February 26, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Illinois.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who traveled to an area 
+considered endemic for malaria.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Fresh Frozen Plasma;
+d) Source Leukocytes; e) Recovered Plasma.  Recall #B-670/674-9.
+CODE
+Unit numbers: a) 18S81283, 18FR23122, 18FS17582, 18R92419, 
+18R90177, 18FR13960, and 18FR12412; b) 18FR23122 and 18R90177;
+c) 18FR23122 and 18R92419; d) 18R90177; e) 18S81283, 18FS17582, 
+18R90177.
+MANUFACTURER
+American Red Cross Blood Services, Lansing, Michigan.
+RECALLED BY
+Manufacturer, by letters dated September 25 and 29, 1998, October 
+7 and 28, 1998, or by telephone on October 19, 1998.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Pennsylvania, Massachusetts, Michigan, New Jersey.
+QUANTITY
+a) 7 units; b) 2 units; c) 2 units; d) 1 unit; e) 3 units were 
+distributed.
+REASON
+Blood products were collected from a donor taking the drug, 
+Methotrexate.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-675-9.
+CODE
+Unit numbers: H25283 and H32924.
+MANUFACTURER
+Regional Health Resource Center, Community Blood Services, 
+Urbana, Illinois.
+RECALLED BY
+Manufacturer, by telephone on December 18, 1998, and by letter 
+dated January 28, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Illinois.
+QUANTITY
+2 units were distributed.
+REASON
+Blood products were collected from a donor who reported travel to 
+an area designated as endemic for malaria.
+________
+PRODUCT
+Source Plasma.  Recall #B-676-9.
+CODE
+Unit #0490169765.
+MANUFACTURER
+NABI BioMedical Center, Grand Prairie, Texas.
+RECALLED BY
+NABI, Boca Raton, Florida, by fax on November 4, 1998.  
+Firm-initiated recall complete.
+DISTRIBUTION
+North Carolina.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood products were collected from a donor who had been 
+incarcerated.
+________
+PRODUCT
+Source Plasma.  Recall #B-677-9.
+CODE
+Unit numbers:  0200192598, 0200192775, 0200193822.
+MANUFACTURER
+NABI BioMedical Center, Norman, Oklahoma.
+RECALLED BY
+NABI, Boca Raton, Florida, by fax on November 6, 1998 and 
+February 2, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Germany.
+QUANTITY
+3 units were distributed.
+REASON
+Blood products were collected from a donor who had been 
+deferred for high risk behavior.
+________
+PRODUCT
+Platelets, Pheresis, Leukocytes Reduced.  Recall #B-680-9.
+CODE
+Unit numbers: 4605949, 6700380, 6700378.
+MANUFACTURER
+LifeSource, Glenview, Illinois.
+RECALLED BY
+Manufacturer, by telephone on November 11, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Illinois.
+QUANTITY
+3 units were distributed.
+REASON
+Blood products were collected using an unvalidated instrument, 
+and were not properly tested for white blood cell counts.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-681-9.
+CODE
+Unit #50G60992.
+MANUFACTURER
+American Red Cross Blood Services, Toledo, Ohio.
+RECALLED BY
+Manufacturer, by letter dated February 22, 1999.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Ohio.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was mislabeled as CMV antibody negative.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-682-9.
+CODE
+Unit #16LP01429.
+MANUFACTURER
+American Red Cross Blood Services, Columbus, Ohio.
+RECALLED BY
+Manufacturer, by telephone on June 24, 1998.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Ohio.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected in a manner that compromised the 
+sterility of the unit.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+________
+PRODUCT
+Red Blood Cells.  Recall #B-668-9.
+CODE
+Unit numbers: 40GC36273 and 40LZ05383.
+MANUFACTURER
+American Red Cross Blood Services, Peoria, Illinois.
+RECALLED BY
+Manufacturer, by telephone on February 26, 1999, followed by 
+letter dated March 4, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Illinois.
+QUANTITY
+2 units were distributed.
+REASON
+Blood products were leukoreduced by filtration greater than five 
+days after collection.
+________
+PRODUCT
+Platelets, Pheresis.  Recall #B-678-9.
+CODE
+Unit #LN03458.
+MANUFACTURER
+LifeSource, Glenview, Illinois.
+RECALLED BY
+Manufacturer, by telephone on October 1, 1998. 
+Firm-initiated recall complete.
+DISTRIBUTION
+Illinois.
+QUANTITY
+1 unit was distributed.
+REASON
+A unit of Platelets, Pheresis was incompatible by crossmatch and 
+was labeled as compatible and distributed for transfusion.
+________
+PRODUCT
+Red Blood Cells, Leukocytes Reduced.  Recall #B-679-9.
+CODE
+Unit #H50049.
+MANUFACTURER
+Northern Illinois Blood Bank, Rockford, Illinois.
+RECALLED BY
+Manufacturer, by letter dated January 25, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Illinois.
+QUANTITY
+1 unit was distributed.
+REASON
+Red Blood Cells, leukoreduced by filtration greater than five 
+days past the time of collection, were distributed for 
+transfusion.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-684-9.
+CODE
+Unit numbers: 4755223, 4757802, 4760212, 8947389, 8941844, 
+8385131, 8357717, 4761542, 8385143, 8358587, 8358138, 4757752, 
+8947349, 8357627, 8941851, 8357645, 4760139, 8947350, 8947356, 
+8359836, 8947347, 8382997.
+MANUFACTURER
+New York Blood Services, New York, New York.
+RECALLED BY
+Manufacturer, by telephone on September 13, 1998.  
+Firm-initiated recall complete.
+DISTRIBUTION
+New York and New Jersey.
+QUANTITY
+22 units were distributed.
+REASON
+Blood product may have been shipped at unacceptable temperatures.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+_____
+PRODUCT
+Integris Family of X-ray Controls and Generators, general purpose 
+fluoroscopy, urology, cardiology and interventional studies:
+a) Integris H 1000; b) Integris H 3000; c) Integris BH 3000;
+d) Integris HM 2000; e) Integris HM 3000; f) Integris H 5000F;
+g) Integris H 5000C; h) Integris BH 5000; i) PolyDiagnost H;
+j) Integris V 3000; k) Integris BV/BN 3000; l) Integris V 4000;
+m) Integris V 5000.  Recall #Z-748/760-9.
+CODE
+See model numbers above.
+MANUFACTURER
+Phillips Medical Systems, Shelton, Connecticut.
+RECALLED BY
+Manufacturer.  FDA approved the firm's corrective action plan on 
+April 6, 1999.  Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+1,086 units were distributed.
+REASON
+The diagnostic X-ray devices were found defective under the 
+Federal performance standard for diagnostic X-ray systems and 
+their major components. The defect occurs when the system is 
+driven to maximum EER and the source to image receptor distance 
+(SID) is moved to a shorter distance while continuing to make 
+exposures.  In this manner of operation, the output may exceed 10 
+R/min because the software will not update the output until the 
+exposure control is released.  Therefore, the system is in 
+violation of the EER limits of the standard (21 CFR 1020.32(d) 
+and (e)).
+________
+PRODUCT
+Tutoplast Process Dura Mater, either under the Pfrimmer-Viggo or 
+Biodynamics International label, all sizes.  This tissue product is 
+a solvent dehydrated, gamma-irradiated preserved human dura mater, 
+indicated for use in neurosurgical applications. 
+Recall #Z-800-9.
+CODE
+All sizes and all lots which bear an expiration date before April 
+1999.
+MANUFACTURER
+Tutogen Medical US, Inc., formerly known as Biodynamics 
+International US, Inc., Alachua, Florida.
+RECALLED BY
+Manufacturer, by letter faxed on March 12, 1999.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+New Hampshire, Florida, California, Pennsylvania, Minnesota, Iowa, 
+Ohio, Utah, Oregon, Michigan, Maryland, Texas, Arizona, Tennessee, 
+Illinois, New York, Colorado, Washington state.
+QUANTITY
+Undetermined.
+REASON
+Patients may potentially contract Creutzfeld-Jacob Disease (CJD) 
+from an implanted piece of dura mater contaminated with the CJD 
+prions.  The CJD can be due to inadequate donor screening and/or 
+handling procedures by the German firm Pfrimmer-Viggo.
+________
+PRODUCT
+Venturi Ventilator, used to provide a software that continously 
+adapts to the patient's changing breathing demands and assures 
+ventilation at the lowest pressure. The display monitor provides 
+pertient patient parameters and waveforms.   Recall #Z-802-9.
+CODE
+Serial numbers: 970192, 970190, 970154, 970164, 970169, 970172, 
+970138, 970161, 970163, 970185, 970176, 970174, 970173, 970166, 
+970184, 970186, 970199, 970175, 970171, 970170, 970168, 970165.
+MANUFACTURER
+Cardiopulmonary Corporation, Milford, Connecticut.
+RECALLED BY
+Manufacturer, by letter on February 23, 1998, followed by visit. 
+ Firm-initiated recall complete.
+DISTRIBUTION
+England.
+QUANTITY
+22 units were distributed.
+REASON
+Display monitor may go blank due to faulty inverter.
+________
+PRODUCT
+Venturi Ventilator, provides a software that continuously adapts 
+to the patient's changing breathing demands and assures 
+ventilation at the lowest pressure.  Recall #Z-803-9.
+CODE
+Venturi Ventilator with Software Revision C.  Serial #970222.
+MANUFACTURER
+Cardiopulmonary Corporation, Milford, Connecticut.
+RECALLED BY
+Manufacturer, by letter on May 18, 1998.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+England.
+QUANTITY
+1 unit was distributed.
+REASON
+Software error may cause ventilator to deliver more than set 
+tidal volume.
+________
+PRODUCT
+I-125 RAPID Strand I-125 Seeds spaced within a Vicryl absorbable 
+suture for permanent interstitial implantation of selected 
+localized tumors for treatment of prostate cancer or unresectable 
+tumors.  Recall #Z-804-9.
+CODE
+Model 7000, sales order 529590, lot P9030B.
+MANUFACTURER
+Medi-Physics, Inc., Arlington Heights, Illinois.
+RECALLED BY
+Nycomed Amersham Imaging, Princeton, New Jersey, by telephone on 
+March 5, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Missouri.
+QUANTITY
+5 strands (50 seeds) were distributed.
+REASON
+Product was mislabeled with wrong activity range.
+________
+PRODUCT
+I-125 Seeds, a welded titanium capsule containing Iodine-125 
+adsorbed onto a silver rod.  Recall #Z-805-9.
+CODE
+Model 6711, Sales Order 472261, lot E1782.
+MANUFACTURER
+Medi-Physics, Inc., Arlington Heights, Illinois.
+RECALLED BY
+Nycomed Amersham Imaging, Princeton, New Jersey, by telephone on 
+October 1, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Missouri and Florida.
+QUANTITY
+70 seeds were distributed.
+REASON
+Product was mislabeled with wrong activity range.
+
+END OF ENFORCEMENT REPORT FOR APRIL 21, 1999. 
+
+####

@@ -1,0 +1,697 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Apr
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      39 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+04/23/1991    
+
+FDA Enforcement for the week of April 24, 1991
+
+
+
+                            FDA ENFORCEMENT REPORT
+                              FOR APRIL 24, 1991
+
+                                                           April 24, 1991 
+Recalls and Field Corrections:
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  Product will cause serious adverse health consequences or 
+                  death.
+
+                                     NONE 
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the 
+                  probability of serious adverse health consequences is 
+                  remote. 
+
+
+Product:          Various cases of bread dough: 
+                  1.  White Bread Dough;
+                  2.  Raisin Bread Dough; 
+                  3.  French Bread Dough; 
+                  4.  Italian Bread Dough;
+                  5.  White Bread Dough 18 oz.; 
+                  6.  Submarine Roll Dough; 
+                  7.  Hoagie Rolls; 
+                  8.  Deluxe Hamburger Roll Dough;
+                  9.  Potato Roll Dough;
+                  10. Vienna Roll Dough;
+                  11. French Roll Dough;
+
+                                      -1- 
+
+
+
+
+
+
+                  12.  Crusty Kaiser Roll Dough;
+                  13.  Meltaway Sweet Roll Dough; 
+                  14.  Petite Cinnamon Sweet Roll Dough;
+                  15.  Hot Cross  Bun Dough;
+                  16.  Natural Grain Bread Dough; 
+                  17.  Petite French  French Roll Dough;
+                  18.  Donut Shell Dough; 
+                  19.  French Baguette Dough; 
+                  20.  Deluxe Baguette Bread Dough; 
+                  21.  Deluxe Sandwich Bun Dough; 
+                  22.  Coney Island Bun Dough;
+                  23.  Butter & Egg Dinner Roll Dough;
+                  24.  Rye Dinner Roll Dough; 
+                  25.  Pumpernickel Dinner Roll Dough;
+                  26.  F.S. 6 oz. White Bread Dough;
+                  27.  Family Pack Dough; 
+                  28.  Pizza Dough Medium;
+                  29.  Onion Roll Dough;
+                  30.  Super Rite Kaiser Roll Dough;
+                  31.  Cinnamon Loaf Dough; 
+                  32.  Mini Italian Bread Dough;
+                  33.  Mini Raisin Bread Dough; 
+                  34.  Pizza Dough; 
+                  35.  In-Store Bakery Onion Roll Dough;
+                  36.  Wheat Hamburger Bun Dough; 
+                  37.  Hoagie Roll Dough; 
+                  38.  Submarine Roll Dough.  Recall #F-315/352-1.
+Code:             Product Code      Date Code 
+                  1.  01564         1030
+                      01564         1029
+                  2.  03025         1031
+                  3.  03033         1031
+                      03033         1032
+                      03033         1028
+                  4.  03041         1029
+                      03041         1032
+                  5.  03068         1028
+                  6.  03148         1031
+                      03148         1026
+                  7.  03199         1032
+                  8.  03210         1028
+                  9.  03228         1029
+                 10.  03236         1026
+                 11.  03295         1030
+                 12.  03412         1029
+                      03412         1028
+                 13.  03420         1031
+                 14.  03480         1031
+                 15.  03498         1030
+                 16.  03500         1032
+                 17.  03543         1026
+                 18.  03623         1030
+                 19.  03885         1031
+
+                                      -2- 
+
+
+
+
+
+                 20.  03893         1028
+                 21.  04087         1026
+                 22.  04095         1032
+                 23.  04280         1031
+                 24.  04298         1032
+                 25.  04319         1032
+                 26.  06154         1030
+                 27.  06699         1028
+                 28.  06752         1032
+                 29.  06998         1028
+                 30.  07851         1029
+                 31.  08969         1030
+                 32.  10225         1032
+                 33.  10831         1031
+                 34.  11236         1029
+                 35.  11252         1028
+                 36.  11308         1031
+                 37.  12010         1031
+                 38.  12028         1031. 
+Manufacturer:     Rich Products Corporation, Winchester, Virginia.
+Recalled by:      Rich Products, Inc., Buffalo, New York, by telephone
+                  and by letter February 6 & 7, 1991.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Virginia, West Virginia, Maryland, New York, Indiana, 
+                  Pennsylvania. 
+Quantity:         47,844 cases of the various products were distributed;
+                  firm estimates none remains on the market.
+Reason:           Product is contaminated with brass shavings.
+
+                                     ---- 
+
+Product:          Fresh unlabeled bulk eggplant, in 30 pound cases. 
+                  Recall #F-353-1.
+Code:             Not coded.
+Manufacturer:     Dubois Farms, Inc., Boynton Beach, Florida (grower).
+Recalled by:      A. Duda and Sons, Inc., Belle Glade, Florida, by
+                  telephone March 15, 1991.  Firm-initiated recall ongoing. 
+Distribution:     Louisiana New York. 
+Quantity:         41 cases were distributed.
+Reason:           Product contains illegal pesticide residues.
+
+                                     ---- 
+
+Product:          Pudding and pie filling, 3-1/2 ounces and 5-1/8 ounces: 
+                  Jell-O Cook'n Serve Pudding and Pie Fillings -
+                  (a) Chocolate Flavor; (b) Milk Chocolate Flavor;
+                  (c) Chocolate Fudge Flavor; 
+                  Jell-O Instant Pudding and Pie Filling -
+                  (d) Chocolate Flavor; (e) Milk Chocolate Flavor;
+                  (f) Chocolate Fudge Flavor.  Recall #F-354/359-1. 
+
+                                      -3- 
+
+
+
+
+
+Code:             Lot numbers                      Date Code
+                  (a) 1032S1D, 1032S1E, 1032S1F    1 Feb 91 (5-1/2 oz)
+                  1036S1, 1036S2                   5 Feb 91 (3-1/2 oz)
+                  1039S1D, 1039S1E, 1039S1F 
+                  1039S2D, 1039S2E, 1039S2F        8 FEB 91 (5-1/8 oz)
+                  1042S1D, 1042S1E, 1042S1F,
+                  1042S2D, 1042S2E, 1042S2F        11 FEB 91 (5-1/8 oz) 
+                  (b) 1033S1, 1033S2               2 FEB 91 (3-1/2 oz)
+                      1035S1, 1035S2               4 FEB 91 (3-1/2 oz)
+                  (c) 1035S1, 1035S2               4 FEB 91 (3-1/2 oz)
+                  (d) 1037S1D, 1037S1E, 1037S1F 
+                      1037S2D, 1037S2F             6 FEB 91S (5-1/8)
+                      1038S1, 1038S2               7 FEB 91S (3-1/2)
+                  (e) 1037S1, 1037S2               6 FEB 91S (3-1/2 oz) 
+                      1043S1                       12 FEB 91 (3-1/2 oz) 
+                  (f) 1038S1D, 1038S1E, 1038S1F 
+                      1038S2D, 1038S2E, 1038S2F    7 FEB 91S 5-1/8 oz 
+Manufacturer:     General Foods USA, San Leandro, California. 
+Recalled by:      General Foods USA White Plains, New York, by letters
+                  of March 15 and 19, 1991.  Firm-initiated recall ongoing. 
+Distribution:     California, Texas, Arizona, Nevada, Hawaii, Oregon, 
+                  Washington state, Colorado, New Mexico, Utah, Montana,
+                  Idaho.
+Quantity:         Approximately 5,200 cases (24 packages/case) were 
+                  distributed.
+Reason:           The product is contaminated with metal fragments. 
+
+                                     ---- 
+
+                  Class III - A situation in which the use of, or exposure
+                  to a violative product is not likely to cause adverse 
+                  health consequences.
+
+                                     NONE 
+
+                                   COSMETICS
+
+                                     NONE 
+
+                           HUMAN DRUGS AND BIOLOGICS
+
+                                     NONE 
+
+                         MEDICAL DEVICES AND RADIOLOGY
+
+                  Class I - 
+                                     NONE 
+                  Class II -
+
+Product:          Disposable Flow Probes for Bio-Probe Disposable Blood 
+                  Flow Monitoring Systems Models DP-38 (adult insert);
+                  and DP-38P (pediatric insert), pre-sterilized,
+                  disposable electrodes for precise blood flow measure- 
+                  ments.  Recall #Z-447/448-1.
+
+                                      -4- 
+
+
+
+
+
+Code:             All serial numbers for both products. 
+Manufacturer:     Medtronic Bio-Medicus, Eden Prairie, Minnesota. 
+Recalled by:      Manufacturer, by letter January 21, 1991.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         Approximately 275,000 inserts were distributed; firm
+                  estimated 8,000 units remained on market at time of recall. 
+Reason:           Product sterility has been compromised as evidenced by
+                  loss of package integrity.
+
+                                     ---- 
+
+Product:          Burdick E550 Interpretive Electrocardiograph. 
+                  Recall #Z-449-1.
+Code:             All units with software revision 3.16. Units with 
+                  serial numbers of 55364 and greater are not affected. 
+Manufacturer:     Siemens-Burdick, Milton, Wisconsin. 
+Recalled by:      Manufacturer, by memorandum dated August 12, 1990.
+                  Firm-initiated field correction ongoing.
+Distribution:     Nationwide and Canada.
+Quantity:         269 units were distributed. 
+Reason:           When the device has a full directory of 45 tracings and 
+                  batch entering of demographics is being performed, new
+                  waveforms being entered into the system may be deleted
+                  instead of the old waveforms already in the directory.
+
+                                     ---- 
+
+Product:          Universal Therapy Table Used in Conjunction with Linear 
+                  Accelerator (SL25 Series).  Recall #Z-451-1.
+Code:             All SL25 series.
+Manufacturer:     Philips Radiotherapy Systems, Crawley, England. 
+Recalled by:      Philips Medical Systems North America, Shelton, Connecticut.
+                  by letter October 9, 1990.  Firm-initiated field
+                  correction ongoing. 
+Distribution:     Nationwide and Canada.
+Quantity:         38 systems were distributed.
+Reason:           A software error may cause the system to detect an
+                  "unauthorized movement" and react by releasing all brakes 
+                  on the table. 
+
+                                     ---- 
+
+Product:          SL25 Series Linear Accelerator.  Recall #Z-452-1. 
+Code:             All SL25 series.
+Manufacturer:     Philips Radiotherapy Systems, Crawley, England. 
+Recalled by:      Philips Medical Systems, North America, Shelton, Connecticut. 
+Distribution:     Nationwide and Canada.
+Quantity:         38 systems were distributed.
+
+                                      -5- 
+
+
+
+
+
+Reason:           Leaks in the ion chamber may cause inaccurate calibration 
+                  which may cause the dose of radiation delivered to the
+                  patient to vary from that prescribed. 
+
+                                     ---- 
+
+Product:          Laser Fiber Adapters, used to connect fiber optic 
+                  delivery probe to surgical laser. 
+                  Model numbers: (a) 90-1460; (b) 90-1461; (c) 90-8000; 
+                  (d) 90-2100; (e) 90-5330; (f) 90-5370; (g) 90-5380; 
+                  (h) 90-5382Recall #Z-482/489-1. 
+Code:             Serial numbers:  Unknown. 
+Manufacturer:     Surgimedics/SLP, The Woodlands, Texas.
+Recalled by:      Manufacturer.  FDA approved the firm's corrective action
+                  plan April 28, 1991.  Firm-initiated field correction 
+                  ongoing.
+Distribution:     Nationwide. 
+Quantity:         126 units were distributed. 
+Reason:           Noncompliance with the performance standard for laser 
+                  products in that the adaptors permanently defeated required 
+                  fiber cable interlock on the host cable on the system.
+
+                                     ---- 
+
+Product:          Schneider Softrac-PTA (Percutaneous Transluminal Anioplasty)
+                  Catheters 5.6 French: 
+                  (a) Model P506-495, 6 mm x 4 cm;
+                  (b) Model P506-095, 6 mm x 10 cm.  Recall #Z-497/498-1. 
+Code:             Lot numbers:  (a) LNC902501; (b) LNJ902401. 
+Manufacturer:     Schneider (USA), Inc., Plymouth, Minnesota. 
+Recalled by:      Manufacturer, by letter February 5, 1991.  Firm-initiated 
+                  recall complete.
+Distribution:     Nationwide and Canada.
+Quantity:         (a) 58 units; (b) 26 units were distributed.
+Reason:           Some units were labeled with the wrong balloon size.
+                  During reworking the labeling these two lots were 
+                  mixed up so that some catheters labeled as having a 
+                  6 mm x 4 cm balloon actually have 6 mm x 10 cm balloon. 
+
+                                     ---- 
+
+Product:          Ultraclam, Electronic Dental Anesthesia Device, an
+                  Rx device intended for the relief of pain during
+                  dental operative procedures.  Recall #-Z-512-1. 
+Code:             Serial numbers:  001314, 001315, and 101319.
+Manufacturer:     Sion Technology, Inc., Aurora, Colorado.
+Recalled by:      Manufacturer, by telephone February 15, 1991 followed by
+                  letter February 18, 1991.  Firm-initiated recall complete.
+Distribution:     California and Colorado.
+Quantity:         3 units were distributed. 
+Reason:           The device was distributed without an approved 510(k).
+
+                                     ---- 
+
+                                      -6- 
+
+
+
+
+
+Product:          Sterile Bio-Medicus Venous Femoral Cannula, 23, 25, 27, and 
+                  29 French sizes, a sterile, single-packed product used
+                  primarily during open heart surgery reoperation.
+                  Recall #Z-513/516-1.
+Code:             Product #96350 -- All lots. 
+Manufacturer:     Bio-Medicus, Inc., Eden Prairie, Minneasota.
+Recalled by:      Manufacturer, by letter January 7, 1991.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         1,664 units were distributed. 
+Reason:           The sterility of the device may be compromised by abrasion
+                  of the Tyvek or Mylar near the connector. 
+
+                                     ---- 
+
+Product:          COBE Spectra Apheresis Machine, a microprocessor- 
+                  controlled device intended to separate and collect
+                  blood components from both donors and patients: 
+                  (a) Pump Rotor System; (b) Stand Alone Pump Rotor.
+                  Recall #Z-518/519-1.
+Code:             (a) Catalog numbers 950000-000, 950000-001, 950000-002, 
+                  950000-003, 950000-004, 950000-005 -- Serial numbers: 
+                   1S00028 through 1S00618; 
+                  (b) Part #700536002 -- All serial numbers.
+Manufacturer:     Cobe Blood Component Technology (BCT), Inc., Lakewood,
+                  Colorado. 
+Recalled by:      Manufacturer, by memorandum March 14, 1991 and by letters 
+                  March 20, 1991.  Firm-initiated recall ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         (a) 590 units were distributed; (b) Undetermined. 
+Reason:           The pump rotors have been found to have the following 
+                  potential failure modes which can lead to partial or
+                  complete loss of pump tubing occlusion, resulting in
+                  over-delivery or under-delivery of blood components 
+                  depending on the location of the failed rotor:  (1) an
+                  occlusion spring may break; (2) the rotor arm movement may
+                  be misadjusted; and (3) the roller may become dislodged from
+                  its seat in the roller arm. 
+
+                                     ---- 
+
+Product:          SIA Data Plus Microplate Software, Catalog #S2272,
+                  computer software for immunoassay diagnoses.
+                  Recall #Z-553-1.
+Code:             None. 
+Manufacturer:     Sigma Diagnostic, St. Louis, Missouri.
+Recalled by:      Manufacturer, by telephone between May 4 and 10, 1990 
+                  followed by letter June 26, 1990.  Firm-initiated field 
+                  correction ongoing. 
+Distribution:     Michigan, California, Utah, New York, Pennsylvania, Canada. 
+Quantity:         8 discs were distributed. 
+Reason:           Program software errors yielded erroneous laboratory test 
+                  results.
+                                     ---- 
+
+                                      -7- 
+
+
+
+
+
+Product:          OEC-Diasonics X-Ray Imaging Table Model UroView 2000, 
+                  an integrated X-ray imaging and patient positioning 
+                  system for use in a variety of urological diagnostic
+                  and surgical applications. Recall #Z-556-1. 
+Code:             Serial numbers:  T2-2001,  T2-2002, T2-2004, T2-2005, 
+                  T9-2001 through T9-2004; T9-2006 through T9-2019; T9-2021 
+                  through T9-2026, T2/T9-2027, T9-2028 through T9-2032, 
+                  T9-2034 thru T9-2036. 
+Manufacturer:     OEC Diasonics, Salt Lake City, Utah.
+Recalled by:      Manufacturer, by Field Service Bulletin dated November 2, 
+                  1990.  Firm-initiated field correction ongoing. 
+Distribution:     Nationwide and Canada.
+Quantity:         38 units were distributed.
+Reason:           The side rail clamp which mounts the accessory leg support
+                  to the table may break
+
+                                     ---- 
+
+                  Class III - 
+
+Product:          Lyme Disease Test Kit.  Recall #Z-454-1.
+Code:             Lot numbers:  KF05069 and KF05071.
+Manufacturer:     Medical Diagnostic Technologies, Inc., Augusta, Georgia.
+Recalled by:      Manufacturer, by telephone June 14, 1990.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Pennsylvania, North Carolina, Florida, New Mexico,
+                  Kentucky, Virginia. 
+Quantity:         13 kits were distributed. 
+Reason:           Due to a new formulation of the conjugate rinse (Reagent C) 
+                  for the bulk test kit, if the user follows the directions 
+                  for use instructions, then all three wells react "positive" 
+                  to include the "negative control" well. 
+
+                                     ---- 
+
+Product:          "ABL" Clostridium Difficile Agar, a selective and 
+                  differential medium used for the primary isolation
+                  and presumptive identification of C. difficile from 
+                  stool samples.  Recall #Z-511-1.
+Code:             Catalog #01293, Lot #FE061 EXP 5/2/90.
+Manufacturer:     Austin Biological Labs, Inc., Austin, Texas.
+Recalled by:      Manufacturer, by telephone April 1990.  Firm-initiated
+                  recall complete.
+Distribution:     Texas, Mississippi. 
+Quantity:         61 packages (10 plates/package) were distributed. 
+Reason:           Product is contaminated with bacteria or mold.
+
+                                     ---- 
+
+
+                                      -8- 
+
+
+
+
+
+Product:          Cobalt 57 Dose Calibrator Source, a gamma source used for 
+                  calibrating ionization chambers mainly in the nuclear 
+                  medicine departments of hospitals.  Recall #Z-520-1.
+Code:             #C057-EGAG90, NO. 1587, Lot #183. 
+Manufacturer:     Cis-Bio-Oris, Sadey, France.
+Recalled by:      Cis-US Inc., Bedford, Massachusetts, by telephone February
+                  4, 1991 followed by letter February 5, 1991.  Firm-initiated
+                  recall complete.
+Distribution:     Nationwide and Canada.
+Quantity:         23 vials were distributed.
+Reason:           The calibration date on the label and calibration 
+                  certificate is incorrect.  The calibration date was 
+                  incorrectly written on the label as "Jan 90", but it
+                  should have been "Jan 91".
+
+                                     ---- 
+
+Product:          K-Y Lubricating Jelly, in 4 ounce clear blister 
+                  packages, used as a lubricant for insertion of medical
+                  instruments as well as a vaginal lubrication. 
+                  Recall #Z-542-1.
+Code:             All codes and expiration dates that are in blister packaging. 
+Manufacturer:     Tama Promotions, Inc., Deer Park, New York. 
+Recalled by:      Manufacturer, by letter mailed on or about February 15, 
+                  1991.  Firm-initiated recall ongoing. 
+Distribution:     New York. 
+Quantity:         Approximately 70,560 units were distributed.
+Reason:           There are no directions for use or warning statements on the
+                  blister package, the expiration date is not visible at
+                  the point of purchase and the packaged product does not 
+                  conspicuously provide the name and address of the 
+                  manufacturer, repacker or distributor.
+
+                                     ---- 
+
+Product:          Sigma Disgnostics Glucose Standard Solution, 10.0 mg/ml 
+                  or 55.5 mmol/l, 100 ml solution in 4 fluid ounce
+                  amber glass vials.  Recall #Z-552-1.
+Code:             Catalog #14-11, Lot numbers: 89F-6105 and 38F-6127. 
+Manufacturer:     Sigma Diagnostics, St. Louis, Missouri. 
+Recalled by:      Manufacturer, by letter February 5, 1990.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         Firm estimates none remains on the market.
+Reason:           Some bottle labels show a concentration of 100 mg/ml
+                  instead of 10.0 mg/ml.
+
+                                     ---- 
+
+                                      -9- 
+
+
+
+
+
+Product:          Sigma Diagnostics (a) Ethanol Control-H (high); 
+                  (b) Ethanol Control-L (low), in-vitro diagnostic kits 
+                  used as a control in the determination of ethyl alcohol,
+                  both kits are packaged 6/2 ml vials per carton. 
+                  Recall #Z-554/555-1.
+Code:             (a) Catalog #E 5258, lot #79F-6094 EXP 8/90;
+                  (b) Catalog #E 5133, lot #79F 6093 EXP 8/90.
+Manufacturer:     Sigma Diagnostics, St. Louis, Missouri. 
+Recalled by:      Manufacturer, by letter February 5, 1990.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         (a) 5,856 vials; (b) 6,024 vials were distributed;
+                  firm estimates none remains on the market.
+Reason:           Both controls were found either at or below the lower 
+                  specified values. 
+
+                                     ---- 
+
+                              VETERINARY PRODUCTS 
+
+                                     NONE 
+
+Medical Device Safety Alerts: 
+
+Product:          Omni-Flow I.V. Pump, Model 4000.  Safety Alert #M-005-1.
+Code:             All units.
+Manufacturer:     Omni Flow, Inc., subsidiary of Abbott Labs., Wilmington,
+                  Massachusetts.
+Alerted by:       Abbott Hospital Products Division, Abbott Park, Illinois, 
+                  by letter November 6, 1990. 
+Distribution:     Nationwide and Canada.
+Quantity:         Approximately 3,800 units were distributed. 
+Reason:           Existance of artifacts in patient monitoring devices, 
+                  such as ECG, EMG and EEG machines may be produced by
+                  electronic noise, (e.g. static electricity) produced by 
+                  the I.V. pump.  These artifacts, if not recognized as such
+                  may lead to an erroneous interpretation of the readings 
+                  from the patient monitoring devices.
+
+                                     ---- 
+
+Product:          Cordis brand Dual Chamber Cardiac Pacers: 
+                  (a) Model 233F, Sequicor II;
+                  (b) Model 415A Gemini (Theta), implantable pacemakers 
+                  which are Class III critical devices. 
+                  Safety Alert #M-013/014-1.
+Code:             Various individually serialized units produced between
+                  1981 and 9184.
+Manufacturer:     Cordis Corporation, Pacing Division, Miami, Florida.
+Alerted by:       Telectronics Pacing Systems, Englewood, Colorado, by
+                  letter February 15, 1991. 
+Distribution:     Nationwide and international
+
+                                     -10- 
+
+
+
+
+
+Qantity:          (a) 1,007 units; (b) 415 units were distributed.
+Reason:           Certain units of listed models may have a reduced service 
+                  life due to premature individual cell depletion.
+
+                                     ---- 
+
+Product:          Cordis brand Stanicor Lambda Model 188A7 Pacemaker, an
+                  implantable, single chamber cardiac pacer.
+                  Recall #M-015-1.
+Code:             Various individually serialized units produced between
+                  1975 and 1978.
+Manufacturer:     Cordis Corporation, Pacing Division, Miami, Florida.
+Alerted by:       Telectronics Pacing Systems, Englewood, Colorado, by
+                  letter February 15, 1991. 
+Distribution:     Nationwide and international. 
+Quantity:         2,942 were distributed. 
+Reason:           Certain listed units of this model may not provide an 
+                  adequate end-of-life indicator, which is due to changes 
+                  in the carbon composition resistor valve.

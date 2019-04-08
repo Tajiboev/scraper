@@ -1,0 +1,742 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  MAR
+		  Jul
+		
+		
+		
+		  
+		  02
+		  
+		
+		
+		
+		  2001
+		  2003
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      30 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DF
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+11/20/1991
+
+Recalls and Field Corrections: November 20, 1991
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  Product will cause serious adverse health consequences or
+                  death.
+
+                                     NONE
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the
+                  probability of serious adverse health consequences is
+                  remote.
+
+                                     NONE
+
+                                      -1-
+                                       
+
+
+
+                  Class III - A situation in which the use of, or exposure
+                  to a violative product is not likely to cause adverse
+                  health consequences.
+
+
+Product:          Individually Quick Frozen Slipper/Lobster, in 5 pound
+                  plastic bags, 6 bags per shipping carton:
+                  (a) Lobster tails, 4-6 ounce size;
+                  (b) Lobster Tail Meat, 1-3 ounce size.  Recall #F-044/045-2.
+Code:             Lot numbers: (a) 47900; (b) 47901.
+Manufacturer:     Sun Wah Marine Products (Far East) Company, Ltd.,
+                  Tun Mun, N.T. Hong Kong.
+Recalled by:      Central Seaway Company, Inc., Northfield, Illinois, by
+                  telephone September 9, 1991 followed by letter
+                  September 24, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         (a) 146 cartons; (b) 715 cartons were distributed;
+                  firm estimates that very little remains on the market.
+Reason:           Product is overglazed (contains excessive ice) and tails
+                  are decomposed.
+                                     ----
+
+Product:          Dyna-Bor Plus, in 1 ounce bottles, a dietary supplement
+                  formulated as a companion to all types of exercise.
+                  Recall #F-046-2.
+Code:             Lot #127880.
+Manufacturer:     Vita Fore Products Company, Ozone Park, New York.
+Recalled by:      Dynamic Power Labs, Inc., Wheeler, Indiana, by letter
+                  July 16, 1991.  Firm-initiated recall complete.
+Distribution:     Indiana, California, New Jersey, Minnesota.
+Quantity:         5,520 bottles were distributed; firm estimates less
+                  than 1 percent of the product remains on the market.
+Reason:           Product is deficient in niacin.
+
+                                     ----
+
+                                   COSMETICS
+
+                                     NONE
+
+                           HUMAN DRUGS AND BIOLOGICS
+
+                  Class I -
+                                     NONE
+                  Class II - 
+
+Product:          Perphenazine and Amitriptyline HCl Tablets, USP 4 mg/10 mg,
+                  in 100 and 500 tablet bottles, a Rx psychotherapeutic agent,
+                  under the following labels:  Mason, Zenith, Schein, Bioline,
+                  Goldline, and H.L. Moore.  Recall #D-037-2.
+Code:             Zenith lot #2938-06 EXP 11/91.
+Manufacturer:     Zenith Laboratories, Inc., Northvale, New Jersey.
+
+                                      -2-
+
+
+
+Recalled by:      Manufacturer, by letters dated September 6, 1991.
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         Approximately 928,500 tablets were distributed; firm
+                  estimates none remains on the market.
+Reason:           Subpotency.
+
+                                     ----
+
+Product:          Fifty-one (51) prescription drug pharmaceutical
+                  products (the total number also includes the number of
+                  strengths for those products with more than one strength);
+                  Recall #D-038/088-2.
+
+(a)  Acetohexamide, USP, 250 mg & 500 mg Tablets, used as an oral
+blood-glucose lowering drug, packaged in bottles of 100 and 200 tablets under
+the following labels:  Aligen, Best, Bioline, Geneva Generics,
+Goldline, PBI, and Rugby.
+
+(b)  Baclofen, USP, 10 mg & 20 mg Tablets, used as muscle relaxant, and
+packaged in bottles of 100 and 250 tablets under the following labels:
+Bioline, Geneva Generics, Goldline, Major, PARMED, PBI, Rugby, Schein, and URL.
+
+(c)  Benztropine Mesylate, USP, 0.5 mg, 1.0 mg, & 2.0 mg Tablets, used as
+an adjunct in therapy of all forms of parkinsonism, and packaged in bottles
+of 100, 500, & 1000 tablets under the following labels:  Aligen, Best, Geneva
+Generics, Major, UDL Laboratories, PARMED, PBI, and Rugby.
+
+(d)  Chlordiazepoxide and Amitriptyline Hydrochloride, USP, 5 mg/12.5 mg &
+10 mg/25 mg Tablets, indicated for treatment of patients with moderate to
+severe depression associated with moderate to severe anxiety, and packaged
+in bottles of 100 & 500 tablets under the following labels: Aligen, Geneva      
+Generics, Major, MARTEC, PBI, and URL.
+
+(e)  Chlorpropamide Tablets, USP, 100 mg & 250 mg Tablets, an oral
+blood-glucose lowering drug, and packaged in bottles of 100, 500, & 1000
+tablets under the following labels:  Best, Lemmon, PBI, and URL.
+
+(f)  Desipramine Hydrochloride, USP, 25 mg, 50 mg, 75 mg, & 100 mg Tablets,
+an antidepressant drug indicated for relief of symptoms in various depressive
+syndromes, and packaged in bottles of 100 & 1000 tablets under the following
+labels:  Aligen, Best, Bioline, Goldline, Lemmon, Major, MARTEC, H.L. Moore,
+PARMED, PBI, Rugby, Schein, and URL.
+
+(g)  Dipyridamole, USP, 25 mg, 50 mg, & 75 mg Tablets, is classified as a
+coronary vasodilator and is packaged in bottles of 100 & 1000 tablets
+under the PBI label.
+
+(h)  Flurazepam Hydrochloride, USP, 15 mg & 30 mg Capsules, a hypnotic agent
+indicated for use as a treatment of insomnia characterized by difficulty in
+falling asleep, and packaged in bottles of 100 & 500 capsules under the
+following labels:  MARTEC, PBI, and URL.
+
+                                      -3-
+
+
+
+(i)  Hydrocodone Bitartrate/APAP, 5 mg/500 mg Tablets, indicated for use in
+relief of moderate to moderately severe pain, and packaged in bottles of 100
+& 500 tablets under the following labels:  Best, Bioline, Geneva Generics,
+Goldline, DuoCet, H.L. Moore, PARMED, PBI, Rugby, and URL.
+
+(j)  Hydroxyzine Hydrochloride, USP, 10 mg, 25 mg, & 50 mg Tablets, is an
+anti-psychotic drug used as a tranquilizer, and packaged in bottles of 100,
+500, & 1000 tablets under the following labels: Best, PARMED, PBI, and Rugby.
+
+(k)  Lorazepam, USP, 1 mg & 2 mg Tablets, an antianxiety agent indicated
+for use in the management of anxiety disorders or for the short-term relief
+of symptoms of anxiety, and packaged in bottles of 100, 500, & 1000 tablets
+under the following labels:  Best & PBI.
+
+(l)  Megestrol Acetate, USP, 20 mg & 40 mg Tablets, indicated for the
+palliative treatment of advanced carcinoma of the breast or endometrium
+(i.e., recurrent, inoperable, or metastatic disease), and packaged
+in bottles of 100, 250, & 500 tablets under the following labels:  Bioline,
+Geneva Generics, Goldline, Major, Mason, H.L. Moore, PARMED, PBI, Qualitest,
+Rugby, Schein, and URL.
+
+(m)  Metaproterenol Sulfate, USP, 10 mg & 20 mg Tablets, indicated for use
+as a bronchodilator for bronchial asthma, and for reversible bronchospasm
+which may occur in association with bronchitis and emphysema, and packaged
+in bottles of 100 tablets under the following labels: Best, Bioline, Genetco,
+Geneva Generics, Goldline, Major, H.L. Moore, PARMED, PBI, Rugby, Schein, and
+URL.
+
+(n)  Methyclothiazide, USP, 5 mg Tablets, indicated for use in the management
+of hypertension, and packaged in bottles of 100 & 1000 tablets under the
+following labels:  Aligen, Best, Bioline, Goldline, Major, Mason, H.L. Moore,
+PBI, Qualitest, Rugby, Schein, and URL.
+
+(o)  Metoclopramide Hydrochloride, USP, 10 mg Tablets, indicated for use as
+an anti-emetic/nauseant drug, and packaged in bottles of 100, 500, &
+1000 tablets under the PBI and URL labels.
+
+(p)  Minoxidil, USP, 2.5 mg Tablets, indicated for use in treatment of
+hypertension, and packaged in bottles of 100 tablets under the
+following labels:  Major, PBI, and Rugby.
+
+(q)  Oxybutynin Chloride, USP, 5 mg Tablets, indicated for use in
+relief of symptoms of neurogenic bladder instability, and packaged in bottles
+of 100 & 1000 tablets under the following labels:  Best, Bioline, Genetco,
+Geneva Generics, Goldline, Major, Mason, H.L. Moore, PARMED, PBI, Rugby,
+Schein, and URL.
+
+(r)  Prazepam, USP, 5 mg & 10 mg Capsules, indicated for the management of
+anxiety disorders, and packaged in bottles of 100 & 500 capsules under the
+following labels:  Aligen, Best, Bioline, Geneva Generics, Goldline, Major,
+MARTEC, Mason, H.L. Moore, PARMED, PBI, Qualitest, Rugby, Schein, and URL.
+
+
+                                      -4-
+
+
+
+
+(s)  Reserpine 0.125 mg/Hydroflumethiazide 50 mg Tablets, anti-hypertensive
+drug indicated for use in lowering blood pressure, and packaged in bottles of
+100, 500, & 1000 tablets under the PBI label.
+
+(t)  Temazepam, 15 mg & 30 mg Capsules, indicated for use in the relief of
+insomnia, and packaged in bottles of 100 & 500 capsules under the following
+labels:  Best, Major, MARTEC, PARMED, and PBI.
+
+(u)  Timolol Maleate, USP, 5 mg, 10 mg, & 20 mg Tablets, indicated for use
+in treatment of hypertension, and packaged in bottles of 100 tablets under the
+following labels:  Best, Bioline, Goldline, Major, Mason, H.L. Moore, PARMED,
+PBI, Qualitest, Rugby, Schein, and URL.
+
+(v)  Tolazamide, USP, 250 mg, & 500 mg Tablets, indicated as an adjunct to
+diet to lower blood glucose in patients, and packaged in bottles of 100 & 500
+tablets under the following labels: MARTEC, PARMED, and PBI.
+
+(w)  Trazodone Hydrochloride, 50 mg & 100 mg Tablets, indicated for use in
+treatment of depression, and packaged in bottles of 100, 500 & 1000 tablets
+under the following labels:  PARMED and PBI.
+
+(x)  Trimipramine Maleate, 25 mg, 50 mg, & 100 mg Capsules, indicated for
+use in symptoms of depression, and packaged in bottles of 100 capsules under
+the following labels:  Best, Geneva Generics, H.L. Moore, PBI, Qualitest,
+Rugby, Schein, and URL.
+
+(y)  Warfarin Sodium, USP, 2 mg, 2.5 mg, & 5 mg Tablets, anticoagulant, and
+packaged in bottles of 100, 250, & 1000 tablets under the following labels:
+Aligen, Best, Genetco, Harber, Lemmon, Major, MARTEC, H.L. Moore, PBI,
+Qualitest, Rugby, and Schein.
+Code:             All lots of affected products manufactured by PBI.
+Manufacturer:     Pharmaceutical Basics, Inc., (PBI), Denver, Colorado
+Recalled by:      Manufacturer, by letter November 12, 1991.  FDA requested
+                  recall ongoing.
+Distribution:     Nationwide, Holland, Istanbul, Phillipines, Thailand.
+Quantity:         Firm estimates 10-15 percent of products remain on
+                  the market.
+Reason:           Lack of assurance of bioequivalency and Abbreviated
+                  New Drug Application discrepancies.
+
+                                     ----
+
+                  Class III -
+
+Product:          Red Blood Cells.  Recall #B-040-2.
+Code:             Unit #5554991.
+Manufacturer:     Naval Hospital Blood Bank, Jacksonville, Florida.
+Recalled by:      Manufacturer, by telephone January 22, 1991.  Firm-initiated
+                  recall complete.
+Distribution:     New Jersey.
+Quantity:         1 unit.
+
+                                      -5-
+
+
+
+Reason:           Blood product, which tested initially reactive for
+                  human immunodeficiency virus type 1 (anti-HIV-1),
+                  was distributed.
+
+                                     ----
+
+Product:          Red Blood Cells.  Recall #B-041-2.
+Code:             Unit #4611334.
+Manufacturer:     Central Florida Blood Bank, Orlando, Florida.
+Recalled by:      Manufacturer, by telephone and by letter dated June 6,
+                  1991.  Firm-initiated field correction (relabeling)
+                  complete.
+Distribution:     Florida.
+Quantity:         1 unit.
+Reason:           Blood component was distributed which was labeled
+                  with an incorrect expiration date.
+
+                                     ----
+
+Product:          (a) Red Blood Cells; (b) Platelets.  Recall #B-043/044-2.
+Code:             Unit numbers: (a) 21G10048, 21G10064, 21G10074
+                  21G10102, 21G10118, 21G10119, 21G10120, 21G10123,
+                  21G10124, 21G10128, 21G10129, 21G10132, 21G10134,
+                  21G10138, 21G10145, 21G10146, 21G10147, 21G10148,
+                  21G10150, 21G10152, 21G10158, 21K07242, 21K07258,
+                  21K07284, 21M72705, 21M72707, 21M72715, 21Q16167,
+                  21Q16168, 21Q16174, 21Q16177, 21Q16178, 21Q16184,
+                  21Q16186, 21Q16187, 21Q16189, 21Q16190, 21Q16195,
+                  21Q16196, 21Q16197, 21Q16199, 21Q16200;
+                  (b) 21M72699, 21M72700, 21M72701, 21M72704, 21M72706,
+                  21M72710, 21M72712, 21M72715, 21M72717, 21M72719.
+Manufacturer:     American Red Cross Services, Portland, Oregon.
+Recalled by:      Manufacturer, by telephone May 22, 1991, followed by
+                  letter May 24, 1991.  Firm-initiated recall ongoing.
+Distribution:     Washington state, West Virginia, Oregon.
+Quantity:         (a) 42 units; (b) 10 units.
+Reason:           Blood products, incorrectly tested for the antibody to
+                  hepatitis C virus (anti-HCV), were distributed.
+
+                                     ----
+
+Product:          Platelets.  Recall #B-045-2.
+Code:             Unit #M43248.
+Manufacturer:     Tacoma-Pierce County Hospital, Tacoma, Washington.
+Recalled by:      Manufacturer, by telephone June 28, 1991.  Firm-initiated
+                  recall complete.
+Distribution:     Washington state.
+Quantity:         1 unit.
+Reason:           Blood component, which was not tested for the antibody
+                  to the hepatitis C virus (anti-HCV), was distributed.
+
+                                     ----
+
+                                      -6-
+
+
+
+
+Product:          Platelets.  Recall #B-048-2.
+Code:             Unit numbers:  20FF14323, 20FF14325, 20FF14327,
+                  20FF14337, 20FF14342, 20FF14343, 20GG20047, 20GG20049,
+                  20GG20050, 20GG20051, 20GG20058, 20GG20065, 20GG20073,
+                  20GG20074, 20GG20079, 20GG20085, 20GG20089, 20GG20090,
+                  20GG20091, 20GG20095, 20GG20102, 20GG20103, 20GG20108,
+                  20GG20109, 20GG20111.
+Manufacturer:     American Red Cross, Boise, Idaho.
+Recalled by:      Manufacturer, by telephone August 15, 1991.  Firm-
+                  initiated recall complete.
+Distribution:     Idaho.
+Quantity:         25 units.
+Reason:           Blood products, labeled with incorrect anticoagulant/
+                  preservative solution, were distributed.
+
+                                     ----
+
+                       DEVICES AND RADIOLOGICAL PRODUCTS
+
+                  Class I -
+
+EXTENSION NOTE:   Ohmeda Logic 07 Ventilators, Non-rebreathing valves
+                  and Black Rubber Membranes, Part No. 6750-0009-200,
+                  which appeared in the July 3, 1991 Enforcement Report,
+                  has been extended to include all units.
+
+                                     ----
+
+                  Class II -
+
+Product:          Neonatal Monitor (part of Athena Infant Monitoring
+                  System), Part #9040.  Recall #Z-046-2.
+Code:             Serial numbers:  Omaha Childrens Hospital -- 10293393,
+                  10294478, 10294670, 10294671, 10294672, 10294758,
+                  10294760, 10294765; South Shore Hospital -- 10294667,
+                  10294668, 10294669, 10294771.
+Manufacturer:     S & W Medico Teknik, Albertslund, Denmark.
+Recalled by:      Air-Shields, Inc., Hatboro, Pennsylvania, by visit
+                  September 20, 1991 and October 25, 1991.  Firm-initiated
+                  field correction complete.
+Distribution:     Nebraska, Massachusetts.
+Quantity:         12 units were distributed and have been corrected.
+Reason:           The device may fail to monitor or alarm.
+
+                                     ----
+
+Product:          Angestat Introducer with Hemostasis Valve, used to
+                  facilitate the percutaneous introduction of catheters
+                  or leads into the Vascular System during arterial and 
+                  venous procedures:
+                  (a) 6 French size, Model #HI6-0 and HI6-2;
+
+                                      -7-
+
+
+                  (b) 8 French size, Model #HI8-0 and HI8-2;
+                  (c) 9 French size, Model #HI9-0 and HI9-2.
+                  Recall #Z-078/080-2.
+Code:             Lot numbers:  (a) OHBC05, OHBC28, OHBC45, OHBC55, OHBC60,
+                  OIBC03, OIBC21, OIBC33, OIBC60, OIBC64, OIBC69, OIBC86,
+                  OIBC95, OIBC98, OJBC07, IIBC47;
+                  (b) OABC09, OBBC50, ODBC54, OFBC26, OHBC31, OHBC42,
+                  OHBC47, OHBC57, OHBC80, OHBC89, OHBC90, OIBC30, OIBC42,
+                  OIBC71, OJBC39, OJBC63, OKBC86;
+                  (c) OHBC66, OHBC67, OIBC12, OIBC93, OJBC27, OJBC53.
+Manufacturer:     Angeion Corporation, Plymouth, Minnesota.
+Recalled by:      Manufacturer, by letter September 13, 1991.  Firm-
+                  initiated recall ongoing.
+Distribution:     Nationwide, Turkey, Germany, England, Singapore.
+Quantity:         (a) 5,920 units; (b) 4,891; (c) 1,760 units were
+                  distributed.
+Reason:           The hemostasis valve can be pulled out of the hub
+                  while the catheter is in the blood vessel, when the
+                  introducing dilator and guidewire are withdrawn from
+                  the vasculature.
+
+                                     ----
+
+Product:          MC II Model #7300E Microcurrent Stimulator - T.E.N.S.
+                  (Transcutaneous Electrical Nerve Stimulation) unit,
+                  a pain control device.  Recall #Z-081-2.
+Code:             Serial number range: 91050001C through 91090060C.
+Manufacturer:     Medical Devices, Inc., St. Paul, Minnesota.
+Recalled by:      Manufacturer, by letter October 11, 1991.  Firm-initiated
+                  field correction ongoing.
+Distribution:     Nationwide, Canada.
+Quantity:         219 units were distributed.
+Reason:           The design of the MC II allows it to send current through
+                  the ground wire of the GV II or another MC II unit when
+                  they are used in the same Plexus III battery power supply.
+                  This allows current to flow in excess of specifications,
+                  which could result in patient skin burns or electrical
+                  arcing.
+                                     ----
+
+Product:          Version V04 Software for Theraplan and TP-11 Treatment
+                  Planning Systems, computerized workstations used to
+                  calculate and determine appropriate radiation
+                  treatment programs for doctors to administer cancer
+                  patients.  Recall #Z-085-2.
+Code:             Version V04.
+Manufacturer:     Theratronics International Ltd., formerly Atomic Energy
+                  of Canada, Ltd. (AECL Medical), Carrollton, Texas
+                  (assembler of device/importer of components).
+Recalled by:      Theratronics International, Ltd., formerly Atomic Energy
+                  of Canada, Ltd. (AECL Medical), Kanata, Ontario, Canada,
+                  by newsletter July 1987.  Firm-initiated field correction
+                  ongoing.
+
+                                      -8-
+
+
+
+Distribution:     Nationwide and international.
+Quantity:         131 units were distributed.
+Reason:           The software version 4 was found to be deficient due
+                  to many software "bugs".
+
+                                     ----
+
+Product:          Footrest for CGR Montery, TA50, TA60, Progrost, Bedford,
+                  Delmar, Elstar, Ibis I and Ibis 2 Angulating X-ray Tables.
+                  Recall #Z-094-2.
+Code:             Undetermined.
+Manufacturer:     GE Medical Systems, Inc., Waukesha, Wisconsin.
+Recalled by:      Manufacturer, by letter October 3, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Nationwide.
+Quantity:         690 units were distributed.
+Reason:           The product was improperly manufactured without
+                  spring pin holes and pins.  This could allow the
+                  loaded footrest to slip off the table causing injury
+                  to the patient and/or operator.
+
+                                     ----
+
+Product:          (a) National Medical Care Arterial Bloodlines, for use in
+                  conjunction with a dialysis machines;
+                  (b) National Medical Care On/Off diala-Kits, arterial
+                  bloodline may be a component of the kit;
+                  (c) Arterial Blood Tubing Sets, under Baxter label.
+                  Recall #Z-097/099-2.
+Code:             (a)  Catalog #03-9206-8   Lot numbers:  R1A010, R1A021,
+                  R1A029, R1A063.  For use with the SPS/Baxter Dialysis unit.
+                  1 injection site, post pump drip chamber, negative pressure
+                  bloodline;
+                  Catalog #03-9962-6  Lot #R1A097.  For universal use,
+                  but high flow applications, pre and post pump drip chambers,
+                  negative pressure bloodline;
+                  Catalog #03-9228-2  Lot numbers:  R1A140, R0S157, R0S149.
+                  For use with the Drake 480 and Fresenius 2008, with 6.5 mm
+                  pump segment, Dialsyis Units.  Pre-pump drip chamber, 
+                  negative pressure bloodline.
+                  Catalog #03-9215-9  Lot numbers:  ROS166, ROS163.  For
+                  universal use, post-pump drip chamber, negative pressure
+                  bloodline;
+                  Catalog #03-9201-9  Lot #R1B195 (addendum of 5/14/91),
+                  ROS162, ROS148.  For universal use, pre-pump drip chamber,
+                  negative pressure bloodline.
+                  (b) Catalog #46-4370-6  Lot #M1B152;
+                  Catalog #46-4662-6  Lot #M1B124;
+                  (c) Catalog #96-4274-5  Lot #R51A650.  For unknown dialysis
+                  machines, negative pressure, post-pump drip chamber.
+                  Catalog #96-4285-1  Lot #R1A657.  For universal use,
+                  negative pressure, post pump drip chamber;
+
+                                      -9-
+
+
+
+                  Catalog #96-4929-2  Lot #R1A660 (addendum of 5/14/91),
+                  for universal use, negative pressure.
+Manufacturer:     Erika of Texas, doing business as National Medical Care,
+                  Medical Products Division, McAllen, Texas.
+Recalled by:      National Medical Care, Medical Products Division,
+                  Rockleigh, New Jersey, by letter dated April 20, 1991,
+                  and May 15, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         64,896 units were distributed; firm estimates 32,000
+                  units remain on the market.
+Reason:           They may leak at the "T" connector.
+
+                                     ----
+                  Class III -
+
+Product:          Becton Dickinson Microtainer brand Test Tubes (a)
+                  containing K2 EDTA with mixing beads, reorder #5961;
+                  (b) containing Ammonium Heparin, reorder #5963;
+                  (c) containing K2 EDTA without mixing beads, reorder #5973,
+                  in-vitro hematology/chemistry test reagent kits used to
+                  collect, transport, anticoagulate and store skin puncture
+                  blood specimens from infants, children, geriatric
+                  patients and critical care patients.  Recall #Z-086/088-2.
+Code:             (Consecutive manufactured lots beginning with lot number
+                  prefixes: (a) OH, OJ, OK, OL, OM, 1A, 1B, 1C, 1D, 1E, 1F,
+                  and 1G;
+                  (b) 0B, 0C, 0D, 0E, 0F, 0G, 0H, 0J, 0K, 0L, 0M, 1A, 1B,
+                  1C, 1D, 1E, 1F, 1G;
+                  (c) OH, 0J, 0K, 0L, 0M, 1A, 1B, 1C, 1D, 1E, 1F, 1G.
+Manufacturer:     Becton Dickinson Vacutainer Systems, San Lorenzo,
+                  Puerto Rico.
+Recalled by:      Becton Dickinson Vacutainer Systems, Rutherford,
+                  New Jersey, by letter September 9, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Nationwide and international.
+Quantity:         (a) 3,884,340 units; (b) 763,540 units; (c) 8,211,020
+                  units were distributed.
+Reason:           Use of the devices may lead to a delay in diagnosis due to
+                  an inability to perform the tests.
+
+                                     ----
+
+Product:          3M Scotchcast 2 Casting Tape 2" width, product #72002
+                  and 5" width, product #72005.  Recall #Z-093-2.
+Code:             AUG91B29 on product boxes and AUG91B293 on pouches
+                  containing individual rolls of tape.
+Manufacturer:     3M Company, Irvine, California.
+Recalled by:      3M Medical - Surgical Division, St. Paul, Minnesota,
+                  by telephone September 30, 1991, followed by letter
+                  October 18, 1991.  Firm-initiated recall complete.
+Distribution:     Nationwide.
+Quantity:         99 boxes (10 rolls per box) were distributed.
+
+                                     -10-
+
+
+
+Reason:           The product was produced with a urethane resin having
+                  a silicone slip agent that was not intended for this
+                  particular 3M product.
+
+                                     ----
+
+Product:          Becton Dickinson Unopette brand Test Kit containing
+                  10 different concentrations of buffered saline, an
+                  in-vitro Hemotology/Chemistry Test Reagent Kit for
+                  Red Blood Cell (RBC), Osmotic Fragility determination
+                  via manual methods.  Recall #Z-096-2.
+Code:             Catalog number 5830, lot numbers: 0D444 EXP 10/15/91,
+                  0J231 EXP 3/15/92, 0G132 EXP 1/15/92, 0H176 EXP 2/15/92,
+                  0K273 EXP 4/15/92, 1B398 EXP 8/15/92, 1D442 EXP 10/15/92.
+Manufacturer:     Becton Dickinson Vacutainer Systems, San Lorenzo,
+                  Puerto Rico.
+Recalled by:      Becton Dickinson Vacutainer Systems, Rutherford, New
+                  Jersey, by letter September 9 and 10, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Nationwide and international.
+Quantity:         35,830 units were distributed.
+Reason:           Product may provide inaccurate test results.
+
+                                     ----
+
+                              VETERINARY PRODUCTS
+
+                  Class I -
+                                     NONE
+                  Class II -
+
+Product:          Methaplex Injection, B-Complex Injection Iso High Potency,
+                  100 ml multi-dose product, used as a vitamin supplement.
+                  Recall #V-007-2.
+Code:             Lot #19257.
+Manufacturer:     Walnut Pharmaceuticals, Inc., Anaheim, California.
+Recalled by:      PRN Pharmacal, Inc., Pensacola, Florida, by letter
+                  September 20, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         3,359 containers were distributed.
+Reason:           Product was out of specification at the three month
+                  stability check.  Product was subpotent in 
+                  Vitamins B1, B2, and B12.
+
+                                     ----
+
+                  Class III -
+                                     NONE
+
+Injunction Actions Filed:
+
+Against:          Adams Supply Company and Kathleen Jeffries,
+                  Bedford, Indiana.
+
+                                     -11-
+
+
+
+
+
+Product:          Adams No-Mo Tape Worm Expeller for Dogs or any product
+                  purporting to contain arecoline for animal use
+                  (89-440-771).
+Charge:           Misbranded - Product does not bear adequate directions
+                  for use and cannot bear adequate directions, because
+                  the drug is not safe for animal use except under the
+                  professional supervision of a licensed veterinarian.
+Filed:            August 15, 1991 - U.S. District Court for the Southern
+                  District of Indiana, Indianapolis Division.
+                  Civil # IP89768C, INJ #1212.
+
+                                     ----
+Seizure Actions Filed:
+
+Product:          Retionic Acid Cream 0.05% and various topical drugs.
+                  (91-571-145).
+Charge:           Products are new drugs marketed without an approved
+                  new drug application.
+Firm:             C & M Pharmacal, Inc., Hazel Park, Michigan.
+Filed:            August 21, 1991 - U.S. District Court for the Middle
+                  District of Pennsylvania; Civil #ICV-91-1085,
+                  FDC #66065.
+                                     ----
+
+Product:          Frozen Slipper Lobster Meat (91-640-461).
+Charge:           Excessive glaze (ice) has been added to increase bulk
+                  and weight; and the product is a food in package form
+                  that fails to bear an accurate statement of quantity of
+                  the content.
+Firm:             Los Angeles Cold Storage, Los Angeles, California,
+                  stored to Central Seaway, Inc., Northvield, Illinois.
+Field:            October 30, 1991 - U.S. District Court for the
+                  Central District of California; Civil #91-5924RSWL,
+                  FDC #66296.
+                                     ----
+
+                                     -12-
+                                     ###

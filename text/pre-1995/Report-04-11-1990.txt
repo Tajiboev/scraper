@@ -1,0 +1,474 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      26 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+04/10/1990    
+
+FDA Enforcement for the week of April 11, 1990
+
+
+
+                            FDA ENFORCEMENT REPORT
+                              FOR APRIL 11, 1990
+                                                           April 11, 1990 
+Recalls and Field Corrections:
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  Product will cause serious adverse health consequences or 
+                  death.
+
+
+Product:          All L-tryptophan products not covered by 21 CFR 172.320 
+                  or by a current IND, from all levels of distribution. 
+                  Recall #F-456-0.  An extension of Recall #F-140-0 which 
+                  appeared in the January 17, 1990 Enforcement Report.
+Code:             All lots. 
+Manufacturer:     All manufacturers, distributors and repackers.
+Recalled by:      On March 22, 1990, the Food and Drug Administration issued
+                  a press release (P90-21) and a video release which announced
+                  that the Agency is requesting manufacturers, repackers, or
+                  own-label distributors to recall all manufactured 
+                  L-tryptophan containing products in tablet, capsule,
+                  caplet, powdered or liquid form, along with multi-
+                  ingredient, non-protein supplements that also contain 
+                  L-tryptophan. 
+                                      -1- 
+
+
+
+
+
+                  distribution.  FDA requested recall ongoing.
+Distribution:     Nationwide. 
+Quantity:         Unknown large quantity. 
+Reason:           Eosinophilia-myalgia syndrome attributed to L-tryptophan
+                  containing products.
+
+                                     ---- 
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the 
+                  probability of serious adverse health consequences is 
+                  remote. 
+
+
+Product:          Noah's Cheezettes packed in 1 ounce and 7 ounce poly bags.
+                  Recall #F-457-0.
+Code:             The firm uses a 21 day freshness expiration date.  Any
+                  package that does not declare the presence of FD&C; Yellow 
+                  #5 and #6 is under recall.
+Manufacturer:     Noah's Potato Chip Company, Inc., Alexandria, Louisiana.
+Recalled by:      Manufacturer, by letter November 30, 1989.  Firm-initiated
+                  field correction complete.
+Distribution:     Louisiana.
+Quantity:         Firm estimates none remains on market.
+Reason:           Product lacks a color declaration and contains undeclared 
+                  Yellow No. 5. 
+                                     ---- 
+
+                  Class III - A situation in which the use of, or exposure to 
+                  a violative product is not likely to cause adverse health 
+                  consequences. 
+
+
+Product:          Nature's Sunshine Products brand Tofu Moo Carob, a
+                  non-dairy dried tofu beverage mix, in 27.6 ounce cans.
+                  Recall #F-458-0.
+Code:             Lot numbers 9100E, 9100F. 
+Manufacturer:     Great American Foods, Inc., Salt Lake City, Utah. 
+Recalled by:      Nature's Sunshine Products, Inc., Spanish Fork, Utah, 
+                  by telephone February 14, 1990 followed by letter February
+                  16, 1990.  Firm-initiated recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         420 cans were distributed.
+Reason:           Product is contaminated with small round metal particles. 
+
+                                     ---- 
+
+                                   COSMETICS
+
+                                     NONE 
+
+                                      -2- 
+
+
+
+
+
+                           HUMAN DRUGS AND BIOLOGICS
+
+                  Class I - 
+                                     NONE 
+
+                  Class II -
+
+Product:          Source Plasma.  Recall #B-122-0.
+Code:             Unit numbers: 9810, 9914, 10072, 10218, 10467, 10597, 
+                  10827, 10945, 11152, 11301, 11534, 11728, 11898, 12151, 
+                  12427, 12557. 
+Manufacturer:     Yale Blood Plasma, Inc., Albuquerque, New Mexico. 
+Recalled by:      Manufacturer, by letter March 29, 1989.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     New York, Japan.
+Quantity:         16 units were distributed.
+Reason:           Units of Source Plasma drawn from a donor who previously
+                  tested repeatably reactive for the hepatitis B surface
+                  antigen (HBsAg) were distributed. 
+
+                                     ---- 
+
+                  Class III - 
+
+Product:          Recovered Plasma.  Recall #B-117-0. 
+Code:             Unit #06GF51181.
+Manufacturer:     American Red Cross Blood Services, Los Angeles, California. 
+Recalled by:      Manufacturer, by telephone June 26, 1989.  Firm-initiated 
+                  recall complete.
+Distribution:     California. 
+Quantity:         1 unit was distributed and destroyed. 
+Reason:           Recovered Plasma, which tested nonreactive for the
+                  Hepatitis B Surface Antigen (HBsAg) but was collected from
+                  a donor who previously tested reactive for HBsAg, was 
+                  distributed.
+                                     ---- 
+
+                   MEDICAL DEVICES AND RADIOLOGICAL PRODUCTS
+
+                  Class I - 
+                                     NONE 
+
+                  Class II -
+
+Product:          Datascope Intra-Aortic Balloon Pump (IABP)- System 90,
+                  the pump, a critical device is coupled with an intra-aortic 
+                  balloon catheter which is inserted into the patient's aorta.
+                  Recall #Z-138-0.
+Code:             Product #0998-00-0010-XX, serial numbers range from 1001
+                  through 1614, inclusive; Product #0998-00-0058-XX, serial 
+                  numbers range from 2000 through 3181, inclusive.
+
+                                      -3- 
+
+
+
+
+
+Manufacturer:     Datascope Corporation, Paramus, New Jersey. 
+Recalled by:      Manufacturer, by letter February 7, 1990.  Firm-initiated 
+                  field correction ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         Approximately 2,200 units were distributed. 
+Reason:           The System 90 (IABP) power supply board may fail. 
+
+                                     ---- 
+
+Product:          Biosearch Pedi Tube Pediatric Nasal Gastric Feeding Tube. 
+                  Recall #Z-458-0.
+Code:             Product #14-7318, batch lot #8821, G-80.
+Manufacturer:     Biosearch Medical Products, Inc., Somerville, New Jersey. 
+Recalled by:      Manufacturer, by telephone between August 25, 1989 and
+                  August 29, 1989.  Firm-initiated recall ongoing.
+Distribution:     California, Maine, Wisconsin, New Jersey, Florida,
+                  Pennsylvania, Michigan, Massachusetts, South Carolina,
+                  Canada. 
+Quantity:         700 units consisting of 10 tubes each were distributed. 
+Reason:           There is a potential for a leak to develop at the bond
+                  between the luer connector and the feeding tube which 
+                  could weaken the connection and allow the luer to detach. 
+
+                                     ---- 
+
+Product:          Hygroscopic Cervical Dilator - Dilapan (tm) 
+                  4 mm x 55 mm, a sterile Class III medical device
+                  indicated for dilation of the cervix prior to termination 
+                  of pregnancy up to 16 weeks gestation.  Recall #Z-460-0.
+Code:             Lot numbers:  D070389, D092989. 
+Manufacturer:     Gynotech, Inc., Middlesex, New Jersey.
+Recalled by:      Manufacturer, by telex December 8, 1989 and by telephone
+                  December 18, 1989.  Firm-initiated recall ongoing.
+Distribution:     Minnesota, Texas, California, Ohio, Japan.
+Quantity:         1,725 dilators were distributed.
+Reason:           The device is labeled as sterile, however, firm failed
+                  to satisfactorily document that lots D070389 and D092989
+                  had in fact been sterilized.
+
+                                     ---- 
+
+Product:          Instascreen CHAP Kit, an in-vitro diagnostic test system
+                  designed to detect the presence of cocaine, heroin/morphine,
+                  amphetamines, PCP and their metabolites in urine. 
+                  Recall #Z-461-0.
+Code:             Lot numbers: 61-04049, 65-04279, 65-06129, 65-05159,
+                  65-08189, 65-09089, 61-10070. 
+Manufacturer:     Drug Screening Systems, Inc., Blackwood, New Jersey.
+Recalled by:      Manufacturer, by letter on or about October 26, 1989. 
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide, Canada, The Phillipines.
+Quantity:         5,402 kits were distributed.
+
+                                      -4- 
+
+
+
+
+
+Reason:           The kits exhibit variability in product performance over
+                  time.  As a consequence the use of this product may give a
+                  false negative. 
+
+                                      ----
+
+Product:          Quad Ferm +, for in-vitro diagnostic use, for the rapid 
+                  determination carbohydrate utilization, DNase activity
+                  and Penicillinase activity by organisms belonging to the
+                  genera Neisseria and Branhamella.  Recall #Z-463-0. 
+Code:             Product #8886-301020, Lot #1807F9.
+Manufacturer:     API Analytab Products, Plainview, New York. 
+Recalled by:      Manufacturer, by letter August 30, 1989.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide, France, Italy.
+Quantity:         456 kits were distributed.
+Reason:           The substrates DNase and Beta-Lactamase were filled in
+                  reverse order such that DNase was filled in the Beta- 
+                  Lactamase well and vice-versa.
+
+                                      ----
+
+                  Class III - 
+
+Product:          Amerlite TBG (Thyroid Binding Globulin) EIA Kit, an 
+                  in-vitro diagnostic for the quantitative measurement of 
+                  thyroxine-binding globulin (TBG) in human serum or
+                  plasma.  Recall #Z-457-0. 
+Code:             Product codes: LAN.0005 and LAN.2005, lot numbers 30 and 32 
+                  EXP 7/23/90.
+Manufacturer:     Amersham International plc, Cardiff, Wales, UK. 
+Recalled by:      Amersham Corporation, Arlington Heights, Illinois, by 
+                  telephone March 5, 1990 followed by 
+                  visit.  Firm-initiated recall ongoing.
+Distribution:     Massachusetts, Connecticut, Maryland, Florida, Tennessee, 
+                  California. 
+Quantity:         26 kits were distributed; firm estimates 14 kits remain 
+                  on market.
+Reason:           Some of the "D" Standard 20 (mg/l) vials were mislabeled
+                  with "F" Standard (80 mg/l) labels. 
+
+                                      ----
+
+Product:          Instascreen Cannabinoid Kit, an in-vitro diagnostic test
+                  system designed to detect the presence of marijuana,
+                  hashish, THC and their derivatives in urine.
+                  Recall #Z-459-0.
+Code:             Lot numbers: 51-05159, 55-05049, 55-05029, 55-05039,
+                  51-01279, 51-01069, 55-02009, 51-01199, 51-01269, 
+                  51-02169, 51-03019, 51-04209, 51-03309, 51-04269. 
+Manufacturer:     Drug Screening Systems, Inc., Blackwood, New Jersey.
+Recalled by:      Manufacturer, by telephone July 1989 followed by letter.
+                  Firm-initiated recall ongoing.
+
+                                      -5- 
+
+
+
+
+
+Distribution:     Nationwide, Canada, Phillipines.
+Quantity:         Approximately 5,416 kits were distributed.
+Reason:           The device may exhibit variability in product performance 
+                  over time.  As a consequence the product may give a false 
+                  positive test result. 
+                                      ----
+
+                              VETERINARY PRODUCTS 
+
+                  Class I - 
+                                      NONE
+
+                  Class II -
+
+Product:          Chloramphenicol Capsules, 250 mg. each, packaged 8
+                  capsules in foam cut-out insert inside a clear plastic box, 
+                  an OTC drug for aquarium use only, labeled to control and 
+                  cure bacterial infections in marine fish.  Recall #V-037-0. 
+Code:             Lot numbers 673 through 681 (all lots). 
+Manufacturer:     Barr Laboratories, Northvale, New Jersey. 
+Recalled by:      Silco Pet Products, Inc., Alexandria, Virginia, by letters
+                  the week of March 13, 1990.  Firm-initiated recall ongoing. 
+Distribution:     Washington, D.C., Maryland, Virginia, New York, Florida.
+Quantity:         Firm estimates less than 1,000/8 capsule packs remain on
+                  market. 
+Reason:           Chloramphenicol for OTC aquarium use is an unapproved 
+                  new animal drug.
+
+                                      ----
+
+                  Class III - 
+                                      NONE
+
+Seizure Actions Filed:
+
+Product:          Frozen Shrimp (90-510-972). 
+Charge:           Misbranded - Product is short weight. 
+Firm:             Macau Frozen Food Company, Ltd., Pereira Marquez, Macau.
+Filed:            February 7, 1990 - U.S. District Court for the District 
+                  of Puerto Rico; Civil #90-1186(JAF), 65806. 
+
+                                      ----
+
+Product:          Ventilation Tubes for Otology (89-457-548). 
+Charge:           Adulterated - Products were prepared, packed and held 
+                  under conditions not in conformity with good manufacturing
+                  practice regulations; Misbranded - Labeling fails to bear 
+                  adequate directions for use.
+Firm:             Anthony Products, Inc., Indianapolis, Indiana.
+Filed:            February 15, 1990 - U.S. District Court for the Southern
+                  District of Indiana; Civil #1P90149C, FDC #65781. 
+
+                                      ----
+
+                                      -6- 
+
+
+
+
+
+Product:          Neomycin Sulfate Sterile Powder (90-601-545). 
+Charge:           Misbranded antibiotic drug -- No certificate or 
+                  release has been issued.
+Firm:             Pharma-Tek Inc., Northport, New York. 
+Filed:            February 26, 1990 - U.S. District Court for the Eastern 
+                  District of New York; Civil #CV-90-0655, FDC #65783.
+
+                                      ----
+
+Product:          Spices (90-600-019).
+Charge:           Products were held under insanitary conditions
+                  whereby they may have become contaminated with filth. 
+Firm:             Schiff Food Products Company, Inc., Brooklyn, New York. 
+Filed:            March 2, 1990 - U.S. District Court for the Eastern 
+                  District of New York; Civil #CV 90-0735, FDC #65834.
+
+                                      ----
+
+Product:          All foods in rodent and insect susceptible containers.
+                  (90-577-515). 
+Charge:           Adulterated - Products were held under insanitary conditions. 
+Firm:             Economy, Inc., Chicago, Illinois. 
+Filed:            March 9, 1990 - U.S. District Court for the Northern
+                  District of Illinois; Civil #90C-1375; FDC #65840.
+
+                                      ----
+
+Product:          Personal Size Oxygen and Personal Oxygen Systems
+                  (89-545-562). 
+Charge:           Products are unapproved new drugs; fails to bear prescription 
+                  legend; labeling fails to bear adequate directions for use; 
+                  manufactured at non-registered/non-listed establishment.
+Firm:             Pro-Line International, Inc., Rochester, New York.
+Filed:            March 14, 1990 - U.S. District Court for the Western
+                  District of New York; Civil #90-274-T, FDC #65684.

@@ -1,0 +1,1218 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  May
+		  FEB
+		  Jun
+		
+		
+		
+		  
+		  19
+		  
+		
+		
+		
+		  2002
+		  2003
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      36 captures
+	      19 Aug 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DF
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA 
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+ June 28, 2000                                     00-26
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+
+________
+PRODUCT
+Bon Campo brand Sun Dried Tomatoes, packaged in 3-ounce (85g) 
+clear plastic trays.  Recall #F-503-0.
+CODE
+None.  UPC 081517 100193 on the front label.  
+All product on market at time of recall initiation.
+MANUFACTURER
+Merex Corporation, Yonkers, New York (repacker).
+RECALLED BY
+Repacker, by letter dated March 31, 2000. Completed recall 
+resulted from sample analysis and follow-up by the New York State 
+Department of Agriculture and Markets.
+DISTRIBUTION
+New York.
+QUANTITY
+408 packages were distributed.
+REASON
+Product contained undeclared sulfites.
+
+________
+PRODUCT
+Tropical Mix (Trail Mix), in 4 and 16-ounce bags, and a 14-ounce 
+plastic container, under The Farmers Market and Earth Delites label.  
+Recall #F-553-0.
+CODE
+Best Before June 17 or earlier.
+MANUFACTURER
+Pittsburgh Snax and Nut Company, Pittsburgh, Pennsylvania.
+RECALLED BY
+Manufacturer, by telephone followed by press release on May 4, 2000.  
+Firm-initiated field correction (relabeling) complete.
+DISTRIBUTION
+Pennsylvania and Ohio.
+QUANTITY
+Firm estimates none remain on market.
+REASON
+Product contains undeclared sulfites and FD&C; Yellow No. 6.
+________
+PRODUCT
+Stop & Shop brand Vegetarian Vegetable Condensed Soup, in 10.75-ounce 
+can.  
+Recall #F-562-0.
+CODE
+Y246 9 257 K.
+MANUFACTURER
+Freddy's Products/Les Produits Freddy, Quebec, Canada.
+RECALLED BY
+Stop & Shop Supermarket Company, Boston, Massachusetts, 
+by press release on May 11, 2000.  Firm-initiated recall complete.
+DISTRIBUTION
+Connecticut and Massachusetts.
+QUANTITY
+343 cases (24 cans/case) were distributed.
+REASON
+Product contains undeclared eggs.
+________
+PRODUCT
+Naturally Good Low Fat Caramel Corn, in 10-ounce containers.  
+Recall #F-563-0.
+CODE
+Lot 42MAY22.
+MANUFACTURER
+Poppee's Popcorn, North Ridgeville, Ohio.
+RECALLED BY
+Snyder of Berlin, Berlin, Pennsylvania, by press release on 
+April 20, 2000, and by letter on April 21, 2000.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Kentucky, Maryland, Ohio, Pennsylvania, Tennessee, Virginia, 
+West Virginia.
+QUANTITY
+Firm estimates none remain on market.
+REASON
+Product contains undeclared peanuts.
+________
+PRODUCT
+Seagull brand Egg-Plant (whole) in brine, in 16-ounce glass jars.  
+Recall #F-564-0.
+CODE
+None.  All product on market at time of recall initiation.
+MANUFACTURER
+Savoy Enterprise, Ltd., Bangkok, Thailand.
+RECALLED BY
+Hong Thai Foods Corporation, Brooklyn, New York (importer), 
+by letter and press release on January 27, 2000.  
+Completed field correction (relabeling) resulted from sample 
+analysis and follow-up by the New York State Department of 
+Agriculture and Markets.
+DISTRIBUTION
+New York, New Jersey, Pennsylvania, Massachusetts.
+QUANTITY
+46 cases (24 jars per case) were distributed.
+REASON
+Product contained undeclared sulfites.
+________
+PRODUCT
+Smoked Salmon Pate in flexible retort pouches.  
+Recall #F-566-0.
+CODE
+110499, 120499, 2561006, 2561007, 2561027, 2561028, 2561029, 2561030, 
+2561046, 2561047, 2561063, 2561064, 2561085, 2561086, 2561097, 2561098, 
+2561129, 2561130.
+MANUFACTURER
+Northwest Gourmet, Dundee, Oregon.
+RECALLED BY
+Manufacturer, by telephone on April 14, 2000, followed by letter on 
+April 20, 2000, and by press release on April 18, 2000.  
+Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+10,994 pieces were distributed.
+REASON
+Product contains undeclared egg yolks.
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+________
+PRODUCT
+Yogurt Trail Mix, in 4 and 16-ounce bags, and in a 14-ounce plastic 
+container, 
+under the Farmers Market and Earth Delites labels.  Recall #F-554-0.
+CODE
+Best Before June 17 or earlier.
+MANUFACTURER
+Pittsburgh Snax and Nut Company, Pittsburgh, Pennsylvania.
+RECALLED BY
+Manufacturer, by telephone followed by press release on May 4, 2000.  
+Firm-initiated field correction (relabeling) ongoing.
+DISTRIBUTION
+Pennsylvania and Ohio.
+QUANTITY
+Firm estimates none remain on market.
+REASON
+Product contains undeclared sulfites and FD&C; Yellow No. 6.
+_______
+PRODUCT
+Chocolate Chip/Baking Chip products:
+1) Tropical Source Semi-Sweet Dairy Free Chocolate Chips 
+   (Baking Chips), 10-ounce bag, sku #01281
+2) Tropical Source Espresso Roast Dairy Free Chocolate Chips 
+   (Baking Chips), 10-ounce bag, sku #01283
+3) Cloud Nine Pure Chocolates Dairy Free Baking Chips
+   a) 10-pound box, sku #09006
+   b) 25-pound box, sku #09003
+4) Tropical Source Bulk Espresso Baking Chips, 25-pound box, 
+   sku #01433
+5) Tropical Source Baking Chip Floor Shipper Display, 
+   48/10-ounce bags, sku #01289.  Recall #F-555/559-0.
+CODE
+All 1999 product produced by the manufacturer (Kargher).  
+The manufacturer used the following coding system, which is stamped 
+in black ink on the 10-ounce bags only:  For example: 
+277K91H = 277 = day of the year, K = Kargher, 9 = year (1999) 
+1 = packaging shift, and H = production line.  
+The 10-pound and 25-pound bulk carton is coded as follows:
+For example: 910111, 9 = year, 10 = month, 11 = day, 
+and the 1 = the number of the batches made of that product on that day.
+MANUFACTURER
+Kargher Chocolate Company, Hatfield, Pennsylvania.
+RECALLED BY
+Cloud Nine, Inc., Hoboken, New Jersey, by fax on March 1 and 2, 2000.  
+Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and Canada.
+QUANTITY
+Amount Shipped - United States:
+1) 2,675 cases x 6 boxes x 12/10-oz. units
+2) 872 cases x 6 boxes x 12 10-oz. units;
+3) (a) 989 bulk cases; b) 3,465 25-lb. bulk cases;
+4) 354 25-lb. bulk cases;
+5) 336 x 48 10-oz. packages (floor display shipper)
+Amount Shipped - Canada
+1) 151 cases x 6 boxes x 12 10-oz. units
+2) 30 cases x 6 boxes x 12-10-oz. units
+3) (a) 281  10-lb. Cases (bulk); (b) 31 25-pound cases (bulk); 4) 0; 5) 
+0.
+REASON
+Products may be contaminated with milk protein.
+________
+PRODUCT
+Lipton Noodles and Sauce, Butter, Egg Noodles in a Butter Sauce, 
+in 4.5-ounce foil pouch.  Recall #F-552-0.
+CODE
+Lot OB02L***, where the last three digits vary.
+MANUFACTURER
+Customized Solutions, LLC, Montgomery, Illinois.
+RECALLED BY
+Lipton, Englewood Cliffs, New Jersey, by "Product Retrieval Notice" 
+dated February 17, 2000.  Firm-initiated recall complete.
+DISTRIBUTION
+Northeastern United States.
+QUANTITY
+1,200 pouches were distributed.
+REASON
+Product was manufactured using onion powder found to be contaminated 
+with Salmonella cerro.
+
+RECALLS AND FIELD CORRECTIONS:  FOODS  - CLASS III
+________
+PRODUCT
+Ardmore Farms brand 100% Pure Apple Juice, in 4-ounce cups, 
+96 cups per case.  Recall #F-561-0.
+CODE
+N1370B2, N1380B3 and N1380B1 on shipping case.
+MANUFACTURER
+Country Pure Foods, Inc., Akron, Ohio.
+RECALLED BY
+Manufacturer, by telephone, fax, and mail on May 25, 2000.  
+Firm-initiated recall complete.
+DISTRIBUTION
+West Virginia, Minnesota, California, New York, Indiana, 
+Washington state, Tennessee, Ohio.
+QUANTITY
+1,627 cases (156,192 individual cups) were distributed.
+REASON
+Products are contaminated with yeast.
+________
+PRODUCT
+1) Caffeine Free Diet Dr. Pepper a) labeled as 
+"CANNED BY GULF STATE CANNERS, INC., CLINTON, MISSISSIPPI" 
+bearing the following "sell by" dates: MAY0800, MAY1500, 
+MAY2200, JUN0500, JUN1900, JUN2600
+b) labeled as "CANNED BY BATON ROUGE COCA-COLA BOTTLING CO., 
+BATON ROUGE, LOUISIANA" bearing the following "sell by" dates
+MAY0100, MAY1500, MAY2900, JUN1200,JUN2600
+2) Caffeine Free Dr. Pepper labeled as "CANNED BY BATON ROUGE 
+COCA-COLA BOTTLING CO., BATON ROUGE, LOUISIANA" bearing the following  
+"sell by" dates: NOV2000, DEC1100, DEC1800.  Recall #F-571/572-0.
+CODE
+1 (a) "Sell by" dates: MAY0800, MAY1500, MAY2200, JUN0500, JUN1900, 
+       JUN2600
+  (b) "Sell by" dates: MAY0100, MAY1500, MAY2900, JUN1200,JUN2600
+2) "Sell by" dates: NOV2000, DEC1100, DEC1800.
+MANUFACTURER
+Gulf States Canners, Inc., Clinton, Mississippi and
+Baton Rouge Coca-Cola Bottling Company. Baton Rouge, Louisiana.
+RECALLED BY
+Dr. Pepper/Seven Up, Inc., Plano, Texas, by telephone on April 7, 2000, 
+followed by letter dated April 13, 2000.  Firm-initiated recall complete.
+DISTRIBUTION
+Kentucky, Mississippi, Arkansas, Louisiana, Tennessee.
+QUANTITY
+6,890 6-packs and 33,040 12-packs were distributed.
+REASON
+Product contains 55 mg sodium but lists 0 mg sodium on the label.
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS 
+II
+________
+PRODUCT
+a) UriTAB(tm) Caplets (Phenazopyridine HCL 95 mg), 30 caplet box, OTC, 
+for urinary pain relief; b) PremeTAB(tm) Tablets (Acetaminophen 500 mg, 
+Pamabrom 25mg, Pyrilamine Maleate 15 mg) 15 tablet units, OTC, for use I
+n premenstrual discomfort; 
+c) PrevenTAC(tm) Caplets (Aspirin 81 mg), 30 caplets, OTC, to help in 
+the prevention of heart disease and heart attacks;
+d) SomaTAC(tm) Caplets (Diphenhydramine Hydrochloride 50 mg), 15 caplets, 
+OTC, helps relieve occasional sleeplessness due to stress, anxiety, 
+restlessness, 
+and irritability.  Recall #D-413/416-0.
+CODE
+a) Lot #J15460; b) Lot #J15466; c) Lot #J16148;
+d) Lot #J15548.
+MANUFACTURER
+Formulex Canada, Inc., Villemont-Royal, Quebec, Canada (contract 
+manufacturer).
+RECALLED BY
+Olus Laboratories, Farmingdale, New York (responsible firm), by fax on 
+February 21, 2000, and by telephone on March 22, 2000.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+a) Connecticut, New Jersey, Oregon; b) Connecticut, New Jersey, New York, 
+Oregon; 
+c) Connecticut, Florida, Georgia, New Jersey, New York, North Carolina, 
+Oregon, Pennsylvania, Texas; d) Connecticut, New Jersey, Oregon.
+QUANTITY
+a) 77 cases, 24 blister packs of 30 caplets each per case; b) 89 cases, 
+24 blister packs of 15 tablets each per case; c) 593 cases, 24 blister 
+packs of 30 caplets each per case; d) 97 cases, 24 blister packs of 
+15 caplets each per case were distributed.
+REASON
+Products are unapproved new drugs.
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+________
+PRODUCT
+a) Glyburide Tablets (micronized), USP, 1.5 mg, 100 tablets, unit dose, 
+Rx; 
+b) Glyburide Tablets (micronized), USP, 3 mg, 100 tablets, unit dose,.  
+Products are indicated as an adjunct to diet to lower the blood glucose I
+n patients with non-insulin dependent diabetes mellitus (type II) whose 
+hyperglycemia cannot be satisfactorily controlled alone.  NDC Numbers:  
+55953-034-41 and 55953-035-41.  Recall #D-411/412-0.
+CODE
+Lot Numbers:  a) 114058B EXP 10/00, 114059B EXP 10/00, 114060B EXP 10/00, 
+and 116884A EXP 4/01; b) 114061D EXP 4/01, 114062D EXP 4/01, 114063D EXP 
+4/01, 
+114517B EXP 5/01, and 116893A EXP 12/01.
+MANUFACTURER
+Novopharm, Ltd., Toronto, Canada.
+RECALLED BY
+Teva Pharmaceuticals USA, Sellersville, Pennsylvania, by letter on June 
+5, 2000.  
+Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+1,386 units were distributed; firm estimated that 5 percent of product 
+remained 
+on market at time of recall initiation.
+REASON
+Impurity failure (12 month stability testing).
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+________
+PRODUCT
+Platelets, Pheresis.  Recall #B-827-0.
+CODE
+Unit Numbers:  8080857 and 8092579 (split products).
+MANUFACTURER
+LifeShare, Inc., Elyria, Ohio.
+RECALLED BY
+Manufacturer, by telephone on March 15, 2000, followed by letter dated 
+April 20, 2000.  Firm-initiated recall complete.
+DISTRIBUTION
+Ohio.
+QUANTITY
+2 split units were distributed.
+REASON
+Blood products were labeled with extended expiration dates.
+________
+PRODUCT
+Platelets, Pheresis - Volume-Reduced.  Recall #B-828-0.
+CODE
+Unit #17FX21187.
+MANUFACTURER
+American Red Cross Blood Services, Green Bay, Wisconsin.
+RECALLED BY
+American Red Cross Blood Services, Madison, Wisconsin, by letter dated J
+January 27, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Wisconsin.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was labeled with an extended expiration date.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-836-0.
+CODE
+Unit 21KR06899.
+MANUFACTURER
+American Red Cross Blood Service, Pacific Northwest Regional Blood 
+Services, 
+Portland, Oregon.
+RECALLED BY
+Manufacturer, by letter dated March 10, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+California.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor taking the drug Methotrexate.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-837-0.
+CODE
+Unit #7618476.
+MANUFACTURER
+Carter BloodCare, Bedford, Texas.
+RECALLED BY
+Manufacturer, by telephone on July 21, 1999.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was positive for Jka antigen, was distributed labeled 
+as Jka negative.
+________
+PRODUCT
+a) Red Blood Cells; b) Cryoprecipitated AHF; c) Recovered Plasma.  
+Recall #B-838/840-0.
+CODE
+Unit #21KG23428.
+MANUFACTURER
+American Red Cross Blood Services, Portland, Oregon.
+RECALLED BY
+Manufacturer, by telephone on February 3, 2000, and by letter dated 
+February 9, 2000.  Firm-initiated recall complete.
+DISTRIBUTION
+Arizona, Washington state, Switzerland.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor with a history of jaundice.
+________
+PRODUCT
+Platelets, Pheresis.  Recall #B-841-0.
+CODE
+Unit Numbers:  0335580A and 0335580B.
+MANUFACTURER
+Inland Northwest Blood Center, Spokane, Washington.
+RECALLED BY
+Manufacturer, by telephone on February 18, 2000, followed by letter 
+dated March 28, 2000.  Firm-initiated recall complete.
+DISTRIBUTION
+Washington state.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood products were labeled with incorrect platelet yields.
+________
+PRODUCT
+Source Plasma.  Recall #B-842-0.
+CODE
+Unit Numbers:  98560684 and 98668816.
+MANUFACTURER
+Interstate Blood Bank Incorporated of Wisconsin, Milwaukee, Wisconsin.
+RECALLED BY
+Interstate Blood Bank, Inc., Memphis, Tennessee, by fax on May 21, 1998.  
+Firm-initiated recall complete.
+DISTRIBUTION
+California.
+QUANTITY
+2 units were distributed.
+REASON
+Blood products were collected from a donor who was not properly screened.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Fresh Frozen Plasma.
+Recall #B-789/791-0.
+CODE
+Unit Numbers:  a) 8636407, 8695147, 875070
+b) 8636407, 8695147; c) 8636407, 8695147.
+MANUFACTURER
+The Blood Center, New Orleans, Louisiana.
+RECALLED BY
+Manufacturer, by letter dated September 1, 1998.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Louisiana and New Jersey.
+QUANTITY
+a) 3 units; b) 2 units; c) 2 units were distributed.
+REASON
+Blood products were collected from a donor with a history of Idiopathic 
+Thrombocytopenic Purpura.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets.  Recall #B-797/798-0.
+CODE
+Unit Numbers: a) 42Q66663; b) 42G26813, 42G26819, 42G26823, 42Q66652, 
+42Q66662 42Q66663, 42Q66664, 42Q66665, 42Q66666.
+MANUFACTURER
+American Red Cross Blood Services, Cleveland, Ohio.
+RECALLED BY
+Manufacturer, by telephone on February 23, 2000, and by letters dated 
+February 24, 2000.  Firm-initiated recall complete.
+DISTRIBUTION
+Ohio.
+QUANTITY
+a) 1 unit; b) 9 units were distributed.
+REASON
+Blood products were collected in expired blood collection bags.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-829-0.
+CODE
+Unit #32GK75466.
+MANUFACTURER
+American Red Cross Blood Services, Green Bay, Wisconsin.
+
+RECALLED BY
+American Red Cross Blood Services, Madison, Wisconsin, by telephone on 
+August 19, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Wisconsin.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor whose arm inspection and skin 
+disease status had not been documented.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+________
+PRODUCT
+MemoryLens Ultraviolet-Absorbing, Hydrophilic, Posterior
+Chamber Lens:  a) Model No. U940A, MemoryLens Ultraviolet-Absorbing, 
+Hydrophilic, Posterior Chamber Intraocular;
+b) Model No. U940S, MemoryLens Ultraviolet-Absorbing, Hydrophilic, 
+Posterior Chamber Intraocular Lens.
+Recall #Z-741/742-0.
+CODE
+All Lot Numbers manufactured on or before 3/24/2000.
+MANUFACTURER
+Ciba Vision Corporation, Duluth, Georgia.
+RECALLED BY
+Manufacturer, by letter dated April 10, 2000.  Firm-initiated recall 
+ongoing.
+QUANTITY
+263,000 units were distributed.
+REASON
+Implantation of this lens may cause postoperative inflammation.
+________
+PRODUCT
+T-9 Scoop Transtracheal Procedure Tray.  Recall #Z-743-0.
+CODE
+Lot Numbers:  0339, 1409, 2749.
+MANUFACTURER
+Transtracheal Systems, Englewood, Colorado.
+RECALLED BY
+Manufacturer, by mail on June 9, 2000, followed by telephone.  
+Firm-initiated recall ongoing.
+COMPONENT MANUFACTURER
+Clinipad Corporation, Rocky Hill, Connecticut.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+643 trays.
+REASON
+Trays contain Clinipad products labeled as sterile for which Clinipad 
+is unable to assure the sterility.
+________
+PRODUCT
+SYSMEX CA-1000 and SYSMEX CA-5000 Automated Coagulation Analyzer, used 
+to the clotting times of heparinized patients to adjust their heparin 
+treatment.  
+Recall #Z-754/755-0.
+CODE
+All serial numbers.
+MANUFACTURER
+Sysmex Corporation of America, Long Grove, Illinois.
+RECALLED BY
+Manufacturer, by letter dated April 26, 2000.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+1,405 CA-1000 analyzers and 132 CA-5000 analyzers were distributed.
+REASON
+Incorrect aPTT (activated partial thromboplastin time) analysis of 
+patient 
+Samples which contain elevated levels of fibrinogen or fibrinogen-related 
+products which are not measured by aPTT (fibrinogen monomer) could occur.
+________
+PRODUCT
+Walkmed Administration Sets for WalkMed Infusion Pumps:
+a) Catalog #PS-400/300; b) Catalog #EFV-101S; c) Catalog #EFV-101B; 
+d) Catalog #FPS-560.  Recall #Z-756/759-0.
+CODE
+Lot Numbers:  a) Lot 9I112, 9I113, 9J115, 9K103;
+b) D991020-B; c) D991027-A; d) D991202-A.
+MANUFACTURER
+McKinley Medical, LLLP, Wheat Ridge, Colorado.
+RECALLED BY
+Manufacturer, by mail on May 5, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+41,720 sets were distributed.
+REASON
+Defective plastic elbow connector could allow leak or air introduction.
+________
+PRODUCT
+Curity Spinal Anesthesia Tray; Safe Tap Spinal Anesthesia Tray; Spinal 
+Anesthesia; Saddle Block and Customer Special Spinal Tray.  Recall #Z-
+766/770-0.
+CODE
+Note:  This recall only applies to alpha numeric lot numbers beginning 
+with  
+"FE83", "HE83", "JE83" and "GE83"; numerical lot numbers beginning with 
+"0", 
+"4", "5" and "9".
+Part #         Description
+470    CURITY Spinal Anesthesia Tray
+4716   CURITY Spinal Anesthesia Tray
+4720   CURITY Spinal Anesthesia Tray
+4722   CURITY Spinal Anesthesia Tray
+4724   CURITY Spinal Anesthesia Tray
+4727   CURITY Spinal Anesthesia Tray
+4730   CURITY Spinal Anesthesia Tray
+4731   CURITY Spinal Anesthesia Tray
+4747   Safe Tap Spinal Anesthesia Tray
+4748   Safe Tap Spinal Anesthesia Tray
+4749   Safe Tap Spinal Anesthesia Tray
+4760   CURITY Spinal Anesthesia Tray/Saddle Block
+4761   CURITY Spinal Anesthesia Tray
+4762   CURITY Spinal Anesthesia Tray
+4763   CURITY Spinal Anesthesia Tray/Saddle Block
+4764   CURITY Spinal Anesthesia Tray/Saddle Block
+4765    CURITY Spinal Anesthesia Tray
+4766    CURITY Spinal Anesthesia Tray
+4767    CURITY Spinal Anesthesia Tray/Saddle Block
+4768    CURITY Spinal Anesthesia Tray 
+4769    CURITY Spinal Anesthesia Tray
+4770    CURITY Spinal Anesthesia Tray 
+4787    CURITY Spinal Anesthesia Tray/Saddle Block
+4795    CURITY Spinal Anesthesia Tray/Saddle Block
+4815    CURITY Spinal Anesthesia Tray
+4920    CURITY Spinal Anesthesia Tray
+5171    Continuous Epidural Anesthesia Tray
+10569   Customer Special:  Spinal Tray
+10584   Customer Special:  Spinal Tray
+10590   Customer Special:  Spinal Tray
+10614   Customer Special:  Spinal Tray 
+10616   Customer Special:  Spinal Tray
+10617   Customer Special:  Spinal Tray
+10618   Customer Special:  Spinal Tray
+10641   Customer Special:  Spinal Tray
+10702   Customer Special:  Spinal Tray
+10705   Customer Special:  Spinal Tray
+10708   Customer Special:  Spinal Tray
+472867  Customer Special:  Spinal Tray
+476827  Customer Special:  Spinal Tray.
+MANUFACTURER
+The Kendall Company LP, Mansfield, Massachusetts.
+RECALLED BY
+Manufacturer, by mail on May 10, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide, Japan, Panama, Bahamas, Saudi Arabia.
+QUANTITY
+Approximately 14,570 cases.
+REASON
+Spinal anesthesia trays contain recalled Epinephrine Injection USP, 1 ml 
+ampule.
+________
+PRODUCT
+Vasoview Dissection/Vessel Harvesting System:
+a) VasoView, Part #09331; b) Vasoview Uniport, Part #11344; 
+c) Vasoview Uniport Plus, Part #11346.  The VasoView Uniport dissection 
+cannula has applications in minimally invasive surgery allowing access 
+for vessel harvesting, and is primarily indicated for patients undergoing 
+endoscopic vessel harvesting surgery for arterial bypass.  Recall #Z-
+771/773-0.
+CODE
+All codes.
+MANUFACTURER
+Guidant Corporation, Menlo Park, California.
+RECALLED BY
+Manufacturer, by letter on May 11, 2000, followed by telephone.  
+Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+5,730 units were distributed.
+REASON
+Sterility may be compromised as evidenced by a loss of package integrity.
+________
+PRODUCT
+Version 6A and prior versions of software for Marquette Coherent Digital 
+Telemetry (CDT) LAN Monitoring Systems, a patient monitoring system 
+designed to collect and transmit ECG and other physiological data from 
+ambulatory patients, without the patient being physically connected to a 
+display device.  Recall #Z-774-0.
+CODE
+All versions of the software used with CDT LAN Monitoring Systems.
+MANUFACTURER
+GE Marquette Medical Systems, Inc., Milwaukee, Wisconsin.
+RECALLED BY
+Manufacturer, by issuing an Urgent Patient Alarm Safety Alert 
+dated May 3, 2000.  Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+2,254 units were distributed.
+REASON
+Due to a software defect, there could be alarm failure.
+________
+PRODUCT
+Fixer Image Scan Editing Utility, Version 3.0, intended to allow 
+the user to remove suprious image slices from a scan.  
+Recall #Z-784-0.
+CODE
+Fixer Software Utility Version 3.0
+MANUFACTURER
+Radionics, Inc., Burlington, Massachusetts.
+RECALLED BY
+Manufacturer, by telephone on March 9, 2000, followed by letter.  
+Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+33 installed bases.
+REASON
+Fixer 3.0 may provide inconsistent results if a file is changed 
+and saved twice in the same session.
+________
+PRODUCT
+Sarita and Sarita 160 Patient Lift, Non-AC Powered Lift/Transfer 
+System used to transfer patients/residents between beds, 
+chairs and toilets:  a) Model KKA0400;
+b) KKA0420-16; c) KKA0401; d) KKB3000-11US; e) KKB3020-16US. 
+ Recall #Z-785/789-0.
+CODE
+All serial numbers prior to 4899 834795-011
+Model KKB3000-11US - Sarita; Model KKB3020-16US - Sarita 160.
+MANUFACTURER
+Arjo, Inc., Roselle, Illinois.
+RECALLED BY
+Manufacturer, by letter dated May 11 and 30, 2000.  
+Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+967 units were distributed.
+REASON
+Premature cracking of foot support platform of the lift.
+________
+PRODUCT
+Maxilift Patient Lift, Non-AC powered, used to move patients 
+in a nursing home situation.  Recall #Z-790-0.
+CODE
+All serial numbers preceding week 1/95, with serial number 
+prefixes preceding US0195, SE0195, GB0195, and include serial 
+numbers beginning with 93MM, 93ME, 94MM and 94ME.
+Model 211026, Maxilift Manual Chassis with Scale
+Model 212624, Maxilift Manual Chassis - Beige
+Model 210024-06, Maxi Scale Std - Beige
+Model 212000-06, Maxi Pillar Beige
+Model KMB0810-06US, Maxilift Combi
+Model KMB0830-06US, Maxilift Combi with Scale
+Model KMB2351, Maxilift Electric with Scale
+Model MA0500, Maxi Pillar
+Model MA0510, Maxi Mast for Electric Chassis
+Model MB0500, Maxilift Beige
+Model MB0510, Maxilift with Battery Powered Chassis
+Model MB0600, Maxilift with Scale - Beige
+Model MB0610, Maxilift Battery Powered with Scale.
+MANUFACTURER
+Arjo, Inc., Roselle, Illinois.
+RECALLED BY
+Manufacturer, by letters dated May 11 and 30, 2000. 
+Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+1,017 units were distributed.
+REASON
+Spring (roll) pin subject to shear in Maxilifts greater 
+than 5 years old.
+________
+PRODUCT
+Maximove Patient Lift, Non-AC powered, used to move patients 
+in a nursing home situation: Models KRA0300, MA0510, KMA1004, 
+KMB0810-06, KMB0830-06, KMB4500-12US, KMB6950-12US, KMB6970-12US, 
+KMB6980-12US.  Recall #Z-791/799-0.
+CODE
+Maximove models KRA0300 (mast Model), KMB4500-12US, KMB6950-12US, 
+KMB6970-12US, KMB6980-12US, serial numbers GB 2097 784578 001 
+through GB 0899 819426 006; weeks 20/97 through 08/99
+Model KMB4500-12US - Maximove with powered V chassis
+Model KMB6950-12US - Maximove with powered parallel chassis & scale
+Model KMB6970-12US - Maximove with powered parallel chassis
+Model KMB6980-12US - Maximove with powered V chassis & scale
+Maximove Combi models KRA0300 (Mast model) and KMA1004, 
+serial numbers start with GB or SE; weeks 03/96 through 05/99
+Model KMA1004 - Maximove Combi Lift Arm Assembly 
+Maxilift Combi models MA0510 (Mast Model), KMB0810-06, KMB0830-06, 
+serial numbers GB 0596 770428 003 through GB 3496 773176 010; 
+weeks 05/96 through 34/96
+Model KMB0810-06US, Maxilift Combi
+Model KMB0830-06US, Maxilift Combi with Scale.
+MANUFACTURER
+Arjo Inc., Roselle, Illinois.
+RECALLED BY
+Manufacturer, by letters dated may 11 and 30, 2000.  
+Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+1,465 units were distributed.
+REASON
+Over depression of the locking spring pin results in the lift arm not 
+locking.
+_________
+PRODUCT
+Marisa Patient Lift, Non-AC Powered, used to move weak or highly 
+dependent patients in a nursing home situation: a) Model KGB2000-US, 
+Marisa Complete with Jib, but no Scale; b) Model KGB2100-US, Marisa 
+Complete with Jib and with Scale ; c) Model KGA0200. Recall #Z-800/802-0.
+CODE
+All serial numbers below GB 3298 807390 002.
+MANUFACURER
+Arjo, Inc., Roselle, Illinois.
+RECALLED BY
+Manufacturer, by letters dated May 11 and 30, 2000.  Firm-initiated field 
+correction ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+1,331 lifts were distributed.
+REASON
+Jib assembly plunger may not fully engage in the carriage receptacle.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+________
+PRODUCT
+Vitros Cardiology Controls (human serum), for in-vitro diagnostic use 
+only, Catalog #865 0939.  Recall #Z-753-0.
+CODE
+Lot number 50.
+MANUFACTURER
+Ortho-Clinical Diagnostics, Inc., Rochester, New York.
+RECALLED BY
+Manufacturer, by letters on July 14, 1999, and August 12, 1999.  Firm-
+initiated recall complete.
+DISTRIBUTION
+California, District of Columbia, Illinois, Indiana, Montana, Nevada, 
+Ohio, New York, South Carolina, Texas, Virginia, Wisconsin, Australia, 
+Brazil, Canada, Singapore, England and France.
+QUANTITY
+338 packs were distributed.
+REASON
+Cardiology controls gave low values approximately 2 standard deviations 
+below target values.
+________
+PRODUCT
+Cemented Hip Stem, Catalog #6098-0940.  Recall #Z-760-0.
+CODE
+Case Code: 46364801
+Serial Numbers: 20458S, 20459D, 20461S, 20462S, 20463S, and 38086P.
+MANUFACTURER
+Stryker Howmedica Osteonics, Allendale, New Jersey.
+RECALLED BY
+Manufacturer, by telephone on March 21, 2000.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Illinois, Minnesota, Oklahoma and Canada.
+QUANTITY
+5 units were distributed.
+REASON
+Mislabeling - The device is labeled having a 127 degree neck angle when in 
+fact the hip stem actually have a 132 degree neck angle.
+________
+PRODUCT
+IMx hCG Calibrators, for in Vitro Diagnostic use.  The Imx hCG Calibrators 
+are for the calibration of the Imx Anallyzer when used for the 
+quantitative/qualitative determination of human chorionic gonadotropin 
+(hCG) for the early detection of pregnancy.  Recall #Z-761-0.
+CODE
+List #3A63-01, Lot #55552Q100 EXP 5/13/00.
+MANUFACTURER
+Abbott Health Products, Inc., Barceloneta, Puerto Rico.
+RECALLED BY
+Manufacturer, by telephone or fax on April 27, 2000, and by letter dated 
+April 26, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide, Australia, Canada, Germany, Italy, Japan, and Mexico.
+QUANTITY
+234 kits were distributed.
+REASON
+The IMx hCG Calibrator lot 55552Q100 rates have decreased over time which 
+may result in elevated control values.
+________
+PRODUCT
+Pentalumen Thermodilution Catheter, Heparin Coated, Flow-Directed 
+Thermodilution Pulmonary Artery Catheder, Rx device for rapid and 
+accurate measurement of hemodynamic pressure and determination of cardiac 
+output using a cardiac output computer.  Z-762-0.
+CODE
+List #412320401, Lot #59-249-SN.
+MANUFACTURER
+Abbott Laboratories, Hospital Products Division, Abbott Park, Illinois.
+RECALLED BY
+Manufacturer, by letter dated May 10, 2000.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Nationwide, Canada, Chile.
+QUANTITY
+960 catheters were distributed.
+REASON
+One or more of the lumens in the catheter may be occluded.
+________
+PRODUCT
+Genesis II and Profix Porous Femoral Components, sterile product, 
+packaged one per container for use by an orthopaedic surgeon:
+Z-763-0 - Genesis II Femoral Components: 
+Description   Part Number        Lot
+Sz 3 LT       71420036         00111302
+Sz 4 LT       71420038         91106643
+Sz 5 LT       71420040         00111462
+Sz 5 LT       71420040         00111463
+Sz 5 LT       71420040         00304339
+Sz 5 LT       71420040         00304340
+Sz 6 LT       71420042         91103882
+Sz 6 LT       71420042         91103883
+Sz 6 LT       71420042         91107062
+Sz 6 LT       71420042         91107063
+Sz 6 LT       71420042         91107064
+Sz 6 LT       71420042         00101454
+Sz 6 LT       71420042         00101457
+Sz 7 LT       71420044         00206821
+Sz 7 LT       71420044         00206822
+Sz 4 RT       71420054         91201372
+Sz 4 RT       71420054         91201373
+Sz 4 RT       71420054         91201371
+Sz 4 RT       71420054         91204594
+Sz 4 RT       71420054         00101463
+Sz 4 RT       71420054         00101464
+Sz 4 RT       71420054         00111306
+Sz 4 RT       71420054         00111307
+Sz 4 RT       71420054         00111308
+Sz 5 RT       71420056         91107068
+Sz 5 RT       71420056         91107069
+Sz 5 RT       71420056         91107070
+Sz 5 RT       71420056         91106158
+Sz 5 RT       71420056         90016159
+Sz 5 RT       71420056         91106160
+Sz 5 RT       71420056         91107067
+Sz 5 RT       71420056         00111304
+Sz 5 RT       71420056         00111304A
+Sz 5 RT       71420056         00404566
+Sz 5 RT       71420056         00404567
+Sz 5 RT       71420056         00404563
+Sz 5 RT       71420056         00404564
+Sz 5 RT       71420056         00404565
+Sz 7 RT       71420060         91204591
+Sz 7 RT       71420060         91204592
+Sz 7 RT       71420060         00206823
+Sz 7 RT       71420060         00206824
+Sz 7 RT       71420060         00406018
+Sz 7 RT       71420060         00406017
+Sz 7 RT       71420060         00103496
+Z-764-0 -    Profix Femoral Components:
+Description    Part Number        Lot
+Sz 3 RT        71502130        00105665
+Sz 4 RT        71502140        91100703
+Sz 4 RT        71502150        91100704
+Sz 4 RT        71502140        91107043
+Sz 4 RT        71502150        91107044
+Sz 4 RT        71502140        91107045
+Sz 4 RT        71502150        91203073
+Sz 5 RT        71502150        91101207
+Sz 5 RT        71502150        91106635
+Sz 5 RT        71502150        91106636
+Sz 5 RT        71502150        91106146
+Sz 5 RT        71502150        91106147
+Sz 5 RT        71502150        91106634
+Sz 5 RT        71502150        91107801
+Sz 5 RT        71502150        91107802
+Sz 5 RT        71502150        91107724
+Sz 5 RT        71502150        91107725
+Sz 5 RT        71502150        91107803
+Sz 5 RT        71502150        91200417
+Sz 5 RT        71502150        91200418
+Sz 5 RT        71502150        91100419
+Sz 5 RT        71502150        91200420
+Sz 5 RT        71502150        92100416
+Sz 6 RT        71502160        91101209
+Sz 6 RT        71502160        91107805
+Sz 6 RT        71502160        91107806
+Sz 6 RT        71502160        91100706
+Sz 6 RT        71502160        00209183
+Sz 6 RT        71502160        00209184
+Sz 6 RT        71502160        00301458
+Sz 6 RT        71502160        00301457
+Sz 6 RT        71502160        00301456
+Sz 6 RT        71502160        00305645
+Sz 2 LT        71502220        00405819
+Sz 2 LT        71502220        91203766
+Sz 2 LT        71502220        91204891
+Sz 3 LT        71502230        91106628
+Sz 3 LT        71500230        91106629
+Sz 3 LT        71502230        91106630
+Sz 3 LT        71500230        91106149
+Sz 3 LT        71502230        91106150
+Sz 3 LT        71500230        00109524
+Sz 4 LT        71590001        91203525
+Sz 4 LT        71590001        91203526
+Sz 4 LT        71502240        91101931
+Sz 4 LT        71502240        91101932
+Sz 4 LT        71502240        91101933
+Sz 4 LT        71502240        00104672
+Sz 4 LT        71502240        00109525
+Sz 4 LT        71502240        00301453
+Sz 4 LT        71502240        00301454
+Sz 4 LT        71502240        00310670
+Sz 5 LT        71502250        91102580
+Sz 5 LT        71502250        91102582
+Sz 5 LT        71502250        91109920
+Sz 5 LT        71502250        91109921
+Sz 5 LT        71502250        91110383
+Sz 5 LT        71502250        91204253
+Sz 5 LT        71502250        91204254
+Sz 5 LT        71502250        00109527
+Sz 5 LT        71502250        00109528
+Sz 5 LT        71502250        00111459
+Sz 5 LT        71502250        00111461
+Sz 5 LT        71502250        00200116
+Sz 5 LT        71502250        00200337
+Sz 5 LT        71502250        00200338
+Sz 5 LT        71502250        00200339
+Sz 6 LT        71502260        91107049
+Sz 6 LT        71502260        91107050
+Sz 6 LT        71502260        91107051
+Sz 6 LT        71502260        00104674
+Sz 6 LT        71502260        91108859
+Sz 7 LT        71502270        91106148
+Sz 7 LT        71502270        91200414
+Sz 7 LT        71502270        00111298.
+MANUFACTURER
+Smith and Nephew, Inc., Orthopaedic Division, Memphis, Tennessee.
+RECALLED BY
+Manufacturer, by letters on May 19 and 26, 2000, and by fax on May 20, 
+2000.  
+Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+945 units were distributed.
+REASON
+The bead sintering process temperature was insufficient for proper 
+bead/substrate adhesion.
+_______
+PRODUCT
+FreshLook Toric Soft Hydrophilic Contact Lenses for Astigmatism.  Recall 
+#Z-765-0.
+CODE
+Lot numbers: 101297 EXP 2003-01, 101296, EXP 2003-01.
+MANUFACTURER
+Wesley Jessen Corporation, Des Plaines, Illinois.
+RECALLED BY
+Manufacturer, by letters dated May 12, 2000.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+564 single blister trials and 246 6-packs were distributed.
+REASON
+Mislabeled for corrective power, cylinder and axis.
+________
+PRODUCT
+Cordis Smart Nitinol Stent Transhepatic Biliary System.  Recall #Z-
+775/776-0.
+CODE
+Catalog number 1440BB, Lot number X0200019;
+Catalog number 1420BB, Lot number 40200246.
+MANUFACTURER
+Cordis Corporation, Miami Lakes, Florida.
+RECALLED BY
+Manufacturer, by letter on April 25, 2000.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Tennessee, West Virginia, California, Louisiana, and Florida.
+QUANTITY
+12 units were distributed.
+REASON
+Mislabeled guidewire size and mislabeled indication for use.
+________
+PRODUCT
+Cardiology Controls (human serum), for in vitro diagnostic use only. 
+Recall #Z-803-0.
+CODE
+Lot #53 EXP 12/99.
+MANUFACTURER
+Ortho-Clinical Diagnostics, Inc., Rochester, New York.
+RECALLED BY
+Manufacturer, by letter dated November 23, 1999.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Alaska, California, Delaware, Indiana, Kansas, Kentucky, New York, Ohio, 
+Oklahoma, Pennsylvania, Wisconsin, Canada, Belgium, and Germany.
+QUANTITY
+33 packs were distributed.
+REASON
+Cardiology Controls gave low values approximately 2 standard deviations 
+below target.
+________
+PRODUCT
+Lactate Membrane Kit Stat Profile M Series, for use with the Stat Profile 
+M Analyzer. The Stat M. Analyzer is intended for in vitro diagnostic use 
+by health care professionals and for Point-of-Care usage in the 
+quantitative determination of sodium, potassium, ionized calcium, ionized 
+magnesium, glucose, lactate, and BUN in serum, plasma, and whole blood to 
+evaluate the acid-base status of patients suspected of 
+having lactic acidosis.  Recall #Z-817-0.
+CODE
+Lot numbers: 901129 and 801129.
+MANUFACTURER
+Nova Biomedical Corporation, Waltham, Massachusetts.
+RECALLED BY
+Manufacturer, by telephone on March 8, 2000.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Arizona, Massachusetts, Florida, Wisconsin and Germany.
+QUANTITY
+41 kits (6 membranes/kit) were distributed.
+REASON
+Extended expiration date.
+
+END OF ENFORCEMENT REPORT FOR JUNE 28, 2000.  
+
+####
+ 
+
+
+
+FDA News Page   |   FDA Home Page 
+                                                          
+  
+
+Office of Public Affairs
+Hypertext uploaded by tg 2000-JUN-27.

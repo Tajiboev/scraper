@@ -1,0 +1,520 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  02
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      27 captures
+	      25 Feb 1997 - 28 Apr 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+09/11/1990
+
+FDA Enforcement for the week of September 12, 1990
+
+
+
+                            FDA ENFORCEMENT REPORT
+                            FOR SEPTEMBER 12, 1990
+
+                                                       September 12, 1990 
+
+Recalls and Field Corrections:
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  Product will cause serious adverse health consequences or 
+                  death.
+
+                                     NONE 
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the 
+                  probability of serious adverse health consequences is 
+                  remote. 
+
+                                     NONE 
+
+                  Class III - A situation in which the use of, or exposure
+                  to a violative product is not likely to cause adverse 
+                  health consequences.
+
+                                     NONE 
+
+                                      -1- 
+
+
+
+
+
+                                 COSMETICS
+
+                                    NONE
+
+                         HUMAN DRUGS AND BIOLOGICS
+
+                  Class I - 
+
+
+                                    NONE
+                  Class II -
+
+Product:          Amoxicillin, labeled in part "Amoxicillin For Oral
+                  Suspension, 125 mg per 5 ml, 150 ml, plastic bottles. 
+                  Recall #D-350-0.
+Code:             Lot numbers:  20120W, 20220W, 20320W, 20420W, EXP FEB 92. 
+Manufacturer:     Clonmel Chemical Company, Ltd., Clonmel, Ireland. 
+Recalled by:      Warner Chilcott Labs, Division of Warner-Lambert Company
+                  Morris Plains, New Jersey by letter July 23, 1990.
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide. 
+Quantity:         47,607 bottles were shipped.  Firm estimates 25% remain 
+                  on market.
+Reason:           Labeling mixup.  When pharmacist insert is peeled off the 
+                  front of some bottles, the consumer bottle label states 
+                  250 mg instead of 125 mg.  The 125 mg label instructs 
+                  reconstitution with 127 ml of  water, and the 250 mg
+                  instructs 102 ml of water.
+
+
+                                    ----
+
+Product:          Levothroid Tablets (levothyroxine sodium tablets) 
+                  200 mcg, an Rx thyroid hormone used in the treatment of 
+                  hypothyroidism. Recall #D-353-0.
+Code:             Lot #01310 EXP 7/91.
+Manufacturer:     Rorer Pharmaceutical Corporation, Fort Washington,
+                  Pennsylvania. 
+Recalled by:      Manufacturer by telephone August 16, 1990.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         2,518 cartons were distributed. 
+Reason:           A portion of this lot of 200 mcg unit dose tablets may
+                  have been packaged in cartons labeled 100 mcg.  The unit
+                  dose strips are correctly labeled.
+
+                                    ----
+
+                                    -2- 
+
+
+
+
+
+                  Class III - 
+
+Product:          Tazicef (Ceftazidime) an Rx sterile, dry powder in bulk 
+                  pharmacy vials, 6 grams per vial, used as a broad-spectrum
+                  antibiotic for parenteral administration. 
+                  Recall #D-351-0.
+Code:             Lot #6030T86, EXP 5/31/92.
+Manufacturer:     Bristol Myers Company, New York, New York.
+Recalled by:      Smith Kline Beecham Pharmaceutical, Conshohocken, 
+                  Pennsylvania by telefax on August 15, 1990. 
+                  followed by telephone August 16, 1990 with follow-up
+                  letter August 17, 1990.  Firm-initiated recall
+                  ongoing.
+Distribution:     Nationwide. 
+Quantity:         5,930 vials were distributed. 
+Reason:           Contents of some vials do not dissolve when reconstituted.
+
+                                    ----
+
+Product:          Swanson Nature-Lax, a herbal laxative in bottles
+                  of 100, 300, 600 tablets, containing 5 gr.
+                  of senna leaves and 1 gr. of senna extract. 
+                  Recall #D-352-0.
+Code:             All lots. 
+Manufacturer:     Freshlabs, Inc., Warren, Michigan.
+Recalled by:      Swanson Health Products, Fargo, North Dakota (repacker/ 
+                  responsible firm), by notice printed on the front page of 
+                  the August issue of the "Health Shopper", sent
+                  July 20-25, 1990.  Firm-initiated recall ongoing. 
+Distribution      Nationwide. 
+Quantity:         140,000 tablets were distributed. 
+Reason:           Product label lacks Pregnancy-Nursing statement 
+                  specified in regulation 201.63(a).
+
+                                    ----
+
+Product:          Isoetharine Inhalation Solution, USP 0.1% in vials. 
+                  Recall D-354-0. 
+Code:             Lot #900457 EXP 10/91.
+Manufacturer:     Roxane Laboratories, Columbus, Ohio.
+Recalled by:      Manufacturer by letter August 14, 1990.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         311 cartons were distributed.  Firm estimates 200 
+                  cartons remain on market. 
+Reason:           The shipping cartons were incorrectly labeled as "Each
+                  vial contains: 5 mg., Isoetharine HCl equivalent to 
+                  0.5 ml.  Isoetharine HCl 1% in Normal Saline", instead of 
+                  "Each vial contains 2.5 mg., of Isoetharine HCl 
+                  equivalent to 0.25 ml.  Isoetharine HCl 1% in Normal
+                  Saline."
+
+                                    ----
+
+                                    -3- 
+
+
+
+
+
+Product:          Conjugated Estrogen Tablets in 0.3 mg., 0.625 mg.,
+                  1.25 mg. and 2.5 mg. in 100, 1000 tablet bottles, 
+                  an Rx used primarily for treating estrogen
+                  deficiencies in post-menopausal women.
+                  Recall #D-355/358-0.
+Code:             All lots with an expiration date of 1991 under
+                  the following labels:  Duramed, Glenlawn, Schein, Geneva, 
+                  Rugby, Parmed, Harber, Qualitest, Goldline, Purepac,
+                  Major, URL, Best, Moore, Genetco, Bioline.
+Manufacturer:     Duramed Pharmaceuticals, Inc., Cincinnati, Ohio.
+Recalled by:      Manufacturer, by letter August 20, 1990.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         Approximately 98,000,000 tablets were distributed.
+Reason:           Some lots fail USP specifications for content uniformity. 
+
+                                    ----
+
+                       MEDICAL DEVICES AND RADIOLOGY
+
+
+                  Class I - 
+
+                                    NONE
+
+                  Class II -
+
+
+Product:         Model 3494 X-Ray Control, a part of the Uni-Max II 
+                 325 X-Ray Control and Generator. Recall #Z-796-0.
+Code:            Serial #'s ME0051-0389 thru ME0192-0290. 
+                 All units shipped and produced between March 17, 1989
+                 and February 20, 1990. 
+Manufacturer:    Universal X-Ray, Gendex Corporation, Chicago, Illinois 
+Recalled by:     Manufacturer.  FDA approved the firm's corrective action 
+                 plan June 29, 1990.  Firm-initiated field correction 
+                 ongoing. 
+Distribution:    Nationwide, Canada.
+Quantity:        86 certified and 17 non-certified units were distributed.
+Reason:          Noncompliance with performance standard for x-ray products 
+                 in that the device may fail to comply with the tube current
+                 ranges of the user statement when the line voltage 
+                 variations within stated limits are encountered. 
+
+                                    ----
+
+Product:          Modified 225 SIMV Volume Ventilator, MRI compatible 
+                  including newly manufactured units, retrofitted units,
+                  and rebuilt units. Recall #Z-853.0
+
+                                    -4- 
+
+
+
+
+
+Code:             Newly manufactured units - serial numbers 1001-1089;
+                  Retrofitted units - Serial numbers: 00037, 00040, 00051,
+                  00095, 00106, 00433, 1694, 224-0068, 224-00171, 224-0227, 
+                  224-01068, 224-01171, 224-01185, 224-02180, 224-01386,
+                  1275-0003, 0176-0011, 0576-0022, 0576-0048, 0676-0017,
+                  0676-0027, 1076-0024, 1076-0039, 1076-0046, 1176-0021,
+                  1176-0032, 1176-0065, 1176-0070, 0177-0008, 0377-0035,
+                  0037-0040, 0377-0065, 0807-0044, 0928-0927, 0584-0540,
+                  0338-0359, 1457-1458, 1635-1636, 1637-1638, 10252-0253; 
+                  Rebuilt units - serial numbers: M5977-1012, M5977-1013, 
+                  M5953-1010, M5953-1011, M5914-1009, M5760-1285, 
+                  M5748-0007, M5655-0037, M2861-1014, M1161-0112, 
+                  M5271-0002. 
+Manufacturer:     Monaghan Medical Corporation, Plattsburgh, New York.
+Recalled by:      Manufacturer, by letter July 3, 1990.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Nationwide, Japan, Italy, Canada. 
+Quantity:         140 units were distributed. 
+Reason:           The device was marketed from April 1, 1986 to 
+                  November 1989 without 510(k) approval.
+
+                                    ----
+
+Product:          Beckman "Interlink" System, Version 3.2 Software, 
+                  an in-vitro diagnostic product used with Beckman
+                  "Synchron" Analyzers for the performance of up to 
+                  20 different chemistry panels.   Recall Z-856-0.
+Code:             Not coded.  All version 3.2 software diskettes. 
+Manufacturer:     Beckman Instruments, Inc., Brea, California.
+Recalled by:      Manufacturer by letter March 28, 1990.  Firm-initiated
+                  recall complete.
+Distribution:     Nationwide and international. 
+Quantity:         110 diskette sets were distributed. 
+Reason:           An error in the device can cause the Sample 
+                  Identification (Sample ID) number to be transferred to
+                  another patient in the instrument "Load List".  This could
+                  cause an operator who is using only the sample ID 
+                  from the instrument load list to select and load
+                  the wrong sample into the tray/sector position of 
+                  the analyzer which may result in a patient misdiagnosis.
+
+                                    ----
+
+Product:          James River Caretouch Latex Examination Gloves
+                  distributed in large, medium, small sizes in boxes
+                  of 100 units. Recall #Z-858/860-0.
+Code:             The sticker label attached to the bottom of the box 
+                  reads "Latex Examination Gloves Cuffed Prepowdered
+                  Distributed by Lifetime International, Inc." Reorder #'s
+                  30401 (small); 30402 (medium); 30403 (large). 
+Manufacturer:     Made in Taiwan and were originally labeled as 
+                  distributed by James River Corporation, Health Care 
+                  Division, Greenville, South Carolina. 
+
+                                    -5- 
+
+
+
+
+
+Recalled by:      Lifetime International, Inc., Green Bay, Wisconsin, by
+                  letters July 27, 1990.  Firm-initiated recall ongoing.
+Distribution:     Nationwide. 
+Quantity:         225/10 box cases were distributed.
+Reason:           Product labeled "REJECT-NOT FOR MEDICAL USE" were 
+                  relabeled and sold for medical use. 
+
+                                    ----
+
+Product:          Braun Tri-Wheeler, Wheelchair:
+                  (a) Tiller model equipped with a single switch controller,
+                  Model T1100, T1100F, T1200, T1200F; 
+                  (b) Joystick model equipped with a double switch or 
+                  two-channel controller, Model J1100F, J1200, J1200F.
+                  Recall #Z-861/862-0.
+Code:             (a) T1100-02-0025, T1100-02-0500 thru 0504; T1100F-02-0260
+                  T1100F-02-0500 thru 0508; T1200-02-0501 thru 0503 
+                  T1200-02-0531; T1200F-02-0019; T1200-02-0503; 
+                  T1200F-02-0513 thru 0547; T1200F-02-0613; T1100F-01-0500
+                  thru 0512;
+                  (b) J1100F-02-0500 and 0501; J1200-02-0500 thru 0502; 
+                  J1200F-02-0500 thru 0519. 
+Manufacturer:     Braun Corporation, Clearwater, Florida. 
+Recalled by:      Braun Corporation, Winamac, Indiana by letter April 18, 
+                  1990.  Firm intiated recall ongoing.
+Distribution:     Nationwide. 
+Quantity:         (a) 76; (b) 25 wheelchairs were distributed.
+Reason:           A defect may exist in the tiller or joystick control to 
+                  the device which causes it to involuntarily accelerate or 
+                  chatter.
+
+                                    ----
+
+Product:          Bard PCA Infusion Pump and Accessories, used for the
+                  controlled rate delivery of parenteral fluids.
+                  Recall #Z-863-0.
+Code:             All serial numbers for catalog #6464001.
+Manufacturer:     BardMed Systems, Division of C.R. Bard Inc., North
+                  Reading, Massachusetts. 
+Recalled by:      Manufacturer, letter August 15, 1990.  Firm-initiated 
+                  field correction ongoing. 
+Distribution:     Nationwide. 
+Quantity:         10,404 units were distributed.
+Reason:           The susceptability of the pump to high levels of
+                  electrostatic discharge (ESD) may cause the pump to reset 
+                  from the operating mode to the pre-operation self test
+                  check mode and shut-down pumping operation.  The pump may 
+                  "freeze" in the operating mode and shut-down pumping
+                  operation with or without activating an alarm.
+
+                                    ----
+
+                                    -6- 
+
+
+
+
+
+CORRECTION:       Model 7100 Direct 30/30 Blood Glucose Sensor, 
+                  Z-751-0 which appeared in the August 29, 1990 Enforcement 
+                  Report should read: 
+
+                  Reason:  Calibration at or below room temperature followed
+                           by use of these devices (serial numbers below
+                           10000) above 80 degrees F to perform a blood 
+                           test may result in slightly lower blood glucose
+                           reading. 
+
+                                    ----
+
+                  Class III - 
+
+Product:          Beckman "RHF CAL" Rheumatoid Factor Calibrator an in-vitro
+                  diagnostic product for use with Beckman specific protein
+                  analyzers in the calibration of immunochemistry.
+                  Recall #Z-854-0.
+Code:             Lot #M909183, EXP 3/31/91.
+Manufacturer:     Beckman Instruments, Inc., Carlsbad, California.
+Recalled by:      Beckman Instruments, Brea, California by letter 
+                  March 28, 1990.  Firm initiated recall ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         372 units were distributed. 
+Reason:           Some vials are unstable after reconstitution which may
+                  result in depressed recovery of controlled material 
+                  and patient samples.
+
+                                    ----
+
+Product:          Beckman "CAL I" Protein Calibrator an in-vitro diagnostic 
+                  product for use with Beckman specific protein analyzers 
+                  and reagents in the calibration of immunochemistry. 
+                  Recall #Z-855-0.
+Code:             Lot #M903115, EXP 10/31/90. 
+Manufacturer:     Beckman Instruments, Inc., Carlsbad, California.
+Recalled by:      Beckman Instruments, Inc., Brea, California by letter 
+                  March 28, 1990.  Firm initiated recall ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         3,341 units were distributed. 
+Reason:           The product exhibits a loss of activity that may
+                  cause an elevated recovery of control materials and 
+                  patient samples.
+
+                                    ----
+
+Product:          Pneumo Check Hand Held Spirometer. Recall #Z-857-0. 
+Code:             Model #61000, serial #'s 600027 to 601965.
+Manufacturer:     Welch Allyn, Inc., Skaneateles Falls, New York. 
+Recalled by:      Manufacturer, by telephone July 13, 1990.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Nationwide, Germany, Japan. 
+Quantity:         1,068 units were distributed. 
+
+                                    -7- 
+
+
+
+
+
+Reason:           A defect in the molding of the rear housing can cause 
+                  erroneous readings.  Squeezing the housing with as little 
+                  as five pounds of pressure in a particular location can 
+                  interfere with the instrument's transducer. 
+
+                                    ----
+
+                            VETERINARY PRODUCTS 
+
+                                    NONE
+
+Medical Device Safety Alerts: 
+
+Product:          Cobe Centrysystem 3 Dialysis Control Unit, a
+                  micro-processor controlled system that provides 
+                  ultra-filtration of blood from patients undergoing
+                  dialysis. Safety Alert #M-064-0.
+Code:             All serial numbers. 
+Manufacturer:     Cobe Laboratories, Inc., Lakewood, Colorado.
+Alerted by:       Manufacturer by letter June 21, 1990. 
+Distribution:     Nationwide, international.
+Quantity:         Over 4,000 units were distributed.
+Reason:           Firm's June 21, 1990 letter alerts users that the 
+                  device presents a hazard for over-ultrafiltration which 
+                  could lead to unpredictable patient weight fluid problem.

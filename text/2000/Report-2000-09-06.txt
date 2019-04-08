@@ -1,0 +1,600 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Feb
+		
+		
+		
+		  
+		  06
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      34 captures
+	      03 Dec 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA 
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration, Department of Health and Human Services. 
+It contains information on actions  taken in connection with agency
+Regulatory activities.
+
+ September 6, 2000                                         00-36
+
+RECALLS AND FIELD CORRECTIONS: FOODS CLASS II 
+
+PRODUCT
+Alinosi brand:
+a) Banana Ice Cream, packaged in quart and 3-gallon cartons; b) French Vanilla Ice Cream packaged in quart and 3-gallon cartons; c) Mint Chocolate Chip Ice Cream, packaged in quart and 3-gallon cartons; d) Orange Pineapple Ice Cream packaged in quart and 3-gallon cartons; e) Peach Ice Cream, packaged in quart and 3-gallon cartons; f) Pistachio Almond Ice Cream, packaged in quart and 3-gallon cartons; g) Strawberry Ice Cream packaged in quart and 3-gallon cartons. 
+Recall #F-792/798-0.
+CODE
+All products distributed prior to December 1999.
+MANFACTURER
+Alinosi Ice Cream & Candy Co., Detroit, Michigan.
+RECALLED BY
+Manufacturer, by visit in October/November 1999.  Firm-initiated field correction (relabeling) complete.
+DISTRIBUTION
+Michigan.
+QUANTITY
+Undetermined.
+
+
+REASON
+Products contained undeclared FD&C; Yellow No. 5.
+______
+PRODUCT
+Zentis brand Diat Konfiture Extra - Erdbeere (Diet Strawberry Spread), in glass jars, net weight 430-grams.  Recall #F-799-0.
+CODE
+None.
+MANFACTURER
+Franz Zentis GMBH & Company, Germany.
+RECALLED BY
+East Coast Foods, Inc., Brooklyn, New York, by letter dated February 28, 2000.  Completed recall resulted from sample analysis and follow-up by the New York State Department of Agriculture and Markets.
+DISTRIBUTION
+New York, Pennsylvania, New Jersey, California, Florida, Utah, Massachusetts, Connecticut, Canada.
+QUANTITY
+120 cases (10 jars per case) were distributed.
+REASON
+Product contained cyclamate, a substance prohibited from direct addition or use as human food (21 CFR 189.135).
+________
+PRODUCT
+Wing Kee Lung brand Soft Candy, packaged in flexible plastic bags, net wt. 10-oz.  Recall #F-805-0.
+CODE
+None.
+MANFACTURER
+Shenzhen Constructive Equipments & Materials Import & Expirt Corporation, Shenzhen, China.
+RECALLED BY
+Tai Wing Hong Importer, Inc., Brooklyn, New York, by letter dated August 4, 1999.  Completed recall resulted from sample analysis and follow-up by the New York State Department of Agriculture.
+DISTRIBUTION
+New York.
+QUANTITY
+28 cases (28 bags per case) wee distributed.
+REASON
+The soft candy contains the unapproved color additives Ponceau 4R and Carmoisine.
+________
+PRODUCT
+Golden Lion brand Ginger Candy, packaged in 110-gram flexible plastic bags.  Recall #F-806-0.
+CODE
+None.
+MANFACTURER
+Hua Feng Food Co., Ltd., Taishan City, Japan.
+RECALLED BY
+Blooming Import Co., Inc., Brooklyn, New York (importer), by letter dated February 29, 2000.  Completed field correction (relabeling) resulted from sample analysis and follow-up by the New York State Department of Agricluture.
+DISTRIBUTION
+New York.
+QUANTITY
+Approximately 51 cases were distributed.
+REASON
+The product: 
+a) contained sodium saccharin which is not permitted for use in this type of product;
+b) was actually preserved citrus fruit peel labeled as Ginger Candy; 
+c) label declared sodium benzoate as an ingredient but did not provide a statement of the preservative function.
+______
+UPDATE
+Correction to recall number F-202-3, published in the January 27, 1993 Enforcement Report.   FDA has recently been advised by Scrava Pty. Ltd, Smithfield N.S.W. Australia that the recalled Pinuli Herbal Tea was packed for, rather than manufactured by, Scrava Pty. Ltd. by Instituto Botanica La Selva, Monte Video, Uruquay
+
+RECALLS AND FIELD CORRECTIONS: FOODS CLASS III
+________
+PRODUCT
+Infant Formulas:
+Products distributed in the United States:
+a) Nestle Carnation Good Start, Milk-Based Infant Formula for Babies 0-12 Months, Concentrated Liquid, 13-fl oz;
+b) Nestle Carnation Follow-Up, Milk-Based Infant Formula for Babies 4 Months & Older, Concentrated Liquid, 13-fl oz; c) Nestle Carnation Alsoy, Soy Infant Formula for Babies 0-12 Months, Concentrated Liquid, 13-fl oz;
+Products distributed in Canada:
+d) Nestle Good start/Nestle Bon Depart (in French) Infant Formula Concentrated Liquid, 385-ml; e) Nestle Follow-Up/Nestle Transition (in French) Infant Formula Concentrated Liquid, 385-ml.  Recall #F-800/804-0. 
+CODE
+Alsoy Concentrate:
+9337EWAC3876 and 9338EWAC3876
+Follow-Up Concentrate: 
+9300EWFC3785, 9301EWFC3785, 9304EWFC3791, 9351EWFC3907, and 9351EWFC3909 
+Good Start Concentrate: 
+9291EWGC3749, 9291EWGC3750, 9291EWGC3752, 9291EWGC3753, 9291EWGC3754, 9292EWGC3754, 9292EWGC3755, 9292EWGC3756, 9292EWGC3757, 9292EWGC3758, 9292EWGC3759, 9293EWGC3759, 9298EWGC3777, 9298EWGC3778, 9299EWGC3779, 9299EWGC3780, 9299EWGC3781, 9299EWGC3782, 9300EWGC3782, 9300EWGC3783, 9300EWGC3784, 9316EWGC3827, 9316EWGC3829, 9316EWGC3830, 9317EWGC3830, 9344EWGC3895, 9344EWGC3896, 9345EWGC3896, 9347EWGC3897, 9348EWGC3897, 0007EWGC3010, 0007EWGC3011, 0007EWGC3012, 0008EWGC3012, 0008EWGC3013, 0013EWGC3030, 0013EWGC3031, 0013EWGC3032, and 0042EWGC3114
+Lots recalled in Canada: 
+Good Start Concentrate: 
+0014EWGC3033, 0014EWGC3034, 0015EWGC3034, 0042EWGC3114, 0042EWGC3115, 0042EWGC3116, 0042EWGC3117, 0042EWGC3118, 0043EWGC3118, 0043EWGC3119, 9317EWGC3832, 9317EWGC3833, 9317EWGC3834, 9318EWGC3834, 9318EWGC3835, 9318EWGC3837, 9348EWGC3898, 9348EWGC3899 and 9348EWGC3900 
+Follow-Up Concentrate:  
+0008EWFC3014, 9304EWFC3791, 9304EWFC3792, 9304EWFC3793 and 9348EWFC3902.
+MANFACTURER
+Nestle USA, Eau Claire, Wisconsin. 
+RECALLED BY
+Nestle USA, Glendale, California, by visit initiating on March 17, 2000.  Press release was issued on March 17, 2000.  Firm-initiated recall complete. 
+DISTRIBUTION
+Nationwide and Canada. 
+QUANTITY
+Approximately 250,000 cases (12 cans per case) were distributed. 
+REASON
+The product was manufactured under conditions which suggested that the product may have received a process less than commercially sterile. 
+________
+PRODUCT
+1) McDonald's PWE Liquid Egg Product (with preservative nisin)
+2) a) McDonald's PWE Liquid Egg Product (no nisin); 
+   b) Golden Nature Liquid Egg Product (no nisin). 
+Recall #F-807/808-0. 
+CODE
+1) Codes beginning: 1150, 1160, 1170, 1180, 1190, 1220, 1230 and ending with "P1804;
+2) a) CODEs beginning: 1080, 1090, 1100, 1110, 1120, 1150 and ending with P1804;
+   b) Codes beginning: "1100, 1170 and ending with "P1804".
+MANFACTURER
+Sunny Fresh Foods, Inc., Lake Odessa, Michigan. 
+RECALLED BY
+Sunny Fresh Foods, Inc., Monticello, Minnesota, by telephone on May 16, 2000.  Firm-initiated recall ongoing. 
+DISTRIBUTION
+Nationwide. 
+QUANTITY
+Approximately 110,553 cases were distributed. 
+REASON
+Product is spoiling because it contains Pseudomonas spp. 
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS CLASS II
+________
+PRODUCT
+Cryoprecipitated AHF.  Recall #B-847-0. 
+CODE
+Unit Numbers: 30GH51679 and 30GH51671. 
+MANFACTURER
+American Red Cross Blood Services, Ashley, Pennsylvania. 
+RECALLED BY
+Manufacturer, by telephone on July 6, 1999.  Firm-initiated recall complete. 
+DISTRIBUTION
+Pennsylvania. 
+QUANTITY
+2 units were distributed.
+REASON
+Blood products corresponded to two units of red blood cells that were implicated in a transfusion reaction. 
+________
+PRODUCT
+Source Plasma.  Recall #B-897-0. 
+CODE
+Unit Numbers: WXP093MO, WXP563MO, USM411MO, USP122MO, USU176MO, USU456MO. 
+MANFACTURER
+Aventis Bio-Services, Inc.
+F.K.A. Centeon Bio-Services, Inc., Louisville, Kentucky (Collection Site). 
+RECALLED BY
+Aventis Central Testing Laboratory, Knoxville, Tennessee, by fax on June 10, 1999, and by letter dated June 18, 1999.  Firm-initiated recall complete. 
+DISTRIBUTION
+California and France. 
+QUANTITY
+6 units were distributed. 
+REASON
+Blood products were collected from a donor with a history of having tested positive for hepatitis. 
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Recovered Plasma.  Recall #B-1032/1034-0. 
+CODE
+Unit #24KK00833. 
+MANFACTURER
+American Red Cross Blood Services, Louisville, Kentucky. 
+RECALLED BY
+Manufacturer, by fax on May 2, 2000,and by letters dated May 5 and 11, 2000.  Firm-initiated recall complete.
+DISTRIBUTION
+Kentucky and California. 
+QUANTITY
+1 unit of each component was distributed. 
+REASON
+Blood products tested negative for the antibody to the human immunodeficiency virus type 1 (HIV-1), but were collected from a donor who previously tested repeatedly reactive for the antibody, Western Blot indeterminate. 
+________
+PRODUCT
+a) Red Blood Cells; b) Recovered Plasma. 
+Recall #B-1098/1099-0. 
+CODE
+Unit Numbers: a) V67169, V80035, Y09064; b) V67169, V80035, Y09064. 
+MANFACTURER
+Aurora Area Blood Bank, Aurora, Illinois.
+RECALLED BY
+Manufacturer, by letters dated May 23 and 24, 2000.  Firm-initiated recall complete. 
+DISTRIBUTION
+Illinois and Switzerland. 
+QUANTITY
+3 units of each component were distributed. 
+REASON
+Blood products, which tested negative for the antibody to the human immunodeficiency virus (HIV-1/2), but were collected from a donor who previously tested repeatedly reactive for the antibody, Western Blot negative.  
+________
+PRODUCT
+Red Blood Cells, Leukocytes Reduced.  Recall #B-1100-0. 
+CODE
+Unit #40FX17257. 
+MANFACTURER
+American Red Cross Blood Services, Peoria, Illinois.
+RECALLED BY
+Manufacturer, by telephone on May 17, 2000, and by letters dated May 31,2000, and June 3,2000.  Firm-initiated recall complete.  DISTRIBUTION
+Alabama. 
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who was previously deferred at another donor center.   
+________
+PRODUCT
+Source Plasma.  Recall #B-1102-0. 
+CODE
+Unit Numbers: G63407-076, G63719-076, G65542-076, and G66044-076. 
+MANFACTURER
+Alpha Therapeutic Corporation, Fayetteville, North Carolina. 
+RECALLED BY
+Manufacturer, by letter dated February 24, 1999.  Firm-initiated recall complete. 
+DISTRIBUTION
+Spain. 
+QUANTITY
+4 units were distributed. 
+REASON
+Blood products, which tested negative for the hepatitis B surface antigen (HBsAg), but were collected from a donor who previously tested reactive for HbsAg. 
+________
+PRODUCT
+a) Red Blood Cells; b) Recovered Plasma.  
+Recall #B-1103/1104-0. 
+CODE
+Unit #53GN36428. 
+MANFACTURER
+American Red Cross Blood Services, Baltimore, Maryland. 
+RECALLED BY
+Manufacturer, by letter dated February 28, 2000, and on February 29, 2000.  Firm-initiated recall complete. 
+DISTRIBUTION
+Maryland and California. 
+QUANTITY
+1 unit of each component was distributed. 
+REASON
+Blood products were collected from a donor taking the drug Lupron. 
+________
+PRODUCT
+Platelets, Pheresis.  Recall #B-1105-0. 
+CODE
+Unit #53LT65902. 
+MANFACTURER
+American Red Cross Blood Services, Baltimore, Maryland. 
+RECALLED BY
+Manufacturer, by letters April 18, 2000, and July 14, 2000.  Firm-initiated recall ongoing. 
+DISTRIBUTION
+Maryland. 
+QUANTITY
+1 unit was distributed. 
+REASON
+Blood product was collected from a donor who reported travel to an area designated as endemic for malaria. 
+________
+PRODUCT
+Red Blood Cells.  Recall #B-1106-0. 
+CODE
+Unit #7592305. 
+MANFACTURER
+Carter Blood Center, Bedford, Texas. 
+RECALLED BY
+Manufacturer, by letter dated March 29, 2000.  Firm-initiated recall complete. 
+DISTRIBUTION
+Texas. 
+QUANTITY
+1 unit was distributed. 
+REASON
+Blood product was collected from a donor who reported travel to an area designated as endemic for malaria. 
+
+
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets, Irradiated.  
+Recall #B-1110/1111-0. 
+CODE
+Unit #M58361. 
+MANFACTURER
+Virginia Blood Services, Richmond, Virginia. 
+RECALLED BY
+Manufacturer, by telephone on May 1, 2000.  Firm-initiated recall complete. 
+DISTRIBUTION
+Virginia.
+QUANTITY
+1 unit of each component was distributed. 
+REASON
+Blood products were collected from a donor whose suitability was not adequately determined. 
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Plasma;
+d) Source Leukocytes.  Recall #B-1112/1115-0. 
+CODE
+Unit Numbers: a) 53GN98918, 53T30027; b) 53GN98918;
+c) 53GN98918, 53T30027; d) 53T30027. 
+MANFACTURER
+American Red Cross Blood Services, Baltimore, Maryland. 
+RECALLED BY 
+Manufacturer, by letters February 15, 2000 and March 22, 2000.  Firm-initiated recall ongoing. 
+DISTRIBUTION
+Maryland and New Jersey. 
+QUANTITY
+a) 2 units; b) 1 unit; c) 2 units; d) 1 unit was distributed. 
+REASON 
+Blood products were collected from a donor with a history of having tested positive for Hepatitis C. 
+________
+PRODUCT
+a) Red Blood Cells; b) Red Blood Cells, Leukocytes Reduced; c) Fresh Frozen Plasma; d) Platelets; e) Buffy Coat; f) Recovered Plasma.  Recall #B-1116/1121-0. 
+CODE
+Unit Numbers: a) W05988, W00780, KH17935; b) W04347;
+c) W05988, KH17935; d) W05988, W00780, KH17935; e) W04347; f) W04347, W00780. 
+MANFACTURER
+Virginia Blood Services, Richmond, Virginia. 
+RECALLED BY 
+Manufacturer, by telephone on April 4, 2000, and by letters dated April 12, 2000, and May 24, 2000.  Firm-initiated recall complete. 
+DISTRIBUTION
+Virginia and Switzerland. 
+QUANTITY
+a) 3 units; b) 1 unit; c) 2 units; d) 3 units; e) 1 unit; f) 2 units were distributed. 
+REASON
+Blood products were collected from a donor with a history of having tested positive for Hepatitis C. 
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Fresh Frozen Plasma.  Recall #B-1123/1125-0. 
+CODE
+Unit #KR26924. 
+MANFACTURER
+Virginia Blood Services, Richmond, Virginia. 
+RECALLED BY
+Manufacturer, by telephone on December 15, 1998, and by letter dated 12/23/98.  Firm-initiated recall complete. 
+DISTRIBUTION
+Virginia. 
+QUANTITY
+1 unit of each component was distributed. 
+REASON
+Blood products were collected from a donor with a history of having tested positive for Hepatitis B. 
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets.  Recall #B-1127/1128-0. 
+CODE
+Contact FDA, Center for Biologics Evaluation and Research, Office of Compliance (301) 827-6220 for individual unit numbers recalled. 
+MANFACTURER
+American Red Cross Blood Services, Baltimore, Maryland. 
+RECALLED BY
+Manufacturer, by letter and/or fax on March 29, 31, 2000, April 6, 2000, April 12-14, 2000, and May 18, 2000.  Firm-initiated recall complete. 
+DISTRIBUTION
+Maryland, Virginia, Pennsylvania, and District of Columbia. 
+QUANTITY
+a) 118 units; b) 13 units were distributed.
+REASON
+Blood products were inappropriately collected in 450-ml collection sets. 
+________
+PRODUCT
+Platelets, Pheresis.  Recall #B-1131-0. 
+CODE
+Unit #9015822. 
+MANFACTURER
+Medic Regional Blood Center, Knoxville, Tennessee. 
+RECALLED BY
+Manufacturer, by telephone on January 22, 1998, and by letter dated January 29, 1998.  Firm-initiated recall complete. 
+DISTRIBUTION
+Tennessee. 
+QUANTITY
+1 unit was distributed. 
+REASON
+Blood product had an unacceptable platelet count. 
+________
+PRODUCT
+Platelets/Granulocytes, Irradiated.  Recall #B-1133-0. 
+CODE
+Unit #9019145. 
+MANFACTURER
+Medic Regional Blood Center, Knoxville, Tennessee. 
+RECALLED BY
+Manufacturer, by letter dated May 8, 1998.  Firm-initiated recall complete. 
+DISTRIBUTION
+Tennessee. 
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was labeled with extended expiration dates. 
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS III
+________
+PRODUCT
+Recovered Plasma.  Recall #B-848-0. 
+CODE
+Unit Numbers: 30GH51679 and 30GH51671. 
+MANFACTURER
+American Red Cross Blood Services, Ashley, Pennsylvania.
+RECALLED BY 
+Manufacturer, by fax on July 22, 1999.  Firm-initiated recall complete. 
+DISTRIBUTION
+Switzerland. 
+QUANTITY
+2 units were distributed. 
+REASON
+Blood products corresponded to two units of Red Blood Cells that were implicated in a transfusion reaction. 
+________
+PRODUCT
+Red Blood Cells for Further Manufacture.   
+Recall #B-1064-0. 
+CODE
+Unit Numbers: 49FJ69617 and 49FJ72878. 
+MANFACTURER
+American Red Cross Blood Services, Wichita, Falls, Texas. 
+RECALLED BY
+American Red Cross Blood Services, Tulsa, Oklahoma, by letters September 10, 1999, and October 13, 1999.  Firm-initiated recall complete. 
+DISTRIBUTION
+Illinois and Michigan. 
+REASON
+Blood products were collected from a donor who lived in an area designated as endemic for malaria. 
+________
+PRODUCT
+a) Platelets; b) Fresh Frozen Plasma.  
+Recall #B-1107/1108-0. 
+CODE
+Unit #7733842. 
+MANFACTURER
+Carter Blood Center, Bedford, Texas.
+RECALLED BY
+Manufacturer, by letter dated April 3, 2000.  Firm-initiated recall complete. 
+DISTRIBUTION
+Texas. 
+QUANTITY
+1 unit was distributed.
+REASON
+Blood products were prepared from a whole blood unit that had discrepant start and end times documented. 
+
+
+________
+PRODUCT
+Cryoprecipitated AHF.  Recall #B-1109-0. 
+CODE
+Unit #7710990. 
+MANFACTURER
+Carter Blood Center, Bedford, Texas. 
+RECALLED BY
+Manufacturer, by telephone on February 3, 2000.   Firm-initiated recall complete. 
+DISTRIBUTION
+Texas. 
+QUANTITY
+1 unit was distributed. 
+REASON
+Blood product was prepared from a whole blood unit that had discrepant start and end times documented. 
+________
+PRODUCT
+Red Blood Cells.  Recall #B-1129-0. 
+CODE
+Unit #T03926. 
+MANFACTURER
+Virginia Blood Services, Richmond, Virginia. 
+RECALLED BY
+Manufacturer, by telephone on April 19, 2000.  Firm-initiated recall complete. 
+DISTRIBUTION
+Virginia. 
+QUANTITY
+1 unit was distributed. 
+REASON
+Blood product was collected from a donor with a history of colitis, was distributed. 
+________
+PRODUCT
+Red Blood Cells, Leukocytes Reduced.  Recall #B-1130-0. 
+CODE
+Unit Numbers: 49LG48792, 49LG48794, 49LG48795, 49LG48796, 49LG48797, 49LG48798, 49LG48799, 49LG48801, 49LG48802, 49LG48803, 49LG48804, 49LG48805, 49LG48806, 49LG48807, 49LG48809, 49LG48810, 49LG48830, 49LG48831, 49LG48832, 49LG48833, 49LG48834, 49LG48837, 49LG48838, 49LG48839, 49LG48841, 49LG48843, 49LG48845, 49LG48847, 49LG48849, 49LG48852. 
+MANFACTURER
+American Red Cross Blood Services, Waco, Texas. 
+RECALLED BY
+Manufacturer, by letter dated April 20, 2000.  Firm-initiated recall complete. 
+DISTRIBUTED
+Texas. 
+QUANTITY
+30 units were distributed. 
+REASON
+Blood products were leukoreduced by filtration greater than five days past the time of collection. 
+________
+PRODUCT
+Red Blood Cells, Irradiated.  Recall #B-1132-0. 
+CODE
+Unit Numbers: 9004483 and 9004485. 
+MANFACTURER
+Medic Regional Blood Center, Knoxville, Tennessee. 
+RECALLED BY
+Manufacturer, by telephone on May 20, 1997, followed by letter dated June 6, 1997.  Firm-initiated recall complete. 
+DISTRIBUTION
+Tennessee. 
+QUANTITY
+2 units were distributed. 
+REASON
+Blood products were labeled with extended expiration dates. 
+
+END OF ENFORCEMENT REPORT FOR Sept. 6, 2000.
+####
+
+
+
+
+FDA News Page   |   FDA Home Page 
+                                                          
+  
+
+Office of Public Affairs
+Web page uploaded by clb 2000-SEP-05.

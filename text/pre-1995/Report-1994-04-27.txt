@@ -1,0 +1,1683 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  SEP
+		  Mar
+		
+		
+		
+		  
+		  26
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      27 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dm
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+04/27/1994
+
+Recalls and Field Corrections:  Foods -- Class I -- 04/27/1994
+
+April 27, 1994                                                 94-17
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+==========================
+_______________
+UPDATE         Elsa Peretti Ceramicware, Recall #F-330/368-4 which appeared
+               in the April 13, 1994 Enforcement Report should be corrected
+               as follows:  
+               QUANTITY:  SKU 10336821 should be Blue/White Teapots
+                          SKU 10464935 should be Blue/White Bowl
+                          SKU 10351782 should be 183 pieces.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Fresh Shellstock Oysters (actually shucked oysters), packaged
+               into plastic containers.  Recall #F-371-4.
+CODE           Shipper packer #1147SP.
+MANUFACTURER   Lionel's Seafood, Hopedale, Louisiana (distributor).
+RECALLED BY    Distributor.  Oysters were destroyed November 12, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Louisiana, Alabama.
+QUANTITY       623 gallons were distributed; firm estimates none remains on
+               the market.
+REASON         The oysters harvested at Cabbage Reef and Grand Pass have been
+               associated with at least 16 discrete outbreaks of
+               gastroenteritis.
+_______________
+PRODUCT        Fresh Shellstock Oysters packaged in sacks.  Recall #F-372-4.
+CODE           Oyster's sacks are identified by a tag showing the harvester
+               license number and waters from which harvested.
+MANUFACTURER   Cyril's Ice House Supplies, St. Bernard, Louisiana
+               (distributor).
+RECALLED BY    Distributor, telephone on or about November 23, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Louisiana, Alabama, Mississippi.
+QUANTITY       539 sacks were distributed; firm estimates none remains on the
+               market.
+REASON         The oysters harvested at Cabbage Reef and Grand Pass have been
+               associated with at least 16 discrete outbreaks of
+               gastroenteritis.
+
+_______________
+PRODUCT        Shellstock Oysters.  Recall #F-373-4.
+CODE           None.
+MANUFACTURER   Collins Oyster Company, Golden Meadow, Louisiana.
+RECALLED BY    Manufacturer, by visit on or about Novemer 23, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Louisiana.
+QUANTITY       Approximately 1,846 sacks (approximately 80 pounds per sack)
+               were distributed; firm estimates none remains on the market.
+REASON         The oysters harvested at Cabbage Reef and Grand Pass have been
+               associated with at least 16 discreet outbreaks of
+               gastroenteritis.
+
+_______________
+PRODUCT        Shellstock Oysters packed in burlap sacks.  Recall #F-374-4.
+CODE           All product dated from 9-9-93 through 11-16-93.
+MANUFACTURER   B&S; Seafood, Pass Christian, Mississippi (shipper).
+RECALLED BY    Shipper, by telephone November 16, 1993, and by letter
+               November 29, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Mississippi, Alabama.
+QUANTITY       2,079 sacks were distributed; firm estimates none remains on
+               the market.
+REASON         The oysters harvested at Cabbage Reef and Grand Pass have been
+               associated with at least 16 discreet outbreaks of
+               gastroenteritis.
+
+_______________
+PRODUCT        Raw In-Shell Oysters in unlabeled burlap sacks.  
+               Recall #F-375-4.
+CODE           None.
+MANUFACTURER   Eddies Quality Oysters, Port Sulphur, Louisiana.
+RECALLED BY    Manufacturer, by telephone November 17, 18, 19, 1993.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Alabama, Virginia, Maryland, Florida, Texas, Louisiana,
+               Mississippi.
+QUANTITY       Firm estimates none remains on the market.
+
+                                    -2-REASON         The oysters harvested at Cabbage Reef and Grand Pass have been
+               associated with at least 16 discreet outbreaks of
+               gastroenteritis.
+
+_______________
+PRODUCT        (a) Shellstock Oysters; (b) Shucked Oysters, harvested from
+               Grand Pass growing area in Louisiana.  Recall #F-376/377-4.
+CODE           None.
+MANUFACTURER   King Cajun Quality Seafoods, New Iberia, Louisiana.
+RECALLED BY    Manufacturer, by telephone November 22, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Tennessee, Florida, Illinois, Louisiana, Missouri.
+QUANTITY       Firm estimates none remains on the market.
+REASON         The oysters harvested at Cabbage Reef and Grand Pass have been
+               associated with at least 16 discreet outbreaks of
+               gastroenteritis.
+
+_______________
+PRODUCT        Fresh Shellstock Oysters packaged in sacks.  Recall #F-378-4.
+CODE           Sacks are identified by a tag which identifies the harvester
+               license number and waters from which harvested.
+MANUFACTURER   Molero Seafood Products, Inc., St. Bernard, Louisiana
+               (distributor).
+RECALLED BY    Distributor, by visit.  Firm-initiated recall complete.
+DISTRIBUTION   Louisiana, Alabama.
+QUANTITY       Firm estimates none remains on the market.
+REASON         The oysters harvested at Cabbage Reef and Grand Pass have been
+               associated with at least 16 discreet outbreaks of
+               gastroenteritis.
+
+_______________
+PRODUCT        Del Monte Hamburger Relish, in 12 ounce jars.
+               Recall #F-379-4.
+CODE           3014V1H08.
+MANUFACTURER   Vlasic Foods, Inc., City of Industry, California. (This plant
+               is no linger in operation).
+RECALLED BY    Del Monte Research Center, Walnut Cree, California, by letter
+               dated December 3, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Texas, Louisiana, Nevada, California.
+QUANTITY       258 cases (12 jars per case) were distributed.
+REASON         Product is contaminated with glass.
+
+_______________
+PRODUCT        Tuna Loins in individual unlabeled plastic sleeves.  
+               Recall #F-382-4.
+CODE           Lot #93.09.20.
+MANUFACTURER   Ban Chang Frozen Ind. Co., Ltd., Taiwan, Republic of China.
+RECALLED BY    Seven Seas Seafoods, Alhambra, California, by telephone
+               February 11, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Washington state, Florida.
+QUANTITY       42,013 pounds were distributed; firm estimates none remains on
+               the market.
+REASON         Product was decomposed and contained histamine.
+                                    -3-RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        Tree Top Apple Juice in 1 gallon plastic containers.  
+               Recall #F-381-4.
+CODE           C033H0900, C033H0901.
+MANUFACTURER   Hi Country Foods Corporation, Selah, Washington.
+RECALLED BY    Tree Top, Inc., Selah, Washington, by letter March 2, 1994. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Washington state.
+QUANTITY       Approximately 20 cases (6 units per case) were distributed.
+REASON         Product is contaminated with yeast.
+
+_______________
+PRODUCT        Grand Union brand "no sugar added" Ice Pops, 1.75 fluid ounce
+               pops, cherry, orange, or grape flavored pops on a wooden
+               stick.  Recall #F-384-4.
+CODE           All date codes.
+MANUFACTURER   Dunkirk Ice Cream Company, Inc., Dunkirk, New York.
+RECALLED BY    Manufacturer, by telephone March 4, 1994, followed by letter. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   New Jersey, New York.
+QUANTITY       Approximately 1,320 cases (12 cartons per case, 12 pops per
+               carton).
+REASON         The label shows inconsistencies regarding contents, calories
+               and is misleading since it claims "no sugar" but declares
+               dextrose as an ingredient.
+
+_______________
+PRODUCT        Minute Maid Apple Juice in 8.45 fluid ounce tetra paks. 
+               Recall #F-386-4.
+CODE           3-pack and 9-pack:  XX:XXA"Y" OCT2794 AXXXXXZ;
+               XX:XXA"Y" OCT2894 AXXXXXZ; XX:XXA"Y" OCT2994 AXXXXXZ.
+               ("X" is a number between 1-9, "Y" is the letter C or D, "Z" is
+               a letter between A and G).
+MANUFACTURER   Coca-Cola Foods, Anaheim, California.
+RECALLED BY    Coca-Cola Foods, A Division of the Coca-Cola Company, Houston,
+               Texas, by visits beginning February 14, 1994, firm-initiated
+               recall complete.
+DISTRIBUTION   Alaska, Arizona, California, Hawaii, Nevada, Utah.
+QUANTITY       27,985 cases (27 paks per case) were distributed.
+REASON         Product is contaminated with yeast.
+
+
+RECALLS AND FIELD CORRECTIONS:   DRUGS -- CLASS II
+========================
+_______________
+PRODUCT        (a) Family Medic First Aid Treatment, 4 ounce pump spray, OTC
+               for topical administration; (b) AHHH Sunburn Therapy, in 6
+               ounce and 1 ounce gel; 4 ounce and 5 ounce spray.  
+               Recall #D-254/255-4.
+CODE           All lots.
+MANUFACTURER   Tender Corporation, Littleton, New Hampshire (repacker).
+RECALLED BY    Repacker, by telephone March 17, 1994, followed by letter
+               March 25, 1994.  Firm-initiated recall ongoing.
+                                    -4-DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 59,000 units were distributed.
+REASON         Presence of Pseudomonas cepacia.
+
+_______________
+PRODUCT        Cephradine Capsules, USP, 250 mg capsules and 500 mg capsules,
+               Rx oral antibiotic, under the following labels:  Biocraft,
+               Aligen, Biocraft, Darby (Rugby), Drug Guild (Harber label),
+               Geneva Generics, Geneva Pharmaceutical, Goldline, Lederle,
+               Major, H.L. Moore, Qualitest, Schein, UDL, UHL, Warner-
+               Chilcott.  Recall #D-256/257-4.
+CODE           LOT NO.        POTENCY        SIZE          EXP DATE
+               51372          250 mg         100's         10/1/93
+               51374          500 mg         100's         10/1/93
+               51451          500 mg         100's         12/1/93
+               51503          250 mg         100's         10/1/93
+                                             500's         10/1/93
+               51519          500 mg         100's         1/1/94
+               51520          500 mg         24's          2/1/94 
+                                             100's         2/1/94 
+               51554          250 mg         100's         4/1/94
+               51645          250 mg         Unit Dose     7/1/94
+               51645          250 mg         24's          9/1/94           
+                                             100's         9/1/94 
+                                             500's         9/1/94 
+               51693          500 mg         100's         8/1/94
+               51702          500 mg         100's         10/1/94
+               51371          250 mg         100's         10/1/93
+                                             500's         10/1/93 
+               51373          500 mg         24's          10/1/93 
+                                             100's         10/1/93
+               51402          500 mg         100's         11/1/93
+               51570          500 mg         100's         4/1/94 
+               51646          250 mg         100's         9/1/94
+               51694          250 mg         100's         10/1/94
+               51701          500 mg         100's         10/1/94
+               52174          500 mg         100's         7/1/94 
+MANUFACTURER   Biocraft Laboratories, Inc., Elmwood Park, New Jersey.
+RECALLED BY    Biocraft Laboratories, Inc., Fair Lawn, New Jersey, by letter
+               dated October 8, 11-14, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       Firm estimates there may have been 2,000 bottles for each
+               recalled lot on the market at time of recall initiation.
+REASON         Potency not assured through expiration date.
+
+_______________
+PRODUCT        Triamcinolone Acetonide Cream, USP 0.1%, in 1 pound jars, Rx,
+               for relief of the inflammatory manifestations of
+               corticosteroid-responsive dermatoses.  Recall #D-259-4.
+
+                                    -5-CODE           Lot numbers:  1361 (EXP 4/94); 1679 (6/94); 1882 (8/94); 2163
+               (10/94); 2316 (12/94); 2373 (1/95); 2649 (3/95); 2807 (4/95);
+               2851 (5/95); 2899 (7/95); 3152 (8/95); 3401 (9/95), 3472
+               (8/95); 3740 (12/95); 3793 (1/96); 3941 3/96); 3980 (3/96);
+               4336 (5/96); 4373 (5/96); 4617 (7/96), 4671 (8/96); 4944
+               (9/95); 5203 (11/96) and 5250 (12/96).
+MANUFACTURER   Fougera, Division of Altana, Inc., Melville, New York.
+RECALLED BY    Manufacturer, by letters mailed March 29, 1994.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 100,504 jars were distributed.
+REASON         Superpotency.
+
+_______________
+PRODUCT        I.V. solutions contained in a plastic "Mini-Bag Plus"
+               containers with vial adaptor ports for admixture of single
+               dose powdered drugs; Baxter Healthcare Corporation, Deerfield,
+               IL 60015  The following products are subject to the recall: 
+               (a) 5% Dextrose Injection USP, packaged in Mini-Bag Plus 50 ml
+               and 100 ml Viaflex Single Dose Plastic Containers;
+               (b) 0.9% Sodium Chloride Injection USP, packaged in Mini-Bag
+               Plus 50 ml and 100 ml Viaflex Single Dose Plastic Containers. 
+               Recall #D-260/261-4.
+CODE           Lot numbers:  (a) PS026807, PS026930, PS026989, PS027466,
+               PS027847, PS027193, PS027193A, PS027193B, PS027557;
+               (b) PS027037, PS027086, PS027367, PS027912, PS027219,
+               PS027698, PS027698A, PS027698B.
+MANUFACTURER   (a) Baxter Healthcare Corp., North Cleveland, Mississippi.
+                  (manufacturer of vial adaptor, foil cover sub-assembly) 
+               (b) Baxter Healthcare Corp., Jayuya, Puerto Rico (manufacturer
+               of solutions.
+RECALLED BY    Baxter Healthcare Corp., I.V. Systems Division, Round Lake,
+               Illinois, by letter April 12, 1994.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       257,133 units were distributed; firm estimates that 15% of the
+               product remains on the market.
+REASON         Delamination of the foil seal located on the vial adaptor cap
+               which may result in difficulty removing the blue support disc.
+
+_______________
+PRODUCT        Percogesic, aspirin-free analgesic, for enhanced relief of
+               pain, 325 mg, in bottles of 90, 50 and 24 tablets.  
+               Recall #D-262-4.
+CODE           Lot numbers:  3021H or higher 90 tablet bottles; 3018H or
+               higher for bottles of 50; 3025H for bottles of 24.
+MANUFACTURER   The Procter & Gamble Company, Cayey, Puerto Rico.
+RECALLED BY    The Procter & Gamble Company, Cincinnati, Ohio, by letter on
+               or about April 11, 1994.  Firm-initiated recall ongoing. 
+DISTRIBUTION   Nationwide.
+QUANTITY       14,646 cases (36 24-tablet bottles per case); 15,682 cases
+               (36 50-tablet bottles per case); 20,176 cases (24 90-tablet
+               bottles per case) were distributed.
+                                    -6-REASON         Incomplete warning statement regarding antihistamine
+               ingredient.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Ibuprofen USP, 200 mg film coated tablets, in bottles of 50
+               and 100, non-prescription pain reliever.  Recall #D-258-4.
+CODE           Lot #6816.
+MANUFACTURER   H.N. Norton Company, Shreveport, Louisiana.
+RECALLED BY    Manufacturer, by telephone and letter March 1, 1994.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Alabama, Arizona, California, Florida, Georgia, Indiana,
+               Kentucky, Louisiana, Maryland, Michigan, New York, Oklahoma,
+               Texas, Virginia.
+QUANTITY       2,381 50-tablet bottles and 2,001 100-tablet bottles were
+               distributed.
+REASON         Bottles of 50 tablets were packaged in containers labeled 100
+               tablets.
+
+
+HUMAN TISSUE MANDATORY RECALLS:
+_______________
+PRODUCT        Allograft Human Banked Tissue, Dehydrated and Frozen Human
+               Bone.  Recall #B-202-4.
+CODE           Approximately 400 pieces from the following 24 donors:
+               937001, 937003, 937005, 937007, 937008, 937009, 937010,
+               937011, 937012, 937013, 937014, 937015, 937016, 937017,
+               937018, 937020, 937026, 937033, 937034, 937035, 937036,
+               937037, 937041, 937067.
+SUPPLIER       Skilosovsky Research Institute, Moscow, Russia.
+RECALLED BY    Transplant Technology, Inc., San Antonio, Texas, by letter
+               dated March 10, 1994.  FDA ordered recall ongoing.
+DISTRIBUTION   Alabama, Arizona, California, Florida, Georgia, Oklahoma,
+               Ohio, Oregon, Massachusetts, Maryland, Michigan, Minnesota,
+               North Carolina, South Carolina, Texas, West Virginia.
+QUANTITY       Approximately 400 pieces.
+REASON         This is a FDA ordered recall under 21 CFR 1270.  Human bone
+               tissue was distributed which:  1) lacked adequate
+               documentation about the donors' relevant medical history
+               related to risk factors for, or clinical evidence of,
+               hepatitis B, hepatitis C, or human immunodeficiency virus
+               (HIV) infection; and 2) lacked the required documentation of
+               the donors' medical histories in English as the original
+               record, or as a verified translation into English, accompanied
+               by the original record.
+
+_______________
+PRODUCT        Allograft Human Banked Tissue, Dehydrated and Frozen Human
+               Bone.  Recall #B-203-4.
+
+                                    -7-CODE           Approximately 2277 pieces from the following 36 donors:
+               93K01, 93K02, 93K03, 005-93, 007-93, 008-93, 009-93, 010-93,
+               93A011, 93A012, 93A015, 93A017, 93A018, 93A019, 93A022,
+               93A025, 93A026, 93A027, 93A029, 93A032, 93A036, 93A037,
+               93A038, 93A040, 93A043, 93A042, 93A045, 93A046, 93A047,
+               93A049, 93A050, 93A052, 93A053, 93A054, 93A057, 93A059.
+SUPPLIER       Skilosovsky Research Institute, Moscow, Russia.
+RECALLED BY    International Tissue Service, Ltd., San Antonio, Texas, by
+               letter dated March 9, 1994.  FDA ordered recall ongoing.
+DISTRIBUTION   Texas.
+QUANTITY       Approximately 2,277 pieces.
+REASON         This is a FDA ordered recall under 21 CFR 1270.  Human bone
+               tissue was distributed which:  1) lacked adequate
+               documentation about the donors' relevant medical history
+               related to risk factors for, or clinical evidence of,
+               hepatitis B, hepatitis C, or human immunodeficiency virus
+               (HIV) infection; and 2) lacked the required documentation of
+               the donors' medical histories in English as the original
+               record, or as a verified translation into English, accompanied
+               by the original record.
+
+_______________
+PRODUCT        Allograft Human Banked Tissue, Dehydrated and Frozen Human
+               Bone.  Recall #B-204-4.
+CODE           Approximately 3000 pieces from the following donors:
+               72592, 72992, 73092, 73292, 73492, 73792, 73892, 73992, 
+               74092, 74192, 74292, 74492, 74592, 74892, 74992, 75392, 
+               75492, 75592, 76192, 76292, 76492, 76592, 76792, 76892, 
+               77092, 77192, 77392, 77592, 78192, 78292, 78392, 79092, 
+               79192, 79292, 79392, 79492, 79892, 79992, 80092, 80192, 
+               80292, 80392, 80492, 80592, 80692, 80792, 81192, 81292, 
+               81392, 81492, 81892, 81992, 82092, 82192, 82292, 82392, 
+               82492, 82692, 82892, 82992, 83092, 83292, 83392, 10393, 
+               10493, 10693, 10793, 11093, 11193, 11393, 11493, 11593, 
+               11693, 11793, 11893, 12093, 12193, 12293, 12393, 12493, 
+               12593, 12893, 12993, 13393, 13593, 13893, 14093, 14193, 
+               14393, 14493, 14593, 14793, 14993, 15193, 15293, 15393, 
+               15593, 15793, 15893, 15993, 16093, 16193, 16393, 16493, 
+               16693, 16993, 17293, 17593, 17693, 17793, 17893, 18193, 
+               18693, 18993, 19093, 19293, 19393, 19493, 19593, 19893, 
+               19993, 20093, 20293, 20493, 20693, 20893, 21193, 21393, 
+               21493, 21693, 21793, 22193, 22293, 22493, 22593, 22693, 
+               23193, 23293, 23393, 23593, 23693, 24093, 24193, 24393, 
+               24493, 25193, 25293, 25993, 26693, 26793, 26993, 27093, 
+               27193, 27593, 27793, 27993, 28193, 28493, 29293, 29393, 
+               29493, 29593, 31493, 31593, 32193, 33193, 33693, 34093, 
+               34193, 34793, 34893, 34993.
+               Last two digits of donor number indicate the calendar year,
+               i.e., "92" for 1992 and "93" for 1993.   
+SUPPLIER       Moscow City Emergency Institute, Moscow, Russia.
+RECALLED BY    AlloTech, Inc., El Paso, Texas, by letters dated February 22,
+               1994.  FDA ordered recall ongoing.  See also FDA talk paper
+               T94-13, February 15, 1994.
+                                    -8-DISTRIBUTION   Connecticut, Florida, Georgia, Kentucky, Mississippi, New
+               Mexico, Ohio, Oklahoma, Texas, Wyoming, Mexico.
+QUANTITY       Approximately 3,000 pieces were distributed between December
+               23, 1992 and February 16, 1994.
+REASON         This is a FDA ordered recall under 21 CFR 1270.  Human bone
+               tissue was distributed which:  1) lacked adequate
+               documentation about the donors' relevant medical history
+               related to risk factors for, or clinical evidence of,
+               hepatitis B, hepatitis C, or human immunodeficiency virus
+               (HIV) infection; and 2) lacked the required documentation of
+               the donors' medical histories in English as the original
+               record, or as a verified translation into English, accompanied
+               by the original record.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-183-4.
+CODE           Unit #42W57586.
+MANUFACTURER   American Red Cross Services, Cleveland, Ohio.
+RECALLED BY    Manufacturer, by telephone April 19, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY       1 unit.
+REASON         Autologous Red Blood Cells, which tested repeatedly reactive
+               for the antibody to hepatitis B core antigen (anti-HBc), was
+               distributed without biohazard labeling.
+
+_______________
+PRODUCT        Source Plasma.  Recall #B-194-4.
+CODE           Unit numbers:  FT06026602, FT06026754, FT06026876, FT06026926,
+               FT06026998, FT06025197, FT06025226, FT06025362, FT06025412,
+               FT06025609, FT06025697, FT06026032, FT06028186, FT06028805,
+               FT06028910, FT06029102, FT06027191, FT06027295, FT06027885.
+MANUFACTURER   Serologicals, Inc., Charlotte, North Carolina.
+RECALLED BY    Manufacturer, by facsimile September 27, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   North Carolina
+QUANTITY       19 units.
+REASON         Blood products, which were collected from a donor who had a
+               history of intravenous drug (IV) use, were distributed.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-201-4.
+CODE           Unit #SW109987.
+MANUFACTURER   Scott and White Memorial Hospital and Scott, Sherwood, and
+               Brindley Foundation, Temple, Texas.
+RECALLED BY    Manufacturer, by notifying firm January 7, 1993, by letter
+               erroneously dated January 7, 1992.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Florida.
+QUANTITY       1 unit.
+
+                                    -9-REASON         Blood product, that tested negative for the antibody to the
+               human immunodeficiency virus type 1 (anti-HIV-1), but was
+               collected from a donor who previously tested repeatedly
+               reactive for anti-HIV-1, was distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-205-4.
+CODE           Unit numbers:  04LF12206, 04LF12207, 04LF12208, 04LF12211,
+               04LF12213, 04LF12214, 04LF12215, 04LF12216, 04LF12220,
+               04LG86671, 04LG86674, O4LG86675, 04LG86677, 04LG86678,
+               04LG86679, 04LG86680, 04LG86681, O4LG86684, 04LG86685,
+               O4LG86686.
+MANUFACTURER   American National Red Cross, Dedham, Massachusetts.
+RECALLED BY    Manufacturer, by telephone January 19, 1993, followed by
+               letter January 22, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Massachusetts, Maine.
+QUANTITY       20 units.
+REASON         Red blood cells, stored under improper temperatures, were
+               distributed.
+
+_______________
+PRODUCT        Source Plasma.  Recall#B-206-4.
+CODE           Unit #0970175399.
+MANUFACTURER   American Biomedical Systems, Boise, Idaho.
+RECALLED BY    Manufacturer, by letter dated August 4, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Florida.
+QUANTITY       1 unit.
+REASON         Blood product, collected from an ineligible donor due to the
+               application of a tattoo less than 12 months prior to donation,
+               was distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma. 
+               Recall #B-207/208-4.
+CODE           Unit #24LM98936.
+MANUFACTURER   The American National Red Cross, Louisville, Kentucky.
+RECALLED BY    Manufacturer, (a) by telephone in April 1993, followed by
+               letter dated April 13, 1993; (b) by letter April 7, 1993. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   (a) Kentucky; (b) California.
+QUANTITY       1 unit of each component.
+REASON         Blood products, collected from an ineligible donor due to the
+               application of a tattoo  less than 12 months prior to
+               donation, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma.  
+               Recall #B-209/210-4.
+CODE           Unit #T61178.
+MANUFACTURER   Topeka Blood Bank, Inc., Topeka, Kansas.
+
+                                   -10-RECALLED BY    Manufacturer, by (a) letter March 23, 1993; (b) by telephone
+               March 22, 1993, followed by letter dated March 24, 1993. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   (a) Kansas; (b) Florida, New York.
+QUANTITY       1 unit of each component.
+REASON         Blood products, collected from a donor who reported a history
+               of intravenous (IV) drug use, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma.  
+               Recall #B-211/212-4.
+CODE           Unit #1463013.
+MANUFACTURER   Mississippi Blood Services, Jackson, Mississippi.
+RECALLED BY    Manufacturer, by telephone on February 2, 1993, and by letter
+               on April 19, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   New York, Mississippi.
+QUANTITY       1 unit of each component.
+REASON         Blood products which tested reactive for syphilis by Rapid
+               Plasma Reagin (RPR) and confirmed positive by Fluorescent
+               Treponemal Antibody (FTA), were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets.  Recall #B-227/228-4.
+CODE           Unit numbers:  4206274, 5725611, 7668560; (b) 7668560.
+MANUFACTURER   BloodCare, Dallas, Texas.
+RECALLED BY    Manufacturer, by letter March 25, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Texas, Maryland.
+QUANTITY       (a) 3 units; (b) 1 unit.
+REASON         Blood products, collected from ineligible donors due to travel
+               in areas endemic for malaria, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        Platelets.  Recall #B-184-4.
+CODE           Unit numbers:  42FZ18303, 42FZ18317, 42Y31312, 42Y31327,
+               42Y31353, 42Y31356, 42Y31358.
+MANUFACTURER   American Red Cross Services, Cleveland, Ohio.
+RECALLED BY    Manufacturer, by telephone August 10, 1992.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY       7 units.
+REASON         Blood products which tested initially reactive for the
+               antibody to hepatitis B core antigen (anti-HBc) were not
+               retested in duplicate and were distributed for transfusion. 
+
+_______________
+PRODUCT        Source Plasma.  Recall #B-200-4.
+CODE           Unit numbers:  EO50001-003, EO50002-003, EO50003-003,
+               EO50004-003, EO50005-003, EO50006-003, EO50007-003, 
+               EO50008-003, EO50009-003, EO50010-003, EO50011-003, 
+
+                                   -11-               EO50012-003, EO50013-003, EO50014-003, EO50015-003, 
+               EO50016-003, EO50017-003, EO50018-003, EO50019-003, 
+               EO50021-003, EO50022-003, EO50023-003, EO50024-003, 
+               EO50025-003, EO50026-003, EO50027-003, EO50028-003, 
+               EO50029-003, EO50030-003, EO50031-003, EO50032-003, 
+               EO50033-003, EO50034-003, EO50035-003, NO85531-003, 
+               NO85532-003, NO85533-003, NO85534-003, NO85535-003, 
+               NO85536-003, NO85537-003, NO85538-003, NO85539-003, 
+               NO85540-003, NO85541-003, NO85543-003, NO85544-003, 
+               NO85547-003, NO85548-003, NO85549-003, NO85550-003, 
+               NO85551-003, NO85552-003, NO85553-003, NO85554-003, 
+               NO85555-003, NO85556-003, NO85558-003, NO85559-003, 
+               NO85560-003, NO85561-003, NO85562-003, NO85563-003, 
+               NO85564-003, NO85565-003, NO85566-003, NO85567-003, 
+               NO85569-003, NO85570-003, NO85573-003, NO85574-003, 
+               NO85575-003, NO85577-003, NO85578-003, NO85579-003, 
+               NO85580-003, NO85581-003, NO85582-003, NO85583-003, 
+               NO85584-003, NO85585-003, NO85586-003, NO85587-003, 
+               NO85588-003, NO85589-003, NO85591-003, NO85592-003, 
+               NO85593-003, NO85594-003, NO85596-003, NO85597-003, 
+               NO85598-003, NO85599-003, NO85600-003, NO85601-003, 
+               NO85602-003, NO85603-003, NO85605-003, NO85606-003, 
+               NO85607-003, NO85608-003, NO85609-003, NO85610-003, 
+               NO85611-003, NO85613-003, NO85614-003, NO85615-003, 
+               NO85616-003, NO85617-003, NO85618-003, NO85620-003, 
+               NO85621-003, NO85622-003, NO85623-003, NO85624-003, 
+               NO85625-003, NO85626-003, NO85627-003, NO85628-003, 
+               NO85629-003, NO85630-003, NO85631-003, NO85632-003, 
+               NO85633-003, NO85634-003, NO85635-003, NO85636-003, 
+               NO85637-003, NO85638-003, NO85639-003, NO85640-003, 
+               NO85641-003, NO85642-003, NO85644-003, NO85645-003, 
+               NO85646-003, NO85647-003, NO85648-003, NO85649-003, 
+               NO85650-003, NO85651-003, NO85653-003, NO85654-003, 
+               NO85655-003, NO85657-003, NO85658-003, NO85659-003, 
+               NO85660-003, NO85661-003, NO85662-003, NO85663-003, 
+               NO85664-003, NO85665-003, NO85666-003, NO85667-003, 
+               NO85668-003, NO85669-003, NO85670-003, NO85671-003, 
+               NO85672-003, NO85673-003, NO85674-003, NO85675-003, 
+               NO85676-003, NO85677-003, NO85678-003, NO85679-003, 
+               NO85680-003, NO85681-003, NO85682-003, NO85683-003, 
+               NO85684-003, NO85686-003, NO85687-003, NO85688-003, 
+               NO85689-003, NO85690-003, NO85691-003, NO85692-003, 
+               NO85693-003, NO85694-003, NO85695-003, NO85696-003, 
+               NO85697-003, NO85698-003, NO85699-003, NO85700-003, 
+               NO85701-003, NO85702-003, NO85703-003, NO85704-003, 
+               NO85705-003, NO85706-003, NO85707-003, NO85708-003, 
+               NO85709-003, NO85710-003, NO85712-003, NO85713-003, 
+               NO85714-003, NO85715-003, NO85717-003, NO85718-003, 
+               NO85719-003, NO85720-003, NO85721-003, NO85722-003, 
+               NO85724-003, NO85725-003, NO85726-003, NO85727-003, 
+               NO85728-003, NO85729-003, NO85730-003, NO85731-003, 
+               NO85732-003, NO85733-003, NO85734-003, NO85735-003, 
+
+                                   -12-               NO85736-003, NO85737-003, NO85738-003, NO85739-003, 
+               NO85740-003, NO85741-003, NO85742-003, NO85743-003, 
+               NO85744-003, NO85745-003, NO85747-003, NO85748-003, 
+               NO85749-003, NO85750-003, NO85751-003, NO85752-003, 
+               NO85753-003, NO85754-003, NO85755-003, NO85756-003, 
+               NO85757-003, NO85759-003, NO85760-003, NO85761-003, 
+               NO85762-003, NO85763-003, NO85764-003, NO85765-003, 
+               NO85766-003, NO85767-003, NO85768-003, NO85769-003, 
+               NO85770-003, NO85771-003, NO85772-003, NO85773-003, 
+               NO85775-003, NO85776-003, NO85777-003, NO85778-003, 
+               NO85779-003, NO85780-003, NO85781-003, NO85782-003, 
+               NO85783-003, NO85784-003, NO85785-003, NO85787-003, 
+               NO85788-003, NO85789-003, NO85790-003, NO85791-003, 
+               NO85792-003, NO85793-003, NO85794-003, NO85795-003, 
+               NO85796-003, NO85797-003, NO85798-003, NO85799-003, 
+               NO85800-003, NO85801-003, NO85802-003, NO85803-003, 
+               NO85804-003, NO85805-003, NO85806-003, NO85807-003, 
+               NO85808-003, NO85809-003, NO85810-003, NO85811-003, 
+               NO85812-003, NO85813-003, NO85814-003, NO85815-003, 
+               NO85817-003, NO85818-003, NO85819-003, NO85820-003, 
+               NO85821-003, NO85823-003, NO85824-003, NO85825-003, 
+               NO85826-003, NO85827-003, NO85828-003, NO85829-003, 
+               NO85830-003, NO85831-003, NO85832-003, NO85833-003, 
+               NO85834-003, NO85835-003, NO85836-003, NO85837-003, 
+               NO85838-003, NO85839-003, NO85840-003, NO85841-003, 
+               NO85842-003, NO85843-003, NO85844-003, NO85845-003, 
+               NO85846-003, NO85847-003, NO85848-003, NO85849-003, 
+               NO85850-003, NO85852-003, NO85854-003, NO85855-003, 
+               NO85856-003, NO85857-003, NO85858-003, NO85859-003, 
+               NO85860-003, NO85861-003, NO85862-003, NO85863-003, 
+               NO85864-003, NO85865-003, NO85866-003, NO85867-003, 
+               NO85868-003, NO85869-003, NO85870-003, NO85871-003, 
+               NO85872-003, NO85873-003, NO85874-003, NO85875-003, 
+               NO85876-003, NO85877-003, NO85878-003, NO85879-003, 
+               NO85880-003, NO85881-003, NO85882-003, NO85883-003, 
+               NO85884-003, NO85885-003, NO85886-003, NO85887-003, 
+               NO85888-003, NO85889-003, NO85891-003, NO85892-003, 
+               NO85893-003, NO85894-003, NO85895-003, NO85896-003, 
+               NO85897-003, NO85898-003, NO85899-003, NO85900-003, 
+               NO85901-003, NO85902-003, NO85903-003, NO85904-003, 
+               NO85905-003, NO85906-003, NO85907-003, NO85908-003, 
+               NO85909-003, NO85910-003, NO85911-003, NO85912-003, 
+               NO85913-003, NO85914-003, NO85915-003, NO85916-003, 
+               NO85917-003, NO85918-003, NO85919-003, NO85920-003, 
+               NO85921-003, NO85922-003, NO85923-003, NO85924-003, 
+               NO85925-003, NO85926-003, NO85927-003, NO85928-003, 
+               NO85929-003, NO85930-003, NO85931-003, NO85932-003, 
+               NO85933-003, NO85934-003, NO85935-003, NO85936-003, 
+               NO85937-003, NO85938-003, NO85939-003, NO85941-003, 
+               NO85943-003, NO85944-003, NO85945-003, NO85946-003, 
+               NO85947-003, NO85948-003, NO85949-003, NO85950-003, 
+               NO85952-003, NO85953-003, NO85954-003, NO85955-003, 
+
+                                   -13-               NO85956-003, NO85957-003, NO85958-003, NO85959-003, 
+               NO85960-003, NO85961-003, NO85962-003, NO85963-003, 
+               NO85964-003, NO85965-003, NO85966-003, NO85967-003, 
+               NO85968-003, NO85969-003, NO85970-003, NO85971-003, 
+               NO85972-003, NO85974-003, NO85976-003, NO85977-003, 
+               NO85978-003, NO85981-003, NO85982-003, NO85983-003, 
+               NO85984-003, NO85985-003, NO85986-003, NO85987-003, 
+               NO85988-003, NO85989-003, NO85990-003, NO85991-003, 
+               NO85992-003, NO85993-003, NO85994-003, NO85995-003, 
+               NO85996-003, NO85997-003, NO85998-003, NO85999-003, and
+               NO86000-003.
+MANUFACTURER   Premier BioResources, (Plasmapheresis Center), Gulfport,
+               Mississippi. 
+RECALLED BY    Premier BioResources, Inc., Fort Worth, Texas, by letter
+               October 21, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Michigan.
+QUANTITY       468 units.
+REASON         Source Plasma exposed to unacceptable temperatures was
+               distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Mouth-to-Mask Personal Resuscitator, a non-sterile, single-
+               use device.  Recall #Z-535-4.
+CODE           Product #3052, lot #075042.
+MANUFACTURER   King Systems Corporation, Noblesville, Indiana.
+RECALLED BY    Manufacturer, by telephone August 14 and 18, 1992, followed
+               by letter August 18, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Utah, California.
+QUANTITY       10 cases (20 units per case) were distributed.
+REASON         The isolation valve was installed backwards.
+
+_______________
+PRODUCT        Electrode lead wires and patient cables, multiple models,
+               used for used with ECG monitors and other similar devices:
+               (a) All Models of Unprotected cables; (b) All Models of
+               Unprotected Electrode Lead Wires.  Recall #Z-539/540-4.
+CODE           All models with unprotected exposed metal pins.
+MANUFACTURER   3M Healthcare, St. Paul, Minnesota.
+RECALLED BY    Manufacturer, by letter March 2, 1994.  Firm-initiated field
+               correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+REASON         Product labeling fails to provide adequate directions for
+               use and the devices pose an unwarranted risk of injury to
+               patients, because the products are not labeled to
+               contraindicate use with apnea monitors.
+
+_______________
+PRODUCT        Aequitron Apnea Monitors with unprotected (exposed pin
+               style) lead wires and unprotected patient cables:
+               Models 8200 9200, 9216, 9500, and 9550.  Recall #Z-541-4.
+                                   -14-CODE           Any non-safety cable lead wire system which the firm
+               distributed and all serial numbers of the apnea monitors.
+MANUFACTURER   Aequitron Medical, inc., Minneapolis, Minnesota.
+RECALLED BY    Manufacturer, by Urgent-Medical Device Notification sent
+               November 10, 1993.  Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 65,000 monitors were distributed; firm
+               estimates 25,000 units are still in use.
+REASON         Devices lacked labels warning against the use of unprotected
+               lead wires.
+
+_______________
+PRODUCT        All unprotected Patient Cables and Leadwires, including
+               Monitoring Electrodes with Pre-attached Unprotected
+               Leadwires under the Conmed, Medtronic/Andover and
+               Conmed/Andover labels: 
+               (a) Patinet Cables - 345 model numbers with the following
+               item numbers or item number series:    
+               BLH42-05; all "M" series (Andover products)  
+               "CM" series; "FS" series; "HT" series; S218P and S219P-36
+               (Conmed products);
+               (b) Leadwires, 191 model numbers identified with the
+               following item number or item number series: 
+               "FA" series; "FP" series, "LA" series; "LP" series; and item
+               #VS-2MM, #VS-3MM and VS-4MM  (Conmed products).   
+               "S" series - (Andover products);
+               Leadwire attached electrodes - 3 model numbers:  
+               Item #s 1730-003 and 1740-003 - (Andover products) 
+               Item #178-3333 - (Conmed product) 
+               Leadwire attached electrodes are for use with neonatal and
+               pediatric children in monitoring heart activity.  These are
+               packaged individually in heat-sealed peelable pouches and
+               have an expiration date of one year from manufacturer. 
+               Leadwire Sets (contain multiple, color coded leadwires) -- 
+               Andover products as follows: 
+               G24-02, G24-03 and G24-04; 
+               "MA" series; "MB" series; "MCA" series; "MCL" series; "ML"
+               series, "MP" series; 
+               "MT" series; NSM-002; "P" series;  "RTG" series; "SL"
+               series; "T" series; and TA24-002II, TA24-03II 
+               Conmed product:  PP3-04.  Recall #Z-542/543-4.
+CODE           All models of unprotected electrode lead wires marketed
+               since April 1991.
+MANUFACTURER   ConMed Corporatioan, Utica, New York and Andover Medical,
+               Haverhill, Massachusetts.
+RECALLED BY    ConMed Corporation, Utica, New York, by letters dated
+               November 15, 1993, and April 11, 1994.  Firm-initiated field
+               correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       1,550,374 leadwires were distributed from April 1991 to
+               November 1993; firm estimates 250,268 remain on the market.
+               368,984 leadwires attached electrodes were distributed from 
+                                   -15-               September 1992 through November 1993; firm estimates 50
+               percent remains on the markte.  Approximately 11,715 patient
+               cables were distributed from April 1991 to November; firm
+               estimates 50 percent remain on the market.
+REASON         Labeling fails to provide adequate directions for use and
+               the devices pose an unwarranted risk of injury to patients,
+               because the products are not labeled to contraindicate use
+               with apnea monitors.
+
+_______________
+PRODUCT        Apnea monitors with unprotected leads:  Model 2000W Option H
+               Heart/Respiration Monitors and Assurance 2000
+               Heart/Respiration Monitors.  Recall #Z-545-4.
+CODE           All serial numbers.
+MANUFACTURER   EdenTec, A Nellcor Company, Eden Prairie, Minnesota.
+RECALLED BY    Manufacturer, by Urgent Medical Device Notification sent
+               September 20, 1993.  Firm-initiated field correction
+               ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 3,000 monitors were distributed.
+REASON         Device labeling fails to provide adequate directions for use
+               and the devices pose an unwarranted risk of injury to
+               patients, because the product is not labeled to warn
+               connected to electrical power sources.
+
+_______________
+PRODUCT        Hewlett-Packard Apnea Monitors (multiple models).  
+               Recall #Z-549-4.
+CODE           All units with unprotected (exposed pin style) lead wires
+               and unprotected patient cables.
+MANUFACTURER   Hewlett-Packard Company, Andover, Massachusetts.
+RECALLED BY    Manufacturer, by letter April 11, 1994.  Firm-initiated
+               field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+REASON         Device labeling fails to provide adequate directions for use
+               and the devices pose an unwarranted risk of injury to
+               patients, because the product is not labeled to warn against
+               the hazards of unprotected electrode lead wires being
+               connected to electrical power sources.
+
+_______________
+PRODUCT        Maguire Enterprises ECG Electrode Lead Wires, Model K2150
+               and K2356, used by emergency medical service squads.  
+               Recall #Z-550-4.
+CODE           All marketed in the past 5 years.
+MANUFACTURER   Maguire Enterprises, Inc., Fort Lauderdale, Florida.
+RECALLED BY    Manufacturer, by letter February 28, 1994.  Firm-initiated
+               field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+
+                                   -16-REASON         Their labeling fails to provide adequate directions for use
+               and the devices pose an unwarranted risk of injury to
+               patients, because the products are not labeled to
+               contraindicate use with apnea monitors.
+
+_______________
+PRODUCT        New Dimensions in Medicine Electrode Lead Wires and Patient
+               Cables (multiple models), used with ECG monitors and other
+               similar devices.  Recall #Z-551/552-4.
+CODE           All models with unprotected exposed metal pins.
+MANUFACTURER   New Dimensions in Medicine, Dayton, Ohio.
+RECALLED BY    Manufacturer, by letter January 28, 1994.  Firm-initiated
+               field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+REASON         Device labeling fails to provide adequate directions for use
+               and the devices pose an unwarranted risk of injury to
+               patients, because the products are not labeled to
+               contraindicate use with apnea monitors.
+
+_______________
+PRODUCT        Novametrix Medical Systems Apnea Monitors, Models 902, 903,
+               and 910, used to monitor respiration.  Recall #Z-553-4.
+CODE           All units.
+MANUFACTURER   Novametrix Medical Systems, Wallingford, Connecticut.
+RECALLED BY    Manufacturer, by letter February 24, 1994.  Firm-initiated
+               field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+REASON         Device labeling fails to provide adequate directions for use
+               and the devices pose an unwarranted risk of injury to
+               patients, because the product is not labeled to warn against
+               the hazards of unprotected electrode lead wires being
+               connected to electrical power sources.
+
+_______________
+PRODUCT        Rochester Electro-Medical Electrode Lead Wires, used with
+               electroencephalograph, electromyograph and electrophysiology
+               monitors, and other similar devices.  Recall #Z-554-4.
+CODE           All marketed in the past 3 years.
+MANUFACTURER   Rochester Electro-Medical, Tampa, Florida.
+RECALLED BY    Manufacturer, by letter November 15, 1993.  Firm-initiated
+               field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+REASON         Device labeling fails to provide adequate directions for use
+               and the devices pose a unwarranted risk of injury to
+               patients, because the products are not labeled to 
+               contraindicate use with apnea monitors.
+
+_______________
+PRODUCT        SpaceLabs Medical Apnea Monitors (multiple models), used to
+               monitor respiration.  Recall #Z-555-4.
+                                   -17-CODE           All models with unprotected (exposed pin style) lead wires
+               and unprotected patient cables.
+MANUFACTURER   SpaceLabs Medical, Redmond, Washington.
+RECALLED BY    Manufacturer, by letters of October 20-27, 1993, and
+               December 13, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined. 
+REASON         Device labeling fails to provide adequate directions for use
+               and the devices pose an unwarranted risk of injury to
+               patients, because the product is not labeled to warn against
+               the hazards of unprotected electrode lead wires being
+               connected to electrical power sources.
+
+_______________
+PRODUCT        Tronomed Medical Interconnect Systems, consisting of more
+               than 2,000 different cable, wire, and connector devices,
+               which have unprotected, exposed leads, intended for use in
+               conjunction with various medical electronic monitoring
+               devices, and in custom applications.  Recall #Z-556/557-4.
+CODE           All units with unprotected exposed pin wire leads and
+               cables.  This includes all standard and all custom
+               application products with exposed pins.
+MANUFACTURER   Tronomed, Inc., San Juan Capistrano, California.
+RECALLED BY    Manufacturer, by letter mailed early January 1994.   Firm-
+               initialed field correction ongoing.
+DISTRIBUTION   Nationwide, Puerto Rico, Canada, Mexico.
+QUANTITY       Undetermined.
+REASON         Device labeling fails to provide adequate directions for use
+               and the devices pose an unwarranted risk of injury to
+               patients, because the products are not labeled to
+               contraindicate use with apnea monitors.
+
+_______________
+PRODUCT        Vital Connections Electrode Lead Wires and patient Cables,
+               multiple models with unprotected exposed metal pins, used
+               with ECG monitors.  Recall #Z-558/559-4.
+CODE           All marketed in the past 3 years.
+MANUFACTURER   Vital Connections, Tipp City, Ohio.
+RECALLED BY    Manufacturer, by letter February 28, 1994.  Firm-initiated
+               field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+REASON         Device labeling fails to provide adequate directions for use
+               and the devices pose an unwarranted risk of injury to
+               patients, because the products are not labeled to
+               contraindicate use with apnea monitors.
+
+_______________
+PRODUCT        Night Vision Image Intensifiers, Model T3C-3, used for
+               viewing objects and persons in subdued lighting.  
+               Recall #Z-565-4.
+CODE           Model T3C-3.
+MANUFACTURER   Manufacturing Networks, Inc., San Francisco, California.
+                                   -18-RECALLED BY    Manufacturer.  FDA approved the firm's corrective action
+               plan March 25, 1994.  Firm-initialed field correction
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       125 units.
+REASON         Products emitted x-radiation that is unnecessary to the
+               accomplishment of the purpose of the product, and creates a
+               risk of injury to users.
+
+_______________
+PRODUCT        Ultramark 9 High Definition Imaging (HDI) Diagnostic
+               Ultrasound System with software versions 12.06 and 12.06A,
+               transmits ultrasound waves, receives the echoes, and
+               generates images based on information contained in the
+               echos.  Recall #Z-571/572-4.
+CODE           All units with system software version 12.06 and 12.06A. 
+               Serial numbers:  
+               105442A    105647A   105661A   105703A   105714A
+               105726     105729    105734    105736    105742
+               105743     105747    105749    105752    105761
+               105762     105765    105770    105773    105778
+               105780     105784    105787    105791    105792
+               105793     105794    105795    105798    105806
+               105812     105829    105830    105831    105833
+               105838     105842    105843    105849    HD327
+               HD330      HD340     HD341     HD342     HD345
+               HD345A     HD348     HD349     HD351     HD352
+               HD358      HD359     M02156    M105807   U105591B
+               U105753    U105754   U105788   V105384   V105835
+               W105442A   W105642   WHD320.                                 
+MANUFACTURER   Advanced Technology Laboratories (ATL), Bothell, Washington.
+RECALLED BY    Manufacturer, by letter September 1, 1993.  Firm-initiated
+               field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       124 units.
+REASON         The M-mode time markers may be incorrect resulting in
+               subsequent errors by off-line analysis of data recorded with
+               the incorrect time markers.
+
+_______________
+PRODUCT        Ultramark 9 High Definition Imaging (HDI) Diagnostic
+               Ultrasound System with frame grabber, transmits ultrasound
+               waves, receives the echoes, and generates images based on
+               information contained in the echoes.  Recall #Z-573-4.
+CODE           All units with the frame grabber option.
+MANUFACTURER   Advanced Technology Laboratories, Bothell, Washington.
+RECALLED BY    Manufacturer, by letter starting July 22, 1993 and was
+               completed on July 28, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       519 units.
+REASON         The 5 Mhz equivalent calculation can be in error when
+               performed on previously recorded data under certain
+               conditions.
+                                   -19-_______________
+PRODUCT        Fluid aspiration/irrigation peristaltic pump and
+               accompanying tubing, Rx for use in fluid irrigation or
+               aspiration during laparoscopic and endoscopic procedures:
+               (a) Fluid Irrigation and Aspiration Pump under the following
+               labels:  Nortech Hydropump 150, part #4-150-00; Olympus
+               Model SP-2, Part #8104041;
+               (b) Aspiration Tubing Kit under the Northgate Catalog #7-
+               510-22, and Olympus Catalog #8313035 labels.
+               Recall #Z-594/595-4.
+CODE           All serial numbers for pumps, and all lot numbers for the
+               tubing kits.
+MANUFACTURER   Northgate Technologies, Inc., Arlington Heights, Illinois.
+RECALLED BY    Northgate sent letters dated February 24, 1994, and Olympus
+               America, Inc., Lake Success, New York, sent letters dated
+               February 28, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Mexico, France.
+QUANTITY       5 Nortech Hydropump 150 pumps, 58 Olympus SP-2 pumps, and
+               130 cases of tubing were distributed; firm estimates that
+               all 63 pumps and 75 cases of tubing remain on the market.
+REASON         The aspiration tubing may be accidentally installed upside
+               down which may result in patient injury.  In addition, the
+               collet may come loose and allow the pump to slip.
+
+_______________
+PRODUCT        Baxter 15 gauge A.V. Fistula Set; 10 cartons of 50 sets each
+               per case, Rx single use sterile fluid pathway device used in
+               hemodialysis; Distributed by Baxter Healthcare Corporation,
+               Deerfield, IL 60015, Made in Japan; the following products
+               are subject to the recall:  
+               (a) Product code 5M0561: 15 G x 2.5 cm (1") fixed hub
+               stainless steel needle with wings and 30 cm (12") of PVC
+               tubing to a female luer fitting 
+               (b) Product code 5M0563: 15 G x 2.5 cm (1") back-eye, fixed
+               hub stainless steel needle with wings and 30 cm (12")       
+               of PVC tubing to a female luer fitting; 
+               (c) Product code 5M0497: 14 G x 2.5 cm (1") fixed hub       
+               stainless steel needle with wings and 30 cm (12") of PVC    
+               tubing to a female luer fitting;
+               (d) Product code 5M0562: 16 G x 2.5 cm (1") fixed hub       
+               stainless steel needle with wings and 30 cm (12") of PVC    
+               tubing to a female luer fitting;
+               (e) product code 5M0564: 16 G x 2.5 cm (1") back-eye, fixed
+               hub stainless steel needle with wings and 30 cm (12") of PVC
+               tubing to a female luer fitting; 
+               (f) Product code 5M0565: 17 G x 2.5 cm (1") back-eye, fixed
+               hub stainless steel needle with wings and 30 cm (12") of PVC
+               tubing to a female luer fitting; 
+               (g) Product code 5M0568: 15 G x 2.5 cm (1") back-eye, 
+               rotating hub stainless steel needle with wings and 30 cm
+               (12") of PVC tubing to a female luer fitting;
+               (h) Product code 5M0569: 16 G x 2.5 cm (1") back-eye,       
+               rotating hub stainless steel needle with wings and 30 cm 
+                                   -20-               (12") of PVC tubing to a female luer fitting;
+               (i) Product code 5M0570: 15 G x 3.2 cm (1.25") fixed hub
+               stainless steel needle with wings and 30 cm (12") of PVC
+               tubing to a female luer fitting; 
+               (j) Product code 5M0571: 16 G x 3.2 cm (1.25") fixed hub
+               stainless steel needle with wings and 30 cm (12") of PVC
+               tubing to a female luer fitting 
+               (k) Product code 5M0573: 16 G x 3.2 cm (1.25") back-eye,
+               fixed hub stainless steel needle with wings and 30 cm (12")
+               of PVC tubing to a female luer fitting;
+               (l) Product code 5M0574: 15 G x 3.2 cm (1.25") back-eye,
+               rotating hub stainless steel needle with wings and 30 cm
+               (12") of PVC tubing to a female luer fitting.
+               Recall #Z-596/607-4.
+CODE           Product code 5M0561, lot #93I13, 93I14, 93I22, 93H10 
+               product code 5M0563, lot #93I06, 93I09, 93I22, 93I03 
+               product code 5M0497, lot #93I13 
+               product code 5M0562, lot #93H09, 93I24 
+               product code 5M0564, lot #93H23, 93I29, 93J01, 93J05 
+               product code 5M0565, lot #93I27, 93I29 
+               product code 5M0568, lot #93H10, 93H19, 93H21, 93I13, 93I14,
+               93I20, 93I29 
+               product code 5M0569, lot #93E28, 93H26 
+               product code 5M0570, lot #93I27, 93J15 
+               product code 5M0571, lot #93I14 
+               product code 5M0573, lot #93I27 
+               product code 5M0574, lot #93H21  
+MANUFACTURER   Nissho Corporation, Osaka, Japan. 
+RECALLED BY    Baxter Healthcare Corporation, Renal Division, McGaw Park,
+               Illinois, by letters of December 10, 1993 and January 6,
+               1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Mexico, Colombia, Australia, Venezuela, New
+               Zealand, Canada.
+QUANTITY       740,518 units were distributed; firm estimates very little,
+               if any product remains on the market.
+REASON         The needle may accidentally separate from the hub assembly.
+
+_______________
+PRODUCT        Night Vision Image Intensifiers, Model T3C2, used for
+               viewing objects and persons in subdued lighting.  
+               Recall #Z-621-4.
+CODE           Model T3C-2.
+MANUFACTURER   Market Resourcing International, Dallas, Texas.
+RECALLED BY    Manufacturer.  FDA approved the firm's corrective action
+               plan April 8, 1994.  Firm-initiated field correction
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       11 units. 
+REASON         Products emitted x-radiation that is unnecessary to the
+               accomplishment of the purpose of the product, and creates a
+               risk of injury to users.
+
+                                   -21-_______________
+PRODUCT        Latex Examination Gloves, sizes Small, Medium, Large, and
+               Unisize, packaged 10 dispenser boxes per case, 50 gloves
+               (Augmentin brand) or 100 gloves (Protectro brand), per
+               dispenser box.  Recall #Z-622/625-4.
+CODE           All lots of both brands.
+MANUFACTURER   Alpha Healthcare Products, Inc., Akron, Ohio.
+RECALLED BY    Manufacturer, by telephone May 17 and 26, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Undetermined
+QUANTITY       Firm estimates none remains on the market.
+REASON         Gloves were manufactured using a production process in which
+               the manufacturing and testing procedures had not been
+               validated; the sampling and testing procedures were
+               inadequate, and only 23% of the firm's production met the
+               firm's criteria for acceptance.  Also, the Augmentin glove
+               boxes were not labeled as containing patient examination
+               gloves, but as an advertisement for an antibiotic
+               (Augmentin), which was promoted to doctors.
+
+_______________
+PRODUCT        Investigational software and User Manual Inserts Chapters 6
+               and 7, for the Model 330 Otacoustic Emissions Test
+               Instrument.  This information relates to the Input/Output
+               Test and Spontaneous Otacoustic Emissions (SOAE).  
+               Recall #Z-626/627-4.
+CODE           Various serial numbers for instruments distributed since
+               October 1991.
+               52006    52040     52065     63100
+               51012    52041     52067     73100
+               51014    52042     52071     53101
+               51015    52043     52072     63101
+               51016    52044     52073     83101
+               51017    52045     52074     53102
+               51018    52046     52075     63102
+               53103    52047     52076     83102
+               51019    52051     52077     53104
+               51020    52052     52081     63104
+               51021    52053     53085     83104
+               83103    52054     53086     53105
+               51022    52055     83087     63105
+               51024    52056     83089     83105
+               51025    52057     83090     53106
+               51029    52058     53091     63106
+               51030    52059     83095     83106
+               52034    52062     53097     53107
+               52036    52063     53098     63107
+               52039    52064     53099     63108
+               63109    63110.
+MANUFACTURER   Virtual Corporation, Portland, Oregon.
+RECALLED BY    Manufacturer, by letter dated October 29, 1993.  Firm-
+               initiated field correction ongoing.
+DISTRIBUTION   Nationwide.
+                                   -22-QUANTITY       Investigational software was distributed with 82 instruments
+               nationally.
+REASON         Product was distributed without an approved 510(k) for the
+               intended use. 
+
+_______________
+PRODUCT        3CC Medallion Syringe (Piston Syringe).  Recall #Z-628-4.
+CODE           Catalog #MSS031-R, lot #081562.
+MANUFACTURER   Merit Medical Systems, Inc., Salt Lake City, Utah.
+RECALLED BY    Manufacturer, by telephone May 24 and 25, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Tennessee, Minnesota.
+QUANTITY       50 units were distributed; firm estimates none remains on
+               the market.
+REASON         A manufacturing package defect.  At least one of the product
+               units arrived at a hospital with the pouch (primary sterile
+               barrier) unsealed. The pouch had been sealed during
+               manufacture, but the seal was insufficient to hold the
+               rigors of sterilization and shipping.
+
+_______________
+PRODUCT        Pam Pacific Enterprises/Skincare Gloves Co. Latex
+               examination gloves, 100 gloves in a paperboard box:
+               (a) Small; (b) Medium); (c) Large.  Recall #Z-629/631-4. 
+CODE           None.  All units of gloves which Skincare purchased from L&T;
+               Enterprises, Chino, California, on January 24, 1992 and
+               March 23, 1992.
+MANUFACTURER   Product of Taiwan.
+RECALLED BY    Skin Gloves Corporation, Alhambra, California, by letter
+               September 24, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   California.
+QUANTITY       2,200 boxes were distributed; firm estimates none remains on
+               the market.
+REASON         Gloves contain foreign matter, pinholes, holes up to 1/4" in
+               length, and various fungi including three known human
+               pathogens (Aspergillus Nidulans, A. Flavus, and Chaetomium
+               Globosum) revealed in FDA test results.
+ 
+_______________
+PRODUCT        Hewlett Packard Codemaster Switchless Internal Paddles
+               (electrodes), intended for use with Codemaster family of
+               defibrillators:
+               (a) Model M1741A (option C15, 7.5cm paddles) 
+               (b) Model M1742A (option C16, 6.0cm paddles) 
+               (c) Model M1743A (option C17, 4.5cm paddles) 
+               (d) Model M1744A (option C18, 2.8cm paddles).  
+               Recall #Z-633/636-4.
+CODES          All switchless internal paddle sets shipped prior to      
+               September 30, 1993. 
+MANUFACTURER   Hewlett Packard Co., Diagnostic Cardiology Business Unit,   
+               McMinnville, Oregon.
+RECALLED BY    Manufacturer, by letter dated October 1993.  Firm-initiated
+               recall ongoing.
+                                   -23-DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 1,850 paddle sets of various sizes were
+               available for distribution.
+REASON         Handling immediately after steam sterilization could result
+               in cracking of the cable insulation near the strain relief
+               of the paddle connection.
+
+_______________
+PRODUCT        USCI Hemaquet Introducer Sheath Kit, used to facilitate
+               placing a catheter through the skin into a vein or artery: 
+               (a) 6F Hemaquet Excel Sheath Kit, Item #010256;
+               (b) 7F Hemaquet Excel Sheath Kit, Item #010257;
+               (c) 7F Hemaquet Excel Sheath Kit, Item #009037;
+               (d) 7F Hemaquet Excel Sheath Kit With Obturator, 
+               Item #010087;
+               (e) 8F Hemaquet Excel Sheath Kit, Item #010258;
+               (f) 10F Hemaquet Excel Sheath Kit, Item #006333.  
+               Recall #Z-637/642-4.
+               Lot numbers:  (a) 09GD0918, 09GD0919, 09GD1639,  09GD1640,
+               09GD1641, 09HD0466, 09HD0633; (b)  09GD0920, 09GD1643,
+               09GD1644, 09HD0467, 09HD0634, 09HD0468; (c) 09HD0974; (d)
+               09GD1650; (e) 09GD1647; (f) 09HD1603.
+MANUFACTURER   USCI Division C.R. Bard, Inc., Fitzwilliam, New Hampshire.
+RECALLED BY    USCI Division C.R. Bard, Inc., Billerica, Massachusetts, by
+               letter September 22, 1993, followed by telephone.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide, Ireland.
+QUANTITY       9,040 units were distributed.
+REASON         Deformities in the stopcock component may allow blood and/or
+               gas leakage from the valve section, with the possible result
+               being the development of thromboses and/or emboli.
+
+_______________
+PRODUCT        Teflon Coated Guide Wires - 15mm "J" Fixed Core, for
+               percutaneous entry into vessel using the Seldinger
+               Technique: 
+               (a) USCI Teflon Coated Guidewires 0.035" 15mm "J" Fixed
+               Core, Catalog #007471;
+               (b) USCI Teflon Coated Guidewires 0.038" 15mm "J" Fixed
+               Core, Catalog #007472;
+               (c) Soft Tip 6F Pro-FLO XT EZ-PAK, Catalog #388421;
+               (d) Soft Tip 6F Pro-FLO XT EZ-PAK, Catalog #388422;
+               (e) Soft Tip 7F Pro-FLO XT EZ-PAK, Catalog #388423;
+               (f) Soft Tip 7F Pro-FLO XT EZ-PAK, Catalog #388424.
+               Recall #Z-644/649-4. 
+CODE           Lot numbers:  (a) 07GC0102, 07JC0493, 07GC1174, 07HC0777,
+               07BD0499, 07IC0274, 07JC0028, 07DD0835, 07CD0504, 07LC0489; 
+               (b) 07HC0778, 07LC0490, 07CD0427, 07BD0500, 07IC0689,
+               07IC0306, 07KC0695, 07DD0175; (c) 09ED0665; 
+               (d) 09ED0666; (e) 09ED0663 and 09ED0681; 
+               (f) 09ED0664.
+MANUFACTURER   USCI Division C.R. Bard, Inc., Glen Falls, New York.
+                                   -24-RECALLED BY    USCI Division, C.R. Bard, Inc., Billerica, Massachusetts, by
+               telephone June 18, 1993, followed by letter June 21, 1993. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       8,776 units were distributed.
+REASON         Teflon particles flaking off the guide wire could possibly
+               embolize and cause tissue necrosis and/or require surgical
+               removal.
+
+_______________
+PRODUCT        Snare Wire Products:
+               (a) Wire Snare Cut Bent, Size 4 (nasal snare wire), Catalog
+               #N2398 4; 
+               (b) Cut Wires Size 7 (sage cut wire), Catalog #N6305 7;
+               (c) Cut Wires Size 8 (sage cut wire), Catalog #N6305 8; 
+               (d) Wire Snare Neivert-Eve No. 7 (Neivert-Eve tonsil       
+               wire), Catalog #N6372 7; 
+               (e) Wire Snare Neivert-Eve No. 8 (Neivert-Eve tonsil wire),
+               Catalog #N6372 8; 
+               (f) Tonsil snare wire labeled as "WR SNR SPCL DBL BENT 
+               ENDS SZ-7", Catalog #N6394 7; 
+               (g) Tonsil snare wire labeled as "WR SNR SPCL DBL BENT ENDS
+               SZ-8", Catalog #N6394 8.  Recall #Z-650/656-4.
+CODE           Packaging code dates 93126 through 94004.
+MANUFACTURER   Storz Instrument Company, Manchester, Missouri.
+RECALLED BY    Storz Instrument Company, St. Louis, Missouri, by letter
+               January 26, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       (a) 1,042 dozen; (b) 86 dozen; (c) 1,309 dozen; (d) 569
+               dozen; (e) 630 dozen; (f) 393 dozen; (g) 2,547 dozen.
+REASON         Wires may break during use.
+
+_______________
+PRODUCT        Anamed Heated and Humidified Anesthesia Breathing Circuits,
+               indicated for the delivery of heated and humidified gases
+               from the anesthesia machine to the patient.  
+               Recall #Z-657-4.
+CODE           All lots with the letters ANA followed by a 4-digit code.
+MANUFACTURER   Anamed Corporation/Laser Circuits, Riverside, California.
+               RECALLED BYManufacturer, by letters of February 10, 1994, and March 11,
+               1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       7,840 cases (18 per case) were distributed.
+REASON         The heater wire assembly was found to contain clusters of
+               resistance wire coils, instead of a regular series of coils
+               wound around the wire core.  This defect may cause
+               overheating resulting in the tube melt down or fire.
+
+_______________
+PRODUCT        Omnipulse Holmium Laser System, Model 1210, for use in
+               surgery.  Recall #Z-688-4.
+CODE           Model 1210.
+MANUFACTURER   Trimedyne, Inc., Irvine, California.
+                                   -25-RECALLED BY    Manufacturer.  FDA approved the firm's corrective action
+               plan February 9, 1994.  Firm-initiated field correction
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       108 units.
+REASON         The device fails to comply with calibration procedures;
+               warning logotype label lacked HeNe output parameters, and
+               there was a lack of adequate warning in the user manual
+               regarding catheters.
+
+_______________
+UPDATE         Fonar Ultimate 3000 and B-3000/B0300/B0300M Magnetic
+               Resonance Imaging (MRI) Scanners, Recall #Z-450-4, which
+               appeared in the April 13, 1994, Enforcement Report should
+               have included in the CODE section reference to 125 active
+               sites that still need corrections.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Surgical Irrigator.  Recall #Z-451-4.
+CODE           Serial numbers 1-2170 through 2-2360.
+MANUFACTURER   Alto Dean Medical, Inc., Woods Cross, Utah.
+RECALLED BY    Manufacturer, by letters on or about October 21, 1993. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       190 units were distributed.
+REASON         Excessive pressure could develop in the irrigator.
+
+_______________
+PRODUCT        5.6 Aggressive Meniscus Arthroscopic Cutters, preamendment
+               device, intended for the excision of soft and osseous
+               tissue:  (a) Part #270-764-000; (b) Part #275-764-000.
+               Recall #Z-454/455-4.
+CODE           Lot numbers:  93055552 through 93075972; (b) 93075952
+               through 93116552.
+MANUFACTURER   Stryker Endoscopy, San Jose, California.
+RECALLED BY    Manufacturer, by letters mailed November 29, 1993, February
+               4, 1994, and April 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       986 boxes (5 cutters per box) were distributed.
+REASON         The cutter tips may break under some conditions of use
+               necessitating additional procedures to retrieve fragments.
+
+_______________
+PRODUCT        Transcend Standard Edgewise Central/Lateral Ceramic Bracket,
+               Catalog #2001-901, used in orthodontic treatment of malposed
+               teeth.  Recall #Z-567-4.
+CODE           Lot #M193350.
+MANUFACTURER   Unitek Corporation/3M, Monrovia, California.
+RECALLED BY    Manufacturer, by telephone and letter dated September 23,
+               1992.  Firm-initiated recall complete.
+
+                                   -26-DISTRIBUTION   Arizona, California, Florida, Iowa, Illinois, Massachusetts,
+               Michigan, Missouri, Mississippi, New Jersey, New York,
+               Pennsylvania, Tennessee, Texas, Germany, Italy, Japan, the
+               Netherlands.
+QUANTITY       1,421 units were distributed; firm estimates none remains
+               ont the market.
+REASON         The packages actually contain the Cuspid/Bicuspid Ceramic
+               Brackets.
+
+_______________
+PRODUCT        Series 5 Facebow, Catalog #328-222, an orthodontic product
+               used to provide extra oral force in the orthodontic
+               treatment of malposed teeth.  Recall #Z-568-4.
+CODE           Lot #133 affixed to the back, lower right hand side of the
+               product pouch.  There is no lot number marked on the facebow
+               itself.
+MANUFACTURER   Unitek Corporation/3M, 3M Dental Products Division Monrovia,
+               California.
+RECALLED BY    Manufacturer contacted all customers during March 1993, and
+               by telephone April 9, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide, Canada, Italy, Nicaragua, Venezuela.
+QUANTITY       Approximately 324 units were distributed; firm estimates
+               none remains on the market.
+REASON         Labeling mix-up.  The series 5 Facebows, Catalog #328-222
+               were labeled as Series 5 Facebow, Catalog #328-242.
+
+_______________
+PRODUCT        Medmetric KT1000/S Knee Ligament Arthrometer, developed to
+               provide objective intraoperative measurement of sagittal
+               plane measurement of the tibia relative to the femur at the
+               joint line.  Recall #Z-577-4.
+CODE           Serial numbers:  101 to 120 and 122.
+MANUFACTURER   Medmetric Corporation, San Diego, California.
+RECALLED BY    Manufacturer, by letter December 6, 1993, followed by
+               telephone December 27, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Alaska, California, Connecticut, Idaho, Illinois, Louisiana,
+               Michigan, Minnesota, Oklahoma, Pennsylvania, South Carolina,
+               Utah, Virginia, Switzerland.
+QUANTITY       25 units were distributed.
+REASON         Autoclaving the instrument causes the nylon gears to warp
+               and the iodized plate (cover) to haze, with the possibility
+               of chemical leaching.
+
+_______________
+PRODUCT        Abbott X Systems (TDxFLx/TDx/ADx) REA Ethanol Calibrators,
+               for calibration of the REA Ethanol Assay on the TDxFLx, TDx
+               or ADx Analyzer, list #9545-01, in 2.5 ml vials.
+               Recall #Z-587-4.
+CODE           Lot numbers:  67213M300 EXP 5/93, 67213M301 EXP 5/93.
+MANUFACTURER   Abbott Laboratories, Diagnostics Division, Abbott Park,
+               Illinois.
+RECALLED BY    Manufacturer, by letter dated December 1992, sent on
+               December 14, 1992.  Firm-initiated recall complete.
+                                   -27-DISTRIBUTION   Nationwide and international.
+QUANTITY       2,091 units were distributed.
+REASON         Some A calibrators were labeled as B calibrators.
+
+_______________
+PRODUCT        Stryker Model 965 Spinal Surgibeds/Wedge Turning Frames
+               equipped with integrated storage tray.  Recall #Z-588-4.
+CODE           All model 965's with optional integrated storage tray. 
+               Serial numbers begin with 91.
+MANUFACTURER   Stryker Corporation, Kalamazoo, Michigan.
+RECALLED BY    Manufacturer, by telephone beginning March 18, 1992, and by
+               letter beginning April 6, 1992.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Alabama, California, Iowa, Indiana, Kansas, Massachusetts,
+               North Dakota, Oklahoma, Pennsylvania, Tennessee, Texas,
+               Washington state, Wisconsin, Saudi Arabia, Australia,
+               France, United Kingdom, Venezuela, Bermuda.
+QUANTITY       116  units were distributed.
+REASON         The traction weights hang low enough to be under the edge of
+               the storage tray, and they could catch under the edge of the
+               tray if the bed is subsequently raised.
+
+_______________
+PRODUCT        Abbott AFP-EIA Diagnostic Kit, an enzyme immunoassay in-
+               vitro diagnostic for the quantitative measurement of alpha-
+               fetoprotein in human serum.  Recall #Z-608-4.
+CODE           Lot numbers:  57059M300 EXP 3/10/92; 57059M301 EXP 3/10/92;
+               57060M300 EXP 4/21/92; 58343M100 EXP 3/10/94.
+MANUFACTURER   Abbott Laboratories, Diagnostics Division, Abbott Park,
+               Illinois.
+RECALLED BY    Manufacturer, by telephone between December 31, 1991 and
+               January 2, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Alabama, California, Georgia, Missouri, New Jersey, North
+               Carolina, Pennsylvania, Texas.
+QUANTITY       199 kits were distributed; firm estimates none remains on
+               the market.
+REASON         Confirmed microbial growth in the O standard vials.
+
+_______________
+PRODUCT        Abbott CEA-EIA One Step Immunological Test System, an in-
+               vitro diagnostic for the quantitative measurement of
+               Carcinoembryonic Antigen in serum or plasma.  
+               Recall #Z-609-4.
+CODE           Lot #56757M200 EXP 1/8/92.
+MANUFACTURER   Abbott Laboratories, Diagnostics Division, Abbott Park,
+               Illinois.
+RECALLED BY    Manufacturer, by telephone November 12-14, 1991, followed by
+               letter.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       357 kits were distributed; firm estimates none remains on
+               the market.
+REASON         The "low" control may fall below the specified range.
+
+                                   -28-_______________
+PRODUCT        Model 5345 Technical Manuals distributed with Medtronic
+               Model 5346 Temporary Pulse Generators.  Recall #Z-675-4.
+CODE           Technical manuals distributed with Temporary Pulse
+               Generators, having the following serial numbers: 
+               PAL006030P, PAL006037P, PAL006041P, PAL006042P, PAL006064P,
+               PAL006069P.
+MANUFACTURER   Medtronic Milaca, Inc., Milaca, Minnesota.
+RECALLED BY    Medtronic Inc., Minneapolis, Minnesota, by memorandum
+               January 21, 1994.  Firm-initiated field correction complete.
+DISTRIBUTION   Arizona, Connecticut, Illinois, Kansas, Ohio, Oklahoma.
+QUANTITY       7 units.
+REASON         Product was distributed with the wrong technical manual.
+
+_______________
+PRODUCT        Breakaway Introducer Needles, which may be either sold
+               individually or as a component of a complete tray:  (a) 2FR
+               V-Cath Introducer Needle, Product #350-20; (b) 2FR V-Cath
+               Complete Tray, Product #350-00.  Recall #Z-683/684-4.
+CODE           Lot numbers:  (a) 1003; (b) 040.
+MANUFACTURER   HDC Corporation, San Jose, California.
+RECALLED BY    Manufacturer, by telephone February 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide, Canada.
+QUANTITY       (a) 200 needles; (b) 401 trays were distributed; firm
+               estimates 64 percent of the trays and 72 percent of the
+               needles remain on the market.
+REASON         The silicone gasket dislodges from the flashback chamber,
+               thus preventing the insertion of the catheter.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS I
+============
+_______________
+PRODUCT        Dairy Heifer Ration Medicated containing monensin, in 50
+               pound bags, for increased rate of weight gain for slaughter,
+               stocker, feeder, dairy and beef replacement heifers weighing
+               more than 400 pounds on pasture.  Recall #V-033-4.
+CODE           Lot #097932.
+MANUFACTURER   MFA, Inc., Columbia, Missouri.
+RECALLED BY    Manufacturer, January 11, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Missouri.
+QUANTITY       115 bags were distributed on December 7, 1993.
+REASON         Product contaminated with excessive level of monensin.
+
+
+SEIZURES:
+=================================================================
+_______________
+PRODUCT        Ultratronic Electrical Muscle Stimulators and component
+               circuit boards (electrical devices used to introduce
+               electrical current into the body to produce involuntary
+               muscle contractions) (93-696-477/9).
+
+                                   -29-CHARGES        Adulterated - The articles are class III devices for which 
+               no approved premarket approval applications are in effect. 
+               Further, the methods used in, and the facilities and
+               controls used for the articles' manufacture do not conform
+               with good manufacturing practice requirements.  Misbranded -
+               The articles' labeling represents and suggests that the
+               devices are adequate and effective treatment for, among
+               other things:  strengthening and building chest, back, arms
+               and legs; tightening abdominals; etc., which representations
+               and suggestions are false and misleading or otherwise
+               contrary to fact because the devices are not adequate and
+               effective for such purposes.  The articles' labels lack the
+               name and place of business of the manufacturer, packer, or
+               distributor.  Adequate directions for use for the purposes
+               for which they are intended are also lacking from the
+               articles' labels since adequate directions cannot be written
+               for use of the devices by laymen.  The labels inadequately
+               warn against their use in those pathological conditions or
+               by children where their use may be dangerous to health, nor
+               do the labels warn against unsafe dosage or methods of
+               administration or application, in such manner and form, as
+               are necessary for the protection of users.  The articles are
+               dangerous to health when used in the manner or with the
+               frequency or duration prescribed, recommended, or suggested
+               in their labeling.  The articles were not manufactured in a
+               duly registered establishment, nor were they included in a
+               required list.
+LOCATION       National Medical Fitness, trading and doing business as
+               Executive Fitness Products, Atlanta, Georgia.
+FILED          March 22, 1993; U.S. District Court for the Northern
+               District of Georgia, Atlanta Division; Civil #1:94-CV-
+               0774-JOF; FDC #66680.
+SEIZED         April 14, 1994; goods valued at approximately $214,145.
+_______________
+PRODUCT        Aidex antimicrobial liquid soap, Aidex antimicrobial cream,
+               Aidex antimicrobial aqueous lotion; and Aidex spray cleaner
+               (92-516-235, et al.).
+CHARGES        New Drug - The articles of drug are new drugs that are 
+               unapproved.  Adulterated Drugs and Device - The quality of
+               some of the articles of drug falls below that which they
+               purport or are represented to possess; and, the class III
+               device fails to have an approved premarket approval
+               application in effect.  Misbranded Drugs and Device - The
+               articles of drug bear labeling which is false and misleading
+               because it represents and suggests that the liquid soap
+               contains Resorcinol and the aqueous lotion contains
+               Resorcinol and PCMX, which representations and suggestions
+               are false, since they do not contain these ingredients.  The
+               drugs also fail to bear labeling containing adequate
+               directions for use for the purposes for which they are
+               intended.  The required 90-day notice or other information
+               with respect to the article of device has not been provided.
+
+                                   -30-LOCATION       Medicine and Applied Sciences, Inc., also known as Panbaxy
+               Laboratories, Inc., Jessup, Maryland. 
+FILED          March 18, 1994; U.S. District Court for the District
+               of Maryland; Civil #WN 94-685; FDC #66791.
+SEIZED         March 21, 1994 - goods valued at approximately $20,000.
+
+                                   -31-
+
+END OF ENFORCEMENT REPORT FOR APRIL 27, 1994.  BLANK PAGES MAY
+FOLLOW.
+                                   ####

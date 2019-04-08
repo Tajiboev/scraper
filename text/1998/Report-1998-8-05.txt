@@ -1,0 +1,1166 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2000
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      30 captures
+	      19 Aug 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+August 5, 1998                                        
+ 98-31
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS
+I
+
+PRODUCT
+Ice Cream:  a) Walgreen's Chocolate Cookies & Cream Ice Cream, in
+half gallon round paper cartons, labeled as distributed by
+Walgreen Company, Deerfield, Illinois;
+b) Becker's Chocolate Cookies  N Cream Ice Cream, in half gallon
+round paper cartons, labeled as distributed by L. Pritkin & A.
+Becker Inc., Chicago, Illinois.  Recall #F-563-8.
+CODE
+0168/55-477 on bottom of cartons.
+MANUFACTURER
+Schoep's Ice Cream Company, Inc., Madison, Wisconsin.
+RECALLED BY
+Manufacturer, by telephone on June 22, 1998, by voice mail on
+June 23, 1998, and by press release on June 24, 1998.  
+Firm-initiated recall ongoing.
+DISTRIBUTION
+Arizona, California, Florida, Illinois, Indiana, Iowa, Kentucky,
+Minnesota, New York, Ohio, Texas, Wisconsin.
+QUANTITY
+5,546 half-gallon cartons were distributed.
+REASON
+Product may contain undeclared pecans.
+
+
+PRODUCT
+Golden Lion brand Dried Potato, in 6 ounce plastic bags.  
+Recall #F-564-8.
+CODE
+None.
+MANUFACTURER
+Taishan Foodstuffs Import and Export, Guangdong, China.
+RECALLED BY
+Blooming Import Company, Inc., Brooklyn, New York, by letter on
+March 4, 1998.  Completed recall resulted from sample analysis
+and follow-up by the New York State Department of Agriculture and
+Markets.
+DISTRIBUTION
+New York.
+QUANTITY
+Approximately 24 cases (100 6-ounce packages per case) were
+distributed.
+REASON
+Product contained undeclared sulfites.
+
+
+PRODUCT
+Golden Lion brand Dried Potato, in 6 ounce plastic bags.
+Recall #F-565-8.
+CODE
+None.
+MANUFACTURER
+Taishan City Huafeng Food Company, Ltd., Guangdong, China.
+RECALLED BY
+Blooming Import, Inc., Brooklyn, New York, by letter dated
+October 27, 1997, and by visit.  Completed recall resulted from
+sample analysis and follow-up by the New York State Department of
+Agriculture and Markets.
+DISTRIBUTION
+New York.
+QUANTITY
+14 cases were distributed.
+REASON
+Product contained undeclared sulfites.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS
+II
+PRODUCTMineral Water with Juice, Flavored Mineral Water, and Spring
+Water, in 10 ounce bottles:
+a) Calistoga Sparkling Mineral Water with Juice, Black Current
+Flavor
+b) Calistoga Sparkling Mineral Water with Juice, Cranberry Flavor
+c) Calistoga Sparkling Mineral Water with Juice, Wild Berry 
+Flavor
+d) Calistoga Sparkling Mineral Water with Juice, Lemonade Flavor
+e) Calistoga Sparkling Mineral Water with Juice, Raspberry Guava
+Flavor
+f) Calistoga Sparkling Mineral Water with Juice, Mango Berry
+Flavor
+g) Calistoga Sparkling Mineral Water, Original Flavor
+h) Calistoga Sparkling Mineral Water, Lemon Flavor
+I) Calistoga Sparkling Mineral Water, Lime Flavor
+j) Calistoga Sparkling Mineral Water, Mandarin-Orange Flavor
+k) Calistoga Sparkling Mineral Water, Black Cherry Flavor
+l) Calistoga Non-Sparkling Spring Water.  Recall
+#F-551/562-8.
+CODE
+75403 00504, 75403 00506, 75403 00508, 75403 00512, 75403 00516,
+75403 00522, 75403 00600, 75403 00601, 75403 00602, 75403 00603,
+75403 00604, 75403 00040.
+MANUFACTURER
+Calistoga Mineral Water Company, Calistoga, California.
+RECALLED BY
+Manufacturer, by telephone, letter beginning on May 18, 1998, and
+by press release on May 21, 1998.  Firm-initiated recall
+ongoing.
+DISTRIBUTION
+California and other Western states.
+QUANTITY
+172,533 cases or 4,140,792 bottles were distributed.
+REASON
+Products were bottled in defective glass bottles whose rims may
+chip and allow glass to enter the product.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS
+-- CLASS II
+        
+PRODUCT
+Geneva Pharmaceuticals brand Methocarbamol Tablets, USP, Rx
+skeletal muscle relaxant:  a) 500 mg, in 500 tablets bottles, 
+NDC #0781-1760-05; b) 750 mg, in bottles of 100, NDC
+#0781-1750-01, in bottles of 500, NDC #0781-1750-05.  Recall
+#D-204/205-8.
+CODE
+Lots numbers: a) 90940; b) 90620, 90702, 90803, 91209, 90802,
+90817, 90935, 91002, 91172.
+MANUFACTURER
+Geneva Pharmaceuticals, Inc., Broomfield, Colorado.
+RECALLED BY
+Manufacturer, by letter on July 8, 1998.  Firm-initiated recall
+ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+a) 1,307,500 tablets; b) 7,444,700 tablets were distributed.
+REASON
+Tablets may contain metal particle contamination.
+
+        
+PRODUCT
+Miochol E Intraocular Solution (acetylcholine chloride), 20
+mg/2mL vials, Rx, used to obtain miosis of the iris in seconds
+after delivery of the lens in cataract surgery, in penetrating
+keratoplasty, iridectomy and other anterior segment surgery where
+rapid miosis may be required.  NDC #58768-773-52 and 
+NDC 58768-773-53.  Recall #D-206-8.
+CODE
+Lot numbers:  V2328 EXP 1/99 and V2325 EXP 1/99.
+MANUFACTURER
+OMJ Pharmaceuticals, San German, Puerto Rico.
+RECALLED BY
+CIBA Vision Ophthalmics (CVO), Duluth, Georgia, by letter mailed
+during the month of July 1998.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+Undetermined.
+REASON
+Low pH values (10 month stability test).
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+
+
+PRODUCT
+Comhist(R) LA, Extended Release Capsules, Chlorpheniramine
+maleate 4mg/Phenyltoloxamine citrate 50 mg/phenylephrine
+hydrochloride 20mg, in 100 capsule bottles, Rx used in the
+treatment of rhinorrhea and congestion associated with seasonal
+and/or perennial allergic rhinitis and vasomotor rhinitis, under
+the Roberts Pharmaceuticals label.  NDC #54092-065-01.  
+Recall #D-207-8.
+CODE
+Lot #M069H.
+MANUFACTURER
+Time-Cap Labs, Inc., Farmingdale, New York.
+RECALLED BY
+Manufacturer, by telephone on June 11, 1998, and by letter dated
+June 12, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+New Jersey.
+QUANTITY
+2,013 bottles were distributed.
+REASON
+Dissolution failure.
+
+
+PRODUCT
+Extra Strength Tylenol Tablets, 500 mg, in 100 tablet bottles,
+OTC pain reliever.  Recall #D-208-8.
+CODE
+Lot #AMA032 EXP 9/2001.
+MANUFACTURER
+McNeil Consumer Products Company, Las Piedras, Puerto Rico.
+RECALLED BY
+McNeil Consumer Products Company, Fort Washington, Pennsylvania,
+by letter on May 11, 1998.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+114,432 bottles were distributed.
+REASON
+Tablet discoloration, growth of penicillium and aspergillus
+species.
+
+
+PRODUCT
+Myco-Triacet II Cream, Dermatologic use only, (Nystatin and
+Triamcinolone Acetonide Cream, USP), Rx, in 15 gram tubes, under
+the Lemmon label.  Recall #D-209-8.
+CODE
+Lot #7088 EXP 10/99.
+MANUFACTURER
+Teva Pharmaceuticals USA, Inc., Sellersville, Pennsylvania.
+RECALLED BY
+Manufacturer, by letter on July 6, 1998.  Firm-initiated recall
+ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+94,123 tubes were distributed.
+REASON
+Subpotent at 18 month stability testing.
+
+
+PRODUCT
+Triamcinolone Acetonide Cream USP, 0.5%, in 15 gram tubes, Rx
+topical corticosteroid.  NDC #49158-141-20.  Recall #D-210-8.
+CODE
+Lot numbers:  M267 EXP 1/2002, K910 EXP 6/2001.
+MANUFACTURER
+Thames Pharmacal Company, Ronkonkoma, New York.
+RECALLED BY
+Manufacturer, by letter faxed on July 2, 1998, followed by
+telephone.  Firm-initiated recall ongoing.
+DISTRIBUTION
+New York, California, Colorado, Florida, Indiana, Michigan, Ohio,
+Texas, Puerto Rico.
+QUANTITY
+28,116 units of lot M267 and 1,641 units of lot K910 were
+distributed.
+REASON
+Mispackaging - Some tubes of 0.1% cream were packaged into
+cartons labeled as 0.5%.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+
+
+PRODUCT
+a) Red Blood Cells; b) Platelets, Pheresis.  
+Recall #B-1321/1322-8.
+CODE
+Unit numbers: a) 17183-3896, 28108-9019; b) 17183-3845,
+28109-1965, 28109-2700, 28109-3783.
+MANUFACTURER
+United Blood Services, McAllen, Texas.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by letter dated April
+7, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+a) 2 units; b) 4 units were distributed.
+REASON
+Blood products were collected from donors who traveled to an area
+considered endemic for malaria, were distributed.
+
+
+PRODUCT
+a) Red Blood Cells; b) Platelets, Pheresis; c) Single Donor
+Plasma; d) Source Leukocytes; e) Recovered Plasma; f) Platelets,
+for further manufacture.  Recall #B-1370/1375-8.
+CODE
+Unit numbers:  a) 56H28856, 56G59821, 56K35193, 56H30947,
+56F43223, 56F43207, 56J29402, 56H31389, 56G61648, 56F43212,
+56G61383, 56Q03375, 56G62579, 56Q03727, 56K37817, 56H32522,
+56H29112, 56K35213, 56F40961, 56F44797, 56F44923, 56F45388;
+b) 56P21418, 56P21610; c) 56F44797, 56F44923, 56F45388;
+d) 56F43207; e) 56H30947, 56F43223, 56F43207, 56J29402, 56H31389,
+56G61648, 56F43212, 56G61383, 56Q03375, 56G62579, 56Q03727,
+56K37817, 56H32522, 56G59821, 56H28856, 56K35213, 56H29112
+f) 56G59821, 56K35213, 56H30947, 56H29112.
+MANUFACTURER
+American Red Cross Blood Services, Albany, New York.
+RECALLED BY
+American Red Cross Blood Services, Rochester, New York by letters
+between November 1995 and April 1996.  Firm-initiated recall
+complete.
+DISTRIBUTION
+New York, Missouri, California.
+QUANTITY
+a) 22 units; b) 2 units; c) 3 units; d) 1 unit; e) 17 units; f) 4
+units were distributed.
+REASON
+Blood products, which tested repeatedly reactive for the
+hepatitis B surface antigen (HBsAg), or which tested negative for
+HBsAg, were collected from donors who previously tested
+repeatedly reactive for HBsAg.
+
+
+PRODUCT
+a) Red Blood Cells; b) Recovered Plasma.  
+Recall #B-1377/1378-8.
+CODE
+Unit #19KP06904.
+MANUFACTURER
+American Red Cross Blood Services, Paducah, Kentucky.
+RECALLED BY
+Manufacturer, by letters dated February 20, 1996 and March 8,
+1996.  Firm-initiated recall complete.
+DISTRIBUTION
+Kentucky and California.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor with a history of
+Hodgkins Disease.
+
+
+PRODUCT
+Red Blood Cells.  Recall #B-1379-8.
+CODE
+Unit #40GN70426.
+MANUFACTURER
+American Red Cross Blood Services, Peoria, Illinois.
+RECALLED BY
+Manufacturer, by letter dated May 13, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Missouri.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who reported travel to
+an area designated as endemic for malaria.
+
+
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Recovered Plasma.
+Recall #B-1381/1383-8.
+CODE
+Unit #26149-9803.
+MANUFACTURER
+United Blood Services, Fort Smith, Arkansas.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by letters dated
+September 18, 1997, and April 23, 1998.  Firm-initiated recall
+complete.
+DISTRIBUTION
+Texas and Switzerland.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor with a history of
+cancer.
+
+
+PRODUCT
+Red Blood Cells.  Recall #B-1384-8.
+CODE
+Unit numbers:  17183-5807, 28109-0621, 28109-3619.
+MANUFACTURER
+United Blood Services, McAllen, Texas.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by letter dated May 20,
+1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+3 units were distributed.
+REASON
+Blood products were collected from a donor who reported travel to
+an area designated as endemic for malaria.
+
+
+PRODUCT
+Platelets.  Recall #B-1385-8.
+CODE
+Unit #49GF12298.
+MANUFACTURER
+American Red Cross Blood Services, Tulsa, Oklahoma.
+RECALLED BY
+Manufacturer, by telephone on April 29, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Oklahoma.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product corresponded to a unit of clotted red blood
+cells.
+
+
+PRODUCT
+a) Red Blood Cells; b) Platelets, Pooled; c) Platelets, Pheresis.
+Recall #B-1386/1388-8.
+CODE
+Contact FDA, Center for Biologics Evaluation and Research, Office
+of Compliance (301) 827-6220 for individual unit numbers
+recalled.
+MANUFACTURER
+The Blood Center of Central Iowa, Des Moines, Iowa.
+RECALLED BY
+Manufacturer, by letter dated between June 6, 1997 and January
+23, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Connecticut, Iowa, Illinois, Maryland, Mississippi, North
+Carolina, New Jersey, New York, Pennsylvania, Utah.
+QUANTITY
+a) 42 units; b) 25 units; c) 3 units were distributed.
+REASON
+Blood products were collected from donors who reported travel to
+areas designated as endemic for malaria.
+
+
+PRODUCT
+Source Plasma.  Recall #B-1389-8.
+CODE
+Unit #0720519
+MANUFACTURER
+Stillwater Plasma Center, Inc., Stillwater, Oklahoma.
+RECALLED BY
+Manufacturer, who notified the trucking company of the recall and
+requested that the unit be pulled from the shipment and returned. 
+Firm-initiated recall complete.
+DISTRIBUTION
+Kentucky.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor with an elevated ALT.
+
+
+PRODUCT
+a) Red Blood Cells; b) Frozen Plasma.  Recall #B-1393/1394-8.
+CODE
+Unit #21FL24154.
+MANUFACTURER
+American Red Cross, Portland, Oregon.
+RECALLED BY
+Manufacturer, by telephone on January 30, 1998, and letter dated
+February 2, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Oregon.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products tested negative for anti-HCV, but were collected
+from a donor who had previously tested positive for anti-HCV.
+
+
+PRODUCT
+Platelet Pheresis.  Recall #B-1399-8.
+CODE
+Unit #KZ51179.
+MANUFACTURER
+Virginia Blood Services, Richmond, Virginia.
+RECALLED BY
+Manufacturer, by letter dated July 13, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Virginia.
+QUANTITY
+1 unit was distributed.
+REASON
+A unit of platelets, pheresis was collected from a donor who had
+taken aspirin on the day of donation.
+
+
+PRODUCT
+a) Red Blood Cells; b) Platelets.  Recall #B-1401/1402-8.
+CODE
+Unit #39G95285.
+MANUFACTURER
+American Red Cross, Huntington, West Virginia.
+RECALLED BY
+Manufacturer, by April 30, 1998.  Firm-initiated recall
+complete.
+DISTRIBUTION
+West Virginia.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were mislabeled as CMV antibody negative.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS
+III
+
+PRODUCT
+Red Blood Cells.  Recall #B-1294-8.
+CODE
+Unit #6064944.
+MANUFACTURER
+LifeSource, Inc., Glenview, Illinois.
+RECALLED BY
+Manufacturer, by telephone on April 23, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Illinois.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was not retested for the antibody to the hepatitis
+B core antibody (anti-HBc), after the initial testing was
+invalidated.
+
+
+PRODUCT
+Platelets, Pheresis.  Recall #B-1380-8.
+CODE
+11319-3485-01, 11319-3488, 11319-3491-01, 11319-3491-02.
+MANUFACTURER
+United Blood Services, El Paso, Texas.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by telephone on June
+18, 1998, and by letter dated June 25, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+New Mexico.
+QUANTITY
+4 units were distributed.
+REASON
+Unlicensed blood product was distributed in interstate
+commerce.
+
+
+PRODUCT
+Red Blood Cells.  Recall #B-1392-8.
+CODE
+Unit H78194.
+MANUFACTURER
+Tacoma-Pierce County Blood Bank, doing business as Cascade
+Regional Blood Services, Tacoma, Washington.
+RECALLED BY
+Manufacturer, by telephone on April 21, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Washington state.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was labeled with an extended expiration date.
+
+
+RECALLS AND FIELD CORRECTIONS: 
+DEVICES -- CLASS II
+
+PRODUCT
+ACS Coronary Stent System an Dilatation Catheters, intended to
+improve coronary luminal diameter in patients with heart disease
+use to coronary artery lesions:  a) ACS MULTI-LINK Coronary Stent
+System; b) ACS RX Comet Dilatation Catheter; c) - ACS Tx2000
+Dilatation Catheter.  Recall #Z-408/410-8.
+CODECatalog/Product #       Size                Lot #
+
+a) 1001091                 (3.0mm x 15mm)      7091951
+                                               7100751
+                                               7102552
+                                               7103051
+                                               7110451
+   1001092                 (3.0mm x 15mm)      7100351
+                                               7100451
+                                               7102451
+                                               7103051
+                                               7110551
+                                               7110552
+   1001594                 (3.0mm x 15mm)      7091854
+                                               7092552
+                                               7092553
+   1001595                 (3.0mm x 15mm)      7090552
+                                               7090951
+                                               7091752
+   1001597                 (3.0mm x 25mm)      7090351
+                                               7090353
+                                               7090452
+                                               7100254
+                                               7100856
+   1001598                 (3.5mm x 25mm)      7090852
+                                               7092551
+   1001093                 (4.0mm x 15mm)      7092651
+                                               7100851
+                                               7101551
+   1001596                 (4.0mm x 15mm)      7092352
+                                               7100651
+   1001599                 (4.0mm x 25mm)      7090551
+                                               7090552
+                                               7090651
+                                               7102251
+   1001600                 (3.0mm x 35mm)      7092451
+                                               7100351
+                                               7101551
+   1001601                 (3.5mm x 35mm)      7092451
+                                               7100351
+                                               7101752
+                                               7102351
+   1001602                 (4.0mm x 35mm)      7080451
+                                               7081151
+b) 1000389-20              (2.5mm x 20mm)      7032152
+   1000391-20              (3.0mm x 20mm)      7032252
+c) 1000404-20              (2.5mm x 20mm)      6110551
+                                               6110651
+   1000406-20              (3.0mm x 20mm)      6110452
+                                               6110453
+   1000408-20              (3.5mm x 20mm)      6072951.
+MANUFACTURER
+Guidant Corporation, Temecula, California.
+RECALLED BY
+Guidant Corporation, Advanced Cardiovascular Systems, Santa
+Clara, California (responsible firm), by letters dated November
+26, 1997, and December 3, 1997.  Firm-initiated recall
+complete.
+DISTRIBUTION
+Puerto Rico.
+QUANTITY
+Firm estimates none remains on the market.
+REASON
+The labeled "FOR EXPORT ONLY" devices were shipped to a U.S. 
+territory with two sizes of the stent system lacking PMA 
+approval, while the other devices lacked approved labeling and 
+patient tracking information required for use within the U.S.
+
+
+PRODUCT
+Chick Ultralux Hi-Profile Birthing Room Lights, Model 78100,
+intended for use in illuminating the procedure site during
+childbirth.  Recall #Z-411-8.
+CODE
+All serial numbers manufactured from 1987 to May 1993.
+MANUFACTURER
+Midmark Corporation, Versailles, Ohio.
+RECALLED BY
+Manufacturer, by letter mailed beginning on January 20, 1998. 
+Firm-initiated field correction complete.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+879 units were distributed.
+REASON
+The cap (trunnion housing) on the actuator component which opens
+and closes the light, can weaken and break, causing the surgical
+light to swing out of the ceiling weld, which could possibly
+strike anyone beneath the light.
+
+
+PRODUCT
+Ami Infant Central Apnea/Heart Rate Monitors, intended for use
+with infants in the home or hospital, to detect episodes of
+central apnea, bradycardia, or tachycardia, and sound an alarm: 
+Model L-9700 (monitor without modem); Model L-9700A (monitor with
+modem), Model L-9700-G (monitor without modem for distribution in
+Germany); Model L-9700-S (monitor without modem for distribution
+in Spain; Model L-REF9700A (refurbished monitor with modem);
+Model L-REF9700 (refurbished monitor without modem).  
+Recall #Z-605-8.
+CODE
+All serial numbers.
+MANUFACTURER
+Nellcor Puritan Bennett, Inc., Minneapolis, Minnesota.
+RECALLED BY
+Manufacturer, by letter dated June 8, 1998.  Firm-initiated
+recall ongoing.
+DISTRIBUTION
+Nationwide, Argentina, Spain.
+QUANTITY
+886 monitors were distributed.
+REASON
+Possible false alarms and failure to alarm during apnea.
+
+
+PRODUCT
+KXO-80G Diagnostic X-ray High Voltage Generator.  
+Recall #Z-666-8.
+CODE  
+None.
+MANUFACTURER
+Toshiba America Medical Systems, Inc., Tustin, California.
+RECALLED BY
+Manufacturer.  FDA approved the firm's corrective action plan
+July 21, 1998.  Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+171 units were distributed.
+REASON
+Noncompliance with 21 CFR 1020.32(b)(1) in that when used in
+combination with the DUA series R/F tables it may exhibit a
+coefficient of variation of radiation exposures greater than 0.05
+in the manual spot-film mode.
+
+
+PRODUCT
+Cordis Brite Tip Sheath Introducer with "black tip" (Note: This
+recall does not apply to this device with the "yellow tip"), used
+to facilitate percutaneous entry of an intravascular device. 
+There are two packaging configurations for the Brite Tip sheath.
+The sheaths which are 5.5, 11 and 23 cm in length are
+individually packaged in a "blister" tray with tyvec backing and
+sold in an outer carton containing five sheaths. This would be
+catalog numbers 401-X05M, 401-X11M, and 401-X23M, where "X" is
+the french size.  The other packaging configuration is for
+sheaths of 35, 45, 55 and 90 cm in length. These are packaged
+individually on a paper mounting card with a mylar wrap and sold
+in an outer carton containing two sheaths.  These would be
+catalog numbers 401-X35M, 401-X45M, 401-X55M and 401-X90M.
+Recall #Z-683/702-8.
+a) The following is a list of Catalog Numbers that are under
+recall (all lot numbers of these catalog numbers are included in
+recall (ONLY THE "BLACK TIP INTRODUCERS)
+401-411M       401-423M       401-511M       401-523M      
+401-535M        
+401-545M
+401-555M       401-605M       401-690M       401-611M      
+401-623M        
+401-635M
+401-645M       401-655M       401-705M       401-790M      
+401-711M        
+401-723M
+401-735M       401-745M       401-755M       401-805M      
+401-890M        
+401-811M
+401-823M       401-835M       401-845M       401-855M      
+401-911M        
+401-923M
+401-935M       401-945M       401-955M
+b) The following are "transition" lot numbers of earlier lots
+made using a newer "black tip" instead of the yellow tip of the
+past. These lot numbers would represent the first lot of that
+catalog number having the black tip (under recall).  This lot
+number and all later lot numbers (greater) than these are covered
+by the recall.  Note that not all catalog numbers will have a
+transition lot number since some catalog numbers were added after
+the initial product introduction.
+CATALOG NUMBER                        LOT NUMBER
+401-611M                              K1097286
+401-623M                              K1097116
+401-635M                              K1097164
+401-645M                              K1097168
+401-655M                              K1097165
+401-711M                              K1097118
+401-723M                              K1097287
+401-735M                              K1097117
+401-745M                              K1097221
+401-755M                              K1097235
+401-811M                              K1097119
+401-823M                              K1097212
+401-835M                              K1097252
+401-845M                              K1097291
+401-855M                              K1097288
+401-911M                              A1197307
+401-923M                              A1097805
+401-935M                              41097620
+401-945M                              41097632
+401-955M                              A1197185.
+MANUFACTURER
+Cordis Corporation, a Johnson & Johnson Company, Miami Lakes,
+Florida.
+RECALLED BY
+Manufacturer, by letter on June 5, 1998.  Firm-initiated recall
+ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+28,757 units were distributed.
+REASON
+Introducer tip detachment.
+
+
+PRODUCT
+Compressor Compact, Part #6150440, a silent compressor supplying
+dried, filtered compressed air.  Recall #Z-707-8.
+CODE
+All units.
+MANUFACTURER
+Siemens-Elema AB, Solna, Sweden.
+RECALLED BY
+Siemens Medical Systems, Inc., Danvers, Massachusetts, by letter
+dated April 30, 1998.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+187 units were distributed.
+REASON
+There were two failure modes:  (1) the cooler/dehumidifier
+overloads the power supply; and (2) an inadequate motor starting
+torque blows a fuse.
+
+
+PRODUCT
+Fletcher-Van Doren Uterine Polyps Forceps, 9 1/2 inches, Catalog
+#GL1805, used in gynecological surgical procedures.
+Recall #Z-708-8.
+CODE
+Lot numbers:  BB039, BB040, BB041.
+MANUFACTURER
+August Reuchlen, Germany.
+RECALLED BY
+Allegiance Healthcare Corporation, McGaw Park, Illinois, by
+letter dated July 17, 1998.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and Mexico.
+QUANTITY
+167 forceps were distributed.
+REASON
+Forceps have the potential for premature cracking at the jaw of
+the instrument.
+
+
+PRODUCT
+Storz Tanne Disposable Trephine Blade, Catalog #E3050 8.25, for
+use in ophthalmic procedures.  Recall #Z-709-8.
+CODE
+Lot #S1144.
+MANUFACTURER
+Bausch & Lomb Surgical, St. Louis, Missouri.
+RECALLED BY
+Manufacturer, by letter on June 16, 1998.  Firm-initiated recall
+ongoing.
+DISTRIBUTION
+Connecticut, North Carolina, South Carolina, Indiana, Minnesota,
+Texas, Michigan, South America.
+QUANTITY
+26 blades were distributed.
+REASON
+The edge of the blade may be brittle and break during use.
+
+
+PRODUCT
+First Temp Genius Calibrator, used for recalibration of tympanic
+thermometer:  a) FirstTemp Genius - Model No. 3000-PC Calibrator,
+Catalog No. 8884-830129; b) FirstTemp Genius - Model No. 3000-PC  
+Calibrator w/DeskTop Interface Kit, Catalog No. 8884-830160.
+Recall #Z-710/711-8.
+CODE
+Serial Nos. H9712346 through H9713066.
+MANUFACTURER
+Sherwood-Davis & Geck, Watertown, New York.
+RECALLED BY 
+Sherwood-Davis & Geck, Hazelwood, Missouri, by letter dated June
+30, 1998.  Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide and Australia.
+QUANTITY
+541 units were distributed.
+REASON
+When using software version 1.04, the "calibration Check"feature
+may incorrectly identify whether the thermometer being checked 
+requires calibration.
+
+
+PRODUCT
+Aztech 65 Dental X-Ray System, used in dental radiography.
+Recall #Z-712-8.
+CODE
+Model Aztech 65.  Equipment manufactured prior to December 12,
+1997.
+MANUFACTURER
+Villa Sistemi Medicali, S.p.A.,.
+RECALLED BY
+The Aztech Group, Inc., Boulder, Colorado.  FDA approved the
+firm's corrective action plan July 29, 1998.  Firm-initiated
+field correction ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+1,200 units were distributed.
+REASON
+The diagnostic x-ray device was found defective under 21 CFR 
+1003.11.  The defect occurs as a result of incomplete equipment
+specifications and installation instructions on equipment
+manufactured prior to December 12, 1997.
+
+
+PRODUCT
+Gambro Healthcare Acid Concentrate for Bicarbonate Dialysate,
+3-K, in one gallon containers,  used with concentrated
+bicarbonate
+solution in conjunction with artificial kidney equipment in
+administering dialysis procedures.  Recall #Z-714-8.
+CODE
+Product #AC-1002-4, Lot #G7K021.
+MANUFACTURER
+Di-Chem Concentrate, Inc., Lewisberry, Pennsylvania.
+RECALLED BY
+Gambro Healthcare, DeLand, Florida, by telephone on March 20,
+1998, followed by letter dated March 25, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Missouri, Virginia, New York, District of Columbia, New Jersey,
+Illinois, Michigan.
+QUANTITY
+1,118 cases (4 gallons per case) were distributed.
+REASON
+Product was diluted towards the end of production, causing alarms
+during use.
+
+
+PRODUCT
+Model 9952A Software, used in Medtronic 9790C Programmers
+Medtronic Kappa 400 series Pacemakers.  Recall #Z-715-8.
+CODE
+All Model 9952A software.
+MANUFACTURER
+Medtronic, Inc., Milaca, Minnesota.
+RECALLED BY
+Medtronic, Inc., Minneapolis, Minnesota, by letter dated June 25,
+1998.  Firm-initiated field correction ongoing.
+DISTRIBUTION
+California, Australia, Japan.
+QUANTITY
+133 of the Model 9790 Programmers in use have the Model 9952A
+software.
+REASON
+Bench testing has identified a software anomaly that could result
+in the delivery of an unintended pacing mode or pacing
+interval.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS
+III
+
+PRODUCT
+Lumax Catheters:  a) LuMax Reusable Urodynamic Fiber Optic
+Pressure Transducer Catheters. Models 10F-1LR and 10F-1R;
+b) LuMax Fiber Optic Pressure Transducer Catheters, Models
+10F-1L, 10F-1, and 4F-1, fiber optic pressure transducer
+catheters used with the LuMax Cystometry System module to measure
+pressures in the bladder, abdomen, and urethra for the diagnosis
+of urinary incontinence, bladder outflow obstruction, and other
+bladder disorders.  Recall #Z-517/518-8.
+CODELot numbers:
+203302     203344     203411     203416     203528
+203303     203387     203412     203417
+203324     203408     203413     203418
+203340     203409     203414     203420
+203342     203410     203415     203520.
+MANUFACTURER
+MedAmicus, Inc., Minneapolis, Minnesota.
+RECALLED BY
+Manufacturer, by letter on April 10, 1998.  Firm-initiated recall
+ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+1,320 units were distributed.
+REASON
+Inability to scan the serial number bar code prevents the use of
+some units.
+
+
+PRODUCT
+Alexon-Trend ProSpecT Cryptosporidium Rapid Assay Kit, Product
+number 340-20, an in-vitro diagnostic test kit for the
+qualitative detection of Cryptosporidium Specific Antigen in
+aqueous extracts of fecal specimens.  Recall #Z-607-8.
+CODE
+Lots numbers:  970605, 970452, 970400, 970327A, 970327, 970173,
+960961, 960800, and 960650.  
+MANUFACTURER
+Alexon, Inc., Sunnyvale, California.  (Since the recall, this
+firm has relocated, and is now Alexon-Trend, Inc., Ramsey,
+Minnesota.)
+RECALLED BY
+Manufacturer, by letter dated September 15, 1997, followed by
+telephone on October 3, 1997.  Firm-initiated recall complete.
+DISTRIBUTION
+Nationwide, Germany, Israel, Japan, Korea, New Zealand,
+Switzerland.
+QUANTITY
+637 assay kits were distributed.
+REASON
+False positive test results.
+
+
+PRODUCT
+ACS:180 VANCOMYCIN, Part No. 672361000 for 50 Test Kits, used for
+the quantitative determination of vancomycin in serum or plasma
+using the CIBA Corning Automated Chemiluminescence Systems (ACS). 
+Recall #Z-628-8.
+CODE
+Lot Numbers:  4884017,4974317, 5118117, 5201717, 5181718; Part  
+No. 672360000 for 300 Test Kits, Lot Nos. 4883917, 5016817, 
+5129017, 5135518, 5161118.
+MANUFACTURER
+Chiron Diagnostics Corp., East Walpole, Massachusetts.
+RECALLED BY
+Manufacturer, by telephone on June 12 and 13, 1997.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+315 kits of part #672361000 and 126 kits of part #672360000 were
+distributed.
+REASON
+The lite reagent exhibited bottle-to-bottle variations due to
+excessive exposure to light in the warehouse.
+
+
+PRODUCT
+NeuroControl FreeHand System Implantable Receiver-Stimulator
+Model 1060-1, an implantable hand grasp neuroprosthesis intended
+to enable persons with C5/C6 level spinal cord injury to grasp,
+hold, and release objects.  Recall #Z-706-8.
+CODE
+All serial numbers.
+MANUFACTURER
+NeuroControl Corporation, Cleveland, Ohio.
+RECALLED BY
+Manufacturer, by telephone, followed by telephone on May 27,
+1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+45 units were distributed.
+REASON
+The device has the potential for a malfunction which results in
+an inability to regulate output current on all eight channels
+causing the clinician to be unable to lower the current amplitude
+setting from the default value.
+
+
+PRODUCT
+Fenlin Shoulder Femoral Stem.  Recall #Z-713-8.
+CODE
+Catalog #00-4065-043-00, Lot #55319300.
+MANUFACTURER
+Zimmer, Inc., Warsaw, Indiana.
+RECALLED BY
+Manufacturer, by letter dated June 8, 1998.  Firm-initiated
+recall ongoing.
+DISTRIBUTION
+Arizona, California, Florida, Pennsylvania, Texas, Virginia,
+Wisconsin, Canada, Germany, Italy.
+QUANTITY
+18 units.
+REASON
+The stem length etched on the device is 160 mm, but the actual
+length is 130 mm.
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY -- CLASS
+II
+
+PRODUCT
+Land O' Lakes Medi-Flex S-Guard Medicated-Type B Medicated Premix
+For use in swine feeds only - containing fenbendazole - 5/10 lb
+bag bales.  Recall #V-026-8.
+CODE
+8050511D.
+MANUFACTURER
+ADM Animal Health & Nutrition Division, Des Moines, Iowa.
+RECALLED BY
+ADM Animal Health & Nutrition Division, Ft. Wayne, Indiana, by
+telephone on June 9, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Iowa and Minnesota.
+QUANTITY
+122 5/10 pound bag bales were distributed; firm estimates none
+remains on the market.
+REASON
+Product is super and subpotent in fenbendazole.
+
+
+END OF ENFORCEMENT REPORT FOR AUGUST 5, 1998.

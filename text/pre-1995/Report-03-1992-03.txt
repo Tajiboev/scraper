@@ -1,0 +1,899 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  AUG
+		  Dec
+		
+		
+		
+		  
+		  15
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      28 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dm
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+03/03/1992
+
+Recalls and Field Corrections:  March 3, 1992
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  product will cause serious adverse health consequences or
+                  death.
+
+                                     NONE
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the
+                  probability of serious adverse health consequences is
+                  remote.
+
+
+Product:          Breader, a breading mix in 50 pound paper bags.
+                  Recall #F-119-2.
+Code:             Lot numbers:  Lots manufactured on 9/30 and 10/1/91 -
+                  B0930101 through B0930199, B1001101 through B1001199.
+Manufacturer:     Modern Maid Food Products, Inc., Jamaica, New York.
+
+                                      -1-
+                                       
+
+
+
+Recalled by:      Modern Maid Food Products, Inc., Uniondale, New York,
+                  by telephone October 11, 1991.  Firm-initiated recall
+                  ongoing.
+Distribution:     Virginia.
+Quantity:         1,360 bags were distributed.
+Reason:           Product is contaminated with metal fragments.
+
+                                     ----
+
+Product:          Agar Piping Gel both in yellow and green colors, in
+                  5 pound plastic tubs, and 48 pound plastic pails, used for
+                  cake decorating and glazing of various sweet goods, under
+                  the following labels:
+                  White Stokes Agar Piping Gel; Westco Piping Jell;
+                  Star brand Piping Gel; B & K brand Piping Gel;
+                  Henley Agar Piping Gel; Baker's Friend Piping Jell;
+                  A. Panza  & Sons Ltd. Piping Gel; David Rosen Piping Gel;
+                  Royal brand Agar Piping Gel.  Recall #F-133/134-2.
+Code:             All lots.
+Manufacturer:     White Stokes Company, Inc., Chicago, Illinois.
+Recalled by:      Manufacturer, by undated letter mailed February 6, 1992.
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         1,400 cases (6 tubs per case) and 20 48-pound pails were
+                  distributed; firm estimates 25 percent of the product
+                  remains on the market.
+Reason:           Product contains undeclared FD&C; Yellow No. 5.
+
+                                     ----
+
+
+                  Class III - A situation in which the use of, or exposure
+                  to a violative product is not likely to cause adverse
+                  health consequences.
+
+
+Product:          Apollinaris Mineral Water, in 33.8 ounce bottles.
+                  Recall #F-132-2.
+Code:             Lot #0701.
+Manufacturer:     Apollinaris Brunnen AG, Federal Republic of Germany.
+Recalled by:      Shaffer, Clarke & Company, Inc., Darien, Connecticut,
+                  by letter November 27, 1991, followed by telephone.
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         6,468 cartons (12 bottles per case) were distributed.
+Reason:           Product is contaminated with Dimethyldisulfide.
+
+                                     ----
+
+Product:          Shaw Chunk Light Tuna in water, in 6 1/8 ounce cans.
+                  Recall #F-135-2.
+Code:             All retail products.
+Manufacturer:     Caribe Tuna, Ponce, Puerto Rico.
+
+                                      -2-
+
+
+
+Recalled by:      Shaw's Supermarkets, Inc., East Bridgewater,
+                  Massachusetts, by telephone and by Quality Assurance
+                  Bulletin December 10, 1991.  Firm-initiated recall ongoing.
+Distribution:     New England.
+Quantity:         6,564 cases (48 cans per case) were distributed.
+Reason:           Product is labeled as containing zero mg of sodium per
+                  serving and the ingredient statement lists salt as an
+                  ingredient.
+                                     ----
+
+Product:          Chunk Light Tuna in water, in 6.5 ounce cans.
+                  Recall #F-136-2.
+Code:             Lot numbers:  XV210/B8J9A, XV210/B5J9B, XV210/B8F9A.
+Manufacturer:     General Nutrition Corporation, Leetsdale, Pennsylvania.
+Recalled by:      Manufacturer, by letter April 8, 1991.  Firm-initiated
+                  recall complete.
+Distribution:     Nationwide.
+Quantity:         Firm estimates none remains on the market.
+Reason:           Product contains twice the amount of sodium as stated
+                  on the label.
+
+                                     ----
+
+                                   COSMETICS
+
+                                     NONE
+
+                           HUMAN DRUGS AND BIOLOGICS
+
+                  Class I -
+                                     NONE
+                  Class II -
+
+Product:          (a) Cherry flavored Acetaminophen Elixir, under the Rugby,
+                  Treasury, Pick N' Save Drugs, Taylor, True Quality,
+                  Medi Save, and Health Center labels; (b) Grape flavored
+                  Elixir, under the Rugby, NP, Treasury, Pick N'Save Drugs
+                  and Drug Guild labels, in 4 fluid ounce containers.
+                  Recall #D-224-2.
+Code:             Lot numbers:  (a) L112013, L004023-1, L011010-2, 002022-3,
+                  L102054-1, L104007-3, L109012-1, L110015-2, L112014-1,
+                  L007007-1, 003059, L106047-1, L112014-3, L010009-2,
+                  L004023-2, L105067-2, L104007-1, L106074-1, L109012-4,
+                  L111051, L112014-4, L011010-1, L004023-2, L101048-1,
+                  L104007-2, L106074-2, L110015-1, L101054-2, L1104007-4,
+                  L109012-2, L110015-3, L112014-2, L010009-1, 003084,
+                  L105067-1, L102054-3, L105039, L109012-3, L007008-1;
+                  (b) L110089-1, L108064-5, L005038, L108064-1, L004011,
+                  L108064-2, L102038-1, L108064-3, L012038-2, L108064-4,
+                  L012038-3, L11089-2 (grape).
+Manufacturer:     Naska Pharmacal Company, Inc., Lincolnton, North Carolina.
+Recalled by:      Manufacturer, by letter on or about January 8, 1992.
+                  Firm-initiated recall ongoing.
+
+                                      -3-
+
+
+
+Distribution:     (a) Texas, Alabama, Louisiana, Tennessee, Kentucky;
+                  (b) Pennsylvania, Louisiana, Florida (grape).
+Quantity:         (a) 282,341 units; (b) 65,361 units were distributed.
+Reason:           Markings on dosage cup not totally compatible with
+                  label dosage instructions.
+
+                                     ----
+
+Product:          Pherazine Plain Syrup (Promethazine HCl Syrup),
+                  6.25 mg/5 ml, in 4 ounce, 16 ounce and 1 gallon bottles,
+                  a Rx drug prescribed for allergies and allergic reactions,
+                  under the Blue Cross, Rugby, Schein, Major Pharmaceuticals
+                  and Qualitest labels.  Recall #D-226-2.
+Code:             Lot numbers:  44960, 44995, 45013, 45066, 45073, 45085,
+                  45128, 45196.
+Manufacturer:     Halsey Drug Company, Inc., Brooklyn, New York.
+Recalled by:      Manufacturer, by letter dated February 3, 1992.  Firm-
+                  initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         7,500 gallons were distributed.
+Reason:           Product marketed without an Abbreviated New Drug Application
+                  approval.
+
+                                     ----
+
+Product:          Fenopren Calcium Capsules and Tablets (a) 200 mg;
+                  (b) 300 mg; (c) 600 mg, a Rx drug used for the relief of
+                  signs and symptoms of rheumatoid and osteo-arthritis, under
+                  the Blue Cross, Parmed, Schein, Rugby, and Genetco labels.
+                  Recall #D-227/229-2.
+Code:             Lot numbers:  9L29N, 0D20C, 1G24G, 1K11; (b) 9L02, 9L29M,
+                  0D09L, 0E16B, 0K16E, 1629, 1H21, 1K22C; (c) 9L06G, 9L22E,
+                  0E17K.
+Manufacturer:     Halsey Drug Company, Inc., Brooklyn, New York.
+Recalled by:      Manufacturer, by letter February 11, 1992.  Firm-initiated
+                  recall ongoing.
+Distribution:     Unknown.
+Quantity:         3,500,000 capsules and 150,000 tablets were distributed.
+Reason:           Source of raw material active ingredient cannot be
+                  verified.  Lot 0D09L also failed dissolution specifications.
+
+                                     ----
+
+Product:          Fougera Erythromycin Ophthalmic Ointment USP, sterile,
+                  1 gram unit dose.  Recall #D-230-2.
+Code:             All lots within expiration dates.  Lot numbers as follows:
+                  0092, 0257, 0467, 0521, 0574, 0522, 0575, 0749, 0796, 0797,
+                  1063, 1095, 1202, 1286, 1478, 1528, 1723, 1955, 1957, 2007,
+                  2036, 2037, 2068, 2204.
+Manufacturer:     Fougera Division of Altana, Inc., Melville, New York.
+Recalled by:      Manufacturer, by letter February 13, 1992.  Firm-initiated
+                  recall ongoing.
+Distribution:     Nationwide.
+
+                                      -4-
+
+
+
+Quantity:         Approximately 493,500 to 701,800 units were distributed.
+Reason:           When opening the container, the plastic tip closure may
+                  be pushed into tube resulting in potential for plastic
+                  tip to be instilled in patient's eye.
+
+                                     ----
+
+Product:          Fougera Puralube Petrolatum Ophthalmic Ointment, a
+                  sterile-ocular lubricant, 1 gram unit dose.
+                  Recall #D-231-2.
+Code:             Lot numbers 0283, 1540.
+Manufacturer:     Fougera Division of Altana, Inc., Melville, New York.
+Recalled by:      Manufacturer, by letter February 13, 1992.  Firm-
+                  initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         Approximately 15,000 units were distributed.
+Reason:           When opening the container, the plastic tip closure may
+                  be pushed into tube resulting in potential for plastic
+                  tip to be instilled in patient's eye.
+
+                                     ----
+
+Product:          Aspirin Tablets, uncoated, 5 grains, under the following
+                  labels: Swan, 100 tablets and 300 tablets;
+                  Always Save, 250 tablets; Springfield, 250 tablets;
+                  Super Tru, 250 tablets; Target, 300 tablets.
+                  Recall #D-232-2.
+Code:             Lot numbers and EXP dates:
+                  13284 11/96, 13532 12/96 (Swan); 13532-1 12/96 (Always Save);
+                  13530 12/96 (Springfield); 13529 12/96 (Super Tru);
+                  13293 11/96, 13529 12/96, 13531 12/96, 13532 12/96 (Target).
+Manufacturer:     Cumberland-Swan, Inc., Smyrna, Tennessee.
+Recalled by:      Manufacturer, by letter January 22, 1992.  Firm-initiated
+                  recall ongoing.
+Distribution:     Arkansas, California, Georgia, Massachusetts, Minnesota,
+                  Nebraska, New York, Tennessee, Texas, Virginia, Wisconsin.
+Quantity:         1,203 cases (144 bottles per case) were distributed.
+Reason:           Possible presence of metal particles.
+
+                                     ----
+
+Product:          Codeine Antitussive Cough Syrup, 10 mg/5 ml, packaged
+                  in 4 fluid ounce glass bottles, OTC, oral administration
+                  for temporary relief of coughs due to common cold, under
+                  the following labels:  Saverex Drugs, Pawleys Island
+                  Apothecary, Rushville Pharmacy, 101 Pharmacy,
+                  Arlington Rexall Drugs, Ridgemont Drugs,
+                  NJ/Hillsdale Pharmacy, The Prescription Center,
+                  Wasem's Rexall Drugs, James Discount Drugs,
+                  Corner Drug Store, Shelton's Pharmacy,
+                  Family Pharmacy of Collierville, Inc.,
+                  Eastgate Pharmacy, Dan Purvis Drugs,
+
+                                      -5-
+
+
+
+                  White Way Pharmacy, Bill's Pharmacy,
+                  McLeskey-Todd Drug Co., Savage's Drug Store.
+                  Recall #D-233-2.
+Code:             C-V26, EXP 10/95.
+Manufacturer:     Weeks & Leo Company, Inc., Des Moines, Iowa.
+Recalled by:      Manufacturer, by telephone December 5, 1991.  Firm-
+                  initiated recall ongoing.
+Distribution:     South Carolina, Mississippi, Tennessee, Washington state,
+                  Indiana, New Jersey, Virginia.
+Quantity:         792 bottles were distributed.
+Reason:           Product label fails to bear pregnancy/nursing warning
+                  statement and a statement indicating the type of
+                  tamper-resistant packaging.
+
+                                     ----
+
+Product:          (a) Lyphomed Sodium Chloride Injection, USP, Concentrated
+                  23.4% 4 mEq/ml, must be diluted prior to IV administration,
+                  preservative free, in 30 ml single dose vial;
+                  (b) Bacteriostatic Sodium Chloride Injection, USP, 0.9%
+                  not for use in newborns, for drug diluent use only, in
+                  30 ml multiple dose vials.  Recall #D-234/235-2.
+Code:             Lot numbers:  (a) 311159, 311160, 311183, 311184, 311206,
+                  311291; (b) 311262, 311263.
+Manufacturer:     Lyphomed, Division of Fujisawa USA, Inc., Grand Island,
+                  New York.
+Recalled by:      Lyphomed, Division of Fujisawa USA, Inc., Melrose
+                  Park, Illinois, by telephone February 21, 1992, followed
+                  by letter February 24, 1992.  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         (a) 171,525 units; (b) 23,775 units were distributed;
+                  firm estimates very little, if any, of either product
+                  remains on the market.
+Reason:           The phrases "Concentrated" and "Must Be Diluted prior
+                  to I.V. Administration" for the 23.4% product and the
+                  phrase "Not for Use in Newborns" for the 0.9% product did
+                  not appear in bold red letters as intended.
+
+                                     ----
+
+Product:          OTC oral liquid medications for pediatrics, packed with
+                  plastic dose cups:
+                  (a) Gold Banner Children's No-Aspirin Acetaminophen Elixir,
+                  Grape Flavored Liquid, Alcohol Free, Saccharin Free;
+                  acetaminophen 80 mg/2.5 ml; distributed by: Nutrition
+                  Research Labs., Inc., 4 fluid ounce bottle with
+                  measured dosage cup with teaspoon, tablespoon and fluid
+                  ounce increments and "DC100" and "KF19" embossed on the
+                  bottom of the cup;
+
+                                      -6-
+
+
+
+                  (b) Walgreen's Children's Cough & Cold Formula, alcohol free,
+                  saccharin free liquid; each 5 ml contains pseudoephedrine
+                  hydrochloride 15 mg, chlorpheniramine maleate 1 mg and
+                  dextromethorphan hydrobromide 5 mg; nasal decongestant for
+                  stuffy noses, antihistamine for runny noses, cough
+                  suppressant for coughs; distributed by:  Walgreen Co.,
+                  4 fluid ounce bottle with measured dosage cup with teaspoon,
+                  dessertspoon, tablespoon, dram, fluid ounce, cc and ml
+                  increments and "A 6" embossed on the bottom of the cup.
+                  Recall #D-236/237-2.
+Code:             Lot numbers:  (a) 0RBD and 0NXO; (b) 1XCS, 1G1283 and 1I1201
+Manufacturer:     Xcel Laboratories, Inc., Chicago, Illinois.
+Recalled by:      Xcel Laboratories, Inc., Elmhurst, Illinois, by letter
+                  February 19, 1992.  Firm-initiated recall ongoing.
+Distribution:     (a) Florida, Illinois, Connecticut, Minnesota;
+                  (b) Arizona, Texas, Illinois, Florida, Wisconsin, Tennessee.
+Quantity:         (a) 3,336 bottles; (b) 45,000 bottles were distributed;
+                  firm estimates 7,500 units remain on the market.
+Reason:           Markings on dosage cup not totally compatible with label
+                  dosage instructions.
+
+                                     ----
+
+                  Class III - 
+
+Product:          (a) Polycillin-N (Sterile Ampicillin Sodium, USP), for I.M.
+                  or I.V. use, equivalent to 125 mg ampicillin, a Rx drug used
+                  in the treatment of infections caused by susceptible strains
+                  of the designated organisms, under the Bristol Laboratories
+                  label;
+                  (b) Add-Vantage Vial Polycillin-N (Sterile Ampicillin Sodium,
+                  USP) for I.V. use equivalent to 125 mg ampicillin, a Rx
+                  drug under the Bristol Laboratories and VHA Plus labels.
+                  Recall #D-220/221-2.
+Code:             Lot numbers and EXP dates:  (a) E8444B 05/92, E8444E 05/92,
+                  G8V84B 07/92, L9V63A 11/93, M9V38A 11/93, BOW14B 01/94,
+                  DOV56C 03/94, E0V06A 03/94, F0V76A 05/94, HOV25B 08/94,
+                  LOV85A 10/94, E8444D 05/92, E8444F 05/92, J8V28B 09/92,
+                  M9V37A 11/93, M9V39A 11/93, D0V56B 03/94, D0V86B 04/94,
+                  E0V52A 04/94, F0V94A 06/94, L0V76A 11/94;
+                  (b) B0V69A 12/93, B0V70C 01/94, BIV38A 02/95, B0V70A 01/94,
+                  B0V71B 01/94 (Add-Vantage vial);
+                  E8444A 05/92, E0V52B 04/94, H0V25A 08/94, C0W46A 03/94,
+                  F0V76B 05/94 (VHA Plus label).
+Manufacturer:     Bristol-Myers Squibb Company, Barceloneta, Puerto Rico.
+Recalled by:      Apothecon, a Bristol-Myers Squibb Company, New
+                  Brunswick, New Jersey, by letter September 20, 1991.
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         (a) 17,499,182 vials; (b) 242,352 vials (VHA Plus);
+                  1,440 vials (Add-Vantage) were distributed.
+Reason:           Some lots exceed moisture specification.
+
+                                     ----
+                                      -7-
+
+
+
+Product:          (a) Xylocaine (Lidocaine HCl) Solution, 1%, 10 mg/ml 
+                  with Epinephrine 1:200,000, a Rx parenteral drug intended
+                  for major nerve block including epidural, in 5 ml single
+                  dose vials;
+                  (b) Methylparaben Free Xylocaine-MPF (Lidocaine HCl)
+                  Injection, 1%, 10 mg/ml, with Epinephrine 1:200,000,
+                  a Rx parenteral drug intended for major nerve block
+                  including caudal and epidural use, in 5 ml single dose
+                  vials.  Recall #D-222/223-2.
+Code:             Lot numbers:  (a) 001081 EXP 1/92; (b) 003147 EXP 3/92.
+Manufacturer:     Astra Pharmaceutical Products, Inc., Westborough,
+                  Massachusetts.
+Recalled by:      Manufacturer, by letter December 12, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Nationwide.
+Quantity:         (a) 903 master cartons each containing 10 5-ml single dose
+                  vials;
+                  (b) 1,865 master cartons each containing 10 5-ml single dose
+                  vials were distributed.
+Reason:           Subpotent for epinephrine ingredient or potency of
+                  epinephrine ingredient not assured through expiration date.
+
+                                     ----
+
+Product:          Rite-Aid Extra Strength Cough Formula, in 8 ounce
+                  bottles.  Recall #D-225-2.
+Code:             Lot #106-868.
+Manufacturer:     Hi Tech Pharmacal Company, Inc., Amityville, New York.
+Recalled by:      Manufacturer, by letter December 8, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Pennsylvania.
+Quantity:         3,444 bottles were distributed.
+Reason:           The label erroneously bears the word "Expectorant."
+
+                                     ----
+
+Product:          Sulfamethoxazole/Trimethoprim Tablets, USP, 800 mg/160 mg,
+                  a Rx synthetic antibacterial combination drug for the
+                  treatment of various internal infections.  Recall #D-238-2.
+Code:             Lot #18095 EXP 93/09/30.
+Manufacturer:     Rx Services, Inc., Ridgeland, Mississippi
+                  (repacker/responsible firm).
+Recalled by:      Repacker, by telephone January 23, 1992.  Firm-initiated
+                  recall ongoing.
+Distribution:     Mississippi.
+Quantity:         20 vials were distributed; firm estimates none remains
+                  on the market.
+Reason:           Repacked label declares ingredients as "160 mg/800 mg"
+                  instead of "800 mg/160 mg.
+
+                                     ----
+
+                                      -8-
+
+
+
+Product:          Chlor-Trimeton brand of Chlorpheniramine Maleate, 8 mg,
+                  sustained release allergy relief coated tablets,
+                  48 tablets per box (2 blister packs of 24 tablets per
+                  box).  Recall #D-239-2.
+Code:             Lot numbers:  1-CC-5 EXP 3/96, 0-CC-108 EXP 10/96.
+Manufacturer:     Schering Corporation, Kenilworth, New Jersey.
+Recalled by:      Schering-Plough Healthcare Products, Inc., Memphis,
+                  Tennessee, by telephone January 15, 1992, followed by
+                  letter January 17, 1992.  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         3,062 dozen were distributed.
+Reason:           The label fails to bear directions for use.
+
+                                     ----
+
+                       DEVICES AND RADIOLOGICAL PRODUCTS
+
+                  Class I -
+
+                                     NONE
+                  Class II -
+
+Product:          Bard 5 French Peripheral Balloon Dilation Catheters,
+                  sterile, nonpyrogenic Rx devices recommended for
+                  percutaneous transluminal angioplasty (PTA) of the femoral,
+                  iliac and renal arteries:
+                  (a) Catalog #200417; (b) Catalog #200426;
+                  (c) Catalog #200427; (d) Catalog #200428;
+                  (e) Catalog #200429.  Recall #Z-262/266-2.
+Code:             Lot numbers:  (a) 07IA0728, 07IA0729, 07JA5976;
+                  (b) 07IA0730; (c) 07IA5564, 07IA5575; (d) 07IA5577;
+                  (d) 07IA5581.
+Manufacturer:     Bard Urological Division of C.R. Bard, Inc.,
+                  Glens Falls, New York.
+Recalled by:      Radiology Products, Bard Urological Division, C.R. Bard,
+                  Inc., Covington, Georgia, by telephone December 13, 1991
+                  through December 16, 1991, followed by letter December 17,
+                  1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         (a) 24 units; (b) 5 units; (c) 23 units; (d) 21 units;
+                  (e) 10 units were distributed; firm estimates none
+                  remains on the market.
+Reason:           The device has been marketed without an approved 510(k)
+                  premarket notification.
+
+                                     ----
+
+Product:          Ohmeda Ohio Infant Warmer Systems ("IWS"), which are used
+                  in neonatal care settings such as labor and delivery rooms,
+                  nurseries and neonatal intensive care units (NICU's):
+                  (a) Model 3000; (b) 3300; (c) 3500; (d) 5000.
+                  Recall #Z-311/314-2.
+
+                                      -9-
+
+
+
+Code:             Serial numbers:  (a-c) AANU00700 to AANU01157;
+                  (d) HAKU00113 to HAKU00176.  In addition, IWS Models
+                  3000, 3300, 3500, and 5000 bearing serial numbers
+                  different from those listed above may also be affected
+                  if the Electronic Control Board was replaced after
+                  8/27/91.
+Manufacturer:     Ohmeda, Columbia, Maryland.
+Recalled by:      Manufacturer, by letter sent on or about January 15,
+                  1992.  Firm-initiated field correction ongoing.
+Distribution:     Nationwide and international.
+Quantity:         400 to 450 units were distributed.
+Reason:           Certain events of electrostatic discharge (ESD), may
+                  affect these devices in a manner that if not recognized
+                  by the care-giver, could potentially compromise the patient.
+
+                                     ----
+
+Product:          Model MSH-860 Laser Barcode Reader.  Recall #Z-342-2.
+Code:             Serial numbers prior to 9001478 manufactured between
+                  January 1988 and March 1989.
+Manufacturer:     Opticon, Inc., Orangeburg, New York.
+Recalled by:      Manufacturer.  FDA approved the firm's corrective
+                  action plan February 4, 1992.  Firm-initiated field
+                  correction ongoing.
+Distribution:     Nationwide.
+Quantity:         1,149 units were distributed.
+Reason:           Noncompliance with performance standard for laser products
+                  in that it was not properly classified as a Class II
+                  laser product and lacked the applicable Class II logotype
+                  and aperture labels, because the laser radiation emission
+                  levels exceeded limits of the assigned hazard class.
+
+                                     ----
+
+Product:          Tram Module used in Marquette Invasive Blood Pressure
+                  Monitoring Systems:  (a) TRAM Model 100; (b) TRAM Model 200;
+                  (c) TRAM Model 300; (d) TRAM Model 500; (e) TRAM Model 600.
+                  Recall #Z-343/347-2.
+Code:             Serial number range:  (a-b) GOKS0013GP - LIKS2516G;
+                  (c) FOKU0001GP - LIKU0218G; (d-e) EOKT0033GP - LIKT1653G.
+Manufacturer:     Marquette Electronics, Inc., Milwaukee, Wisconsin.
+Recalled by:      Manufacturer, by letter January 10, 1992.  Firm-initiated
+                  field correction ongoing.
+Distribution:     Nationwide and international.
+Quantity:         Approximately 4,000 modules were distributed.
+Reason:           It is possible for the invasive blood pressure values
+                  to drift, over time, beyond the accuracy specification.
+
+                                     ----
+
+                                     -10-
+
+
+
+Product:          Dental Irrigation Reservoir, 2 gallon size, made of
+                  nalgene plastic which is an accessory to the Innovators
+                  irrigator system, used for irrigation during oral surgery.
+                  Recall #Z-348-2.
+Code:             None.
+Manufacturer:     Innovators, Inc., Jefferson City, Missouri.
+Recalled by:      Manufacturer, by letter October 2, 1990 and November
+                  13, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide and international.
+Quantity:         Possibly as many as 60 units were distributed.
+Reason:           The device may explode when over-pressurized.
+
+                                     ----
+
+Product:          Silver Solarium Tanning Beds:
+                  (a) Silver Solarium Sonic 24R;
+                  (b) Silver Solarium Sonic 28R;
+                  (c) Silver Solarium Grand Prix 24R;
+                  (d) Silver Solarium Grand Prix 28R.  Recall #Z-349/352-2.
+Code:             Serial numbers: (a) 00200, 00189 (serial number on 2
+                  beds is unknown); (b) 00279, 00267, 00390, 00260, 00268,
+                  00261, 00396, 00207, 00383, 00375, 00393, 00255, 00401,
+                  00388, 00384, 00398, 00382; (c) 00028, 00174, 00161, 00159,
+                  00080, 00084, 00062, 00167, 00136, 00199, 00140, 00166,
+                  00135, 00152, 00163, 00886, 00098, 00106, 00156, 00099,
+                  00155, 00157, 00189, 00150, 00164 (serial number on 4 beds
+                  is unknown); (d) 00132, 00114, 00116, 00165, 00130, 00131,
+                  00135, 00124, 00133, 00138, 00125, 00115 (serial number
+                  on 2 beds is unknown.
+Manufacturer:     Honeycutt Professional Styling Products, Greenville,
+                  North Carolina.
+Recalled by:      Manufacturer, by letter in October 1991, in response to
+                  Regulatory letter October 8, 1991.  Firm-initiated field
+                  correction ongoing.
+Distribution:     Florida, North Carolina, South Carolina, Virginia.
+Quantity:         65 units were distributed.
+Reason:           Noncompliance with performance standard for sunlamp
+                  products in that they lacked the required labeling and
+                  instructions.
+                                     ----
+
+Product:          (a) CT Hilight Advantage Systems with 46-301394G5, G15
+                  and G31 Computers for Operating Consoles manufactured
+                  through 11/12/91;
+                  (b) CT 9800 Quick Systems with 46-241600G1 Hilight Detectors
+                  Manufactured through 11/12/91.  Recall #Z-353-354-2.
+Code:             All serial numbers included in the ranges above.
+Manufacturer:     G.E. Medical Systems, New Berlin, Wisconsin.
+Recalled by:      G.E. Medical Systems, Waukesha, Wisconsin, by letter
+                  November 19, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide and international.
+Quantity:         992 units.
+
+                                     -11-
+
+
+
+Reason:           Some Hilight Detectors can cause artifacts, reported in
+                  head scan images near the top of the head and spur of
+                  the liver.
+                                     ----
+
+Product:          (a) CY Sytec 2000, 3000S, 3000, 3000 Plus, and 4000
+                  Systems with Table, Model #P9155AF or P9155AE;
+                  (b) CT Max 11/640 Systems with Table, Model #46-266132G2;
+                  (c) CT Pace Systems with Table, Model #P9155AJ.
+                  Recall #Z-355/357-2.
+Code:             Serial numbers:  (a) 50818YM4 - 50861YM4,
+                  50863YM0 - 50864YM8, 63300YM8 - 63325YM5, 63327YM1,
+                  63335YM4;
+                  (b) 48027YM7, 48029YM3, 48031YM9 - 48107YM7;
+                  (c) 63598YM7, 63600YM1 - 63630YM8, 63632YM4 - 63641YM5.
+Manufacturer:     Yokogawa Medical Systems, Tokyo, Japan.
+Recalled by:      GE Medical Systems, Waukesha, Wisconsin, by letter
+                  December 4, 1991.  Firm-initiated field correction
+                  ongoing.
+Distribution:     Nationwide and international.
+Quantity:         (a) 74 units; (b) 79 units; (c) 42 units were distributed.
+Reason:           The cradle mat used on these devices does not have the
+                  right type of velcro to attach it to the cradle.
+
+                                     ----
+
+Product:          Sigma Magnetic Resonance Systems with Magnet Enclosure,
+                  model numbers 46-255043G1, 46-258500G1 & G2, 46-258734G1
+                  & G2, 46-271558G1 & G2, 46-271560G1 & G2; and model
+                  numbers 46-282341G1 & G2, 46-282343G1 & G2, 46-282345G1,
+                  G2, G3, and G4, 46-301209G1, 46-307000G5 &G6;, 46-307300G1
+                  manufactured prior to September 6, 1991.  Recall #Z-358-2.
+Code:             All serial numbers.
+Manufacturer:     GE Medical Systems, Waukesha, Wisconsin.
+Recalled by:      Manufacturer, by letter January 8, 1992.  Firm-initiated
+                  field correction ongoing.
+Distribution:     Nationwide and international.
+Quantity:         1,050 units were distributed.
+Reason:           Generation of RF signal during scanning can interfere with
+                  the operation of the intercom (patient communication system)
+                  such that the operator may not be able to hear the patient.
+
+                                     ----
+
+Product:          MTHF 9S Mobile C-Arm Fluoroscopic System.
+                  Recall #Z-359-2.
+Code:             Serial numbers 10175 through 10179.
+Manufacturer:     General Medical, Merate SpA, Italy.
+Recalled by:      AFP Imaging Corporation, Elmsford, New York.  FDA approved
+                  the firm's corrective action plan February 10, 1992.
+                  Firm-initiated field correction ongoing.
+Distribution:     New Jersey, New York, Virginia.
+Quantity:         5 units were distributed.
+
+                                     -12-
+
+
+
+Reason:           Noncompliance with the beam quality requirement at
+                  110 kVp of the performance standard for x-ray products.
+
+                                     ----
+
+Product:          Automatic Laser Cutting Machine, used for industrial
+                  machining.  Recall #Z-360-2.
+Code:             No serial numbers.
+Manufacturer:     Wright-K Technology, Inc., Saginaw, Michigan.
+Recalled by:      Manufacturer.  FDA approved the firm's corrective action
+                  plan February 14, 1992.  Firm-initiated field correction
+                  ongoing.
+Distribution:     Indiana.
+Quantity:         1 unit was distributed.
+Reason:           Noncompliance with performance standard for laser products
+                  in that the defect mechanism for the safety interlocks
+                  allowed replacement of the machine's protective covers
+                  with the interlocks in the defeated condition.
+
+                                     ----
+
+Product:          "Pulsator 2000" Electrical Muscle Stimulator, used to
+                  send low frequency electrical currents to muscles.
+                  Recall #Z-361-2.
+Code:             Lot #8548.
+Manufacturer:     Made in Taiwan.
+Recalled by:      Etna Worldwide Corporation, New York, New York, by
+                  letter January 28, 1991.  Firm initiated recall ongoing.
+Distribution:     Nationwide, Canada.
+Quantity:         FDA estimates 37,524 units are in commerce.
+Reason:           The device has been marketed without an approved 510(k)
+                  Premarket Notification.
+
+                                     ----
+
+Product:          Spore Test Strips for sterilization monitoring.
+                  Recall #Z-362-2.
+Code:             All lots manufactured by Raven Biological Labs.
+Manufacturer:     Raven Biological, Omaha, Nebraska.
+Recalled by:      Indiana University School of Dentistry, Department
+                  of Oral Microbiology, Indianapolis, Indiana, by
+                  letter November 19, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         2,000 control/test envelopes were distributed.
+Reason:           The device has been marketed without an approved 510(k)
+                  Premarket Notification.
+
+                                     ----
+
+                                     -13-
+
+
+
+                  Class III -
+
+Product:          The EPROM Software Chip used in certain serial numbers
+                  of the firm's Stat-Fax Photometer Device, 1900 Model
+                  Series, used to verify calibration parameters of
+                  diagnostic lab test equipment:
+                  (a) Model 1904; (b) Model 1906; (c) Model 1908;
+                  (d) Model 1909; (e) Model 1913; (f) Model 1914;
+                  (g) Model 1915; (h) Model 1916.  Recall #Z-243/250-2.
+Code:             Serial numbers:  (a) 1050, 1051, 1067 to 1073, 1078, 1079,
+                  1081 to 1084, 1089 to 1099, 1100 to 1121;
+                  (b) 1225 t0 1230, 1333 to 1335;
+                  (c) 1024, 1033, 1034, 1040, 1044 to 1046;
+                  (d) 1015 to 1018, 1020;
+                  (e) 1001, 1002, 1006 to 1028, 1030 to 1035;
+                  (f) 1001 to 1022;
+                  (g) 1002 to 1028;
+                  (h) 1001 to 1013.
+Manufacturer:     Awareness Technology, Inc., Palm City, Florida.
+Recalled by:      Manufacturer, by letter September 11, 1991.  Firm-initiated
+                  field correction complete.
+Distribution:     Nationwide, Poland, India, Russia, Egypt, West Indies,
+                  Venezula, Israel.
+Quantity:         153 units were distributed.
+Reason:           Some Stat-Fax Model 1900 batch mode had a timing error
+                  when multiple calculations were made.
+
+                                     ----
+
+Product:          Chemspor-2 brand Biological Indicator, in 3-pack,
+                  25 and 100 ampule size cardboard containers.
+                  Recall #Z-320-2.
+Code:             Lot #C20001 EXP 1/93.
+Manufacturer:     Amsco Scientific, Apex, North Carolina.
+Recalled by:      Manufacturer, by letter dated December 20, 1991, and by
+                  telephone December 30, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         7,600 ampules were distributed.
+Reason:           Reports of no growth of positive controls in the product.
+
+                                     ----
+
+                              VETERINARY PRODUCTS
+
+                  Class I -
+                                     NONE
+                  Class II -
+
+Product:          Pig Booster Junior, Pig Booster Senior, pellets and mash.
+                  Recall #V-016-2.
+Code:             Lot numbers:  5110 PGA5: 2581, 9760, 5152, 7220, 7223, 8235;
+                  5510 PGA5: 4841, 4995;
+                  5101 PGA5: 7220.
+
+                                     -14-
+
+
+
+Manufacturer:     Procesadora De Granos de PR, Inc., Guanica, Puerto Rico.
+Recalled by:      Manufacturer, by visit 2, 1992.  Firm-initiated
+                  recall ongoing.
+Distribution:     Puerto Rico.
+Quantity:         36 tons.
+Reason:           Various lots of pig booster product were manufactured
+                  using an expired drug premix causing lots to be subpotent
+                  for neomycin.
+                                     ----
+
+Product:          Carbadox Medicated Animal Feed: Master Premapig Starter
+                  Ration 802-60A Medicated; 8021M-60A Hunting Feeds M.F. 20/40
+                  Medicated, in 50 pound bags and bulk, used as an aid in
+                  control of swine dysentery, control of bacterial swine
+                  enteritis, and for increased rate of weight gain and
+                  improved feed efficiency in pigs.  Recall #V-017-2.
+Code:             Lot numbers:  K2181, K2191.
+Manufacturer:     Central Soya, Belmond, Iowa.
+Recalled by:      Manufacturer, by telephone September 4, 1991.  Firm-
+                  initiated recall complete.
+Distribution:     Minnesota, Iowa.
+Quantity:         21 tons were distributed; firm estimates none remains
+                  on the market.
+Reason:           21 tons of feed were mistakenly formulated with 100 pounds
+                  of Furazolidone.
+
+                                     -15-

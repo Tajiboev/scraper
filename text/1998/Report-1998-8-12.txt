@@ -1,0 +1,932 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      30 captures
+	      19 Aug 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+August 12, 1998
+98-32
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS
+II
+
+PRODUCT
+Raw, Whole, Waxed Sweet Potatoes, in 40 pound bags.
+Recall #F-567-8.
+CODE
+None.  All product shipped up to 6/19/98.
+MANUFACTURER
+Burch Farms, Faison, North Carolina.
+RECALLED BY
+Manufacturer, by telephone on June 19, 1998, followed by letter. 
+Ongoing recall resulted from sample analysis and follow-up by the
+Georgia Department of Agriculture, and the North Carolina
+Department of Agriculture.
+DISTRIBUTION
+Florida, Georgia, Kentucky, Maryland, New York, North Carolina,
+Pennsylvania, Virginia.
+
+QUANTITY
+Undetermined.
+REASON
+Product contains dicloran pesticide residue in excess of the
+established tolerance of 10 ppm.
+
+
+PRODUCT
+Fresh Blackberries, in 6 ounce containers.  Recall #F-568-8.
+CODE
+71-1264, 71-1265, 71-1266, 71-1267, 71-1271, 71-1272.
+MANUFACTURER
+J.E. Farms, Inc., Watsonville, California (producer).
+RECALLED BY
+Driscoll Strawberry Associates, Inc., Watsonville, California, by
+fax on July 1, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+7,339 flats (12 6-ounce containers per flat) were distributed.
+REASON
+Product contains a triadimefon - a pesticide which is not allowed
+for use on blackberries.
+
+
+PRODUCT
+Imagine Natural Garden Vegetable Soup - Creamy Mushroom Soup, in
+1 quart aseptic carton.  Recall #F-566-8.
+CODE
+Pull dates:  3/3/1999 and 4/2/1999.
+MANUFACTURER
+California Natural Products, Lathrop, California.
+RECALLED BY
+Imagine Foods, Inc., Palo Alto, California, by letter on July 9,
+1998, followed by press release on July 10, 1998.  Firm-initiated
+recall ongoing.
+DISTRIBUTION
+Nationwide and Canada.
+QUANTITY
+6,050 cases (12 packages per case) were distributed.
+REASON
+Product contains undeclared soybeans.
+
+
+PRODUCT
+Products containing green pepper strips:
+a) Frozen green pepper strips, packed in bulk 20-lb. cases.  
+The cases are identified with a ink jet printer.  The cases are
+identified, 1 x 20 lb Chef's Garden Green Pepper Strips 33166. 
+The responsible firm on the label is Interfrost, Inc., E.
+Rochester, NY.
+b) Frozen red and green pepper strips and onions, packed in 16
+oz. plastic bags, 12 bags to a shipping case. There are two brand
+names, DeMoulas and Weis.  For both brands the product is known
+as Pepper and Onion Stir Fry
+c) Frozen red and green pepper strips, packed in 8 oz. plastic
+bags, 12 bags to a shipping case. There are two brand names,
+DeMoulas and Weis.  The product is labeled as Pepper Strips for
+the DeMoulas brand and labeled as Mixed Pepper Strips for the
+Weis brand.  Recall #F-569/571-8.
+CODE(a)  The code, H59 33166, is applied by an ink jet printer to 
+     the outside of the cardboard case.
+(b)  Demoulas brand:  H59 32956, H59 33007 and H59 33158;
+     Weis brand:  H59 32932 
+(c)  Demoulas brand:  H59 33118, H59 33156, and H59 33245; 
+     Weis brand: H59 32929 and H59 33099.
+MANUFACTURER
+Interfrost, Inc., Holly, New York (repacker); Virto S.A., Azagra,
+Spain (supplier of green pepper strips).
+RECALLED BY
+Interfrost, Inc., East Rochester, New York, by telephone,
+followed by letter dated July 21, 1998.  Firm-initiated recall
+ongoing.
+DISTRIBUTION
+Vermont, Pennsylvania, Massachusetts. 
+QUANTITYa) 100/20-lb. cases 
+b) DeMoulas brand: 250 cases (12 per case)
+   Weis brand: 126 cases (12 per case)     
+c) DeMoulas brand: 450 cases (12 per case)
+   Weis Brand: 360 cases (12 per case).
+REASON
+Product contains procymidone - a pesticide which is not allowed
+for use on green peppers.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS
+-- CLASS II
+
+PRODUCT
+Penicillin-VK, Penicillin V Potassium Powder for Oral Solution,
+125 mg (200,000 U) per 5 mL, in 100 mL bottles, under the
+Biocraft label, Rx, used for the treatment of mild to moderately
+severe infections due to penicillin-G sensitive microorganisms. 
+Recall #D-211-8.
+CODE
+Lot #39286 EXP 1/99.
+MANUFACTURER
+Biocraft Laboratories, Inc., Elmwood Park, New Jersey.
+RECALLED BY
+TEVA Pharmaceuticals USA, Inc., Sellersville, Pennsylvania, by
+letter on June 8, 1998.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+14,256 bottles were distributed.
+REASON
+Stability - data may not support labeled expiration date.
+
+
+PRODUCT
+Collyrium for Fresh Eyes, Eye Wash, (borate solution).
+NDC #: 00008-0769-01.   Recall #D-217-8.
+CODE3950841 (EXP 7/98)           3970147 (EXP 2/00)
+3950980 (EXP 8/98)           3970209 (EXP 2/00)
+3951149 (EXP 9/98)           3970310 (EXP 4/00)
+3951148 (EXP 10/98)          3971386 (EXP 4/00)
+3951215 (EXP 10/98)          3971032 (EXP 4/00)
+3951216 (EXP 10/98)          3971591 (EXP 5/00)
+3960020 (EXP 12/98)          3971363 (EXP 7/00)
+3960039 (EXP 1/99)           3971433 (EXP 8/00)
+3960040 (EXP 2/99)           3971647 (EXP 9/00)
+3960382 (EXP 4/99)           3971750 (EXP 10/00)
+3961288 (EXP 9/99)           3971936 (EXP 11/00)
+3961765 (EXP 9/99)           3981046 (EXP 12/00)
+3961509 (EXP 10/99)          3981075 (EXP 1/01)
+3961988 (EXP 11/99)          3981379 (EXP 1/01)
+3961913 (EXP 12/99)     
+MANUFACTURER
+Wyeth-Ayerst Laboratories, Rouses Point, New York (responsible
+firm).
+RECALLED BY
+Wyeth-Ayerst Laboratories, Richmond, Virginia, by letter dated
+July 15, 1998.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+1,923,379 bottles were distributed.
+REASON
+Contamination - Product contains trace amounts of benzophenone
+(varnish component of bottle label).
+
+
+PRODUCT
+Nifedipine Soft Gelatin Capsules, USP, 20 mg., in 300 and 1,000
+capsule bottles, Rx antianginal.  NDC #57664-873-11, 
+NDC #57664-873-18.  Recall #D-219-8.
+CODE
+Lot numbers:  7JY06L EXP FEB 00 (300's) and 8MA18C EXP FEB 00
+(1,000's).
+MANUFACTURER
+R.P. Scherer, St. Petersburg, Florida.
+RECALLED BY
+Caraco Pharmaceutical Laboratories, Inc., Detroit, Michigan
+(repacker), by telephone on June 12, 1998.  Firm-initiated recall
+ongoing.
+DISTRIBUTION
+Nationwide
+QUANTITY
+723 300-capsule bottles and 20 1,000-capsule bottles were
+distributed.
+REASON
+Some capsules may not contain any drug ingredient.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS
+III 
+
+PRODUCT
+Triamcinolone Acetonide Cream USP, 0.5%, in 15 gram tubes, Rx
+topical corticosteroid.  NDC #49158-141-20.  Recall #D-210-8.
+CODE
+Lot numbers:  M267 EXP 1/2002 and K910 EXP 6/2001.
+MANUFACTURER
+Thames Pharmacal Company, Ronkonkoma, New York.
+RECALLED BY
+Manufacturer, by letter mailed on July 6, 1998, followed by
+telephone.  Firm-initiated recall ongoing.
+DISTRIBUTION
+New York, California, Colorado, Florida, Indiana, Michigan, Ohio,
+Texas, Puerto Rico.
+QUANTITY
+28,116 units of lot M267 and 1,641 units of lot K910 were
+distributed.
+REASON
+Mispackaging - Some tubes of 0.1% cream were packaged into
+cartons labeled as 0.5%.
+
+PRODUCT
+Meperidine Hydrochloride Injection, USP, 100 mg/mL, in 20 mL
+vials, Rx, sterile narcotic analgesic for intramuscular,
+subcutaneous, or slow intravenous injection, under the Steris and
+Schein labels.  NDC# 0402-0948-20; NDC #0364-3027-55.  
+Recall #D-212-8.
+CODE
+Lot #96N790.
+MANUFACTURER
+Steris Laboratories, Phoenix, Arizona.
+RECALLED BY
+Manufacturer, by letter on June 25, 1998.  Firm-initiated recall
+ongoing.
+DISTRIBUTION
+Alabama, Arkansas, Arizona, California, Georgia, Idaho, Indiana,
+Minnesota, Missouri, Mississippi, New York, Oregon, South
+Carolina, Tennessee, Texas, Wisconsin.
+QUANTITY
+3,237 vials were distributed.
+REASON
+Manufacturing deviations (unapproved batch size).
+
+
+PRODUCT
+Morphine Sulfate Injection, USP, 15 mg/mL, in 20 mL multiple dose
+vials, Rx, a potent centrally active analgesic.
+NDC #0364-2366-55.  Recall #D-213-8.
+CODE
+Lot #97B980.
+MANUFACTURER
+Steris Laboratories, Phoenix, Arizona.
+RECALLED BY
+Manufacturer, by letter on June 26, 1998.  Firm-initiated recall
+ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+28,982 vials were distributed.
+REASON
+Manufacturing deviations (unapproved potency adjustment).
+
+
+PRODUCT
+Progesterone Injection, USP, 50 mg/mL, in 10 mL multiple dose
+vials, Rx, under the following labels:
+Steris: NDC 0402-0379-10 
+Zenith Goldline: NDC 0182-0862-63 
+Rugby: NDC 0536-7400-70 
+Paddock Labs: NDC 0574-0704-10 
+Eveready Drugs: NDC 57548-379-10 
+United Research Laboratories: NDC 0677-0301-21 
+Schein: NDC 0364-6683-54.  Recall #D-214-8.
+CODE
+Lot 97F450 (applies to all labels).
+MANUFACTURER
+Steris Laboratories, Phoenix, Arizona.
+RECALLED BY
+Manufacturer, by letter sent on June 25, 1998.  Firm-initiated
+recall ongoing.
+DISTRIBUTION
+Nationwide, Canada, Puerto Rico, South Africa.
+QUANTITY
+71,454 vials were distributed.
+REASON
+Manufacturing deviations (unapproved potency adjustment).
+
+PRODUCT
+Cyanocobalamin Injection, USP, 1000 mcg/mL, in 30 mL multiple
+dose vials, Rx, sterile solution of injectable vitamin B-12,
+under the following labels:
+Steris Label: NDC 0402-0091-30 
+Moore Medical Label: NDC 0839-5661-36
+Clint Pharmaceuticals Label: NDC 55553-091-30 
+United Research Laboratories Label:  NDC 0677-0323-23
+Zenith Goldline Label: NDC 0182-0202-66 
+Besse Medical Label: NDC 53614-091-30
+Schein Canada Label: DIN 02229972
+Keene Pharmaceuticals: NDC 0588-5215-90
+Schein USA Label: NDC 0364-6651-56
+The product is also packaged for export under the CYTEX LABEL.
+Recall #D-215-8.
+CODE
+Lot Number 97D690, expires 3/2000 (applies to all labels)
+MANUFACTURER
+Steris Laboratories, Inc., Phoenix, Arizona.
+RECALLED BY
+Manufacturer, by letter on June 26, 1998.  Firm-initiated recall
+ongoing.
+DISTRIBUTION
+Nationwide and Canada.
+QUANTITY
+62,635 vials were distributed.
+REASON
+Manufacturing deviations (unapproved potency adjustment).
+
+
+PRODUCT
+Zenith Goldline brand Hydrocodone Bitartrate and
+Phenylpropanolamine Hydrochloride Pediatric Syrup (Hydrocordone
+Bitartrate 2.5 mg/Phenylpropanolamine Hydrochloride 12.5 mg), in
+1 pint bottles, Rx.  NDC #0182-1153-40.  Recall #D-216-8.
+CODE
+Lot numbers:  21754A and 21754F.
+MANUFACTURER
+Morton Grove Pharmaceuticals, Morton Grove, Indiana (contract
+manufacturer).
+RECALLED BY
+Zenith Goldline, Miami, Florida (responsible firm), by letter
+mailed on June 11, 1998.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+336 pints of lot 21754A and 70 pints of lot 21754F were
+distributed.
+REASON
+Mislabeling - Pediatric strength bears the NDC code for the adult
+strength.
+
+
+PRODUCT
+Hydrocortisone 10 mg (1%) and Acetic Acid 20 mg (2%)Otic Solution
+USP, 10 mL size, Rx, Sterile, otic solution for treatment of
+infections of the external auditory canal.  NDC #24208-319-10. 
+Recall #D-218-8.
+CODELot Number          Expiration Dates
+883551              6/98
+903151              8/98
+933511              8/98
+933521              8/98.
+MANUFACTURER
+Bausch and Lomb Pharmaceuticals, Inc., Tampa, Florida. 
+RECALLED BY
+Manufacturer, by letter on May 26, 1998.  Firm-initiated recall
+ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+33,643 bottles were distributed; firm estimated that 1,000
+bottles remained on market at time of recall initiation.
+REASON
+Impurity specifications may not be met during labeled shelf
+life.
+
+
+PRODUCT
+Grapefruit Diet Pill Plan Tablets (Phenylpropanolamine HCL,
+12.5mg), in bottles of 90, 270 and 540 tablets, OTC drug product,
+by virtue of the active ingredient, to be used as an aid for
+effective appetite control to assist in weight reduction.  
+Recall #D-220-8.
+CODE
+Lot# 800037, EXP 5/00 printed on bottle labels.
+MANUFACTURER
+ION Labs, Inc., Pinellas Park, Florida.
+RECALLED BY
+Manufacturer, by letter dated June 9, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Illinois.
+QUANTITY
+439 90-count bottles; 328 270-count bottles; and 483 540-count
+bottles were distributed.
+REASON
+Label misleading - Bottle label indicates 75 mg
+phenylpropanolamine HCL on front panel and lists two tablets
+contain 25 mg in ingredient listing.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS
+II
+
+PRODUCT
+Red Blood Cells.  Recall #B-1357-8.
+CODE
+Unit #55S85492.
+MANUFACTURER
+American Red Cross Blood Services, Little Rock, Arkansas.
+RECALLED BY
+Manufacturer, by telephone and letter on May 27, 1998. 
+Firm-initiated recall complete.
+DISTRIBUTION
+Arkansas.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who reported travel to
+an area designated as endemic for malaria.
+
+
+PRODUCT
+Platelets, Pheresis, Irradiated.  Recall #B-1390-8.
+CODE
+Unit 21P77503.
+MANUFACTURER
+American Red Cross, Portland, Oregon.
+RECALLED BY
+Manufacturer, by telephone on March 24, 1998, and by letter dated
+March 30, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Oregon.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was mislabeled as CMV antibody negative.
+
+
+PRODUCT
+Source Plasma.  Recall #B-1395-8.
+CODE
+Unit #6030025300.
+MANUFACTURER
+Premier BioResources, Inc., Corpus Christi, Texas.
+RECALLED BY
+Manufacturer, by visit on October 21, 1996.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Florida.
+QUANTITY
+1 unit was distributed.
+REASON
+Failure to quarantine a blood product that tested negative for
+anti-HIV-1/2, which was collected from a donor who subsequently
+tested initially reactive for anti-HIV-1/2. 
+
+
+PRODUCT
+Source Plasma.  Recall #B-1396-8.
+CODE
+Unit #6030025305.
+MANUFACTURER
+Premier BioResources, Inc., Corpus Christi, Texas.
+RECALLED BY
+Manufacturer, by visit on October 21, 1996.  Firm-initiated
+recall complete.
+DISTRIBUTION
+California.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product tested repeatedly reactive for anti-HCV, and was
+not subject to additional testing.
+
+
+PRODUCT
+Red Blood Cells.  Recall #B-1397-8.
+CODE
+Unit numbers:  KC52577, KC53961, KC55483, KC56969.
+MANUFACTURER
+Virginia Blood Services, Richmond, Virginia.
+RECALLED BY
+Manufacturer, by letter dated July 8, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Virginia.
+QUANTITY
+4 units were distributed.
+REASON
+Blood products were collected from a donor who reported travel to
+an area designated as endemic for malaria.
+
+
+PRODUCT
+Red Blood Cells.  Recall #B-1400-8.
+CODE
+Unit #17183-4932.
+MANUFACTURER
+United Blood Services, McAllen, Texas.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by letter dated June 3,
+1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who reported travel to
+an area designated as endemic for malaria.
+
+
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Recovered Plasma.
+Recall #B-1403/1405-8.
+CODE
+Unit numbers:  a) 42FT50044, 42FG35429; b) 42FT50044;
+c) 42FT50044, 42FG35429.
+MANUFACTURER
+American Red Cross Blood Services, Cleveland, Ohio.
+RECALLED BY
+Manufacturer, by letter dated June 12, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Ohio and California.
+QUANTITY
+a) 2 units; b) 1 unit; c) 2 units were distributed.
+REASON
+Blood products tested negative for the antibody to the human
+T-lymphotropic virus type I (anti-HTLV-I), but were collected
+from a donor who previously tested repeatedly reactive for
+anti-HTLV-1, and initially reactive for anti-HTLV-1, on two
+occasions.
+
+PRODUCT
+Sanguin MEDUSA 2000 Assay Installation and Verification Guide
+Software, Version 3.30r9.  Recall #B-1408-8.
+CODE
+Product Code 936483, Versions 3.30r9, et.al.
+MANUFACTURER
+Sanguin International Inc., Hamden, Connecticut. 
+RECALLED BY
+Ortho Diagnostic Systems, Inc., Raritan, New Jersey, by letter
+dated August 28, 1996.  Firm-initiated recall complete.
+DISTRIBUTION
+California, Colorado, Florida, Illinois, Indiana, Kentucky,
+Michigan, North Carolina, New Jersey, Ohio, South Carolina,
+Tennessee, Utah, Virginia, Washington State, Arizona, Texas,
+Minnesota.
+QUANTITY
+108 units were distributed.
+REASON
+A design defect in the computer software can cause a calculation
+error, which can affect the cutoff value, resulting in false
+negative results for anti-HCV, anti-HBc, and anti-HBs.   
+
+
+PRODUCT
+Red Blood Cells.  Recall #B-1409-8.
+CODE
+Unit #21GC36019.
+MANUFACTURER
+American Red Cross Blood Services, Portland, Oregon.
+RECALLED BY
+Manufacturer, by telephone on June 2, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Oregon.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product which was CMV positive was labeled CMV negative.
+
+
+PRODUCT
+Platelets, Pheresis.  Recall #B-1410-8.
+CODE
+Unit #20GE00773.
+MANUFACTURER
+American Red Cross Blood Services, Boise, Idaho.
+RECALLED BY
+Manufacturer, by letter dated April 2, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Montana.
+QUANTITY
+1 unit.
+REASON
+Blood product which was not tested for CMV, was distributed
+labeled CMV negative.
+
+
+PRODUCT
+a) Red Blood Cells; b) Recovered Plasma.  Recall #B-1417/
+1418-8.
+CODE
+Unit #40GV13313.
+MANUFACTURER
+American Red Cross Blood Services, Peoria, Illinois.
+RECALLED BY
+Manufacturer, by telephone on May 6, 1998, and by letter dated
+May 7, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Michigan and California.
+QUANTITY
+1 unit of each component.
+REASON
+Blood products were distributed after the donor provided post
+donation information regarding exposure to Hepatitis C.
+
+
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Plasma.  
+Recall #B-1419/1421-8.
+CODE
+Unit #54KE33639.
+MANUFACTURER
+American Red Cross Blood Services, Baltimore, Maryland.
+RECALLED BY
+Manufacturer, by letter dated May 27, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Maryland, District of Columbia.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor with a history of
+hepatitis.
+
+
+PRODUCT
+Granulocyte Apheresis.  Recall #B-1422-8.
+CODE
+Unit #P17226.
+MANUFACTURER
+The Blood Center of Central Iowa, Des Moines, Iowa.
+RECALLED BY
+Manufacturer, by letter dated September 4, 1997.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Iowa.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who reported travel to
+an area designated as endemic for malaria.
+
+
+PRODUCT
+Red Blood Cells.  Recall #B-1423-8.
+CODE
+Unit #28108-4318 and 28108-7074.
+MANUFACTURER
+United Blood Services, McAllen, Texas.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by letter dated May 13,
+1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+2 units were distributed.
+REASON
+Blood products were collected from a donor who reported travel to
+an area designated as endemic for malaria.
+
+
+PRODUCT
+a) Red Blood Cells; b) Fresh Frozen Plasma.  
+Recall #B-1425/1426-8.
+CODE
+Unit #6552305.
+MANUFACTURER
+New York Blood Services, New York, New York.
+RECALLED BY
+New York Blood Center, Inc. (NYBC), New York, New York, by
+telephone on November 5 & 7, 1997, and by letter dated November
+12, 1997.  Firm-initiated recall complete.
+DISTRIBUTION
+New York.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor with a history of
+Hepatitis A.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS
+III
+
+PRODUCT
+Red Blood Cells, Irradiated.  Recall #B-1391-8.
+CODE
+Unit numbers:  20FK06168 and 20GM31911.
+MANUFACTURER
+American Red Cross, Boise, Idaho.
+RECALLED BY
+Manufacturer, by telephone on February 2, 1998, and by letter
+dated March 12, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Montana.
+QUANTITY
+2 units were distributed.
+REASON
+Blood products were stored at unacceptable temperatures.
+
+PRODUCT
+a) Red Blood Cells; b) Platelets.  Recall #B-1406/1407-8.
+CODE
+Unit numbers:  a) 2969988; b) 2970009.
+MANUFACTURER
+Central Indiana Regional Blood Center, Indianapolis, Indiana.
+RECALLED BY
+Manufacturer, by telephone on May 5, 1998.  Firm-initiated recall
+complete.
+DISTRIBUTION
+Indiana.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products tested initially reactive for antibody to the
+hepatitis B core antigen (anti-HBc), followed by negative
+duplicate retesting, were inadvertently retested, with one
+positive and one negative result.
+
+
+PRODUCT
+Red Blood Cells.  Recall #B-1411-8.
+CODE
+Unit #20GM34093.
+MANUFACTURER
+American Red Cross Blood Services, Boise, Idaho.
+RECALLED BY
+Manufacturer, by telephone on April 1, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Montana.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was labeled with an extended expiration date.
+
+RECALLS AND FIELD CORRECTIONS: 
+DEVICES -- CLASS I
+
+PRODUCTAdapter and breathing circuits assembled with the adapter listed
+below:
+a) Airlife Intubation Adapter, 22 mm O.D./15 mm I.D. Both Ends;
+b) Airlife Isothermal Breathing Circuit, Adult Respiratory
+Circuit Heated,
+c) Airlife Isothermal Breathing Circuit, Adult Respiratory
+Circuit Non-Heated;
+d) Procedure Based Delivery System Nebulizer Kits, Custom
+Packaged by Allegiance Healthcare Corporation, McGaw Park, IL.
+Recall #Z-716/719-8.   
+CODE
+a) Catalog No. 001820, Lot Nos. Y7H0170, Y7J1131, Y7J1132,
+Y7K0778, Y7K0779, Y7L0962, Y7L0963, Y7N0280, Y7N0281, Y7P0395,
+Y7P0394, Y7S0121, Y8A0338, Y8A0339, Y8B0427, Y8B0428, Y8C1917,
+Y8C1918, Y8D0452, Y8D0453, Y8E0943; 
+b) Catalog No. 6035-H08, lot No. 8D0569, Catalog No. 6462-H08, 
+Lot Nos. Y8B1723, Y8C0902, Y8C0991, Y8C0995, Y8C0996, Y8C0999,
+Y8C1000, Y8C2108, Y8C2283, Y8D1108, Y8D2290, Y8D2475, Y8D2520,
+F7K71771, F7K69101, F7K66501, Catalog No. 6463-H08, Lot Nos.
+Y8B0923, Y8B1690, Y8B1691, Y8B1692, Y8B1693, Y8B1694, Y8C1866,
+Y8D1277, Y8D1278, Y8D1279, F7N87301, F7K71711, F7K63521,  Catalog
+No. 7460-HS7, Lot No. Y8C0409, Y8C0424, and F7K68661, Catalog No.
+7503-HS7, Lot Nos. Y8D0558, Y8D0565, Y8D0573, and F7K68651,
+Catalog No. 7529-HS7, Lot Nos. Y8C0410, Y8C0421, and F7K68461,
+Catalog No. 7566-HS7, Lot Nos. Y8C0278, F7L76461, and F7K65961; 
+c) Catalog No. 6687-855, Lot Nos. Y8D0692, Y8D0717, Catalog No.
+6914-855, Lot Nos. Y8D0580, Y8D0581, Y8D0584, and F7K68671,
+Catalog No. 10122-855, Lot Nos. Y8D1195;
+d) Module NMK71-5682, Mfr. Dates 11/12/97, 10/16/97, and 10/2/97,
+Module SPC57-MASK: Mfr. Dates 3/11/98, 4/8/98, 5/12/98, and
+6/15/98, Module E1456925A, All Lot Numbers, Module MC51SENEBB,
+All Lot Numbers prior to 7/1/98, Module MC51SENEBD, All Lot
+Numbers prior to 7/1/98, Module ISO514900B, All Lot Numbers,
+Module RES90-NHHC, All Lot Numbers.
+MANUFACTURER
+Allegiance Healthcare Corporation, Riverside, California.
+RECALLED BY
+Allegiance Healthcare Corporation, McGaw Park, Illinois, by
+letter on July 24, 1998.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide, Canada.
+QUANTITY
+8,469 cases of adapters and 123 cases of custom breathing
+circuits were distributed.
+REASON
+The adapter may have a thin, plastic membrane in the center of
+it, with the potential for airflow obstruction.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS
+II 
+
+PRODUCT
+Hewlett Packard (HP) M1193A Reusable Neonatal SpO2 Sensor - used
+with the HP OminCare CMS patient monitor, compact-configured
+monitors, HP CodeMaster defibrillators with an SpO2 option and
+Series 50XM Fetal Monitors (M1350B).  The device provides
+continuous non-invasive measurement (via neonatal hand/foot) of
+arterial oxygen saturation with an HP patient monitor.
+Recall #Z-720-8.
+
+CODEHP M1193A with the following serial numbers: IN613 03281 to 03480
+OR the following serial number prefixes:
+IN616 XXXX     (XXXX=all sequence nos.)
+IN619 XXXX, IN620 XXXX, IN627 XXXX, IN628 XXXX, IN629 XXXX,
+IN630 XXXX, IN631 XXXX, IN632 XXXX, IN708 XXXX, IN720 XXXX,
+IN730 XXXX.
+MANUFACTURER
+Hewlett Packard, Boeblingen, Germany.
+RECALLED BY
+Hewlett-Packard Company, Medical Products Group, Andover,
+Massachusetts, by letter on July 14, 1998.  Firm-initiated recall
+ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+1,969 units were distributed.
+REASON
+The device may exhibit arterial oxygen saturation measurement
+outside of the specified accuracy after months of use.  The red
+light emitting diode in the sensor may degrade over time and the
+sensor will no longer function giving either no reading or an
+intermittent/variable reading in cases where normally a
+continuous reading would be expected. 
+
+PRODUCT
+Moulding Body Personal Electro-Sauna weight loss system.  
+Recall #Z-721-8.
+CODE
+None.
+MANUFACTURER
+Belthermic, S.A., de C.V., Colona Del Valle, Mexico.
+RECALLED BY
+TV Store Corporation and Body Fitness Products, Inc., Miami,
+Florida, by letter on June 22, 1998.  Firm-initiated recall
+ongoing.  See also FDA press release P98-19, July 2, 1998.
+DISTRIBUTION
+Nationwide, Puerto Rico, Canada.
+QUANTITY
+Approximately 30,000 units.
+REASON
+The device fails to perform as intended and has the potential to
+become too hot, to burn, cause fires (no known injuries), and
+cause skin burns (1st and 2nd degree) to individuals.
+
+
+
+END OF ENFORCEMENT REPORT FOR AUGUST 12, 1998.

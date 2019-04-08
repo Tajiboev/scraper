@@ -1,0 +1,1162 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  21
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      29 captures
+	      02 Mar 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+
+December 15, 1999                                              99-50
+
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS I
+________
+PRODUCT
+a) Hot-Smoked Uneviscerated Round Scad, in 6 ounce plastic 
+packages; b) Air-Dried Herring, in 6 ounce packages.  
+Recall #F-056/057-0.
+CODE
+None.
+MANUFACTURER
+Fil-Fish Manufacturing Company, Fullerton, California.
+RECALLED BY
+Manufacturer, by letter faxed on March 13, 1999, followed by 
+telephone from March 13 to 16, 1999, and by press release on 
+March 30, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Illinois, California, New Jersey.
+QUANTITY
+a) 15 cases (40 packages per case); b) 21 cases (40 packages per 
+case) were distributed.
+REASON
+Products, uneviscerated fish, have the potential to support the 
+growth of and toxin production by Clostridium botulinum.
+_______
+PRODUCT
+Cheeses Blintzes:
+1. Frozen Cheese Blintzes
+a) Packaged in a yellow paper container with brown 
+lettering, labeled in part, "*** Ratner's *** RESTAURANT *** 6 
+CHEESE *** BLINTZES *** NET WT 13 OZS. (369g) *** MANUFACTURED 
+BY:  RATNER'S RETAIL FOODS, INC. *** NEW YORK, N.Y. 10002 ***".  
+The product is marked with UPC 78364 10001.
+b) packaged in an orange and white paper container, 
+labeled in part, "*** Ratner's  *** RESTAURANT *** All Natural 
+*** 12 Cheese *** Blintzes *** NET WT. 26 OZ. (1 LB. 10 OZ.) 728g 
+*** MANUFACTURED BY RATNER'S RETAIL FOODS, INC., NEW YORK, N.Y. 
+10002 ***".  The product is marked with UPC 78364 00104.
+2.  Frozen Jumbo Cheese Blintzes, packaged in a yellow paper 
+container with blue lettering, labeled in part, "*** Ratner's 
+***RESTAURANT *** 6 JUMBO *** CHEESE *** BLINTZES *** NET WT. 1 
+LB. 4 OZS. (567g) *** Manufactured by Ratner's Retail Foods, Inc. 
+New York, N.Y. 10002 ***".  The product is marked with UPC 78364 
+00031.
+3.  Frozen Blueberry Cheese Blintzes, packaged in a blue
+paper container with yellow lettering, labeled in part, 
+"***Ratner's *** RESTAURANT *** 6 BLUEBERRY *** CHEESE *** 
+BLINTZES *** NET WT. 13 OZS. (369g) *** MANUFACTURED BY: RATNER'S 
+RETAIL FOODS, INC. *** NEW YORK, N.Y. 10002 ***".  The product is 
+marked with UPC 78364 00033.
+Recall #F-058/060-0.
+CODE
+None.  All product on the market at the time of the recall is 
+affected.
+MANUFACTURER
+Ratner�s Retail Foods, Inc., New York, New York.
+RECALLED BY
+Manufacturer, by letter on September 14, 1999.  Completed recall 
+resulted from sample analysis by the New York City Department of 
+Health and the New York State Department of Agriculture and 
+Markets.
+DISTRIBUTION
+New York, New Jersey, Florida, Maryland, California, Connecticut, 
+Colorado, Massachusetts, Minnesota, Wisconsin.
+QUANTITY
+Approximately 125,000 individual packages were distributed in the 
+last 6 months.
+REASON
+Products may be contaminated with Salmonella.
+________
+PRODUCT
+Hansung Salted Yellow Croaker, vacuum packed uneviscerated fish, 
+in 16 ounce multi-colored packages.  Recall #F-061-0.
+CODE
+None.
+MANUFACTURER
+Sung Fish Company Ltd., Vancouver, British Columbia, Canada.
+RECALLED BY
+Pacific Giant, Inc., Los Angeles, California, by letter faxed on 
+January 19, 1999, and by mail on January 20, 1999.  Firm-
+initiated recall complete.  See also FDA press release P99-2, 
+January 21, 1999.
+DISTRIBUTION
+Arizona, California, District of Columbia, Hawaii, Illinois, New 
+York, Texas, Washington state.
+QUANTITY
+Approximately 800 cases (30 packages per case) were distributed.
+REASON
+Product, uneviscerated fish, has the potential to support the 
+growth of and toxin production by Clostridium botulinum.
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+________
+PRODUCT
+Assorted Sugar Stick Candy, packed in 4 ounce retail plastic 
+bags, under the Papas label.
+Recall #F-063-0.
+CODE
+All bags distributed on or before 7/23/99.
+MANUFACTURER
+Chris A. Papas & Son Company, Inc., Covington, Kentucky.
+RECALLED BY
+Manufacturer, by telephone or visit on or about August 1, 1999.  
+Firm-initiated field correction (relabeling) complete.
+DISTRIBUTION
+Ohio and Kentucky.
+QUANTITY
+Approximately 5 cases (240bags per case) were distributed.
+REASON
+Product contains undeclared FD&C; Yellow No. 6, FD&C; Red No. 40, 
+FD&C; Red No. 3, and FD&C; Blue No. 1.
+________
+PRODUCT
+Dominick's brand Apple Juice in 48 ounce glass jars.
+Recall #F-064-0.
+CODE
+"914061-01" on the lid; UPC code "3828103021".
+MANUFACTURER
+Mason County Fruit Packers Co-op, Inc., Ludington, Michigan.
+RECALLED BY
+Manufacturer, by press release issued April 9, 1999, and by E-
+mail April 8 and 12, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Illinois and Indiana.
+QUANTITY
+291 cases (6 bottles per case) were distributed.
+REASON
+Product may contain pieces of glass.
+________
+PRODUCT
+a) Ike's Smoked Salmon Alder Smoked; b) Ike's Salmon Dip. Net 
+weight for both products is 8-12 ounces.
+Recall #F-068/069-0.
+CODE
+a) 10 JAN 00; b) 25 DEC 99.
+MANUFACTURER
+Ike's Fish, Poulsbo, Washington.
+RECALLED BY
+Manufacturer, by visit on November 25, 1999, followed by letter. 
+ Firm-initiated recall complete.
+DISTRIBUTION
+Washington state.
+QUANTITY
+a) Approximately 50 pounds; b) Approximately 20 pounds were 
+distributed.
+REASON
+Products contained undeclared wheat.
+
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS III
+________
+PRODUCT
+Di-Tab Unmilled Dicalcium Phosphate Dihydrate, Calcium Phosphate 
+Dibasic, USP Grade-F.C.C. Grade for manufacturing use only, used 
+to manufacture tableted calcium containing dietary supplements.  
+Recall #F-062-0.
+CODE
+Lot Numbers 7275 and 7276.
+MANUFACTURER
+Rhodia, Inc., Chicago Heights, Illinois.
+RECALLED BY
+Rhodia, Inc., Cranbury, New Jersey, by telephone and E-mail on 
+November 12, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+California, Canada, Indonesia.
+QUANTITY
+2,240 25-kg bags were distributed; firm estimated that 35 percent 
+of the product remained on market at time of recall initiation.
+REASON
+Product may contain pieces of rubber gasket material and plastic.
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS I
+________
+PRODUCT
+Warrick Pharmaceuticals brand Albuterol, USP Inhalation Aerosol, 
+17 g, 200 metered inhalations, Rx indicated for the prevention 
+and relief of bronchospasm in patients with reversible 
+obstructive airway disease, and for the prevention of exercise-
+induced bronchospasm.
+Recall #D-058-0.
+CODE
+NDC #59930-1560-1; Batch #9-BBS-525 EXP 8/01.
+MANUFACTURER
+Schering Laboratories, Inc., Kenilworth, New Jersey.
+RECALLED BY
+Manufacturer, by letters dated August 28, 1999, and September 15, 
+1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Alabama, Connecticut, Florida, Georgia, Kentucky, Maryland, 
+Massachusetts, New Jersey, New York, North Carolina, Ohio, 
+Pennsylvania, Rhode Island, Tennessee, Virginia, West Virginia.
+QUANTITY
+190,679 units were distributed; firm estimates none remains on 
+the market.
+REASON
+Some units fail to contain active ingredient.
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+________
+PRODUCT
+Rugby Hemorrhoid Preparation Suppositories in cardboard box 
+containing 12 suppositories, OTC, used to temporarily shrink 
+hemorrhoidal tissue and relieve the itching, burning and 
+discomfort associated with hemorrhoids.
+Recall #D-113-0.
+CODE
+Lot #906226.
+MANUFACTURER
+Hi-Tech Pharmacal, Inc., Amityville, New York.
+RECALLED BY
+Rugby Laboratories, Norcross, Georgia, by letter on August 26, 
+1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Georgia, Indiana, Kentucky, Michigan, North Carolina, New Jersey, 
+Ohio, Oregon, Pennsylvania, Texas.
+QUANTITY
+1,182 boxes were distributed; firm estimated that 250 boxes 
+remained on market at time of recall initiation.
+REASON
+Labeling - Product lacks pregnancy-nursing warning.
+________
+PRODUCT
+Various Human Drugs:
+1.  Ascorbic Acid Injection, 222 mg/mL, 30 mL vial, 4 lots 
+NDC #30727-645-80 for MERIT PHARMACEUTICALS
+2.  Ascorbic Acid Injection, 500 mg/mL, 50 mL vial, 4 lots
+NDC #0402-1083-50 for STERIS LABS label
+NDC #49072-039-50 for McGUFF COMPANY label
+NDC #11694-206-50 for KEY label
+3.  Bacteriostatic  Sodium Chloride Injection, USP, 0.9%, 30 mL  
+vial, NDC #0402-0191-30 for STERIS LABS label
+NDC #0364-6559-56 for SCHEIN PHARMACEUTICAL
+NDC #0839-5628-36 for MOORE MEDICAL label
+NDC #0536-2501-75 for RUGBY LABORATORIES label
+4.  Bacteriostatic Water for Injection, USP, 30 mL vial, NDC 
+#0402-1057-30 for STERIS LABS label
+NDC #66467-2611-3 for DARBY GROUP label
+NDC #0839-5180-36 for MOORE MEDICAL label
+NDC #0536-2620-75 for RUGBY LABORATORIES label
+5.  Chorionic Gonadotropin  for Injection,  USP, 5,000 USP units, 
+Lyophilized With Diluent,  10 mL vial set,
+NDC #0402-0125-10 for STERIS LABS label
+NDC #57548-125-10 for EVEREADY label
+NDC #44087-8005-3 for SERONO LABORATORIES label
+6.  Chorionic Gonadotropin  for Injection,  USP, 10,000 USP 
+units, Lyophilized With Diluent, 10 mL vial set, 
+NDC #0402-0126-10 for STERIS LABS label
+NDC #0364-6706-54 for SCHEIN PHARMACEUTICAL label
+NDC #44087-8010-3 for SERONO LABORATORIES label
+NDC #0182-1165-63 for ZENITH-GOLDLINE LABORATORIES label
+NDC #99012-126-10 for R. W. ENTERPRISES label
+7.  Edetate Disodium Injection, USP, 3g/20 mL (150 mg/mL), 20 mL 
+vial, NDC #0402-0277-20 for STERIS LABS label
+NDC #0364-2485-55 for SCHEIN PHARMACEUTICAL label
+NDC #49072-177-20 for McGUFF COMPANY label
+NDC #0456-0724-17 for FOREST PHARMACEUTICAL label
+NDC #30727-318-65 for MERIT PHARMACEUTICALS label
+NDC #11694-720-20 for KEY COMPANY label
+8&9..  Gentamicin Sulfate Injection, USP, 80 mg/2 mL, 2 mL vial; 
+and Gentamicin Sulfate Injection, USP, 40 mg/mL, 20 mL vial, NDC 
+#0402-0559-02 for STERIS LABS label [2 ml SIZE] NDC #0364-6739-48 
+for SCHEIN PHARMACEUTICAL label [2 ml SIZE] NDC #66467-4685-9 for 
+DARBY GROUP label [2 ml SIZE] NDC #0182-1424-61 for ZENITH-
+GOLDLINE LABORATORIES label NDC #0536-4690-67 for RUGBY 
+LABORATORIES label [2 ml SIZE] NDC #0839-6503-23 for MOORE 
+MEDICAL label [2 ml SIZE]
+NDC #0402-0559-20 for STERIS LABS label [20 ml SIZE]
+NDC #0182-1424-65 for ZENITH-GOLDLINE LABORATORIES label [20 ml 
+SIZE] NDC #66467-4685-2 for DARBY GROUP label [20 ml SIZE] NDC 
+#0364-6739-55 for SCHEIN PHARMACEUTICAL label [20 ml SIZE] NDC 
+#0536-4690-73 for RUGBY LABORATORIES label
+10.  Metoprolol Tartrate Injection, USP, 5 mg/5mL, 5 mL vial, NDC 
+#0364-3036-25 for SCHEIN PHARMACEUTICAL label
+11.  Neomycin and Polymyxin B Sulfates Solution for Irrigation, 
+USP, 1 mL Ampul, NDC #0364-2190-41 for SCHEIN PHARMACEUTICAL 
+label
+12.  Phenylephrine Hydrochloride Ophthalmic Solution, USP, 10%, 5 
+mL dropper bottle, NDC #0402-0799-05 for STERIS LABS label
+NDC #0364-2370-53 for SCHEIN PHARMACEUTICAL label
+NDC #51394-226-10 for WILSON OPHTHALMICS label
+NDC #54799-531-05 for OCUSOFT label
+13.  Vecuronium Bromide for Injection 10 mg, lyophilized powder, 
+10 mL vial, NDC #0209-9140-22 for MARSAM PHARMACEUTICAL label
+NDC #0209-9140-92 for MARSAM PHARMACEUTICAL label
+NDC #0209-9141-26 for MARSAM PHARMACEUTICAL label
+14.  Vecuronium Bromide for Injection 20 mg, lyophilized powder, 
+20 mL vial, NDC #0209-9143-22 for MARSAM PHARMACEUTICAL label
+NDC #0209-9143-92 for MARSAM PHARMACEUTICAL label.  
+Recall #D-114/127-0.
+CODE
+Lot Numbers:  
+1.  96H760    97C790    97G780    98A070
+2.  98C840    98D140    98D360    98D580
+3.  97C580
+4.  96N430    97D950    98B530
+5.  97L910
+6.  97K710    98B550    97J410    97J510
+7.  96K880    96F890    96M330    96M700
+    96N600    96N750    97A150    97A650
+    97B010    97E260    97E410    97G060
+    97K510    98B310    98C050    98C670
+    96N740    97A510    97B500
+8&9 [for 2 ml SIZES]:   96K870   97B550   97G240
+    [for 20 ml SIZES]:  97A570   97C210   97G290
+10. 97J300    97J350    97J360   97J590   97K470
+    97L290    97M320    98A910   98B570
+    98C250    98C890    98D150    98D380
+    98E120    98D740    98E530    98F150
+11. 96L260    97B320    97B910   97F160
+    97F220    97J110    97J320    98A350
+    98A830    98B190
+12. 96L290    97C660    97J100    97J840   98D880
+13. 98B770    98C150    98C270    98C340
+    98C530    98C700    98D080    98D200
+    98D250    98D300    98D460    98D621
+    98D760    98E190    98E350    98E600
+    98E880    98F010    98F090    98F180
+14. 98B780    98C390    98D110    98D260
+     98D770   98E220    98E640.
+MANUFACTURER
+Steris Laboratories, Inc., Phoenix, Arizona.
+RECALLED BY
+Manufacturer, by letter dated October 8, 1999.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+1.  64,689 units
+2.  71,930 units
+3.  30,797 units
+4.  64,151 units
+5   10,494 units
+6.  91,684 units
+7.  1,322,117 units
+8&9) 439,139 units
+10. 1,015,520 units
+11. 876,375 units
+12. 150,242 units
+13. 854,561 units
+14. 72,130 units
+REASON
+Current good manufacturing practice deviations - Lack of data to 
+support process validation(s) and defect investigations.
+________
+PRODUCT
+Diabeta� (Glyburide) 5mg, 100 tablet bottles, Rx, for use as an 
+adjunct to diet to lower the blood glucose in patients with non 
+insulin-dependent diabetes mellitus (Type II), packaged in 24 
+bottles/intermediate box, 4 intermediate boxes/shipping case. NDC 
+#0039-0052-10. 
+Recall #D-130-0.
+CODE
+Lot Number 0017181, EXP 6/2001.
+MANUFACTURER
+Med-Pro, Inc., Lexington, Nebraska (repacker).
+RECALLED BY
+Repacker, by telephone on September 27, 1999, and by letter dated 
+September 28, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+New York.
+QUANTITY
+840 100-tablet bottles were distributed.
+REASON
+Immediate bottle label shows two strengths 5 MG and 25 MG.
+________
+PRODUCT
+Compressed Medicinal Oxygen in Steel Tanks, (E, D, and M size), 
+Rx drug for breathing therapy.  Recall #D-142-0.
+CODE
+Various lots produced between 8/7/98 and 8/17/99.
+MANUFACTURER
+Option Care, Covington, Georgia.
+RECALLED BY
+Manufacturer, by telephone on November 5, 1999.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Georgia.
+QUANTITY
+6,000 cylinders were distributed.
+REASON
+Current good manufacturing practice deviations, including but not 
+limited to lack of oxygen assays.
+________
+PRODUCT
+M.V.I.� Pediatric (Multiple Vitamins for infusion), in 10 mL 
+Single Dose Vial.  Recall #D-144-0.
+CODE
+Lot Numbers 9F3009, EXP 3/00, 9F3011 EXP 4/00.
+MANUFACTURER
+Catalytica Pharmaceuticals, Greenville, North Carolina.
+RECALLED BY
+AstraZeneca Inc., Westborough, Massachusetts, by letter dated 
+November 18, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Tennessee, Arizona.
+QUANTITY
+9,163 units of Lot #9F3009 and 9,143 units of Lot #9F3011 were 
+distributed.
+REASON
+Subpotent (vitamin A, K, Dexpanthenol and/or Pyridoxine).
+
+RECALLS AND FIELD CORRECTIONS:  CLASS III
+________
+PRODUCT
+Triamcinolone Acetonide Cream 0.1% in 1 pound jars, under the 
+following labels: NMC Laboratories; - NDC 23317-301-16; Rugby 
+Laboratories -  NDC 0536-5225-98;
+Major Pharmaceuticals, - NDC 0904-2741-27 
+Schein Pharmaceuticals - NDC 0364-7212-16. 
+Recall #D-128-0.
+CODE
+Lot #     EXP     Label
+6I561    09/99     NMC
+6K705    11/99     Rugby
+6I571    09/99     NMC 
+6K707    11/99     Rugby
+6I576    09/99     NMC
+6K715    11/99     NMC
+6I578    09/99     NMC 
+6K716    11/99     NMC 
+6I581    09/99     NMC 
+6K724    11/99     NMC 
+6I623    09/99     NMC 
+6K750    11/99     NMC 
+6J626    10/99     NMC 
+6L744    12/99     NMC 
+6J627    10/99     NMC 
+6L775    12/99     NMC 
+6J636    10/99     NMC 
+6L793    12/99     NMC 
+6J657    10/99     Major & NMC
+6L794    12/99     NMC 
+6L820    12/99     NMC 
+6J673    10/99     NMC 
+7A847    01/00     NMC
+6J674    10/99     Schein 
+MANUFACTURER
+Alpharma USPD, Inc., Lincolnton, North Carolina.
+RECALLED BY
+Manufacturer, by letter on or about September 13, 1999.  Firm-
+initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+102,381 units were distributed; firm estimated that very little 
+product remained on market at time of recall initiation based on 
+EXP dates.
+REASON
+Lack of assurance that product will meet potency specification 
+over labeled expiration date (superpotency).
+________
+PRODUCT
+Clobetasol Propionate Topical Solution, USP, 0.05%, in 25 and 50 
+mL bottles, Rx used as a topical treatment of inflammatory and 
+pruritic manifestations of moderate to severe corticosteroid-
+responsive dermatoses of the scalp.  Recall #D-129-0.
+CODE
+Lot          Size (mL)     Exp
+RJ7557       50           9/99
+RJ7558       50           9/99
+VK7642       50           9/99
+VL7660       50           10/99
+VN7754       25           11/99
+VN7754       50           11/99 (H.L.Moore)
+RP7931       25           11/99
+RP7931       50           11/99
+RS7974       25           01/00
+RS7974       50           01/00
+RA8012       50           03/00
+RB8028       25           05/00
+RA8057       25           02/00
+RB8069       50           03/00
+RH8170       50           06/00
+RC8212       50           05/00
+RF8413       50           06/00.
+MANUFACTURER
+Alpharma USPD, Inc., Baltimore, Maryland.
+RECALLED BY
+Manufacturer, by letter on or about September 10, 1999.  Firm-
+initiated recall complete.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+345,462 units under Alpharma label and 3,564 units (50 mL) under 
+the H.L. Moore label were distributed.
+REASON
+Exceeding USP total related substances testing prior to 
+expiration date.
+________
+PRODUCT
+Norco Tablets 10mg/325 mg Hydrocodone Bitartrate/ Acetaminophen, 
+Physician Samples, Cartons of 30�s containing 15 units of 2 
+tablets, Rx indicated for the relief of moderate to moderately 
+severe pain in humans. 
+NDC #52544-539-30.  Recall #D-131-0.
+CODE
+LOT NUMBER   EXPIRATION DATE
+53902R96F    11/1998
+53903R96F    11/1998
+53901R96F    11/1998
+53904R96F    11/1998
+53904J98F    09/2000
+53903M98F    10/2000
+53910M98F    10/2000
+53901R98F    11/2000
+53904R98F    11/2000
+53901A99F    01/2001
+53902A99F    01/2001
+53903A99F    01/2001
+53904A99F    01/2001
+53901C99F    03/2001.
+MANUFACTURER
+Watson Laborataories, Inc., a subsidiary of Watson 
+Pharmaceuticals, Inc., Corona, California.
+RECALLED BY
+Manufacturer, by letter on October 14, 1999.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+222,472 cartons (15 2-tablet pouches per carton) were 
+distributed.
+REASON
+Labeling lacks approval.
+________
+PRODUCT
+Klonopin (brand of Clonazepam) Tablets, in bottles of 100 tablets 
+Rx used in the treatment of seizure disorders:
+a) 0.5 mg, NDC `0004-0068-01; b) 1.0 mgm, 
+NDC #0004-0058-01; c) 2.0 mg, NDC #0004-0098-01.
+Recall #D-132/134-0.
+CODE
+LOT NO.  EXP DATE
+U0003    11/2000
+U0004    11/2000
+U0501    12/2000
+U0502    12/2000
+U1002    11/2000.
+MANUFACTURER
+Roche Pharma, Inc., Humacao, Puerto Rico.
+RECALLED BY
+Roche Laboratories, Inc., Nutley, New Jersey, by telephone on 
+September 3, 1999, followed by letter.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+Approximately 79,013 units of all three strengths were 
+distributed.
+REASON
+Product had incorrect expiration date on label.
+________
+PRODUCT
+Lidocaine and Epinephrine Injection, USP (Lidocaine HCl 2% and 
+Epinephrine 1:100,000 and 1:50,000) and Mepivacaine Hydrochloride 
+and Levonordefrin Injection, USP (Mepivacaine HCl 2% and 
+Levonordefrin 1:20,000).  The products are shipped in 1.8 ml 
+cartridges with 50 cartridges per box.
+Recall #D-135/137-0.
+CODE
+a) Lidocaine 100:
+Lot # 8050 EXP 10/99 under Novocol label (distributed by 
+Septodont, Inc)
+Lot # 8051 EXP 10/99 under Novocol label (distributed by 
+Septodont, Inc)
+Lot # 8055* EXP 10/99 under Henry Schein label
+Lot # 8056* EXP 10/99 under Henry Schein label
+Lot # 8057 EXP 10/99 under Henry Schein label
+Lot # 8064 EXP 10/99 under Henry Schein label
+Lot # 8065 EXP 10/99 under Henry Schein label
+Lot # 8066 EXP 10/99 under Meer Dental label 
+Lot # 8067 EXP 10/99 under Carlisle Laboratories label
+Lot # 8068 EXP 10/99 under Novocol label (distributed by 
+Septodont, Inc)
+Lot # 8069 EXP 10/99 under Novocol label (distributed by 
+Septodont, Inc)
+Lot # 8071 EXP 10/99 under Meer Dental label
+Lot # 8072 EXP 11/99 under Meer Dental label
+Lot # 8073 EXP 11/99 under Novocol label (distributed by 
+Septodont, Inc)
+Lot # 8074* EXP 11/99 under Carlisle Laboratories label
+Lot # 8075 EXP 11/99 under Carlisle Laboratories label
+Lot # 8076 EXP 11/99 under Carlisle Laboratories label
+Lot # 8077 EXP 11/99 under Carlisle Laboratories label
+Lot # 8078 EXP 11/99 under Carlisle Laboratories label
+Lot # 8079 EXP 11/99 under Carlisle Laboratories label
+Lot # 8080* EXP 11/99 under Carlisle Laboratories label
+Lot # 8081* EXP 11/99 under Carlisle Laboratories label
+Lot # 8082* EXP 11/99 under Carlisle Laboratories label
+b) Lidocaine 50:
+Lot # 8058 EXP 10/99 under Novocol label (distributed by 
+Septodont, Inc)
+Lot # 8059C EXP 10/99 under Novocol label (distributed by 
+Septodont, Inc)
+Lot # 8060 EXP 10/99 under Henry Schein label
+Lot # 8083 EXP 11/99 under Carlisle Laboratories label
+Lot # 8086B* EXP 11/99 under Patterson Dental label
+c) Mepivacaine 2%:
+Lot # 8063B EXP 10/99 under Meer Dental label (Henry Schein now 
+owns)
+Lot # 8063C EXP 10/99 under Novocol label (distributed by 
+Septodont, Inc)
+Lot # 8063D EXP 10/99 under Carlisle Laboratories label
+* Indicates that the lot was involved in recall D-188/91-9.
+MANUFACTURER
+Novocol Pharmaceutical of Canada, Inc., Cambridge, Ontario, 
+Canada.
+RECALLED BY
+Septodont, Inc., New Castle, Delaware, by telephone on September 
+27, 1999, and by letter on October 1, 1999.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+52 boxes.
+REASON
+Subpotent (Ephinehrine/Levonordefrin).
+________
+PRODUCT
+Pepcid (Famotidine) Tablets, 20 mg repacked in unit dose 
+blisters, Rx, overpackaged by Haines Pharmaceuticals.
+NDC #0006-0963-28.  Recall #D-138-0.
+CODE
+Lot #4616 EXP 10/99.
+MANUFACTURER
+Haines Pharmaceuticals Division,  IMDS, Inc., Pompano Beach, 
+Florida (repacker/responsible firm).
+RECALLED BY
+AmeriSource Health Services Corporation, doing business as 
+American Health Packaging, Columbus, Ohio, by letter faxed on 
+October 29, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Ohio, Massachusetts, Tennessee.
+QUANTITY
+750 bags (75,000 individual units) were distributed; firm 
+estimates none remains on the market.
+REASON
+Repacking error - Some units may contain a multivitamin.
+________
+PRODUCT
+Tebamide (tm) Suppositories (Trimethobenzamide), 200 mg, in boxes 
+of 10 and 50, Rx used to control nausea and vomiting.
+Recall #D-139-0.
+CODE
+Product Code 0108
+Lot Numbers    EXP Date     NDC Numbers   Label
+7025-5         02/00        0713-0108-50  G & W (50s)
+                            0713-0108-09  G & W (10s)
+                            0904-2736-15  Major (I Os)
+                            0364-7348-10  Schein (I Os)
+7072-5         03/00        0713-0108-09  G & W (10s)
+                            0904-2736-15  Major (I Os)
+                            0364-7348-10  Schein (1 Os)
+7226-2         09/00        0713-0108-09  G & W (10s)
+                            0364-7348-10  Schein (I Os)
+8173-1         07/01        0713-0108-09  G & W (10s)
+                            0713-0108-50  G & W (50s)
+                            0904-2736-15  Major (I Os)
+                            0364-7348-10  Schein (I Os)
+8173-2         07/01        0713-0108-09  G & W (10s)
+                            0713-0108-50  G & W (50s).
+MANUFACTURER
+G&W; Laboratories, Inc., South Plainfield, New Jersey.
+RECALLED BY
+Manufacturer, by letters on June 11, 1999, and August 25, 1999.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+Lot Number   Package Size   Units/Boxes Distributed
+7025-5       50's           1,896 units
+7025-5       10's           29,160 units
+7072-5       10's           37,872 units
+7226-2       10's           38,448 units
+8173-1       10's           26,088 units
+8173-1       50's           1,800 units
+8173-2       10's           32,256 units
+8173-2       50's           1,296 units.
+REASON
+Subpotency of Benzocaine and/or lack of assurance Benzocaine 
+levels will remain within specification over labeled expiration 
+date.
+________
+PRODUCT
+Fluocinonide Cream USP, 0.05%, in 30 gram tubes, Rx used as a 
+topical corticosteroid, which has anti-inflammatory, anti-prurtic 
+and vasoconstrictive actions.  Recall #D-141-0.
+CODE
+Lot #7F306 EXP 6/00.
+MANUFACTURER
+Taro Pharmaceuticals, Bramalea, Ontario, Canada.
+RECALLED BY
+Taro Pharmaceuticals USA, Inc., Hawthorne, New York, by letter 
+dated August 19, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Arkansas, Arizona, California, Colorado, Connecticut, Georgia, 
+Illinois, Louisiana, Maine, Minnesota, New Jersey, New York, 
+Pennsylvania, Tennessee.  
+QUANTITY
+10,032 30-gram tubes were distributed.
+REASON
+Subpotency at 24 month stability.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+________
+PRODUCT
+CMS ACCUPROBE 530,a cryosurgical system used for controlled 
+ablation and destruction of malignant/benign tissue in the body. 
+Device supercools liquid nitrogen applied to tissue for 
+destruction.  Recall #Z-215-0.
+CODE
+Serial Numbers: 530-1001 to 530-1019.
+MANUFACTURER
+Cryomedical Sciences, Inc., Rockville, Maryland.
+RECALLED BY
+Manufacturer, by visit April 29, 1999, or by telephone and letter 
+October 29, 1999.  Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+19 systems were distributed.
+REASON
+Device wiring found to be corroded, burned, or fatigued.
+________
+PRODUCT
+Toxo IgM Enzyme-Linked Immunosorbent Assay (ELISA)
+a) Product No. 1029-315Z, Toxo IgM ELISA - 96 Tests;
+b) Product No. B1029-315Z, Toxo IgM ELISA.
+Recall #Z-219/220-0.
+CODE
+Lot Numbers:  a) 1S&T010880; EXP 06-30-00; 
+b) 8TOXO02918 EXP 02-24-00.
+MANUFACTURER
+Zeus Scientific, Inc., Branchburg, New Jersey.
+RECALLED BY
+Manufacturer, by letter sent April 9, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Washington state.
+QUANTITY
+a) 30 kits; b) 25 kits were distributed; firm estimates none 
+remains on the market.
+REASON
+Device may produce high rates of false positive test results.
+________
+PRODUCT
+Procedure Based Delivery Systems Module, used in surgery, 
+composed of subassembly kits, including the set up subassembly 
+kit, which contains a skin/scrub prep tray that had latex gloves 
+packaged in the tray; Packaged by Allegiance Healthcare 
+Corporation.  Recall #Z-221/224-0.
+CODE
+Skin/Scrub Prep Tray contained in Set Up subassembly kit 
+PZ90LFCSC contained in the following modules manufactured between 
+9/9/99 and 11/8/99: 
+Module PG90MALFC, PBDS Pathways General Surgery Latex Free Kit; 
+Module PL90CSLFB, PBDS Pathways C-Section Latex Free Kit; Module 
+PN90CYLFB, PBDS Pathways Neurosurgery Latex Free Kit; Module 
+PO90MJLFB, PBDS Pathways Orthopedic Latex Free Kit.
+MANUFACTURER
+Allegiance Healthcare Corporation, Montgomery, New York.
+RECALLED BY
+Allegiance Healthcare Corporation, McGaw Park, Illinois, by 
+letter dated November 12, 1999.  Firm-initiated recall ongoiong.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+138 modules.
+REASON
+Kits labeled as latex free contain latex gloves.
+________
+PRODUCT
+PACEART CardioVoice Telephones include:
+a) CardioVoice Speaker Phone, Model No. CVP-1A;
+b) CardioVoice Trimline Phone, Model No. CVP-1;
+c) CardioVoice Portable Transmitters (or CardioVoice Phone 
+Portable Option), a compact real-time transmitter that can send a 
+patient's real-time electrocardiogram (ECG) to a receiving center 
+at a physician's office or a specialized monitoring service from 
+any location, Model No. CT-1.
+Recall #Z-227/229-0.
+CODE
+a) Sale Code: CVP-1A; b) Sale Code: CVP-1; 
+c) Sale Code: CT-1.  All units shipped to consignees between 
+5/1/98 to 7/15/99.
+MANUFACTURER
+PACEART Associates, L.P., Fairfield, New Jersey.
+RECALLED BY
+Manufacturer, by letters dated March 9, 1999, and July 15, 1999. 
+ Firm-initiated field correction ongoing.
+DISTRIBUTION
+a) California, Florida, Georgia, Missouri, New York, Ohio, 
+Washington state, China; b) Alabama, Delaware, Kansas, Kentucky, 
+Missouri, Michigan, New Jersey, New York, Ohio, Texas, China, and 
+England; c) California, District of Columbia, Florida, Kentucky, 
+Louisiana, Massachusetts, Maryland, Missouri, New Jersey, New 
+York, Oregon, Pennsylvania, Virginia, Washington state, 
+Australia.
+QUANTITY
+Undetermined.
+REASON
+The devices fail to comply with the performance standard for 
+electrode lead wires and patient cables, 21 CFR 898.
+________
+PRODUCT
+Medtronic GEM Implantable Cardioverter Defibrillators:
+a) Medtronic GEM Model No. 7227Cx Implantable Cardioverter 
+Defibrillator;
+b) Medtronic GEM Model No. 7229Cx Implantable Cardioverter 
+Defibrillator.  Recall #Z-230/231-0.
+CODE
+All serial numbers ending with the letter "H".
+MANUFACTURER
+Medtronic Med Rel, Inc., Humacoa, PR.
+RECALLED BY
+Medtronic, Inc., Minneapolis, Minnesota, by letter dated October 
+15, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+a) 9654; b) 44 units were distributed.
+REASON
+Improper P+ wire routing and less than required silicone adhesive 
+insulation on the P+ wire in the connector module.
+________
+PRODUCT
+Cryolife Allograft Heart Valve: a) Model AVOO;
+b) Model PVOO.  Recall #Z-232/233-0.
+CODE
+Serial Numbers:  a) 6272991; b) 6273009.
+MANUFACTURER
+CryoLife, Inc., Kennesaw, Georgia.
+RECALLED BY
+Manufacturer, by letter on October 15, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Ohio and California.
+QUANTITY
+2 units.
+REASON
+The liver from the donor of the allografts had been diagnosed 
+with cancer.
+________
+PRODUCT
+K-1 Infant Transport Incubators:
+a) Transport Incubator 100 - Globetrotter (GT67); 
+b) Transport Incubator 100 - Trailblazer (TB67);
+c) Transport Incubator 100 - Roadrunner (RR67);
+d) Transport Incubator 500 - Globetrotter (GT500).
+Recall #Z-234/237-0.
+CODE
+Various serial numbers.
+MANUFACTURER
+Hill-Rom Air-Shields, Hatboro, Pennsylvania.
+RECALLED BY
+Manufacturer, by visit beginning October 15, 1999, and by letter. 
+ Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+568 units were distributed.
+REASON
+The devices have a faulty design of the hand ventilator which 
+does not indicate the true pressure in the incubator.
+________
+PRODUCT
+CAPTIA Rubella-M, Product No. 800-920, used for the detection of 
+IgM antibodies to rubella in human serum as an aid to the 
+diagnosis of recent or current rubella infection.  Recall #Z-238-0.
+CODE
+Lot Numbers:   34K2029 EXP 18-MAR-00; 34K0358 EXP 18-MAR-00; and 
+34K2019 EXP 15-APR-00.
+MANUFACTURER
+Trinity Biotech plc, Bray, Co. Wicklow, Ireland
+RECALLED BY
+Manufacturer, by letter October 22, 1999.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+296 kits.
+REASON
+The High Titre Positive (HTP) Control is reading below the stated 
+Optical Density value of >0.9 for the HTP in the kit labeling.
+________
+PRODUCT
+Sarns 3M Centrifugal Pump, Catalog No. 164275.  
+Recall #Z-240-0. 
+CODE
+Lot No. W504470 and W504471.
+MANUFACTURER of Plastic Pouches
+Kenpak, City of Commerce, California.
+RECALLED BY
+Terumo Cardiovascular Systems Corporation, Ann Arbor, Michigan, 
+by telephone and faxed letter dated November 9, 1999.  Firm-
+initiated recall ongoing.
+DISTRIBUTION
+Arizona, California, Florida, Indiana, Kansas, Louisiana, 
+Massachusetts, Michigan, Mississippi, Missouri, New Hampshire, 
+New Jersey, Pennsylvania, Pureto Rico, Rhode Island, Texas, Utah, 
+District of Columbia, Wisconsin.
+QUANTITY
+960 units were distributed.
+REASON
+Some of the pouches had weak areas near the seams and, post-
+sterilization, sampling found some pouches had opened up.
+________
+PRODUCT
+Abbott ACCLAIM Infusion Pump and Abbott ACCLAIM Encore Infusion 
+Pump Model: 12032-04 and 12237-04.
+Recall #Z-244/245-0.
+CODE
+None.
+MANUFACTURER
+Abbott Laboratories, Inc., Morgan Hill, California.
+RECALLED BY
+Manufacturer, by letter on November 17, 1999.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+2,005 units.
+REASON
+Failure of the temperature compensation sensor circuit can lead 
+to inaccurate delivery.
+________
+PRODUCT
+Allograft Heart Valves.  Recall #Z-248/249-0.
+CODE
+Model Number AV00 - Serial Number 6267068
+Model Number PV00 - Serial Number 6267033
+Model Number AV05 - Serial Number 3978516
+Model Number PV05 - Serial Number 3978524
+Model Number PV00 - Serial Number 6276466
+Model Number AV00 - Serial Number 6206476
+Model Number AV00 - Serial Number 6003915.
+MANUFACTURER
+CryoLife, Inc., Kennesaw, Georgia.
+RECALLED BY
+Manufacturer, by letter sent on November 8,9, and 11, 1999.  
+Firm-initiated recall complete.
+DISTRIBUTION
+California, Massachusetts, Michigan, Nebraska, New Hampshire, 
+Tennessee, Texas.
+QUANTITY
+7 units.
+REASON
+Donors do not meet current guidelines regarding serodilution of 
+plasma.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+________
+PRODUCT
+CryoLife Allograft Heart Valve, Model No. AVOO.
+Recall #Z-225-0.
+CODE
+Serial #6635253.
+MANUFACTURER
+CryoLife, Inc., Kennesaw, Georgia.
+RECALLED BY
+Manufacturer, by telephone on October 7, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Nevada.
+QUANTITY
+1 unit.
+REASON
+Additional donor information not available at the time of initial 
+donor and tissue review by quality assurance indicates the donor 
+had viral mycocarditis at the time of death.
+________
+PRODUCT
+Datascope Safety Guidewire, Size .020"x145cm, used in conjunction 
+with the firm's 8 French Intra Aortic Balloon (IAB) Catheters.  
+Recall #Z-239-0.
+CODE
+Catalog #0684-00-0254-04.
+MANUFACTURER
+Datascope Corporation, Cardiac Assist Division, Fairfield, New 
+Jersey.
+RECALLED BY
+Manufacturer, by telephone from September 21, 1999 - October 5, 
+1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+46 10-packs were distributed.
+REASON
+Size .030" guidewire was found in the .020" guidewire package.
+________
+PRODUCT
+Disposable Argon Plasma Coagulation (APC) Probe for Flexible 
+Endoscopy, single use sterile probes:
+a) Part Number 20132-071; b) Part Number 20132-072. 
+Recall #Z-241/242-0.
+CODE
+a) Lot Number A070535; b) Lot Number A070535.
+MANUFACTURER
+ERBE, Tubingen, Germany.
+RECALLED BY
+ERBE USA, Inc., Marietta, Georgia, by letter on October 26, 1999. 
+ Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+2,031 probes were distributed.
+REASON
+Some of APC Probes may have an incorrect label on the pouch.  The 
+pouch has two labels, one international label (four languages) 
+and one US label (English only). The international label may have 
+an incorrect part number and probe diameter. The US label is 
+correct.
+
+MEDICAL DEVICE SAFETY ALERTS:
+________
+PRODUCT
+PCA I and PCA II Syringe Infusion Pumps, capable of both 
+continuous and intermittent infusion of parenteral fluids with a 
+Patient Controlled Analgesia mode intended primarily for the 
+infusion of analgesics into the patient upon the patient's 
+request by use of the patient button.
+Safety Alert #N-003/004-0.
+CODE
+All Baxter PCA Sets without anti-siphon technology used with both 
+the Baxter PCA I Syringe Infusion Pump, Product Code 2L3103 and 
+Baxter PCA II Syringe Infusion Pump, Product Code 2L3104.
+The affected sets without anti-siphon technology are of the 
+following product codes:
+2C9205 - Baxter Tamper Resistant PCA Extension Set, 
+         Volume 0.8 mL, Length 60", also marketed under 
+         6466500
+2C9206 - Baxter Tamper Resistant PCA Extension Set, 
+         Volume 1.2 mL, Length 96"
+2L3507 - Baxter Tamper Resistant PCA Combination Set, 
+         Volume 2.5 mL, Length 101".
+MANUFACTURER
+Baxter Healthcare Corporation, Aibonito, Puerto Rico.
+The Aibonito, PR plant manufactures the sets.  The PCA I 
+pumps were made by Baxter at their North Reading, MA plant, 
+and the PCA II pumps are made by Baxter at their Singapore 
+plant.
+ALERTED BY
+Baxter Healthcare Corporation, Round Lake, Illinois, by letter 
+dated November 10, 1999.  Firm initiated, ongoing. 
+DISTRIBUTION
+Nationwide.
+QUANTITY
+22,800 pumps.
+REASON
+Uncontrolled flow of medication if user improperly loads syringe 
+into PCA pump.
+
+END OF ENFORCEMENT REPORT FOR DECEMBER 15, 1999.  BLANK PAGES MAY 
+FOLLOW.
+
+####

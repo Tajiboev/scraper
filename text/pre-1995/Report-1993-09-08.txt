@@ -1,0 +1,566 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      36 captures
+	      25 Feb 1997 - 02 Apr 2015
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+09/08/1993
+
+Recalls and Field Corrections:  Foods -- Class I -- 09/08/1993
+
+SEPTEMBER 8, 1993                                             93-36
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+=========================
+_______________
+PRODUCT        Laurel's Heart brand Garlic Spread in 4 ounce glass bottles,
+               (a) Hellfire Garlic Spread; (b) Wildfire Garlic Spread (c)
+               Mildfire Garlic Spread.  Recall #F-615/617-3.
+CODE           None.
+MANUFACTURER   Laurel's Heart, Shingle Springs, California.
+RECALLED BY    Laurel's Heart, Sacramanto, California, by telephone July
+               17, 1993, and letter July 19, 1993.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   California, Delaware, Missouri.
+QUANTITY       462 bottles were distributed.
+REASON         The product has the potential to support the growth of
+               Clostridium botulinum toxin.
+
+
+_______________
+PRODUCT        Kroger and Fry brand Canned Gravies (a) Chicken Gravy; (b) 
+               Brown Gravy; (c) Mushroom Gravy; (d) Turkey Gravy, packed in
+               13.5 ounce cans.  Recall #F-618/621-3.
+CODE           All codes.
+MANUFACTURER   Kroger State Avenue Manufacturing, Cincinnati, Ohio.
+RECALLED BY    The Kroger Company, Cincinnati, Ohio, via electronic mail to
+               their five regional offices, June 30, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Unknown.
+REASON         The product has the potential to support the growth of
+               Clostridium botulinum toxin.
+
+RECALLS AND FIELD CORRECTIONS:  FOODS  --  CLASS II
+======================
+
+_______________
+PRODUCT        Wegmans brand Blueberry Waffles, frozen, net weight 16.5
+               ounces.  Recall #F-573-3.
+CODE           All lots in distribution prior to 6/11/93.
+MANUFACTURER   Western Waffles Ltd., Richmond, B.C., Canada.
+RECALLED BY    Wegmans Food Markets, Inc., Rochester, New York, by letter
+               June 11, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Western and Central New York State.
+QUANTITY       Unknown.
+REASON         The product contains undeclared FD&C; Red No. 2, Red No. 40
+               and Blue No. 1.
+
+
+_______________
+PRODUCT        Dorman's Lo-Chol Swiss Cheese Alternative, Slices, less than
+               5 mg. of cholesterol per ounce, net weight 5 ounces, and 12
+               pound loaves.  Recall #F-580/581-3.
+CODE           A25 JUL 932M (5 ounce package); 7/22/93 (12 pound loaf).
+MANUFACTURER   Dorman-Roth Foods, Inc., Monroe, Wisconsin.
+RECALLED BY    Dorman-Roth Foods, Inc., Hasbrouck Heights, New Jersey, by
+               telephone April 8, 1993, followed by letter April 9, 1993. 
+               Firm-initiated recall complete.
+DISTRIBUTION   New York, New Jersey.
+QUANTITY       281 cases (12 5-ounce packages and 25 12-pound loaves) were
+               distributed; firm estimates none remains on the market.
+REASON         Product contains metal pieces.
+
+
+_______________
+PRODUCT        Sage Drink (Chan Refresco Especial) in 12 ounce packages. 
+               Recall #F-583-3.
+CODE           None.
+MANUFACTURER   Associated Distributors, Inc., Beltsville, Maryland.
+RECALLED BY    Manufacturer by letter May 11, 1993.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Maryland, Washington, D.C., Northern Virginia, New York.
+QUANTITY       80/12 ounce packages were distributed.
+REASON         Product contains FD&C; Red No. 2, an unapproved color
+               additive.
+
+_______________
+PRODUCT        Calcium with Vitamin D Tablets under the labels: (a) Vitamin
+               Classics, (b) Sonergy, (c) Spring Valley.  Recall #F-610-3
+CODE           (a) 205141A, 205141B, 205141C, 224155B; (b) 231074A; (c)
+               218849A, 218849B, 218849C, 230691A, 230691C.
+MANUFACTURER   Nion Laboratories, Irwindale, California.
+RECALLED BY    Amcon Industries, Buena Park, California, by telephone and
+               fax March 25, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   (a) Arizona, California, Illinois, Ohio, Utah, Washington
+               state, (b) California, (c) Colorado, Florida, Georgia,
+               Illinois, Michigan, New York, Texas.
+                                    -2-
+
+QUANTITY       (a) 2,508 bottles; (b) 300 bottles; (c) 12,488 bottles were
+               distributed.
+REASON         The product contains Vitamin D at ten times the amount
+               indicated on the label.
+
+
+_______________
+PRODUCT        Hot Corn Drink (Shuco Athol Especial) in 12 ounce packages. 
+               Recall #F-612-3.
+CODE           None.
+MANUFACTURER   Associated Distributors, Inc., Beltsville, Maryland.
+RECALLED BY    Manufacturer by letter May 11, 1993.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Maryland, Washington, D.C., Northern Virginia, New York.
+QUANTITY       100/12 ounce packages were distributed.
+REASON         Product contains FD&C; Red No. 2, an unapproved color
+               additive.
+
+
+_______________
+PRODUCT        Picarindo brand Tamarind Fruit Candy, a snack for children
+               in 5.5 ounce net weight ceramic jar.  Recall #F-609-3
+CODE           All lots.
+MANUFACTURER   Alfredo Zacarias Fiqueroa, Morelia, Michigan.
+RECALLED BY    Dulceria El Molino Import & Export, City of Commerce,
+               California.  The State of California Food and Drug Unit
+               issued a press release warning the public on May 5, 1993,
+               with follow-up letter on May 19, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   California.
+QUANTITY       132 cases were distributed.
+REASON         Product contains excessive levels of lead.
+
+
+_______________
+PRODUCT        Himalayan Brand Apricot Kernels in 8 ounce bags, Recall #F-
+               622-3.
+CODE           C12120.
+MANUFACTURER   R.S. Organic Imports, Inc. (responsible firm), North
+               Tarrytown, New York.
+RECALLED BY    Manufacturer by letter in mid March, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   New York, Washington state, Florida, Massachusetts,
+               Connecticut, Pennsylvania, Ohio, Virgin Islands.
+QUANTITY       50/8 ounce bags were distributed.
+REASON         The product contains excessive levels of cyanide.
+
+                                    -3-
+
+
+
+
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS  -- CLASS III
+======================
+
+_______________
+PRODUCT        Various brands Red Grape Juice (a) Grape Juice from 
+               Concentrate with Vitamin C; (b) Grape Juice from 
+               Concentrate; (c) Grape Juice, Unsweetened, in 32, 40, 46 
+               ounce and 64 ounce bottles.  Recall #F-577/579-3.
+CODE           "CT 314 ____04/16/94" and EARLIER CODES (e.g. CT 314 ___ 
+               12/20/92.
+MANUFACTURER   Spear Packing Corporation, New Brunswick, New Jersey.
+RECALLED BY    Manufacturer, by telephone and letter April 23 and 26, 1993. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Alabama, Florida, Illinois, Massachusetts, Maryland,
+               Michigan, Mississippi, North Carolina, New Jersey, New York,
+               Ohio, Pennsylvania, South Carolina, Tennessee, Virginia.
+QUANTITY       63,861 cases were distributed.  Firm estimates 300 bottles
+               remain in the marketplace.
+REASON         Products contain undeclared ingredients.
+
+
+_______________
+PRODUCT        Barley Drink ("LYA" Salvadorena Powdered Drink Mix) in 12
+               ounce packages.  Recall F-584-3.
+CODE           None.
+MANUFACTURER   Associated Distributors, Inc., Beltsville, Maryland.
+RECALLED BY    Manufacturer by letter on or about May 11, 1993.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Maryland, Washington, D.C., northern Virginia, New York.
+QUANTITY       35 cartons/12 ounce packages were distributed.
+REASON         Product contains FD&C; Red No. 40, which is not declared on
+               label.
+
+
+_______________
+PRODUCT        "Cuzcatlan" Instant Refreshment of Chang in 12 ounce
+               packages.  Recall #F-613-3.
+CODE           None.
+MANUFACTURER   Associated Distributors, Inc., Beltsville, Maryland.
+RECALLED BY    Manufacturer by letter on or about May 11, 1993.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Maryland, Washington, D.C., Northern Virginia, New York.
+QUANTITY       40 packages were distributed.
+REASON         Product contains FD&C; Red No. 40, which is not declared on
+               label.
+
+                                    -4-
+RECALLS AND FIELD CORRECTIONS:  DRUGS  -- CLASS II
+=======================
+
+_______________
+PRODUCT        Ethex brand Nitroglycerin Extended-Release Capsules, 9 mg.,
+               packaged in 60 capsule and 100 capsule bottles, for the
+               prevention of angina pectoris due to coronary artery
+               disease.  Recall #D-329-3.
+CODE           V2593, exp. 12/95; V2905, exp. 2/95; V2707 exp. 1/96.
+MANUFACTURER   KV Pharmaceutical Company, St. Louis, Missouri.
+RECALLED BY    Ethex Corporation, St. Louis, Missouri, by letter August 19,
+               1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       927 cases/12 bottles per case/60 capsule bottles; 550 
+               cases/12 bottles per case/100 capsule bottles were 
+               distributed.  
+REASON         Lack of adequate assurance of potency through expiration
+               date and process validation.
+
+
+_______________
+PRODUCT        Colchicine Tablets USP 0.6 mg, in 100, 250 and 1000 tablets
+               per bottle, used for the treatment of gout.  Recall
+               #D-331-3.
+CODE           Lot numbers:  2047-802, exp. date 8/93; 2047-806, exp. date
+               8/93; 2047-807, exp. date 9/93; 2047-808, exp. date 9/93;
+               2047-809, exp. date 10/93; 2047-810, exp. date 10/93; 2047-
+               811, exp. date 11/93; 2047-812, exp. date 12/93; 2047-813
+               exp. date 11/93; 2047-814, exp. date 12/93.
+MANUFACTURER   Zenith Laboratories Caribe, Inc., Cidra, Puerto Rico.
+RECALLED BY    Manufacturer by letter August 16, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       11,155,219 tablets were distributed.
+REASON         Potency not assured through expiration date.
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS  --  CLASS III 
+====================
+
+_______________
+PRODUCT        Triamcinolone Acetonide 0.05% in Absorbase, in 1 pound
+               plastic jars.  Recall #D-330-3.
+CODE           All lots.
+MANUFACTURER   Carolina Medical Products Co., Farmville, North Carolina.
+RECALLED BY    Manufacturer by letter August 25, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   North Carolina.
+QUANTITY       Firm estimates 300/1 pound jars remain on market.
+REASON         Product marketed without ANDA approval.
+
+                                    -5-
+
+
+
+
+_______________
+PRODUCT        Epi Pen, 0.3 mg. Epinephrine Auto-Injector, an Rx drug used
+               for allergic emergencies (anaphylaxis).  Recall #D-332-3.
+CODE           1SX032 Exp. OCT 93.
+MANUFACTURER   Survival Technology, Inc., St. Louis, Missouri.
+RECALLED BY    Survival Technology, Inc., St. Louis, Missouri, Center
+               Laboratories/Division of EM Pharmaceuticals, Inc., Port
+               Washington, New York, by letter July 12, 1993.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide, Canada.
+QUANTITY       9,754 units were distributed.
+REASON         Marginally subpotent.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS  --  CLASS II
+==================
+
+_______________
+PRODUCT        "Blood Bank Donor" Computer Software Module.
+               Recall #B-184-3.
+CODE           Versions 302 and 303.
+MANUFACTURER   Cerner Corporation, Kansas City, Missouri.
+RECALLED BY    Manufacturer by letter June 29, 1990.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       Nine blood banks using version 302 and sixteen blood banks
+               using version 303 were distributed.
+REASON         Computer software, containing a design defect that 
+               could result in the assignment of incorrect ABO and Rh 
+               groups, was distributed.
+
+
+_______________
+PRODUCT        Recovered Plasma, Recall #B-359-3
+CODE           Units numbers: A21838, A22033, A22066, A22135, A22137, 
+               A22155, A22184, A22207, A22234, A22245, A22309, A22346, 
+               A22371, A30030, A30059, A300068, A30087, A30101, A30111,
+               A30114, A30159, A30183, A30184, A30195.
+MANUFACTURER   Southern California Permanente Medical Group/dba Kaiser
+               Foundation Blood Donor Center, San Diego, California.
+RECALLED BY    Manufacturer by telephone March 11, 1993 and by letter March
+               17, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Florida, California.
+QUANTITY       24 units were distributed.
+REASON         Recovered Plasma, collected from autologous donors who did
+               not meet the following suitability requirements for
+               allogeneic use was distributed or: 1) reported histories of
+               hepatitis or jaundice; 2) exhibited signs or symptoms of
+               AIDS; 3) reported recent tattoos, ear piercing or
+               acupuncture treatment; 4) reported receiving an allogeneic
+               transfusion within the twelve months prior to donating; 5)
+               reported a history of cancer; 6) reported current use of
+               medications. 
+                                    -6-
+
+_______________
+PRODUCT        Red Blood Cells, Recall #B-393-3.
+CODE           Unit number 3274952.
+MANUFACTURER   Michigan Community Blood Center, Saginaw, Michigan.
+RECALLED BY    Manufacturer by telephone and letter August 23, 1991 with
+               follow-up letter.  Firm-initiated recall complete.
+DISTRIBUTION   Michigan.
+QUANTITY       1 unit was distributed.
+REASON         Blood product collected from an ineligible donor, previously
+               deferred for ear piercing by a non-sterile method, was
+               distributed.
+
+_______________
+PRODUCT        Recovered Plasma, Recall #B-395-3.
+CODE           Unit number 12FC56373.
+MANUFACTURER   American Red Cross Blood Services, Charlotte, North
+               Carolina.
+RECALLED BY    Manufacturer by facsimile April 1, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   California.
+QUANTITY       1 unit was distributed.
+REASON         Blood product, collected from a donor who provided a history
+               of treatment for gonorrhea in the previous twelve months,
+               was distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells, (b) Fresh Frozen Plasma, (c) Recovered
+               Plasma.  Recall #B-417/419-3.
+CODE           Unit numbers: (a) 0244829; (b) 0244829; (c) 0246920.
+MANUFACTURER   Inland Northwest Blood Center, Spokane, Washington.
+RECALLED BY    Manufacturer by letters March 31 and April 4, 1993.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Washington state, Idaho, Missouri.
+QUANTITY       3 units were distributed.
+REASON         Blood products, collected from a donor who provided a
+               history of self-injected drug use, were distributed.
+
+_______________
+PRODUCT        Red Blood Cells, Washed.  Recall #B-423-3.
+CODE           Unit numbers:  25FG15052, 25V28342.
+MANUFACTURER   American Red Cross Blood Services, Syracuse, New York.
+RECALLED BY    Manufacturer by telephone November 30, 1992, with follow-up
+               letter dated December 3, 1992.  Firm-initiated recall
+               complete.
+DISTRIBUTION   New York.
+QUANTITY       2 units were distributed.
+REASON         Blood products, labeled with incorrect expiration dates,
+               were distributed.
+
+                                    -7-
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS  -- CLASS III
+==================
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-360-3
+CODE           Unit numbers:  A21987, A22019, A22187, A22224, A22269,
+               A22272, A22277, A22340.
+MANUFACTURER   Southern California Permanente Medical Group/dba Kaiser
+               Foundation Blood Donor Center, San Diego, California.
+RECALLED BY    Manufacturer by telephone March 11, 1993, and letter March
+               17, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Florida, California.
+QUANTITY       8 units were distributed.
+REASON         Recovered Plasma, collected from autologous donors who did
+               not meet the following suitability requirements for
+               allogeneic use were distributed: 1) reported histories of
+               hepatitis or jaundice; 2) exhibited signs or symptoms of
+               AIDS; 3) reported recent tattoos, ear piercing or
+               acupuncture treatment; 4) reported receiving an allogeneic
+               transfusion within the twelve months prior to donating; 5)
+               reported a history of cancer; or 6) reported current use of
+               medications.
+
+
+_______________
+PRODUCT        Dry Cryoprecipitated AHF.  Recall #B-420-3.
+CODE           Unit numbers:  36M26282, 36M26293, 36M26304, 36M26307,
+               36M26319.
+MANUFACTURER   American Red Cross Blood Services, Columbia, South Carolina.
+RECALLED BY    Manufacturer by telephone February 23, 1993, with follow-up
+               letter March 11, 1993.
+DISTRIBUTION   Georgia.
+QUANTITY       5 units were distributed.
+REASON         Unlicensed blood products were distributed in interstate
+               commerce.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES  --  CLASS II
+====================
+
+_______________
+PRODUCT        Wound Clip Applicator for Endoscopic Surgical Use, used to 
+               staple wounds after surgery.  Recall #Z-637-3.
+CODE           None.
+MANUFACTURER   Olympus Optical Company, Ltd., Tokyo, Japan.
+RECALLED BY    Olympus Corporation, Lake Success, New York, by telephone 
+               March 5, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY       Firm estimates none remain on market.
+REASON         The metal ring in the device was manufactured backwards and
+               the clip does not release in surgery.
+
+                                    -8-
+
+_______________
+PRODUCT        (a) Angled dissecting forceps (10 millimeter/unipolar) Cat.
+               #A5630 and (b) Coagulating dissecting forceps (05
+               millimeter/unipolar) Cat. #A5638.  Recall #Z-638-3.
+CODE           Model #'s C0030 and C0038.
+MANUFACTURER   Cuda, Jacksonville, Florida.
+RECALLED BY    Olympus Corporation, Lake Success, New York by letter
+               January 15, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 705 units, (b) 1,385 units.
+REASON         The handle portion of the product has inadequate insulation
+               to prevent electrical current leakage to the clinician when
+               performing electrosurgical procedures at a high power
+               setting.
+
+
+_______________
+PRODUCT        (a) Model GF-UM20 Endoscope, Ultrasound; (b) Model JF-UM20
+               Endoscope, Ultrasound; (c) Model CF-UM20 Endoscope,
+               Ultrasound.  Recall #Z-674/676-3.
+CODE           All lots.
+MANUFACTURER   Olympus Optical Company, Ltd., Tokyo, Japan.
+RECALLED BY    Olympus Corporation, Lake Success, New York, by letter
+               November 3, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       26 units were distributed.
+REASON         The internal o-ring could lose its ability to seal properly
+               causing the balloon to inflate with water.
+
+
+_______________
+PRODUCT        USCI Goetz Bipolar Electrode, 6 F, 125 CM, used to transmit
+               stimulus from the pulse generator to the heart and/or a
+               packing electrical signal from the heart to a recording
+               device.  Recall #Z-695-3.
+CODE           Lot number 07DC0649.
+MANUFACTURER   USCI Division C.R. Bard, Inc., Glens Falls, New York.
+RECALLED BY    USCI Division C.R. Bard, Inc., Billerica, Massachusetts by
+               telephone with follow-up letter dated January 5, 1993. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   California, Colorado, Georgia, Louisiana, Minnesota, New
+               York, Illinois, Texas, Florida, Pennsylvania, Virginia.
+QUANTITY       130 units were distributed.
+REASON         A single lot of Goetz Bipolar Electrode was mislabeled as
+               USCI NBIH Bipolar Electrodes, Item no. 007157, Lot 07DC0645,
+               on the inner pouch that protects each electrode.  However,
+               the outer box that contains five individually pouched
+               electrodes was correctly labeled as USCI Goetz Bipolar
+               Electrodes.
+
+                                    -9-
+                                   ####

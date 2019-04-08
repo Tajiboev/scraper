@@ -1,0 +1,553 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Nov
+		  AUG
+		  Dec
+		
+		
+		
+		  
+		  15
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      37 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dm
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+09/01/1993
+
+Recalls and Field Corrections:  Foods -- Class I -- 09/01/1993
+
+SEPTEMBER 1, 1993                                          93-35 
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+=========================
+
+_______________
+PRODUCT        Soyagen, Soy Beverage Powders: (a) Soyagen, All Purpose in 3.5
+               pound cans and 14 ounce cans (b) Soyagen, No Sucrose in 3.5
+               pound cans and 14 ounce cans (c) Soyagen Carob Flavor in 3.5
+               pound cans and 14 ounce cans.  Products spray dried and/or
+               packaged since November 4, 1992. Recall #F-496/498-3.
+CODE           All products with day codes of 2338 or larger.
+MANUFACTURER   Maple Island, Inc., Wanamingo, Minnesota (spray/dried).
+RECALLED BY    Worthington Foods, Inc., Worthington, Ohio, by  letter June
+               30, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Martinique, Guyana, French West Indies, Virgin
+               Islands, Canada, Antilles, Bermuda.
+QUANTITY       (a) 6,677, (b) 5,688, (c) 4,339 cases were distributed.
+REASON         The products were manufactured under conditions in which they
+               may have become contaminated by Salmonella.
+
+
+_______________
+PRODUCT        La Choy Beef Pepper Oriental BI-PACK- Dinner, consisting of a
+               14 ounce can of beef gravy, 42 ounce can of oriental vegetable
+               mix and seasonings. Recall #F-614-3.
+CODE           Embossed on top of cans: 33R01, 34604 (bi-pak); 347Y1, 347Y2
+               vegetable mix can codes (not readily visible).
+MANUFACTURER   La Choy/Rosarita Foods Company, Archbold, Ohio.
+RECALLED BY    Hunt-Wesson, Inc., Fullerton, California, by letter May 7,
+               1993.  Firm-initiated recall complete.
+DISTRIBUTION   Illinois, Indiana, Missouri, Ohio, Texas, Wisconsin.
+QUANTITY       303 cases were distributed.
+REASON         The product has the potential to support the growth of
+               Clostridium botulinum toxin.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+========================
+
+________________
+PRODUCT        Various flavors of popcorn packaged in 3.5 ounce and 4 ounce
+               poly bags:  (a) Caramel Flavored Popcorn;
+               (b) Low-Cal Caramel Flavored Popcorn;
+               (c) Vanilla Flavored Popcorn;
+               (d) Low-Cal Vanilla Flavored Popcorn;
+               (e) Red-Cinnamon Flavored Popcorn;
+               (f) Low-Cal Cinnamon Flavored Popcorn;
+               (g) Rainbow Flavored Popcorn;
+               (h) Buttered Rum Flavored Popcorn;
+               (i) Amaretto Flavored Popcorn;
+               (j) Pina Colada Flavored Popcorn;
+               (k) Butterscotch Flavored Popcorn;
+               (l) Toffee Flavored Popcorn;
+               (m) Maple Flavored Popcorn.  Recall #F-590/602-3.
+CODE           All lots.
+MANUFACTURER   Twin Valley Developmental Services, Inc., Greenleaf, Kansas.
+RECALLED BY    Manufacturer, by letter dated May 3, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Kansas, Michigan, Wisconsin, South Dakota.
+QUANTITY       Approximately 1,600 bags of popcorn were distributed.
+REASON         Products contain undeclared FD&C; Yellow No. 5.
+
+                                    -2-
+_______________
+PRODUCT        Bison Astro Lowfat Yogurt, in 4.4 ounce plastic cups:
+               (a) Mixed Berry Crunch; (b) Pecan Toffee Crunch;
+               (c) Apple Crisp Granola; (d) Oat Bran Raisin Granola.
+               Recall #F-603/606-3.
+CODE           All code dates up to and including JUL 93.
+MANUFACTURER   Imperial Flavors, Inc., Ontario, Canada (supplier of bulk
+               crunch and granola).
+RECALLED BY    Bison Foods Company, Division Upstate Milk Cooperatives, Inc.,
+               Buffalo, New York, by telephone and letter June 10 and 11,
+               1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   New York, New Jersey, Pennsylvania, Connecticut, Maryland,
+               Virginia, Vermont, Rhode Island, Michigan, Washington, D.C.
+QUANTITY       (a) 7,283 cases; (b) 5,773 cases; (c) 9,944 cases; (d) 8,373
+               cases were distributed; firm estimates 50 percent of product
+               remains on the market.
+REASON         Products contain undeclared FD&C; Yellow No. 5.
+
+_______________
+PRODUCT        Bison Astro Chocolate Fudge Crunch Lowfat Yogurt, in 4.4 ounce
+               plastic cups.  Recall #F-607-3.
+CODE           All codes up to and including AUG 8.
+MANUFACTURER   Imperial Flavors, Inc., Ontario, Canada (supplier of bulk
+               crunch and granola).
+RECALLED BY    Bison Foods Company, Division Upstate Milk Cooperatives, Inc.,
+               Buffalo, New York, by telephone and letter June 10 and 11,
+               1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   New York, New Jersey, Pennsylvania, Connecticut, Maryland,
+               Virginia, Vermont, Rhode Island, Michigan, Washington, D.C.
+QUANTITY       5,210 cases were distributed; firm estimates 20 percent of
+               product remains on the market.
+REASON         Product contains undeclared FD&C; Red #2, Red #40, and Blue #1.
+
+_______________
+PRODUCT        Bison Astro Peanut Butter Crunch Lowfat Yogurt, in 4.4 ounce
+               plastic cups.  Recall #F-608-3.
+CODE           All codes up to and including AUG 8.
+MANUFACTURER   Imperial Flavors, Inc., Ontario, Canada (supplier of bulk
+               crunch and granola).
+RECALLED BY    Bison Foods Company, Division Upstate Milk Cooperatives, Inc.,
+               Buffalo, New York, by telephone and letter June 10 and 11,
+               1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   New York, New Jersey, Pennsylvania, Connecticut, Maryland,
+               Virginia, Vermont, Rhode Island, Michigan, Washington, D.C.
+QUANTITY       4,680 cases were distributed; firm estimates 20 percent
+               remains on the market.
+REASON         Product contains undeclared FD&C; Yellow No. 5 and Red No. 40.
+
+                                    -3-
+_______________
+PRODUCT        Immusyn-C and NCHF Nu Cell Herbal Formula, 100 capsules per
+               bottle. Recall #F-611-3.
+CODE           None.
+MANUFACTURER   Olan Laboratories Inc./Prominance S.A., Brentwood, New York.
+RECALLED BY    Manufacturer by letter June 28, 1993.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide, Mexico.
+QUANTITY       224,430 capsules were distributed.
+REASON         Product contains calamus root, substance prohibited from use
+               in human food.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+=======================
+_______________
+PRODUCT        Canned Tomato Puree, in 28 ounce cans.
+               Recall #F-575-3.
+
+CODE           _____4 over TPCX (2 lines).
+MANUFACTURER   Rokeach Food Corporation, Newark, New Jersey.
+RECALLED BY    Manufacturer by telephone April 1, 1993, and letter April 19,
+               1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   New Jersey, New York, Pennsylvania, Florida, Massachusetts,
+               Rhode Island, Vermont, Maine.
+QUANTITY       6,742 cases were distributed.  Firm estimates 2,000 to 2,500
+               remain on market.
+REASON         Product is contained in swollen cans.
+
+
+_______________
+PRODUCT        Homestead Natural Mountain Spring Water, in 50.7 fluid ounce
+               plastic bottles.  Recall #F-576-3.
+CODE           "001BS50713______"series lot number (the last five digits vary
+               with production line and time of production).
+MANUFACTURER   A. Smith Bowman Distillery, Fredericksburg, Virginia.
+RECALLED BY    Bath Springs Water, Inc., Arlington, Virginia, by letter on or
+               about July 6, 1993.  Firm initiated recall ongoing.
+DISTRIBUTION   Virginia, Maryland, North Carolina, South Carolinia, Florida,
+               Tennessee, Texas.
+QUANTITY       2,095 cases; (12/1.5L bottles per case) were distributed.
+REASON         Product is contaminated with mold.
+
+                                    -4-
+______________ 
+PRODUCT        Smokey Phil's Salmon Jerky, individually vacuum packed, 18
+               pieces/container.  Recall #F-585-3.
+CODE           None.
+MANUFACTURER   Smokey Phil's Specialty Foods, Malad City, Idaho.
+RECALLED BY    Manufacturer by visit July 13, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Utah.
+QUANTITY       Approximately 22 containers were distributed.
+REASON         Product is contaminated with surface mold.
+
+
+_______________
+PRODUCT        Premium Blue Lake Cut Green Beans in 16 ounce metal cans. 
+               Recall #F-586-3.
+CODE           613 M/4K21 embossed into can end.
+MANUFACTURER   American Fine Foods Inc., Milton Freewater, Oregon.
+RECALLED BY    American Fine Foods Inc., Payette, Idaho, by memorandum June
+               17, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Washington state, California.
+QUANTITY       429 cases were distributed.
+REASON         Product is contained in swollen containers
+
+
+_______________
+PRODUCT        Brick House Spring Water All-Natural in 1 gallon containers.
+               Recall #F-587-3.
+CODE           020895.
+MANUFACTURER   Brick House Farm Water Company, Ellicott City, Maryland.
+RECALLED BY    Manufacturer by owner on or about May 14, 1993.  Firm-
+               initiated recall ongoing. 
+DISTRIBUTION   Maryland, Virginia.
+QUANITY        7,140\1 gallon containers manufactured; 3,660 distributed;
+               3,480 remain on market.
+REASON         Product has an off-odor.
+
+
+_______________
+PRODUCT        (a) QF Brand Tail Off Breaded Shrimp in 8 ounce basket; (b) QF
+               & Gulf Mex Brands Tail On Breaded Shrimp in 8 ounce basket.
+               Recall #F-588/589-3.
+CODE           (a) x0203, x0773, x0953, x1053, (b) X0953 where x is a
+               valuable number, 1-4, representing packaging shift.
+MANUFACTURER   QF Inc., Bayou La Batre, Alabama.
+RECALLED BY    Manufacturer by telephone June 23, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   California, Utah, Wisconsin.
+QUANTITY       (a) 675 cases; (b) 229 cases were distributed.
+REASON         Product is overbreaded.
+
+                                    -5-
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+========================
+
+_______________
+PRODUCT        Hydrochlorothiazide tablets, 25 mg, bottles of 100, an oral Rx
+               diuretic tablet.  Recall #D-326-3.
+CODE           Lot numbers 2089-401, exp. date 1/95.
+MANUFACTURER   Zenith Laboratories, Inc., Northvale, New Jersey.
+RECALLED BY    Manufacturer by phone on or about March 25, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Connecticut.
+QUANTITY       144 bottles were distributed.
+REASON         Bottles of 50 mg tablets were mislabeled as 25 mg.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+
+_______________
+PRODUCT        Amberline brand Orphedral AD Tablets, an OTC decongestant 
+               product.  Recall #D-323-3.
+CODE           Lot #023038, exp. date 7/95.
+MANUFACTURER   Contract Pharmacal, Hauppauge, New York.
+RECALLED BY    Moore Medical Corporation, New Britain, Connecticut, by letter
+               August 13, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Puerto Rico.
+QUANTITY       1,871 packages/24 tablets were distributed.
+REASON         Product bears incorrect expiration date of 7/95 instead of
+               8/94.
+
+
+_______________
+PRODUCT        Quinine Sulfate Capsules, USP 325 mg, in bottles of 1,000, an
+               OTC drug used in the treatment of malaria.  Recall #D-324-3.
+CODE           Lot #2H005 EXP 12/94.
+MANUFACTURER   EON Labs Manufacturing, Inc., Laurelton, New York.
+RECALLED BY    Manufacturer, by telephone and by letter August 9, 1993. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   New York, New Jersy, Florida.
+QUANTITY       47 bottles were distributed.
+REASON         Capsules imprinted with old logo "PP" were labeled with new
+               label declaring new logo "E".
+
+______________
+PRODUCT        Piercing Pagoda's Ear Care Antiseptic Solution in 4 fluid
+               ounce plastic bottles.  Recall #D-325-3.
+
+                                    -6-
+CODE           Lot numbers: 030493, 030393, 030293, 390140, 399040, 398040,
+               397040, 396040, 390150, 399050, 398050, 397050, 396050,
+               396160, 398060, 399060, 390160, 391160, 391070, 392070,
+               393070, 394070, 395070, 390180, 399080, 398080, 397080,
+               396080.
+MANUFACTURER   EMS Contract Packaging, Fort Washington, Pennsylvania.
+RECALLED BY    Piercing Pagoda, Bethlehem, Pennsylvania, by letter August 16,
+               1993.  Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       169,359 units were distributed.
+REASON         Label lacks an ingredient statement.
+
+_______________
+PRODUCT        (a) PSOR-A-SET Lotion, an OTC product, in 4 ounce and 8 ounce
+               bottles,
+               (b) PSOR-A-SET Soap Bars in 3.25 oz. bars, used for relief of
+               psoriasis of the skin.  Recall #D-327/328-3.
+CODE           (a) Lot #'s E169 exp. date 3/91; 170 exp. date 3/91; E171 exp.
+               date 3/91; E172 exp. date 3/91; E173 exp. date 3/91; E197 exp.
+               3/91; E578 exp. date 6/91; F046 exp. date 11/91; F047 exp.
+               11/91; F048 exp. date 11/91; F108 exp. date 11/91, (b) 3079
+               (no exp. date).  
+MANUFACTURER   Topiderm Inc., Bohemia, New York.
+RECALLED BY    Tosti-Life Inc., Bohemia, New York, by letter July 7, 1993. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   New York.
+QUANTITY       (a) 10,000 bottles, (b) 15,000 bars were distributed.
+REASON         (a) Expiration date extended two additional years without
+               stability data; (b) Product lacks stability testing.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II 
+====================
+
+_______________
+PRODUCT        (a) Human Serum, Pooled; (b) Recovered Plasma, Pooled, Recall
+               #B-387/388-3
+CODE:          Pool numbers:  (a)85RB0412-1, 85RB1115-1, 85RB1118-1,
+               85RB1612-1, 85RB1811-2, 85RB2312-1, 86RB0112-1, 86RB0205-1,
+               86RB0206-1, 86RB0209-1, 86RB0302-1, 86RB0307-1, 86RB0409-1,
+               86RB0505-1, 86RB0512-1, 86RB0606-1, 86RB0610-1, 86RB0704-1,
+               86RB0704-2, 86RB0707-2, 86RB0901-1, 86RB0906-1, 86RB1306-1,
+               86RB1403-1, 86RB1411-1, 86RB1505-1, 86RB1509-1, 86RB1512-1,
+               86RB1601-1, 86RB1804-1, 86RB1807-1, 86RB1902-1, 86RB1905-1,
+               86RB1909-1, 86RB1911-1, 86RB2003-1, 86RB2006-1, 86RB2008-1,
+               86RB2011-1, 86RB2108-1, 86RB2209-1, 86RB2210-1, 86RB2212-1,
+               86RB2307-1, 86RB2401-1, 86RB2410-1, 86RB2411-1, 86RB2504-1,
+               86RB2506-1, 86RB2508-1, 86RB2509-1, 86RB2511-1, 86RB2605-1,
+               86RB2609-1, 86RB2701-1, 86RB2705-1, 86RB2706-1, 86RB2802-1,
+               86RB2807-1, 86RB2808-1, 86RB2810-1, 86RB2901-1, 86RB3004-1,
+               86RB3103-2, 86RB3112-1, 87RB0202-1, 87RB0303-1, 87RB0312-1, 
+                                    -7-               87RB0406-1, 87RB0409-1, 87RB0506-1, 87RB0510-1, 87RB0510-2,
+               87RB0607-1, 87RB0608-1, 87RB0801-1, 87RB0804-1, 87RB0910-1,
+               87RB1008-1, 87RB1108-1, 87RB1303-1, 87RB1304-1, 87RB1405-1,
+               87RB1509-1, 87RB1601-1, 87RB1602-1, 87RB1603-1, 87RB1604-1,
+               87RB1607-1, 87RB1610-2, 87RB1611-1, 87RB1702-1, 87RB1805-1,
+               87RB1809-1, 87RB1809-2, 87RB1812-1, 87RB1902-1, 87RB1903-1,
+               87RB1906-1, 87RB2109-1, 87RB2112-1, 87RB2112-2, 87RB2307-1,
+               87RB2310-1, 87RB2407-2, 87RB2601-1, 87RB2605-1, 87RB2608-1,
+               87RB2703-1, 87RB2704-1, 87RB2801-1, 87RB2805-1, 87RB3003-1,
+               87RB3007-1, 87RB3009-1, 87RB3011-2, 87RB3103-1, 87RB3108-2,
+               88RB0107-1, 88RB0402-1, 88RB0410-1, 88RB0411-1, 88RB0512-1,
+               88RB0707-1, 88RB0711-1, 88RB0804-1, 88RB0909-1, 88RB1006-1,
+               88RB1011-1, 88RB1102-1, 88RB1108-1, 88RB1111-1, 88RB1212-1,
+               88RB1410-1, 88RB1504-1, 88RB1509-1, 88RB1802-1, 88RB1804-2,
+               88RB1805-1, 88RB1807-1, 88RB2203-1, 88RB2312-1, 88RB2406-1,
+               88RB2504-1, 88RB2507-1, 88RB2510-1, 88RB2610-1, 88RB2705-1,
+               88RB2706-1, 88RB2801-1, 88RB2901-1, 88RB2908-1, 88RB3005-1, 
+               89RB0211-1, 89RB0301-1, 89RB0311-1, 89RB0501-1, 89RB0607-1,
+               89RB0704-1, 89RB0711-1, 89RB0805-1, 89RB1007-1, 89RB1105-1,
+               89RB1108-1, 89RB1201-1, 89RB1301-1, 89RB1408-1, 89RB1502-1,
+               89RB1603-1, 89RB1706-1, 89RB1711-1, 89RB2206-2, 89RB2212-1,
+               89RB2403-1, 89RB2610-1, 89RB2702-1, 89RB2702-2, 89RB2907-1,
+               89RB2804-1, 89RB2909-1, 89RB3011-1, 89RB3012-1, 90RB0106-1,
+               90RB0211-1, 90RB03013, 90RB03014 ,  90RB3017, 90RB03022,
+               90RB0901-1, 90RB0906-1, 90RB1011-1, 90RB1101-2, 90RB1110-1,
+               90RB1201-1, 90RB1210-1, 90RB1307-1, 90RB1407-1, 90RB1510-1,
+               90RB1709-1, 90RB1808-1, 90RB1906-1, 90RB1910-1, 90RB2009-1,
+               90RB2308-1, 90RB2806-1, 90RB2901-1, 90RB3105-1, 91RB03002,
+               91RB03011, 91RB03021, 91RB03024, 91RB03025, 
+               91RB03031, 91RB03047, 91RB03048, 91RB03061, 91RB03068,
+               91RB03077, 91RB03079, 91RB03083, 91RB03086, 91RB03091,
+               91RB03097, 91RB03099, 91RB03111, 91RB03115, 91RB03120,
+               91RB03130, 91RB03146, 91RB03148, 91RB03157, 91RB03159,
+               91RB03162, 91RB03163, 91RB03179, 91RB03184, 91RB03185,
+               92RB3002, 92RB3007, 92RB3010, 92RB3026, 92RB3068, 92RB3085,
+               92RB3086, 92RB3413, 92RB3432, 92RB3449, 92RB3450, 92RB3469,
+               92RB3475, 92RB3499, 92RB3519, 92RB3520, 92RB3537, 92RB3540
+               (b) Recovered Plasma, Pooled numbers:  89RB0805-1, 89RB1105-1,
+               90RB0612-1, 90RB1012-1, 90RB1312-1, 90RB1709-1, 90RB1909-1,
+               90RB2008-1, 90RB2408-1, 90RB2412-1, 90RB3108-1, 91RB0501-1.
+MANUFACTURER   American Red Cross Blood Services, Buffalo, New York.
+RECALLED BY    Manufacturer, by letter May 18, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Massachusetts.
+QUANTITY       (a) 255 units; (b) 12 units were distributed.
+REASON         Pooled blood products, which contained one or more units that
+               tested negative for the antibody to the human immunodeficiency
+               virus type 1 (anti-HIV-1), but were collected from donors who
+               previously tested repeatedly reactive for anti-HIV-1, were
+               distributed.
+                                    -8-
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-390-3.
+CODE           Unit #15039-2643.
+MANUFACTURER   United Blood Services, Lubbock, Texas.
+RECALLED BY    Manufacturer, by visit July 10, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Texas.
+QUANTITY       One unit was distributed.
+REASON         Product which tested negative for antibody to human
+               immunodeficiency virus type I (anti-HIV-I) but was collected
+               from a donor who previously tested repeatedly reactive for
+               anti-HIV-I, was distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        Source Plasma.  Recall #B-378-3.
+CODE           Unit #R61148.
+MANUFACTURER   Walter L. Shepeard Community Blood Center, Augusta, Georgia.
+RECALLED BY    Manufacturer, by letter April 1, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Massachusetts.
+QUANTITY       1 unit.
+REASON         An unlicensed blood product, which was improperly labelled,
+               was distributed in interstate commerce.
+
+
+_______________
+PRODUCT        (a) Whole Blood; (b) Red Blood Cells; (c) Recovered Plasma,
+               Recall #B-379/381-3.
+CODE           (a) TP0603759; (b) MI0006213, LC01436, LC01754, NP0500948,
+               OR0704766, (c) LC00120, MI0004171, MI0004227.
+MANUFACTURER   Personal Blood Storage of America (LC Prefix), Charlotte,
+               North Carolina; Personal Blood Storage of Miami (MI), Miami,
+               Florida; Personal Blood Storage of America (NP), Columbia,
+               South Carolina; Personal Blood Storage of Orlando, Inc. (OR),
+               Orlando, Florida; Personal Blood Storage of Orlando, (TP)
+               Tampa, Florida.
+RECALLED BY    Personal Blood Storage of Memphis, Inc., Memphis, Tennessee,
+               by telephone April 7, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   South Carolina, North Carolina, Florida.
+QUANTITY       (a) 1 unit; (b) 5 units; (c) 3 units were distributed.
+REASON         Blood products, which were improperly tested for the antibody
+               to Hepatitis B Core antigen (anti-HBc), antibody to Hepatitis
+               C Virus (anti-HCV), and antibody to the Human T-Lymphotropic
+               Virus Type I (anti-HTLV-I) were distributed.
+
+                                    -9-_______________
+PRODUCT        Red Blood Cells.  Recall #B-389-3
+CODE           Unit #LM38085, LM38607, LM38739, LM38754.
+MANUFACTURER   San Diego Blood Bank, San Diego, California.
+RECALLED BY    Manufacturer by letter April 26, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   California.
+QUANTITY       4 units were distributed.
+REASON         Blood products collected in Anticoagulant Citrate Phosphate
+               Dextrose Adenine Solution (CPDA-1) bags that exceeded their
+               expiration date were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+
+_______________
+PRODUCT        S & W Model 9215 Arrhythmia Plug-in Modules, Recall
+               #Z-725-3.
+CODE           Serial numbers: 10283963, 10295762, 10298116, 10298117,
+               10299985, 10299992.
+MANUFACTURER   S & W Medico Teknik A/S, Denmark.
+RECALLED BY    Narco Medical Services, Inc., Minneapolis, Minnesota, by
+               telephone June 21, 1993.  Firm-initiated recall ongoing.
+DISTRIBITION   Missouri.
+QUANTITY       12 units were distributed.
+REASON         The ventricular fibrillation could go undetected if there is
+               AvR lead configuration on channel I of the device; normal ECG
+               rhythms greater than 160 beats/minute resulted in false
+               positive detection of ventribular fibrillation; and,
+               instability of the heart rate display in certain circumstances
+               of high heart rate (between 220 and 300 beats/minute which
+               resulted in a VFIB alarm.
+
+
+                                   -10-
+                                   ####

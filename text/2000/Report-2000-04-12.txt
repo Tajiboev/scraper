@@ -1,0 +1,731 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Dec
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  21
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      36 captures
+	      10 May 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+
+ April 12, 2000                                    00-15 
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+________
+PRODUCT
+Regal Sandwich Double Cheeseburger, 6.5 ounces.  
+Recall #F-247-0.
+CODE
+All codes on market at time of recall initiation.
+MANUFACTURER
+Regal Food Service, Inc., Houston, Texas.
+RECALLED BY
+Manufacturer, by letters dated February 7, 14, 28, 2000, and undated letter distributed March 3, 2000. See 
+also FDA press release P00-4, March 4, 2000. Firm-initiated recall complete.
+DISTRIBUTION
+Louisiana, Arkansas, Mississippi, Alabama, Florida, Texas.
+QUANTITY
+Approximately 4,000-10,000 (a 1 to 2-1/2 and half weeks supply in the stores) remained on market at time of 
+recall initiation.
+REASON
+Product may be contaminated with Listeria monocytogenes.
+
+
+________
+PRODUCT
+Cold Smoked Salmon Pieces, 2-3 pounds each, in unlabeled plastic bags.  Recall #F-248-0.
+CODE
+None.
+MANUFACTURER
+Scandinavian Smoke House, Inc., San Francisco, California.
+RECALLED BY
+Manufacturer, by telephone and fax on January 20, 2000.  Firm-initiated recall complete.
+DISTRIBUTION
+California.
+QUANTITY
+57 pounds were distributed.
+REASON
+Product was contaminated with Listeria monocytogenes.
+
+________
+PRODUCT
+Stop & Shop brand Vegetarian Vegetable Condensed Soup, in 10.75 ounce cans.  Recall #F-276-0.
+CODE
+All codes on the market at time of recall initiation.
+MANUFACTURER
+Freddy's Products/Les Produits Freddy, St. Hyaconthe, Quebec, Canada.
+RECALLED BY
+Manufacturer, by press release and E-mail on March 3, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Massachusetts, Connecticut, New York, Rhode Island.
+QUANTITY
+292 cases (24 cans per case) were distributed.
+REASON
+Product contains undeclared eggs.
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+________
+PRODUCT
+Greenwood brand Sweet & Tangy Sliced Pickled Beets, in 
+16-ounce glass jars.  Recall #F-232-0.
+CODE
+Top Line: 9AH01 00:00 (4 zeros indicate the military time)
+Bottom Line: M2KP6.
+MANUFACTURER
+Seneca Foods Corporation, Leicester, New York.
+RECALLED BY
+Agrilink Foods, Inc., Rochester, New York, by letter on or about March 16, 2000, and by press release on 
+March 15, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Connecticut, Florida, Georgia, Maine, Maryland, New Jersey, North Carolina, Pennsylvania.
+QUANTITY
+3,444 cases (12 jars per case) were distributed.
+REASON
+Product may contain pieces of glass.
+
+________
+PRODUCT
+Barbaris Drink packaged in 1.5-liter rigid plastic bottles.  Product of Ukraine.  F-234-0.
+CODE
+None.
+MANUFACTURER
+Morozna Str., Firm "Anna'G", Lviv, Ukraine.
+RECALLED BY
+Star of Western Distributors Inc., Brooklyn, New York, by visit and telephone on April 21, 1999.  Completed 
+recall resulted from sample analysis and follow-up by the New York State Department of Agriculture and 
+Markets.
+DISTRIBUTION
+New York.
+QUANTITY
+30 cases (6 bottles per case) were distributed.
+REASON
+Product contains the uncertified color additive sunset yellow FCF(certifiable as FD&C; Yellow No. 6) and it 
+contains the unapproved color additive carmoisine.
+
+________
+PRODUCT
+Asian Boy (EBQ) Bai Toey Flakes Com Dep, packaged in 7-ounce flexible clear plastic bag.  Product of 
+Vietnam.
+Recall #F-235-0.
+CODE
+None.
+MANUFACTURER
+M&N; Co. 0.8, Ho Chi Minh City, Vietnam.
+RECALLED BY
+BCN Trading Inc., Brooklyn, New York, by letter on March 11, 1999.  Completed recall resulted from sample 
+analysis and follow-up by the New York State Department of Agriculture and Markets.
+DISTRIBUTION
+Florida, Pennsylvania, New York, New Jersey, Massachusetts, Connecticut, Georgia, Maryland, District of 
+Columbia.
+QUANTITY
+25 cases (50 bags per case) were distributed.
+REASON
+Product contained the uncertified color additive tartrazine (certifiable as FD&C; Yellow No. 5) and it 
+contained an unapproved blue color.
+
+________
+PRODUCT
+LaPlacita, Inc., brand Chile Molido (Spanish for ground Chile, a spice), 
+in 2-ounce plastic bags.
+Recall #F-237-0.
+CODE
+None.
+MANUFACTURER
+La Placita Mexican Products, Brooklyn, New York (Repacker, repacked from 
+bulk product obtained from Mexico).
+RECALLED BY
+Repacker, by visit on June 1, 1999.  Completed recall resulted from 
+sample analysis and follow-up by the New York State Department of 
+Agriculture and Markets.
+DISTRIBUTION
+New York.
+QUANTITY
+40 packages were distributed.
+REASON
+Product contained the unapproved color additive Ponceau 4R and it 
+contains the color sunset yellow FCF (certifiable as FD&C; Yellow No. 6).
+
+________
+PRODUCT
+Haw Cookie, packaged in 5.6-ounce flexible plastic bags.
+Recall #F-238-0.
+CODE
+None.
+MANUFACTURER
+Market Group Corporation, Guang Dong, China.
+RECALLED BY
+YBL World Wide Trading, Inc., Brooklyn, New York, by telephone on March 12, 1999.  Completed recall 
+resulted from sample analysis and follow-up by the New York State Department of Agriculture and Markets.
+DISTRIBUTION
+New York and New Jersey.
+QUANTITY
+28 cases (100 bags per case) were distributed.
+REASON
+Product contained the unapproved color additive Ponceau 4R.
+
+________
+PRODUCT
+Candy Products:
+a) Shneider's Mehadrin Mallows Cubics
+b) Shneider's Mehadrin Mallows Pincky's 
+c) Pinduletas Licorice Dragees.  Recall #F-240/242-0.
+CODE
+a) L0889217-02-99; b) 088912-99; c) Uncoded.
+MANUFACTURER
+Shneiders Sarl Tour Essor, Pantin Cedex, France.
+RECALLED BY
+Paskesz Candy, Inc., Brooklyn, New York, by telephone and visit on March 
+22, 1999.  Completed recall resulted from sample analysis and follow-up 
+by the New York State Department of Agriculture and Markets.
+DISTRIBUTION
+a&b;) New York, New Jersey, Michigan, Connecticut;
+c) Undetermined.
+QUANTITY
+a) 111 cases (44 pounds per case); b) 60 cases (44 pounds per case); c) 5 
+cases (30.8 pounds per case) were distributed.
+REASON
+a) Product contained unapproved colors, Ponceau 4R (E124, Acid Red 18) 
+and Quinoline Yellow (E104).  The product also contained an unidentified 
+blue color.
+b) Product contained the unapproved color Ponceau 4R (E124, Acid Red 18).
+c) Product contained the unapproved colors Ponceau 4R (E124, Acid Red 18) 
+and Quinoline Yellow (E104).  The product also contained an unidentified 
+blue color. 
+
+________
+PRODUCT
+Jelly Candies:
+a) National Bakery brand Jelly Slices packaged in plastic lined cardboard 
+box, net wt. 5 lbs. 
+b) National Bakery brand Jelly Swirls packaged in plastic lined cardboard 
+box, net wt. 5 lbs. 
+c) National Bakery brand Jelly Wedges packaged in plastic lined cardboard 
+box, net wt. 5 lbs. 
+d) National Bakery brand Jelly in Chocolate packaged in plastic lined 
+cardboard box, net wt. 5 lbs. 
+Recall #F-243/246-0.
+CODE
+None.
+MANUFACTURER
+273 Brighton Beach Avenue Restaurant, Inc., doing business as National Bakery, Brooklyn, New York.
+RECALLED BY
+Manufacturer, by letter on April 19, 1999.  Completed recall resulted from sample analysis and follow-up by 
+the New York State Department of Agriculture and Markets.
+DISTRIBUTION
+Undetermined.
+QUANTITY
+Approximately 400 boxes of each product were distributed.
+REASON
+Products contained undeclared FD&C; Yellow No. 5 and FD&C; Red No. 40.
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+________
+PRODUCT
+Trappey's Jalapeno BlackEye Peas Flavored with Slab Bacon, in 15.5-ounce metal cans.  Recall #F-233-0.
+CODE
+92923/CMG2 and 92924/CMG2 (but only those portions of these codes that 
+were shipped to WalMarts)
+MANUFACTURER
+Allen Canning Company, Alma, Arkansas.
+RECALLED BY
+Manufacturer, by letter dated December 14, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Mississippi and Arkansas.
+QUANTITY
+183 cases (4,392 cans) were distributed.
+REASON
+Some cans actually contained cut mustard greens.
+
+________
+PRODUCT
+Keiloong brand Egg Noodle, packaged in 14-ounce plastic bags, Product of China.  Recall #F-236-0.
+CODE
+None.
+MANUFACTURER
+United Noodle Factory, Hong Kong.
+RECALLED BY
+Wicsun Trading, Inc., Brooklyn, New York, by letter on March 18, 1999.  Completed recall resulted from 
+sample analysis and follow-up by the New York State Department of Agriculture and Markets.
+DISTRIBUTION
+New York.
+QUANTITY
+Approximately 165 cases (40 bags per case) were distributed; firm estimates none remains on the market.
+REASON
+Product did not meet the standard of identify for noodles as specified in 21 CFR 139.150 because it did not 
+contain the required amount of egg solids.
+
+________
+PRODUCT
+STR brand Quick Cooking Egg Noodles, packaged in 14-ounce plastic bags.  Recall #F-239-0.
+CODE
+None.
+MANUFACTURER
+Undetermined in China.
+RECALLED BY
+Strong International Trading Corporation, Long Island City, New York, by letter on January 21, 1999.  
+Completed field correction (relabeling) resulted from sample analysis and follow-up by the New York 
+Department of Agriculture and Markets.
+DISTRIBUTION
+New York, Illinois, Florida, Pennsylvania, Connecticut, New Jersey, Massachusetts, Rhode Island.
+QUANTITY
+Undetermined.
+REASON
+Product did not meet the standard of identify for noodles as specified in 21 CFR 139.150 because it did not 
+contain the required amount of egg solids.
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS 
+II
+________
+PRODUCT
+Nasacort(r) AQ, Nasal Spray (Triamcinolone acetonide-16.5 grams), 120 metered acutations, Rx for the 
+treatment of the nasal symptoms of seasonal and perennial allergic rhinitis in adults and children 6 years of 
+age and older.
+NDC #0075-1506-16.  Recall #D-261-0.
+CODE
+Lot #MN3270 EXP 12/00.
+MANUFACTURER
+Rhone Poulenc Rorer, Puerto Rico, Inc., Manati, Puerto Rico.
+RECALLED BY
+Aventis (formerly Rhone Poulenc Rorer), Collegeville, Pennsylvania, by letter dated February 22, 2000.  
+Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and Thailand.
+QUANTITY
+45,900 units were distributed; firm estimates none remains on the market.
+REASON
+Super-potency (stability).
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+________
+PRODUCT
+Isoxsuprine HCL Tablets, 10 mg and 20 mg, USP, in 100 and 1,000 tablet 
+bottles, Rx indicated for the relief of symptoms associated with cerebral 
+vascular insufficiency. under the following labels:
+Eon:   NDC 0185-0530-01 (10 mg, bottles of 100s)
+       NDC 0185-0530-10 (10 mg, bottles of 1000s)
+       NDC 0185-0531-01 (20 mg, bottles of 100s)
+       NDC 0185-0531-10 (20 mg, bottles of 1000s)
+Major: NDC 0904-0635-60 (10 mg, bottles of 100s)
+       NDC 0904-0636-60 (20 mg, tablets of 100s)
+       NDC 0904-0636-80 (20 mg, bottles of 1000s).
+Recall #D-259/260-0.
+CODE
+All lots within expiration date.
+MANUFACTURER
+Eon Labs Manufacturing, Inc., Laurelton, New York.
+RECALLED BY
+Manufacturer, by letters dated November 19, 1999, January 12, 2000, and 
+February 3, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+10 mg bottles of 100s,  Eon Label:    42,009 units
+                        Major Label:   3,180 units
+10 mg bottles of 1000s, Eon Label:       901 units
+                        Major Label:       0 units
+20 mg bottles of 100s,  Eon Label:    27,911 units
+                        Major Label:   1,707 units
+20 mg bottles of 1000s, Eon Label:     6,291 units
+                        Major Label:   2,169 units.
+REASON
+Dissolution failure (42 month stability).
+
+________
+PRODUCT
+CIS-Sulfur Colloid(tm) Kit (Technetium Tc 99m Sulfur Colloid Injection), used in adults and 
+children as an agent for imaging areas of functioning reticuloendothelial 
+cells in the liver, spleen and bone marrow.  Recall #D-262-0.
+CODE
+Lot No.   EXP
+6363A   12/31/99
+6364     1/31/00
+6365A    1/31/00
+6366A    2/29/00
+6367A    1/31/00
+6368     2/29/00
+6369     2/29/00
+6370A    3/31/00
+6371     4/30/00
+6372     4/30/00
+6373B    4/30/00
+6374B    6/30/00
+6375B    9/30/00
+6376    10/31/00
+6377B   12/31/00.
+MANUFACTURER
+CIS-US, Inc., Bedford, Massachusetts.
+RECALLED BY
+Manufacturer, by letter on February 23, 2000.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Nationwide, New Zealand, Panama, Puerto Rico, Guam.
+QUANTITY
+11,548 kits.
+REASON
+Misbranding - Solution B vial has reversed the strength (mg/ml) of the 
+two ingredients on its immediate vial label.
+
+________
+PRODUCT
+CombiPatch(tm) Transdermal System, (estradiol-0.62 mg/norethindrone 
+acetate-2.7mg), Rx used by women with an intact uterus for treatment of moderate to severe vasomotor 
+symptoms associated with menopause; treatment of vulvar and vaginal atrophy; and treatment of 
+hypoestrogenism due to hypogonadism, castration, or primary ovarian failure. 
+NDC #0075-0514-08.  Recall #D-263-0.
+CODE
+Lot Numbers: 8F0308E1C1 EXP 4/00 and 9D2703E1C1 EXP 2/01.
+MANUFACTURER
+Noven Pharmaceuticals, Inc., Miami, Florida.
+RECALLED BY
+Aventis (formerly Rhone Poulenc Rorer), Collegeville, Pennsylvania, by 
+letter on February 18, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide, Bermuda, Puerto Rico.
+QUANTITY
+41,810 boxes of lot 8F0308E1 and 23,350 boxes of lot 9D2703E1C1 were 
+distributed.
+REASON
+Dissolution and appearance specification failure (excess crystals).
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS 
+II
+________
+PRODUCT
+LIFEPAK 500 Automated External Defibrillator (AED), designed to be used 
+by first responders to cardiac emergencies.  Recall #Z-442-0.
+CODE
+All serial numbers with more than 8 digits.
+All serial numbers with 6 digits.
+7 digit serial numbers less than 7925937 and serial number 8631084.
+MANUFACTURER
+Medtronic Physio-Control Corporation, Redmond, Washington.
+RECALLED BY
+Manufacturer, by Tech Memo #3 issued in June 1998, Tech Memo #3a on 
+February 7, 2000, by Technical Service Update on March 23, 2000, and 
+visit with letter dated March 2000.  Firm-initiated field correction 
+ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+8,031 units were distributed.
+REASON
+Potential damage/failure of resistor R4 could result in unusable unit 
+next use.
+
+________
+PRODUCT
+Irrigation Administration Sets, used to provide irrigating solution to the surgical field as well as other various 
+uses:  a) BSS and BSS Plus Sterile Irrigation Solution Administration Set, Catalog No. (REF) 0065-0826-50, 
+including Custom Paks; b) Vitrectomy Surgery Set (MVS), Catalog No. 8065807101. Recall #Z-490/491-0.
+CODE
+Stand alone BSS/+ Administration Set:
+105517H, 107061H, 108101H, 109106H, 109175H, 111592H, 111630H, 115025H, 
+117113H, 118023H, 118980H, 120465H, 121766H, 122469H, 122485H, 124890H,
+Vitrectomy Surgery Set:
+124885H 
+Custom Pak:
+115480H, 116288H, 116363H, 116498H, 116572H, 116670H, 116726H, 116895H, 
+117183H, 117235H, 117391H, 117433H, 117446H, 117451H, 117511H, 117533H, 
+117597H, 117614H, 117642H, 117644H, 117710H, 117758H, 117834H, 117874H, 
+117909H, 117910H, 117969H, 117974H, 117975H, 117979H, 118164H, 118230H, 
+118278H, 118284H, 118346H, 118365H, 118449H, 118508H, 118584H, 118650H, 
+118815H, 118917H, 119015H, 119017H, 119025H, 119120H, 119121H, 119150H, 
+119208H, 119282H, 119547H, 119581H, 119650H, 119928H, 120210H, 120235H, 
+120291H, 120351H, 120362H, 120428H, 120437H, 120439H, 120573H, 120610H, 
+120643H, 120647H, 120696H, 120704H, 120786H, 120805H, 120822H, 120877H, 
+120919H, 120967H, 121005H, 121073H, 121165H, 121282H, 121338H, 121348H, 
+121421H, 121423H, 121429H, 121447H, 121534H, 121654H, 121843H, 121892H, 
+121899H, 121914H, 122042H, 122377H, 122426H, 122466H, 122694H, 122696H, 
+122740H, 122854H, 122931H, 122966H, 123192H, 123322H, 123323H, 125391H, 
+123536H, 123537H, 123608H, 123686H, 123719H, 123840H, 123918H, 123979H, 
+124183H, 124185H, 124187H, 124377H, 124546H, 124554H, 124606H, 124758H, 
+124832H, 125006H, 125098H, 125116H, 125118H, 125122H, 125169H, 125181H, 
+125262H, 125320H, 125323H, 125380H, 125422H, 125522H, 125606H, 125660H, 
+125841H, 125939H, 125941H, 126003H, 126226H, 126533H, 126577H, 126873H, 
+127752H, 128158H, 125206H, 128236H, 128364H, 12B365H, 128370H, 128371H, 
+128380H, 128420H, 128483H, 128485H, 128522H, 128984H, 129398H, 129564H, 
+131137H, 131138H, 131392H, P124225H, P122487H, P128488H, P125437H, 
+P121813H, P121812H, P113740H, P121811H, P121787H, P123387H, P127721H, 
+P132051H.
+MANUFACTURER
+Alcon Laboratories, Inc., Fort Worth, Texas.
+RECALLED BY
+Manufacturer, by letter on January 28, 2000.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+33,825 units were distributed from 9/00 to 1/00.
+REASON
+An unauthorized change in the filter paper of the filtered-drip chamber that caused the device to have a 
+decreased flow rate.
+
+________
+PRODUCT
+Model No. 250 NeuroCybernetic Prosthesis Programming (NCP) 
+Software, Version 5.0 for use only with the Model No. 100 
+NCP Pulse Generator and Model No. 200 NCP Programming Wand,
+an implanted autonomic nerve stimulator implanted for epilepsy.  Recall #Z-492-0.
+CODE
+All lots.
+MANUFACTURER
+Cyberonics, Inc., Houston, Texas.
+RECALLED BY
+Manufacturer, by memorandum on August 12, 1998. Firm-initiated field correction complete.
+DISTRIBUTION
+Nationwide, South Africa, Belgium.
+QUANTITY
+402 units were distributed; firm estimates none remains on the market.
+REASON
+The software contains a flaw that reports an inaccurate amount of remaining battery life for the pulse 
+generator.
+________
+UPDATE
+Bio-Laser Systems which appeared in the December 29, 1999 Enforcement is being updated to delete Model 
+TUCO.  The recall should read as follows:
+PRODUCT
+Bio-Laser System, used for biostimulation:
+a) Model 1000; b) Model 2000.  Recall #Z-281/282-0.
+CODE
+Bio-Laser Models 1000 and 2000.
+MANUFACTURER
+Bio-Laser Response Corporation, Dr. Alvin Stjernholm, Lakewood, Colorado.
+RECALLED BY
+Manufacturer.  FDA approved the firm's corrective action plan December 14, 1999.  Firm-initiated field 
+correction ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTTY
+a) 18 models; b) 1 unit.
+REASON
+The devices were distributed for human use without a 510(k) or PMA; and failed to comply with 21 CFR 
+1040.10 and 11 in that the models have numerous noncompliances.
+
+RECALLS AND FIELD CORRECTIONS: DEVICES -- CLASS III
+________
+PRODUCT
+Cofield 2 Humeral Stem, 12 mm Diameter Stem 145 mm Length, Catalog #71259012, in sterile packages, for 
+use by an orthopedic surgeon in the treatment of proximal humerus fractures.  Recall # Z-493-0.
+CODE
+Lot numbers:  81102601 - 81102610. 
+MANUFACTURER
+Smith and Nephew, Inc., Orthopaedic Division, Memphis, Tennessee.
+RECALLED BY
+Manufacturer, by letters on March 13 and 20, 2000, and by fax on March 15, 2000. Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Nationwide, France, Australia, and United Kingdom.
+QUANTITY
+97 units were distributed; firm estimated that 75 units remained on market at time of recall initiation.
+REASON
+The device does not have suture holes in the lateral fin.
+
+________
+PRODUCT
+ALYCON Sample Syringe, 50uL used on Alcyon Analyzers 300 and 300i, for in vitro diagnostic tests. Recall 
+#Z-501-0.
+CODE
+List Numbers 05D049-02 software used on ALCYON Analyzer
+List Numbers 04D66-02; 04D67-02; 04D68-02; 04D69-02;
+0467-03; 04D69-03.
+MANUFACTURER
+Abbott Laboratories, Diagnostics Division, Irving, Texas.
+RECALLED BY
+Manufacturer, by telephone between December 22-28, 1999.  Firm-initiated recall ongoing. 
+DISTRIBUTION
+Nationwide and Hong Kong.
+QUANTITY
+22 units were distributed.
+REASON
+Packages labeled and distributed as containing ALYCON Sample Syringe, 50uL contained ALYCON 
+Reagent Syringe, 500uL instead.
+
+
+________
+PRODUCT
+Roche Reagent for AST [aspartate aminotransferace], in vitro diagnostic reagent system for use on the 
+COBAS MIRA and COBAS FARA chemistry systems for the quantitative determination of the AST.  Recall 
+#Z-502-0.
+CODE
+Catalog #42381.  Lot Numbers: 60642601 EXP 8/00 and 
+60770501 EXP 11/00.
+MANUFACTURER
+Roche Diagnostics GmbH, Mannheim, Germany.
+RECALLED BY
+Roche Diagnostics Corporation, Indianapolis, Indiana (Distributor), by letter dated March 16, 2000.  Firm-
+initiated recall ongoing.
+DISTRIBUTION
+Nationwide
+QUANTITY
+Approximately 6,000 kits were distributed.
+REASON
+Lots do not meet the stability claim for the working reagent.
+
+________
+PRODUCT
+Total Bilirubin Reagent, Catalog #0737488, for use on the cobas integra 400 and 700 chemistry systems for 
+the quantitative determination of the total bilirubin concentration in blood and plasma.  Recall #Z-503-0.
+CODE
+Lot #603976-01 EXP 10/00.
+MANUFACTURER
+Roche Diagnostics GmbH, Mannheim, Germany.
+RECALLED BY
+Roche Diagnostics Corporation, Indianapolis, Indiana, by letter February 10, 2000.  Firm-initiated field 
+correction ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+1,500 kits.
+REASON
+Inadequate filling of R1 reagent may cause reporting of falsely lowered total Bilirubin results without warning 
+of incorrect values.
+
+________
+PRODUCT
+SETpoint T Uptake Reference Set for Bayer Immuno 1 System, Catalog #T03-3076-01, a T-Uptake 
+calibrator.
+Recall #Z-504-0.
+CODE
+Lot Numbers: V35454, V37951, V39825.
+MANUFACTURER
+Bayer Corporation, Business Group Diagnostics, Middletown Manufacturing Plant, Middletown, Virginia.
+(NOTE:  The Middletown plant has since been sold to Fisher Scientific, Inc. [January 2000] and Fisher will 
+be an OM contractor for this product).
+RECALLED BY
+Bayer Corporation, Business Group Diagnostics, Elkhart, Indiana, by letter issued on March 10, 2000.  Firm-
+initiated field correction ongoing
+DISTRIBUTION
+Nationwide, Belgium, Canada, France, Germany, Sweden and Switzerland.
+QUANTITY
+758 kits were distributed.
+REASON
+Product found to be unstable when shipped or stored per label instructions.
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS II
+________
+PRODUCT
+Selenium Premix 4.00%, in 50-pound bags, a trace mineral premix for animal feeds.  Recall #V-064-0.
+CODE
+Batch 97596 - manufactured 8/16/98.
+MANUFACTURER
+Agri-Products, Inc., Milroy, Minnesota.
+RECALLED BY
+National Additives, Inc., Liberty, Missouri. Firm-initiated recall ongoing.
+DISTRIBUTION
+California.
+QUANTITY
+480 50-pound bags were distributed.
+REASON
+Product was subpotent.
+
+END OF ENFORCEMENT REPORT FOR APRIL 12, 2000. 
+####
+
+
+
+
+
+FDA News Page   |   FDA Home Page 
+                                                          
+  
+
+Office of Public Affairs
+Hypertext uploaded by clb 2000-APR-12.

@@ -1,0 +1,780 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      27 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ Enforce
+09/10/1991
+
+Enforcement Report for the Week of September 11, 1991 
+
+
+                                                September 11, 1991
+
+Recalls and Field Corrections:
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  Product will cause serious adverse health consequences or 
+                  death.
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the 
+                  probability of serious adverse health consequences is 
+                  remote. 
+
+Product:          Chinese Fortune Cookies in cardboard boxes of 50 cookies, 
+                  net wt. 1 lb. 8 oz.  Recall #F-522-1. 
+Code:             Not coded.  All products manufactured before 8/8/91 are 
+                  involved. 
+Manufacturer:     Super Foods, Inc., Washington, D.C. (most responsible 
+                  firm).
+Recalled by:      Manufacturer by telephone August 9, 1991.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Virginia, Maryland, Washington, D.C.
+Quantity:         200 cases of cookies were manufactured weekly.
+Reason:           Product contains undeclared FD&C; Yellow No. 5 and No. 6.
+
+                                     ---- 
+
+                                      -1- 
+
+
+
+
+
+Product:          Holly Tropical Pineapple Soft Drink in 20 oz. glass bottles.
+                  Recall #F-523-1.
+Code:             All lots. 
+Manufacturer:     Holly Beverage Company, Youngstown, Ohio. 
+Recalled by:      Manufacturer by letter July 1, 1991.  Firm-initiated
+                  recall ongoing. 
+Distribution:     New York, Pennsylvania, Ohio. 
+Quantity:         Firm estimates 50 cases remain on market. 
+Reason:           Product contains undeclared FD&C; Yellow No. 5.
+
+                                     ---- 
+
+Product:          Contadina Seasoned Bread Crumbs packaged in a 6-3/4 inch
+                  tall, 3 inch diameter cardboard container.  Recall #F-524.
+Code:             Lot number LD013. 
+Manufacturer:     Quality Bakery, Detroit, Michigan.
+Recalled by:      Carnation Company, Glendale, California by letter August
+                  30, 1990.  Firm-initiated recall complete.
+Distribution:     Arizona, California, Nevada, New Mexico.
+Quantity:         827 cases were distributed.  Firm estimates none remains
+                  on market.
+Reason:           Product contains glass fragments. 
+
+                                     ---- 
+
+Product:          Orange flavored frozen dessert on a stick.  Recall #F-525-1.
+Code:             Not coded.
+Manufacturer:     Jocel Manufacturing Corporation, Cayey, Puerto Rico.
+Recalled by:      Manufacturer by telephone August 19, 1991.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Puerto Rico.
+Quantity:         84 cartons (24 cans per case) were distributed; firm
+                  estimates none remains on the market. 
+Reason:           Product contains undeclared FD&C; Yellow No. 5.
+
+
+                                     ---- 
+
+                  Class III - A situation in which the use of, or exposure
+                  to a violative product is not likely to cause adverse 
+                  health consequences.
+
+
+                                     NONE 
+
+                                   COSMETICS
+
+                                     NONE 
+
+                                      -2- 
+
+
+
+
+
+                           HUMAN DRUGS AND BIOLOGICS
+
+                  Class I - 
+                                     NONE 
+                  Class II -
+
+Product:          Methyltestosterone 10 mg in 100 tablet bottles, an oral Rx
+                  drug used for replacement therapy in males with 
+                  testosterone, under the following labels: Richlyn 
+                  Laboratories, Inc.; Schein Pharmaceutical, Inc.; Goldline 
+                  Laboratories; Rugby Laboratories, Inc.; Major Pharmaceutical
+                  Corporation; United Research Laboratories, Inc. 
+                  Recall #D-627-1.
+Code:             Lot number 44116 EXP 4/94.
+Manufacturer:     Richlyn Laboratories, Inc., Philadelphia, Pennsylvania. 
+Recalled by:      Manufacturer by letter August 23, 1991.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         11,321 bottles were distributed.
+Reason:           A bottle of Methyltestosterone Tablets contained a foreign
+                  tablet identified as a Richlyn meclizine 25 mg. tablet. 
+
+                                     ---- 
+
+Product:          (a) Red Blood Cells; (b) Platelets; (c) Fresh Frozen Plasma.
+                  Recall #B-370/372-1.
+Code:             Unit numbers: (a) 8807877; (b) 8808095; (c) 8808095.
+Manufacturer:     St. Luke's Hospital, Denver, Colorado.
+Recalled by:      Manufacturer by telephone July 3, 1991 and letter 
+                  July 9, 1991.  Firm-initiated recall complete.
+Distribution:     Colorado. 
+Quantity:         Units were distributed and transfused.
+Reason:           Blood products, which were initially reactive for the 
+                  hepatitis B surface antigen (HBsAg) but were improperly 
+                  interpreted as nonreactive, were distributed. 
+
+                                     ---- 
+
+Product:          STS-M Red Cell Diluent, Enzyme, in 250 ml vials.
+                  Recall #B-373-1.
+Code:             Lot number EM108-1. 
+Manufacturer:     Gamma Biologicals, Inc., Houston, Texas.
+Recalled by:      Manufacturer, by telephone October 23, 1990 and 
+                  November 5, 1990, followed by letter.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Oklahoma, Florida, Iowa, Idaho, Nebraska, Kentucky, 
+                  South Carolina. 
+Quantity:         492 vials were distributed. 
+
+                                      -3- 
+
+
+
+
+
+Reason:           Product fails to maintain reactivity throughout the 
+                  approved dating period. 
+
+                                     ---- 
+
+Product:          (a) Red Blood Cells; (b) Recovered Plasma.
+                  Recall #B-374/375-1.
+Code:             Unit #21G06575. 
+Manufacturer:     American Red Cross Pacific Northwest Region, Portland,
+                  Oregon. 
+Recalled by:      Manufacturer by telephone April 2 and 11, 1991. 
+                  Firm-initiated recall complete. 
+Distribution:     Oregon, Kentucky. 
+Quantity:         1 unit. 
+Reason:           Blood products, incorrectly tested for the antibody to the
+                  human immunodeficiency virus type 1 (anti-HIV-1), were
+                  distributed.
+
+                                     ---- 
+
+Product:          Abbott Laboratories Tray Cover Seal, Comm. #93-2311,
+                  used to test blood samples for hepatitis.  Recall #B-378-1. 
+Code:             Lot numbers: 47095P100, 47-044P200, 49-068P100, 50-066P100
+                  50-215P200, 51-421P100, 52-242P100, 53-285P100. 
+Manufacturer:     Green Bay Packing Inc., Green Bay, Wisconsin. 
+Recalled by:      Abbott Laboratories Diagnostic Division, Abbott Park, 
+                  Illinois by telephone May 28 and 29, 1991.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         1,236,000 seals were distributed; firm estimates none 
+                  remains on the market.
+Reason:           The use of the Abbott standard tray cover seals caused
+                  false positive test results when the AUSAB EIA test was 
+                  performed using the Commander Dynamic Incubator (CDI) in
+                  conjunction with the Commander Parallel Processing Center 
+                  (CPPC). 
+
+                                     ---- 
+
+Product:          Recovered Plasma.  Recall #B-379-1. 
+Code:             Unit #9431. 
+Manufacturer:     Sewickley Valley Hospital Blood Bank, Sewickley,
+                  Pennsylvania. 
+Recalled by:      Manufacturer by telephone June 25, 1991.  Firm-initiated
+                  recall complete.
+Distribution:     Pennsylvania. 
+Quantity:         1 unit. 
+Reason:           Blood product, which tested initially reactive for the
+                  hepatitis B surface antigen (HBsAg) and not retested in 
+                  duplicate, was distributed. 
+
+                                     ---- 
+
+                                      -4- 
+
+
+
+
+
+Product:          Red Blood Cells.  Recall #B-380-1.
+Code:             Unit numbers: T63518, T69635, T69707. 
+Manufacturer:     Tulane University Hospital (Administrators of the Tulane) 
+                  Educational Fund, New Orleans, Louisiana. 
+Recalled by:      Manufacturer by telephone on or about July 30, 1991.
+                  Firm-initiated recall ongoing.
+Distribution:     Louisiana.
+Quantity:         3 units.
+Reason:           Blood product, which tested initially reactive for the
+                  hepatitis B surface antigen (HBsAg), was distributed. 
+
+                                     ---- 
+
+Product:          (a) Platelets; (b) Platelets, Pheresis. Recall #B-383/384-1.
+Code:             Unit numbers: (a) 484460, 604830, 604831, 604832, 604835, 
+                  604843, 611472, 611489, 611492, 611497; (b) 606768. 
+Manufacturer:     Belle Bonfils Memorial Blood Center, Denver, Colorado.
+Recalled by:      Manufacturer, by telephone May 17, 1991.  Firm-initiated
+                  recall complete.
+Distribution:     Colorado. 
+Quantity:         11 units. 
+Reason:           Blood products labeled with incorrect expiration dates
+                  were distributed. 
+
+                                     ---- 
+
+Product:          (a) Red Blood Cells; (b) Recovered Plasma.
+                  Recall #B-385/386-1.
+Code:             Unit numbers E94093, K07786.
+Manufacturer:     Rhode Island Blood Center, Providence, Rhode Island.
+Recalled by:      Manufacturer, by telephone, followed by letter May 10, 1991.
+                  Firm-initiated recall complete. 
+Distribution:     Rhode Island, New York, North Carolina. 
+Quantity:         4 units were distributed. 
+Reason:           Blood products which tested non-reactive for the
+                  antibody to the human immunodeficiency virus type 1 
+                  (anti-HIV-1), but collected from a donor who previously 
+                  tested repeatably reactive for anti-HIV-1, were distributed.
+
+                                     ---- 
+
+                  Class III - 
+
+Product:          Liquigel-AMS MLX Type Aluminum Hydroxide/Magnesium
+                  Hydroxide Sorbitol-Fluid Gel for manufacturing use only 
+                  filled in Net wt. 450 lbs. drums.  Recall #D-625-1. 
+Code:             Lot number 1043406. 
+Manufacturer:     Reheis, Inc., Berkeley Heights, New Jersey. 
+Recalled by:      Manufacturer by letter February 18, 1991.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Pennsylvania. 
+Quantity:         14 drums were distributed; firm estimates none
+                  remains on market.
+
+                                      -5- 
+
+
+
+
+
+Reason:           Fourteen drums of Liquigel AMS MLX Type were mislabeled as
+                  AMS MYL Type. 
+
+                                     ---- 
+
+Product:          Ventolin (Albuterol Sulfate, USP) Solution for inhalation 
+                  0.5% w/v, in 20 ml bottles with calibrated stopper, a 
+                  multi-use vial containing solution for use with nebulizer.
+                  Recall #D-626-1.
+Code:             All lots. 
+Manufacturer:     Glaxo Holdings, Ltd., Ware, England.
+Recalled by:      Glaxo Inc., North Carolina by letter August 22, 1991. 
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide. 
+Quantity:         2,907,687 bottles were distributed. 
+Reason:           Product does not meet pH specifications.
+
+                                     ---- 
+
+Product:          Red Blood Cells.  Recall #B-381-1.
+Code:             Unit numbers: 15M02022, 15M02023, 15M02024. 
+Manufacturer:     American Red Cross Montana Region, Great Falls, Montana.
+Recalled by:      Manufacturer by telephone March 27, 1991 with follow-up 
+                  letter April 13, 1991.  Firm-initiated recall complete. 
+Distribution:     Montana.
+Quantity:         3 units.
+Reason:           Blood product labeled with incorrect expiration dates 
+                  was distributed.
+
+                                     ---- 
+
+Product:          Platelets.  Recall #B-382-1.
+Code:             Unit number 38F89238. 
+Manufacturer:     American Red Cross Blood Services, Fort Wayne, Indiana. 
+Recalled by:      Manufactuer by telephone March 18, 1991 followed by letter
+                  March 25, 1991.  Firm-initiated recall complete.
+Distribution:     Indiana.
+Quantity:         1 unit. 
+Reason:           Blood products, untested for the antibody for the human 
+                  immunodeficiency virus type 1 (anti-HIV-1), was distributed.
+
+                                     ---- 
+
+Product:          Red Blood Cells.  Recall #B-387-1.
+Code:             Unit number: 25GP01055. 
+Manufacturer:     American Red Cross Greater Upstate New York Region, Syracuse
+                  New York. 
+Recalled by:      Consignee notified recalling firm and returned unit 
+                  August 7, 1991.  Firm-initiated recall complete.
+Distribution:     New York. 
+
+                                      -6- 
+
+
+
+
+
+Quantity:         1 unit. 
+Reason:           Blood product containing anti-E antibodies, but labeled as
+                  negative for unexpected antibodies, was distributed.
+
+                                     ---- 
+
+                       DEVICES AND RADIOLOGICAL PRODUCTS
+
+                  Class I - 
+                                     NONE 
+                  Class II -
+
+Product:          ECG Casette Recorder, is a portable recorder with two or
+                  three channels to provide a continuous diagnostic quality 
+                  ECG recording of a patient over a 24 hour time span.
+                  Recall #Z-959/961-1.
+Code:             Model 1100-6 serial numbers 3454 through 3499 (Quiktrak); 
+                  Model 1100-7 serial numbers 1101 through 1103, 1109, and 1120 
+                  (Pacetrak); Model 1100-8 serial numbers 1001 through 1071 
+                  (Tritrak).
+Manufacturer:     Zymed Puerto Rico, Inc., Ponce, Puerto Rico.
+Recalled by:      Zymed, Inc., Camarillo, California, by telephone May 17,
+                  1990.  Firm-initiated recall complete.
+Distribution:     Nationwide. 
+Quantity:         123 units were distributed. 
+Reason:           Inadequate drive belt tension promotes clutch failure and 
+                  eventual slipping of belt from either motor pully or capstan
+                  pully.
+
+                                     ---- 
+
+Product:          320 Micron Fiber Assemblies (Part #N 8075-26-0310) used 
+                  with Candela MDL-1 and MDL2000 Lasertripter System. 
+                  Recall #Z-965-1.
+Code:             Lot number SUR-858-S043-26, SUR-858-S043-24.
+Manufacturer:     Candela Laser Corporation, Wayland, Massachusetts.
+Recalled by:      Manufacturer by letter April 4, 199l.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         50 systems were distributed.
+Reason:           The outer polyamide coating of the fibers may come off when 
+                  exposed to Cidex or alcohol.
+
+                                     ---- 
+
+Product:          Flow Sensor Cassette with 60" Infusion Set, Catalog No. 
+                  810152, Model No. 2004; Infusion Set Cassette/with 60"
+                  Infusion Set-Catalog No. 8810295, Model No. 2100; 
+                  Programmer-Catalog No. 8810276, Model No. 2000; Non-
+                  Universal (PCA) Programmer, Catalog No. 8810206, Model No.
+                  2500; Primer Catalog No. 8810168, Model No. 102 
+                  Recall #Z-969/973-1.
+
+                                      -7- 
+
+
+
+
+
+Code:             All serial numbers. 
+Manufacturer:     Strato Medical Corporation, Beverly, Massachusetts. 
+Recalled by:      Manufacturer by letter July 23, 1991.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         33,388 cassettes were distributed.
+Reason:           The product may not accurately deliver drug therapy, due
+                  to leakage and under infusion.
+
+                                     ---- 
+
+Product:          Lifeport Vascular Access System, Catalog Number LPS-1045. 
+                  Recall #Z-974-1.
+Code:             All lots. 
+Manufacturer:     Strato Medical Corporation, Beverly, Massachusetts. 
+Recalled by:      Manufacturer by letter July 17, 1991.  Firm-initiated 
+                  recall ongoing. 
+Distiribution:    Nationwide and international. 
+Quantity:         73 units were distributed.
+Reason:           The device was marketed and distributed to unapproved 
+                  clinical investigators. 
+
+                                     ---- 
+
+Product:          Collared PERFECTA Stems, (a) Perfecta Stem, Standard, 
+                  Collared, Plasma Sprayed, size 12, 30mm Neck Catalog
+                  No. 3708-1200; (b) Perfecta Stem, Standard, Collared, 
+                  Plasma Sprayed, Size 13.5, 30mm Neck, Catalog No. 
+                  3708-1350; (c) Perfecta Stem, Reduced, Collared, Plasma 
+                  Sprayed, size 15.0, 35mm Neck, Catalog No. 3716-1500. 
+                  Recall #Z-975/977-1.
+Code:             Lot numbers: (a) 001501001, (b) 001502001, (c) 001147001. 
+Manufacturer:     Orthomet, Inc., Minneapolis, Minnesota. 
+Recalled by:      Manufacturer by telephone July 22,23, 31, 1991.  Firm-
+                  initiated recall ongoing. 
+Distribution:     Michigan, Florida.
+Quantity:         6 units were distributed.  Two units of each lot number.
+Reason:           The labeling on the outer and interior packaging and
+                  the etch on the device does not properly identify the 
+                  actual device packaged. 
+
+                                     ---- 
+
+Product:          Inspiron brand Universal Manifold and Nebulizer with
+                  39" Aerosol Tube and 2 Supply Lines, an Rx device 
+                  containing a mouthpiece 6" length, 22 mm I.D. Flextube
+                  and Drive Line Adapters for use with the Bird I.P.P.B.
+                  Respirator, product #002208-A; product #002218-A. 
+                  Recall #Z-978/979-1.
+Code:             Lot numbers: (a) C92071, C92072, C92143, C92160, C92242,
+                  C92243, D92212, D92213, D92269, E92078; B92172, B92173, 
+                  B92174, B92201, B92254, B92255, B92256, C92068, C92096, 
+                  C92098, C92129, C92161, C92162, C92186, C92271, D90059
+                  D90060, D90082, D92083, D92084, D92134, E90041. 
+
+                                      -8- 
+
+
+
+
+
+Manufacturer:     Specialty Packaging Products, Inc., El Paso, Texas. 
+Recalled by:      Intertech Resources, Inc., Bannockburn, Illinois by letter
+                  July 5, 1989.  Firm initiated recall complete.
+Distribution:     Nationwide. 
+Quantity:         122,934 units were distributed. 
+Reason:           The exhalation valve on the devices manufactured by Specialty 
+                  Packaging Products, Inc., in use with certain respirators 
+                  may not fully close.
+
+                                     ---- 
+
+Product:          Abbott TestPack Chlamydia, an in-vitro diagnostic enzyme
+                  immunoassay for the rapid detection of Chlamydia
+                  trachomatis from endocervical swab specimens. 
+                  Recall #Z-981-1.
+Code:             All lots. 
+Manufacturer:     Abbott Laboratories, Inc., Abbott Park, Illinois. 
+Recalled by:      Manufacturer by mailgram August 5, 1991.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide, international.
+Quantity:         19,637 kits were distributed. 
+Reason:           The product performance may fall below the package insert 
+                  sensitivity claims. 
+
+                                     ---- 
+
+Product:          BISNARE PolypectomySnare with Handle, used to remove
+                  colon polyps.  Recall #Z-983/984-1. 
+Code:             Model numbers 5125, 5128. 
+Manufacturer:     Everest Medical, Minneapolis, Minnesota.
+Recalled by:      Manufacturer by letter August 6, 1991.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide, Japan, France, The Netherlands. 
+Quantity:         1,904 units were distributed. 
+Reason:           The product has the potential for electrical shorting during
+                  use.
+
+                                     ---- 
+
+Product:          Beckman Synchron Control Multi-Level Assayed Kit, Part
+                  657365.  Recall #Z-982-1. 
+Code:             Lot number M91158.
+Manufacturer:     Beckman Instruments, Inc., Brea, California.
+Recalled by:      Manufacturer by letter November 12, 1990.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Nationwide, Australia, Austria, Taiwan, The Netherlands,
+                  Mexico, Hong Kong, Sinapore.
+Quantity:         2,850 units were distributed; firm estimates none remains 
+                  on the market.
+
+                                      -9- 
+
+
+
+
+
+Reason:           AST and total Bilirubin analytes in this lot of product 
+                  are recovering below the published insert range on the
+                  Level 3 assayed control in the kit on some SYNCHRON AS
+                  CX4 and CX5 Analyzers.
+
+                                     ---- 
+
+Product:          Misti Gold Inflatable Mammary Prosthesis Kit. 
+                  Recall #Z-985-1.
+Code:             All lots. 
+Manufacturer:     Bioplasty, Inc., St. Paul, Minnesota. 
+Recalled by:      Manufacturer by letter August 6, 1991.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         4,668 (domestic) and 1,898 (foreign) units were distributed.
+Reason:           The product does not have an appropriate marketing
+                  authorization and because the product labeling contains 
+                  unsubstantiated claims which make it false and misleading.
+
+                                     ---- 
+
+Prdoct:           Universal Adapters, used on ventilator patient circuits,
+                  under brand names Neotech Brand, Catalog No N1001 and 
+                  N1002 individually and bulk packaged; Acura Brand 
+                  Catalog Nos. A-101 and A-102, individually and bulk 
+                  packaged.  Recall #Z-986/989-1. 
+Code:             Lot numbers beginning with 89 and 90. 
+Manufacturer:     Wright Manufacturing, Burbank, California.
+Recalled by:      Neotech Products, Inc., Chatsworth, California by letter
+                  dated March 12, 1991.  Firm-initiated recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         368,750 units were distributed; FDA estimates little
+                  product remains on the market.
+Reason:           Due to defective mold, the adapter may be partially or
+                  fully blocked and may impede the flow of respiratory gases
+                  in the air circuit. 
+
+                                     ---- 
+
+Product:          Silicone Gel Filled Mammary Prostheses (a) Gel-Filled 
+                  Mammary Prostheses, Catalog Nos. 350-7100 through 
+                  30-7600/one style, round sizes (volume): 100 cc through 
+                  600cc; Single Lumen Filled with Gel;
+                  (b) Combination Gel-Saline/Style 6000 Mammary Prostheses, 
+                  Catalog Nos. 360-6175M through 360-6550M/Style: Oval; Sizes 
+                  (total volume): 175cc through 550cc; Double Lumen, One Gel
+                  Filled, the other for Saline Fill;
+                  (c) Combination Gel-Saline/Style 7000 Mammary Prostheses, 
+                  Catalog No. 360-7150M through 360-7525M/Style: Round; Sizes 
+                  (total volume): 150cc through 525cc; Double Lumen, One Gel
+                  Filled the other for Saline Fill, used for implantation 
+                  to augment or replace diseased breast tissue. 
+                  Recall #Z-990/992-1.
+                                     -10- 
+
+
+
+
+
+Code:             All lots. 
+Manufacturer:     Mentor Corporation, Goleta, California. 
+Recalled by:      Manufacturer by letter July 11, 1991.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         9,255 units were distributed; firm estimates less than
+                  1 percent of product remains on the market. 
+Reason:           The silicone gel-filled breast protheses were on the market 
+                  after July 9, 1991 without a premarket approval application 
+                  (PMA), as required by the final rule of April 10, 1991, 
+                  pursuant to Section 5.15(b) of the FD&C; Act.
+
+                                     ---- 
+
+Product:          Silicone Gel-Gilled Mammary Prostheses of Various Styles: 
+                  1. Style 42: Round (single lumen), Mammary Prostheses,
+                  120cc to 560cc envelope size, Catalog nos. 25-42121 
+                  through 25-42561; 
+                  2. Style 100 Round, Intrashiel (low bleed), Biocell 
+                  (textured, Posterior leaf valve, Gel-Filled Mammary 
+                  Prostheses, 200cc to 360cc sizes, Catalog nos.
+                  27-100200 through 27-100360;
+                  3. Style 80, Round, Gel-Filled Mammary Prostheses, 80cc 
+                  to 560cc sizes, Catalog nos. 25-80080 through 25-80561; 
+                  4. Style 81, Teardrop, Gel-Filled Mammary Prostheses, 
+                  105cc to 375cc sizes, Catalog nos. 25-81105 through 
+                  25-81376; 
+                  5. Style 82, Oval, Low Profile, Gel-Filled Mammary
+                  Prostheses, 130cc to 400cc sizes, Catalog nos.25-82130
+                  through 25-82401; 
+                  6. Style 85, Submuscular, High Profile, Gel-Filled
+                  Mammary Prostheses, 120cc to 800cc sizes, Catalog 
+                  nos. 25-85120 through 25-85801; 
+                  7. Style 56, Round, Double Lumen, Gel-Saline Filled,
+                  High Profile Mammary Prostheses, 200/220cc to 700/800cc 
+                  sizes, Catalog nos. 25-56201 through 25-56701.; 
+                  8. Style 57, Oval, Double Lumen, Gel-Saline Filled, High
+                  Profile, Mammary Prostheses, 210/230cc to 600/650cc 
+                  sizes, Catalog nos. 25-57211 through 25-57601;
+                  9. Style 73: Round, Intrashiel (low bleed), Double Lumen
+                  RTV Gel-Saline Filled, Mammary Prostheses, 160cc to 500cc 
+                  Sizes, Catalog nos. 25-73160 through 25-73501;
+                  10. Style 76: Round, Double Lumen, Gel-Saline Filled
+                  Mammary Prostheses, 100/120cc to 500/560cc Sizes, Catalog 
+                  nos.25-76100 through 25-76501;
+                  11. Style 77: Teardrop, Double Lumen, Gel-Saline Filled 
+                  Mammary Prostheses, 105/125cc to 345/375cc Sizes, Catalog 
+                  nos. 25-77105 through 25-77346; 
+                  12. Style 78: Oval, Low Profile, Double Lumen, Gel-Saline 
+                  Filled Mammary Prostheses, 130/150cc to 350/400cc Sizes,
+                  Catalog nos 25-78130 through 25-78351, Recall #Z-993/1004-1.
+
+                                     -11- 
+
+
+
+
+
+Code:             All lots. 
+Manufacturer:     McGhan Medical Corporation, Santa Barbara, California.
+Recalled by:      Manufacturer by letter July 10, 11 and 12, 1991 and by
+                  visit on or about August 5, 1991.  Firm-initiated recall
+                  ongoing.
+Distribution:     Nationwide and international. 
+Quantity:         133,388 units were distributed.  Firm estimates 6,822 
+                  remain on the market. 
+Reason:           The silicone gel-filled breast protheses were on the
+                  market after July 9, 1991 without a premarket approval
+                  application (PMA), as required by the final rule of 
+                  April 10, 1991, pursuant to Section 5.15 (b) of the 
+                  FD&C; Act. 
+
+                                     ---- 
+
+                  Class III-
+
+Product:          Sagittal Surgical Saw Blade, Angled 5.5 x 18.0 mm.
+                  Recall #Z-980-1 
+Code:             Lot number "NOV 90".
+Manufacturer:     Hall Surgical Division of Zimmer Inc., Carpinteria, 
+                  California. 
+Recalled by:      Manufacturer by letter February 18 and March 19, 1991.
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide, Canada, Belgium.
+Quantity:         41 blades were distributed; firm estimates 15 remain
+                  on the market.
+Reason:           The package labels the product as 14 x 15.5 mm and the
+                  actual dimensions are 5.5 x 18.0 mm.
+                                                       ---- 
+
+                              VETERINARY PRODUCTS 
+
+                  Class I - 
+                                     NONE 
+                  Class II -
+
+Product:          Sulfa Urea Solution in 1 gallon containers, topical liquid, 
+                  an OTC for treating deep and superficial wounds.
+                  Recall #V-078-1.
+Code:             900148, 900086. 
+Manufacturer:     Chesterfield Laboratories, Inc., Riverside, Missouri. 
+Recalled by:      Manufacturer by letter March 28, and April 15, 1991.
+                  Firm initiated recall ongoing.
+Distribution:     Ohio, Arizona, Georgia, California, Alabama, Pennsylvania,
+                  Texas.
+Quantity:         204 1-gallon containers were distributed. 
+Reason:           Subpotency. 
+                                     ---- 
+
+                                     -12- 
+
+                                     ####

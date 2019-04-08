@@ -1,0 +1,748 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  11
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      33 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+10/28/1992
+
+RECALLS AND FIELD CORRECTIONS: October 28, 1992
+
+                                 FOODS -- CLASS I
+                                                            92-44
+              
+PRODUCT        Sandwiches and salad products under the Made-Rite, ARA           
+               Services, Canteen, Industrial Vendors, Servomatic Vending,       
+               Southern Vending, and Tri Star Food Services labels:
+               1.  All Beef Burger, 4 ounces;
+               2.  All Beef Burger Lettuce and Tomato, 4.25 ounces;
+               3.  All Beef Cheeseburger, 4 ounces;
+               4.  American Cheese Toast, 2.75 ounces;
+               5.  BBQ Chicken, 4 ounces;
+               6.  BBQ Pork, 4 ounces;
+               7.  BBQ Pork with Slaw, 4 ounces;
+               8.  BBQ Rib, 5 ounces;
+               9.  Bacon Cheeseburger, 4.5 ounces;
+               10. Baked Ham and Cheese, 5.5 ounces;
+               11. Bologna and Cheese Triangle, 4 ounces;
+               12. Cheeseburger Lettuce and Tomato, 4.5 ounces;
+               13. Chef Salad, 6 ounces;
+               14. Chicken Filet, 4 ounces;
+               15. Chicken Salad, 4 ounces;
+               16. Chicken Salad Multi Grain, 4 ounces;
+               17. Chicken Salad Toast, 3 ounces;
+               18. Chicken with Bread, 4.5 ounces;
+               19. Double Charbroil Cheese, 6 ounces;
+               20. Double Stacker, 6 ounces;
+               21. Egg Salad, 4.25 ounces;
+               22. Egg Salad Multi Grain, 4.25 ounces
+                                       
+               23. Fish Sandwich, 3.5 ounces;
+               24. Fish with Cheese, 4 ounces;
+               25. Foot Long Hot Dog, 6.25 ounces;
+               26. Foot Long with Chili Cheese, 7 ounces;
+               27. Fried Bologna and Cheese, 3.75 ounces;
+               28. Fried Chicken with Bread, 4.5 ounces;
+               29. Ham Salad Multi Grain, 3 ounces;
+               30. Ham Salad Triangle, 3 ounces;
+               31. Ham and Cheese, 5 ounces;
+               32. Ham and Cheese Bun, 3.5 ounces;
+               33. Ham and Cheese Croissant, 4 ounces;
+               34. Ham and Cheese Mayonnaise, 3.75 ounces;
+               35. Ham and Cheese Mayonnaise Multi Grain, 3.25 ounces;
+               36. Ham and Cheese Multi Grain, 4 ounces;
+               37. Ham and Cheese Toast Lettuce and Tomato, 4 ounces;
+               38. Ham and Cheese on Toast, 3.5 ounces;
+               39. Ham and Swiss Multi Grain, 3.25 ounces;
+               40. Ham on Bun, 3.75 ounces;
+               41. Hoagie Charbroil, 8 ounces;
+               42. Hoagie Junior, 5.25 ounces;
+               43. Hot Dog Plain, 3 ounces;
+               44. Hot Dog with Chili, 3 ounces;
+               45. Hot Dog with Slaw, 3 ounces;
+               46. Hot Frank, 3 ounces;
+               47. Hot Frank and Cheese, 3 ounces;
+               48. Jello, 5.0 ounces;
+               49. Jumbo Barbecue, 5.5 ounces;
+               50. Large BBQ Beef, 4.25 ounces;
+               51. Large Charbroil, 4.5 ounces;
+               52. Large Charbroil Cheese, 5 ounces;
+               53. Large Charbroil Cheese Lettuce & Tomato, 5.5 ounces;
+               54. Lettuce and Tomato (salad), 1.5 ounces;
+               55. Lettuce Tomato Onion (salad), 1.5 ounces;
+               56. Mini Charbroil, 4 ounces;
+               57. Mini Charbroil Cheese, 4 ounces;
+               58. Peanut Butter and Jelly, 2.75 ounces;
+               59. Philly Steak, 5.5 ounces;
+               60. Pimento Cheese, 3 ounces;
+               61. Pimento Cheese Multi Grain, 3 ounces;
+               62. Polish Sausage, 4 ounces;
+               63. Poor Boy, 7.5 ounces;
+               64. Poor Boy Jr., 3 ounces;
+               65. Quarter Pound Cheese, 5 ounces;
+               66. Roast Beef Multi Grain, 3 ounces;
+               67. Roast Beef Triangle, 3 ounces;
+               68. Roast Beef and Cheddar, 4.75 ounces;
+               69. Salad, no weight;
+               70. Sloppy Joe, 3.5 ounces;
+               71. Small Charbroil, 3.5 ounces;
+               72. Small Charbroil Cheese, 3.75 ounces;
+               73. Smoked Sausage, 4.5 ounces;
+               74. Submarine, 5 ounces;
+
+                                      -2-
+               75. Tuna Salad Multi Grain, 4 ounces;
+               76. Tuna Salad Triangle, 4 ounces;
+               77. Tuna Salad on Rye, 3 ounces;
+               78. Turkey Club, 3.25 ounces;
+               79. Turkey Club Multi Grain, 4 ounces;
+               80. Turkey Club on Wheat, 3.25 ounces;
+               81. Turkey Salad on Multi Grain, 4 ounces;
+               82. Turkey Triangle, 3 ounces;
+               83. Twin Dog, 7 ounces.  Recall #F-001/083-3.
+CODE           All products bearing a use-by date or pull date of OCT 13 or     
+               before.
+MANUFACTURER   Made-Rite Sandwich Company, Inc., Ooltewah, Tennessee.
+RECALLED BY    Manufacturer, by press release September 25, 1992, by telephone  
+               beginning September 25, 1992 and by letter dated September 28,   
+               1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Alabama, Arkansas, Georgia, Kentucky, Mississipi, North          
+               Carolina, South Carolina, Tennessee, Virginia.
+QUANTITY       Undetermined.
+REASON         Products contain Listeria monocytogenes.
+
+              
+PRODUCT        Dynasty Szechwan Chili Sauce, in 6.5 ounce glass containers.     
+               Recall #F-090-3.
+CODE           All codes containing letters H or X and the codes N216 or less.
+MANUFACTURER   Beaverton Foods, Inc., Beaverton, Oregon.
+RECALLED BY    JFC International, Inc., S. San Francisco, California, by        
+               letter August 26, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   California, Georgia, Illinois, Maryland, New York.
+QUANTITY       6,656 cases (12 units/case) were distributed.
+REASON         Potential for Clostridium botulinum toxin outgrowth.
+
+              
+PRODUCT        Air Dried, Salt Cured, Uneviscerated Vobla Fish, packed in       
+               wooden crates each containing 48 pounds.  Recall #F-095-3.
+CODE           None.
+MANUFACTURER   Vao Sovrybflot, Moscow, Russia.
+RECALLED BY    Razin International, Inc., Howell, New Jersey, by telephone and  
+               letter August 26, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide, predominately New York City.
+QUANTITY       200 wooden crates were distributed.
+REASON         Potential Clostridium botulinum toxin hazard.
+
+              
+PRODUCT        Royal Baltic brand Hot Smoked Mackerel, air packed loose in      
+               cardboard boxes.  Recall #F-098-3.
+CODE           "E" product packed on Aug. 5, 1992.
+MANUFACTURER   Royal Baltic, Ltd., Brooklyn, New York.
+RECALLED BY    Manufacturer, by letter on or about September 24, 1992.          
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       12 cartons were distributed; firm estimates none remains on the  
+               market.
+REASON         Product contains Listeria monocytogenes.
+
+                                      -3-
+              
+PRODUCT        Garden-fresh Foods brand Mustard Potato Salad, in 8 pound        
+               cartons.  Recall #F-099-3.
+CODE           Product with EXP date of 9/29.
+MANUFACTURER   Garden-fresh Foods, Inc., Milwaukee, Wisconsin.
+RECALLED BY    Manufacturer, by letter September 11, 1992, and the Wisconsin    
+               Department of Agriculture issued a press release September 11,   
+               1992.  Firm-initiated recall complete.
+DISTRIBUTION   Wisconsin.
+QUANTITY       Approximately 270 8-pound cartons (90 cases) were distributed.
+REASON         Product contains Listeria monocytogenes.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+              
+UPDATE         Recall #F-089-3, Maybelline 175M-01, Great Lash Mascara Very     
+               Black, which appeared in the October 14, 1992 Enforcement        
+               Report should read:
+CODE           Lot 2H209 with the letters 2BV on the bottom of the bottle.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+              
+PRODUCT        Various Rx injectable drug products manufactured by Lyphomed     
+               Div. of Fujisawa USA, Inc:
+               Dacarbazine for Injection, USP, 10 mg/ml when reconstituted, a   
+               Rx anti-neoplastic:  (a) 100 mg single dose vial;
+               (b) 200 mg single dose vial;
+               Droperidol Injection, USP, 2.5 mg/ml, a Rx tranquilizer;
+               (c) Single dose vials, no preservatives, 2 ml and 5 ml;
+               (d) Multiple dose vials, Preservatives added. 10 ml.
+               Recall #D-020/023-3.
+CODE           All lots within expiration date.
+MANUFACTURER   Lyphomed, Div. of Fujisawa USA, Inc., Melrose Park, Illinois.
+RECALLED BY    Manufacturer, by letter September 21, 1992.  Firm-initiated      
+               recall ongoing.
+DISTRIBUTION   (a & b) Nationwide, India, Chile, Peru, Malta, Ecuador, Ireland;
+               (c & d) Nationwide, Hong Kong, Uruguay, Nicaragua, Peru and the  
+               Bahamas.
+QUANTITY       Firm estimates:  (a & b) 35,347 vials; (c & d) 196,151 vials     
+               remain on the market.
+REASON         ANDA discrepancies.
+
+              
+PRODUCT        Various Rx injectable drug products manufactured by Lyphomed     
+               Div. of Fujisawa USA, Inc.:
+               (a) Aminophylline Injection, USP, 25 mg/ml, for the relief of    
+               acute bronchial asthma, in 10 ml vials, 20 ml vials;
+               (b) Atropine Sulfate Injection, USP, 0.4 mg/ml, an               
+               anticholinergic drug, in 20 ml vials;
+               (c) Atropine Sulfate Injection, USP, 1 mg/ml; an                 
+               anticholinergic drug;
+
+                                      -4-
+               (d) Bacteriostatic Water for Injection, USP; for drug diluent    
+               use only, not for use in newborns; 30 ml vials, with methyl &    
+               propylparabens, and with benzyl alcohol;
+               (e) Calcium Gluconate Injection, USP, 10%; for treatment of      
+               conditions arising from calcium deficiencies; 10 ml vials;
+               (f) Lidocaine Hydrochloride Injection, USP, 4% (40 mg/ml), a     
+               local anesthetic for infiltration and nerve block, not for       
+               spinal, epidural or intravenous regional anesthesia, in 50 ml    
+               vials;
+               (g) Lidocaine Hydrochloride Injection, USP, 2% (20 mg/ml), a     
+               local anesthetic for infiltration and nerve block, not for       
+               spinal, epidural or intravenous regional anesthesia, in 5 ml     
+               vials;
+               (h) Lidocaine Hydrochloride Injection, USP, 1% (10 mg/ml), a     
+               local anesthetic for infiltration and nerve block, not for       
+               spinal, epidural or intravenous regional anesthesia, 2 ml vials;
+               (i) Mannitol Injection, USP, 25% (250 mg/ml), for intravenous    
+               use for the promotion of diuresis, and for urologic irrigation   
+               in transurethral prostatic resection, in 50 ml vials, for        
+               irrigation and for injection;
+               (j) Neostigmine Methylsulfate Injection, USP, 0.5 mg/ml, for     
+               the symptomatic control of myasthenia gravis when oral therapy   
+               is impractical, in 10 ml vials;
+               (k) Sodium Chloride Injection, USP, Concentrated, 23.4%, an      
+               additive in parenteral fluid therapy for use in patients who     
+               have special problems of sodium electrolyte intake or            
+               excretion, in 30 ml vials;
+               (l) Sodium Chloride Injection, USP, 0.9%; for diluting or        
+               dissolving drugs for intravenous, intramuscular or subcutaneous  
+               injection, in 100 ml vials;
+               (m) Sterile Cefazolin Sodium, USP, 1 gram; a semisynthetic       
+               cephalosporin antibiotic for parenteral administration for the   
+               treatment of serious infections due to susceptible organisms;
+               (n) Sterile Water for Injection, USP; for diluting or            
+               dissolving drugs for intravenous, intramuscular or subcutaneous  
+               injection, in glass vials:  5 ml vials, 50 ml vials, 100 ml      
+               vials; in plastic vials:  10 ml vials, 50 ml vials.
+               Sold also under the Alpha Therapeutics Corporation label;
+               (o) Heparin Sodium Injection, USP, 1,000 USP units/ml, for       
+               intravenous or deep subcutaneous administration for              
+               anticoagulant therapy for prevention and treatment of blood      
+               clots, in 10 ml vials;
+               (p) Heparin Sodium Injection, USP, 10,000 USP units/ml, for      
+               intravenous or deep subcutaneous administration for              
+               anticoagulant therapy for prevention and treatment of blood      
+               clots, in 1 ml vials;
+               (q) Phenytoin Sodium Injection, USP, 50 mg/ml, for the control   
+               of grand mal seizures and prevention and treatment of seizures   
+               occurring during neurosurgery, in 5 ml vials;
+               (r) Dextrose Injection, USP, 50%; for treatment of severe        
+               hypoglycemia due to overdosage of insulin, in 50 ml vials.       
+               Recall #D-024/041-3.
+
+                                      -5-
+CODE           (a) 10 ml: lot #311167, 311198
+                   20 ml: lot #301440
+               (b) lot #320218, 320126
+               (c) lot #311331, 320425
+               (d) lot #311188, 320514, 320521, 320520, 320189, 320190
+               (e) lot #310987, 311175, 311202, 311203
+               (f) lot #320234
+               (g) lot #320228, 320509
+               (h) lot #320770
+               (i) lot #320005, 300282
+               (j) lot #310948
+               (k) lot #320118
+               (l) lot #300726, 311125, 311270, 300388, 320778
+               (m) lot #320593
+               (n) 5 ml glass: lot #320539
+                   50 ml glass: lot #310291
+                   100 ml glass: lot #300732, 300960, 300961, 300963, 310659
+                   10 ml plastic: lot #311182
+                   50 ml plastic: lot #320573
+                   25 ml. private label: lot #310869
+               (o) lot #320585
+               (p) lot #310706
+               (q) lot #311115, 320489
+               (r) lot #320833.
+MANUFACTURER   Lyphomed, Division of Fujisawa USA, Inc., Grand Island, New York
+RECALLED BY    Fujisawa USA, Inc., also known as Lyphomed, Melrose Park,        
+               Illinois.
+DISTRIBUTION   Nationwide, United Arab Emirates, The Bahamas, Singapore,        
+               Palau, Nicaragua, Hong Kong, Malta.
+QUANTITY       Estimated vials to remain on market
+               (a) 8,270; (b) 3,968; (c) 11,904; (d) 114,867; (e) 10,155;
+               (f) 3,280 (g) 22,959; (h) 10,204; (i) 1,380; (j) 658;
+               (k) 4,020; (l) 4,532; (m) 695 (n) 14,918; (o) 7,260;
+               (p) 23,450; (q) 8,520; (r) 3,200.
+REASON         Improper vial seal crimp results in a lack of assurance of       
+               sterility of the products.
+
+              
+PRODUCT        Omnipaque Injection (Iohexol): (a) 300 mg Iodine/ml, 150 ml;     
+               (b) 240 mg Iodine/ml, 50 ml and 100 ml; (c) 350 mg Iodine/ml,    
+               50 ml, an opaque aqueous solution used for intrathecal           
+               intravascular and oral body cavity contrast enhancement for      
+               computerized tomography.  Recall #D-042/044-3.
+CODE           Lot numbers:  (a) B822JJ; (b) B826JJ (50 ml), B823JJ (100 ml);   
+               (c) B832JJ.
+MANUFACTURER   Sterling Pharmaceuticals, Inc., Barceloneta, Puerto Rico.
+RECALLED BY    Sterling Winthrop, New York, New York, by memorandum on or       
+               about September 9, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       3,364 boxes (10 units per box) were distributed.
+REASON         Presence of trace quantities of ethylene glycol due to a         
+               manufacturing equipment failure.
+
+                                      -6-
+              
+PRODUCT        Erythromycin Estolate Oral Suspension USP, 250 mg, in 16 ounce   
+               bottles, a Rx antibiotic.  Recall #D-048-3.
+CODE           Lot #03582 EXP 11/92.
+MANUFACTURER   Barre-National, Inc., Baltimore, Maryland.
+RECALLED BY    Manufacturer, by letter September 29, 1992.  Firm-initiated      
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Firm estimates 576 units remain on the market.
+REASON         Subpotency.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+              
+PRODUCT        Calmol 4, OTC Hemorrhoidal Suppositories.  Recall #D-045-3.
+CODE           Lot numbers:  A511 EXP 1/96, A521 EXP 1/96, B511 EXp 2/96, B521  
+               EXP 2/96, J511 EXP 10/96, J521 EXP 10/96, J531 EXP 10/96.
+MANUFACTURER   The Mentholatum Company, Inc., Buffalo, New York.
+RECALLED BY    Manufacturer, by letter on or about October 15, 1992, followed   
+               by telephone.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       55,032 cartons (12 or 24 per carton, 12 cartons per case) were   
+               distributed; FDA estimates 500 cartons remain on the market.
+REASON         Carton label not in compliance with labeling provisions of       
+               regulation for anorectal products.
+
+              
+PRODUCT        Reseau Formula Tii, EDTA for oral chelation therapy, in 60 and   
+               120 capsule bottles.  Recall #D-046-3.
+CODE           All lots.
+MANUFACTURER   North West Marketing Company, Pacoima, California.
+RECALLED BY    Reseau International, Cincinnati, Ohio (responsible firm), by    
+               letter on or about October 17, 1992.  Firm-initiated recall      
+               ongoing.
+DISTRIBUTION   Nationwide, Canada, Bermuda.
+QUANTITY       2,445 120-capsule size bottles, and 147 60-capsule size bottles  
+               were distributed.
+REASON         Product marketed without new drug approval.
+
+              
+PRODUCT        M-End Liquid, in 16 ounce bottles, a Rx product.
+               Recall #D-047-3.
+CODE           Lot #13563.
+MANUFACTURER   Barre-National, Inc., Baltimore, Maryland.
+RECALLED BY    Manufacturer, by telephone September 17, 1992, followed by       
+               letter September 29, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Tennessee.
+QUANTITY       10,128 units were distributed.
+REASON         Product subpotent for phenindamine tartrate ingredient.
+
+
+                                      -7-
+              
+PRODUCT        Pat Duer Diuretic Tablets, an herbal product, in plastic         
+               bottles of 90 and 250 tablets.  Recall #D-049-3.
+CODE           103792 EXP 12/93.
+MANUFACTURER   Fibertone/Patten, also known as Naturally Vitamin supplements,   
+               Scottsdale, Arizona.
+RECALLED BY    Manufacturer, by letter August 14, 1992.  Firm-initiated recall  
+               ongoing.
+DISTRIBUTION   California, Illinois, Oregon, Texas, Utah, Washington state.
+QUANTITY       37 bottles of 90 tablets each and 37 bottles of 250 tablets      
+               each were distributed.
+REASON         Current good manufacturing practice deficiencies.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+              
+PRODUCT        Platelets.  Recall #B-021-3.
+CODE           Unit numbers:  19GG28494, 19GG28497, 19GG28499, 19GG28501,       
+               19GG30244, 19GG30246, 19GG30249, 19R98696, 19R98699, 19R98703,   
+               19R98704, 19R98706.
+MANUFACTURER   American Red Cross, Blood Services, Tennessee Valley Region,     
+               Paducah Location, Paducah, Kentucky.
+RECALLED BY    Manufacturer, by telephone October 25, 1991 , and April 27,      
+               1992, and by letters of October 29, 1991, and April 30, 1992.    
+               Firm-initiated recall complete.
+DISTRIBUTION   Kentucky.
+QUANTITY       12 units.
+REASON         Blood products labeled with incorrect expiration dates were      
+               distributed.
+
+              
+PRODUCT        Red Blood Cells.  Recall #B-022-3.
+CODE           Unit #53KM26426.
+MANUFACTURER   American Red Cross Blood Services, The Greater Chesapeake and    
+               Potomac Region, Baltimore, Maryland.
+RECALLED BY    Manufacturer, by letter August 29, 1991.  Firm-initiated recall  
+               complete.
+DISTRIBUTION   Maryland.
+QUANTITY       1 unit.
+REASON         Blood product collected from an ineligible donor was             
+               distributed. 
+
+              
+PRODUCT        Hepatitis B Immune Globulin (Human).  Recall #B-023-3.
+CODE           Lot numbers:  16U01A, 16U01AB, 16U02A, 16U02B, 16U03A.
+MANUFACTURER   Miles, Inc., Berkeley, California.
+RECALLED BY    Manufacturer, by letter dated April 11, 1991.  Firm-initiated    
+               recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       20,431 vials were distributed; firm estimates none remains on    
+               the market.
+REASON         Hepatitis B Immune Globulin (Human), exhibiting decreased        
+               potency during the dating period, was distributed.
+
+                                      -8-
+              
+PRODUCT        (a) Whole Blood; (b) Red Blood Cells; (c) Platelets;
+               (d) Cryoprecipitated AHF; (e) Fresh Frozen Plasma;
+               (f) Recovered Plasma.  Recall #B-024/029-3.
+CODE           (a) 1622664;
+               (b) 1016116, 1018348, 1018977, 1021893, 1025998, 1026625,
+               1027544, 1030565, 1031471, 1032471, 1033657, 1033968,
+               1034695, 1034884, 1188268, 1191135, 1259425, 1266544,
+               1276657, 1278026, 1319307, 1330260, 1338542, 1347882,
+               1410689, 1617740, 1635043, 1666995, 1674038, 1698176,
+               1701775, 1817030, 2019049, 3507270, 3508402, 5005999,
+               5008016, 7011661, 7147660, 7169206, 7208841, 7213804,
+               7220549, 7268836, 7314817, 7415004, 7234157, 7420863,
+               9502931, 9503110, 7168155
+               (c) 1016116, 1018348, 1018977, 1021893, 1030565, 1031471,
+               1032471, 1033657, 1033968, 1034695, 1034884, 1188268,
+               1191135, 1259425, 1266544, 1276657, 1278026, 1330260,
+               1338542, 1347882, 1410689, 1617740, 1635043, 1666995,
+               1701775, 1817030, 3507270, 3508402, 7011661, 7147660,
+               7169206, 7208841, 7213804, 7220549, 7234157, 7268836,
+               7314817, 7415004, 7420863
+               (d) 1016116, 1025998, 1027544, 1032471, 1674038, 7208841,
+               7314817
+               (e) 1018348, 1033968, 1191135, 1259425, 1276657, 1278026,
+               1338542, 1347882, 1617740, 1635043, 5005999, 7213804,
+               7220549, 7268836, 7415004, 7420863
+               (f) 1018977, 1021893, 1030565, 1031471, 1032471, 1034884,
+               1188268, 1410689, 1666995, 1674038, 1701775, 1817030,
+               3507270, 3508402, 7011661, 7147660, 7169206, 7234157,
+               1016616, 1025998, 1026625, 1266544, 1319307, 1330260,
+               1698176, 2019049, 5008016, 7314817, 9502931, 9503110
+MANUFACTURER   LifeSource, Glenview, Illinois.
+RECALLED BY    Manufacturer, by letters of April 28, 1992, May 4, 7, 12, 18,    
+               and 27, 1992, June 5 and 10, 1992.  Firm-initiated recall        
+               ongoing.
+DISTRIBUTION   Illinois, Iowa, Arizona, Washington, D.C., Florida, California.
+QUANTITY       (a) 1 unit; (b) 51 units; (c) 39; (d) 7 units; (e) 16 units;
+               (f) 30 units.  Firm estimates none of the products remain on     
+               the market.
+REASON         Blood products, which tested negative for all viral markers,     
+               but were collected from donors who previously tested repeatedly  
+               reactive for either the antibody to hepatitis C virus encoded    
+               antigen (anti-HCV) or the antibody to human immunodeficiency     
+               virus type 1 (anti-HIV-1), were distributed.
+
+              
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma.  Recall #B-030/031-3.
+CODE           Unit numbers:  2190496, 2190536, 2207478.
+MANUFACTURER   Department of the Army, Camp Memorial Hospital Blood Center,     
+               Fort Knox, Kentucky.
+RECALLED BY    Manufacturer, by letters of October 24, 1991, November 4, 1991,  
+               and February 7, 1992, and by telephone August 19, 1992.          
+               Firm-initiated recall ongoing.
+
+                                      -9-
+DISTRIBUTION   Massachusetts, Kentucky, Florida.
+QUANTITY       3 units of each component.
+REASON         Blood products, which tested repeatedly reactive for the         
+               antibody to hepatitis C virus encoded antigen (anti-HCV) or      
+               tested negative for the antibody to human immunodeficiency       
+               virus type 1 (anti-HIV-1), but were collected from a donor who   
+               previously tested repeatedly reactive for anti-HIV-1, were       
+               distributed.
+
+              
+PRODUCT        Platelets.  Recall #B-035-3.
+CODE           Unit #J15043.
+MANUFACTURER   Mississippi Valley Regional Blood Center, Davenport, Iowa.
+RECALLED BY    Manufacturer, by telephone August 3, 1992.  Firm-initiated       
+               recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       1 unit.
+REASON         The labeling accompanying the distributed blood product          
+               contained the incorrect expiration date.
+
+              
+PRODUCT        Red Blood Cells.  Recall #B-036-3.
+CODE           Unit numbers:  40FE95327, 40GL43783.
+MANUFACTURER   American Red Cross Blood Services, Heart of America Region,      
+               Peoria, Illinois.
+RECALLED BY    Manufacturer, by letter June 1, 1992.  Firm-initiated recall     
+               complete.
+DISTRIBUTION   Illinois.
+QUANTITY       2 units.
+REASON         Blood component shipped at unacceptable temperatures was         
+               distributed.
+
+              
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Cryoprecipitated AHF.    
+               Recall #B-038/040-3.
+CODE           Unit #KM14767.
+MANUFACTURER   Virginia Blood Services, Richmond, Virginia.
+RECALLED BY    Manufacturer, by letter July 22, 1992.  Firm-initiated recall    
+               complete.
+DISTRIBUTION   Virginia.
+QUANTITY       1 unit of each component.
+REASON         Blood products, which tested repeatedly reactive for the         
+               antibodies to the human immunodeficiency virus type-1 and 2      
+               (anti-HIV-1/2), were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+              
+PRODUCT        (a) Whole Blood; (b) Red Blood Cells.  Recall #B-001/002-3.
+CODE           Unit numbers:  (a) 626500; (b) 609984, 620235.
+MANUFACTURER   North Colorado Medical Center and Blood Bank, Greeley, Colorado;
+               Belle Bonfils Memorial Blood Center, Denver, Colorado.
+
+                                     -10-
+RECALLED BY    Belle Bonfils Memorial Blood Center, Denver, Colorado, by        
+               telephone September 12 and 23, 1991.  Firm-initiated recall      
+               complete.
+DISTRIBUTION   Colorado.
+QUANTITY       (a) 1 unit; (b) 2 units.
+REASON         Blood products labeled with incorrect expiration dates, were     
+               distributed.
+
+              
+PRODUCT        (a) Red Blood Cells; (b) Platelets.  Recall #B-033/034-3.
+CODE           Unit numbers:  (a) 105532, 106894; (b) 105532.
+MANUFACTURER   Blood Bank of Alaska, Anchorage, Alaska.
+RECALLED BY    Manufacturer, by telephone March 24, 1992, and by memorandum     
+               dated March 27, 1992.  Firm initiated recall complete.
+DISTRIBUTION   California, Alaska.
+QUANTITY       (a) 2 units; (b) 1 unit.
+REASON         Blood products collected from a donor who took antimalarial      
+               prophylaxis were distributed.
+
+              
+PRODUCT        Red Blood Cells.  Recall #B-037-3.
+CODE           Unit numbers:  40LH00458, 40LH00459, 40LH00460, 40LH00463,       
+               40LH00464, 40LH00465.
+MANUFACTURER   American Red Cross Blood Services, Heart of America Region,      
+               Peoria, Illinois.
+RECALLED BY    Manufacturer, by letters of May 19, 27, and 28, 1992.            
+               Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       6 units.
+REASON         Blood component labeled with incorrect expiration dates was      
+               distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY -- CLASS II
+              
+PRODUCT        Organic Iodine '20' (EDDI), in 25 pound pails.  Recall #V-004-3.
+CODE           Lot #50-1422.
+MANUFACTURER   Forage Research, Inc., Clarksdale, Missouri.
+RECALLED BY    Manufacturer, by letter June 17, 1992.  Firm-initiated recall    
+               complete.
+DISTRIBUTION   Texas.
+QUANTITY       40 pails were distributed.
+REASON         Unapproved new animal drug.
+
+
+INJUNCTION:
+              
+PRODUCT        Liquid injectable silicone (also known as polydimethyl-
+               siloxane and PDS) (92-663-574).
+CHARGE:        The product is a class III medical device which does not
+               have in effect the required approved premarket approval
+               application or investigational device exemption.
+
+                                     -11-
+DEFENDANTS     Richard B. Aronsohn, M.D., an individual and a corporation,
+               Los Angeles, California.
+FILED          May 7, 1992, Complaint; September 21, 1992, Consent Decree
+               of Permanent Injunction; U.S. District Court for the Central
+               District of California; Civil #CV 92 2780 WJR (LEX);
+               INJ 1279.
+
+
+SEIZURES:
+              
+PRODUCT        NEOVET Neomycin Sulfate for oral or topical use
+               (92-598-217).
+CHARGE         Adulterated - The methods used in, and the facilities and
+               controls used for, the product's manufacture, processing,
+               packing, and holding do not conform to and are not operated
+               and administered in conformity with current good
+               manufacturing practice regulations.
+FIRM           Rx Veterinary Products, Kansas City, Missouri.
+FILED          October 5, 1992; U.S. District Court for the Western
+               District of Missouri, Western Division; Civ. #92-0891-CV-
+               W-6; FDC #66604.
+SEIZED         October 16, 1992 - goods valued at approximately $5,940.
+
+              
+PRODUCT        Nolatrim-75 Phenylpropanolamine Hydrochloride Timed Release
+               Capsules (92-630-655).
+CHARGE         Adulterated - The methods used in, and the facilities and
+               controls used for, the product's manufacture, processing,
+               and holding do not conform to and are not operated and
+               administered in conformity with current good manufacturing
+               practice regulations.
+               Misbranded - The product's label fails to contain the
+               correct place of business of the distributor.
+FIRM           Wesley Pharmacal Company, Ivyland, Pennsylvania.
+FILED          September 22, 1992; U.S. District Court for the Eastern
+               District of Pennsylvania; Civil #92CV5491; FDC #66601.
+SEIZED         September 28, 1992 - 93 bottles, valued at approximately
+               $2,697.
+
+              
+PRODUCT        Calcium pangamate tablets (92-607-526).
+CHARGE         Adulterated - The product contains the food additive,
+               N,N-dimethylglycine, which is unsafe because there is no
+               regulation in effect prescribing the conditions under which
+               the additive may be safely used.
+FIRM           General Nutrition Corporation, Inc., Leetsdale,
+               Pennsylvania.
+FILED          June 5, 1992 - U.S. District Court for the Western
+               District of Pennsylvania; Civil #92-1388; FDC #66377.
+SEIZED         June 29, 1992 - goods valued at approximately $3,775.
+
+                                     -12-
+              
+PRODUCT        Sterile Latex Surgical Gloves (92-610-446).
+CHARGE         Adulterated - The methods used in, and the facilities and
+               controls used for, the product's manufacture, packing, and
+               storage are not in conformity with current good
+               manufacturing practice regulations.
+FIRM           American Pro Latex, Inc., Monmouth, Illinois.
+FILED          October 14, 1992; U.S. District Court for the Central
+               District of Illinois; Civil #92-1453; FDC #66461.
+SEIZED         October 15, 1992 - goods valued at approximately $80,155.
+
+                                     -13-
+
+END OF ENFORCEMENT REPORT FOR OCTOBER 28, 1992.  BLANK PAGES MAY
+FOLLOW.
+
+                                     ###

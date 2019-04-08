@@ -1,0 +1,695 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      28 captures
+	      25 Feb 1997 - 15 May 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+04/21/1993
+
+Recalls and Field Corrections:  Foods -- Class II -- 04/21/1993
+
+APRIL 21, 1993
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+_______________
+PRODUCT         Various flavors of Atwood & Cooke brand peanut butter:
+                (a) Creamy Style, 16 ounces;
+                (b) Banana Crunch, 7.5 ounces;
+                (c) Chocolate Raspberry, 7.5 ounces;
+                (d) Chocolate Strawberry, 7.5 ounces;
+                (e) Chocolate Peanut Butter, 7.5 ounces.
+                Recall #F-135/139-3.
+CODE            All lots made from creamy peanut butter imported from
+                Argentina with Batch #5064/2.
+MANUFACTURER    Tomeko Corporation, Princeton, New Jersey (importer).
+RECALLED BY     Atwood  Cooke Limited, Boston, Massachusetts, by letter
+                September 28, 1992.  Firm-initiated recall complete.
+DISTRIBUTION    Massachusetts, Georgia, Wisconsin, New York, New Jersey,
+                Florida.
+QUANTITY        648 cases were distributed.
+REASON          Products contaminated with aflatoxin.
+
+_______________
+PRODUCT         Ceramic Dinnerware in two different patterns each labeled
+                Herend Hungary Handpainted:  Yellow Dynasty Pattern;
+                (b) Blue Garden Pattern.  Recall #F-249/250-3.
+CODE            (a) Heremd Hungary Handpainted 2515153; 
+                (b) Herend Hungary Handpainted 1515 W53 H91.
+MANUFACTURER    Herend, Hungary.
+RECALLED BY     Gump's Inc., San Francisco, California, by letter dated
+                January 22, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION    Undetermined.
+QUANTITY        Undetermined.
+REASON          The product contains excessive levels of leachable lead.
+
+_______________
+PRODUCT         Ebingers pastries packed in green paper boxes:
+                (a) Pineapple Cheesecake; (b) Lemon Roll;
+                (c) Lemon French Crumb Cake;
+                (d) Lemon Crumb Pie.  Recall #F-273/276-3.
+CODE            None.
+MANUFACTURER    Ebingers Fine Bakers, Inc., Brooklyn, New York.
+RECALLED BY     Manufacturer, by letter and by visit on or about February
+                12, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION    New York, New Jersey.
+QUANTITY        (a) 350 units; (b) 300 units; (c) 300 units; (d) 400 units
+                were distributed.
+REASON          Product contains undeclared FD&C; Yellow No. 5.
+
+_______________
+PRODUCT         Brown's Velvet Dairy Products Lemonade Juice Drink, in 1
+                gallon bottles.  Recall #F-285-3.
+CODE            Sell by dates:  MAR 16, MAR 23, MAR 30, APR 06.
+MANUFACTURER    National Fruit Flavor Company, Inc., New Orleans
+                (concentrate).
+RECALLED BY     Brown's Velvet Dairy Products, New Orleans, Louisiana, by 
+                letter February 4, 1993.  Firm-initiated recall complete.
+DISTRIBUTION    Louisiana, Mississippi.
+QUANTITY        7,249 bottles were distributed.
+REASON          Product contains undeclared FD&C; Yellow No. 5.
+
+_______________
+PRODUCT         Quaker Chewy Granola Bars, Chocolate Chip, in 10 ounce
+                boxes.  Recall #F-294-3.
+CODE            Package codes:  3H22B*, 3H23B*, 3H24B*, where * = 1 through
+                10.  Shipping Case Codes:  Feb2293H, Feb2393H, Feb2493H.
+MANUFACTURER    The Quaker Oats Company, Danville, Illinois.
+RECALLED BY     The Quaker Oats Company, Chicago, Illinois, by press
+                release March 12, 1993, followed by telephone and visits to
+                be completed March 26, 1993.  Firm-initiated recall
+                complete.
+DISTRIBUTION    Pennsylvania, California, Illinois, New York,
+                Massachusetts, New Jersey, Connecticut, Ohio.
+QUANTITY        1,827 cases (10 bars per box, 12 boxes per case) were
+                distributed.
+REASON          Product is contaminated with metal fragments.
+
+                                    -2-RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+_______________
+PRODUCT         Ebingers Pastries packed in green paper boxes:
+                (a) Cherry Cheesecake; (b) Blueberry Cheesecake.
+                Recall #F-277/278-3.
+CODE            None.
+MANUFACTURER    Ebingers Fine Bakers, Inc., Brooklyn, New York.
+RECALLED BY     Manufacturer, by letter and by visit on or about February
+                12, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION    New York, New Jersey.
+QUANTITY        (a) 150 units; (b) 350 units were distributed.
+REASON          Products contains an artificial color whose presence is not
+                declared on the label.
+
+_______________
+PRODUCT         Bottled Water:
+                (a) Smokey Mountain Brand Natural Spring Water, in 16 fluid
+                ounce, 1 gallon & 2.5 gallon containers;
+                (b) Red Foods brand Natural Spring Water, in 16 fluid
+                ounce, 1 gallon & 2.5 gallon containers;
+                (b) Smokey Mountain brand Premium Water, in 1 gallon
+                containers;
+                (c) Smokey Mountain brand Distilled Water, in 1 gallon &
+                2.5 gallon containers;
+                (d) Red Foods brand Distilled Water, in 1 gallon & 2.5
+                gallon containers.  Recall #F-279/283-3.
+CODE            All containers bearing codes 1642 through 2742, inclusive,
+                and containers coded 9122, 9132, 9142, 9152, 9162, 9202,
+                9272 and 9292.  All of these were packaged by the recalling
+                firm during the period of 06/12/92 through 09/30/92,
+                inclusive.
+MANUFACTURER    Smokey Mountain Premium Water, Inc., Lenoir City,
+                Tennessee.
+RECALLED BY     Manufacturer, by visit.  Firm-initiated recall complete.
+DISTRIBUTION    Tennessee, Kentucky, Georgia.
+QUANTITY        Undetermined.
+REASON          Product is contaminated with non-fecal coliform.
+
+_______________
+PRODUCT         Hain Naturals Fruitwich Fruit Bars, 9 ounces, in 3 flavors,
+                fig, apple raisin, and peach apricot.  Recall #F-284-3.
+CODE            All lots.
+MANUFCTURER     J & J Snack Food Corporation of California, Los Angeles,
+                California.
+RECALLED BY     Hain Pure Food Company, Inc., Los Angeles, California, by
+                letter dated October 31, 1991.  Firm-initiated recall
+                complete.
+DISTRIBUTION    Nationwide.
+
+                                    -3-QUANTITY        8,120 cases (12 packages of 6) were distributed.
+REASON          Product is contaminated with mold.
+
+_______________
+PRODUCT         Canned Mandarin Oranges, Kings Pantry Whole Segments in
+                light syrup, 11 ounces.  Recall #F-289-3.
+CODE            The can codes were 3 line codes "S8" over "901104" over
+                "601", as an example.  The top line code and bottom line
+                code were constant.  The 24 can codes varied in the middle
+                line in the following ranges:  901104 through 901123 and
+                901208 through 901211.
+MANUFACTURER    Guanghi Cereal Oils & Foodstuffs Imports and Exports
+                Corporation, Manning Guanghi, China.
+RECALLED BY     C.M.G. Trading, Inc., Division of Strohmayer & Arpe, Short
+                Hills, New Jersey, by telephone on or before March 1, 1992,
+                by internal letters and bulletins March 2, 1992.  Firm-
+                initiated recall complete.
+DISTRIBUTION    New York, Texas, Pennsylvania.
+QUANTITY        4,776 cases (24 cans per case) were distributed; firm
+                estimates none remains on the market.
+REASON          Product is contained in detinning cans.
+
+_______________
+PRODUCT         Nobility brand Mandarin Oranges, whole segments, in light
+                syrup.  Recall #F-290-3.
+CODE            All lots with a "P" as the 1st character of the 1st line. 
+                There were 7 lots distributed which contain the "P" code. 
+                The top line codes are P31 or P35.  The middle line codes
+                are 911106, 911107, 91108, or 911109.  The bottom line code
+                is 601.
+MANUFACTURER    Product of the People's Republic of China.
+RECALLED BY     Mitsui Foods, Inc., Hackensack, New Jersey February 19, 
+                1993.  Firm initiated recall complete.
+DISTRIBUTION    New York.
+QUANTITY        4,000 cases (24 cans per case) were distributed; firm
+                estimates none remains on the market.
+REASON          Product is contained in detinning cans.
+
+_______________
+PRODUCT         (a) Old Family Recipe Parmesan Pepper Dressing, in 8 fluid
+                ounce bottles;
+                (b) Old Family Recipe Lite - Parmesan Pepper Dressing
+                Reduced Calorie, in 8 fluid ounce bottles.
+                Recall #F-291/292-3.
+CODE            All date codes prior to JUN 10 93G.
+MANUFACTURER    Martin Gillet and Company, Inc., Baltimore, Maryland.
+RECALLED BY     telephone January 7, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION    Maryland, Virginia, Washington, D.C., California, Colorado,
+                Illinois, Massachusetts, New Jersey, Nebraska, Wyoming, New
+                York, New England.
+                                    -4-QUANTITY        (a) 3,386 cases (12 bottles per case); (b) 749 cases (12
+                bottles per case) were distributed.
+REASON          Product is contaminated with yeast.
+
+_______________
+PRODUCT         Cashews packed into 25 pound tins labeled as packed by M.
+                Abdul Rahumankunju Quilon.  Recall #F-293-3.
+CODE            Lot #4318.
+MANUFACTURER    Specialty Commodities, Los Angeles, California (importer).
+RECALLED BY     Nutrasource, Seattle, Washington, by telephone March 3,
+                1993, followed by letter.  Firm-initiated recall ongoing.
+DISTRIBUTION    Alaska, Washington state, Oregon.
+QUANTITY        215 tins were distributed.
+REASON          Product is contaminated with insect filth.
+
+_______________
+PRODUCT         Health For Life brand L-Carnitine, 250 mg caplets,
+                nutritional supplement. Recall #F-295-3.
+CODE            2609-2. 
+MANUFACTURER    International Vitamin Supplement, Inc., Union, New Jersey.
+RECALLED BY     Triage Pharmaceutical, Inc., Syracuse, New York, by fax
+                March 5, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        2,412 bottles were distributed.
+REASON          Product is subpotent for L-carnitine, 38% of label claim.
+
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+_______________
+PRODUCT         Bancap Capsules, (50 mg butalbital and 325 acetaminophen),
+                in 100 and 500 capsule bottles, Rx for the relief of the
+                symptoms complex of tension or muscle contraction,
+                headache.  Recall #D-217-3.
+CODE            Lot #4916 EXP 5/93.
+MANUFACTURER    Forest Pharmaceuticals, Inc., Cincinnati, Ohio.
+RECALLED BY     Forest Pharmaceuticals, Inc., Maryland Heights, Missouri,
+                by letters dated February 1, 1993.  Firm-initiated recall
+                ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        1,606 100-capsule bottles and 60 500-capsule bottles were
+                distributed.
+REASON          Unreliable data in the Abbreviated New Drug Application.
+
+_______________
+PRODUCT         Ampicillin for Oral Suspension, USP, 125 mg/5 ml, 200 ml
+                (when mixed), Rx product used to treat infections, under
+                the following labels:  URL, Schein, Goldline, Aligen,
+                Major, Rugby.  Recall #D-218-3.
+CODE            Lot #27871 EXP 3/1/94.
+MANUFACTURER    Biocraft Laboratories, Inc., Elmwood Park, New Jersey.
+
+                                    -5-RECALLED BY     Biocraft Laboratories, Inc., Fairlawn, New Jersey, by
+                telephone September 10, 1992, followed by letters of
+                September 14 and 22, 1992.  Firm-initiated recall complete.
+DISTRIBUTION    New York, Wyoming, Illinois, Kentucky, California,
+                Pennsylvania, Florida.
+QUANTITY        5,010 bottles were distributed.
+REASON          Subpotency.
+
+_______________
+PRODUCT         E.S.P. (Erythromycin Ethylsuccinate and Sulfisoxazole
+                Acetyl) for oral suspension, 200 mg/600 mg/5 ml, a Rx
+                antibiotic powder.  Recall #D-219-3.
+CODE            Lot numbers:  1H445DQ EXP 9/95, 1I445EF EXP 10/95.
+MANUFACTURER    Barr Laboratories, Inc., Pomona, New York.
+RECALLED BY     Manufacturer, by letter on or about February 26, 1993. 
+                Firm-initiated recall ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        Undetermined.
+REASON          Subpotency.
+
+_______________
+PRODUCT         Erythromycin Lactobionate, USP Intravenous sterile,
+                lyophilized powder for reconstitution and injection, used
+                in the treatment of infections.  Recall #D-228-3.
+CODE            Control numbers: 323-807 (2849-01-111),
+                307-815 (2849-02-111), 3170848 (2848-56-400).
+MANUFACTURER    Lederle Parenterals, Carolina, Puerto Rico.
+RECALLED BY     Manufacturer, by letter March 22, 1993.  Firm-initiated
+                recall ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        7,320 units (packages of 10) were distributed.
+REASON          Product fails pH and potency specifications after
+                reconstitution.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+_______________
+PRODUCT         National Health Products Caplets/Tablets:  (a) Steroid
+                Replacer Pacs, an OTC multi-ingredient drug product, 7
+                tablets wrapped in plastic bags called packets with 30
+                packets per retail box;
+                (b) Hormoplex GH, an OTC combination ingredient drug
+                product in plastic bottles of 90 and 180;
+                (c) Cleanze System, an OTC multi-ingredient drug, in paper
+                boxes of 6 tablets and packed in a plastic bag called
+                packet with 45 packets per retail box.
+                Recall #D-214/216-3.
+CODE            All codes.
+MANUFACTURER    (a) Energy Factors, Inc., Largo, Florida;
+                (b) Healthy 'N Fit International, Bronx, New York;
+                (c) Garden State Nutritionals, Fairfield, New Jersey.
+
+                                    -6-
+RECALLED BY     National Health Products, Orlando, Florida, by letter
+                February 17 and 18, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION    Nationwide and international.
+QUANTITY        Approximately (a) 2,000 boxes; (b) 2,000 boxes; (c) 3,000
+                to 4,000 boxes were distributed.
+REASON          Products were marketed without new drug approval.
+
+_______________
+PRODUCT         Erythromycin Delayed Release Capsules, 250 mg, a Rx oral
+                antibiotic.  Recall #D-220-3.
+CODE            Lot #1F584EV EXP 7/93.
+MANUFACTURER    Barr Laboratories, Inc., Northvale, New Jersey.
+RECALLED BY     Barr Laboratories, Inc., Pomona, New York, by letter on or
+                about February 26, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        Undetermined.
+REASON          Superpotent.
+
+_______________
+PRODUCT         Erythromycin Stearate Tablets; (a) 250 mg; (b) 500 mg, in
+                bottles of 500, oral Rx antibiotics.  Recall #D-221/222-3.
+CODE            Lot numbers:  (a) 0I013FQ EXP 3/93; (b) 2A219HJ EXP 5/94.
+MANUFACTURER    Barr Laboratories, Inc., Northvale, New Jersey.
+RECALLED BY     Barr Laboratories, Inc., Pomona, New York, by letter on or
+                about February 26, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        Undetermined.
+REASON          (a) Small degrees of subpotency.
+                (b) Product does not meet content uniformity
+                specifications.
+
+_______________
+PRODUCT         Erythromycin Ethylsuccinate Tablets, 400 mg, in bottles of
+                100, a Rx oral antibiotic.  Recall #D-223-3.
+CODE            Lot #0B259FA EXP 3/94.
+MANUFACTURER    Barr Laboratories, Inc., Northvale, New Jersey.
+RECALLED BY     Barr Laboratories, Inc., Pomona, New York, by letter on or
+                about February 26, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        Undetermined.
+REASON          Product does not meet content uniformity specifications.
+
+_______________
+PRODUCT         Aspirin with Codeine Tablets, 325 mg/60 mg, a Rx analgesic. 
+                Recall #D-224-3.
+CODE            Lot #1C280DT EXP 1/96.
+MANUFACTURER    Barr Laboratories, Inc., Northvale, New Jersey.
+RECALLED BY     Barr Laboratories, Inc., Pomona, New York, by letter on or
+                about February 26, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        Undetermined.
+REASON          Subpotent.
+
+                                    -7-_______________
+PRODUCT         Hydrocodone Bitartrate with Acetaminophen Tablets, 5 mg/500
+                mg, in bottles of 100, 50, 20, and 30, an
+                antitussive/analgesic combination.  Recall #D-225-3.
+CODE            Lot #1D325CL EXP 5/94.
+MANUFACTURER    Barr Laboratories, Inc., Northvale, New Jersey.
+RECALLED BY     Barr Laboratories, Inc., Pomona, New York, by letter on or
+                about February 26, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        Undetermined.
+REASON          Superpotent.
+
+_______________
+PRODUCT         Meperidine HCl Tablets, 50 mg, in bottles of 100, a
+                narcotic analgesic.  Recall #D-226-3.
+CODE            Lot #0B381AT EXP 3/93.
+MANUFACTURER    Barr Laboratories, Inc., Northvale, New Jersey.
+RECALLED BY     Barr Laboratories, Inc., Pomona, New York, by letter on or
+                about February 26, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        Undetermined.
+REASON          Subpotent.
+
+_______________
+PRODUCT         Dicyclomine HCl Capsules, USP, 20 mg, in bottles of 1,000,
+                an antispasmodic and anticholinergic.  Recall #D-227-3.
+CODE            Lot numbers:  0E126AA EXP 7/94 and 1H125CX EXP 9/95.
+MANUFACTURER    Barr Laboratories, Inc., Northvale, New Jersey.
+RECALLED BY     Barr Laboratories, Inc., Pomona, New York, by letter on or
+                about February 26, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        Undetermined.
+REASON          Small degrees of superpotency.
+
+
+_______________
+PRODUCT         Topical Heparin Powder, in 55 gallon size fiber drums, used
+                to manufacture topical ointments.  Recall #D-229-3.
+CODE            Lot numbers:  TH-182-92, and TH-183-92.
+MANUFACTURER    Kabi Pharmacia Hepar, Inc., Franklin, Ohio.
+RECALLED BY     Manufacturer, by letter dated February 9, 1993.  Firm-
+                initiated field correction ongoing.
+DISTRIBUTION    France.
+QUANTITY        2 drums were distributed.
+REASON          Product mislabeled as Lithium Heparin.
+
+
+RECALLS AND FIELD CORRECTIONS;  BIOLOGICS -- CLASS I
+
+_______________
+PRODUCT         Platelets.  Recall #B-104-3.
+CODE            Unit #9A9293.
+
+                                    -8-MANUFACTURER    Puget Sound Blood Center, Seattle, Washington.
+RECALLED BY     Manufacturer, by telephone December 20, 1991.  Firm-
+                initiated recall complete.
+DISTRIBUTION    Washington state.
+REASON          Blood product, which tested repeatedly reactive for the
+                antibody to the hepatitis C virus encoded antigen (anti-
+                HCV) by both the enzyme immunoassay (EIA) and by the
+                recombinant immunoblot assay (RIBA), was distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+_______________
+PRODUCT         (a) Red Blood Cells; (b) Red Blood Cells For Further
+                Manufacture; (c) Recovered Plasma.  Recall #B-226/228-3.
+CODE            Unit numbers:  H28426, M34799; (b) M29306; 
+                (c) H20104/2, H20695/2, M30597/2, M30615/2, M34799/2,
+                M39202/2.
+MANUFACTURER    Milton S. Hershey Medical Center, Hershey, Pennsylvania.
+RECALLED BY     Manufacturer, by letters dated November 27, 1992 and
+                December 14, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION    Pennsylvania, New Jersey, Maryland.
+QUANTITY        (a) 2 units; (b) 1 unit; (c) 6 units.
+REASON          Blood products, which tested negative for the antibody to
+                human immunodeficiency virus type 1 (anti-HIV-1) and the
+                antibody to hepatitis C virus encoded antigen (anti-HCV),
+                but were collected from donors who either:  1) previously
+                tested repeatedly reactive for anti-HIV-1, or 2) previously
+                tested repeatedly reactive for anti-HIV-1 and anti-HCV,
+                were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+_______________
+PRODUCT         Omnitron Model 2000 High Dose Rate Remote Afterloader
+                System for brachytherapy radiation -- administering
+                radiation interstitially directly to the tumor bed of a
+                cancer patient.  Recall #Z-169-3.
+CODE            Serial numbers:  105, 108, 115, 116, 123, 124.
+MANUFACTURER    Omitron International, Inc., Houston, Texas.
+RECALLED BY     Manufacturer, by letter January 14, 1993.  Firm-initiated
+                recall ongoing.
+DISTRIBUTION    Florida, Maryland, New Jersey, New York, Pennsylvania,
+                Tennessee.
+QUANTITY        6 units were distributed.
+REASON          The source wires which were shipped in teflon-lined
+                containers and exposed to hydrogen fluoride gas may be
+                subject to embrittlement which would make them more likely
+                to break.
+
+_______________
+PRODUCT         Sterile obstetrical/gynecological devices: 
+                (a) Uter Vac Rigid Vacuum Curettes, 6 mm through 16 mm      
+                sizes;
+                                    -9-                (b) Flexible Curettes labeled as Vacuum Aspiration         
+                Catheters, 4 mm through 8 mm sizes;
+                (c) Uterine Sounds, Reorder No. 0315011;
+                (d) Cervical Dilator sets labeled as CervEx Dilators, each
+                set contains 1-5 dilators, 3 mm through 16 mm;
+                (e) Uter Cyte Endometrial Sampling Sets;
+                (f) Menstrual Aspiration Sets;
+                (g) Uter Vac Tissue Collection Sets.  Recall #Z-440/446-3.
+CODE            All lots.
+MANUFACTURER    International Medical Technologies Group Inc., Glens Falls,
+                New York, telephone beginning March 12, 1993, which were
+                completed on or about March 16, 1993, and by letters dated
+                March 9, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        (a) 468,553 units; (b) 11,638 units; (c) 314 kits; (d) 103
+                sets; (e) 2,490 units; (f) 25,326 units; (g) 2,834 units
+                were distributed.
+REASON          Products are labeled as sterile when they are not.
+
+_______________
+PRODUCT         Transrectal Biopsy Guide, manual gastorenterology urology
+                surgical accessory device used with the advanced diagnostic
+                medical system style transrectal probe.  Recall #Z-473-3.
+CODE            All lots manufactured for the last two years.
+MANUFACTURER    Acoustic Associates, Marietta, Georgia.
+RECALLED BY     Manufacturer, by letter August 17, 1992.  Firm-initiated
+                recall complete.
+DISTRIBUTION    Colorado, Florida, Missouri, New York, Pennsylvania, Texas.
+QUANTITY        Approximately 1,000 units were distributed.
+REASON          Product was manufactured under a lack of good manufacturing
+                practices including no product specifications, no device
+                history, no sterilization validation, and also lacks
+                required labeling including product identity, description
+                and directions for use.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+_______________
+PRODUCT         Boston Broth Culture Media for cultivation of
+                Mycoplasmataceae, an in-vitro diagnostic, in 2 ml capped
+                vials.  Recall #Z-471-3.
+CODE            Product #S1150, lot #7583 EXP 1/14/93.
+MANUFACTURER    Micro Diagnostics, Inc., Lombard, Illinois.
+RECALLED BY     Manufacturer, by discussing problem with both accounts on
+                December 10 and 21, 1992.  Firm-initiated recall complete.
+DISTRIBUTION    Illinois.
+QUANTITY        379 vials were distributed; firm estimates none remains on
+                the market.
+REASON          Product may be contaminated with fuzzy mold growth.
+
+                                   -10-_______________
+PRODUCT         Tryptic Soy Agar with 0.5% Tween 80 and 0.05% Sodium
+                Thiosulfate (Rodac) Contact Plate, culture media used for
+                the detection and enumeration of microorganisms on surfaces
+                of sanitary importance.  Recall #Z-472-3.
+CODE            Product #C6087 Lot #8872 EXP 5/19/93.
+MANUFACTURER    Micro Diagnostics, Inc., Lombard, Illinois.
+RECALLED BY     Manufcturer, by telephone March 11, 1993.  Firm-initiated
+                recall complete.
+DISTRIBUTION    Illinois.
+QUANTITY        45 cartons (10 plates per carton) were distributed; firm
+                estimates none remains on the market.
+REASON          Product may produce extremely poor/unacceptable
+                growth/recovery of E. coli.
+
+_______________
+PRODUCT         Nellcor N-250 Pulse Oximeter/ECG Monitor Manual.
+                Recall #Z-474-3.
+CODE            All serial numbers distributed between 4/7/91 and 11/26/91.
+MANUFACTURER    Nellcor, Inc., Chula Vista, California.
+RECALLED BY     Nellcor, Inc., Hayward, California, by letter December 23,
+                1991, followed by telephone from January 27, 1992 through
+                May 28, 1992.  Firm-initiated field correction complete.
+DISTRIBUTION    Texas and international.
+QUANTITY        640 units were distributed.
+REASON          Manual contains incorrect information regarding attachment
+                of an external alarm.
+
+_______________
+UPDATE          We are withdrawing Recall #Z-169-3, Invos 3100 Cerebral
+                Oximeter, which appeared in the January 20, 1993,
+                Enforcement Report, and are more appropriately classifying
+                the firm's action as a market withdrawal.  After further
+                review, it appears that the devices were either used as
+                demonstration units or for investigational pruposes with
+                IRB approval.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY -- CLASS III
+_______________
+PRODUCT         Tryptic Soy Agar with Washed Bovine Blood Cells and 0.1%
+                Esculin, mastitis test kit.  Recall #V-025-3.
+CODE            Product #M1123, lot #8651 EXP 4/13/93.
+MANUFACTURER    Micro Diagnostics, Inc., Lombard, Illinois, by telephone
+                February 17, 1993.  Firm-initiated recall complete.
+DISTRIBUTION    Idaho.
+QUANTITY        15 cartons (10 plates per carton) were distributed; firm
+                estimates none remains on the market.
+REASON          Plates were contaminated with microorganisms.
+
+                                   -11-
+_______________
+PRODUCT         Tryptic Soy Agar with Washed Bovine Blood Cells and 0.1%
+                Esculin, mastitis test kit.  Recall #V-026-3.
+CODE            Product #M1123, lot #4575 EXP 5/13/92.
+MANUFACTURER    Micro Diagnostics, Inc., Lombard, Illinois.
+RECALLED BY     Manufacturer, by telephone March 23, 1993.  Firm-initiated
+                recall complete.
+DISTRIBUTION    Wisconsin, Vermont.
+QUANTITY        78 cartons (10 plates per carton) were distributed; firm
+                estimates none remains on the market.
+REASON          Plates were grossly contaminated due to contaminated blood.
+
+
+SEIZURES:
+_______________
+PRODUCT        "ATTENDS" adult protective garments for incontinence
+               (92-673-761).
+CHARGE         Adulterated - The article consists in part of a filthy
+               substance.  Misbranded - The article is in package form and
+               its label fails to bear the name and place of business of
+               the manufacturer, packer, or distributor, and the label also
+               fails to bear an accurate statement of the quantity of the
+               contents in terms of weight, measure, or numerical count.
+FIRM           Advantage Medical, Inc., Tulsa, Oklahoma.
+FILED          November 30, 1992; U.S. District Court for the Northern
+               District of Oklahoma; Civ. #92-C-1093-E; FDC #66615.
+SEIZED         January 21, 1993 - goods valued at approximately $12,800.
+
+_______________
+PRODUCT        Dried uneviscerated fish (93-641-248).
+CHARGE         Adulterated - The articles have been prepared, packed, or
+               held under insanitary conditions whereby they may have been
+               rendered injurious to health.
+FIRM           Phil-Am Distributors, doing business as The Fish House, Long
+               Beach, California.
+FILED          March 4, 1993; U.S. district Court for the Central
+               District of California; Civ. #93-1280WJR(TGx); FDC #66671.
+SEIZED         March 24, 1993 - goods valued at approximately
+               $2,760.
+
+                                   -12-
+                                     
+
+
+END OF ENFORCEMENT REPORT FOR APRIL 21, 1993.  BLANK PAGES MAY
+FOLLOW.
+                                   ####

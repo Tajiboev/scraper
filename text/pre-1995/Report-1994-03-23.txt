@@ -1,0 +1,730 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      28 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+03/23/1994
+
+Recalls and Field Corrections:  Cosmetics -- Class II -- 03/23/1994
+
+March 23, 1994                                                    93-12
+
+RECALLS AND FIELD CORRECTIONS:  COSMETICS -- CLASS II
+=====================
+_______________
+PRODUCT        Formula 405 Soapless Cleansing Lotion in 16 fluid ounce
+               bottles.  Recall #F-318-4.
+CODE           All lots except lot 3510A and 31109, or any other lot
+               starting with 4.
+MANUFACTURER   Doak Pharmacal Company, Inc., Westbury, New York.
+RECALLED BY    Manufacturer, by letter January 13, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 450 units were distributed.
+REASON         Product contained a color additive not authorized for use in
+               cosmetics (D&C; Red #19).
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        SoloPak Heparin Lock Flush Solution, USP, Preservative    
+               Free, 10 USP units/ml packaged in 1, 3 and 5 ml syringes;
+               for maintenance of patency of intravenous injection devices
+               only, not to be used for anticoagulant therapy:
+               (a) Catalog #10671: 1 ml fill in 1.5 ml Hy-Pod Syringe and
+               25G x 5/8" needle, individually wrapped, 120 per carton;
+               (b) Catalog #10673: 3 ml Hy-Pod Syringe and 25G x 5/8"
+               needle, individually wrapped, 120 per carton;
+               (c) Catalog #10675: 5 ml Hy-Pod Syringe and 25G x 5/8"
+               needle, individually wrapped, 120 per carton;
+               (d) Catalog #10681: 1 ml Hy-Pod Syringe (needles not
+               included), individually wrapped, 120 per carton;
+               (e) Catalog #10683: 3 ml Hy-Pod Syringe (needles not
+               included), individually wrapped, 120 per carton;
+               (f) Catalog #10685: 5 ml Hy-Pod Syringe (needles not
+               included), individually wrapped, 120 per carton;
+               (g) Catalog #11771: 1 ml fill in 1.5 ml Hy-Pod Syringe,
+               contained in the Lok-Pak-N Heparin Flush Kit, 200 per case;
+               (h) Catalog #11773: 3 ml Hy-Pod Syringe, contained in the
+               Lok-Pak-N Heparin Flush Kit, 200 per case;
+               (i) Catalog #11775: 5 ml Hy-Pod Syringe, contained in the 
+               Lok-Pak-N Heparin Flush Kit, 200 per case.  Recall #D-196-4.
+CODE           (a) Catalog #10671: lot #93E059C, 93E060C, 93G001C, 93G002C;
+               (b) Catalog #10673: lot #93E002C, 93F005C, 93F005D, 93F006C, 
+               93H006C, 93L003C;
+               (c) Catalog #10675: lot #93F011C, 93H012B;
+               (d) Catalog #10681: lot #93J073B; 
+               (e) Catalog #10683: lot #93H071B, 93K071B;
+               (f) Catalog #10685: lot #93H074B, 93L007C;
+               (g) Catalog #11771: lot #93E059B, 93E060B, 93F001B, 93G001B,
+               93G002B; 
+               (h) Catalog #11773: lot #93E002B, 93F005B, 93F006B, 93H006B,
+               93L003B; 
+               (i) Catalog #11775: lot #93E003B, 93F011B, 93L007B.
+MANUFACTURER   SoloPak Medical Products Inc., formerly known as Smith &
+               Nephew SoloPak, Franklin Park, Illinois.
+RECALLED BY    SoloPak Medical Products Inc., Elk Grove Village, Illinois,
+               by letter February 22, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       997,800 syringes were distributed; firm estimates 48,890
+               syringes remain on the market.
+REASON         Potency not assured through expiration date.
+
+_______________
+PRODUCT        S2 Inhalant, Racepinephrine HCl USP 2.25% Inhalation
+               Solution, 15 ml glass bottles.  Recall #D-200-4.
+CODE           Lot #R11911 EXP 11/94.
+MANUFACTURER   Nephron Pharmaceuticals Corporation, Orlando, Florida.
+RECALLED BY    Manufacturer, by letter January 28, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       402 bottles were distributed; firm estimates none remains on
+               the market.
+REASON         Subpotency.
+
+_______________
+PRODUCT        Pancrelipase Capsules, in 100 and 250 count bottles,
+               indicated for patients with exocrine pancreatic enzyme
+               deficiency, under the Trinity and Qualitest labels.  
+               Recall #D-203/204-4.
+CODE           Lot #K108A EXP 10/93.
+MANUFACTURER   Pharmaceutical Delivery Systems, Inc., Creve Coeur,
+               Missouri.
+                                    -2-RECALLED BY    Trinity Technologies Corporation, Roseville, Michigan, by
+               telephone August 4, 1993, followed by letter September 13,
+               1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,470 100-tablet bottles and 1,198 250-tablet bottles were
+               distributed.
+REASON         Subpotency of amylase ingredient.
+
+_______________
+PRODUCT        Oxygen, USP in size D & E compressed gas aluminum cylinders.
+               Recall #D-205-4.
+CODE           All lots.  Lot numbers all begin with #14 followed by the
+               date in which an H size cylinder was added to the tank bank.
+MANUFACTURER   Medical Services of America, Inc., doing business as Medi-
+               Home Care, Roanoke, Virginia.
+RECALLED BY    Manufacturer, by telephone March 7, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Virginia.
+QUANTITY       9 size E cylinders and 3 size D cylinders were distributed.
+REASON         Current good manufacturing practice deficiencies.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Motrin IB Caplets (Ibuprofen) in foil packets of two, in
+               dispenser of 100 packets and in bulk containers of 2,500
+               packets.  Recall  #D-197-4.
+CODE           Lot #115HT EXP 4/30/97 for both containers.
+MANUFACTURER   The Upjohn Company, Kalamozoo, Michigan.
+RECALLED BY    Manufacturer, by telephone and memorandum April 14, 1993. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       9,968 units were distributed.
+REASON         Trace quantities of the lacquer used on exterior of foil
+               package transferred to interior surface.
+
+_______________
+PRODUCT        Patient brochure for Depo-Provera Contraceptive Injection. 
+               Recall #D-198-4.
+CODE           Brochures with print date of November 1992 or February 1993
+               distributed since 12/15/92.
+MANUFACTURER   The Upjohn Company, Kalamazoo, Michigan.
+RECALLED BY    Manufacturer, by letter.  Distribution of the incorrect
+               patient brochure was discontinued 3/31/93 and new brochures
+               began to be shipped 4/14/93.  Firm-initiated field
+               correction complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       238,600 brochures were distributed.
+REASON         Incomplete printing of the brochure.
+
+                                    -3-_______________
+PRODUCT        Hydrocodone Bitartrate/Acetaminophen (HCB/APAP), 5/500 mg
+               tablets, under the following labels:  H.N Nortcon
+               Co./Luchem, 100's and 500's; Goldline 100's and 500's; Major
+               500's.  Recall #D-199-4.
+CODE           All lots.
+MANUFACTURER   H.N. Norton Company, Shreveport, Louisiana.
+RECALLED BY    Manufacturer, by letter February 2, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+REASON         Product does not meet dissolution specifications through
+               expiration date.
+
+_______________
+PRODUCT        S2 Inhalant, Racepinephrine HCl USP 2.25% Inhalation
+               Solution, 15 ml glass bottles, .  Recall #D-201-4.
+CODE           Lot numbers:  99219, R109308 EXP 8/95, 10/95.
+MANUFACTURER   Nephron Pharmaceuticals Corporation, Orlando, Florida.
+RECALLED BY    Manufacturer, by letter February 4, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       6,741 bottles of lot 99219 and 8,604 bottles of lot R109308
+               were distributed.
+REASON         Product does not meet USP specifications for color.
+
+_______________
+PRODUCT        Medrol brand of methylprednisolone, USP, 4 mg tablets, in
+               blister packs of 100, a corticosteroid.  Recall #D-202-4.
+CODE           Lot #995JP EXP 12/31/97.
+MANUFACTURER   The Upjohn Company, Kalamazoo, Michigan.
+RECALLED BY    Manufacturer, by letter June 16, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,582 tablets were distributed.
+REASON         Carton incorrectly declares "Methylprednisolone" as
+               "Methylprednisone".  Blisters and insert are correct.
+
+_______________
+PRODUCT        Urinary Antiseptic Tablets, Rx indicated for the relief of
+               discomfort of the lower urinary tract, in 100 and 1,000
+               count bottles, under Trinity, Qualitest, Rugby, Moore, and
+               Goldline labels.  Recall #D-204-4.
+CODE           Lot No.    EXP Date
+               A108D      7/94 
+               A119D      7/94 
+               B115D      7/94 
+               C114D      9/94 
+               D109C      4/94 
+               D112D      10/94 
+               D113D      10/94 
+               E110C      5/94 
+
+                                    -4-               F109C      6/94 
+               G115C      7/94 
+               J101C      9/94 
+               J118C      9/94 
+               L123C      5/94 
+               M122C      6/94 
+               F109D      10/94 
+               J102C      9/94 
+               L122C      5/94. 
+MANUFACTURER   Trinity Technologies Corporation, Roseville, Michigan.
+RECALLED BY    Manufacturer, by letter July 21, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       106,534 units wre distributed.
+REASON         Product does not meet potency specifications.
+
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS II
+======================
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-097-4.
+CODE           Unit numbers:  04K28065, 04K28066, 04K28097, 04K28099,
+               04R78705, 04R78707, 04R78709, 04R78711, 04R78715, 04S43640,
+               04FK13491.
+MANUFACTURER   American Red Cross Blood Services, Dedham, Massachusetts.
+RECALLED BY    Manufacturer, by telephone July 28, 1992, followed by letter
+               August 8, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Massachusetts.
+QUANTITY       11 units.
+REASON         Blood products, held at uncontrolled storage conditions were
+               distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-170-4.
+CODE           Unit #4052631.
+MANUFACTURER   Community Blood Center of Greater Kansas City, Kansas City,
+               Missouri.
+RECALLED BY    Manufacturer.  Firm-initiated recall complete.
+DISTRIBUTION   Missouri.
+QUANTITY       1 unit.
+REASON         Blood product, that tested repeatedly reactive for the
+               antibody to hepatitis B core antigen (anti-HBC), was
+               distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-172-4.
+CODE           Unit #6283895.
+MANUFACTURER   BloodCare, Dallas, Texas.
+RECALLED BY    Manufacturer, by telephone September 7, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       1 unit.
+
+                                    -5-REASON         Red Blood Cells, collected from a donor currently taking the
+               drug Proscar, were distributed for transfusion.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-173-4.
+CODE           Unit 647102.
+MANUFACTURER   W.E. and Lela I. Stewart Regional Blood Center, Tyler,
+               Texas.
+RECALLED BY    Manufacturer, by telephone February 25, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       1 unit.
+REASON         Blood product, collected from a donor who reported taking
+               the medication Tegison, was distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        Fresh Frozen Plasma.  Recall #B-174-4.
+CODE           Unit #J27557.
+MANUFACTURER   Texoma Regional Blood Center, Sherman, Texas.
+RECALLED BY    Manufacturer, by visit January 6, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       1 unit.
+REASON         Blood product labeled with an incorrect expiration date, was
+               distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Naturalyte Acid Concentrate for Bicarbonate Dialysis, for
+               use in dialysis equipment during dialysis treatment:
+               (a) Catalog No. 13-4004-1, Series 4000
+               (b) Catalog No. 13-4010-8, Series 4000
+               (c) Catalog No. 13-4002-5, Series 4000
+               (d) Catalog No. 13-4018-1, Series 4000
+               (e) Catalog No. 13-4022-3, Series 4000
+               (f) Catalog No. 13-6608-7, Series 6000
+               (g) Catalog No. 13-9027-7, Series 9000
+               (h) Catalog No. 13-9029-3, Series 9000.
+               Recall #Z-161/168-4.
+CODE           Lot numbers:  (a) E2S027; (b) E2S028, (c) E2S029; 
+               (d) E2S030; (e) E2S031; (f) E2S032; (g) E2S033;
+               (h) E2S034; (i) E2S026.
+MANUFACTURER   National Medical Care, Medical Product Division, Livingston,
+               California.
+RECALLED BY    National Medical Care (NMC), Medical Product Division,
+               Rockleigh, New Jersey, by letter dated June 17, 1993, and by
+               telephone beginning on or about May 28, 1993 or June 1,
+               1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+
+                                    -6-QUANTITY       434 55-gallon drums were distributed;
+REASON         The products do not meet the NMC pyrogen specification for
+               hemodialysate of 5.0 eu/ml.
+
+_______________
+PRODUCT        O.R. Saracap Respiratory Monitor and Capnograph, Model
+               200009, for use during surgery and general anesthesia to
+               monitor airway levels of carbon dioxide, oxygen, and nitrous
+               oxide.  Recall #Z-345-4.
+CODE           Software version 2.04.
+MANUFACTURER   PPG Industries, Inc., Lenexa, Kansas.
+RECALLED BY    Manufacturer, by visit beginning January 10, 1994.  Firm-
+               initiated field correction ongoing.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       2,433 units remain in distribution.
+REASON         The device contains invalidated software.
+
+_______________
+PRODUCT        Promatek ElectroStim Ultra 3F Therapy Ultrasound Systems,
+               ultrasonic generators and applicators.  Recall #Z-402-4.
+CODE           All serial numbers, 5108 through 5794.
+MANUFACTURER   Diter-Elektroniikka Oy, Turku, Finland.
+RECALLED BY    Promatek Medical Systems, Inc., Joliet, Illinois.  FDA
+               approved the firm's corrective action plan May 10, 1993. 
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       106 units were distributed; firm estimates 68 units remain
+               on the market.
+REASON         The units were found in non-compliance with the performance
+               standard for ultrasonic therapy products, in that:
+               The error in the indication of power output exceeds      
+               the +/- 20 percent error allowed by the performance          
+               standard for the following tests: 
+               - continuous wave power measurements 
+               - pulsed power measurements 
+               - +/- 10 percent line voltage power measurements 
+               - short term life test power measurements; 
+               Discrepancies are found in the operation control labeling; 
+               Incorrect values are listed for Rtpa in the user
+               information; 
+               The measured effective radiating area (ERA) exceeds the
+               listed ERA for the 2 MHz large applicator in the user
+               information; 
+               The measured beam non-uniformity ratio (BNR) exceeds the
+               labeled maximum BNR for the 0.86 and 3.0 MHz applicators;
+               and 
+               The unit indicates output when none exists, and vice versa
+               under certain conditions. 
+
+_______________
+PRODUCT        Eight French Single Lumen Groshong High Performance
+               Catheters:
+
+                                    -7-               (a) Product Code 7710922; (b) Product Code 7710924;
+               (c) Product Code 7711922; (d) Product Code 7711924;
+               (e) Product Code 7711932; (f) Product Code 7711934.
+               Recall #Z-404/409-4.
+CODE           All lots.
+MANUFACTURER   Bard Access Systems, Inc., Salt Lake City, Utah.
+RECALLED BY    Manufacturer, by telephone beginning January 13, 1994,
+               followed by letters sent during the week of January 17-21,
+               1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 3,550 units.
+REASON         The thrombosed polyurethane liner of the distal silicone
+               catheter segment was extruding through the Groshong valve
+               opening out of the lumen of the silicone catheter into the
+               lumen of the patient's central venous system.
+
+_______________
+PRODUCT        DeRoyal Surgical Laparotomy Sponges, pre-washed x-ray
+               detectable: (a) 18" x 18", Product #9-1818;
+               (b) 12" x 12" Lap Sponges, Product #1-1212.
+               Recall #Z-439/440-4.
+CODE           Lot numbers:  (a) 16325; (b) 16580.
+MANUFACTURER   Qualtex, Inc., Division of DeRoyal Industries, Rose Hill,
+               Virginia (packager/sterilizer).
+RECALLED BY    DeRoyal Industries, Inc., Powell, Tennessee, by letters of
+               February 1, 1994, and March 9, 1994.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   (a) Alabama, Maryland, Texas, North Carolina, Tennessee; (b) 
+               California, Maryland, New Jersey, South Carolina, Texas,
+               Pennsylvania, Tennessee.
+QUANTITY       (a) 47 cases; (b) 43 cases.
+REASON         The products were found to be non-sterile.
+
+_______________
+PRODUCT        Diagnostic Magnetic Resonance Imaging Equipment, intended
+               for general diagnostic use to produce images used in
+               diagnosing disease:  (a) Model SMT-50X; (b) Model SMT-100X.
+               Recall #Z-441/442-4.
+CODE           Serial numbers:  682001, 628002, 628004, 628021, 628591,
+               628631, 628633; (b) 628841, 628844, 628846, 628885.
+MANUFACTURER   Shimadzu Corporation, Koyoto, Japan.
+RECALLED BY    Shimadzu Medical Systems, Torrance, California, by letter
+               June 16, 1993.  Firm-initiated field correction complete.
+DISTRIBUTION   Alaska, Arkansas, Florida, Louisiana, New Jersey, New York,
+               Pennsylvania.
+QUANTITY       (a) 8 systems; (b) 4 systems.
+REASON         Software versions 2.0, 2.1, or 2.2 do not correctly store
+               inverted image annotations on the disk.  The annotations
+               will be reversed upon retrieval, for example, head to foot,
+               posterior to anterior, left to right, which could result in
+               misdiagnosis.
+
+                                    -8-_______________
+PRODUCT        Sunlamp Tanning Product, Sunquest 5000, Sunward I, and Tan
+               AM 4000.  Recall #Z-460-4.
+CODE           Model STI 1000.
+MANUFACTURER   The Daavlin Distributing Company, Bryan, Ohio.
+RECALLED BY    Manufacturer.  FDA approved the firm's corrective action
+               plan February 18, 1994.  Firm-initiated field correction
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       544 units.
+REASON         Digital timers could be reset to exceed maximum recommended
+               time (MRET).
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Blood Chemistry Vacutainer Collection Tubes, Reorder #6440,
+               an evacuated blood collection tube.  Recall #Z-205-4.
+CODE           Lot #2C708 EXP 4/94.
+MANUFACTURER   Becton Dickinson Vacutainer Systems, Sumpter, South
+               Carolina.
+RECALLED BY    Becton Dickinson and Company, Becton Dickinson Division,
+               Franklin Lakes, New Jersey, by letter August 26, 1993. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       203,400 units were distributed; firm estimates less than 10%
+               of the amount shipped remains on the market.
+REASON         The Vacutainer Branch Tubes were defective causing red cells
+               to adhere to the glass surface of the tubes.
+
+_______________
+PRODUCT        (a) Coulter Bilirubin, Total (B), Catalog #2907076; (b)
+               Coulter Bilirubin, Direct (A+C) DACOS Reagent System,
+               Catalog #2907075, intended for the in-vitro quantitative
+               determination of Total and Direct Bilirubin with the DACOS
+               DACOS XL chemistry analyzers. Recall #Z-378/379-4.
+CODE           Lot numbers:  (a) 15672, 15703; (b) 15671, 15739, 15740.
+MANUFACTURER   Trace America, Inc., Australia (reagents).
+RECALLED BY    Coulter Corporation, Miami, Florida, by telephone followed
+               by letter May 3, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Louisiana, Pennsylvania, Texas, California, Georgia,
+               Colorado, Oklahoma, Oregon, Florida, Illinois, Minnesota,
+               Washington state, North Carolina, Michigan, Ohio,
+               Massachusetts, Kansas.
+QUANTITY       Firm estimates none remains on the market.
+REASON         The firm released a new bilirubin methodology with a new
+               line of DACO chemistry reagents, that are not
+               interchangeable.  The labeling failed to identify that they
+               could not be interchanged.
+
+                                    -9-_______________
+PRODUCT        Coulter Optichem Chemistry Control, Level II, for in-vitro
+               diagnostic use.  Recall #Z-380-4.
+CODE           Vial lot #165001, kit lot numbers:  160006K3 and 160006K4
+               EXP 10/14/94.
+MANUFACTURER   Ciba Corning Diagnostics Corporation, Irvine, California.
+RECALLED BY    Coulter Corporation, Miami, Florida, by letter October 7,
+               1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Canada, Turkey, United Kingdom, Germany, Puerto
+               Rico, France.
+QUANTITY       239 kits of lot 160006k3 and 10 kits of lot 160006K4 were
+               distributed.
+REASON         The tables of assigned values had typographical errors.
+
+_______________
+PRODUCT        Coulter Chemistry Control Level II, 10 x 15 ml, Part
+               #7546995, used as a quality control material for the Coulter
+               DACOS Analyzer, DACOS XL and Optichem Chemistry Systems. 
+               Recall #Z-388-4.
+CODE           Kit lot numbers:  160006K, 160006K1, 160006K2.
+MANUFACTURER   Trace America, Inc., Australia.
+RECALLED BY    Coulter Corporation, Miami, Florida, by letter June 25,
+               1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide, Bermuda, Europe, Canada, United Kingdom, Spain,
+               Germany.
+QUANTITY       336 kits of lot 160006K, 165 kits of lot 160006K1, and 150
+               kits of lot 160006K2 were distributed.
+REASON         There was a change in the DACAL Calibrator assigned values.  
+               This resulted in a shift in the mean and low recovery values
+               when using new Coulter Dacos Uric Acid reagent.
+
+_______________
+PRODUCT        Coulter ISE Module, a component of Coulter Opti-Chem 120 and
+               180 Systems, used to perform clinical chemistry analyses:
+               (a) Coulter OptiChem 120 & 180 Systems Software Catalog No.
+               6604263; 
+               (b) Coulter OptiChem 120 & 180 Systems Software Catalog No.
+               6604264; 
+               (c) Coulter OptiChem 120 & 180 Systems Software Catalog No.
+               6604271; 
+               (d) Coulter OptiChem 120 & 180 Systems Software Catalog No.
+               6604273.  Recall #Z-389/392-4.
+CODE           All serial numbers.
+MANUFACTURER   Kone Instruments, Helsinki, Finland.
+RECALLED BY    Coulter Corporation, Miami, Florida, by "important product
+               information" letter dated May 1, 1992.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 185 units ramain on the market.
+REASON         There was an error in the ISE module software that allowed
+               test results to be reported outside the validated range
+               which may not be accurate.
+
+                                   -10-_______________
+PRODUCT        4C Plus Normal Cell Control, for in-vitro diagnostic use:
+               (a) 4C Plus Normal Cell Control, Part No. 7546923; 
+               (b) 4C Plus Triple Cell Control 9 x 3.3 mL, Part No.
+               7546771;
+               (c) 4C Plus Triple Cell Control 6 x 3,3 mL, Part No.
+               7546968.  Recall #Z-393/395-4.
+CODE           Lot numbers:  (a) 776F; (b) 103434K; (c) 108159K.
+MANUFACTURER   Coulter Corporation, Diagnostics Group, Hialeah, Florida.
+RECALLED BY    Coulter Corporation, Miami, Florida, by letter beginning
+               November 8, 1991.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Customers reported high Hgb recovery when using these lots
+               of control, on Coulter T series, S880, and JT instruments.
+               Assay values printed in the package insert were unable to be
+               retrieved.
+
+_______________
+PRODUCT        Centermark Dual Lumen Peripherally Inserted Central Venous
+               Catheter.  Recall #Z-403-4.
+CODE           Catalog #C2-202-58G, Lot #308241.
+MANUFACTURER   Menlo Care, Inc., Menlo Park, California.
+RECALLED BY    Manufacturer, by telephone and by letter in October 1993. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       Firm estimates none remains on the market.
+REASON         There was a potential for crossover leakage between the two
+               lumens during blood withdrawal.
+
+_______________
+PRODUCT        Irrijet Irrigation System, Product #55-0504, used for
+               external wound irrigation.  Recall #Z-410-4.
+CODE           Lot numbers:  3514 and 3529.
+MANUFACTURER   Ackrad Laboratories, Cranford, New Jersey.
+RECALLED BY    Manufacturer, by telephone and by letter February 26, 1993. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       560 units were distributed.
+REASON         The disposable tips may be plugged resulting in lack of
+               fluid flow.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS II
+===========
+_______________
+PRODUCT        (a) Horse and Pony Feed (740); (b) Phase Two (751) and Phase
+               Three Horse Feed (752); (c) Horse and Pony Feed (747); 
+               (d) Rabbit Pellets (711).  Recall #V-037/038-4.
+CODE           Dates of productions: 11/9/93, 11/11/93, 11/23/93, 12/10/93,
+               12/30/93, 1/14/93.
+MANUFACTURER   Molinos de Puerto Rico, Inc., Guaynabo, Puerto Rico.
+
+                                   -11-RECALLED BY    Manufacturer, by February 7, 1994 inspection.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Puerto Rico.
+QUANTITY       (a) 48,000 pounds; (b) 155,000 pounds; (c) 12,280 pounds;
+               (d) 20,000 pounds.
+REASON         Possible cross contamination of horse feed with lincomycin.  
+               Possible cross contamination of rabbit pellets with tylosin
+               and sulfamethazine. 
+
+_______________
+PRODUCT        Stepsaver WDC, medicated swine feed containing carbadox and
+               pyrantel tartrate.  Recall #V-039-4.
+CODE           LK8974.
+MANUFACTURER   Moorman Manufacturing Company, LaMars, Iowa.
+RECALLED BY    Moorman Manufacturing Company, Quincy, Illinois, by
+               telephone December 31, 1993.  Firm-initiated recall
+               complete.  See also FDA talk paper T94-10, February 2, 1994.
+DISTRIBUTION   Wisconsin.
+QUANTITY       2 tons were distributed; firm estimates none remains on the
+               market.
+REASON         Unlabeled bulk swine feed containing carbadox and pyrantel
+               tartrate erroneously shipped to a dairy farmer.
+
+
+MEDICAL DEVICE SAFETY ALERTS:
+=============================================
+_______________
+PRODUCT        Bipolar Forceps: (a) 60-5120-001, Cushing Bayonet;
+               (b) 60-5121-001, Scoville-Greenwood Bayonet;
+               (c) 60-5122-001, Jewelers, Straight Tip;
+               (d) 60-5123-001, Semkin, Micro-Tip.
+               Safety Alert #N-040/043-4.
+CODE           None.
+MANUFACTURER   Aspen Laboratories, Inc., Englewood, Colorado.
+ALERTED BY     Manufacturer, by letter August 25, 1993.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       351 units.
+REASON         Inadequate cleaning of the bipolar forceps may cause an
+               unintended change in power setting and/or difficulty in
+               activation of the Aspen Bistat electrosurgical unit.
+
+
+SEIZURE:
+==================================================================
+_______________
+PRODUCT        Frozen Yellow Fin Tuna Loins (94-630-112).
+CHARGE         Adulterated - The article bears or contains a poisonous and
+               deleterious substance, histamine, which ordinarily renders
+               it injurious to health; and, it consists in part of a
+               decomposed substance by reason of the presence of decomposed
+               fish. 
+LOCATIONS      Cityice Cold Storage Company, Seattle, Washington.
+
+
+                                   -12-FILED          March 3, 1994; U.S. District Court for the Western 
+               District of Washington; Civil #C 94-316R; FDC #66936.
+SEIZED         March 9, 1994 - goods valued at approximately $33,150.
+
+                                   -13-
+
+END OF ENFORCEMENT REPORT FOR MARCH 23, 1994.  BLANK PAGES MAY
+FOLLOW.
+                                   ####

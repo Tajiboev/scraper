@@ -1,0 +1,654 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Nov
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      28 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+05/12/1993
+
+Recalls and Field Corrections:  Foods -- Class II -- 05/12/1993
+
+
+May 12, 1993                                          93-19
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+_______________
+PRODUCT        Gourmet Popcorn in 12 oz and 3 lb-8 oz plastic bags.
+               Recall #F-313-3.
+CODE           Production weeks coded with colored ties:
+               (a) Green Tie - Production Week - 4/05/93,
+               (b) Yellow Tie -Production Week - 3/29/93,.
+               (c) Blue Tie -  Production Week - 3/22/93,.
+               (d) Orange Tie -Production Week - 3/15/93.  
+MANUFACTURER   Lobby Shoppes, Inc., Springfield, Ohio.
+RECALLED BY    Manufacturer, by telephone April 9, 1993.          
+               Firm-initiated recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY       40 cases/12 oz.; 78 bags/3 lb-8 oz. were
+               distributed.
+REASON         Product contains undeclared FD&C; Yellow No. 5.
+
+_______________
+PRODUCT        Whiskey Sour Mix in 33.8 fl. oz bottles.           
+               Recall #F-316-3.
+CODE           M216; M236; M251; M265; M280; M286; M293; M300;    
+               M309; M316; M324; M334; M338; M345; M348.
+MANUFACTURER   Lemon-X, Westbury, New York.
+RECALLED BY    Manufacturer by telephone April 15, 1993.
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       4704 cases (12 bottles/case) manufactured between
+               Aug. 1992 and Dec. 1992 .
+REASON         Product contains undeclared FD&C; Yellow No. 5.
+
+_______________
+PRODUCT        Escolar Fish (known as oil/castor oil fish).
+               Recall #F-317-3.
+CODE           No codes.
+MANUFACTURER   Floribbean Wholesale, Incorporated, Margate,
+               Florida.
+RECALLED BY    Manufacturer by sales manager contacting consignees
+               on March 13, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Florida.
+QUANTITY       52 pounds of fish were distributed.
+REASON         Adulterated.  Product contains excessive oil.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+_______________
+PRODUCT        Nestea Plunge Iced Tea in 1 gallon plastic jugs,
+               Nestea Pure Iced Tea in pint and 1/2 gallon size
+               containers.  Recall #F-311/312-3.
+CODE           (a) 1 gallon size jugs coded with following "sell by
+               dates":  1-08, 1-21, 1-26, 2-02, 2-05, 2-20, 2-28,
+               3-04, and 3-08;  (b) 1 pint size cartons coded with 
+               "sell by date" 2-11; and (c) 1/2 gallon containers
+               coded with the "sell by date" 3-01.  The manufac-
+               turing plant number:  51-4111, is also printed
+               on the label of each container.
+MANUFACTURER   Flav-o-rich, Inc., Bristol, Virginia.
+RECALLED BY    Manufacturer by "Market Withdrawal" memos dated 
+               Jan. 16, 1993 (1 gallon), Jan. 19, 1993 (pint),
+               and Jan. 29, 1993 (half gallon).
+DISTRIBUTION   Virginia, West Virginia, Tennessee, South Carolina,
+               Kentucky.
+QUANTITY       11,683 1-gallon containers, 9,280 1-pint 
+               containers and 874 1/2 gallon containers.
+REASON         Tea is contaminated with yeast and/or mold.
+
+_______________
+PRODUCT        Canned mandarin oranges.  Recall# F-315-3.
+CODE           All lots with P31 or P35 in top line can code.
+MANUFACTURER   Guangxi Xingan Canning Plant, Guangxi Province,
+               Peoples Republic of China.
+RECALLED BY    Mitsui Foods, Inc., Hackensack, New Jersey, by
+               E-Mail Dec. 24, 1992 and letters dated Feb. 19,
+               1993.  Firm-initiated ongoing.
+DISTRIBUTION   Florida, Ohio, Connecticut, Vermont, Maryland,
+               Wisconsin, Michigan, Pennsylvania, New York,
+               New Jersey.
+QUANTITY       Approximately 4000 cases of 24 11-oz cans.
+REASON         Product is contained in detinning cans and is
+               unfit for food.
+
+                               -2-
+
+
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+_______________
+PRODUCT        Propylthiouracil Tablets 50 mg, used for treatment 
+               of hyperthyroidism, under the following labels
+               and units per bottle:
+               Blue Cross -- 100, 1000;
+               Qualitest Products -- 100;
+               Major Pharm. Corp. -- 100, 1000;
+               Schein Pharm. Inc. -- 100, 1000;
+               Geneva Pharm. Inc. -- 100, 1000;
+               Rugby Lab., Inc.,  -- 1000; 
+               URL -- 1000.  Recall #D-247-3.  
+CODE           All lots within expiration date.
+MANUFACTURER   Halsey Drug Co., Brooklyn, New York. 
+RECALLED BY    Manufacturer, by phone Apr. 8, 1993 and letter
+               Apr. 12, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       2 million tablets were distributed.
+REASON         Use of an unapproved inactive ingredient.
+        
+_______________
+PRODUCT        Metronidazole Tablets, 250 and 500 mg, used as oral
+               synthetic antiprotozoal and antibacterial, under the
+               following labels and units per bottle: 
+               Blue Cross -- 250 mg:  100, 250, 500, 1000;
+               500 mg:  100, 250, 500, 1000; 
+               Qualitest -- 250 mg: 100, 250, 500;
+               500 mg: 50, 100, 500;    
+               IDE Star -- 250 mg:  250;
+               Aligen -- 250 mg:  100, 250; 500 mg:  100;
+               Mason -- 250 mg:  100, 500; 500 mg:  100.
+               Recall #D-248/249-3.
+CODE           All lots within expiration date.
+MANUFACTURER   Halsey Drug Co., Brooklyn, New York.
+RECALLED BY    Manufacturer, by letter Apr. 12, 1993.
+               Firm-initiated recall ongoing.     
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+REASON         Unapproved change in the ratio of two inactive
+               ingredients.
+
+______________
+PRODUCTS       Acetaminophen and Codeine Phosphate Tablets.
+               300/15 mg, 300/30 mg, and 300/60 mg, in sizes of
+               100, 500, and 1000's, a prescription analgesic
+               product under the following labels:  Blue Cross,
+               Major Pharm., Harbor Pharm., Qualitest, Par-Med,
+               IDE, Purepac and Schein.  Recall #D-252/254-3.
+CODE           All codes with expiration date.
+MANUFACTURER   Halsey Drug Co., Brooklyn, New York.
+
+                               -3-
+
+
+
+RECALLED BY    Manufacturer by letter Apr. 12, 1993.
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+REASON         Use of an unapproved inactive ingredient.
+
+_______________
+PRODUCT        Aralen Phosphate (chloroquine phosphate) Tablets,
+               USP, 500 mg, 25 tablets per bottle and 500 tablets
+               per bottle, for use in Malaria and Extraintestinal
+               Amebiasis only.  Recall #D-257-3.
+CODE           Lot numbers:  SO35HB, SO22HC, SO44HB, 668FE.
+MANUFACTURER   Winthrop Pharmaceuticals, New York, NY.
+RECALLED BY    Manufacturer, by letter Apr. 15, 1993.
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       83,858 bottles.  Firm estimates none remains on
+               the market.
+REASON         Product does not meet dissolution specifications.
+
+______________
+PRODUCT        Isoxsuprine Hydrochloride Tablets, 10 mg, 1000
+               tablets per bottle, for the relief of symptoms
+               associated with cerebral vascular insufficiency.
+               Recall #D-258-3.
+CODE           Lot No. 0E023; Exp:  6/93.
+MANUFACTURER   Vitarine Pharm., Inc., Springfield Gardens,
+               New York.
+RECALLED BY    Manufacturer, by letter Apr. 12, 1993.
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       96 bottles were distributed.
+REASON         A bottle of the 10 mg strength was found mislabeled
+               as 20 mg.
+
+_______________
+PRODUCT        Levothyroxine Sodium Tablets, USP, 0.1 mg, 0.15 mg,
+               0.2 mg, 0.3 mg, used as replacement or supplemental
+               therapy in patients with hypothyroidism.
+               Recall #D-259/262-3.
+CODE           Lots H677, H706, H707, H722, L145.
+MANUFACTURER   Pharmaceutical Basics, Inc., Denver, Colorado. 
+RECALLED BY    Manufacturer, by letter April 21, 1993.
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+REASON         Potency not assured through expiration date.
+
+
+
+                               -4-
+
+
+
+______________
+PRODUCT        Swan Castor Oil, 2 fluid ounce amber plastic
+               bottles, 72 bottles per case.  Recall #D-263-3.
+CODE           Lot No. 30148, Exp. 2/96.
+MANUFACTURER   Cumberland-Swan, Inc., Smyrna, Tennessee.
+RECALLED BY    Manufacturer, by phone Apr. 30, 1993, and by
+               letter May 3, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       440 cases (72 bottles/case) were distributed. 
+REASON         A bottle of Aromatic Ammonia Spirits was found
+               mislabeled as Castor Oil.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUG -- CLASS III
+
+_______________
+PRODUCT        Propoxyphene Napsylate & Acetaminophen Tablets,
+               50/325 mg, 100/650 mg, a prescription analgesic
+               under the following labels and units per bottle:
+               Blue Cross -- 100/650 mg:  100, 500, 1000;
+               Major Pharm. -- 50/325 mg:  500; 100/650 mg:  500;
+               Qualitest -- 50/325 mg:  100; 100/650 mg:  500;
+               Par-Med -- 50/325 mg:  100, 500; 100/650 mg:
+               500, 550, 1000; 100/650 mg:  100, 500, 550, 1000;
+               Rugby Lab -- 50/325 mg:  100; 100/650 mg:  500,
+               1000; 100/650 mg:  100, 500, 1000;
+               IDE Star -- 100/650 mg:  100, 500.
+               Recall #D-250/251-3.
+CODE           All lot within expiration date.
+MANUFACTURER   Halsey Drug Co, Brooklyn, New York.
+RECALLED BY    Manufacturer, by letter Apr. 12, 1993.             
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+REASON         Use of unapproved firm to perform film coating.
+
+______________
+PRODUCT        (a) Filibon Forte Prenatal Tablets, packaged in
+               bottles of 100 tablets, used as prescription
+               multivitamin-multimineral supplement for pregnant or
+               lactating women, and (b) Filibon F.A. Prenatal
+               Tablets packaged in bottles of 30 and 100 tablets
+               and of 25,000 tablets, used as prescription 
+               multivitamin-multimineral supplement for pregnant or
+               lactating women.  Recall #D-255/256-3.
+CODE           (a) Control Numbers 324-361 and 333-347; 
+               (b) All lots.
+MANUFACTURER   Lederle Laboratories, Pearl River, New York.
+RECALLED BY    Manufacturer, by letter Mar. 31, 1993.             
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and International.
+
+                               -5-
+
+
+
+QUANTITY       Undetermined.
+REASON         Potency of pyridoxine and riboflavin ingredients
+               not assured through expiration date.
+                              
+
+RECALLS AND FIELD CORRECTIONS:  MEDICAL DEVICES -- CLASS II
+
+______________
+PRODUCT        (a) Aortic Arch Cannula, (b) Left Heart Vent
+               Catheter, (c) Vent Catheter, (d) Venous Return
+               Catheter, (e) High Flow Aortic Arch Cannula,
+               (f) Two Stage Venous Return Catheters, (g) D4
+               Aortic Arch Cannula, (h) Intracardiac Suckers,
+               (i) Temperature Probe Connector, and (j) Venoatrial
+               Catheter,  Recall #Z-449/458-3.
+CODE           Lot numbers:  (a) M156190; (b) M153100; (c) M148940;
+               (d) M153050, M130750, M154050, M154030; (e) M158950,
+               M131560, M122260, M156100, M151340; (f) M153120,
+               M158550; (g) M137560, M158750, M137460, M158770;
+               (h) M153160, M158930, M153110, M156090; (i) M133950,
+               M137350; and (j) M158730.
+MANUFACTURER   Sarns, Ann Arbor, Michigan.
+RECALLED BY    Manufacturer, by letter sent Oct. 10, 1992 and by
+               telephone on Oct. 13 - Oct. 15, 1992.
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and International.
+QUANTITY       A total of 1648 cases, each containing 20 products,
+               were distributed.  The total number of products 
+               distributed is 32,960 units.
+REASON         Packaging heat seal on sterile products may fail.
+
+______________
+PRODUCT        SITE Power Handpiece II, Recall #Z-459-3.
+CODE           Part #400-1500.
+MANUFACTURER   Site Microsurgical Systems, Inc., Horsham, Penn.
+RECALLED BY    Manufacturer, by letter Feb. 26, 1993.
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international
+QUANTITIY      123 units were distributed.  Firm estimates that
+               26 units remain in commerce.
+REASON         Device is adulterated and misbranded in that it
+               lacked sufficient power to drive the SITE cutting 
+               tips, and lacked complete information pertaining to
+               antoclaving as well as firm's name and address on
+               some of the inserts.
+
+______________
+PRODUCT        Phacoemulsification Needles used in ocular surgery
+               for removal of cataracts, labeled as (a) 30 Degree
+               CD Phaco Pak and (b) 30 Degree Macrobore Plus Phaco
+               Pak.  Recall #Z-516/517-3.
+
+                               -6-
+
+
+CODE           Product Codes: (a) 600-2830 and (b) 600-2630 and
+               Lot Numbers:  (a) 315464 and (b) 314216.
+MANUFACTURER   Site Microsurgical Systems, Inc., Horsham, Penn.
+RECALLED BY    Manufacturer, by phone on Feb. 19, 1993.           
+               Firm-initiated recall ongoing.
+DISTRIBUTION   New Jersey, Pennslyvania, Florida, Georgia,
+               Illinois, California, North Carolina, Texas,
+               Maryland, Arizona, Nevada, Kansas, Alaska,
+               New Mexico, Utah, Canada, France and Japan.
+QUANTITY       Firm estimates that all involed product had
+               either already been returned or was in transit
+               to the firm.
+REASON         Packs contained 45 degree Phaco Needles and were
+               labeled as containing 30 degree Phaco Needles.
+
+______________
+PRODUCT        Prosorba Immunoadsorption Treatment Columns, for
+               use in therapeutic removal of immunogobin G(IgG)
+               and IgG.  Recall #Z-518-3.
+CODE           All lots.
+MANUFACTURER   Imre Corporation, Seattle, Washington.
+RECALLED BY    Manufacturer, by letter on Feb. 25, 1993.          
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,981 units were sold from Nov. 1992 to Feb. 1993.
+               It is unknown how many columns remain in commerce.
+REASON         Contraindication not to use the columns with ACE
+               inhibitors and possible side effects were not
+               included in the accompanying literature.
+
+_______________
+PRODUCT        7mm Cannulated Drill Bits used in a total system
+               for arthroscopic cruciate reconstruction.
+               Recall #Z-519-3.
+CODE           Catalog #013543, Lot #392.
+MANUFACTURER   Acufex Microsurgical, Inc., Mansfield, Mass.
+RECALLED BY    Manufacturer, by phone on Jan. 27, 1993.           
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Italy, Taiwan and England.
+QUANTITY       6 bits.
+REASON         8mm Endoscopic Cannulated Drills were packaged and
+               mislabeled as 7mm Cannulated Drills.
+
+_______________
+PRODUCT        Glass Syringes with Metal Luer Lock, labeled as
+               (a) 5cc Syringe, (b) 10cc Syringe and (c) 20cc
+               Syringe.  Recall #Z-520/522-3.
+CODE           Lot Numbers (a) 4178-4182, 4253-4255, 4308-4310,
+               4330, 4334, 4633, 3929; (b) 7376, 4298; and
+               (c) 4444, 4371.
+
+                               -7-
+
+
+
+MANUFACTURER   Tsubasa Industry Co., Ltd., Tokyo, Japan. 
+RECALLED BY    International Steel, Plastic & Glass, Inc.,
+               New Milford, Connecticut by phone on July 31, 1990. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Pennsylvania, New Hampshire, Texas, Virginia,
+               Georgia.
+QUANTITY       Approximately 125,000 syringes were distributed.
+REASON         Luer lock mechanism was defective which could result
+               in leakage.
+
+______________
+PRODUCT        Cambridge 7000i Interpretive ECG System used to
+               acquire data from 12 leads in 3, 4, or 6 channel
+               formats.  Recall #Z-523-3.
+CODE           7008, 7016, 7036, 7037, 7038, 7039, 7040, 7041,
+               7042, 7043.
+MANUFACTURER   Healthwatch Technologies, Inc., Broomfield,
+               Colorado.
+RECALLED BY    Manufacturer, by letter on or about Apr. 2, 1993.  
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Texas, Oklahoma.
+QUANTITY       10 units produced with the 4.0 driver software were
+               distributed.
+REASON         Software lockup occurs when both the medication and
+               patient's age are filled in on the history screen.
+
+______________
+PRODUCT        Thermagard Nebulizer Heater used for,
+               Recall #Z-524/525-3.
+CODE           Catalog Nos. 5705 and 5705E.
+MANUFACTURER   Pegasus Research Corporation, Costa Mesa,
+               California.
+RECALLED BY    Manufacturer, by letter dated February 26, 1993.
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Colorado, California, Indiana, Missouri,
+               Massachusetts, New Hampshire, New York, Texas,
+               Wisconsin, and international.
+QUANTITY       91 units were distributed.
+REASON         Devices fail to heat due to a defective seal,
+               located on the bottem of the unit's housing, which
+               allows moisture to enter the housing and short
+               circuit the unit.
+
+______________
+PRODUCT        E-Z Ject Disposable Insulin Syringes, labeled 
+               as  (a) 28G x 1/2", 1CC and (b) 28G x 1/2", 1/2CC.
+               Recall #Z-526/527-3.
+CODE           (a) Catalog No. 002-129, Lot 920109 and (b) Catalog
+               No. 002-130, Lot 920109.
+MANUFACTURER   Can-am Care Corp., West Chazy, New York.
+
+                               -8-
+
+
+
+RECALLED BY    Manufacturer, by letter Mar. 9, 1993, and
+               Apr. 12, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       127,600 units.
+REASON         Syringes were sterilized with a concentration of
+               sterilant gas below specification.
+
+_______________
+PRODUCT        Cytomegalovirus (CMV) IgG Clin-ELISA Kit used for
+               detecting antibodies in human serum.
+               Recall #Z-528-3.
+CODE           Product No. 4530.
+MANUFACTURER   Incstar Corp., Stillwater, Minnesota
+RECALLED BY    Manufacturer, by phone on Feb. 26, 1993 and
+               Mar. 1, 1993, and by letter Mar. 2 and 3, 1993. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       152 test kits were distributed from Oct. 1992 to
+               Jan. 1993.
+REASON         There is a potential for error in the kit which may
+               allow low positive samples to read negative.
+
+_______________
+PRODUCT        MediHeat Infant Heel Warmer, Recall #Z-529-3.
+CODE           Catalog No. MH-9, Lot #MH9G1A.
+MANUFACTURER   Heatmax, Inc., Dalton, Georgia.
+RECALLED BY    Manufacturer.  Firm-initiated recall complete.
+DISTRIBUTION   Southwestern region of the United States.
+QUANTITY       Firm estimates no product remains on the market.
+REASON         Device may cause burns when insufficient covering is
+               used between the skin and the heat pad.
+_______________
+UPDATE         IMED Gemini Volumetric Infusion Pump and
+               Controller.  Recall #Z-504/505-3 which appeared in
+               the May 5, 1993, Enforcement Report should read:
+               REASON:  These devices are subject to pumping
+               mechanism failures caused by severe impacts which
+               may result in uncontrolled excessive fluid delivery.
+     
+                                    
+RECALLS AND FIELD CORRECTIONS:  MEDICAL DEVICES -- CLASS III
+
+______________
+PRODUCT        Cardiomet 1000 Oxygen Sensor Membrane Kit, used
+               during open heart surgery as an extra means of
+               monitoring blood oxygen.  Recall #Z-494-3.
+CODE           Lot CMK/1050, Expiration September 1993.
+MANUFACTURER   Biomedical Sensors Ltd., Bucks, England.
+
+
+                               -9-
+
+
+
+
+RECALLED BY    Biomedical Sensors, Malvern, Penn. by visiting the
+               three product recipients, searching their
+               inventories, and retrieving all units found during
+               the inventory search.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Pennsylvania, Washington D.C., Georgia.
+QUANTITY       11 boxes were shipped from manufacturer
+               to the initial distributor.
+REASON         The kit was labeled with an incorrect expiration
+               date (Sept. 93 instead of April 93).
+
+_______________
+PRODUCT        Various Culture Media: (a) Enliten Standard Methods
+               Bacteria Broth; (b) Purple Broth with Xylose and 
+               Durham Tube; (c) LPM Agar Plate; (d) E20A Agar;
+               and (e) R2A Medium Plate.  Recall #Z-509/513-3.
+CODE           (a) Catalog #FF3471, Part #327A, Lots 252901
+               through 252905; (b) Product #T8029, Lot #6225;
+               (c) Product #M1062, Lot #7013; (d) Product #M1124
+               Lot #7427; and (e) Roduct #M1065, Lot #6471.
+MANUFACTURER   Micro Diagnostics, Inc., Lombard, Illinois.
+RECALLED BY    Manufacturer, by phone on Aug. 12, 1992.
+               Firm-initiated recall complete.
+DISTRIBUTION   Wisconsin, Maryland.
+QUANTITY       16 cartons were distributed.  Firm estimates no
+               product remains on the market.
+REASON         (a) Some of the tubes were mislabeled as Part# 223A,
+               Enlitin Standard Methods Yeast and Mold Broth
+               instead of Enlitin Standard Methods Bacteria Broth;
+               (b) Broth tubes did not show the expected
+               reaction for Listeria monocytogenes, due to
+               incorrect pH adjustment during manufacturing;
+               (c) Plates failed to yield growth of Listeria
+               monocytogenes, due to failure of the firm to
+               adequately store the ingredient(s) used in the
+               manufacture of the device; and (d) & (e) Devices
+               were found to be contaminated with microorganisms.
+
+_______________
+PRODUCT        Silastic RX-60 Medical Grade Tubing, Special.
+               Recall #Z-514-3.
+CODE           Lot #HH082264.
+MANUFACTURER   Dow Corning Corp., Hemlock, Michigan.
+RECALLED BY    Manufacturer, by fax on Dec. 2, 1992.
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Texas.
+QUANTITY       5000 tubes were distributed.
+REASON         Tubing is subject to crazing, due to improper
+               curing.
+
+                              -10-
+
+
+______________
+PRODUCT        Deknatel Teflon Pledget used for suture support in
+               cardiovascular surgery to protect the cardiovascular
+               tissue from suture tearing.  Recall #Z-515-3.
+CODE           Catalog #K-705, Lot #02656.
+MANUFACTURER   Deknatel, Inc., Fall River, Mass.
+RECALLED BY    Manufacturer, by phone on May 27, 1992, and letter
+               of June 19, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       540 pieces.
+REASON         Some of the outer shelf boxes for Catalog #L-705,
+               Lot #02656 were incorrectly labeled as Catalog
+               #K-705, Lot #02656.
+
+                              -11-
+
+END OF ENFORCEMENT REPORT FOR MAY 12, 1993.  BLANK PAGES MAY
+FOLLOW.
+                              ####

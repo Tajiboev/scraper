@@ -1,0 +1,715 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  DEC
+		  Mar
+		
+		
+		
+		  
+		  28
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      21 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DO
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+10/09/1991
+
+Recalls and Field Corrections:
+
+                                    FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  Product will cause serious adverse health consequences or
+                  death.
+
+                                    NONE
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the
+                  probability of serious adverse health consequences is
+                  remote.
+
+
+Product:        Jamaican Orange Soda, in 12 ounce glass bottles.
+                Recall #F-002-2.
+Code:           All lots.
+Manufacturer:   Reggae Imports Ltd., Brooklyn, New York.
+Recalled by:    Manufacturer, by letter August 29, 1991.
+                Firm-initiated recall complete.
+
+                                     -1-
+                                      
+
+
+
+
+
+Distribution:   Firm estimates none remains on the market.
+Quantity:       Florida, New York.
+Reason:         Product contains undeclared FD&C; Yellow No. 5.
+
+                                    ----
+
+                  Class III - A situation in which the use of, or exposure
+                  to a violative product is not likely to cause adverse
+                  health consequences.
+
+
+Product:        Ferrous Sulfate Tablets, 325 mg, a food supplement,
+                in bottles of 100 and 1,000. Recall #F-003-2.
+Code:           Lot numbers:  0889-3021, 0189-2731, 0190-0421, 2611-0930,
+                0190-0431, 3781-0970, 1001-0980, 1391-0980, 0781-0980,
+                1411-0990, 0889-2362, 1189-1751.
+Manufacturer:   Tishcon Corporation, Westbury, New York.
+Recalled by:    Manufacturer, by letter May 13, 1991.  Firm-initiated
+                recall ongoing.
+Distribution:   New York, Pennsylvania.
+Quantity:       12,935,200 tablets were distributed.
+Reason:         Product is subpotent in iron sulfate.
+
+                                    ----
+
+Product:        Reese brand Canned Flat Anchovies, in 2 ounce cans,
+                product of Morocco.  Recall #F-004-2.
+Code:           SN204D and SN205D, item #666.
+Manufacturer:   Sonial, Casablanca, Morocco.
+Recalled by:    Reese Finer Foods, Inc., Bloomfield, New Jersey, by
+                letter April 26 and 30, 1991.  Firm-initiated recall
+                ongoing.
+Distribution:   California, Texas, Illinois.
+Quantity:       1,787 cases were distributed; firm estimates none
+                remains on the market.
+Reason:         Product contained in swollen and leaking cans.
+
+                                    ----
+
+Product:        IGA Chunk Light Tuna in Water, in 6 1/2 ounce cans.
+                Recall #F-005-2.
+Code:           All lots.
+Manufacturer:   Star-Kist Foods Canada, Inc., New Brunswick, Canada.
+Recalled by:    Gateway Foods, Inc., Lacrosse, Wisconsin, by letter
+                July 19, 1991.  Firm-initiated recall complete.
+Distribution:   Wisconsin, Minnesota, Illinois, Iowa, Michigan.
+Quantity:       Firm estimates 41,040 cans remain on the market.
+Reason:         Product is decomposed.
+
+                                    ----
+
+                                  COSMETICS
+
+                                    NONE
+
+
+                                     -2-
+
+
+
+
+
+                          HUMAN DRUGS AND BIOLOGICS
+
+                  Class I -
+
+                                    NONE
+                  Class II -
+
+Product:        E-Solve-2 Erythromycin Topical Solution 2%, in
+                1 ounce containers.  Recall #D-001-2.
+Code:           Lot numbers G444 and G520.
+Manufacturer:   Syosset Laboratories Company, Inc., Syosset, New York.
+Recalled by:    Manufacturer, by letter August 28, 1991.  Firm-initiated
+                recall ongoing.
+Distribution:   New York, New Jersey, California.
+Quantity:       3,664 units of lot G444 and 2,526 units of lot G520
+                were distributed.
+Reason:         Potency not maintained through expiration date.
+
+                                    ----
+
+Product:        Diazepam 2 mg Tablets in 100 count bottles, a Rx drug
+                under the Major Pharmaceutical Corp. label.
+                Recall #D-002-2.
+Code:           Lot numbers:  9E16B, 9K31F, 0K23B, 0M18, 0M18B.
+Manufacturer:   Halsey Drug Company, Brooklyn, New York.
+Recalled by:    Manufacturer, by letter July 30, 1991.  Firm-initiated
+                recall ongoing.
+Distribution:   Nationwide.
+Quantity:       2,765 bottles were distributed; firm estimates fewer
+                than 300 bottles remain on the market.
+Reason:         Label incorrectly omits the prescription legend.
+
+                                    ----
+
+Product:        Stool Softener Plus Laxative, gelatin capsule.
+                Recall #D-008-2.
+Code:           Lot #C6155E EXP 3/93.
+Manufacturer:   Pennex Products Company, Inc., Verona, Pennsylvania.
+Recalled by:    Manufacturer, by letter September 12, 1991.
+                Firm-initiated recall ongoing.
+Distribution:   Nationwide.
+Reason:         Bottle label incorrectly identifies product as a stool
+                softener.  Carton label correctly identifies product
+                as a stool softener plus laxative.
+
+                                    ----
+
+Product:        Whole Blood.  Recall #B-316-1.
+Code:           Unit #W02547.
+Manufacturer:   Marathon County Blood Bank, Inc., Wausau, Wisconsin.
+Recalled by:    Manufacturer, by telephone May 13, 1991, followed by
+                letter May 23, 1991.  Firm-initiated recall complete.
+
+                                     -3-
+
+
+
+
+
+Distribution:   Wisconsin.
+Quantity:       1 unit.
+Reason:         Whole Blood, which tested non-reactive for the antibody
+                to the human immunodeficiency virus type 1 (anti-HIV-1)
+                but was collected from a donor who previously tested
+                repeatably reactive for anti-HIV-1, was distributed.
+
+                                    ----
+
+Product:        Red Blood Cells.  Recall #B-406-1.
+Code:           Unit numbers:  53GJ19216, 5GJ19217, 53GJ19218, 53GJ19219,
+                53GZ25374, 53KT24185, 53KT24186, 53KT24188, 53KT24189.
+Manufacturer:   American Red Cross, Baltimore, Maryland.
+Recalled by:    Manufacturer, by telephone July 12 and 16, 1990, followed
+                by letters in February and May 1991.  Firm-initiated
+                recall ongoing.
+Distribution:   Maryland and Washington, D.C.
+Quantity:       9 units.
+Reason:         Blood products which were prepared in a manner inconsistent
+                with the firm's standard operating procedures, were
+                distributed.
+                                    ----
+
+Product:        Whole Blood.  Recall #B-410-1.
+Code:           Unit #22GR64144.
+Manufacturer:   American Red Cross Blood Services, Philadelphia,
+                Pennsylvania.
+Recalled by:    Manufacturer, by telephone February 5, 1991.
+                Firm-initiated recall complete.
+Distribution:   Pennsylvania.
+Quantity:       1 unit.
+Reason:         Blood products were distributed which were
+                collected from a donor who immigrated from a malarial
+                endemic area.
+
+                                    ----
+
+Product:        (a) Red Blood Cells; (b) Recovered Plasma.
+                Recall #B-412/413-1.
+Code:           Unit #53L54794.
+Manufacturer:   American Red Cross Blood Services, Baltimore, Maryland.
+Recalled by:    Manufacturer, by letters of January 15, 1991,
+                April 19, 1991, and August 8, 1991.  Firm-initiated
+                recall ongoing.
+Distribution:   Maryland.
+Quantity:       1 unit of each component.
+
+                                     -4-
+
+
+
+
+
+Reason:         Blood products, which tested non-reactive for the
+                antibody to the human immunodeficiency virus type 1
+                (anti-HIV-1) but were collected from a donor who
+                previously participated in high risk behavior for
+                HIV, were released.
+
+                                    ----
+
+Product:        (a) Red Blood Cells; (b) Recovered Plasma.
+                Recall #B-416/417-1.
+Code:           Unit #01263.
+Manufacturer:   Southeast Iowa Blood Center, Ottumwa, Iowa.
+Recalled by:    Manufacturer, by letter April 23, 1991.  Firm-inititaed
+                recall complete.
+Distribution:   Iowa, Tennessee, New York.
+Quantity:       1 unit of each component.
+Reason:         Blood products, initially reactive for the antibody
+                to the human immunodeficiency virus type 1 (antv-HIV-1),
+                were distributed.
+                                    ----
+
+Product:        Source Plasma.  Recall #B-419-1.
+Code:           Unit #N-41981-049.
+Manufaturer:    Preferred Blood Products, Inc., Fort Worth, Texas.
+Recalled by:    Manufacturer, by facsimile June 6, 1991.  Firm-
+                initiated recall complete.
+Distribution:   New York.
+Quantity:       1 unit.
+Reason:         Source Plasma, which tested repeatably reactive for
+                the antibody to the human immunodeficiency virus type 1
+                (anti-HIV-1) by EIA and Western Blot positive, was
+                distributed for further manufacture into injectable
+                products.
+                                    ----
+
+Product:        Source Plasma.  Recall #B-420-1.
+Code:           Unit numbers:  SP 04677, SP 04747, SP 04787, SP 04815,
+                SP 04859, SP 04884, SP 04912, SP 04960, SP 04984,
+                70716498, 70717914, 72932995, 72934364, 72936269,
+                72937426, 73400998.
+Manufacturer:   Bio-Blood Components, Inc., Shreveport, Louisiana.
+Recalled by:    Bio-Blood Components, Inc., Memphis, Tennessee, by
+                telephone June 13, 1991, and by an undated letter
+                to foreign consignee.  Firm-initiated recall ongoing.
+Distribution:   California, Germany.
+Quantity:       16 units.
+Reason:         Blood components, which tested reactive for hepatitis
+                B surface antigen (HBsAg) or were collected from donors
+                who previously tested repeatably reactive for the
+                antibody to the human immunodeficiency virus, type 1
+                (anti-HIV-1), were distributed.
+
+                                    ----
+                                     -5-
+
+
+
+
+
+Product:        DuPont Human T Lymphotropic Virus Type I ELISA
+                Microtiter Test Kits.  Recall #B-421-1.
+Code:           Lot numbers:  542T1101 EXP 4/11/91, and 546T1154
+                EXP 6/3/91.
+Manufacturer:   E.I. Dupont De Nemours and Company, Inc., Medical
+                Products Department, Glasgow, Delaware.
+Recalled by:    E.I. Dupont De Nemours and Company, Inc., Medical
+                Products Department, Wilmington, Delaware, by telephone
+                and by letter February 15, 1991.  Firm-initiated recall
+                ongoing.
+Distribution:   Nationwide and Brussells.
+Quantity:       23 2-plate kits and 120 5-plate kits for lot 542T1101,
+                108 2-plate kits, 100 5- plate kits, and 31 25-plate
+                kits of lot 546T1154 were distributed; firm estimates
+                none remains on the market.
+Reason:         A small number of wells in the microplates of the
+                Human T Lymphotropic Virus Type I test kits were
+                found to leak.
+                                    ----
+
+Product:        Platelets.  Recall #B-422-1.
+Code:           Unit numbemrs: (a) 2148585 and 2148593.
+Manufacturer:   Central Indiana Regional Blood Center, Inc.,
+                Indianapolis, Indiana.
+Recalled by:    Manufacturer, by letter May 15, 1991.  Firm-initiated
+                recall complete.
+Distribution:   Indiana.
+Quantity:       2 units.
+Reason:         Blood products, labeled with incorrect expiration
+                dates, were distributed.
+
+                                    ----
+
+CORRECTION:     Code section for Recall B-338/342-1, blood products
+                distributed by American Red Cross, Wichita, Kansas,
+                which appeared in the July 31, 1991 Enforcement Report
+                has been amended:
+                Platelets, Recall #B-342-1 - delete
+                units 02P10261, 02P09905, and 02P10666.
+
+                                    ----
+
+                Class III -
+
+Product:        Valumag Plus Extra Strength, in 12 fluid ounce bottles,
+                an OTC liquid antacid/anti-gas product, under the Valumed
+                and Moore Medical Corp. label.  Recall #D-003-2.
+Code:           Lot #ID006.
+Manufacturer:   KC Pharmaceuticals, Ponoma, California.
+Recalled by:    Moore Medical Corporation, New Britain, Connecticut, by
+                letter September 19, 1991.  Firm-initiated recall ongoing.
+Distribution:   Nationwide.
+                                     -6-
+
+
+
+
+
+Quantity:       Approximately 140 bottles were distributed.
+Reason:         Label mix-up.  Rear panel is label used for regular
+                Valumag Plus.
+
+                                    ----
+
+Product:        Conjugated Estrogens Tablets, USP, (a) 0.3 mg;
+                (b) 0.625 mg; (c) 1.25 mg; (d) 2.5 mg, in 100, 500, and 1,000
+tablet bottles, Rx drugs administered
+                orally for the treatment of the symptoms of menopause,
+                postmenopausal osteoporosis and breast swelling after
+                pregnancy, under the following labels: Zenith, Bioline,
+                Major, Geneva Generics, Goldline, I.D.E. - Star Brand,
+                H.L. Moore, Schein, Darby (Rugby, with Zenith imprint),
+                U.R. L., Darby (Rugby, with Rugby imprint), Qualitest.
+                Recall #D-004/007-2.
+Code:           All lots.
+Manufacturer:   Zenith Laboratories, Inc., Northvale, New Jersey.
+Recalled by:    Manufacturer, by telephone and letters March 6, 7, 1991
+                and by letter dated April 12, 1991.  Firm-initiated
+                recall ongoing.
+Distribution:   Nationwide.
+Quantity:       FDA estimates that less than 10% of products remain
+                on the market.
+Reason:         Some lots do not meet stability specifications through
+                expiration date.
+                                    ----
+
+Product:        Aristocort Forte Parenteral (Sterile Triamcinolone
+                Diacetate Suspension 40 mg/ml), in 1 ml vials.
+                Recall #D-009-2.
+Code:           Control #311-800 EXP 6/94, Product #4450-24.
+Manufacturer:   Lederle Parenterals, Inc., Carolina, Puerto Rico.
+Recalled by:    Manufacturer, by letter on or about October 7, 1991.
+                Firm-initiated recall ongoing.
+Distribution:   Illinois.
+Quantity:       Approximately 20,518 units were distributed.
+Reason:         Some 1 ml size vials were packaged in unit cartons
+                which incorrectly identify the size of the vial
+                as 5 ml.
+                                    ----
+
+Product:        Platelets; (b) Plasma; (c) Recovered Plasma.
+                Recall #B-407/409-1.
+Code:           Unit numbers:  (a) 53GJ19216 through 53J19219, 53GZ25374,
+                53KT24185, 53KT24186, 53KT24188;
+                (b) 53GJ19217 through 53GJ19219, 53GZ25374;
+                (c) 53KT24185, 53KT24186, 53KT24188, 53KT24189.
+Manufacturer:   American Red Cross, Baltimore, Maryland.
+Recalled by:    Manufacturer, by letter May 1 and 2, 1991.
+                Firm-initiated recall ongoing.
+Distribution:   Maryland and Washington, D.C.
+
+                                     -7-
+
+
+
+
+
+Quantity:       (a) 8 units; (b) 5 units; (c) 4 units.
+Reason:         Blood products which were prepared in a manner
+                inconsistent with the firm's standard operating
+                procedures, were distributed.
+
+                                    ----
+
+Product:        Whole Blood.  Recall #B-411-1.
+Code:           Unit #22GY19068, 22KE26416, 22KE34112, 22KE34148.
+Manufacturer:   American Red Cross Blood Services, Philadelphia,
+                Pennsylvania.
+Recalled by:    Manufacturer, by telephone August 15 and 20, 1990,
+                November 11, 1990 and January 8, 1991.
+                Firm-initiated recall complete.
+Distribution:   New Jersey, Pennsylvania.
+Quantity:       4 units.
+Reason:         Blood products were distributed which were
+                collected from a donor whose hematocrit was below the
+                acceptable limit for donor suitability; or labeled with
+                incorrect expiration dates.
+
+                                    ----
+
+Product:        Recovered Plasma.  Recall #B-414-1.
+Code:           Unit numbers:  28928, 28934, 28954.
+Manufacturer:   Terrebonne General Hospital, Houma, Louisiana.
+Recalled by:    Manufacturer, by telephone August 9, 1991.
+                Firm-initiated recall complete.
+Distribution:   Florida.
+Quantity:       3 units.
+Reason:         Recovered Plasma, which tested initially reactive
+                for hepatitis B surface antigen (HBsAg) and
+                non-reactive by a single repeat test, were, distributed.
+
+                                    ----
+
+Product:        Plasma Protein Fraction.  Recall #B-418-1.
+Code:           Unit #28360381AA.
+Manufacturer:   Hyland Division, Baxter Healthcare Corporation,
+                Glendale, California.
+Recalled by:    Manufacturer, by letter November 26, 1990.
+                Firm-initiated recall complete.
+Distribution:   Kentucky.
+Quantity:       2,645 vials were distributed.
+Reason:         Plasma Protein Fraction (PPF) vials, which were
+                placed in unit boxes labeled Albumin, were distributed.
+
+                                    ----
+
+Product:        Red Blood Cells.  Recall #B-423-1.
+Code:           Unit #2264161.
+Manufacturer:   Central Indiana Regional Blood Center, Inc.,
+                Indianapolis, Indiana.
+
+                                     -8-
+
+
+
+
+
+Recalled by:    Consignee notified recalling firm by letter
+                May 15, 1991.  Firm-initiated recall complete.
+Distribution:   Indiana.
+Quantity:       1 unit.
+Reason:         Blood products, labeled with incorrect expiration dates,
+                were distributed.
+
+                                    ----
+
+                      DEVICES AND RADIOLOGICAL PRODUCTS
+
+                  Class I -
+
+Product:        Micross-SL PTCA dilatation catheters, for use in
+                coronary angioplasty:
+                (a) Catalog #53300;
+                (b) Catalog #53250.  Recall #Z-1044/1045-1.
+Code:           Lot numbers:  (a) D1101 EXP 6/11/92;
+                (b) D2301 EXP 7/25/92, D2402 EXP 7/25/92.
+Manufacturer:   Datascope Corporation, Montvale, New Jersey.
+Recalled by:    Datascope Corporation, Angioplasty Division, Oakland,
+                New Jersey, by telephone on or about April 24, 1991
+                followed by visit and by memorandum, May 3, 1991 to
+                European consignees.  On or about April 26, 1991,
+                firm sent letter to all consignees.  Firm-initiated
+                recall complete.
+Distribution:   Nationwide and international.
+Quantity:       82 units were distributed; firm estimates none
+                remains on the market.
+Reason:         The balloon can fail to inflate during use due to
+                cracks in the Y-Fitting, and the Y-Fitting is subject
+                to leakage.
+                                    ----
+
+                                    NONE
+
+                  Class II -
+
+Product:        The "ROSE" Chair, 2000 Series, used as a geriatric
+                or patient chair for relief of strain.  Recall #Z-1093-1.
+Code:           None.  March 1986 - December 1989 production.
+Manufacturer:   ADD Interior Systems, Inc., Los Angeles, California.
+Recalled by:    Manufacturer, by letters January to March 1990 and
+                January to March 1991.  Firm-initiated recall ongoing.
+Distribution:   Nationwide and international.
+Quantity:       Approximately 11,767 chairs were distributed.
+
+                                     -9-
+
+
+
+
+
+Reason:         The fastener threaded inserts (nuts) used in the
+                manufacture of these chairs were found to be of low
+                hardness contained extensive defects which could result
+                in the loosening or breaking of the mounting screws,
+                causing the chair seat to separate from the chair base
+                and falling to the floor while in use by the patient.
+
+                                    ----
+
+Product:        Baxter Fenwal Sepacell R-500 Leukocyte Removal Sets,
+                sterile, nonpyrogenic fluid paths:
+                (a) Sepacell R-500 Leukocyte Removal Administration Set
+                for Red Cell Transfusion, Product Code 4C2442, intended
+                for leukocyte depletion of two units of red blood cell
+                products by direct (bedside) in-line filtration during
+                transfusion;
+                (b) Sepacell R-500 Leukocyte Removal Recipient Set for Red
+                Cell Transfusion, Product Code 4C2443, intended for
+                leukocyte depletion of one unit of red blood cell product
+                by direct (bedside) in-line filtration during transfusion;
+                (c) Sepacell R-500 Leukocyte Removal Recipient Set for Red
+                Cell Transfusion, Product Code 4C2451, intended for leukocyte
+                depletion of two units of red blood cell products by
+                direct (bedside) in-line filtration during transfusion.
+                Recall #Z-1125/1127-1.
+Code:           All lots.
+Manufacturer:   Baxter Healthcare Corporation, Round Lake, Illinois;
+                Baxter Healthcare Corporation, Mountain Home, Arkansas.
+Recalled by:    Baxter Healthcare Corporation, Deerfield, Illinois, by
+                letter August 12, 1991.  Firm-initiated recall ongoing.
+Distribution:   Nationwide, Canada, Belgium, Mexico.
+Quantity:       (a) 24,696 sets; (b) 1,998 sets; (c) 8,221 sets were
+                distributed; firm estimates very little of the product
+                remains on the market.
+Reason:         There may be instances of slowing or stoppage of blood
+                flow associated with these devices.
+
+                                    ----
+
+Product:        Inspiratory and/or Expiratory Rubber Valves for the
+                pneumatics section of the Servo Ventilator Models
+                900/B/C/D/E.  The valves may have been purchased with
+                the Servo Ventilator or as part of an exchange kit.
+                Recall #Z-1128-1.
+Code:           The Servo Ventilators containing these valves are
+                Servo Ventilator 900C, product #69 32 552, Servo
+                Ventilator 900D, part # 90 98 492, and Servo Ventilator
+                900E, part number 96 19 073.  The rubber valves in the
+                exchange kits bear part numbers 96 19 925 and 90 05 141,
+                and all valves except those bearing lot numbers 6-6, 7-5,
+                01-0 and all unmarked valves.
+Manufacturer:   Siemens Life Support Systems, Inc., Schaumburg, Illinois.
+
+                                    -10-
+
+
+
+
+
+Recalled by:    Manufacturer, by letter October 29, 1990.  Firm-initiated
+                recall ongoing.
+Distribution:   Nationwide, Canada.
+Quantity:       20,500 valves were distributed; firm estimates none
+                remains on the market.
+Reason:         The rubber valve can disconnect from the metal pipe
+                that secures the valve to the inspiratory or expiratory
+                channel of the pneumatics section of the ventilator,
+                which would result in partial or complete loss of the
+                preset minute volume and/or pressure.
+
+                                    ----
+
+UPDATE NOTICE:  Recall #Z-951-1, Preview Strep A In-Vitro EIA-Type
+                Diagnostic Test Kit, and Recall #Z-1048-1, Preview Urine
+                hCG In-Vitro Diagnostic Pregnancy Kit, which appeared
+                in the September 25, 1991, Enforcement Report are
+                completed recalls.
+
+                                    ----
+CORRECTION:     Power Cables used with the Siemens Digicam LHP Laser
+                Imager and DuPont LINX Laser Imager, which appeared
+                in the August 28, 1991 Enforcement Report should
+                read:  Recall #Z-950-1.
+
+                                    ----
+
+                Class III -
+                                    NONE
+
+                             VETERINARY PRODUCTS
+
+                Class I -
+                                    NONE
+                Class II -
+
+Product:        Turkey Starter with Furazolidone (pellet form), in
+                50 pound bags.  Recall #V-092-1.
+Code:           Lot numbers:  351 and 366
+Manufacturer:   Kent Feeds, Inc., Mason, Michigan.
+Recalled by:    Manufacturer, by telephone April 9, 1991 and May 16,
+                1991.  Firm-initiated recall complete.
+Distribution:   Michigan.
+Quantity:       155 bags were distributed.
+Reason:         Product is subpotent.
+
+                                    ----
+
+                Class III -
+                                    NONE
+
+                                    ####
+
+                                    -11-

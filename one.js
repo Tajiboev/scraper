@@ -1,17 +1,24 @@
 const fs = require("fs");
 const Excel = require('exceljs');
 
-const files = fs.readdirSync('text/1995');
-const nm = 54;
+const files = fs.readdirSync('text/2000');
+const nm = 52;
 const working_file_name = files[nm];
-console.log(nm);
+console.log('Working on', nm, 'of 2000');
 
 textjs(working_file_name);
 
-var errorFiles = [3, 20, 32, 33, 48, 49, 50, 'in year 1995', 'total 53']
+var errorFiles1995 = [3, 20, 32, 33, 48, 49, 50, 'total 53']
+var errorFiles1996 = [32, 'total50'];
+var errorFiles1997 = [13, 17, 20, 'total53'];
+var errorFiles1998 = [5, 11, 24, 49, 'total52'];
+var errorFiles1999 = ['32-0-products+solved', '47 may have problem with rec#', 'total51'];
+//checking for 1st dot (.) after reason can be errorprone
+// MOST ERRORS MUST HAVE BEEN RESOLVED WITH IF STATEMENT IN LOOKFORMULTIPLES(i)
+var errorFiles2000 = ['no-errors', 'total52'];
 
 function textjs(filename) {
-    fs.readFile(`text/1995/${filename}`, "utf8", function read(err, data) {
+    fs.readFile(`text/2000/${filename}`, "utf8", function read(err, data) {
         if (err) {
             console.log(`error while reading ${filename}`, err);
         } else {
@@ -22,7 +29,7 @@ function textjs(filename) {
 
 function process(text) {
     var transformed = transform(text);
-    var divided = divide(transformed)
+    divide(transformed) //that's why all code below executes
 }
 
 function transform(theText) {
@@ -30,7 +37,9 @@ function transform(theText) {
         .toLowerCase()
         .replace(/([ ]{2,})/g, " ")
         .replace(/\./g, ".\n")
-        .replace(/recalls and field corrections/ig, "KEYWORDHERE");
+        .replace(/RECALLS AND FIELD CORRECTIONS/ig, "KEYWORDHERE");
+    // .replace(/distribuion/g, "distribution");
+    // because of error in 1st of 2000
     return transformedText;
 }
 
@@ -58,13 +67,15 @@ function divide(rawtext) {
     var paragraphs = [];
     for (let n = 0; n < arr.length - 1; n++) {
         var keyword_to_keyword = rawtext.slice(arr[n], arr[n + 1]);
-        paragraphs[n] = `${keyword_to_keyword}`;
+        paragraphs[n] = `${keyword_to_keyword.replace(/(\r\n|\n|\r)/gm, " ")}`;
     };
+
+
 
     var filtered_paragraphs = paragraphs.filter((elem) => {
         return elem.includes("KEYWORDHERE: drug") || elem.includes("KEYWORDHERE: bio") || elem.includes("KEYWORDHERE: device")
     });
-
+    // console.log(filtered_paragraphs);
     var to_prod_final_array = [];
 
     function lookForMultiples(item) {
@@ -83,14 +94,14 @@ function divide(rawtext) {
     };
 
     function splitMultiples(text, divisions) {
-        var classX = getClass(text);
-        var categoryX = getCategory(text)
+        var classX = (elem) => elem.substr(elem.indexOf("class"), 9);
+        var categoryX = (element) => element.substr(element.indexOf("KEYWORDHERE:"), 17)
         var position_start = text.indexOf("product");
         var position_of_reason = text.indexOf("reason", position_start)
         var position_end = text.indexOf(".", position_of_reason)
 
         for (let i = 0; i < divisions; i++) {
-            var one_product = `${categoryX} + ${classX} + ${text.slice(position_start, position_end)}`;
+            var one_product = `${categoryX(text)} + ${classX(text)} + ${text.slice(position_start, position_end)}`;
             to_prod_final_array.push(one_product);
 
             position_start = text.indexOf("product", position_end);
@@ -99,18 +110,11 @@ function divide(rawtext) {
         };
     }
 
-    function getClass(elem) {
-        return elem.substr(elem.indexOf("class"), 9);
-    }
-
-    function getCategory(element) {
-        var categoryX = element
-            .substr(element.indexOf("KEYWORDHERE:"), 17)
-        return categoryX;
-    }
-
     for (i of filtered_paragraphs) {
-        lookForMultiples(i)
+        if (i.includes("reason") && i.includes("distribution")) {
+            // console.log(i);
+            lookForMultiples(i)
+        }
     };
 
     console.log(`There are ${to_prod_final_array.length} products in ${working_file_name}`);
@@ -183,15 +187,16 @@ function createXLSX(last_arr) {
         });
     };
 
-    workbook.xlsx.writeFile(`excel/1995/${working_file_name.replace('.txt', '')}.xlsx`, 'utf8')
+    workbook.xlsx.writeFile(`excel/2000/${working_file_name.replace('.txt', '')}.xlsx`, 'utf8')
         .then(function () {
             console.log("done writing to Excel file")
         });
 } //--fn create excel end
 
 function beautify(text) {
-    return text.split(' ')
-        .map((s) => s.charAt(0).toUpperCase() + s.substring(1)).join(' ')
+    return text.split(" ")
+        .map((s) => s.charAt(0).toUpperCase() + s.substring(1).toLowerCase())
+        .join(" ")
         .replace(/(\r\n|\n|\r)/gm, " ")
         .trim();
 }
@@ -228,6 +233,9 @@ function getProductName(element) {
 function getManufaturer(element) {
     var mIndex = element.indexOf("manufacturer");
     var dotIndex = element.indexOf(".", mIndex);
+    if (dotIndex - mIndex < 15) {
+        dotIndex = element.indexOf(",", mIndex)
+    }
     var manufacturer = element
         .slice(mIndex, dotIndex)
         .replace("manufacturer", "");
@@ -316,10 +324,11 @@ function getRecallDate(element) {
     let rgxDD = working_string.match(/\d{1,2}/);
     let rgxYY = working_string.match(/\d{4}/);
 
-    if (rgxMM != null && rgxMM != null) {
-        let recalldate = rgxMM[0] + " " + rgxDD[0] + ", " + rgxYY[0];
-        return beautify(recalldate);
-    } else {
-        return "unknown recall date"
-    }
+    let recalldate = 'N/A'
+
+    if (rgxMM != null && rgxMM != null && rgxYY != null) {
+        recalldate = `${rgxMM[0]} ${rgxDD[0]}, ${rgxYY[0]}`;
+    };
+
+    return beautify(recalldate)
 };

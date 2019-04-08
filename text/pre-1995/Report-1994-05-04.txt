@@ -1,0 +1,839 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Feb
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      29 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+05/04/1994
+
+Recalls and Field Corrections:  Foods -- Class II -- 05/04/1994
+
+May 4, 1994                                                    94-18
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Plantillas (Puertorican tortillas) in plastic bags.
+               Recall #F-389-4.
+CODE           None.
+MANUFACTURER   Marvel Specialties, Inc., Rio Piedras, Puerto Rico.
+RECALLED BY    Manufacturer, by visit beginning March 17, 1994.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Puerto Rico.
+QUANTITY       Undetermined.
+REASON         Product contains undeclared FD&C; Yellow No. 5.
+ 
+_______________
+PRODUCT        Western Family brand Macaroni & Cheese, in 7.25 ounce
+               cardboard boxes.  Recall #F-390-4.
+CODE           12172KA and 12292KA.
+MANUFACTURER   Borden, Inc., doing business as Merlinos Macaroni, Kent,
+               Washington.
+RECALLED BY    Western Family Foods, Inc., Tigard, Oregon, by letter
+               February 11, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   To wholesale acounts in Washington state.
+QUANTITY       1,620 cases (24 per case) of lot 12172KA ad 1,336 cases (24
+               per case) of lot 12292KA were distributed.
+REASON         Product may be contaminated with metal shavings.
+
+_______________
+PRODUCT        Dial Hand and Body Lotion, also known as Dial Lotion, for
+               hotel and institutional use, in .25 fluid ounce packets,
+               0.75 fluid ounce jars, and in 55 gallon drums.  
+               Recall #F-391-4.
+CODE           Bulk code is HB126.  Final product codes are:  F023M3H126
+               under the Pony Soldier label; F293J2126, F303J2126.
+               H283J32126 (Cross Country label); H283J2126, J063J2126,
+               J073J2126 (dial (AKA White Marble) label.
+MANUFACTURER   The Dial Corporation, Memphis, Tennessee (bulk manufacture).
+RECALLED BY    The Dial Corporation, Scottsdale, Arizona, by letters of
+               December 15 and 22, 1993 January 20, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       45 cases containing 288 0.75-oz jars of code F023M3HB126
+               were produced & sold. 
+               Packet production & distribution, all in cases of 500 each: 
+               F293J2126 (Cross Country label): 70 cases made & sold. 
+               F303J2126 (Cross Country): 78 cases made & sold. 
+               H283J2126 (Cross Country): 49 made; 48 sold; 1 held. 
+               H283J2126 (Dial label AKA White Marble): 202 made; 195 sold;
+               7 held. 
+               H303J2126 (Cross Country): 63 made & held; none distributed.
+               J053J2126 (Dial): 47 made & held; none distributed. 
+               J063J2126 (Dial): 233 made; 113 distributed; 120 held. 
+               J073J2126 (Dial): 127 made; 108 sold; 19 held.  
+               J073J2126 (Cross Country): 101 made & held; none
+               distributed. 
+               K163J2126 (Dial): 27 made & held; firm estimates 20% of the
+               product remain in commerce at the on-set of the recall.
+REASON         Product is contaminated with Pseudomonas ("Burkholderia")
+               cepacia.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        All Juice brand Apple Juice, in 64 ounce glass bottles. 
+               Recall #F-387-4.
+CODE           NCH 07303B, NCH 08093A, NCH 08113B, NCH 09093A/B.
+MANUFACTURER   Natures Choice of North Carolina, Henderson, North Carolina.
+RECALLED BY    All Juice Food and Beverage Corporation, Ormond Beach,
+               Florida, by telephone followed by visit on or about January
+               19, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Grocery wholesale accounts in Alabama, Florida, Georgia,
+               North Carolina, South Carolina, Virginia.
+QUANTITY       Undetermined.
+REASON         Product lacks the labeled ingredient Malic Acid.
+
+                                    -2-RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Symmetrel (amantidine HCl) 100 mg Capsules, in bottles of
+               100 Capsules, indicated for the prophylaxis and treatment of
+               signs and symptoms of infection caused by various strains of
+               influenza virus.  It is also indicated int he treatment of
+               parkinsonism and drug-induced extrapyramidal reactions. 
+               Recall #D-263-4.
+CODE           Lot #EEB021A EXP 1/95, EEB021B 1/95.
+MANUFACTURER   Dupont Merck Pharma, Manati, Puerto Rico.
+RECALLED BY    Dupont Merck Pharmaceutical Company, Wilmington, Delaware,
+               by letter April 11, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Bahrain.
+QUANTITY       39,072 units were distributed; firm estimates non remains on
+               the market.
+REASON         Marginal subpotency.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Red Blood Cells, Leukocytes
+               Removed; (c) Platelets; (d) Fresh Frozen Plasma; (e)
+               Cryoprecipitated AHF.  Recall #B-213/217-4.
+CODE           Unit numbers: (a) 1784113, 2886566; (b) 4171411, 5645218;
+               (c) 1352402, 2886566; (d) 4171411; (e) 1784113.
+MANUFACTURER   Bloodcare, Dallas, Texas.
+RECALLED BY    Manufacturer, by letters of September 14 and 22, 1993, and
+               January 11-12, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Texas, New Jersey, Florida.
+QUANTITY       (a) 2 units; (b) 2 units; (c) 2 units; (d) 1 unit; (e) 1
+               unit.
+REASON         Blood products collected from a donor who reported a history
+               of cancer, were distributed for transfusion.
+
+_______________
+PRODUCT        Investigational products:
+               (a) Antilymphoblast Globulin (Equine);
+               (b) Cytomegalovirus Immune Globulin (Human);
+               (c) Thymocyte Immune Globulin (Equine)
+               (d) Antilymphoblst Globulin (Goat)
+               (e) Allergenic Skin Test (Equine)
+               (f) Allergenic Skin Test (Goat)
+               (g) Botulism Immune Globulin (Human).  Recall #B-220/226-4.
+CODE           All lots.
+MANUFACTURER   University of Minnesota, Department of Surgery, St. Paul,
+               Minnesota.
+RECALLED BY    Manufacturer, by telephone from September 29, 1993 - October
+               15, 1993, followed by letter dated October 11, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide, Canada, Denmark, New Zealand.
+QUANTITY       2,581 vials retrieved from consignees at time of recall.
+
+                                    -3-REASON         Investigational products, not manufactured in accordance
+               with approved Investigational New Drug applications, were
+               commercially distributed.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-229-4.
+CODE           Unit numbers:  A3875, A3880, A3894, A3896, A3901, A3913,
+               A3925, A3962, A3971, A3977, A3994, A3998, A4024, A4035,
+               A4077.
+MANUFACTURER   Verdugo Hills Hospital, Glendale, California.
+RECALLED BY    Manufacturer, by telephone November 11, 1993, followed by
+               letter November 23, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   California.
+QUANTITY       15 units.
+REASON         Blood products, untested for hepatitis B surface antigen
+               (HBsAg), the antibodies to the human immunodeficiency virus
+               type 1/2 (anti-HVI-1/2), the antibody to hepatitis C virus
+               encoded antigen (ant9-HCV) hepatitis B core antigen (anti-
+               HBC), and syphilis were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Fresh Frozen Plasma. 
+               Recall B-230/232-4.
+CODE           Unit #1512951.
+MANUFACTURER   Lifesource, Glenview, Illinois.
+RECALLED BY    Manufacturer, by letter January 20, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       1 unit of each component.
+REASON         Blood products, which tested negative for the antibody to
+               human immunodeficiency virus type 1 (anti-HIV-1), but were
+               collected from a donor who previously tested repeatedly
+               reactive for anti-HIV-1, were distributed.
+
+_______________
+PRODUCT        (a) Whole Blood; (b) Red Blood Cells; (c) Platelets, for
+               Further Manufacture.  Recall #B-233/235-4.
+CODE           Unit numbers:  (a) 01V10700: (b) 01E04823; (c) 01E04823.
+MANUFACTURER   The American National Red Cross, Rochester, New York.
+RECALLED BY    Manufacturer, by letters of: (a) April 26, 1993; (b)
+               February 27, 1992; (c) May 14, 1992.  Firm-initiated recall
+               complete.
+DISTRIBUTION   New York.
+QUANTITY       1 unit of each component.
+REASON         Blood products, that either:  tested negative for the
+               antibody to the human immunodeficiency virus type 1 (anti-
+               HIV-1), but were collected from a donor who previously
+               tested repeatedly reactive for anti-HIV-1; or tested
+               negative for the antibody to hepatitis B core antigen (anti-
+               HBc), but were collected from a donor who previously tested
+               repeatedly reactive for anti-HBc on more than one occasion,
+               were distributed.
+
+                                    -4-_______________
+PRODUCT        (a) Cryoprecipitated AHF; (b) Recovered Plasma.
+               Recall #B-236/237-4.
+CODE           Unit #24LJ96837.
+MANUFACTURER   American Red Cross Blood Services, Louisville, Kentucky.
+RECALLED BY    Manufacturer, by telephone September 7, 1993, and by letters
+               of September 13 and 24, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Kentucky, Switzerland.
+QUANTITY       1 unit of each component.
+REASON         Blood products, which tested negative for the antibody to
+               hepatitis C virus encoded antigen (anti-HCV), but were
+               collected from a donor who previously tested repeatedly
+               reactive for anti-HCV, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Recovered Plasma. 
+               Recall #B-238/240-4.
+CODE           Unit #C25810.
+MANUFACTURER   Northern Illinois Blood Bank, Rockford, Illinois.
+RECALLED BY    Manufacturer, by telephone and Fax November 1, 1993,
+               followed by letter November 24, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Illinois, California.
+QUANTITY       1 unit of each component.
+REASON         Blood products, which tested repeatedly reactive for
+               hepatitis B surface antigen (HBsAg), were distributed.
+
+_______________
+PRODUCT        Platelets, Pheresis.  Recall #B-242-4.
+CODE           Unit #E56802.
+MANUFACTURER   Regional Health Resource Center, Champaign, Illinois, by
+               telephone January 14, 1994, followed by letter February 8,
+               1994.  Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       1 unit.
+REASON         Blood product labeled with an incorrect expiration date was
+               distributed.
+
+_______________
+PRODUCT        Platelets.  Recall #B-249-4.
+CODE           Unit #24GW40861.
+MANUFACTURER   The American National Red Cross, Louisville, Kentucky.
+RECALLED BY    telephone on or about March 18, 1993, followed by letter
+               April 15, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Indiana.
+QUANTITY       1 unit.
+REASON         Blood product, that tested repeatedly reactive for the
+               antibody to hepatitis C virus encoded antigen (anti-HCV),
+               was distributed.
+
+                                    -5-RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        (a) Red Blood Cells, for further manufacture; (b) Recovered
+               Plasma.  Recall #B-218/219-4.
+CODE           Unit numbers:  (a) 4596369; (b) 1352402, 1784113, 2886566,
+               5645218.
+MANUFACTURER   Bloodcare, Dallas, Texas.
+RECALLED BY    Manufacturer, by letters of September 14 and 22, 1993, and
+               January 11-12, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Texas, New Jersey, Florida.
+QUANTITY       (a) 1 units; (b) 4 units.
+REASON         Blood products, collected from a donor who reported a
+               history of cancer, were distributed for further manufacture
+               of injectable and non-injectable products.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-241-4.
+CODE           Unit 3149372.
+MANUFACTURER   Central Texas Regional Blood Center, Austin, Texas.
+RECALLED BY    Manufacturer, by telephone February 19, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       1 unit.
+REASON         Autologous blood product, which was positive for syphilis
+               but was not labeled with a biohazard label, was distributed.
+
+_______________
+PRODUCT        Source Plasma.  Recall #B-248-4.
+CODE           Unit numbers:  MXG889, MXG890, MXG894, MXG895, MXG896,
+               MXG897, MXG899, MXH902, MXH903, MXH908, MXH912, MXH914.
+MANUFACTURER   Austin Plasma Company, Inc., Austin, Texas.
+RECALLED BY    Manufacturer, by telephone October 25, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   North Carolina.
+QUANTITY       12 units.
+REASON         Blood products, untested for hepatitis B surface antigen
+               (HBsAg), the antibodies to human immunodeficiency virus
+               types 1 and 2 (anti-HIV-1/2), and the antibody to hepatitis
+               C virus encoded antigen (anti-HCV), were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS I
+========================
+_______________
+PRODUCT        3M Defib-Pad, conductive gel pads for defibrillation or
+               cardioversion:
+               (a) Catalog 2345N (9" x 4-1/2"); (b) Catalog #2346N 
+               (9" x 6").  Recall #Z-299/300-4.
+CODE           All lots.
+MANUFACTURER   3M Company, Brookings, South Dakota.
+RECALLED BY    3M Health Care, St. Paul. Minnesota, by letters of January
+               29, 1994 and March 14, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+
+                                    -6-QUANTITY       15,778 cartons (100 pads per carton) were distributed; firm
+               estimates 9,000 cartons remain on the market.
+REASON         Use of Defib-Pads which contain a polyethylene liner
+               inadvertently placed in between two layers of gel could
+               impede the current flow resulting in a risk of arcing,
+               fires, burns to patients, electrical shock, and possible
+               patient deaths due to the failure to defibrillate the
+               patient in a timely manner.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        MedFlo Ambulatory Infusion Device, sterile, nonpyrogenic
+               fluid path, a non-electronic positive pressure medication
+               delivery system.  Recall #Z-247-4.
+CODE           Lot #93-323.
+MANUFACTURER   Secure Medical Products, Inc., Whitewater, Wisconsin.
+RECALLED BY    Secure Medical Products, Inc., Mundelein, Illinois, by
+               telephone January 17-20, 1994, followed by letter January
+               26, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Arizona, California, Colorado, Florida, Illinois,
+               Massachusetts, Missouri, Pennsylvania, Texas, Washington
+               state.
+QUANTITY       3,500 units were distributed.
+REASON         Cracking of the distal luer connection on some of the units.
+
+_______________
+PRODUCT        Cynomolgus Monkey Kidney Cell Culture Tubes with SV-5 and
+               SV-40 antisera, for in-vitro diagnostic use. 
+               Recall #Z-562-4.
+CODE           Lot numbers:  3C3987, 3C3909, 3C3910.
+MANUFACTURER   BioWhittaker, Inc., Walkersville, Maryland.
+RECALLED BY    Manufacturer, by telephone January 18, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Arizona, Connecticut, Georgia, Massachusetts, Ohio,
+               Pennsylvania, South Dakota, Tennessee, Maryland, Texas, New
+               Jersey.
+QUANTITY       255 units of lot 3C3909; 150 units of lot 3C3987, and 1,110
+               units of lot 3C3910 were distributed.
+REASON         Product was contaminated with Simian B Virus.
+
+_______________
+PRODUCT        Rubestat Test Kit, used for the purpose of evaluating a
+               Patient's serologic status to rubella virus infection or to
+               evaluate paired sera for the presence of a significant
+               increase in a specific IgG as indicative of a recent or
+               current rubella virus infection:  (a) Catalog #30-334U; 
+               (b) Catalog #30-336U.  Recall #Z-563/564-4.
+CODE           Lot numbers:  (a) 2E1627, 2E1780, 2E1985, 3E0060, 3E0177,
+               3E0560, 3E0592, 3E0627, 3E0757, 3E0910, 3E1101, 3E1103,
+               3E1206, 3E1603; (b) 2E2018, 2E2053, 3E0227, 3E0588, 3E0858,
+               3E0945.
+                                    -7-MANUFACTURER   BioWhittaker, Inc., Walkersville, Maryland.
+RECALLED BY    Manufacturer, by letter February 4, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       1,228 units of lot 30-334U, and 1,291 units of lot 30-336U
+               were distributed.
+REASON         False positive reactions which may result in non-immune
+               samples being classified incorrectly as immune.
+
+_______________
+PRODUCT        Renasol Acid Concentrate, Catalog #SB-1059, hemodialysis
+               concentrate.  Recall #Z-610-4.
+CODE           All product produced prior to January 15, 1994.
+MANUFACTURER   Renal Systems, Division Minnetech Corporation, Plymouth,
+               Minnesota.
+RECALLED BY    Manufacturer, by letter February 1, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   California, Kentucky, Mississippi, New Jersey, New York,
+               Texas, Wisconsin.
+QUANTITY       2,200 55-gallon drums and 11,364 cases (4 gallons per case)
+               were distributed from November 1990 to January 15, 1994.
+REASON         A higher than expected amount of potassium will be in the
+               concentrate and dialysate.
+
+_______________
+PRODUCT        William Harvey Two-Stage Venous Cannulae, size 36/51F,
+               designed for single tube venous drainage from the right
+               atrium and vena cava during cardiopulmonary bypass surgery. 
+               Recall #Z-613-4.
+CODE           Catalog #TS3651, lot #28FDX601.
+MANUFACTURER   Bard Cardiopulmonary Division, C.R. Bard, Inc., Tweksbury,
+               Massachusetts.
+RECALLED BY    Manufacturer, by letter dated October 20, 1993.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   California, New York, Connecticut, New Jersey, Oregon,
+               Kansas, Alabama, Virginia, Washington, D.C., Minnesota,
+               Japan, Italy, France.
+QUANTITY       193 units were distributed.
+REASON         The distal tip of the cannulae may partially or totally
+               detach and migrate during cardiopulmonary bypass surgery.
+
+_______________
+PRODUCT        Becton Dickinson 3 cc Safety-Lok Syringes, intended for use
+               to administer injections:  
+               (a) Catalog #9606; (b) Catalog #9592; (c) Catalog #9593;
+               (d) Catalog #9594; (e) Catalog #9595; (f) Catalog #9596.
+               Recall #Z-614/619-4.
+CODE           All lot numbers beginning with 2M, 3A, 3B, 3C, and 3D.
+MANUFACTURER   Becton Dickinson Division, Columbus, Nebraska.
+RECALLED BY    Becton Dickinson and Company, Franklin Lakes, New Jersey, by
+               letter April 21, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+
+                                    -8-QUANTITY       4,430,100 units were distributed; firm estimates 48 percent
+               of product remained on market at time of recall initiation.
+REASON         An insufficient weld or a missing component on the locking
+               collar may cause the safety shield to separate from the
+               syringe.
+
+_______________
+PRODUCT        Infant Radiant Warmers, used for resuscitation of premature
+               babies:
+               (a) Borning Stabilet Model #200;
+               (b) Borning Stabilet Model #300;
+               (c) Hill-Rom Stabilet Model #2000/3000;
+               (d) Hill-Rom Stabilet Model #2200/3200;
+               (e) Hill-Rom Stabilet Model #1500;
+               (f) Hill-Rom Stabilet Model #1250.  Recall #Z-677/682-4.
+CODE           All units.
+MANUFACTURER   Med*Ex Diagnostics of Canada, Inc., Coquitlam, British
+               Columbia, Canada.
+RECALLED BY    Hill-Rom Company, Inc., Batesville, Indiana, by letter
+               beginning November 30, 1993 and ending February 28, 1994. 
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide, Canada.
+QUANTITY       3,116 units were distributed.
+REASON         The heater contacts have the potential for arcing due to
+               fretting corrosion that may result in small pieces of molten
+               metal falling on to the bed, and/or patient.
+
+_______________
+PRODUCT        Burdick Defibrillators:  (a) Model DC-170; (b) Model DC-180;
+               (c) Model DC-185; (d) Model DC-190.  Recall #Z-705/708-4.
+CODE           Serial numbers:  Units manufactured after July 24, 1984 and
+               units which had their logic boards replaced between July 24,
+               1994, and November 26, 1991.  Serial numbers:  (a) All
+               units; (b) 18049, 18164, 18172 to 18211; (c) 21007, 21047,
+               21049 to 21051; (d) 10786 to 13632.
+MANUFACTURER   Burdick, Inc., Milton, Wisconsin.
+RECALLED BY    Manufacturer, by letter dated January 17, 1994.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 3,000 units.
+REASON         The resistor in the units can fail resulting in failure of
+               the devices to discharge.
+
+_______________
+UPDATE         Recall #Z-810/813-3, Infant Radiant Warmers, recalled by
+               Hill-Rom Company, Inc., Batesville, Indiana, which appeared
+               in the January 19, 1994 Enforcement Report has been
+               withdrawn.  Hill-Rom initially reported that they planned to
+               recall due to a problem that the supplier could no longer
+               furnish replacement parts for the cross-over valve.  After
+               publication of the recall, the firm contacted FDA and 
+
+                                    -9-               indicated that they never implemented the recall, because
+               they found out that their supplier could continue to supply
+               the cross-over valve.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Bausch & Lomb Medalist Toric Contact Lenses.  
+               Recall #Z-586-4.
+CODE           Carton lot numbers: S0040878, S0040882, 20046171, S0040881,
+               S0045039, S0040882, S0040869, S0040870, S0046575, S0045499,
+               S0040871, S0045498, S0045502, S0044429, S0040868.
+MANUFACTURER   Bausch & Lomb, Inc., Sarasota, Florida.
+RECALLED BY    Bausch & Lomb, Inc., Rochester, New York, by letter February
+               25, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       58 blister packs were distributed.
+REASON         Products are labeled with the wrong sphere and axis
+               parameters.
+
+_______________
+PRODUCT        Thomson/Shelton Instrumentation Company's End Cutter, a
+               manual surgical instrument, approximately 2-1/2' in length,
+               used during spinal procedures to cut implants/plates, wires
+               that remain in the body.  Recall #Z-592-4.
+CODE           Serial #TS24-101-10.
+MANUFACTURER   Semco, Arlington, Texas (contract manufacturer).
+RECALLED BY    Thomsom/Shelton Instrumentation Company, Rockwall, Texas, by
+               telephone on or about December 6, 1991.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Arizona.
+QUANTITY       Firm estimates none remains on the market.
+REASON         The magnaplate finished coating, on the inside of the
+               cutting jaws, was peeling and flaking.
+
+_______________
+PRODUCT        Illumen 8 PTC Guiding Catheter with Flexguard FR Inferior
+               4.0 Curve, femoral guiding catheters designed for use in the
+               cardiovascular system to provide a pathway through which
+               USCI coronary balloon dilatation catheters are introduced. 
+               Recall #Z-643-4.
+CODE           Item #016264, lot #08JC0381.
+MANUFACTURER   USCI Division C.R. Bard, Inc., Billerica, Massachusetts.
+RECALLED BY    Manufacturer, by telephone starting August 6, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       47 units were distributed; firm estimates none remains on
+               the market.
+REASON         The product labeling identifies the product as Illumen 8
+               with Flexguard FR Inferior 4.0 Curve, but the actual product
+               enclosed is an illumen 8 Amplatz Curve.
+
+                                   -10-_______________
+PRODUCT        Silipos Silosheaths, a prosthetic sheath used for leg
+               amputees to help eliminate abrasion on the residual limb:
+               (a) Product #1210 - Short/Regular
+               (b) 1211 - Short/Narrow
+               (c) 1215 - Medium/Regular
+               (d) 1216 - Medium/Narrow
+               (e) 1217 - Medium/Wide
+               (f) 1220 - Long/Regular
+               (g) 1221 - Long/Narrow
+               (h) 1225 - Short/Active
+               (i) 1226 - Short/Narrow Active
+               (j) 1230 - Medium/Regular Active
+               (k) 1231 - Medium/Narrow Active
+               (l) 1232 - Medium/Wide Active
+               (m) 1235 - Long/Regular Active
+               (n) 1236 - Long/Narrow Active.  Recall #Z-658/671-4.
+CODE           Date code 103 or lower.
+MANUFACTURER   Silipos, Inc., Niagara Falls, New York.
+RECALLED BY    Silipos, Inc., New York, New York, by letters in October
+               1993, and by letter dated February 24, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide, Holland, Canada, Switzerland, Israel, Spain,
+               Belgium, Germany, France, Australia.
+QUANTITY       Approximately 1,200 units were distributed with possibly 1%
+               remaining on the market.
+REASON         A packaging problem can result in the gel on one side of the
+               sheath cracking, possibly causing discomfort to the user.
+
+_______________
+PRODUCT        Quickread Analyzer, for in-vitro diagnostic use.  The
+               product is an assay processor when used in conjunction with
+               the Whole Blood Cholesterol Adult and Pediatric invitro kit,
+               the HDL Cholesterol Invitro Kit, and the Triglyceride
+               Invitro kit.  Recall #Z-672-4.
+CODE           Model #K0106.  All serial numbers.
+MANUFACTURER   Medical Technology Corporation, Waldwick, New Jersey (no
+               longer in business).
+RECALLED BY    Orion Diagnostica, Inc., Somerset, New Jersey (responsible),
+               by telephone August 1, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       140 units were distributed.
+REASON         Machines were out of calibration.
+
+_______________
+PRODUCT        Abbott IMx CEA Reagent, an in-vitro diagnostic microparticle
+               enzyme immunoassay (MEIA) for the quantitative determination
+               of carcinoembryonic antigen (CEA) in serum or plasma on the
+               IMx Analyzer.  Recall #Z-673-4.
+CODE           Lot  numbers:  69778M200 EXP 1/8/93, 66078M100 EXP 1/21/93,
+               71178M200 EXP 1/30/93.
+
+                                   -11-MANUFACTURER   Abbott Laboratories, Diagnostics Division, Abbott Park,
+               Illinois.
+RECALLED BY    Manufacturer, by telephone November 19, 1992, and January 4,
+               1993, followed by letter December 31, 1992.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,330 kits were distributed; firm estimates none remains on
+               the market.
+REASON         The device has a potential for increasing rate readings over
+               time which may result in calibration curve failures.
+
+_______________
+PRODUCT        Labeling for "Time Endured Favorites" style Tropic Cal brand
+               men's sunglasses.  Recall #Z-674-4.
+CODE           Catalog with SKU numbers "M 66330346 and M 66330482.
+MANUFACTURER   Outlook Eyeware Company, San Antonio, Texas
+               (relabeler/repacker).
+RECALLED BY    Outlook Eyewear Company, subsidiary of Bausch & Lomb, Inc.,
+               Broomfield, Colorado, by telephone February 9, 1994, and by
+               letter dated March 21, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   California, Texas, Utah.
+QUANTITY       4,902 pairs were distributed between December 21, 1993 and
+               February 8, 1994.
+REASON         The labeled hangtags state that the sunglasses are "FDA
+               Approved".
+
+______________
+PRODUCT        Teflon Coated Movable Core Peripheral Guidewire, diameter -
+               0.035", length - 145 cm, used to negotiate a patient's
+               vascular system in order to facilitate procedures such as
+               balloon angioplasty.  Recall #Z-686-4.
+CODE           Product #TM35145IT7, lot #01-001181.
+MANUFACTURER   Lake Region Medical, Inc., Pittsburgh, Pennsylvania.
+RECALLED BY    Schneider (USA), Inc., Pfizer Hospital Products Group,
+               Minneapolis, Minnesota, by letter February 24, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Delaware, Florida, Minnesota, Nevada, Tennessee, Texas.
+QUANTITY       210 units were distributed.
+REASON         The size of the core handle for an unknown number of the
+               guidewires were incorrect (0.038" instead of 0.035").  This
+               manufacturing miscue can and has resulted in the guidewire
+               getting stuck in the catheter it is placed through.
+
+_______________
+PRODUCT        Abbott TDx/TDXFLx 5-HIAA (Urine) Reagent Kit, an in-vitro
+               test for use in the TDx or TDxFLx System to quantitate 5-
+               HIAA (5-Hydroxy-3-Indole Acetic Acid) in human urine. 
+               Recall #Z-687-4.  
+CODE           List #9837-47.  Master lot #67091SV (Reagent lot #68027SV)
+               EXP 1/93; Master lot #69437M200 (Reagent lot #69436M200) EXP
+               3/93.
+MANUFACTURER   Abbott Laboratories, Diagnostics Division, Abbott Park,
+               Illinois.
+                                   -12-RECALLED BY    Manufacturer, by telephone January 28-29, 1993, and by
+               letters dated February 1993, and March 24, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       643 kits were distributed.
+REASON         There was a potential for under-recovery on urine patient
+               samples, proficiency survey material and non-Abbott controls
+               of up to 80%.
+
+_______________
+PRODUCT        Abbott Estradiol Calibrators, Controls and Reagents:
+               (a) Abbott IMx Estradiol Calibrators; for calibration of the
+               Imx Analyzer when used for the quantitative determination of
+               Estradiol in serum or plasma, list #2215-01; 6 4-ml bottles
+               per box; 
+               (b) Abbott IMx Estradiol Controls; for verification of the
+               calibration of the Imx Analyzer when used for the
+               quantitative determination of Estradiol in serum or plasma;
+               list #2215-10, 3 8-ml bottles per box; 
+               (c) Abbott IMx Estradiol Reagent; an in-vitro diagnostic
+               microparticle enzyme immunoassay (MEIA) for the quantitative
+               determination of Estradiol in serum or plasma on the IMx
+               Analyzer; list #2215-20; 100 test kits.  
+               Recall #Z-697/699-4.
+CODE           (a) Lot #64579M100 EXP 6 DEC 92, 66831M200 EXP 30 JAN 93,
+               68123M100 EXP 17 FEB 93, 70770M300 EXP 3 DEC 92; 
+               (b) Lot #64580M100 EXP 6 DEC 92, 66948M200 EXP 30 DEC 92,
+               67476M300 EXP 17 FEB 93 70773M300 EXP 3 DEC 92;
+               (c) Lot #66960M200 EXP 6 DEC 92, 66961M200 EXP 6 DEC 92,
+               68884M200 EXP 6 JAN 93, 68885M200 EXP 6 JAN 93, 69524M300
+               EXP 17 FEB 93, 69893M100 EXP 26 JAN 93, 69893M101 EXP 26 JAN
+               93, 70779M200 EXP 17 FEB 93.
+MANUFACTURER   Abbott Laboratories, Diagnostics Division, Abbott Park,
+               Illinois.
+RECALLED BY    Manufacturer, by telephone November 20-23, 1992, and by FAX
+               November 10 and 19, 1992, followed by letter November 18,
+               1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       2,498 calibrator packs, 2,622 control packs and 5,010
+               reagent kits were distributed.
+REASON         Products lose potency overtime due to presence of residual
+               charcoal in the human serum matrix.  This may result in
+               controls failing assay specifications.
+
+_______________
+PRODUCT        Abbott Estradiol Calibrator, Control and Reagent Pack:
+               (a) Abbott IMx Estradiol Calibrators; for calibration of the
+               Imx Analyzer when used for the quantitative determination of
+               Estradiol in serum or plasma, list #2215-01, 6 4-ml bottles
+               per box; 
+
+                                   -13-               (b) Abbott IMx Estradiol Controls; for verification of       
+               the calibration of the Imx Analyzer when used for the
+               quantitative determination of Estradiol in serum or plasma
+               list #2215-10, 3  8-ml bottles per box; 
+               (c) Abbott IMx Estradiol Reagent Pack, an in-vitro
+               diagnostic microparticle enzyme immunoassay (MEIA) for the
+               quantitative determination of Estradiol in serum or plasma
+               on the IMx Analyzer, list #2215-20, 100 test kits.  
+               Recall #Z-700/702-4.
+CODE           (a) Lot #71575M200 EXP 20 JUN 93, 72320M200 EXP 04 JUL 93;
+               (b) Lot #71576M200 EXP 21 JUN 93, 72977M200 EXP 21 JUL 93;
+               (c) Lot #74609M300 EXP 20 JUN 93.
+MANUFACTURER   Abbott Laboratories, Diagnostics Division, Abbott Park,
+               Illinois.
+RECALLED BY    Manufacturer, by telephone May 19, 1993, followed by letter
+               May 17, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       1,678 calibrator packs, 1,787 control packs, and 533 reagent
+               kits were distributed.
+REASON         The calibration and control material contained in these
+               devices lose potency overtime due to possible oxidation of
+               the estradiol molecule.  This may result in controls failing
+               assay specification.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS III
+==========
+_______________
+PRODUCT        Master Mix brand Master Sow 15 Plus 835, a non-medicated
+               animal feed packed in 50 pound paper bags.  Recall #V-041-4.
+CODE           835-00-2 manufactured 9/10/93.
+MANUFACTURER   Central Soya Company, Inc., Marion, Ohio.
+RECALLED BY    Manufacturer, by telephone October 8, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY       81 bags were distributed; firm estimates none remains on the
+               market.
+REASON         Feed contaminated with sulfamethazine due to inadequate
+               clean out procedures.
+
+
+MEDICAL DEVICE SAFETY ALERTS: 
+============================================
+_______________
+PRODUCT        Pulse Generators:
+               (a) Medtronic Synergyst Model 7026 Pulse Generator;
+               (b) Medtronic Synergyst II Model 7070 Pulse Generator;
+               (c) CPI Triumph DR Model 1224.  Safety Alert #N-047/049-4.
+CODE           All serial numbers.
+MANUFACTURER   Medtronic, Inc., Minneapolis, Minnesota.
+ALERTED BY     Manufacturer, by letter February 18, 1994.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       25,275 units were distributed.
+REASON         Ventricular output from the pacemakers can be suppressed and
+               lost when atrial lead impedance is low.
+                                   -14-_______________
+UPDATE         Safety Alert #N-036/038-4, DHD Ace Aerosol Cloud Enhancers,
+               manufactured by Diemolding Healthcare Division, Canastota,
+               New York, which appeared in the March 2, 1994 Enforcement
+               Report, is being amended to include the following lot
+               numbers:
+               Reorder #DHD 11-1010, lot numbers:  135480, 135613, 139053,
+               157590,  166294, 172206, 181345, 191269, 197824, 203193,
+               210653.
+               Reorder #DHD 11-1020, lot numbers:  135475, 135476, 135614,
+               137552,  157595, 166301, 177069, 185494, 189434, 189435,
+               196228, 197409, 199319, 205973, 205974, 215401, 221470. 
+
+                                   -15-
+
+END OF ENFORCEMENT REPORT FOR MAY 4, 1994.  BLANK PAGES MAY FOLLOW.
+                                   ####

@@ -1,0 +1,806 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  DEC
+		  Mar
+		
+		
+		
+		  
+		  28
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      27 captures
+	      19 Aug 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DO
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+
+April 15, 1998                                         98-15
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II ===========
+_______________
+PRODUCT        Acidified foods packaged in glass jars under the
+               Goodies Delight label:
+               a) Bread N' Butter Pickles, 8 oz. jar
+               b) Chow Chow, 8 oz. jar
+               c) Candied Cucumber Rings, 8 oz. jar
+               d) Corn Relish, 16 oz. jar
+               e) Golden Glow Pickles, 8 oz. jar
+               f) Hot Pepper Jelly, 16 oz. jar
+               g) Jalapeno Peppers, 32 oz. jar
+               h) Mustard Dill Pickles, 8 oz. jar
+               I) Pickled Okra, 8 oz. jar
+               j) Pickled Watermelon Rinds, 8 oz. jar
+               k) Ripe Tomato Pickles, 32 oz. jar
+               l) Squash Delight, 16 oz. jar
+               m) Sweet Pickles, 32 oz. jar
+               n) Sweet N' Sour Zucchini Pickles, 32 oz. jar
+               o) Zucchini Bread N' Butter Pickles, 16 oz.
+               jar
+               p) Zucchini Relish, 32 oz. jar
+               q) Zucchini Sweet Pickles, 16 oz. jar
+               Recall #F-340/356-8.
+CODE None.
+MANUFACTURER   Goodies Delight, Whitesville, North Carolina.
+RECALLED BY    Manufacturer, by telephone on March 11, 1998. 
+               Ongoing recall resulted from sample analysis and
+               follow-up by the North Carolina Department of
+               Agriculture.
+DISTRIBUTION   South Carolina, North Carolina.
+QUANTITY       20 12-pint jar cases (240 jars) were distributed.
+REASON         The products had been manufactured and processed
+               without the firm keeping mandatory manufacturing
+               records or filing its scheduled process for each
+               product.
+
+_______________
+PRODUCT        Chicken Gravy Mix in 1 oz. Packages and  Country
+               Gravy Mix in 1.25 oz. Packages:
+               a) Chicken Gravy Mix, under the private labels 
+               Sauce Classics, distributed by Han-Dee Pak, Inc.,
+               Cockeysville, Maryland and Hill Country Fare,
+               distributed by H-E-B, San Antonio, Texas
+               b) Country Gravy Mix, under the private labels Our
+               Family, distributed by Nash Finch Company, 
+               Minneapolis, Minnesota and Spartan, distributed by
+               Spartan Stores, Inc., Grand Rapids, Michigan. 
+               Recall #F-443/444-8.
+CODE           Date Code: 2361AH  (Sauce Classics Chicken Gravy
+               only) and 2361BH.
+MANUFACTURER   Ampacco, Inc.,  Hunt Valley, Maryland.
+RECALLED BY    Manufacturer, by letter on March 17, 1998. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       324 cartons (24 packages/carton) of Our Family
+               Country Gravy was produced and distributed;
+               604 cartons of Spartan Country Gravy Mix were
+               produced and distributed; 124 cartons of Hill
+               Country Fare Chicken Gravy Mix were produced and
+               distributed; 600 cartons of Sauce Classics Chicken
+               Gravy Mix were produced and distributed. 
+REASON         The Chicken Gravy Mix contains undeclared    
+               certified colors (FD&C Yellow No. 5 & 6,) and
+               lactose.  The Country Gravy Mix contains
+               undeclared milk.
+_______________
+PRODUCT        Cake Mix - individual units are in boxes labeled
+               as "Duncan Hines White Cake Mix", shipping cartons
+               are labeled as "Duncan Hines Princess White Cake
+               Mix".  Recall #F-445-8.
+CODE 8028E2.
+MANUFACTURER   Procter and Gamble Company, Jackson, Tennessee.
+RECALLED BY    Aurora Foods, Inc., Columbus, Ohio, by press
+               release on March 26, 1998, followed by letter. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Canada.
+QUANTITY       6,909 cases (82,908 total retail packages) were
+               distributed; firm estimated that 4,622 cases
+               (55,464 retail packages) remained on market at
+               time of recall initiation.
+REASON         Product contains undeclared soy protein.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+===========
+_______________
+PRODUCT        Dobutamine in 5% Dextrose Injection, 500 mg (2000
+               mcg/mL), in 250 mL flexible containers with foil
+               overwrap, Rx intravenous solution for inotropic
+               support in the short-term treatment of adults with
+               cardiac decompensation due to depressed
+               contractility resulting either from organic heart
+               disease or from cardiac surgical procedures.
+               NDC #0074-2347-32.  Recall #D-113-8.
+CODE           28-488-DR, 28-490-DR, 28-491-DR, 29-497-DR.
+MANUFACTURER   Abbott Laboratories, North Chicago, Illinois.
+RECALLED BY    Manufacturer, by letter dated March 20, 1998. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and The Netherlands.
+QUANTITY       29,952 units were distributed; firm estimated that
+               3,000 units remained on market at time of recall
+               initiation.
+REASON         Mislabeling -- Some correctly labeled 500 mg units
+               are over wrapped with an incorrect 250 mg foil
+               labeled pouch.
+
+_______________
+PRODUCT        Estraderm (Estradiol Transdermal System), 0.1
+               mg/day, one patch per pouch (8 mg Estradiol USP)
+               with 8 pouches per carton sold in boxes of 6, a
+               patch system therapy for estrogen replacement in
+               post menopausal women.
+               NDC #0083-2320-62.  Recall #D-114-8.
+CODE           Lot #1F210345 EXP 11/98.
+MANUFACTURER   Novartis Pharmaceuticals Corporation (formerly
+               Ciba-Geigy), Suffern, New York.
+RECALLED BY    Manufacturer, by letters by fax on March 19, 1998. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and Puerto Rico.
+QUANTITY       26,012 packers (each packer contain 6 cartons of 8
+               systems/individual units) were distributed.
+REASON         Content uniformity failure - Superpotent.
+
+_______________
+UPDATE         Inwood Laboratories (Inwood, New York),
+               Propranolol HCL, Recall #D-100/103-8, which
+               appeared in the April 1, 1998, Enforcement Report
+               has been extended to include 61 additional lot
+               numbers:
+               *** Additional 23 lots of 60 mg:
+               6K044 (4/98), 6K045 (4/98), 6L001 (4/98), 6L002
+               (4/98),6L003 (4/98), 6L004 (4/98), 6L005 (4/98),
+               6L006 (4/98),  6M033 (4/98), 6M036 (4/98), 6M035
+               (5/98), 6M037 (5/98), 6M038 (5/98), 7A062 (6/98),
+               7A065 (6/98), 7B004 (6/98), 7B005 (6/98), 7B006
+               (6/98), 7B007 (6/98), 7B008 (6/98), 7B022 (8/98),
+               7B025 (7/98) & 7D010 (11/98).
+               *** Additional 12 lots of 80 mg: 
+               6H012 (7/98), 6J098 (8/98), 6J099 (9/98), 6K020
+               (9/98), 6K021 (10/98), 6K022 (11/98), 7A045
+               (12/98), 7A046 (1/99), 7A047 (1/99), 7C023 (2/99),
+               7D013 (3/99) & 7C025 (3/99).
+               *** Additional 11 lots of 120 mg: 
+                6J100 (8/98), 6J101 (9/98), 6K023 (9/98), 6K024   
+               (10/98), 6K025 (10/98), 6K026 (11/98), 7A050
+               (11/98),  7A051 (12/98), 7A052 (11/99), 7A053
+               (1/99) & 7C027 (2/99).
+               *** Additional 15 lots of 160 mg: 
+               6H018 (8/98), 6H028 (8/98), 6J102 (8/98), 6J103
+               (8/98), 6K029 (10/98), 6K031 (10/98), 6K032
+               (10/98), 7A054 (11/98),7A055 (11/98), 7A056
+               (12/98), 7A057 (1/99), 7A058 (1/99), 7C031 (2/99),
+               7C032 (3/99) & 7F059 (5/99).
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III ==========
+_______________
+PRODUCT        Vicodin Tablets (Hydrocodone Bitartrate 5
+               mg/Acetaminophen 500 mg), 25 tablets in individual
+               foil packets (1 per packet), intended for the
+               treatment of moderate to severe pain and was
+               shipped as physician samples.  NDC #0044-0727-91. 
+               Recall #D-112-8.
+CODE           Lot #10760535 EXP 10/98.
+MANUFACTURER   Knoll Pharmaceutical Company, Mount Olive, New
+               Jersey.
+RECALLED BY    Knoll Pharmaceutical Company, Whippany, New Jersey
+               (responsible firm), by letter on December 2, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   New Jersey.
+QUANTITY       54,831 cartons (1,370,775 tablets) were
+               distributed.
+REASON         Dissolution failure -(acetaminophen-21 month
+               stability).
+
+_______________
+PRODUCT        Oxygen USP Compressed, in high pressure "E"
+               cylinders.  Recall #D-115-8.
+CODE           Lot numbers:  A03H350A, A03H350B, A03H350C
+               A03H350D, A03H350E, A04H352A, A04H352B
+               A04H352C, A04H352D, A04H352E, A04H352F
+               And other lots of unknown coding.  
+MANUFACTURER   G.S. Parsons, doing business as Parsons Airgas,
+               San Diego, California.
+RECALLED BY    Manufacturer, by letter dated March 24, 1998. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   California.
+QUANTITY       80 cylinders were distributed.
+REASON         Misbranding - Some empty cylinders were 
+               re-distributed.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II =======
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-283-8.
+CODE           40GN69533.
+MANUFACTURER   American Red Cross Blood Services, Peoria,
+               Illinois.
+RECALLED BY    Manufacturer, by telephone on August 21, 1997, and
+               by letter dated September 15, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       1 unit was distributed.
+REASON         Blood products were collected from a donor whose
+               suitability was not adequately determined.
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-513-8.
+CODE           0392610, 0392619, 0393187, 5237334, 5212148,
+               5227359, 0392399, 0392423, 0392424, 5215759,
+               5227768, 5237362.
+MANUFACTURER   Blood Systems Laboratories, Tempe, Arizona
+               (testing facility).
+RECALLED BY    New York Blood Center, Inc., New York, New York,
+               by letter dated December 31, 1997.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   New York and New Jersey.
+QUANTITY       12 units were distributed.
+REASON         Blood products were mislabeled for the Rh(D)
+               antigen because of failure to follow accepted
+               testing standards for the determination of the
+               Rh(D) type.
+
+_______________
+PRODUCT        Baxter Fenwal Plasmacell-C Disposable Sets,
+               consisting of the separation device, a reservoir
+               and a tubing set which provides transport for the
+               blood and solutions within a closed blood pathway
+               when used with the Fenwal Autopheresis-C
+               Plasmapheresis System:
+               a) 4R2252, Plasmacell-C Separation Disposable Set,
+               60 units per case
+               b) 4R2256, Plasmacell-C Separation Disposable Set,
+               for use with SpikeSmart System, 60 units per case
+               European distribution:
+               c) 4R2250, Plasmacell-C Separation Disposable Set
+               with In-line Anticoagulant Drip Chamber, 60 units
+               per case
+               d) D4R2251, Plasmacell-C Separation Disposable Set
+               with Attached 1000 mL Plasma Collection Bag-French
+               label
+               e) R4R2252, Plasmacell-C Disposable Set - multiple
+               language label
+               f) 4R2262, Plateletcell Disposable Set with
+               Preattached Filter and D4R2262 - French label 
+               h) E4R2266, Plasmacell-C TPS Disposable Set for
+               Therapeutic Plasmapheresis
+               I) D4R2278, Plasmacell-C Separation Disposable Set
+               with Pre-Connected Filters (0.22 microns), Needle
+               and Collection Bags - French label and R4R2278 -
+               multiple language label Japanese distribution:
+               j) J4R2252 and J4R2253, Plasmacell-C Separation
+               Disposable Sets - Japanese label
+               k) J4R2283 and J4R2284 - Plasmacell-C Disposable
+               Sets used with the Mini Autopheresis-C with
+               different membranes - Japanese label.   Recall
+#B-738-8.
+CODE           a) 4R2252, lots A97L22103, A97L30114, A98A08053,
+               A98A08061, A98A09044, A98A09069, A98A14093,
+               A98A14101, A98A14119, A98A15074, A98A15108,
+               A98A16098, A98A16106A, A98A21080, A98A23078,
+               A98A23094, A98A26089, A98A28093, A98B02070,
+               A98B02096, A98B04100, A98B04118, A98B06055,
+               A98B10099, A98B10115, A98B12095
+               b) 4R2256, lots A97L26070, A97L27086, A97L29082,
+               A97L29108, A97L30098, A98A12089, A98A12105,
+               A98A12170, A98A13046, A98A13095, A98A19084,
+               A98A19092, A98A20082, A98A20090, A98A22062,
+               A98A22138, A98A24068, A98A27079, A98A27103,
+               A98A29109, A98A30065, A98A30073, A98A31071,
+               A98B03078
+               c) 4R2250, lots A98A23060, A98A28069, A98B02054
+               d) D4R2251, lot A97L29041
+               e) R4R2252, lots A97L26088, A98A28119, A98A28127,
+               A98A29083
+               f) 4R2262, lots A98A22120, A98A26071, A98A28077,
+               A98A29067; D4R2262, lots A98A29059, A98B06071 
+               g) 4R2264, lot A98B04068
+               h) E4R2266, lot A98A08079, A98A09077, A98A12071,
+               A98A12097, A98A13111, A98A14085, A98A15090,
+               A98B09083
+               I) D4R2278, lot A97L27045; R4R2278, lots
+               A97L22046, A97L26054, A98A22047, A98A29075,
+               A98A31048
+               j) J4R2252, lots A98A14069, A98A16031, A98A19076,
+               A98A21098, A98A22088, A98A23086, A98A24076,
+               A98B03086, A98B04084; J4R2253, lots A98A27061,
+               A98B02062
+               k) J4R2283, lot A97L29090; J4R2284, lot A97L30080.
+MANUFACTURER   Baxter S.A. Fenwal Division, Parque Industrial
+               Itabo, Zona Franca Industrial de Haina, San
+               Cristobal, Republica Dominicana
+RECALLED BY    Baxter Healthcare Corporation, Biotech
+               Group/Fenwal Division, Deerfield, Illinois, by
+               letter dated March 3, 1998.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       913,269 sets were distributed in the U.S., 75,382
+               sets were distributed in Europe, and 11,184 sets
+               were distributed in Japan, with the firm
+               estimating that 1,000,000 sets remain on the
+               market.
+REASON         Manufacturing deviations in the diameter of the
+               anticoagulant line tubing of the Plasmacell-C
+               Disposable sets which cause an increase in
+               anticoagulant flow rate may result in the
+               potential for donor air embolus.
+
+_______________
+PRODUCT        Source Plasma.  Recall #B-782-8.
+CODE Unit numbers:  1551AX and 1725AX.
+MANUFACTURER   Bloomington Plasma, Inc., Bloomington, Illinois.
+RECALLED BY    Manufacturer, by fax on February 9, 1998. 
+Firm-initiated recall complete.
+DISTRIBUTION   North Carolina.
+QUANTITY       2 units were distributed.
+REASON         Blood product was collected from an unsuitable
+               donor.
+
+_______________
+PRODUCT        Platelets, Pheresis.  Recall #B-783-8.
+CODE           Unit #C99066.
+MANUFACTURER   Regional Health Resources Center, Community Blood
+               Services of Illinois, Urbana, Illinois.
+RECALLED BY    Manufacturer, by telephone on January 5, 1997, and
+               by letter dated January 19, 1998.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was labeled with an extended
+               expiration date.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-784-8.
+CODE           Unit numbers:  40FG12263, 40FG14323, 40FG13784.
+MANUFACTURER   American Red Cross Blood Services, Peoria,
+               Illinois.
+RECALLED BY    Manufacturer, on October 24, 1997.  Firm-initiated
+               recall complete.
+DISTRIBUTION   California.
+QUANTITY       3 units were distributed.
+REASON         Blood products tested negative for the antibody to
+               the human immunodeficiency virus type 1 (HIV-1),
+               but were collected from a donor who previously
+               tested repeatedly reactive for the antibody, and
+               was subjected to additional retesting.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-785-8.
+CODE           Unit #38FC30422.
+MANUFACTURER   American Red Cross Great Lakes Region, Fort Wayne,
+               Indiana.
+RECALLED BY    Manufacturer, by telephone on January 12, 1998. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Indiana.
+QUANTITY       1 unit was distributed.
+REASON         Blood product tested negative for CMV but was
+               collected from a donor who previously tested CMV
+               positive.
+
+_______________
+PRODUCT        a) Red Blood Cells; b) Platelets; c) Fresh Frozen
+               Plasma.  Recall #B-819/821-8.
+CODE           Unit numbers:  a) KG24037, KN46753
+               b) KG24037, KN46753; c) KN46753.
+MANUFACTURER   Virginia Blood Services, Richmond, Virginia.
+RECALLED BY    Manufacturer, by letter dated March 9, 1998. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Louisiana and Virginia.
+QUANTITY       a) 2 units; b) 2 units; c) 1 unit was distributed.
+REASON         Blood products tested non-reactive for the
+               antibody to the Hepatitis B core antigen
+               (anti-HBc), but were collected from a donor who
+               was previously repeatedly reactive for anti-HBc on
+               two separate donations.
+
+_______________
+PRODUCT        Source Leukocytes for Further Manufacture.
+               Recall #B-822-8.
+CODE           Unit #3226920.
+MANUFACTURER   Gulf Coast Regional Blood Center, Houston, Texas.
+RECALLED BY    Manufacturer, by telephone and fax on September
+               30, 1997.  Firm-initiated recall complete.
+DISTRIBUTION   New Jersey.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was collected from a donor who
+               previously tested PKTP repeat reactive and MHA-TP
+               positive, RPR nonreactive for syphilis.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-823-8.
+CODE           Unit #40GN68651.
+MANUFACTURER   American Red Cross, Heart of America Region,
+               Peoria, Illinois.
+RECALLED BY    Manufacturer, by letter dated February 19, 1998. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Kentucky.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was collected from a donor who lived
+               in a malarial endemic area.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-824-8.
+CODE           Unit #40LH13022.
+MANUFACTURER   American Red Cross, Heart of America Region,
+               Peoria, Illinois.
+RECALLED BY    Manufacturer, by letter dated March 5, 1998. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was collected from a donor who lived
+               in a malarial endemic area.
+
+_______________
+PRODUCT        Platelets.  Recall #B-841-8.
+CODE           Unit #18E96029.
+MANUFACTURER   American Red Cross, Great Lakes Region, Lansing,
+               Michigan.
+RECALLED BY    Manufacturer, by letter on May 6, 1997. 
+Firm-initiated recall complete.
+DISTRIBUTION   Michigan.
+QUANTITY       1 unit was distributed.
+REASON         Blood product corresponded to a unit of clotted
+               Red Blood Cells.
+
+_______________
+PRODUCT        Platelets.  Recall #B-842-8.
+CODE           Unit #L69635.
+MANUFACTURER   South Bend Medical Foundation, South Bend,
+               Indiana.
+RECALLED BY    Manufacturer, by telephone on November 17, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Indiana.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was collected from a donor with a
+               history of cancer.
+
+
+_______________
+PRODUCT        a) Red Blood Cells; b) Platelets.
+               Recall #B-858/859-8.
+CODE           Unit numbers:  a) 38FC27919; b) 38P47427,
+               38P47503.
+MANUFACTURER   American Red Cross Great Lakes Regional, Fort
+               Wayne, Indiana.
+RECALLED BY    Manufacturer, by letter dated September 24, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Alabama, Indiana, Ohio.
+QUANTITY       a) 1 unit; b) 2 units were distributed.
+REASON         Blood products tested negative for CMV, but were
+               collected from a donor who previously tested CMV
+               positive.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-866-8.
+CODE           Unit #29FL48234.
+MANUFACTURER   The American Red Cross, Mid-Atlantic Region,
+               Norfolk, Virginia.
+RECALLED BY    Manufacturer, by letter dated January 12, 1998. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Virginia and Massachusetts.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was collected from a donor with a
+               history of cancer.
+
+_______________
+PRODUCT        a) Red Blood Cells; b) Cryoprecipitate AHF;
+               c) Plasma, Cryoreduced; d) Recovered Plasma,
+               Frozen.  Recall #B-872/875-8.
+CODE           Unit numbers:  a) 29GT81176, 29GT65483, 29GT59170;
+               b) 29GT59170; c) 29GT59170
+               d) 29GT81176,  29GT65483.
+MANUFACTURER   The American Red Cross, Norfolk, Virginia.
+RECALLED BY    Manufacturer, by letter dated February 24, 1998. 
+               Firm-initiated recall complete.
+DISTRIBUTION   California, North Carolina, Virginia.
+QUANTITY       a) 3 units; b) 1 unit; c) 1 unit; d) 2 units were
+               distributed.
+REASON         Blood products were collected from a donor with a
+               history of cancer.
+
+_______________
+UPDATE         Recovered Plasma, Unit #13FJ26037, should have
+               been listed in the April 8, 1998, Enforcement
+               Report as Recall #B-853-8.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III ======
+_______________
+PRODUCT        Whole Blood for Reagent Use.  Recall #B-710-8.
+CODE           Unit #3044.
+MANUFACTURER   Blood and Plasma Research, Inc., Beaumont, Texas.
+RECALLED BY    Manufacturer, by telephone and by letter dated
+               December 11, 1997. Firm-initiated recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was tested for the HIV-1 p24 antigen
+               using a sample that remained at an unmonitored
+               temperature for an unknown period of time during
+               shipment.
+
+_______________
+PRODUCT        Cryoprecipitated AHF.  Recall #B-765-8.
+CODE           Unit #40FL17972.
+MANUFACTURER   American Red Cross Blood Services, Peoria,
+               Illinois.
+RECALLED BY    Manufacturer, by telephone on November 10, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was prepared from a unit of Whole
+               Blood with an extended collection time.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-817-8.
+CODE           Unit numbers:  39Z20468, 39E26713, 39F63596,
+               39E26727.
+MANUFACTURER   American Red Cross Blood Services, Huntington,
+               West Virginia.
+RECALLED BY    Manufacturer, by telephone on January 23, 1998. 
+               Firm-initiated recall complete.
+DISTRIBUTION   West Virginia.
+QUANTITY       4 units were distributed.
+REASON         Blood products, for which the temperature at the
+               time of receipt was not documented
+
+_______________
+PRODUCT        Recovered Plasma, for Manufacture of 
+               Non-Injectables. Recall #B-867-8.
+CODE           Unit #29FL48234.
+MANUFACTURER   The American Red Cross, Norfolk, Virginia.
+RECALLED BY    Manufacturer, by letters dated January 12, 1998,
+               and February 11, 1998.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Virginia and Massachusetts.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was collected from a donor with a
+               history of cancer.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS
+II =========
+_______________
+PRODUCT        HPC-93 Collimator component of the Head of a Gamma
+               Camera. The collimator itself is a heavy metal
+               barrier with fixed holes.  It is designed to allow
+               only the gamma radiation from the part of the body
+               being examined to reach the gamma camera and acts
+               as a nuclear lenses.  The collimators also provide
+               thermal and physical protection for the
+               scintillation crystals of the gamma camera.
+               Recall #Z-486-8.
+CODE           Various non-sequential serial numbers and tag
+               I.D.'s.
+MANUFACTURER   Elscint, Ltd., Advanced Technology Center, Haifa,
+               Israel.
+RECALLED BY    Elscint, Inc., Hackensack, New Jersey, by
+               telephone on October 21, 1996, followed by letter
+               on October 29, 1996.  Firm-initiated field
+               correction complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       54 units were distributed.
+REASON         The collimator fell off the head of a gamma camera
+               onto the floor, possibly due to improper
+               installation or design flaw.
+
+_______________
+PRODUCT        Series II Tibial Bearing Insert 15 mm Thickness,
+               Size 5, implantable plastic accessory to a knee
+               system.
+               Recall #Z-487-8.
+CODE           Catalog #3052-0515, Lot #17586801.
+MANUFACTURER   Osteonics Corporation, Allendale, New Jersey.
+RECALLED BY    Manufacturer, by telephone on February 14, 1997,
+               followed by letter on February 25, 1997.  
+               Firm-initiated recall complete.
+DISTRIBUTION   Minnesota, Iowa, Florida, Massachusetts, Japan.
+QUANTITY       8 units were distributed.
+REASON         The product was designed to be 15mm in thickness,
+               however, it was incorrectly finished with a 12mm
+               thickness and then labeled as 15mm.  The results
+               of this manufacturing error is a dislocation of
+               the tibial insert with the potential for 
+               restriction in flexing motion of the knee.
+
+_______________
+PRODUCT        Acclaim Infusion Pump, used to deliver parenteral
+               infusion including whole blood, red blood cell
+               components and enteral fluids using a wide variety
+               of standard administration sets and fluid
+               containers..  Recall #Z-498-8.
+CODE           List No. 12032-04, all serial numbers.
+MANUFACTURER   Abbott Laboratories, Critical Care Products, 
+               Morgan Hill, California.
+RECALLED BY    Manufacturer, by letter dated March 30, 1998. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Alabama, California, Florida, Maine, Mississippi,
+               New Hampshire, North Carolina, Oklahoma, Rhode
+               Island.
+QUANTITY       2,343 units were distributed.
+REASON         Incorrect tubing setups which could lead to
+               underinfusions.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III ========
+_______________
+PRODUCT        Trypic Soy Agar Media Plates, recommended for use
+               in qualitative procedures for the isolation and
+               cultivation of a wide variety of organisms. 
+               Recall #Z-488-8.
+CODE           Product #01-924, Lot 5550 EXP 11/13/96.
+MANUFACTURER   Remel Limited Partnership, Lenexa, Kansas.
+RECALLED BY    Manufacturer, by telephone on or about October 4,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Iowa and Colorado.
+QUANTITY       800 units were distributed.
+REASON         The device does not support the growth of
+               challenge organisms.
+
+_______________
+PRODUCT        N/F System (42P tube, GNF tube, Uni-N/F-Tek
+               plate), a Nonfermenter System intended for the
+               simple and rapid presumptive identification of the
+               most frequently encountered clinical isolates of
+               gram-negative aerobic bacteria which do not belong
+               to the family Enterobacteriaceae (ie, the "other
+               gram-negatives.").  Recall #Z-492-8.
+CODE           Product No. 73-10055, Lot No. 5513.
+MANUFACTURER   Remel Limited Partnership, Lenexa, Kansas.
+RECALLED BY    Manufacturer, by telephone on November 22, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Washington State, New Jersey, New York,
+               California, Louisiana.
+QUANTITY       17 boxes 920 units per box) were distributed.
+REASON         The correct color could not be obtained for a
+               positive reaction.
+
+_______________
+PRODUCT        Vogel-Johnson Agar, a plated medium recommended
+               for use in qualitative procedures for the early
+               detection of coagulase-positive and 
+               mannitol-fermenting strains of Staphylococcus
+               aureus from contaminated foods and clinical
+               specimens.  Recall #Z-493-8.
+CODE           Product #01-970, Lot #5571 EXP 05/19/97, Segment
+               #4.
+MANUFACTURER   Remel Limited Partnership, Lenexa, Kansas.
+RECALLED BY    Manufacturer, by telephone on March 17, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   New York.
+QUANTITY       90 units were distributed.
+REASON         The media did not support growth and this lot did
+               not meet its release criteria.
+
+_______________
+PRODUCT        Roche Online Amphetamine Kits, an in-vitro
+               diagnostic test for the qualitative and 
+               semi-quantitative detection of amphetamine and
+               methamphetamine and their metabolites in human
+               urine:  a) Order #43430; b) Order #43564.  Recall
+               #Z-494/495-8.
+CODE           Lot numbers:  a) 30247 EXP 12/97 and 24017 EXP
+               12/97; b) 56467 EXP 12/97 and 46017 EXP 12/97.
+MANUFACTURER   Roche diagnostic Systems, Belleville, New Jersey.
+RECALLED BY    Roche Diagnostic Systems, Somerville, New Jersey
+               (responsible firm), by letter on July 10, 1997,
+               followed by telephone.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       a) 1,097 kits of lot 30247 and 303 kits of lot
+               24017; b) 643 kits of lot 56467 and 54 kits of lot
+               46017 were distributed.  Firm estimates none
+               remains on the market.
+REASON         The reagents did not meet performance criteria
+               throughout their assigned expiration date.
+
+_______________
+PRODUCT        Roche Creatinine Reagent, in-vitro diagnostic
+               reagent system intended for use in the
+               quantitative determination of creatinine serum,
+               plasma and urine.  Recall #Z-496-8.
+CODE Order No. 47003, Lot No. 00356 EXP 9/10/98.
+MANUFACTURER   Roche Diagnostic Systems, Belleville, New Jersey.
+RECALLED BY    Roche Diagnostic Systems, Somerville, New Jersey,
+               by letter on May 13, 1997.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       1,733 kits were distributed; firm estimates none
+               remains on the market.
+REASON         The device has shown reduced reagent stability.
+
+
+END OF ENFORCEMENT REPORT FOR APRIL 15, 1998.  BLANK PAGS MAY
+FOLLOW.
+
+
+
+
+  
+ End of Enforcement Report for

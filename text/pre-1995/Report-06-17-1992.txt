@@ -1,0 +1,844 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      33 captures
+	      25 Feb 1997 - 18 Jan 2017
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+06/17/1992
+
+RECALLS AND FIELD CORRECTIONS: June 17, 1992
+
+                                 DRUGS -- CLASS II
+                                                                 92-25
+              
+PRODUCT        Clindamycin Phosphate Injection, USP, 150 mg/ml, equivalent to   
+               150 mg Clindamycin, in 2 ml, 4 ml, and 6 ml single dose vials,   
+               a Rx IM or IV injectable antibiotic.  Recall #D-378-2.
+CODE           Lot numbers:  911009, 911029, 911006, 911032, all of which have  
+               EXP 4/93.
+MANUFACTURER   Smith & Nephew SoloPak, Elk Grove Village, Illinois.
+RECALLED BY    Manufacturer, by letter May 29, 1992.  Firm-initiated recall     
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       97,575 vials were distributed; firm estimates 30 percent         
+               remains on the market.
+REASON         Potency of product not assured through expiration date.
+
+              
+PRODUCT        Cephradine Capsules, USP, 250 mg and 500 mg, prompt release      
+               capsules, packed 24 and 100 capsules/bottle as well as 100       
+               capsules/blister, a Rx semisynthetic cephalosporin antibiotic,   
+               oral dosage form, in capsules containing 250 mg or 500 mg        
+               cephradine.  The products were packaged and distributed by
+               Biocraft Laboratories, Inc., under the following labels, sizes,  
+               and strengths: 
+               250 mg, 100's:     500 mg, 100's:      250 mg, 24's:
+               Biocraft          Biocraft           Biocraft
+
+                                      -1-
+               Qualitest         UDL Lab            Schein
+               Rugby             Warner-Chilcott    
+               Geneva            Drug Guild         500 mg, 24's:
+               H.L. Moore        Qualitest          Biocraft
+               United Research   Major              Schein
+               Best Generic      Bioline            Geneva
+               Bioline           H.L. Moore         Goldline
+               Goldline          Goldline
+               Warner-Chilcott   Rugby
+               Schein            Geneva
+                                 Harber.  Recall #D-381/382-2.
+CODE           Lot number    Potency    Package Sizes            EXP dates
+               51129         500 mg    24's, 100's, Blister Packs  3/1/93
+               51152         250 mg    24's, 100's                 3/1/93
+               51189         500 mg    100's                       4/1/93
+               51190         500 mg    100's                       4/1/93
+               51210         500 mg    100's                       5/1/93
+               51212         250 mg    100's                       5/1/93
+               51213         250 mg    24's, 100's                 5/1/93
+               51223         250 mg    100's                       5/1/93
+               51224         500 mg    24's, 100's                 3/1/93
+MANUFACTURER   Biocraft Laboratories, Inc., Fairfield, New Jersey.
+RECALLED BY    Manufacturer, by telephone February 24-28, 1992, followed by     
+               letter March 11, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 10,220,360 tablets were distributed; firm          
+               estimates 15 percent remains on the market.
+REASON         Potency not assured through expiration date.
+
+              
+PRODUCT        Proloid (Thyroglobulin Tablets, USP), a Rx preparation used as   
+               a replacement or supplemental therapy in patients with           
+               hypothyroidism:  0.5 grain (32 mg) 100's; 1.0 grain (65 mg)      
+               100's/1000's; 1.5 grain (100 mg) 100's; 2.0 grain (130 mg)       
+               100's; 3.0 grain (200 mg) 100's.  Recall #D-383/387-2.
+CODE           All lots.
+MANUFACTURER   Parke-Davis Division of Warner-Lambert Company, Vega Baja,       
+               Puerto Rico.
+RECALLED BY    Parke-Davis Division of Warner-Lambert Company, Morris Plains,   
+               New Jersey, by letter December 27, 1991.  Firm-initiated recall  
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       2,363,249 bottles were distributed; firm estimated that 6,000    
+               bottles remained on the market as of January 1992.
+REASON         Potency not assured through expiration date.
+
+              
+PRODUCT        Various Rx injectable drug products:
+               (a) M.V.C. 9+4 (Pediatric) Multivitamin Concentrate for
+               Infusion, a Rx sterile, lyophilized product for reconstitution   
+               and dilution, in 10 ml amber single dose vials, 25 vials per     
+               case; (b&c;) Nalbuphine Hydrochloride Injection; a Rx sterile 
+
+                                      -2-
+               analgesic for IM, IV and SC use for the relief of moderate to    
+               severe pain, 10 mg/ml, in 1 ml single dose vials, 10 vials per   
+               tray; 10 ml multiple dose vials; 20 mg/ml, in 1 ml single dose   
+               vials, 10 vials per tray, 10 ml multiple dose vials;
+               (d) Haloperidol Injection, USP, 5 mg/ml, an Rx sterile           
+               psychopharmacologic agent for intramuscular use, in 1 ml vials,  
+               and in 10 ml multiple dose vials;
+               (e&f;) Ritodrine Hydrochloride Injection, USP, a Rx sterile       
+               smooth muscle relaxant:  10 mg/ml, in 5 ml vials, 10 vials per   
+               tray; 15 mg/ml, in 10 ml vials, 10 vials per tray;
+               (g) Zinc Sulfate Injection, USP, 1 mg/ml; a Rx trace element     
+               additive, 10 ml, a single dose vial, and in 30 ml multiple dose  
+               vials.  Recall #D-389/395-2.
+CODE           All lots within expiration date.
+MANUFACTURER   Lyphomed, Division of Fujisawa USA, Inc., Melrose Park,          
+               Illinois. 
+RECALLED BY    Manufacturer, by letter June 1, 1992..  Firm-initiated recall    
+               ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       (a) 300,500 vials were distributed; firm estimates none remains  
+               on the market; (b&c;) 366,649 vials were distributed, with the    
+               firm estimating that 91,000 vials remain on the market; (d)      
+               262,181 vials were distributed, with the firm estimating that    
+               122,000 vials remain on the market; (e&f;) 34,840 vials were      
+               distributed, with the firm estimating that 13,000 vials remain   
+               on the market; (g) 190,150 vials were distributed, with the firm
+               estimating that 40,000 vials remain on the market.
+REASON         Lack of assurance of bioequivalence and ANDA discrepancies.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- Class III
+              
+PRODUCT        Liquipharm Senna-Relief Syrup, in 2 fluid ounce brown glass      
+               bottles, an OTC combination liquid cathartic.  Recall #D-379-2.
+CODE           OC2 EXP 3/92, OL2 EXP 10/92.
+MANUFACTURER   Liquidpharm Inc., Los Angeles, California.
+RECALLED BY    Manufacturer, by undated letter February 28, 1992.               
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Arizona, California, Colorado, Illinois, Kentucky, Wyoming,      
+               Puerto Rico, Belgium.
+QUANTITY       350 bottles were distributed.
+REASON         Label lacks alcohol content statement.
+
+              
+PRODUCT        Dipyridamole Tablets, USP, 50 mg, in 1000 tablet bottles, a Rx   
+               vasodilator.  Recall #D-380-2.
+CODE           Lot #1002033 EXP 12/92.
+MANUFACTURER   Sidmak Laboratories, Inc., East Hanover, New Jersey.
+RECALLED BY    Manufacturer, by letter mailed March 12, 1992.  Firm-initiated   
+               recall ongoing.
+DISTRIBUTION   Nationwide, Puerto Rico.
+
+                                      -3-
+QUANTITY       1,879 1,000-bottles were distributed; firm estimates little, if  
+               any product remains on the market.
+REASON         Product does not meet dissolution specifications.
+
+              
+PRODUCT        Nylidrin Tablets, USP, 6 mg, in 100 and 1000 tablet bottles, a   
+               Rx vasodilator, under the following labels:  Zenith, Goldline,   
+               Major, Bioline, H.L. Moore.  Recall #D-388-2.
+CODE           Lot #2348-070 EXP 6/92.
+MANUFACTURER   Zenith Laboratories, Inc., Northvale, New Jersey.
+RECALLED BY    Manufacturer, by letter mailed November 8, 1991.                 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Arizona, California, Florida, Kentucky, Illinois, Michigan,      
+               Louisiana, Pennsylvania, Ohio, Tennessee, New York, South        
+               Carolina, Massachusetts, Connecticut, Puerto Rico.
+QUANTITY       950,000 tablets were distributed.
+REASON         Potency not assured through expiration date.
+
+              
+UPDATE         Americaine Hemorrhoidal Ointment (benzocaine 20%) in 1/4 ounce   
+               (physician's smaple), in ounce and 1-1/3 ounce tubes, Recall     
+               #D-356-2 which appeared in the June 10, 1992 Enforcement Report  
+               includes only material distributed on or after August 1, 1991.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+              
+PRODUCT        Platelets, Pheresis (Washed).  Recall #B-298-2.
+CODE           Unit #17GS48287.
+MANUFACTURER   American Red Cross Blood Services, St. Paul, Minnesota.
+RECALLED BY    Manufacturer, by telephone February 25, 1992, followed by        
+               letter February 28, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Minnesota.
+QUANTITY       1 unit.
+REASON         Blood product, labeled with the incorrect expiration date and    
+               time, was distributed.
+
+              
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Cryoprecipitated AHF;    
+               (d) Fresh Frozen Plasma; (e) Recovered Plasma.
+               Recall #B-299/303-2.
+CODE           Unit numbers:  (a) 16G32767, 16G80833, 16H10862, 16H20665,       
+               16H45448, 16J25233, 16J29029, 16K66473;
+               (b) 16G80883, 16H45448, 16J25233, 16K66473;
+               (c) 16J29029; (d) 16H45448;
+               (e) 16G32767, 16G80833, 16H10862, 16H20665, 16J25233, 16J29029,  
+               16K66473.
+MANUFACTURER   American Red Cross Blood Services, Columbus, Ohio.
+RECALLED BY    Manufacturer, by letters of September 5, 1991 and November 13,   
+               1991.  Firm-initiated recall complete.
+DISTRIBUTION   Ohio, New York, California, North Carolina, Michigan.
+
+                                      -4-
+QUANTITY       (a) 8 units; (b) 4 units; (c) 1 unit; (d) 1 unit; (e) 7 units.
+REASON         Blood products, which tested negative for hepatitis B surface    
+               antigen (HBsAg), but were collected from a donor who previously  
+               tested repeatedly reactive for HBsAg, were distributed.
+
+              
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma.  Recall #B-305/306-2.
+CODE           Unit #39G69808.
+MANUFACTURER   American Red Cross Blood Services, Huntington, West Virginia.
+RECALLED BY    Manufacturer, by letter August 14, 1991.  Firm-initiated recall  
+               ongoing.
+DISTRIBUTION   West Virginia.
+QUANTITY       1 unit of each component.
+REASON         Blood Products, which tested negative for the antibody to the    
+               human immunodeficiency virus type 1 (anti-HIV-1), but were       
+               collected from a donor who previously tested anti-HIV-1          
+               repeatedly reactive, were distributed.
+
+              
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Platelets, Pheresis;     
+               (d) Recovered Plasma.  Recall #B-307/310-2.
+CODE           Unit numbers:  (a) 8253328, 8278438, 8290279; (b) 8253328;
+               (c) 7008599; (d) 8253328, 8278438, 8290279.
+MANUFACTURER   Southwest Florida Blood Bank, Tampa, Florida.
+RECALLED BY    Manufacturer, by letter January 2, 1992.  Firm-initiated recall  
+               ongoing.
+DISTRIBUTION   Florida, Texas, Pennsylvania, New Jersey.
+QUANTITY       (a) 3 units; (b) 1 unit; (c) 1 unit; (d) 3 units.
+REASON         Blood products, which tested negative for the antibody to human  
+               immunodeficiency virus type 1 (anti-HIV-1), but were collected   
+               from donors who previously tested repeatedly reactive for        
+               anti-HIV-1, were distributed.
+
+              
+PRODUCT        Recombigen HIV-1 EIA Test Kit.  Recall #B-311-2.
+CODE           Lot #A6856 EXP 1/93.
+MANUFACTURER   Cambridge Biotech Corporation, Worcester, Massachusetts.
+RECALLED BY    Manufacturer, by letter December 27, 1991.  Firm-initiated       
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       121 kits.
+REASON         Antibody to human immunodeficiency virus type 1 (anti-HIV-1)     
+               test kits, exhibiting decreased sensitivity during the dating    
+               period, were distributed.
+
+              
+PRODUCT        Red Blood Cells.  Recall #B-312-2.
+CODE           Unit #7241784.
+MANUFACTURER   Department of the Air Force, USAF Medical Center Scott (MAC),    
+               Scott Air Force Base, Illinois.
+RECALLED BY    Manufacturer, by letter April 10, 1991.  Firm-initiated recall   
+               complete.
+
+                                      -5-
+DISTRIBUTION   Missouri.
+QUANTITY       1 unit.
+REASON         Blood product which tested repeatedly reactive for hepatitis B   
+               surface antigen (HBsAg), was distributed.
+
+              
+PRODUCT        Source Plasma.  Recall #B-313-2.
+CODE           Unit numbers:  250997, 251101, 251114, 251129, 251136, 251139,   
+               251146, 251154, 251160, 251176, 251179, 251180, 251212, 251219,  
+               251235, 251239, 251243, 251246, 251253, 251261, 251262, 251276,  
+               251292, 251293, 251295, 251300, 251307, 251309, 251319, 251320,  
+               251334, 251336, 251339, 251352, 251358, 251372, 251386, 251395,  
+               251401, 251411, 251416, 251418, 251451, 251461, 251475, 251477,  
+               251480, 251489, 251490, 251512, 251528, 251603, 251604, 251615,  
+               251620, 251624, 251625, 251626, 251633, 251634, 251635, 251636,  
+               251643, 251650, 251651, 251655, 251668, 251669, 251671, 251674,  
+               395309, 395678, 396027, 396033, 396111, 396261, 396537, 396848,  
+               535175, 536175, 536321, 536707, 537372, 537408, 670692, 842058,  
+               842261, 842263, 842387, 842604, 842685, 842708.
+MANUFACTURER   Plasma Services of San Antonio, San Antonio, Texas (testing      
+               facility/responsible firm).
+RECALLED BY    Plasma Services, Scottsdale, Arizona, by letters on October 11,  
+               17, and 30, 1991.  Firm-initiated recall ongoing.
+DISTRIBUTION   North Carolina, Michigan, Florida, Germany.
+QUANTITY       91 units.
+REASON         Blood product incorrectly tested for the antibody to human       
+               immunodeficiency virus type 1 (anti-HIV-1), was distributed.
+
+              
+PRODUCT        Recovered Plasma.  Recall #B-316-2.
+CODE           Unit #16F46817.
+MANUFACTURER   American Red Cross Blood Services, Columbus, Ohio.
+RECALLED BY    Manufacturer, by letter August 20, 1991.  Firm-initiated recall  
+               ongoing.
+DISTRIBUTION   California.
+QUANTITY       1 unit.
+REASON         Recovered Plasma, collected from a donor who had received a      
+               transfusion 2-3 months prior to donation, was distributed.
+
+              
+PRODUCT        Granulocytes, Pheresis.  Recall #B-317-2.
+CODE           Unit #26J20677.
+MANUFACTURER   American Red Cross Blood Services, Mobile, Alabama.
+RECALLED BY    Manufacturer, by telephone November 15, 1991.  Firm-initiated    
+               recall complete.
+DISTRIBUTION   Alabama.
+QUANTITY       1 unit.
+REASON         A unit of Granulocytes, Pheresis labeled with the incorrect      
+               expiration date, was distributed.
+
+                                      -6-
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+              
+PRODUCT        Cryoprecipitated AHF.  Recall #B-304-2.
+CODE           Unit #50F71951.
+MANUFACTURER   American Red Cross Blood Services, Toledo, Ohio.
+RECALLED BY    Manufacturer, by telephone December 12, 1991, followed by        
+               letter dated January 9, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY       1 unit.
+REASON         Cryoprecipitated AHF, labeled with the incorrect expiration      
+               date was distributed.
+
+             
+PRODUCT        Source Plasma.  Recall #B-314-2.
+CODE           All units except those units listed in the Class II Recall       
+               #B-313-2.
+MANUFACTURER   Plasma Services of San Antonio, San Antonio, Texas (testing      
+               facility/responsible firm).
+RECALLED BY    Plasma Services, Scottsdale, Arizona, by letters via facsimile   
+               on October 11, 17, and 30, 1991.  Firm-initiated recall          
+               complete. 
+DISTRIBUTION   North Carolina.
+QUANTITY       16,231 units were distributed.
+REASON         Blood products, incorrectly tested for the antibody to human     
+               immunodeficiency virus type 1 (anti-HIV-1), were distributed.
+
+              
+PRODUCT        Red Blood Cells.  Recall #B-315-2.
+CODE           Unit #50L03579.
+MANUFACTURER   American Red Cross Blood Services, Toledo, Ohio.
+RECALLED BY    Consignee notified firm by letter November 15, 1991.  Recall     
+               complete.
+DISTRIBUTION   Ohio.
+QUANTITY       1 unit.
+REASON         Blood product labeled with incorrect expiration dates was        
+               distributed.
+
+              
+PRODUCT        Source Plasma.  Recall #B-318-2.
+CODE           Bleed Date       Unit Numbers
+               12/23/91         N-22020-047 thru N-22024-047, N-22026-047
+                                N-22027-047, G-10517-047 thru G10529-047
+                                G-10531-047 thru G-10586-047
+               12/24/92         N-22028-047 thru N-22030-047
+                                G-10587-047 thru G-10627-047
+                                G-10629-047 thru G-10631-047
+                                G-10633-047 thru G-10641-047
+                                G-10643-047 thru G-10649-047
+                                G-10651-047 thru G-10660-047
+               12/26/91         N-22031-047 thru N-22037-047
+                                N-22039-047
+                                N-22041-047
+
+                                      -7-
+                                G-10661-047 thru G-10706-047
+                                G-10708-047 thru G-10714-047
+                                G-10716-047 thru G-10744-047
+               12/27/91         N-22042-047 thru N-22045-047
+                                G-10745-057 thru G-10823-047
+                                G-10825-047 thru G-10837-047
+                                G-10839-047
+               12/30/91         N-22046-047 thru N-22051-047
+                                N-22053-047 thru N-22054-047
+                                N-22056-047
+                                G-10840-047 thru G-10859-047
+                                G-10861-047 thru G-10883-047
+                                G-10885-047 thru G-10891-047
+                                G-10893-047 thru G-10950-047
+               12/31/91         N-22057-057
+                                N-22059-047
+                                N-22060-047
+                                N-22061-047
+                                G-10951-047 thru G-10988-047
+                                G-10990-047 thru G-11029-047
+               1/2/92           N-22062-047 thru N-22064-047
+                                N-22066-047 thru N-22069-047
+                                G-11030-047 thru G-11053-047
+                                G-11055-047 thru G-11059-047
+                                G-11061-047 thru G-11078-047
+                                G-11080-047 thru G-11097-047
+                                G-11099-047 thru G-11105-047
+                                G-11107-047 thru G-11114-047
+               1/3/92           N-22070-047 thru N-22074-047
+                                G-11115-047 thru G-11207-047
+               1/6/92           N-22076-047 thru N-22080-047
+                                G-11209-047 thru G-11230-047
+                                G-11232-047 thru G-11259-047
+                                G-11261-047 thru G-11301-047
+               1/7/92           N-22081-047
+                                N-22083-047
+                                N-22088-047
+                                N-22090-047
+                                G-11302-047 thru G-11323-047
+                                G-11325-047 thru G-11334-047
+                                G-11336-047
+                                G-11337-047
+                                G-11339-047 thru G-11342-047
+                                G-11344-047 thru G-11366-047
+                                G-11368-047 thru G-11382-047
+                                G-11384-047 thru G-11390-047
+               1/8/92           N-22091-047 thru N-22094-047
+                                G-11392-047 thru G-11426-047
+                                G-11428-047 thru G-11439-047
+               1/9/92           N-22097-047 thru N-22109-047
+                                G-11440-047 thru G-11484-047
+                                G-11486-047 thru G-11489-047
+
+                                      -8-
+                                G-11491-047 thru G-11514-047
+               1/10/92          N-22110-047 thru N-22112-047
+                                N-22115-057 thru N-22119-047
+                                G-11515-047 thru G-11541-047
+                                G-11543-047 thru G-11544-047
+                                G-11546-047 thru G-11572-047
+                                G-11574-047 thru G-11596-047
+                                G-11598-047 thru G-11617-047
+               1/13/92          N-22121-047 thru N-22132-047
+                                G-11618-047 thru G-11696-047
+               1/14/92          N-22134-047
+                                N-22135-047
+                                N-22137-047 thru N-22141-047
+                                N-22143-047 thru N-22146-047
+                                G-11697-047 thru G-11740-047
+                                G-11742-047 thru G-11746-047
+                                G-11748-047 thru G-11752-047
+                                G-11754-047 thru G-11780-047
+               1/15/92          N-22147-047 thru N-22153-047
+                                N-22156-047
+                                G-11781-047 thru G-11784-047
+                                G-11786-047 thru G-11824-047
+                                G-11826-047 thru G-11832-047
+               1/16/92          N-22157-047 thru N-22162-047
+                                G-11833-047 thru G-11868-047
+                                G-11870-047 thru G-11902-047
+               1/17/92          N-22165-047 thru N-22171-047
+                                N-22174-047 thru N-22177-047
+                                G-11903-047 thru G-11960-047
+                                G-11962-047 thru G-11965-047
+                                G-11967-047 thru G-11989-047
+                                G-11991-047 thru G-11997-047
+                                G-11999-047 thru G-12002-047
+                                G-12004-047 thru G-12015-047
+                                G-12017-047 thru G-12023-047
+               1/20/92          N-22178-047, N-22180-047, N-22181-047
+                                N-22183-047, N-22184-047
+                                G-12024-047 thru G-12072-047
+                                G-12074-047 thru G-12096-047
+               1/21/92          N-22185-047 thru N-22190-047
+                                G-12097-047 thru G-12139-047
+                                G-12141-047 thru G-12164-047
+                                G-12166-047 thru G-12170-047
+                                G-12172-047 thru G-12188-047
+               1/22/92          N-22191-047 thru N-22205-047
+                                N-22207-047
+                                G-12189-047 thru G-12194-047
+                                G-12196-047 thru G-12223-047
+                                G-12225-047 thru G-12243-047
+                                G-12245-047 thru G-12257-047
+               1/23/92          N-22208-047 thru N-22210-047
+                                N-22212-047 thru N-22214-047
+                                G-12258-047
+
+                                      -9-
+                                G-12260-047 thru G-12263-047
+                                G-12265-047 thru G-12317-047
+                                G-12319-047 thru G-12334-047
+               1/24/92          N-22215-047
+                                N-22217-047 thru N-22220-047
+                                G-12335-047 thru G-12346-047
+                                G-12348-047 thru G-12436-047
+                                G-12438-047 thru G-12454-047
+MANUFACTURER   Plasma-Tec, Ltd., Erie, Pennsylvania.
+RECALLED BY    Manufacturer, by telephone May 5, 1992, followed by letters      
+               dated May 11, and 12, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   California.
+QUANTITY       2,052 units.
+REASON         Source Plasma, exposed to unacceptably elevated storage          
+               temperatures and not properly relabeled as Source Plasma,        
+               Salvaged, was distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+              
+PRODUCT        Model Optilase 1000 Laser, used for cardiovascular and other     
+               surgery.  Recall #Z-686-2.
+CODE           Serial numbers:  None.
+MANUFACTURER   Trimedyne, Inc., Irvine, California.
+RECALLED BY    Manufacturer.  FDA approved the firm's corrective action plan    
+               May 19, 1992.  Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       366 units were distributed.
+REASON         Noncompliance with the performance standard for laser products   
+               in that the beam attenuators (safety shutters) were inadequate   
+               to prevent human access to laser radiation.
+
+              
+PRODUCT        Laser Diodes:  (a) Model HLG711G; (b) Model HL6712G;
+               (c) Model HL7836G, used primarily as components in electronic    
+               manufacturing.  Recall #Z-687/689-2.
+CODE           Serial numbers:  None.
+Manufacturer   Hitachi America, Ltd., San Jose, California (Bellsey and Baker,  
+               San Francisco, California.
+RECALLED BY    Manufacturer.  FDA approved the firm corrective action plan May  
+               19, 1992.  Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       38,149 units were distributed.
+REASON         Noncompliance with the performance standards for laser products  
+               in that they lacked warning logotype labeling, laser aperture    
+               labeling, and proper user safety instructions.
+
+              
+PRODUCT        Sun Jet Tanning Beds.  Recall #Z-690-2.
+CODE           None.
+
+                                     -10-
+MANUFACTURER   McGuire's Sun & Fitness Tanning Center, Charlotte, North         
+               Carolina.
+RECALLED BY    Manufacturer.  Firm-initiated field correction ongoing.
+DISTRIBUTION   North Carolina, Ohio, South Carolina, Virginia.
+QUANTITY       4 units were distributed.
+REASON         Noncompliance with the performance standards for sunlamp         
+               products in that the beds lacked adequate labeling, as well as   
+               the required manufacturer information.
+
+              
+PRODUCT        C02 Cartridge Holder for the Metromat, used for dilating the     
+               uterine cavity by means of C02 gas during hysteroscopy:
+               (a) C02 Cartridge Holder, Catalog #2121.00;
+               (b) C02 Cartridge Holder, Catalog #2129.009.
+               Recall #Z-695/696-2.
+CODE           All serial numbers of both models.
+MANUFACTURER   Richard Wolf Medical Instruments Corporation, Rosemont,          
+               Illinois. 
+RECALLED BY    Richard Wolf Medical Instruments Corporation, Vernon Hills,      
+               Illinois, by letter January 10, 1992.  Firm-initiated recall     
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       998 units were distributed.
+REASON         The product could allow rapid gas pressure build-up which if     
+               not exhausted through the pressure relief system, could cause    
+               an explosion.
+
+              
+PRODUCT        Software program for Sonoline Clor Flow SI-1200 Ultra Sound      
+               Scanner, Software Revision 5.02.  Recall #Z-697-2.
+CODE           Product #1393334, software disc serial numbers 271 thru 280.
+MANUFACTURER   Siemens Ultrasound, Inc., San Ramon, California.
+RECALLED BY    Manufacturer, by letter and telephone October 22, 1991.          
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       17 units were distributed.
+REASON         Defective software may lead to a miscalculation of mitral valve  
+               oriface size.  This could lead to a delay in proper diagnosis    
+               and treatment for mitral valve stenosis.
+
+              
+PRODUCT        PRN Port Infusion Sets with Injection Site and NonCor Needle:
+               (a) Product No. PIS191;
+               (b) Product No. PIS193;
+               (c) Product No. PIS1915;
+               (d) Product No. PIS201;
+               (e) Product No. PIS203;
+               (f) Product No. PIS2015;
+               (g) Product No. PIS221;
+               (h) Product No. PIS223;
+               (i) Product No. PIS2215;
+               (j) Product No. IS191;
+
+                                     -11-
+               (k) Product No. IS193;
+               (l) Product No. IS1915;
+               (m) Product No. IS201;
+               (n) Product No. IS203;
+               (o) Product No. IS2015;
+               (p) Product No. IS221;
+               (q) Product No. IS223;
+               (r) Product No. IS2215.  Recall #Z-743/760-2.
+CODE           All units.
+MANUFACTURER   Nipro Medical Industries, Ltd., Nissho Corporation,              
+               Tatebayashi, Gumma, Japan.
+RECALLED BY    PRN Services, Inc., Madison Heights, Michigan, by letter March   
+               20, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       182,341 units were distributed.
+REASON         Cannula separation can occur.
+
+              
+PRODUCT        Resume Model 3586 Lead Kit for Spinal Cord Stimulation, used to  
+               alleviate pain.  Recall #Z-761-2.
+CODE           LW0010503N - LW0010512N.
+MANUFACTURER   Medtronic, Inc., Minneapolis, Minnesota.
+RECALLED BY    Manufacturer, by telephone April 16, 1992.  Firm-initiated       
+               recall ongoing.
+DISTRIBUTION   Georgia, Massachusetts, Minnesota, Pennsylvania, Texas,          
+               Virginia. 
+QUANTITY       10 leads.
+REASON         Firm was unable to verify that it had successfully completed a   
+               critical step in the manufacturing process.
+
+              
+PRODUCT        Operator's Manual for Sarns 9000 Perfusion Systems, Part         
+               #34-9998-9812-4, May 1991 Revision.  Recall #Z-762-2.
+CODE           Not coded.  Systems with manuals which were distributed between  
+               9/23/91 and 12/20/91.  All manuals are copies of the May 1991    
+               revision.
+MANUFACTURER   Sarns, Inc., 3M Health Care, Ann Arbor, Michigan.
+RECALLED BY    Manufacturer, by letters of February 25, 1992, March 2 and 3,    
+               1992.  Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       220 manuals were distributed.
+REASON         Pages in the manual may be duplicated and/or omitted.  These     
+               pages may concern emergency procedures.
+
+              
+PRODUCT        Silicone Rubber Catheter/Connector Kit, a sterile device         
+               intended for single use only.  Recall #Z-764-2.
+CODE           Catalog #37958, lot #LCN 191 EXP 8/13/96.
+MANUFACTURER   Infusaid, Inc., a Pfizer Company, Norwood, Massachusetts.
+RECALLED BY    Manufacturer, by telephone April 16, 1992 followed by letter.    
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Germany, France, Australia.
+QUANTITY       109 units were distributed.
+
+                                     -12-
+REASON         The device was not sterilized prior to being released into       
+               commercial distribution.
+
+              
+PRODUCT        Vascutek Dacron Vascular Grafts:
+               (a) Product Code 380008 , 8 mm x 100 cm;
+               (b) Product Code 380010, 10 mm x 100 cm.  Recall #Z-765/766-2.
+CODE           All lots.
+MANUFACTURER   Vascutek, Ltd., Renfrewshire, Scotland.
+RECALLED BY    Impra, Inc., Phoenix, Arizona, by telephone February 7, 1992.    
+               Firm-initiated recall complete.
+DISTRIBUTION   Alabama, New York.
+QUANTITY       16 units.
+REASON         The devices were labeled as 75 mm long, when they were actually  
+               100 cm long.
+
+              
+UPDATE         American Sterilizer 3080RL Surgical Table, Recall #Z-742-2       
+               which appeared in the June 10, 1992 Enforcement Report should    
+               read:   Firm-initiated field correction complete.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+              
+PRODUCT        Endo-V Intravaginal Needle Guides:
+               (a) Model 89 90 251; (b) Model 89 90 145;
+               (c) Model 89 90 269; (d) Model 89 90 277;
+               (e) Model 89 90 137.  Recall #Z-767/771-2.
+CODE           None.
+MANUFACTURER   Siemens Ultrasound, Inc., San Ramon, California.
+RECALLED BY    Manufacturer, by letter March 18, 1991.  Firm-initiated recall   
+               complete.
+DISTRIBUTION   California, Hawaii.
+QUANTITY       32 units were distributed.
+REASON         The needle guides will not allow the biopsy needle to pass       
+               through.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY -- CLASS II
+              
+PRODUCT        Chloramphenicol Capsules (a) 100 mg; (b) 250 mg; (c) 500 mg, a   
+               Rx veterinary product, under the following labels, Veterinary    
+               Pharmaceuticals, Henry Schein, Vedco, The Butler Company, Tech   
+               America Group, and Burns Veterinary.  Recall #V-041/043-2.
+CODE           lot numbers:  0A390GG, 0A390GQ, 9C390EU, 9C390EV, 81390EL,       
+               81390EM, 8D390DL, 8C390CO, 7K390DN, 0B386GL, OA387GF, 7K387BZ,   
+               9H386BT, 81386DC, 8C386CN, 7L386AS, 78386BY, 7G386EA, 7N3865O, 
+               0A387GE, 9C387BK, 9C387CZ, 7L387AQ, 7L387AR, 7K387CA, 7L387AP,   
+               7G387EC, 7G387EB, 7N38752, 7N38751, 0A387GP, 7K387CB.
+MANUFACTURER   Barr Laboratories, Inc., Northvale, New Jersey.
+RECALLED BY    Nylos Trading Company, Inc., Pomona, New York, by letter April   
+               20, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+
+                                     -13-
+QUANTITY       (a) 5,500,000 capsules; (b) 16,000,000 capsules; (c) 36,000,000  
+               capsules were distributed.
+REASON         Product failed dissolution testing; changes were made to the     
+               manufacturing process without an approved supplemental NADA;     
+               and, Barr laboratories is unable to provide batch records for    
+               one of the lots.
+
+
+MEDICAL DEVICE SAFETY ALERTS
+              
+PRODUCT        COBE CentrySystem 3 Dialysis Control Unit, performs the          
+               necessary control functions for hemodialysis therapy.  Safety    
+               Alert #M-060-2.
+CODE           All serial numbers
+MANUFACTURER   CGH Medical, Inc., Lakewood, Colorado.
+ALERTED BY     Manufacturer, by letter May 18, 1992.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 4,000 units were distributed.
+REASON         Very small microbubbles, which are smaller than 10 microliters,  
+               may not be detectable by the device's ultrasonic air bubble      
+               detector system.  As a result, air has been observed in the      
+               venous line downstream of the venous clamp which could result    
+               in air reaching the patient.
+
+SEIZURES:
+
+              
+PRODUCT        Chunk Light Tuna in Water (92-607-533, et al).
+CHARGE         Adulterated - The product consists in part of decomposed tuna    
+               fish, and it is a pet food which has been relabeled as human     
+               food, thus concealing its inferiority.  Misbranded - The         
+               product is offered for sale under the name of another food.
+FIRM           Greater Pittsburgh Community Food Bank, McKeesport,              
+               Pennsylvania. 
+FILED          April 30v:, 1992 - U.S. District Court for the Western District  
+               of Pennsylvania; Civil #92-1161, FDC #66406.
+SEIZED         May 13, 1992 - goods valued at approximately $15,000.
+
+              
+PRODUCT        Various articles of drug (91-645-201, et al).
+CHARGE         New drug - One product has no approved new drug application in   
+               effect.  Misbranded - One product is in package form and fails   
+               to bear a label containing the name and address of the           
+               manufacturer, packer, or distributor as required by regulation;  
+               another product fails to bear a label containing all required    
+               words, statements, and other information in the English          
+               language, as required by regulation; some of the products are    
+               fabricated from two or more ingredients and their labels fail    
+               to bear the established name and quantity of each active         
+               ingredient; and the products are prescription drugs and their    
+               label fails to bear the prescription legend.
+
+                                     -14-
+FIRM           International Wholesale Corporation, N.E., Washington, D.C.
+FILED          May 1, 1992 - U.S. District Court for the District of Columbia;  
+               Civil #92-1039, FDC #66372.
+SEIZED         May 11, 1992 - goods valued at approximately $17,000.
+
+                                     -15-
+
+
+END OF ENFORCEMENT REPORT FOR JUNE 17, 1992.  BLANK PAGES MAY FOLLOW.
+                                     ###

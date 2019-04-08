@@ -1,0 +1,835 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Feb
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  18
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      26 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+10/13/1993
+
+Recalls and Field Corrections:  Foods -- Class II -- 10/13/1993
+
+October 13, 1993                                               93-41
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT            Cooked Shrimp:  (a) Neptune brand Cooked Shell-on Shrimp,
+                   51/60 count, approximately 3 pounds; (b) Neptune Brand X
+                   Shrimp Pieces Medium Cooked Shrimp, 51/60 count, in 48
+                   ounce clear plastic bags.  Recall #F-629/630-3.
+CODE               Case code:  31623.  The individual bags are not coded.
+MANUFACTURER       Neptune Fisheries, Inc., Newport News, Virginia.
+RECALLED BY        Manufacturer, by letter, July 2, 1993.  Firm-initiated
+                   recall ongoing.
+DISTRIBUTION       Massachusetts, Maryland, Vermont, Pennsylvania, Texas,
+                   Canada.
+QUANTITY           729 cases:  400 cases (3 3-pound bags) and 190 cases (6 3-
+                   pound bags).
+REASON             Product is contaminated with Salmonella.
+
+_______________
+PRODUCT            Pecan Spinners (baked goods).  Recall #F-661-3.
+CODE               Lot #554210.
+MANUFACTURER       Continental Baking Company, Inc., Ogden, Utah.
+RECALLED BY        Continental Baking Company, St. Louis, Missouri, by
+                   facsimile August 11, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION       Utah, Washington state, California.
+QUANTITY           15,301 packages.
+REASON             Product is contaminated with metal shavings.
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT            Pepsi Cola, in 16 ounce glass bottles.  Recall #F-662-3.
+CODE               G153A through H313A followed by 4 numerals.
+MANUFACTURER       Seltzer & Rydholm, Inc., Auburn, Maine.
+RECALLED BY        Manufacturer, by visit beginning September 1, 1993.  Firm-
+                   initiated recall ongoing.
+DISTRIBUTION       Maine. 
+QUANTITY           10,458 cases (24 bottles per case) were distributed.
+REASON             Product is contaminated with insects.
+
+_______________
+PRODUCT            Solopol EF Hand Cleanser for industrial dirt with
+                   biodegradable scrubber, in 2,000 ml bottles.
+                   Recall #F-663-3.
+CODE               Catalog #83134, lot numbers:  9211722, 9208763, 9211724.
+MANUFACTURER       Stockhausen, Inc., Greensboro, North Carolina.
+RECALLED BY        Manufacturer, by letter, March 16, 1993.  Firm-initiated
+                   recall complete.
+DISTRIBUTION       Nationwide.
+QUANTITY           Undetermined.
+REASON             Product was contaminated with salmonella.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT            Cromolyn Sodium Inhalation, USP, in 2 ml plastic tubes, Rx
+                   aqueous solution for nebulization for the management of
+                   patients with bronchial asthma.  Recall #D-002-4.
+CODE               Lot #A001 through A037, all expiration dates.
+MANUFACTURER       Xactdose, Inc., South Beloit, Illinois (repacker).
+RECALLED BY        Repacker, by letter September 24, 1993.  Firm-initiated
+                   recall ongoing.
+DISTRIBUTION       Nationwide.
+QUANTITY           2,387 cases (120 tubes per case) were distributed; firm
+                   estimates little product, if any, remains on the market.
+REASON             Current good manufacturing practice and labeling
+                   deficiencies.
+
+_______________
+PRODUCT            Esgic Tablets, in 100 tablet and 500 tablet bottles, Rx for
+                   the temporary relief of the symptom complex of tension
+                   headache.  Recall #D-003-4.
+CODE               Lot numbers:  9912 EXP 10/93 (100-tablet), 10917 EXP 11/93
+                   (500-tablet).
+MANUFACTURER       Forest Pharmaceuticals, Inc., Cincinnati, Ohio.
+RECALLED BY        Forest Pharmaceuticals, Inc., St. Louis, Missouri, by
+                   letter September 1, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION       Nationwide.
+QUANTITY           14,625 bottles of lot 9912 and 2,888 bottles of lot 10917
+                   were distributed.
+REASON             Unreliable data in the Abbreviated New Drug Application.
+
+                                        -2-_______________
+UPDATE             Epi Pen, 0.3 mg Epinephrine Auto-Injector, Recall #D-332-3,
+                   which appeared in the September 8, 1993, Enforcement Report
+                   as a Class III should have appeared as a Class II recall.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT            Bisacodyl Laxative Suppositories, in boxes of 12, each
+                   labeled to contain 10 mg Bisacodyl USP.  Recall #D-001-4.
+CODE               Lot #90921 EXP 11/95.
+MANUFACTURER       Great Southern Laboratories (GSL), Houston, Texas.
+RECALLED BY        Manufacturer, by letter December 29, 1992.  Firm-initiated
+                   recall complete.
+DISTRIBUTION       Alabama, California, Florida, Iowa, Illinois, Louisiana,
+                   Maryland, Michigan, Mississippi, New Jersey, New York,
+                   Texas.
+QUANTITY           11,325 boxes (12 units per box).
+REASON             Subpotency.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT            (a) Red Blood Cells; (b) Platelets, Pheresis; 
+                   (c) Cryoprecipitated AHF; (d) Recovered Plasma.
+                   Recall #B-382\385-3.
+CODE               Unit numbers:  (a) F89011, M12342, M13156, W04959, X59630;
+                   (b) Q00542; (c) F88900; (d) M13156.
+MANUFACTURER       Central California Blood Bank, Fresno, California.
+RECALLED BY        Manufacturer, by (a) telephone and by letters from March
+                   26, 1992, through November 2, 1992; (b) by letter November
+                   7, 1992; (c) by letter January 27, 1993; (d) by letters
+                   November 6, 1992 to February 4, 1993.  Firm-initiated
+                   recall ongoing.
+DISTRIBUTION       California.
+QUANTITY           (a) 5 units; (b) 1 unit; (c) 1 unit; (d) 1 unit.
+REASON             Blood products, which:  1) were collected from recently
+                   tattooed donors; 2) tested repeatedly reactive for the
+                   antibody to the hepatitis B core antigen (anti-HBc); 3)
+                   were collected from a donor with a history of cancer; 4)
+                   were untested for syphilis; 5) were mislabeled with the
+                   incorrect expiration dates, were distributed.
+
+_______________
+PRODUCT            (a) Red Blood Cells; (b) Fresh Frozen Plasma; (c)
+                   Platelets.
+                   Recall #B-430\432-3.
+CODE               (a) Units 21361, 30161, 30168, 30177, 30318, 30477, 30507,
+                   30668, 31526, 31537, 31806, 32360, 32585, 33992, 34055,
+                   34057, 34096, 34159, 34171, 34182, 34219, 34258, 34275,
+                   34323, 34326, 34797, 34849, 34894, 34931, 35079, 35088,
+                   35320, 35325, 35472, 35735, 35915, 35975, 35979, 36379,
+                   36638, 36665, 36666, 37002, 37092, 37093, 37103, 37112, 
+
+                                        -3-                   37113, 37114, 37116, 37124, 37126, 37142, 37158, 37174,
+                   37179, 37249, 37388, 37390, 37391, 38126, 38185, 38503,
+                   38772, 38877, 38878, 39688, 39696, 39785, 39806, 39808,
+                   39814, 39821, 39823, 39826, 39828, 39833, 39837, 39843,
+                   39845, 39849, 39855, 40217, 40364, 40460, 41167, 41171,
+                   41178, 41191, 41313, 41513, 41525, 41631, 41632, 41660,
+                   41799, 41884, 42675, 42991, 43012, 43158, 43761, 43891,
+                   44956, 45325, 45364, 45366, 45372, 45373, 45377, 45584,
+                   45600, 45658, 45949, 46116, 46117, 46393, 46395, 46441,
+                   46493, 46496, 46550, 46806, 46852, 46854, 46900, 46901,
+                   46977, 47022, 47088, 48147, 48150, 47152, 47155, 47156,
+                   47159, 47166, 47169, 47170, 47246, 47290, 47306, 47436,
+                   47438, 47452, 47466, 47469, 47507, 47602, 47622, 47675,
+                   47712, 47721, 47724, 47731, 47755, 47784, 47791, 47795,
+                   47796, 47801, 47807, 47809, 47812, 47814, 47840, 48181,
+                   48567, 48568, 48570, 48621, 48622, 48624, 48625, 48722,
+                   49071, 49092, 49155, 49299, 49345, 49709, 49859, 49948,
+                   49989, 49996, 50662, 50739, 50768, 50791, 51278, 51428,
+                   52063, 52314, 52558, 52583, 52609, 52612, 52613, 52614,
+                   52615, 52634, 52636, 52645, 52662, 52663, 52751, 52978,
+                   53778, 54022, 54086, 54094, 54200, 54202, 54203, 54205,
+                   54206, 54209, 54210, 54211, 54213, 54246, 54247, 54248,
+                   54250, 54252, 54253, 54255, 54257, 54379, 55089, 55654,
+                   56004, 57036, 57252, 57253, 57254, 57550, 57671, 57769,
+                   57791, 57844, 57862, 58890, 58961, 59230, 61279, 62542,
+                   62638, 63381, 64737, 65972, 66155, 66166, 67097, 67774,
+                   68171, 68210, 70203, 70474, 71046, 71117, 71311;
+                   (b) Units 21361, 30168, 30318, 30477, 30507, 30930, 31363,
+                   31537, 31806, 32585, 33992, 34055, 34171, 34182, 34185,
+                   34219, 34258, 34275, 34326, 34894, 34931, 35088, 35320,
+                   35472, 35735, 35915, 35979, 36379, 36638, 37092, 37103,
+                   37112, 37113, 37116, 37124, 37126, 37142, 37158, 37174,
+                   37179, 37249, 37391, 38185, 38468, 38503, 38704, 38772,
+                   38878, 39855, 40460, 40985, 41313, 41513, 41525, 41632,
+                   41660, 41884, 42675, 43012, 43158, 43891, 44956, 45325,
+                   45364, 45366, 45372, 45373, 45377, 45584, 45600, 45658,
+                   45949, 46116, 46117, 46393, 46395, 46441, 46493, 46496,
+                   46550, 46806, 46852, 46854, 46900, 46901, 46977, 47022,
+                   47088, 47147, 47150, 47152, 47155, 47156, 47159, 47166,
+                   47169, 47170, 47246, 47290, 47306, 47436, 47438, 47452,
+                   47466, 47469, 47507, 47602, 47622, 47675, 47712, 47721,
+                   47724, 47731, 47755, 47784, 47791, 47795, 47796, 47801,
+                   47807, 47809, 47812, 47814, 47840, 48181, 48567, 48568,
+                   48570, 48621, 48622, 48624, 48625, 48722, 49092, 49155,
+                   49299, 49345, 49709, 49859, 49948, 49989, 49996, 50739,
+                   50768, 50791, 51278, 51428, 52063, 52314, 52558, 52583,
+                   52609, 52612, 52613, 52614, 52615, 52634, 52636, 52645,
+                   52663, 52751, 53778, 54022, 54086, 54094, 54200, 54202,
+                   54205, 54206, 54209, 54210, 54211, 54213, 54246, 54248,
+                   54250, 54252, 54253, 54257, 54379, 55089, 55654, 56004,
+                   57036, 57252, 57769, 57791, 58890, 58961, 59230, 61279,
+
+                                        -4-                   62401, 62461, 62542, 62638, 63381, 64737, 65972, 66032,
+                   66155, 66166, 67097, 67774, 68171, 68210, 68234, 70203;
+                   (c) Units 21361, 30161, 31363, 32585, 34931, 37391, 38185,
+                   38503, 39828, 40985, 41191, 41799, 41884, 42675, 43012,
+                   43891, 44956, 45373, 45377, 45584, 45600, 45949, 46116,
+                   46117, 46393, 46395, 46441, 46493, 46496, 46550, 46806,
+                   46852, 46854, 46900, 46901, 46977, 47022, 47088, 48147,
+                   47152, 47155, 47156, 47159, 47169, 47246, 47247, 47290,
+                   47306, 47436, 47438, 47452, 47466, 47469, 47507, 47602,
+                   47712, 47721, 47724, 47755, 47784, 47791, 47795, 47796,
+                   47801, 47809, 47812, 47814, 47840, 48181, 48567, 48568,
+                   48570, 48621, 48622, 48624, 48625, 48722, 49155, 49299,
+                   49345, 49709, 49859, 49948, 49989, 49996, 50739, 50768,
+                   50791, 51428, 52063, 52558, 52583, 52609, 52612, 52613,
+                   52614, 52615, 52634, 52636, 52645, 52662, 52663, 52751,
+                   52978, 54022, 54086, 54094, 54200, 54202, 54203, 54205,
+                   54206, 54209, 54210, 54211, 54213, 54246, 54247, 54248,
+                   54250, 54255, 54257, 54379, 55654, 58890, 56004, 57036,
+                   57252, 57253, 57769, 57791, 57844, 57862, 59230, 62542,
+                   64737, 65972, 66032, 67097, 67774, 68234, 70203, 71117.
+MANUFACTURER       Metropolitan Washington Blood Bank, Silver Spring,
+                   Maryland.
+RECALLED BY        Manufacturer, by letters in June, July, August 1992. Firm-
+                   initiated recall ongoing.
+DISTRIBUTION       Maryland, District of Columbia, Virginia.
+QUANTITY           (a) 262 units; (b) 206 units; (c) 130 units.
+REASON             Blood products which 1) were tested improperly for the
+                   Hepatitis B surface Antigen (HBsAg), the antibody to the
+                   Human Immunodeficiency Virus Type 1 (anti-HIV-1), or the
+                   antibody to the Human T-Lymphotrophic Virus Type I (anti-
+                   HTLV-I), or 2) tested repeatedly reactive for HBsAg or
+                   anti-HIV-1 but were collected from donors who previously
+                   tested repeatedly reactive for HBsAg or anti-HIV, were
+                   distributed; or 3) tested nonreactive for HBsAg or anti-
+                   HIV-1 but were collected from donors who previously tested
+                   repeatedly reactive for HBsAg or anti-HIV, were
+                   distributed.
+
+_______________
+PRODUCT            (a) Red Blood Cells; Recovered Plasma. Recall #B-433/434-3.
+CODE               Unit #12LV11364.
+MANUFACTURER       American Red Cross, Charlotte, North Carolina.
+RECALLED BY        Manufacturer, by telephone and by letter May 5, 1993. 
+                   Firm-initiated recall complete.
+DISTRIBUTION       North Carolina, California.
+QUANTITY           1 unit of each component.
+REASON             Blood products, which tested repeatedly reactive for
+                   Hepatitis B Surface antigen (HBsAg), were distributed.
+
+________________
+PRODUCT            (a) Red Blood Cells; (b) Platelets; (c) Platelets Expired;
+                   (d) Cryoprecipitated AHF (e) Recovered Plasma. 
+                   Recall  #B-442\446-3.
+
+                                        -5-CODE               Unit numbers:  (a) 39F37363, 39G11052, 39J20276;
+                   (b) 39J20276; (c) 39F37363; (d) 39F37363; (e) 39F37363,
+                   39G11052, 39J20276.
+MANUFACTURER       American National Red Cross, Huntington, West Virginia.
+RECALLED BY        Manufacturer, (a) by letters January 29, 1992, and April 7,
+                   1993; (b&c;) by letter January 29, 1992 and by telephone and
+                   letter of April 7, 1993; (d) by letter January 27, 1992;
+                   (e) by letter February 13, 1992 and April 7, 1993.  Firm-
+                   initiated recall ongoing.
+DISTRIBUTION       West Virginia, California, Kentucky, Switzerland.
+QUANTITY           (a) 3 units; (b) 1 unit; (c) 1 unit; (d) 1 unit; (e) 3
+                   units.
+REASON             Blood products, collected from a donor immigrated from sub-
+                   Saharan Africa and was not tested for the human
+                   immunodeficiency virus type 2 (anti-HIV-2), were
+                   distributed.
+
+_______________
+PRODUCT            Recovered Plasma.  Recall #B-447-3.
+CODE               Unit #CH-5910.
+MANUFACTURER       Columbia Hospital, Columbia, Pennsylvania.
+RECALLED BY        Manufacturer, by telephone June 4, 1993, followed by letter
+                   June 7, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION       Maryland.
+QUANTITY           1 unit.
+REASON             A blood product, collected from a donor in which donor
+                   suitability was not determined, was distributed.
+
+_______________
+PRODUCT            Platelets.  Recall #B-458-3
+CODE               Unit #31GF14907.
+MANUFACTURER       American Red Cross Blood Services, Buffalo, New York.
+RECALLED BY        Manufacturer, by letter October 2, 1992.  Firm-initiated
+                   recall complete.
+DISTRIBUTION       South Carolina.
+QUANTITY           1 unit.
+REASON             A Blood product, which was collected from a donor who had
+                   visited an area designated as endemic for malaria, was
+                   distributed.
+
+_______________
+PRODUCT            Platelets.  Recall #B-459-3.
+CODE               Unit #FM60593.
+MANUFACTURER       Fairfax Hospital Blood Donor Services, Annandale, Virginia.
+RECALLED BY        Manufacturer, by telephone on or about November 6, 1991. 
+                   Firm-initiated recall complete.
+DISTRIBUTION       Washington, D.C.
+QUANTITY           1 unit.
+REASON             Blood product, which tested repeatedly reactive for the
+                   antibody to the Hepatitis B Core antigen (anti-HBc), was
+                   distributed.
+
+                                        -6-_______________
+PRODUCT            Red Blood Cells.  Recall #B-461-3.
+CODE               Unit #2677109.
+MANUFACTURER       Greater New York Blood Program, Valhalla, New York.
+RECALLED BY        Manufacturer, by facsimile September 16, 1992.  Firm-
+                   initiated recall complete.
+DISTRIBUTION       New York.
+QUANTITY           1 unit.
+REASON             Blood product, corresponding to a unit of Platelets which
+                   was pooled and possibly contaminated with Staphylococcus
+                   epidermidis and diptheroids, was distributed.
+
+_______________
+PRODUCT            (a) Red Blood Cells; (b) Platelets.  Recall #B-462\463-3.
+CODE               Unit #01F43224.
+MANUFACTURER       Leon County Blood Bank, Tallahassee, Florida.
+RECALLED BY        Manufacturer, by telephone September 28, 1992, followed by
+                   (a) letter dated September 30, 1992; (b) by letter June 24,
+                   1993.  Firm-initiated recall complete.
+DISTRIBUTION       Massachusetts, Florida.
+QUANTITY           1 unit of each component.
+REASON             Blood products, collected from an ineligible donor due to
+                   ear piercing by a non-sterile method less than twelve
+                   months prior to donation, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT            Recovered Plasma.  Recall #B-386-3.
+CODE               Unit numbers F88900 and X59630.
+MANUFACTURER       Central California Blood Bank, Fresno, California.
+RECALLED BY        Manufacturer, by letters dated from November 6, 1992 to
+                   February 4, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION       California.
+QUANTITY           2 units.
+REASON             Blood product untested for syphilis was distributed.
+
+_______________
+PRODUCT            Blood Grouping Reagent/Anti-P1, Saline Tube Test.
+                   Recall #B-425-3.
+CODE               Lot numbers:  6140 EXP 6/26/93; 6141 EXP 1/22/94; 6142 EXP
+                   6/24/94; 6143 EXP 9/18/94.
+MANUFACTURER       Organon Teknika Corporation, West Chester, Pennsylvania.
+RECALLED BY        Manufacturer, by letter May 17, 1993.  Firm-initiated
+                   recall complete.
+DISTRIBUTION       Nationwide, Australia, Canada, Ireland, Mexico, Costa Rica,
+                   Taiwan, Japan.
+QUANTITY           1,719 units were distributed.
+REASON             Anti-P1 blood grouping reagents, contaminated with a rare
+                   antibody that interfered with the test results of Group A
+                   red blood cells, were distributed.
+
+                                        -7-_______________
+PRODUCT            (a) Red Blood Cells; (b) Platelets, Pheresis.
+                   Recall #B-435/436-3.
+CODE               Unit numbers:  (a) 12R37224; (b) 12LT10288, 12FY17609,
+                   12FT27620, 12FT27623, 12FT27625.
+MANUFACTURER       American Red Cross, Charlotte, North Carolina.
+RECALLED BY        Manufacturer, by telephone and by letter May 5, 1993. 
+                   Firm-initiated recall complete.
+DISTRIBUTION       North Carolina, California.
+QUANTITY           (a) 1 unit; (b) 5 units.
+REASON             Blood products which tested initially reactive for
+                   Hepatitis B Surface Antigen HBsAg and non-reactive by a
+                   single repeat test, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT            LSM - Lymphocyte Separation Medium, an in-vitro test
+                   intended to be used to isolate lymphocytes from peripheral
+                   blood.  Recall #Z-629-3.
+CODE               Product #36427, lot #102889.
+MANUFACTURER       Organon Teknika Corporation, Durham, North Carolina.
+RECALLED BY        Manufacturer, by letter April 22, 1993.  Firm-initiated
+                   recall complete.
+DISTRIBUTION       Nationwide, Hong Kong, Netherlands, Switzerland, Japan.
+QUANTITY           1,125 unit packages were distributed.
+REASON             Device is contaminated with Pseudomonas Pickettii.
+
+_______________
+PRODUCT            Sterile equipment covers, under Cover Ups label, used to
+                   cover a wide variety of O.R. equipment in hospitals:
+                   (a) Product #CU-3628; (b) Product #CU-3620; (c) Product
+                   #CU-3020.  Recall #Z-670/672-3.
+CODE               Lot numbers:  (a) 1695, shipped prior to 3/16/93, 1200-000,
+                   all product shipped; (b) 1740, shipped prior to 3/16/93;
+                   (c) 1650, all product shipped.
+MANUFACTURER       American Medical Products, Cartersville, Georgia.
+RECALLED BY        Manufacturer, by letter March 24, 1993.  Firm-initiated
+                   recall complete.
+DISTRIBUTION       Nationwide.
+QUANTITY           240 units of lot #1650; 80 units of lot 1740; 720 units of
+                   lot 1695; and 80 units of lot 1200-0000.
+REASON             The devices were distributed non-sterile.
+
+_______________
+PRODUCT            DPX-L Bone Densitometers and DPX Bone Densitometers with
+                   Body Composition Output Function.  Recall Z-726\727-3.
+CODE               All units.
+MANUFACTURER       Lunar Corporation, Madison, Wisconsin.
+RECALLED BY        Manufacturer, by letter August 2, 1993.  Firm-initiated
+                   field correction ongoing.
+DISTRIBUTION       Nationwide and international.
+
+                                        -8-QUANTITY           Approximately 950 units were distributed.
+REASON             Devices are Class III devices and do not have approved
+                   applications for premarket approval (PMA's).
+
+_______________
+PRODUCT            "Vamp" (Venous Arterial Blood Management Protection
+                   System), an accessory to the Vamp Blood Sampling System, a
+                   medical device used to collect blood:  (a) Vamp Needle Less
+                   Shielded Cannula with Luer Lock, Model No. 48-VMP400;
+                   (b) Vamp Direct Draw Blood Transfer Unit, Model #48-VMP700.
+                   Recall #Z-731/732-3.
+CODE               (a) Model number: 48-VMP400
+                   Lot numbers:   2G0954-SJ2F3788, 2H1030-SJ2G3891,
+                   2G0955-SJ2F3789, 2H1030-SJ2G3892, 2G1100-SJ2G3998
+                   2I1198-SJ2H4104, 2H1028-SJ2G3876, 2I1199-SJ2H4106,
+                   2H1029-SJ2G3878;
+                   (b) Model number 48-VMP700
+                   Lot numbers:   2G0954-SJ2F3791, 2H1030-SJ2G3893,
+                   2G0955-SJ2F3792, 2H1030-SJ2G3894, 2G1100-SJ2G3997, 
+                   2I1198-SJ2H4105, 2H1028-SJ2G3877, 2I1199-SJ2H4107,
+                   2H1029-SJ2G3879.
+MANUFACTURER       Baxter Healthcare Corporation, Edwards Critical Care
+                   Division, Irvine, California.
+RECALLED BY        Manufacturer, by letter October 13, 1992.  Firm-initiated
+                   recall ongoing.
+DISTRIBUTION       Nationwide.
+QUANTITY           (a) 1,112 cases; (b) 856 cases, (50 units per case) were
+                   distributed. 
+REASON             Individual plastic pouches were torn during manufacture. 
+                   The tears may compromise the sterility of the device.
+
+_______________
+PRODUCT            Lasermedics Microlight 830, Model 101VS, for veterinary
+                   laser therapy.  Recall #Z-784-3.
+CODE               None.
+MANUFACTURER       Lasermedics, Inc., Stafford, Texas.
+RECALLED BY        Manufacturer.  FDA approved the firm's corrective action
+                   plan August 31, 1993.  Firm-initiated field correction
+                   ongoing.
+DISTRIBUTION       Nationwide
+QUANTITY           5 units.
+REASON             Noncompliance with performance standard for laser products.
+
+_______________
+PRODUCT            Iolab Posterior Chamber Intraocular Lens:
+                   (a) Model #4141S, 22.5 diopter, 6.5 mm Optic, PMMA loops;
+                   (b) Model #4240S, 12.0 Diopter, 6.0 mm optic, Prolene
+                   loops.
+                   Recall #Z-818/819-3.
+CODE               Lot numbers:  (a) 4141S 100391 2024 through 4141S 100391
+                   2047; (b) 4240S 100391 2000 through 4240S 100391 2023.
+MANUFACTURER       Iolab Corporation, Claremont, California.
+
+                                        -9-RECALLED BY        Manufacturer, by telephone December 26, 1991 and March 10,
+                   1992.  Firm-initiated recall complete.
+DISTRIBUTION       California, Florida, Georgia, Illinois, Michigan,
+                   Pennsylvania, Texas.
+QUANTITY           (a) 15 lenses; (b) 3 lenses were distributed.  Firm
+                   estimates none remains on the market.
+REASON             Lenses were labeled with the incorrect diopter power.
+
+_______________
+PRODUCT            Dextrolyte II Peritoneal Dialysis Cycler Set XXX Prong:
+                   (a) Catalog #48-1002-4, 5 Prong Cycler Set;
+                   (b) Catalog #48-1003-2, 5 Prong Cycler Set; 
+                   (c) Catalog #48-1007-3, 12 Prong Cycler Set;
+                   (d) Catalog #48-1033-9, 3 Prong Cycler Set;
+                   (e) Catalog #48-1038-8, 8 Prong Cycler Set;
+                   (f) Catalog #48-1111-3, 2 Liter LBO Cycler Set.
+                   Recall #Z-821/826-3.
+CODE               Lot numbers:  (a) M1S507, M1S510, M2A505, B2B512, M2B513,
+                   M2B514, M2B516, M2B520, M2B522, M2D502, M2D503, M2D504,
+                   M2D513, M2E505, M2E506, M2H502, M2H503, M2H504, M2H505, 
+                   M2H506, M2H507, M2H508, M2H515, M2H516, M2J502, M2J505,
+                   M2J510, M2K501, M2K502, M2K504, M2K505, M2K506, M2K507,
+                   M2K508, M2K509, M2L502, M2L503, M2L506, M2L507, M2L510,
+                   M2L512, M2L514, M2L515, M2L516, M2N501, M2N506, M2N508,
+                   M2N509, M2P504, M2P505, M2P508, M2P509, M2P510, M2P511,
+                   M2P512, M2S501, M2S502, M2S505, M3A508, M3A509, M3A511,
+                   M3A512, M3A513, M3A514, M3A515, M3B507, M3B508, M3B512,
+                   M3C505, M3C506, M3C510, M3C514, M3C516, M3D501, M3E501;
+                   (b) M2H523; (c) M2C505, M2J511; (d) M2L505, M3B506; (e)
+                   M2A506, M2B523, M2E501, M2J506, M2J512, M2L509, M2L511,
+                   M2N507, M2P502, M2S503, M3A518, M3B516; (f) M2N505.
+MANUFACTURER       National Medical Product, Medical Product Division,
+                   McAllen, Texas.
+RECALLED BY        National Medical Care, Medical Product Division, Rockleigh,
+                   New Jersey, by letter June 17, 1993.  Firm-initiated recall
+                   ongoing.
+DISTRIBUTION       Nationwide.
+QUANTITY           20,215 cases (10 sets per case).
+REASON             Leakage of heater and weigh arm bags.  The firm changed
+                   component specifications for the thickness of the film used
+                   in the manufacture of peritoneal dialysis heater and weigh
+                   bags from 10 mil to 15 mil while not adequately controlling
+                   the sealing operation.
+
+_______________
+PRODUCT            Arterial and Venous Bloodlines under the Baxter Healthcare
+                   label:  (a) Arterial Blood Tubing Set for Hemodialysis,
+                   Catalog 96-4262; (b) Venous Blood Tubing Set for
+                   Hemodialysis, Catalog #96-4491.  Recall #Z-842/843-3.
+CODE               Lot numbers:  (a) R1L619; (b) R1K618.
+
+                                       -10-MANUFACTURER       National Medical Care, Medical Product Division, Reynosa,
+                   Mexico; National Medical Care, Medical Product Division,
+                   McAllen, Texas.
+RECALLED BY        National Medical Care, Medical Product Division, Rockleigh,
+                   New Jersey, by letter March 29, 1993.  Firm-initiated
+                   recall ongoing.
+DISTRIBUTION       Undetermined.
+QUANTITY           (a) 6,036 units; (b) 12,024 units were distributed; firm
+                   estimates (a) 14 units; (b) 26 units remain on the market.
+REASON             The devices were yellow and were found to contain the
+                   herbicide Treflan.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT            SickleQuick Test Kit, an in-vitro diagnostic test intended
+                   to be used as a differential solubility test for hemoglobin
+                   S:  (a) Product Code #33375; (b) Product Code #33376.
+                   Recall #Z-626/627-3.
+CODE               Lot #L20083 and L20084.
+MANUFACTURER       BHP Diagnostics Corporation, Westchester, Pennsylvania.
+RECALLED BY        Organon Teknika, Durham, North Carolina, by letter on or
+                   about March 23, 1993.  Firm-initiated recall complete.
+DISTRIBUTION       Nationwide, Canada, Japan.
+QUANTITY           Firm shipped 400 packages of lot L20083 retaining 1 package
+                   as a reserve sample 188 packages of lot L20084.
+REASON             Vial caps did not provide proper seals resulting in product
+                   leakage.
+
+_______________
+PRODUCT            Turbiquant RF Test Kit, in-vitro diagnostic.
+                   Recall #Z-660-3.
+CODE               Lot Numbers: 985411 and 123106.  Kit lot 24510 EXP2/23/93.
+MANUFACTURER       Behringwerke AC, Marburg, Germany.
+RECALLED BY        Behring Diagnostics, Inc., Somerville, New Jersey, by
+                   letters January 25-26, 1993.  Firm-initiated recall
+                   complete.
+DISTRIBUTION       Nationwide. 
+QUANTITY           199 test kits.
+REASON             The RF reagent results in assay values which were
+                   artificially low and do not conform to manufacturer's
+                   specifications.  This could cause a potential for
+                   inaccurate test results.
+
+_______________
+PRODUCT            Schiapparelli Biosystems AST-LTS (GOT) Reagent for the
+                   determination of Serum Aspartate Aminotransferase:       
+                   (a) Catalog No. R2-61; (b) Catalog No. RG-1-61.
+                   Recall #Z-690/691-3. 
+CODE               (a)  Lot No.     Expiration Date   
+                    930307      01/95             
+                        921010      03/94             
+
+                                       -11-                    920607      03/94             
+                    920606      09/93             
+                    920207      09/93             
+                   (b)  930412      01/95             
+                    920912      03/94             
+                    920412      09/93             
+                    911205      09/93             
+MANUFACTURER       Schiapparelli Biosystems, Inc., Columbia, Maryland.
+RECALLED BY        Schiapparelli Biosystems, Inc., ENI Diagnostics Division,   
+                    Fairfield, New Jersey, by letter March 25, 1993.  Firm-
+                   initiated recall ongoing.
+DISTRIBUTION       Nationwide.
+QUANTITY           (a) 5,353 units; (b) 2,524 units.
+REASON             Some vials do not meet the initial reagent absorbance
+                   requirements for 1.0 after storage at 2-8 degrees C for 12
+                   days following reconstitution.
+
+_______________
+PRODUCT            Reaads Anti-Cardiolipin Semi-Quantitative Test Kit, an
+                   enzyme-linked immunosorbent assay (ELISA) for the semi-
+                   quantitative determination of IgG and IgM anti-cardiolipin
+                   antibodies in human serum or plasma.  Recall #Z-735-3.
+CODE               Lot numbers:  CL-168, CL169, CL170.
+MANUFACTURER       Reaads Medical Products, Inc., Westminister, Colorado.
+RECALLED BY        Manufacturer, by telephone July 15 and 19, 1993.  Firm-
+                   initiated recall ongoing.
+DISTRIBUTION       Rhode Island, Maryland, Michigan, North Carolina,
+                   Washington state, Tennessee, Pennsylvania, New Jersey.
+QUANTITY           29 kits.
+REASON             There were too many IgG and IgMs anti-cardiolipin positive
+                   samples and that the reagent blanks may be too high causing
+                   false positive results.
+
+_______________
+PRODUCT            (a) Criterion Ultra Dailyware Natural Tint (polymacon)
+                   Contact Lenses:  (1) Color: Aqua, Sag I, Power -5.00
+                   (2) Color: Aqua, Sag I, Power -6.00
+                   (3) Color: Aqua, Sag II, Power -4.00
+                   (4) Color: Aqua, Sag II, Power -3.00
+                   (5) Color: Blue, Sag I, Power -5.00
+                   (6) Color: Green, Sag I, Power -1.50
+                   (7) Color: Green, Sag II, Power +.25
+                   (b) Criterion Ultra Flexiware Natural Tint (polymacon)
+                   Contact Lenses:  (1) Color: Blue, Power -2.75;
+                   (2) Color: Blue, Power -5.50.  All products were assigned a
+May 1988 expiration date.  Recall #Z-816/817-3.
+CODE               Lot numbers:  (a) (1) 420003 and 420004; (2) 420005 and
+                   420006; (3) 420007 and 420008; (4) 420009; (5) 419994; (6)
+                   419995; (7) 420001 and 420002;
+                   (b) (1) 410010 and 420011; (2) 420012 and 420013.
+MANUFACTURER       Manufactured in Ireland.
+
+                                       -12-RECALLED BY        Bausch & Lomb, Inc., Rochester, New York (relabeler), by
+                   telephone June 11, 1993.  Firm-initiated recall complete.
+DISTRIBUTION       Tennessee.
+QUANTITY           484 lenses were distributed; firm estimates none remains on
+                   the market.
+REASON             Lenses were relabeled with the wrong expiration date.
+
+
+MEDICAL DEVICE SAFETY ALERTS: 
+============================================
+_______________
+PRODUCT            Theratronics teletherapy, accelerator and simulator
+                   radiation devices for cancer therapy with Theratronics'
+                   treatment tables:  (a) Theratron Teletherapy Models T80,
+                   T765, T780C; (b) Linear Accelerator Models T6, T20, T25;
+                   (c) Simulator Models T720, T750.  Safety Alert #N-077/079-
+                   3.
+CODE               (a)  Theratron teletherapy models (User Bulletin            
+                    CUB 93-03) 
+               Theratron 80 (T80) - Serial Numbers 007, 012, 016, 019, 
+               024, 031, 032, 036, 038, 040, 043, 044, 051, 060, 066, 071, 
+               078, 079, 080, 085, 086, 088, 089, 093, 095, 099, 108, 118, 
+               120, 125, 128, 133, 139, 140, 145, 149, 150, 157, 161, 162, 
+               163, 164, 165, 166, 167, 168, 169, 176, 177, 178, 180, 181, 
+               185, 187, 188, 190, 194, 198, 200, 201, 204, 206, 207, 208, 
+               209, 212, 218, 219, 222, 227, 231, 233, 234, 239, 242, 246, 
+               247, 251, 255, 257, 258, 261, 264, 265, 267, 268, 271, 272, 
+               274, 282, 283, 284, 285, 288, 291, 292, 293, 294, 295, 297, 
+               301, 306, 311, 316, 321, 325, 328, 329, 332, 333, 339, 343, 
+               345, 349, 353, 364, 376, 378, 379, 382, 384, 394, 505, 507, 
+               514, 518, 523, 526, 529, 530, 532, 534, 539 
+               Theratron 765 (T765) - Serial Numbers 007, 008 
+               Theratron 780 (T780) - Serial Numbers 003, 004, 005, 007, 
+               008, 010, 011, 016, 017, 020, 021, 024, 026, 027, 028, 033, 
+               037, 040, 042, 049, 051, 052, 055, 056, 057, 058, 059, 060, 
+               062, 064, 073, 074, 075, 082, 083, 086, 089, 097, 098, 101, 
+               113, 114, 116, 121, 127, 128, 129, 133, 136, 137, 149, 150, 
+               160, 161, 177, 178, 179, 182, 201, 215, 221, 226, 230, 232, 
+               233, 234, 235, 236, 241, 249, 251, 252, 253, 262, 266, 275, 
+               278, 280, 284, 288, 293, 296, 298, 299, 302, 306, 307, 308, 
+               311, 314, 315, 318, 322, 323, 326, 333, 334, 335, 336, 341, 
+               343, 351, 358, 359, 366, 367, 369, 377, 381, 386, 388, 395, 
+               398, 399, 401, 402, 415, 417, 426, 428, 431, 433 
+               Theratron 780C (T780C) - Serial Numbers 002, 009, 014, 016, 
+               020, 022, 024, 030, 032, 035, 036, 038, 043, 058, 072, 073, 
+               074, 078, 082, 103 
+               Theratron 1000 - Serial Numbers 001, 002, 004, 005, 007, 
+               008, 010, 011, 012 
+               Phoenix Model - Serial Numbers 001, 003, 005, 008, 010, 
+               012, 014, 017, 018, 020, 023, 032, 036;
+                   (b) Linear accelerator models (User Bulletin AUB 93-02) 
+               Therac 6 (T6) - Serial Numbers 010, 015, 018, 020, 021, 
+               024, 025, 027, 030, 031, 035, 036, 037, 038, 039, 563 
+
+                                       -13-               Therac 20 (T20 - Serial Numbers 041, 043, 058, 064, 065, 
+               067, 077, 412, 512, 711, 813;
+               Therac 25 (T25) - Serial Numbers 022, 024, 025 
+                   (c) Simulator models (User Bulletin SUB 93-01) 
+               Therasim 720 (T720) - Serial Numbers 036, 038, 044, 048, 
+               055, 070, 600 and one unit with unknown serial number 
+               Therasim 750 (T750) - Serial Numbers 005, 006, 008, 012, 
+               015, 016, 022, 023, 024, 031, 034, 036, 037, 038, 040, 
+               044, 046, 047, 048, 049, 050, 051, 052, 055, 057, 060, 
+               062, 063, 064, 066, 072, 076, 077, 078, 080, 082, 083, 
+               084, 085, 087, 088, 089, 091, 092, 093, 097, 098, 099, 
+               101, 102, 103, 104, 105, 106, 107, 108, 110, 113, 114, 
+               115, 116, 117, 119, 120, 121, 122, 123, 125, 126, 127, 
+               128, 129, 130, 131, 132, 135, 137, 138, 140 
+               SIM - Serial Numbers 008, 010, 014, 016, 025 
+               [Clarification is being obtained for this model as firm's 
+               consignee lists provides "SIM" only for the name of the 
+               model.] 
+MANUFACTURER       Theratronics International, Ltd. [formerly Atomic Energy of 
+                    Canada, Ltd. (AECL Medical)], Kanata, Ontario, Canada;
+                   Theratronics International, Ltd., 2833 Trinity Mills Road,
+                   Carrollton, Texas.
+ALERTED BY         Theratroncis International, Ltd., Kanata, Canada, by User
+                   Bulletins CUB93-03, AUB 93-02 and SUB 93-01 dated May 5,
+                   1993.
+DISTRIBUTION       Nationwide and international.
+QUANTITY           421 units.
+REASON             Potential for injury to operator's and patient's fingers if
+                   hands are not kept clear of the treatment table mechanisms
+                   while table movement is in progress.
+
+_______________
+PRODUCT            MicroSelectron High Dose Rate Treatment Tube used with
+                   Nucletron Micro Selectron-HDR Remote Afterloading Systems,
+                   used for connecting needles and flexible implants.
+                   Safety Alert #N-080-3.
+CODE               All units.
+MANUFACTURER       Nucletron BV, Waardgelder 1, The Netherlands.
+RECALLED BY        Nucletron Corporation, Columbia, Maryland, by sending
+                   technical notes to users on June 10, 1991.
+DISTRIBUTION       Nationwide, Argentina, Brazil, Canada, Columbia, Mexico,
+                   Venezuela, West Indies.
+QUANTITY           242 high dose rate units.
+
+                                       -14-REASON             Under certain conditions, less than accurate performance
+                   could prevail.  Prior to using the Source Position
+                   Simulator for depth measurements of the x-ray catheter for
+                   radiographs of the implant area, users should insure that
+                   the treatment tubes and implant applicators are draped in a
+                   curved rather than straight fashion in order to achieve
+                   appropriate connection to the microSelectron-HRD.  This
+                   method will insure the highest accuracy of the system and
+                   the ability to accurately position the source.
+
+                                       -15-
+END OF ENFORCEMENT REPORT FOR OCTOBER 13, 1993.  BLANK PAGES MAY
+FOLLOW.
+                                       ####

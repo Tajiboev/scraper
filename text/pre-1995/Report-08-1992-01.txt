@@ -1,0 +1,739 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  18
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      28 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+01/08/1992
+
+Recalls and Field Corrections: January 8, 1992
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  Product will cause serious adverse health consequences or
+                  death.
+
+                                     NONE
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the
+                  probability of serious adverse health consequences is
+                  remote.
+
+                                     NONE
+
+                  Class III - A situation in which the use of, or exposure
+                  to a violative product is not likely to cause adverse
+                  health consequences.
+
+                                     NONE
+
+                                      -1-
+                                       
+
+
+
+                                   COSMETICS
+
+                                     NONE
+
+                           HUMAN DRUGS AND BIOLOGICS
+
+                  Class I -
+
+                                     NONE
+                  Class II - 
+
+Product:          DDAVP Injection (Desmopressin Acetate), 4 mgc/ml, in 1 ml
+                  ampule, ten  1 ml ampules per unit carton, shipper
+                  carton contains 50 unit cartons, an Rx antidiuretic
+                  hormone.  Recall #D-140-2.
+Code:             Lot #QM9598 EXP 1/93.
+Manufacturer:     Ferring Pharmaceuticals, Malmo, Sweden.
+Recalled by:      Rhone Poulenc Rorer, Fort Washington, Pennsylvania, by
+                  telephone December 6, 1991, followed by letter December
+                  10, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         Approximately 1,949 unit cartons were distributed.
+Reason:           Front panel of carton states "Preservative Free."  Rear
+                  panel declares chlorobutanol as preservative which the
+                  product does contain.
+
+                                     ----
+
+Product:          Whole Blood.  Recall #B-074-2.
+Code:             Unit numbers:  4256873, 4256885.
+Manufacturer:     Blood Bank Naval Hospital Long Beach, Department of
+                  the Navy, Long Beach, California.
+Recalled by:      Manufacturer, by telephone December 24, 1990.  Firm-
+                  initiated recall complete.
+Distribution:     New Jersey.
+Quantity:         2 units.
+Reason:           Blood components, which tested repeatably reactive for
+                  the antibody to the human immunodeficiency virus, type 1
+                  (anti-HIV-1), were distributed.
+
+                                     ----
+
+Product:          (a) Red Blood Cells; (b) Platelets;
+                  (c) Cryoprecipitated AHF; (d) Fresh Frozen Plasma;
+                  (e) Recovered Plasma.  Recall #B-075/079-2.
+Code:             Unit numbers:  (a) 31C01142, 31C02790, 31C04046, 31C14148,
+                  31C16315, 31F23510, 31G06328, 31G68272, 31G71807, 31G91100,
+                  31H05395, 31S07348, 31S09633, 31S11959, 31S14017, 31S15953,
+                  31T53794; (b) 31C16315;
+                  (c) 31C02790, 31C14148, 31S09633, 31S15953;
+                  (d) 31G91100, 31H05395;
+                  (e) 31C01142, 31C02790, 31C04046, 31C14148, 31C16315,
+                  31S14017, 31S15953, 31T53794.
+
+                                      -2-
+
+
+
+
+
+Manufacturer:     American Red Cross Blood Services, Buffalo, New York.
+Recalled by:      Manufacturer, by letters in June and July 1991.
+                  Firm-initiated recall ongoing.
+Distribution:     New York, California, Georgia, Illinois, Pennsylvania,
+                  North Carolina, Switzerland.
+Quantity:         (a) 17 units; (b) 1 unit; (c) 4 units; (d) 2 units;
+                  (e) 8 units.
+Reason:           Blood products, collected from donors who had histories
+                  of self-injected drug use, unspecified hepatitis, or
+                  jaundice, were distributed.
+
+                                     ----
+
+Product:          Platelets.  Recall #B-081-2.
+Code:             Unit numbers:  19GG26079, 19GG26082, 19GG26084, 19KK77530,
+                  19KK77531, 19KK77535, 19KK77537, 19KK77538, 19KK77540,
+                  19KK77542, 19KK77547, 19Z43458, 19Z43460, 19Z43464,
+                  19Z43465, 19Z43467, 19Z43468, 19Z43470, 19Z43472, 19Z43473,
+                  19Z43478, 19Z43480, 19Z43482, 19Z43483, 19Z43485, 19Z43496.
+Manufacturer:     American Red Cross Blood Services, Paducah, Kentucky.
+Recalled by:      Manufacturer, by telephone April 9, 1991.  Firm-initiated
+                  recall complete.
+Distribution:     Kentucky.
+Quantity:         26 units.
+Reason:           Blood products labeled with incorrect expiration dates
+                  were distributed.
+
+                                     ----
+
+                  Class III -
+
+Product:          Tylenol, OTC acetaminophen, 80 mg, chewable tablets for
+                  children, one chewable tablet per unit dose packette with
+                  250 unit dose packettes per folding carton (intermediate
+                  carton), 4 folding cartons per shipping carton.
+                  Recall #D-139-2.
+Code:             Lot #HDM573 EXP 5/94.
+Manufacturer:     McNeil Consumer Products, Fort Washington, Pennsylvania.
+Recalled by:      Manufacturer, by letter December 13, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Nationwide.
+Quantity:         2,384 folding cartons (596 cases) were distributed.
+Reason:           Some units of 250 unit dose tablets (80 mg) were
+                  packaged in cartons labeled Tylenol Tablets (325 mg).
+
+                                     ----
+
+Product:          Phenergan Suppositories, Rx, 12.5 mg, packaged 12 units in
+                  a unit carton with 12 unit cartons making up a shelf pack
+                  (intermediate packaging) and 12 shelf packs comprising a
+                  shipper carton.  Recall #D-141-2.
+Code:             Lot #1910171.
+Manufacturer:     Wyeth-Ayerst Laboratories, Frazier, Pennsylvania.
+
+                                      -3-
+
+
+
+
+
+Recalled by:      Wyeth-Ayerst Laboratories, St. Davids, Pennsylvania, by
+                  telephone followed by visit.  Firm-initiated field
+                  correction complete.
+Distribution:     Nationwide.
+Quantity:         47,856 unit cartons (3,988 shelf packs) were distributed.
+Reason:           Some correctly labeled unit packs of 12.5 mg strength were
+                  packed in shelf packs labeled 25 mg.
+
+                                     ----
+
+Product:          Whole Blood.  Recall #B-080-2.
+Code:             Unit #27FC07342.
+Manufacturer:     American Red Cross Blood Services, Johnstown, Pennsylvania.
+Recalled by:      Manufacturer, by telephone February 1, 1991.  Firm-
+                  initiated recall complete.
+Distribution:     Pennsylvania.
+Quantity:         1 unit.
+Reason:           Blood product, labeled with an incorrect expiration
+                  date and the incorrect anticoagulant, was distributed.
+
+                                     ----
+
+EXTENSION         Dyazide Capsules (Triamterene 50 mg, Hydrochlorothiazide
+NOTICE:           25 mg), Recall #D-035-2, manufactured by Smithkline
+                  Beecham Pharmaceuticals Co., Cidra, Puerto Rico,
+                  which appeared in the November 13, 1991, Enforcement Report
+                  has been extended to include additional lots.  These lots
+                  can be identified in that the last 4 characters of the lot
+                  numbers being recalled are as follows:  6E90, 7E90, 8E90.
+
+                                     ----
+
+                       DEVICES AND RADIOLOGICAL PRODUCTS
+
+                  Class I -
+
+Product:          Reflex DDD, Model 8222, Dual Chamber, Multiprogrammable
+                  Pulse Generator with Telemetry.  Recall #Z-101-2.
+Code:             All serial numbers.
+Manufacturer:     Telectronics Pacing Systems, Inc., Englewood, Colorado.
+Recalled by:      Manufacturer, by memorandum to sales representatives
+                  October 18, 1991 regarding unimplanted units and by
+                  letter November 11 and 26 to physicians and hospital
+                  administrators.  Firm-initiated recall ongoing.
+Distribution:     Nationwide and international.
+Quantity:         2,364 units were distributed.
+Reason:           Cracking or fracture of the ceramic terminal assembly
+                  post.  The cracking or fracturing causes a loss of
+                  hermeticity and subsequent loss of output.
+
+                                     ----
+
+                                      -4-
+
+
+
+
+
+                  Class II -
+
+Product:          A.T.H.S. Latex Disposable Examination Gloves, 100 per
+                  box, 2,000 per case.  Recall #Z-102-2.
+Code:             None.
+Manufacturer:     Phoenix Medical Service, Inc., St. Paul, Minnesota.
+Recalled by:      Manufacturer, by letter October 28, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Minnesota.
+Quantity:         459 cases were distributed.
+Reason:           Product failed FDA leak test.
+
+                                     ----
+
+Product:          Del Med brand Blood Component Recipient Set, packaged 1
+                  unit per box, 48 boxes per case, used for intravenous
+                  administration of blood or blood components;
+                  (b) Blood Set with Large Filter, packaged 1 unit per box,
+                  48 boxes per case, used for intravenous administration of
+                  blood or blood components;
+                  (c) Non-Vented IV Administration Set, packaged 1 unit
+                  per box, 48 boxes per case, used for intravenous
+                  administration of IV fluids;
+                  (d) Plasma Transfer Set with Two Spikes, packaged 2 units
+                  per box, 48 boxes per case, used for the transfer of
+                  plasma from the blood bag to transfer packs;
+                  (e) Plasma Transfer Set with Needle Adapter and Spike
+                  packaged 2 units per box, 48 boxes per case, used to
+                  transfer plasma from blood bag to plasma collection
+                  container with rubber stopper.  Recall #Z-105/109-2.
+Code:             Product Nos.      Lot Nos.
+                  (a) 03-110-00     8K-002-04
+                  (b) 03-118-00     8K-007-04
+                  (c) 03-131-00     8J-016-04
+                  (d) 03-220-00     8J-017-04
+                  (e) 03-220-30     8J-018-04.
+Manufacturer:     DelMed, Inc., Ogden, Utah (sterilizer, shipper, release
+                  tester); DelMed, Inc., SA, Soyapango, San Salvador,
+                  El Salvador, California (clamp, unit).
+Recalled by:      CharterMed, Inc., Lakewood, New Jersey, by letter mailed
+                  out on September 30, 1991.  Firm-initiated recall ongoing.
+Distribution:     (a) California, Kansas, New Jersey, Ohio, Maryland,
+                  New York, Georgia; (b) Florida; (c) Massachusetts;
+                  (d) Washington state, Maryland, Ohio, Tennessee, Florida,
+                  New Jersey, Mississippi, California, New York;
+                  (e) Florida, Pennsylvania, Maryland, New York, California,
+                  Texas.
+Quantity:         (a) 7,440 units; (b) 240 units; (c) 2,400 units;
+                  (d) 6,816 units; (e) 3,360 units were distributed.
+
+                                      -5-
+
+
+
+
+
+Reason:           Products contain defective roller clamps which may break
+                  during use or not completely prevent flow through the
+                  tubing.  This may result in interrupted or unrestricted flow
+                  of solution through the tubing.
+
+                                     ----
+
+Product:          Tape Electrodes, with Medtronic and OEM labeling:
+                  (a) Part #1650 - Holter/Stress Transparent Tape Electrode;
+                  (b) Part #1620 - Huggable (R) Tape Electrode;
+                  (c) Part #1675 - High Performance ECG Monitoring Electrode
+                  Recall #Z-116/118-2.
+Code:             Medtronic Product Nos.        Lot Nos.
+                  1650-005 N                    30 MAY 92 D, 30 MAY 92 E
+                                                07 JUN 92 B, 28 JUN 92 C
+                                                28 JUN 92 E, 04 JUL 92 A
+                  1620-001 N                    07 JUN 92 D, 07 JUN 92 E
+                                                04 JUL 92 C, 04 JUL 92 D
+                  1620-003 N                    30 MAY 92 E, 07 JUN 92 A
+                  1675-030                      14 JUN 92 D
+                  5201                          28 JUN 92
+                  5202                          07 JUN 92
+                  OEM Label Product No.         Lot Nos.
+                  18366                         14 JUN 92 B, 14 JUN 92 C
+                  220041G2                      21 JUN 92 C
+                  24938-401                     07 JUN 92 B
+                  392015-001                    21 JUN 92 B, 21 JUN 92 C
+                  H997                          21 JUN 92 D, 21 JUN 92 E
+                                                28 JUN 92 E.
+Manufacturer:     Medtronic Andover Medical, Haverhill, Massachusetts.
+Recalled by:      Manufacturer, by letter April 4, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Nationwide and international.
+Quantity:         793,053 units were distributed.
+Reason:           Non-uniform silverplating on stud of ECG may cause poor
+                  trace quality.
+
+                                     ----
+
+Product:          Stryker Power Cord, Part Number 277-702-19, a component
+                  distributed with the following endoscopy equipment:
+                  System SE3, arthroscopy system consoles, part numbers
+                  266-702, 266-792; cameras 777, 590, and 578; light source
+                  220-130; and insufflator 620-20.  Recall #Z-134-2.
+Code:             No specific codes are identified.  All of the above
+                  products which were shipped between March 15 and May 3,
+                  1991, may contain a cord which is suspected as being
+                  improperly wired.
+Manufacturer:     Stryker Corporation, Endoscopy Division, San Jose,
+                  California.
+Recalled by:      Stryker Corporation, Kalamazoo, Michigan, by letter
+                  May 20, 1991.  Firm-initiated recall complete.
+
+                                      -6-
+
+
+
+
+
+Distribution:     Nationwide, Canada, Hong Kong, Argentina, Brazil, Japan,
+                  Venezuela.
+Quantity:         Power cords in 531 finished product units remained in
+                  commerce at time of recall.
+Reason:           The clear-colored (female) connector end of the cord
+                  assembly has live (brown) and neutral (blue) wires
+                  reversed.
+                                     ----
+
+Product:          GE Computers for computerized tomographic (CT) systems:
+                  (a) Models 46-301394G4 & G14 Computers for CT
+                  Independent Consoles (CT-IC);
+                  (b) Models 46-301394G5 & G15 Computers of CT Operator
+                  Consoles (CT-OC);
+                  (c) Model 46-301394G31 Computers for (CT-OC);
+                  (d) Model 46-301394G33 Computers for (CT-IC).
+                  Recall #Z-150/153-2.
+Code:             All serial numbers of the CT system computers made prior
+                  to October 14, 1991.
+Manufacturer:     GE Medical Systems, Waukesha, Wisconsin.
+Recalled by:      Manufacturer, by letter October 25, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Nationwide and international.
+Quantity:         413 units were distributed.
+Reason:           The imaging, patient, and other hospital information for
+                  one patient exam may be mismatched with the images from
+                  different CT exams.
+
+                                     ----
+
+Product:          Baxter Temperature Probes, Catalog numbers MR560, MF561,
+                  MR565; and Accessory Packs with Catalog #MR746.
+                  Recall #Z-201-2.
+Code:             All lot numbers from March 1989 to October 1991.
+Manufacturer:     Fisher and Paykel Electronics, Ltd., Auckland, New Zealand.
+Recalled by:      Baxter Healthcare Corporation, Pharmaseal Division,
+                  Valencia, California.  Firm-initiated recall ongoing.
+Distribution:     Nationwide
+Quantity:         756 probes and 4 accessory packs which contain probes
+                  were distributed.
+Reason:           The temperature probe may short circuit, which may result
+                  in incorrect airway temperature display on humidifier heater
+                  base.
+
+                                     ----
+
+Product:          Companion 2801 Portable Volume Ventilator, used to
+                  provide support for ventilator dependent patients in both
+                  the hospital and home care settings.  Recall #Z-216-2.
+Code:             All serial numbers.
+Manufacturer:     Puritan-Bennett, Portable Ventilator Division, Boulder,
+                  Colorado.
+                                      -7-
+
+
+
+
+
+Recalled by:      Manufacturer, by letter December 16, 1991.  Firm-initiated
+                  field correction ongoing.
+Distribution:     Nationwide, Canada, England, Puerto Rico, Argentina, Italy.
+Quantity:         1,200 units were distributed.
+Reason:           Various failure modes, which appear to be associated
+                  with breakage of the roll pin which holds the crank arm to
+                  the motor output shaft, can result in the device failing
+                  to function as intended.
+
+                                     ----
+
+Product:          Healthy Kleaner, The Good for Your Skin Kleaner, in 2, 4,
+                  and 8 ounce sizes, labeled uses are for removal of
+                  permanent ink, adhesive, heavy oil, tar, glue, caulking
+                  and other oily grime from skin and many other surfaces.
+                  Recall #Z-220-2.
+Code:             None.
+Manufacturer:     The GreenSpan, Inc., Boulder, Colorado.
+Recalled by:      Manufacturer, by telephone in mid-December 1991, to be
+                  followed by letter.  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         29 cases of 8 ounce bottles and 7 cases of 4 ounce
+                  bottles were distributed.
+Reason:           The device makes medical claims in that it can be used
+                  to remove bandage adhesive, and is distributed without
+                  an approved 510(k).
+
+                                     ----
+
+Product:          SynchroMed Infusion Pump:
+                  (a) Model 8611H; (b) Model 8615; (c) Model 8610H/8502;
+                  (d) Model 8611H/8502, designed to contain and to
+                  administer parenteral drugs to a specific site.
+                  Recall #Z-221/224-2.
+Code:             Serial range from DAA000004R to DAA00084OR, SJ1203199R
+                  to SJ120444OR and VZ1201342R to VZ1201486R.  Not all
+                  serial numbers in these ranges are the numbers of
+                  recalled devices.
+Manufacturer:     Medtronic Neurological, Minneapolis, Minnesota.
+Recalled by:      Medtronic, Inc., Minneapolis, Minnesota, by letter
+                  dated October 24, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide, Argentina, Australia, Canada, Hong Kong, Japan,
+                  Mexico, The Netherlands.
+Quantity:         1,181 pumps were distributed.
+Reason:           The devices may exhibit flow rates in excess of accuracy
+                  claims of plus or minus 15 percent due to pump tubing
+                  deviating from required inner diameter size.
+
+                                     ----
+
+                                      -8-
+
+
+
+
+
+Product:          Stryker Compact Endoscopy Organizer, Part #240-75,
+                  a cart with 4 shelves which holds a complete endoscopy
+                  system including a camera, VCR and monitor.
+                  Recall #Z-227-2.
+Code:             All product ever distributed.
+Manufacturer:     Practical Design, Safety Harbor, Florida.
+Recalled by:      Stryker Corporation, Kalamazoo, Michigan, by letter
+                  July 25, 1991.  Firm-initiated recall complete.
+Distribution:     Nationwide and Canada.
+Quantity:         301 carts were distributed.
+Reason:           The caster (wheels) on the Endoscopy Organizer have the
+                  propensity to fall off (over time) at the rivet flange joint.
+                  This joint, responsible for holding the wheel housing to
+                  the frame of the compact Endoscopy Organizer, is being
+                  worn by the sharp edge of the column bolt head.
+
+                                     ----
+
+Product:          Omni-Fit Series II Cup Insert, a modular acetabular cup
+                  component of total hip replacement system, packaged in
+                  cartons of one, a Rx sterile device.  Recall #Z-228-2.
+Code:             Catalog #2041-2850, case code CADW (43 units);
+                  Catalog #2041-2862, case code CADY (18 units).
+Manufacturer:     Disanto Machine & Tool Company, Stamford, Connecticut.
+Recalled by:      Osteonics, Corporation, Allendale, New Jersey, by
+                  telephone September 25, 1991, followed by letter
+                  October 11, 1991.  Firm-initiated recall ongoing.
+Distribution:     Arkansas, Florida, Massachusetts, Michigan, Minnesota,
+                  North Carolina, Nebraska, Texas, Virginia, Wisconsin.
+Quantity:         61 units were distributed.
+Reason:           There is a manufacturing error in the location of the
+                  positioning groove on the metal shell face.
+
+                                     ----
+
+                  Class III -
+
+Product:          IVION Burette IV Sets.  Recall #Z-133-2.
+Code:             Catalog No.      Lot No.
+                  IV3A03           F7018A, F7019B, F7032, F7053A, F7054,
+                                   F7076, F7095, F7106, F7107, F7128, F7129,
+                                   F7131, F7161, F7162A
+                  IV3A03#603       F7094, F7123
+                  IV3A05           F6971A, F6997, F6998, F7051B, F7057,
+                                   F7058, F7092, F7093, F7119, F7120, F7158,
+                                   F7159, F7165, F7166, F7233A
+                  IV3A06           F6973, F6974, F6993, F6994A, F7006,
+                                   F7007, F7039A, F7060A, F7061, F7078,
+                                   F7086, F7097, F7098, F7103, F7104, F7110,
+                                   F7111, F7125, F7134, F7195
+                  IV3A08           F7023A, F7085, F7146
+
+                                      -9-
+
+
+
+
+
+                  IV3A09#601       F6982, F6983, F7064A, F7065, F7147,
+                                   F7148, F7180, F7181
+                  IV3A11#273       F7114, F7143
+                  IV3A12           F7024A, F7025, F7074, F7171
+                  IV3A13           F7003A, F7068, F7157
+                  IV3D05           F7170
+                  IV3D06           F7005, F7069, F7070A
+                  IV3D07           F7113, F7155
+                  IV3D08           F7028A, F7091, F7156
+                  IV3D08#618       F7082
+                  IV3D10           F7000, F7009, F7016, F7029, F7030, F7080,
+                                   F7141
+                  IV3D11#611       F6981, F7001A, F7034A, F7067A, F7116,
+                                   F7142.
+Manufacturer:     Ivion Corporation, Broomfield, Colorado.
+Recalled by:      Manufacturer, by telephone November 27, 1991, followed
+                  by letter November 30, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide, Canada.
+Quantity:         Firm estimates 3,000 cases (20 sets per case) remain
+                  on the market.
+Reason:           The device may leak between the burette cylinder and the
+                  bottom cap juncture.
+
+                                     ----
+
+Product:          COBE Waste Handling Option (WHO) Accessory.
+                  Recall #Z-217-2.
+Code:             Catalog numbers: 018737-000 and 333250-000, all serial
+                  numbers.
+Manufacturer:     CGH Medical, Inc., Lakewood, Colorado 
+Recalled by:      Manufacturer, by letter November 1, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Nationwide, Australia, Belgium, Canada.
+Quantity:         1,051 units were distributed.
+Reason:           A higher than anticipated failure rate of two components
+                  result in leaking dialysate around the "boot" and valve
+                  of the assembly.
+
+                                     ----
+
+Product:          Baxter Fenwal Blood Component Infusion Set, a Rx sterile
+                  13" infusion set with a female luer used for the
+                  syringe push of small volume blood components.
+                  Recall #Z-218-2.
+Code:             Product #4C2223, lot numbers:  U139337, U140863, U141663,
+                  U143347, U145301, U145292.
+Manufacturer:     Baxter Healthcare Corporation of Puerto Rico,
+                  Aibonito, Puerto Rico.
+Recalled by:      Baxter Healthcare Corporation, Deerfield, Illinois, by
+                  letter October 29, 1991.  Firm-initiated field correction
+                  ongoing.
+Distribution:     Nationwide, Canada, Colombia, England, Belgium, Spain,
+                  The Netherlands, Germany, Mexico.
+
+                                     -10-
+
+
+
+
+
+Quantity:         67,488 sets were distributed; firm estimates 30 percent
+                  or the product remains on the market.
+Reason:           The labeling states that the infusion set contains a 80
+                  micron filter when it actually contains a 170-260 micron
+                  standard blood filter.
+
+                                     ----
+Medical Device Safety Alerts:
+
+Product:          In-vitro diagnostic products.  Items (a-f) under the
+                  IMMCO label, items (g-i) under Behring Diagnostics label,
+                  and item (j) under Whittaker Bioproducts label:
+                  (a) Antinuclear Antibody (ANA) Test (HEp-2 cells);
+                  (b) Antinuclear Antibody (ANA) Test (Mouse Liver Sections);
+                  (c) Anti-Native DNA Antibody Test (Crithidia luciliae);
+                  (d) Autoantibody Test System (Mouse Kidney/Stomach
+                  Sections);
+                  (e) Anti-Skin Antibody Test (Monkey/Guinea Pig
+                  Esophagus Sections);
+                  (f) Anti-Skin Antibody Test (Monkey Esophagus Sections);
+                  (g) AFT Systems I Kit (small);
+                  (h) AFT System I Kit (large);
+                  (i) AFT System I Reagent Package for Metpath;
+                  (j) Anti-human IgG conjugate (fluorescein labeled) 2 liter
+                  bulk plasma packs.  Safety Alert #M-009/018-2.
+Code:             All lot and catalog numbers.
+Manufacturer:     IMMCO Diagnostics, Inc., Buffalo, New York.
+Alerted by:       Manufacturer, by letter October 25, 1991.
+Distribution:     Nationwide, Germany, Ireland, Austria, Switzerland,
+                  Canada, Hong Kong.
+Quantity:         79 in-vitro diagnostic kits bearing the IMMCO label;
+                  923 AFT System I Kits (small);
+                  3,150 AFT System I Kits (large);
+                  28 AFT System I Reagent Packages for Metpath;
+                  16.2616 liters Anti-human IgG conjugate (fluorescein
+                  labeled) in 2 liter bulk plasma packs were distributed;
+                  firm estimates 75 percent of the product remains on
+                  the market.
+Reason:           Product contain fluorescein labeled anti-human IgG
+                  conjugate which becomes unstable when stored in direct
+                  light for prolonged periods of time.  This may result in
+                  autoantibody test results with a reduced staining
+                  intensity, reduced titers, or false negative reactions.
+
+                                     ----
+
+Product:          Thora-Seal III (TS-III) underwater chest drainage systems:
+                  (a) Thora-Seal III Underwater Chest Drainage System,
+                  Product #8884-713308;
+                  (b) Thora-Seal III Replacement Collection Bottle,
+                  Product #8884-713900;
+                  (c) Thora-Seal III Autotransfusion Chest Drainage System,
+                  Product #8884-713192;
+
+                                     -11-
+
+
+
+
+
+                  (d) Thora-Seal III Autotransfusion Chest Drainage Unit,
+                  Product #8884-713176.  Safety Alert #M-022/025-2.
+Code:             All lots.
+Manufacturer:     Sherwood Medical, St. Louis, Missouri.
+Alerted by:       Manufacturer, by letter November 13, 1991.
+Distribution:     Nationwide, Canada, Argentina, Australia, Hong Kong,
+                  UK, France, Germany, Italy, Hollans.
+Quantity:         178,000 units were distributed.
+Reason:           Both the collection bottle and the suction control bottle
+                  in the devices may develop cracks in the area beneath the
+                  manifold which may not be visible unless the bottles are
+                  removed from the manifold, and which could result in an
+                  air leak.
+
+                                     -12-
+
+                                     ###

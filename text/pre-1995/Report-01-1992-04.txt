@@ -1,0 +1,918 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      28 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+04/01/1992
+
+Recalls and Field Corrections: April 1, 1992
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  product will cause serious adverse health consequences or
+                  death.
+
+
+Product:          Vegetable Steaks, 4 ounces each, packaged 2 per package.
+                  Recall #F-196-2.
+Code:             Not coded.  All product distributed.
+Manufacturer:     Hannelore Enterprises Ltd., West Babylon, New York.
+Recalled by:      Manufacturer, by telephone December 8, 1991.  Firm-
+                  initiated recall complete.
+Distribution:     Nationwide.
+Quantity:         Approximately 19,930 packages were distributed; firm
+                  estimates none remains on the market.
+Reason:           Product is contaminated with Listeria monocytogenes.
+
+                                     ----
+
+                                      -1-
+                                       
+
+
+
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the
+                  probability of serious adverse health consequences is
+                  remote.
+
+
+Product:          Minute Maid brand Lemonade, in 16 fluid ounce cartons,
+                  24 cartons per case.  Recall #F-189-2.
+Code:             FEB22A, FEB26A, FEB24T, MAR09A, MAR18A, MAR18T.
+Manufacturer:     Coca-Cola Foods, Anaheim, California, and Paw Paw,
+                  Michigan.
+Recalled by:      Coca-Cola Foods, Division of Coca-Cola Company,
+                  Houston, Texas, by telephone February 10, 1991, followed
+                  by visit.  Firm-initiated recall complete.
+Distribution:     California, Illinois, Oregon, Utah, Washington state,
+                  Wisconsin.
+Quantity:         485 cases (24 cartons per case were distributed; firm
+                  estimates none remains on the market.
+Reason:           Product contained sugar although the label claimed,
+                  "no preservatives or sugar added."
+
+                                     ----
+
+Product:          Orange Julius Compound in 2 pound bags, shipped in
+                  cases holding about 46 pounds per case.
+                  Recall #F-191-2.
+Code:             Lot numbers:  75090411168, 75100711173.
+Manufacturer:     Continental Colloids, Dixon, Illinois.
+Recalled by:      Orange Julius of America, Minneapolis, Minnesota, by
+                  telephone February 5, 1992 and by letter February 26,
+                  1992.  Firm-initiated recall complete.
+Distribution:     Nationwide.
+Quantity:         199 cases (23 bags per case) were distributed.
+Reason:           Product was contaminated with salmonella.
+
+                                     ----
+
+Product:          Shrimp Scampi and Vegetables with Linguini in
+                  Garlic-Herb Sauce.  Recall #F-197-2.
+Code:             All lots.
+Manufacturer:     Kraft General Foods, Inc., Glenview, Illinois.
+Recalled by:      Manufacturer, by electronic mail March 6, 1992.
+                  Firm-initiated recall ongoing.
+Distribution:     Colorado, Utah, Montana, Washington state, California,
+                  Arizona, Oregon, Hawaii, Wyoming, South Dakota, Idaho,
+                  Nevada.
+Quantity:         50,227 cases (12 bags per case) were distributed.
+Reason:           Product contains small pieces of plastic.
+
+                                     ----
+
+                                      -2-
+
+
+
+
+                  Class III - A situation in which the use of, or exposure
+                  to a violative product is not likely to cause adverse
+                  health consequences.
+
+
+Product:          Bayou Cajun Country brand:
+                  (a) Hot Sweet Cajun Pickles, 8 ounces;
+                  (b) Spicy Sweet Cajun Pickles, 16 ounces;
+                  (c) Spicy Sweet Cajun Relish, 8 ounces;
+                  (d) Spicy Sweet Jalapeno Relish, 8 ounces.
+                  Recall #F-175/178-2.
+Code:             None.
+Manufacturer:     Bayou Cajun Country, Inc., Monroe, Louisiana.
+Recalled by:      Manufacturer, by by letter January 29, 1992.
+                  Firm-initiated recall ongoing.
+Distribution:     Louisiana, California, Texas, Michigan.
+Quantity:         (a) 38 12-unit cases; (b) 113 12-unit cases;
+                  (c) 86 12-unit cases; (d) 21 12-unit cases were distributed.
+Reason:           Metal screw top lids are swelling.
+
+                                     ----
+
+Product:          Marzetti brand Fat-Free Ranch Dressing in 8 ounce glass
+                  bottles.  Recall #F-190-2.
+Code:             Lot numbers 9/19/92, 9/25/92, 10/04/92, 10/08/92, 10/10/92.
+Manufacturer:     Pfeiffer Foods, Inc., Wilson, New York.
+Recalled by:      T. Marzetti Company, Columbus, Ohio, by letter
+                  January 10, 1992.  Firm-initiated recall ongoing.
+Distribution:     Michigan, Wisconsin, Ohio, New York, Missouri, Indiana, Iowa.
+Quantity:         4,092 cases (12 bottles per case) were distributed; firm
+                  estimates less than 205 cases remain on the market.
+Reason:           Product is contaminated with Lactobacillus bacteria.
+
+                                     ----
+
+Product:          Hi-C Grape Drink, in 8.45 fluid ounce tetra brik packages.
+                  Recall #F-192-2.
+Code:             Lot numbers:  NOV2792SJ and NOV2792SI (package);
+                  NOV2792SXX (case).
+Manufacturer:     Whitlock Packaging Company, Ft. Gibson, Oklahoma.
+Recalled by:      Coca-Cola Foods, Division of The Coca-Cola Company,
+                  Houston, Texas, by visit January 10, 1992.  Firm-
+                  initiated recall complete.
+Distribution:     Oklahoma, Texas.
+Quantity:         1,552 cases (27 packages per case) were distributed;
+                  firm estimates none remains on the market.
+Reason:           Product was contaminated with yeast.
+
+                                     ----
+
+                                      -3-
+
+
+
+
+Product:          Various baking foods items:
+                  (a) H & K Wholewheat Bran Base, in 50 pound bags;
+                  (b) Deluxe Dinner Roll Base, in 50 pound boxes;
+                  (c) Wenner Soft Bun Base, in 50 pound boxes.
+                  Recall #F-193/195-2.
+Code:             Lot numbers: (a) 2 101190, 2 120490;
+                  (b) 1 82490, 2 82490, 3 82490, 1 41591, 2 41591;
+                  (c) 1 51391, 162591, 2 62591, 1 62691, 3 71691,
+                  2 72391, 3 72391, 1 72491, 2 72491, 3 72491, 4 72491,
+                  5 72491, 6 72491, 1 72591, 2 72591.
+Manufacturer:     Puratos Corporation, Cherry Hill, New Jersey.
+Recalled by:      Manufacturer, by letter December 20, 1991.  Firm-
+                  initiated recall ongoing.
+Distribution:     (a) Massachusetts; (b) Florida, Illinois, Michigan,
+                  Ohio, Oklahoma, Pennsylvania, Wisconsin, Puerto Rico.
+                  (c) New York.
+Quantity:         (a) 80 bags; (b) 209 boxes; (c) 479 boxes were distributed.
+Reason:           Product contains undeclared saccharin.
+
+                                     ----
+
+                                   COSMETICS
+
+                                     NONE
+
+                           HUMAN DRUGS AND BIOLOGICS
+
+                  Class I -
+                                     NONE
+                  Class II -
+                                     NONE
+                  Class III -
+
+Product:          Oxygen USP in E and D size tanks.  Recall #D-277-2.
+Code:             All lots distributed in refillable tanks.
+Manufacturer:     Piedmont Medical Aids, Inc., Gaffney, South Carolina.
+Recalled by:      Manufacturer, by visit on or about March 5, 1992.
+                  Firm-initiated recall complete.
+Distribution:     South Carolina.
+Quantity:         Approximately 21 tanks were distributed.
+Reason:           Current good manufacturing practice deficiencies.
+
+                                     ----
+
+Product:          Calamine Lotion, in 4 and 8 ounce bottles, an OTC
+                  topical drug.  Recall #D-278-2.
+Code:             All lots in date.
+Manufacturer:     Barre-National, Inc., Baltimore, Maryland.
+Recalled by:      Manufacturer, by letter January 30, 1992.  Firm-initiated
+                  recall ongoing.
+Distribution:     Nationwide, Bahamas, Guam.
+
+                                      -4-
+
+
+
+
+Quantity:         494,798 units were distributed; firm estimates 9,364
+                  units remain on the market.
+Reason:           Product does not meet stability specifications.
+
+                                     ----
+
+Product:          Prometh with Codeine, in 4 and 16 ounce bottles, a
+                  Rx drug indicated for the temporary relief of cough
+                  and upper respiratory symptoms associated with allergies
+                  or the common cold.  Recall #D-279-2.
+Code:             Lot #03659 EXP 06/92.
+Manufacturer:     Barre-National, Inc., Baltimore, Maryland.
+Recalled by:      Manufacturer, by letter January 30, 1992.  Firm-initiated
+                  recall ongoing.
+Distribution:     Nationwide.
+Quantity:         128,861 units were distributed; firm estimates 24 units
+                  remain on the market.
+Reason:           Subpotency of promethazine ingredient.
+
+                                     ----
+
+Product:          Benztropine Mesylate Tablets, 0.5 mg, repacked into
+                  unit dose containers.  Recall #D-280-2.
+Code:             Lot numbers:  2547-018 9/92, 2547-019 10/92, 2547-020 10/92.
+Manufacturer:     Sidmak Laboratories, Inc., East Hanover, New Jersey.
+Recalled by:      Vangard Labs, Inc., Glasgow, Kentucky (repacker).
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         Firm estimates 6,800 tablets remain on the market.
+Reason:           Product does not meet USP content uniformity
+                  specifications.
+
+                                     ----
+
+                       DEVICES AND RADIOLOGICAL PRODUCTS
+
+                  Mandatory Recall -
+
+Product:          Century SAF-Lift, Model SL-10, Pin-Slot and Bar-Hook
+                  Styles, used with the Century SAF-KARY Wheelchair as a
+                  part of the Century Whirlpool Bathing System.
+                  Recall #Z-316-2.
+Code:             All product manufactured prior to March 1990.
+Manufacturer:     Malmros Holding, Inc., Morton Grove, Illinois.
+                  (Century Manufacturing Company, Aurora, Nebraska).
+Recalled by:      Manufacturer, by telephone beginning February 12, 1991
+                  followed by letter beginning February 13, 1991.
+                  FDA-ordered recall ongoing.
+Distribution:     Nationwide and international.
+Quantity:         Approximately 28,500 units were distributed.
+
+                                      -5-
+
+
+
+
+Reason:           Mandatory 518(e) recall.  There has been a high failure
+                  rate where the SAF-KARY or SAF-LIFT chair may separate
+                  unexpectedly from the SAF-LIFT during transfer of the
+                  patient either in or out of the whirlpool bathing system.
+
+                                     ----
+
+                  Class I -
+                                     NONE
+
+                  Class II -
+
+Product:          Concha Column, a disposable cartridge used in a heated
+                  humidifier:
+                  (a) Standard Concha-Column, Model numbers 382-70, 382-60,
+                  385-70, 385-60;
+                  (b) Low Compliance Concha-Column, Model numbers 382-20,
+                  382-30, 385-20, 385-30.  Recall #Z-394/395-2.
+Code:             Model No.      Lot Nos.
+                  382-60     B25160, B26160, B27160, B28160, C01160,
+                             C04160, C05160, C06160, C07160, C08160, C20120
+                  382-70     B06170, B22170, L26070, M11070, A02170, A21170
+                             B07170, C11170, L27070, M12070, A03170, A22170
+                             B08170, C12170, L28070, M13070, A04170, A23170
+                             B09170, C13170, L29070, M14070, A07170, A24170
+                             B11170, C14170, L30070, M15070, A08170, A25170
+                             B12170, C15170, M01070, M17070, A09170, A28170
+                             B13170, C18170, M03070, M18070, A10170, A29170
+                             B14170, C19170, M04070, M19070, A11170, A30170
+                             B15170, C20170, M05070, M20070, A14170, A31170
+                             B18170, C21170, M06070, M21070, A15170, B01170
+                             B19170, C22170, M07070, M26070, A16170, B02170
+                             B20170, C25170, M08070, M27070, A17170, B04170
+                             B21170, C26170, M10070, M28070, A18170, B05170
+                  382-30     A02130, A11130, B12130, B27130, C11130, M10030
+                             A03130, A14130, B13130, C01130, C12130, M11030
+                             A04130, A15130, B14130, C04130, C13130, M12030
+                             A07130, A16130, B15130, C05130, C14130, M13030
+                             A08130, A17130, B25130, C06130, C15130, M14030
+                             A09130, A18130, B26130, C07130, C25130, M17030
+                             A10130, B11130, B27130, C08130, C26130, M18030
+                             M19030, M20030, M21030
+                  382-20     A21120, A22120, A23120, A24120, A25120, A28120
+                             A29120, A30120, A31120, B01120, B02120, B04120
+                             B04120, B05120, B06120, B07120, B08120, B18120
+                             B19120, B20120, B21120, B22120, C18120, C19120
+                             C20120, C21120, C22120, L02020, L03020, L05020
+                             L05020, L06020, L07020, L08020, L09020, L12020
+                             L13020, L14020, L15020, L16020, L19020, L20020
+                             L21020, L26020, L27020, L28020, L29020, L30020
+                             M03020, M04020, M05020, M06020, M07020
+
+                                      -6-
+
+
+                  385-70     010291A, 010691A, 010791A, 011091A, 011391A
+                             011491A, 012191A, 012291A, 013191A, 022191A
+                             022291A, 022891A, 030191A, 030591A, 030691A
+                             030891A, 031291A, 031991A, 032091A, 032691A,
+                             040291A, 040891A, 040991A, C0690A, C1490A,
+                             C1690A, C1790A, C2190A
+                  385-60     040391A
+                  395-30     010391A, 010791A, 011091A, 011591A, 011691A,
+                             012391A, 012491A, 013091A, 022291A, 030191A,
+                             030691A, 031391A, 032091A, 032691A, 032791A,
+                             040591A, 040991A, C1890A
+                  385-20     011091A, 011691A, 012491A, 012591A, 013191A,
+                             020191A, 020491A, 020891A, 022291A, 030691A,
+                             031491A, 032091A, 032191A, 032791A, 040391A,
+                             040491A, 041091A, 041691A, B0890A, B1090A,
+                             B1390A, B1490A, B2590A, C1290A, C1390A.
+Manufacturer:     Hudson Respiratory Care, Inc., Arlington Heights, Illinois.
+Recalled by:      Hudson Respiratory Care, Inc., Temecula, California, by
+                  letter April 26, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         236,658 units were distributed.
+Reason:           The column may separate at the junction between the top
+                  cap and the aluminum canister causing a potential for
+                  gas leakage.
+                                     ----
+
+Product:          Laser products used in lumber mills:
+                  (a) Edger Optimizer; (b) Trimmer Optimizer;
+                  (c) Shop Trimmer Optimizer; (d) Shop Edger Optimizer;
+                  (e) Laser Green Trimmer Optimizer;
+                  (f) Laser Green Edger Optimizer.  Recall #Z-377/382-2.
+Code:             Serial numbers: N/A.
+Manufacturer:     Newness Automation, Inc., British Columbia, Canada
+                  (Newness Automation, Inc. (USA), Columbus, Ohio.
+Recalled by:      Manufacturer.  FDA approved the firm's corrective
+                  action plan February 19, 1992.  Firm-initiated field
+                  correction ongoing.
+Distribution:     California, Oregon, South Carolina, Washington state.
+Quantity:         13 units.
+Reason:           Noncompliance with the performance standard for laser
+                  products in that they lacked a remote interlock connector,
+                  beam attenuator, correct warning logotype label and
+                  aperture label, and complete user instructions.
+
+                                     ----
+
+Product:          Ambidextrous Latex Examination Gloves, small, medium,
+                  and large.  Recall #Z-419-2.
+Code:             None.
+Manufacturer:     Ansell, Inc., Tucson, Arizona.
+Recalled by:      Great Western Dental & Medical Supply, Tucson, Arizona,
+                  by letter August 1, 1991.  Firm-initiated recall ongoing.
+Distribution:     Arizona, New Mexico, California, Nevada, Texas.
+
+                                      -7-
+
+
+Quantity:         Approximately 1.2 million gloves were distributed.
+Reason:           The device failed the FDA leak test.
+
+                                     ----
+
+Product:          Intersept Custom Tubing Pack, sterile, nonpyrogenic.
+                  Recall #Z-420-2.
+Code:             Catalog No.       Lot No          Catalog No.      Lot No.
+                  2730 - 3          b1280           5006 - 2         b1289
+                  2886              c1118           5990 - 4         b1153
+                  5990 - 4          c1145           2017             c1023
+                  5030 -1           c1344           2445 - 2         m0179
+                  1149              c1149           1775 - 16        a1250
+                  1775 - 16         b1250           1925 - 12        b1138
+                  2773 - 3          m0009           2062 - 4         b1260
+                  2452 - 5          c1148           2874 - 2         b1315
+                  1842 - 10         c1079           2062 - 4         c1092.
+Manufacturer:     Medtronic Cardiopulmonary Division, Anaheim, California.
+Recalled by:      Manufacturer, by letter April 19, 1991 to sales force.
+                  Firm-initiated recall ongoing.
+Distribution:     California, Minnesota, Nebraska, New York, Pennsylvania,
+                  Ohio, Missouri.
+Quantity:         426 units.
+Reason:           The sterility of the device may be compromised due to
+                  defective pouch seal.
+
+                                     ----
+
+Product:          Micro-Swab Strep, 10 and 30 tests per kit, for group A
+                  strep detection.  Recall #Z-421-2.
+Code:             Catalog #MS10 (10 patient), Catalog #MS30 (30 patient),
+                  Lot #091192.
+Manufacturer:     Kubny Engineering Inc., Berkeley, California.
+Recalled by:      Dutton Company, Sudbury, Massachusetts, by letter dated
+                  January 10, 1992.  Firm-initiated recall ongoing.
+Distribution:     California, Massachusetts.
+Quantity:         284 kits were distributed.
+Reason:           The device has been marketed without an approved
+                  Premarket Approval Application (PMA).
+
+                                     ----
+
+Product:          Shiley cuffed size 6 disposable cannula tracheostomy
+                  tubes:  (a) 6 DCT, Disposable Cannula Low Pressure
+                  Cuffed Tracheostomy Tube;
+                  (b) 6 DFEN, Disposable Cannula Fenestrated Low Pressure
+                  Cuffed Tracheostomy Tube;
+                  (c) 6 DPRV, Disposable Cannula Low Pressure Cuffed with
+                  Pressure Relief Valve Tracheostomy Tube.
+                  Recall #Z-428/430-2.
+Code:             Lot numbers:  (a) 9100468900, 9100482600, 9100504800,
+                  9100535600, 9100574700, 9100574800, 9100598900,
+                  9100627200, 9100627300, 9100640600, 9100648400,
+
+                                      -8-
+
+
+                  9100648500, 9100671900, 9100681800, 9100761300,
+                  9100131800, 9100106100, 9100158800, 9100158900,
+                  9100188500, 9100195500, 9100266200, 9100306100,
+                  9100373100, 9100373200, 9100359200
+                  (b) 9100477300, 9100533800, 9100597200, 9100625700,
+                  9100670800, 9100760000, 9100153000, 9100306500,
+                  9100360300
+                  (c) 9100513000, 9100604600, 9100675900, 9100744800,
+                  9100138300, 9100348000, 9100396000, 9100470900.
+Manufacturer:     Shiley, Inc., Irvine, California.
+Recalled by:      Manufacturer, by letters of  September 23 and 30, 1991.
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide, Australia, Canada, Japan, The Netherlands.
+Quantity:         26,089 units were distributed.
+Reason:           The tubes may have a significant distortion of the
+                  cannulae.  The distortion is typically a bend to the
+                  patient's right, which could cause increased pressure
+                  on the wall of the trachea, with the potential for
+                  tracheal stenosis and erosion of the innominate artery.
+
+                                     ----
+
+Product:          ECG Lead Wire, Part #9235 to be used in conjunction with
+                  the firm's "Omni-Trak" 3100 MRI Vital Signs Monitoring
+                  System.  Recall #Z-434-2.
+Code:             Part #9235.
+Manufacturer:     Invivo Research, Inc., Winter Park, Florida.
+Recalled by:      Manufacturer, by visit from sales representatives
+                  beginning October 1990 followed by mailing of corrective
+                  action package beginning January 31, 1991.  Firm-initiated
+                  field correction ongoing.
+Distribution:     Pennsylvania, Texas, Massachusetts, Ohio, Illinois,
+                  Michigan, Mississippi, Maine, Minnesota, Vermont, Georgia,
+                  Hawaii, Arizona, Missouri, Colorado, Washington, D.C.
+Quantity:         25 units. were distributed.
+Reason:           The firm received reports that patients sustained first,
+                  second and third degree burns when undergoing magnetic
+                  resonance imaging.
+
+                                     ----
+                  Class III -
+
+Product:          Viral Transport Tissue Culture Based Medium, intended
+                  to stabilize virus during transport to the laboratory
+                  while controlling mycotic and bacterial overgrowth.
+                  Recall #Z-435-2.
+Code:             Lot numbers:  1331 EXP 5/20/89, 1332 5/27/89.
+Manufacturer:     Baxter Diagnostics, Inc., Bartels Diagnostic Division,
+                  Issaquah, Washington.
+Recalled by:      Manufacturer, by letter dated November 6, 1989 and sent
+                  December 6, 1989.  Firm-initiated recall complete.
+Distribution:     California, Wyoming, Texas, Massachusetts, Michigan,
+                  Arizona, Ohio.
+
+                                      -9-
+
+
+
+
+Quantity:         2,518 units were distributed; firm estimates none
+                  remains on the market.
+Reason:           The device was shipped with the wrong expiration date
+                  on the product.
+
+                                     ----
+
+Product:          Bartels Transporter Viral Transport Medium, for
+                  in-vitro diagnostic use.  Recall #Z-436-2.
+Code:             Catalog #B1029-34, lot #1375.
+Manufacturer:     Baxter Diagnostics, Inc., Bartels Diagnostic Division,
+                  Issaquah, Washington.
+Recalled by:      Manufacturer, by telephone during October 1990.
+                  Firm-initiated recall complete.
+Distribution:     Nationwide.
+Quantity:         1,022 units were distributed; firm estimates none
+                  remains on the market.
+Reason:           Some transporters were contaminated with fungus.
+                  Contamination was found in retention sample of media
+                  used to re-feed the transporters.
+
+                                     ----
+
+Product:          Clostridium Difficile Cytotoxicity Assay Kit,
+                  #Catalog #B1029-70, used for qualitative detection of
+                  Clostridium difficile toxins in patient samples by means of
+                  cytotoxicity assay.  The Toxi-Titer Diluent is the component
+                  of this kit that is being recalled.  Recall #Z-437-2.
+Code:             Catalog #B1029-70B (component).
+Manufacturer:     Baxter Diagnostics Inc./Bartels Diagnostics Division,
+                  Issaquah, Washington.
+Recalled by:      Manufacturer, by telephone during the week of October 14,
+                  1991, and by letter October 28, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Nationwide.
+Quantity:         314 bottles were distributed.
+Reason:           Product is contaminated with bacteria.
+
+                                     ----
+
+Product:          Anti-Influenza A Antibody used in the Viral
+                  Respiratory Kit (VRK), used to detect virus strains.
+                  Recall #Z-438-2.
+Code:             Catalog #B1029-87B, lot #1023.  The antibody was used in
+                  VRK lot number 1086, 1087, 1088, 1089, 1090, 1091, 1092.
+Manufacturer:     Baxter Diagnostics, Inc., Bartels Diagnostics Division,
+                  Issaquah, Washington.
+Recalled by:      Manufacturer, by letter November 26, 1990.  Firm-initiated
+                  recall complete.
+Distribution:     Nationwide and international.
+Quantity:         99 kits were distributed.
+
+                                     -10-
+
+
+
+
+Reason:           Some cross-staining occurred in the Influenza B well of the
+                  Antigen control slide for the VRK which was stained with
+                  Anti-Influenza A antibody lot #1023.
+
+                                     ----
+
+Product:          McCoy Culture Cells MC-L, Catalog #B1029-9, Mouse
+                  carcinoma, light density, used to enhance bacterial/
+                  viral growth for detection purposes.  Recall #Z-439-2.
+Code:             Lot #1547 split JL/D.
+Manufacturer:     Baxter Diagnostics Inc., Bartels Diagnostics Division,
+                  Issaquah, Washington.
+Recalled by:      Manufacturer, by telephone October 15, 1991.  Firm-
+                  initiated recall complete.
+Distribution:     Nationwide.
+Quantity:         592 units were distributed; firm estimates none remains
+                  on the market.
+Reason:           Product is contaminated.
+
+                                     ----
+
+Product:          McCoy Culture Cells MC-L, Catalog #B1029-9, Mouse
+                  Carcinoma, Light Density, used to enhance bacterial/
+                  viral growth for detection purposes.  Recall #Z-440-2.
+Code:             Lot #1470 Split TAC.
+Manufacturer:     Baxter Diagnostics Inc., Bartels Diagnostics Division,
+                  Issaquah, Washington.
+Recalled by:      Manufacturer, by telephone April 25, 1990.  Firm-
+                  initiated recall complete.
+Distribution:     Nationwide.
+Quantity:         388 units were distributed; firm estimates none
+                  remains on the market.
+Reason:           Bacterial/yeast contamination was detected in product.
+
+                                     ----
+
+Product:          Bartels McCoy Culture Cells MC Mouse Carcinoma, used
+                  to enhance virus/bacteria growth for detection
+                  purposes.  Recall #Z-441-2.
+Code:             Catalog numbers B1029-8 or B1029-9, lot #1435.
+Manufacturer:     Baxter Diagnostics Inc., Bartels Diagnostics Division,
+                  Issaquah, Washington.
+Recalled by:      Manufacturer, by letter August 23, 1989.  Firm-
+                  initiated recall complete.
+Distribution:     Nationwide.
+Quantity:         4,614 vials were distributed; firm estimates none
+                  remains on the market.
+Reason:           Cell contamination.
+
+                                     ----
+
+                                     -11-
+
+
+
+
+Product:          McCoy Vials, used to enhance bacteria/virus growth
+                  for detection purposes.  Recall #Z-442-2.
+Code:             Catalog #B1029-8, lot #1433.
+Manufacturer:     Baxter Diagnostics Inc., Bartels Diagnostics Division,
+                  Issaquah, Washington.
+Recalled by:      Manufacturer, by telephone during August 1989.
+                  Firm-initiated recall complete
+Distribution:     Nationwide.
+Quantity:         647 units were distributed;  firm estimates none
+                  remains on the market.
+Reason:           Yeast/bacterial contamination.
+
+                                     ----
+
+Product:          Human Foreskin (HF) Vials, used to enhance virus/bacteria
+                  growth for detection purpose.  Recall #Z-443-2.
+Code:             Catalog #B1029-2, lot #1546.
+Manufacturer:     Baxter Diagnostics Inc., Bartels Diagnostics Division,
+                  Issaquah, Washington.
+Recalled by:      Manufacturer, by telephone during August 1990.
+                  Firm-initiated recall complete.
+Distribution:     Nationwide.
+Quantity:         256 vials were distributed; firm estimates none
+                  remains on the market.
+Reason:           Firm discovered a double population cell type in QA
+                  retentions of HF vials split AAA.
+
+                                     ----
+
+Product:          MRC-5 Vials containing tissue culture cells.
+                  Recall #Z-444-2.
+Code:             Catalog #1029-16B, lot #1354.
+Manufacturer:     Baxter Diagnostics Inc., Bartels Diagnostics Division,
+                  Issaquah, Washington.
+Recalled by:      Manufacturer, by telephone during February 1990.
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         423 vials were distributed.
+Reason:           Bacterial contamination.
+
+                                     ----
+
+Product:          A549 Lung Carcinoma Cells, used to enhance the growth
+                  of viruses for detection purposes.  Recall #Z-445-2.
+Code:             Catalog #B1029-73, lot #1216.
+Manufacturer:     Baxter Diagnostics Inc., Bartels Diagnostics Division,
+                  Issaquah, Washington.
+Recalled by:      Manufacturer, by letter March 8, 1991.  Firm-initiated
+                  recall complete.
+Distribution:     Nationwide.
+Quantity:         2,260 tubes were distributed; firm estimates none remains
+                  on the market.
+
+                                     -12-
+Reason:           Bacterial contamination.
+
+                                     ----
+
+Product:          Quinton Quick-Prep Electrode, Part #11408-005,
+                  Size 2, used for obtaining ECG recordings during stress
+                  testing.  Recall #Z-504-2.
+Code:             Lot #060591N1.
+Manufacturer:     Quinton Instrument Company, Seattle, Washington.
+Recalled by:      Manufacturer, by telephone August 28, 1991, followed by
+                  letter August 30, 1991.  Firm-initiated recall ongoing.
+Distribution:     New Jersey, Florida, California, North Carolina, Arizona,
+                  Alabama.
+Quantity:         6,150 electrodes were distributed.
+Reason:           Five percent of the product could exhibit a greater
+                  impedance than manufacturing requirements allow.
+                  High impedance causes unstable traces on the ECG
+                  monitor.
+                                     ----
+
+                              VETERINARY PRODUCTS
+
+                  Class I -
+                                     NONE
+                  Class II -
+
+Product:          Monarch Division Protek Teat Dip Germicidal Pre and Post
+                  Milking Teat Dip in 1 gallon and 15 gallon containers;
+                  Bou-Matic Super Dip Germicidial Full Strength Teat Dip, in
+                  1 gallon and 15 gallon containers.  Recall #V-025-2.
+Code:             Batch code 01025.
+Manufacturer:     H.B. Fuller Company, Monarch Division, Minneapolis,
+                  Minnesota.
+Recalled by:      Manufacturer, by telephone February 28, 1992 and
+                  March 2, 1992, followed by letter March 6, 1992.
+                  Firm-initiated recall ongoing.
+Distribution:     Illinois, Iowa, Kansas, Maryland, Michigan, Minnesota,
+                  Wisconsin, North Dakota, South Dakota.
+Quantity:         1,320 1-gallon and 20 15-gallon containers were distributed.
+Reason:           Product is contaminated with bacteria.
+
+                                     ----
+
+                  Class III -
+
+Product:          Oxytetracycline Type A medicated articles, for use in
+                  poultry for the prevention of early mortality due to
+                  organisms susceptible to Oxytetracycline, for use in
+                  swine as an aid in the maintenance of weight gains and
+                  feed consumption in the presence of atrophic rhinitis; and
+                  for use in cattle for prevention and treatment of early
+                  stages of shipping fever complex:
+
+                                     -13-
+                  (a) OXTC 100, Oxytetracycline 22%;
+                  (b) OXTC 50, Oxytetracycline 11%;
+                  (c) DURVET OXTC 50, Oxytetracycline 11%.  Recall #V-024-2.
+Code:             (a) 0C014H09-0C022H09, 0C037H09-0C078H09, 0C101H09-0C108H09
+                  0C133H09-0C141H09, 0C092H09-0C197H09, 0C241H09-0C245H09
+                  0C001H19-0C008H19, 0C032H19-0C088H19
+                  (b) 0L023H09-0L032H09, C-0L021H09-C-0L032H09
+                  (c) C-0L001H19-C-0L016G19, C-0L021H09-C-0L032H09.
+Manufacturer:     Smithkline Beecham Animal Health, Omaha, Nebraska.
+Recalled by:      Manufacturer, by telephone and by letter February 24, 1992.
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         (a) 14,608 bags; (b) 1,311 bags; (c) 3,268 bags were
+                  distributed.
+Reason:           Bulk oxytetracycline used in manufacture of Type A
+                  medicated article was from an unapproved manufacturing
+                  source.
+
+                                     ----
+
+Medical Device Safety Alerts:
+
+Product:          Specific IVAC Check Valve IV Solution Administration
+                  Sets.  Safety Alert #M-035-2.
+Code:             Lot numbers:  C20087, C20806, C20809, C20812, C20829,
+                  C20830, C50025, C50043, C50046, C50051, C50052, C50058,
+                  C50064, C50066, C50068, C50084, C50089, C50094, C50115,
+                  C50860, C59040, C59090, C70016, C80008, C80009, C80042,
+                  C80043, C80047, C80048, 52043, 52343, 82043.
+Manufacturer:     IVAC Corporation, San Diego, California.
+Alerted by:       Manufacturer, by letter April 11, 1991.
+Distribution:     Nationwide.
+Quantity:         721,237 sets were distributed.
+Reason:           During the application of a secondary medication or
+                  fluid, when using an IVAC set containing a check valve
+                  in the y-site, the primary line may also flow, which
+                  could result in overinfusion.
+
+                                     ----
+
+Product:          Bird Volume Ventilators, electrically powered microprocessor
+                  controlled, volume cycled, pressure limited critical care
+                  ventilator designed for both adult and pediatric
+                  application:  (a) Model #8400ST; (b) Model 84ST.
+                  Safety Alert #M-036/037-2.
+Code:             All serially numbered units.
+Manufacturer:     Bird Products Corporation, Palm Springs, California.
+Alerted by:       Manufacturer, by letter January 14, 1991.
+Distribution:     Nationwide and international.
+Quantity:         (a) 3,155 units; (b) 676 units were distributed.
+Reason:           The flow control valve may stick in the closed position
+                  which prevents flow of breathing gases to the patient.
+
+                                     ----
+
+                                     -14-
+
+
+
+
+Product:          O.R. SARAcap with the Plus Option, a respiratory monitor
+                  and capnograph, designed for use during surgery and general
+                  anesthesia to monitor airway
+                  levels of carbon dioxide, oxygen, and nitrous oxide.
+                  Safety Alert #M-038-2.
+Code:             All serial numbers.
+Manufacturer:     PPG Industries, Inc., Biomedical Systems Division,
+                  Lenexa, Kansas.
+Alerted by:       Manufacturer, by letter November 26, 1991.
+Distribution:     Nationwide and international.
+Quantity:         4,000 units were distributed.
+Reason:           The performance of the device may be disrupted by
+                  electromagnetic interference (EMI) from electrosurgery
+                  units (ESUs).
+
+                                     ----
+Seizure Actions Filed:
+
+Product:          Sterile Gauze Sponges and Catheter Trays (91-610-936).
+Charge:           Adulterated - Products were held under insanitary conditions
+                  whereby they may have been rendered injurious to health
+                  because of the presence of orthodichlorobenzene, a potent
+                  chemical irritant.
+Firm:             Super Cartage, Chicago, Illinois.
+Filed:            March 6, 1992 - U.S. District Court for the Northern
+                  District of Illinois; Civil #92 C 1651, FDC #66367.
+Seized:           March 10, 1992 - goods valued at $90,000.
+
+                                     ----
+
+Mass Seizure:
+
+Product:          Various Foods (91-614-402).
+Charge:           Adulterated - Products consist in part of a filthy substance
+                  in that they have been held under insanitary conditions
+                  whereby they may have become contaminated with filth.
+Firm:             Westlake Noodle Company of Houston, Houston, Texas.
+Filed:            May 29, 1991 - U.S. District Court for the Southern
+                  District of Texas; Houston Division; Civil #H-91-1505,
+                  FDC #66168.
+Seized:           June 10, 1991; 10,000 pounds, valued at $29,000.
+Disposition:      February 24, 1992 - Reconditioned seized goods, and
+                  goods valued at $1,900 were destroyed.
+
+
+                                     -15-
+
+                                     ###

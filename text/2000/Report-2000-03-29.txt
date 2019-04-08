@@ -1,0 +1,846 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  DEC
+		  Feb
+		
+		
+		
+		  
+		  19
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      32 captures
+	      19 Aug 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DO
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+
+ March 29, 2000                                     00-13
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+_______
+PRODUCT
+Cold Smoked Fish Products:  Sea Bass (Captain); Trout; Steelhead 
+(Siomga); Shad; Turbot; Assortment (Siomga, Captain, Trout); Assortment 
+(Captain, Salmon); Sturgeon;
+Salmon; Whitefish; Sable; Mackeral; Herring; Shad in Oil;
+Siomga in Oil; Assortment (Siomga, Turbot); 
+Assortment (Siomga, Sable, Shad, Turbot);
+Assortment (Siomga, Sable, Shad).  Recall #F-205/222-0.
+CODE
+All product on the market at the time of recall initiation.
+MANUFACTURER
+Royal Baltic, Ltd., Brooklyn, New York.
+RECALLED BY
+Manufacturer, by letter March 13, 2000.  
+FDA Requested recall ongoing.
+DISTRIBUTION
+Nationwide and Canada.
+QUANTITY
+Undetermined.
+REASON
+Products may be contaminated with Listeria monocytogenes.
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+________
+PRODUCT
+Northern brand Kippered Fish products:
+a) Kippered Fish (Halibut, Salmon, Black Cod), packed 4/10lb/case
+b) Kippered Salmon Snacks, packed 4/5 lb./case
+c) Kippered Salmon Tips, packed 4/10 lb./case
+d) Kippered Salmon Chunklets, packed 4/5 lb./case
+e) Kippered Salmon, packed 4/5 lb./case
+f) Kippered Halibut, packed 4/5 lb./case.
+Recall #F-199/204-0.
+CODE
+H029_, H039_, H059_, H099_, H109_, H119_, H139_, H169_, H189_,  H209_, 
+H219_, H239_, H249_, H259_, H269_, H279_, H309_, H319_, I019_, I029_, 
+I039_, I069_, I089_, I099_, I109_, I139_, I149_, I159_, I169_, I179_, 
+I209_, I229_, I239_, I249_, I279_, I289_, I299_, I309_, J019_, J049_, 
+J059_, J069_, J089_, J109_, J119_, J129_, J139_, J159_, J189_, J199_, 
+J209_, J219_, J229_, J259_, J269_, J279_, J289_, J299_, K019_, K029_, 
+K039_, K049_, K059_, K089_, K099_, K109_, K119_, K129_, K159_, K169_, 
+K179_, K189_, K199_, K229_, K249_, K299_, K309_, L019_, L029_, L039_, 
+L069_, L079_, L089_, L099_, L109_, L139_, L149_, L159_, L169_, L179_, 
+L229_, L219_, L209_, L239_, L279_, L299_, L309_, A030_, A050_, A060_, 
+A100_, A110_,  A130_, A140_, A170_, A200_, A240_, A270_, A280_, A310_, 
+B030_, B040_, B070_, B090_, B100_, B110_, B140_, B150_, B160_.
+MANUFACTURER
+Northern Fish Products, Inc., Tacoma, Washington.
+RECALLED BY
+Manufacturer, by telephone February 16-18, 2000, and by letter dated 
+February 18, 2000.  Firm-initiated recall complete.
+DISTRIBUTION
+Washington state, Oregon, California.
+QUANTITY
+12,186 pounds were distributed.
+REASON
+Products contain undeclared FD&C; Yellow No. 6 
+and FD&C; Red No. 3.
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+________
+PRODUCT
+Tuong Ot Sriracha Hot Chili Sauce, in 28-ounce plastic bottles.  Recall 
+#F-196-0.
+CODE
+All code numbers produced between March and July 1999.
+Recalled product identification - Look at the FOURTH position of the code 
+and if it is "M", "A", "W", "X", or "Y", it is being recalled.
+MANUFACTURER
+Huy Fong Foods, Inc., Rosemead, California.
+RECALLED BY
+Manufacturer, by letter on September 13, 1999, or by fax on September 14, 
+1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Arkansas, California, District of Columbia, Florida, Georgia, Hawaii, 
+Illinois, Massachusetts, Michigan, New Mexico, New York, Oklahoma, 
+Oregon, Pennsylvania, Texas, Washington state, Canada.
+QUANTITY
+Approximately 42,300 cases (12 bottles/case) were distributed.
+REASON
+The product is unfit for food.  Some bottles of product were swollen and 
+the product appeared fermented.
+________
+PRODUCT
+Onion flavored ring snacks in 3/4, 3-1/4, and 5-ounce plastic bags: a) 
+Onion Flavored Rings, under the following labels:  Weis Quality, 
+Keystone, Terell's, Trophy, Kitov, and DeMoulas; b) Onion Garlic Flavored 
+Rings, under the Matamin label.  Recall #F-197/198-0.
+CODE
+All expiration date codes (based on product's 90-day shelf life) with 
+"DEC" through "MAR" appearing on the front side of bag.
+MANUFACTURER
+Keystone Food Products, Inc., Easton, Pennsylvania.
+RECALLED BY
+Manufacturer, by letter dated December 15, 1999, followed by telephone 
+and visit.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Connecticut, Kentucky, Massachusetts, Maryland, Maine, New Jersey, New 
+York, Ohio, Pennsylvania, Rhode Island, Virginia, West Virginia, Canada.
+QUANTITY
+12,969 cases were distributed.
+REASON
+Products are unfit for food due to rancidity.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+_______
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Recovered Plasma.
+Recall #B-515/517-0.
+CODE
+Unit Numbers: a) 24LE65617, 24LY13367; b) 24LE65617;
+c) 24LE65617, 24LY13367.
+MANUFACTURER
+American Red Cross Blood Services, Louisville, Kentucky.
+RECALLED BY
+Manufacturer, by letters dated December 8, 1999, and January 7, 2000.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Kentucky, Indiana, California.
+QUANTITY
+a) 2 units; b) 1 unit; c) 2 units were distributed.
+REASON
+Blood products were collected from a donor with a history of having 
+tested positive for hepatitis.
+________
+PRODUCT
+a) Red Blood Cells; b) Cryoprecipitated AHF; 
+c) Recovered Plasma.  Recall #B-518/520-0.
+CODE
+Unit #21GC68111.
+MANUFACTURER
+American Red Cross, Portland, Oregon.
+RECALLED BY
+Manufacturer, by letters dated November 16, 1999, and December 23, 1999, 
+or by phone on November 9, 1999.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Oregon, California, Switzerland.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor with a 
+history of exposure to hepatitis.
+________
+PRODUCT
+Red Blood Cells, Leukocytes Removed.  Recall #B-524-0.
+CODE
+Unit #LH16695.
+MANUFACTURER
+Blood Centers of the Pacific, San Francisco, California.
+RECALLED BY
+Manufacturer, by letter dated May 1, 1998.  
+Firm-initiated recall complete.
+DISTRIBUTION
+California.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who reported travel to 
+an area designated as endemic for malaria.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets.  Recall B-526/527-0.
+CODE
+Unit Numbers:  a) 8503829, 1080968; b) 1080968.
+MANUFACTURER
+Community Blood Center, Dayton, Ohio.
+RECALLED BY
+Manufacturer, by letters dated October 14, 1999, 
+or November 5, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Ohio.
+QUANTITY
+a) 2 units; b) 1 unit.
+REASON
+Blood products were collected from a donor who reported 
+travel to an area designated as endemic for malaria.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+________
+PRODUCT
+Fenwall Sepacell PLS-10A Leukocyte Reduction Filter for Platelets.  
+Recall #B-497-0.
+CODE
+Lot Numbers: A99E13095, A99G22050, A99H11069.
+MANUFACTURER
+Baxter S.A., Fenwal Division, Parque Industrial Itabo, Zona Franca 
+Industrial de Haina, San Christobal, Republica Dominica.
+RECALLED BY
+Baxter Healthcare Corporation, Fenwal Division, Deerfield, Illinois, 
+by fax dated October 18, 1999, followed by telephone.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+4,284 units were distributed.
+REASON
+Filters used for leukocyte reduction of platelets were assembled 
+with the filter inverted.
+________
+PRODUCT
+Cryoprecipitated AHF.  Recall #B-521-0.
+CODE
+Unit #21KJ26375.
+MANUFACTURER
+American Red Cross, Portland, Oregon.
+RECALLED BY
+Manufacturer, by telephone on November 5, 1999, and letter dated 
+November 16, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+California.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was prepared from a unit of whole blood 
+with an extended collection time.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-522-0.
+CODE
+Unit #20FM09995.
+MANUFACTURER
+American Red Cross Blood Services, Missoula, Montana.
+RECALLED BY
+Manufacturer, by telephone on February 4, 1999.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Idaho.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was stored at unmonitored temperatures.
+________
+PRODUCT
+Olympus PK CMV-PA System Control Set.  Recall #B-547-0.
+CODE
+Lot 2022 EXP 7/00.
+MANUFACTURER
+Scimedx Corporation, Denville, New Jersey.
+RECALLED BY
+Manufacturer, by letter dated May 4, 1999.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Nationwide and Canada.
+QUANTITY
+66 kits were distributed.
+REASON
+Reagent test kit controls exhibit false positive results 
+when used with the Olympus PK CMV-PA Test Systems.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+________
+PRODUCT
+Literature for BioSorb FX 2.0/2.4 Bioabsorbable Fixation System.  
+Recall #Z-449-0.
+CODE
+Lot #1939.
+MANUFACTURER
+Bionx Implants Ltd., Tampere, Finland.
+RECALLED BY
+Bionx Implants, Inc., Blue Bell, Pennsylvania.  On September 20, 1999, 
+the recalling firm ceased further distribution of literature and any 
+copies remaining in sales representatives' stock were removed and any 
+copies remaining in distributors' stock will be returned.
+DISTRIBUTION
+Canada, Australia, Latin America.
+QUANTITY
+2,550 units were distributed.
+REASON
+Device is labeled for unintended use.  Firm's sales literature misbrands 
+the device for mandibular indications.
+________
+PRODUCT
+Implantable Cardiovascular Defibrillators, used to detect ventricular 
+arrhythmias and deliver therapy for the detected arrhythmia.  The devices 
+are designed to treat ventricular fibrillation, ventricular tachycardia, 
+and bradycardia: a) GEM II VR Single Chamber Implantable defibrillator, 
+Model No. 7229CX;
+b) GEM II DR Dual Chamber Implantable Cardiovascular Defibrillator, Model 
+No. 7273.  Recall #Z-452/453-0.
+CODE
+Serial Numbers:
+United States Distribution:
+Model 7229CX:  PJJ200000H, PJJ200001H, PJJ200002H, PJJ200021H, 
+PJJ200024H, PJJ200025H,PJJ200026H, PJJ200027H - PJJ200034H, PJJ200035H, 
+PJJ200036H, PJJ200037H, PJJ200039H and PJJ200040H. 
+Model 7273:  PJK200004H, PJK200005H, PJK200010H, JK200015H, PJK200071H - 
+PJK200078H, PJK200108H, PJK200110H, JK200115H, PJK200116H, PJK200119H, 
+PJK200121H, PJK200122H, PJK200124H - PJK200126H, PJK200138H, PJK200139H, 
+PJK200141H, PJK200144H, PJK200147H, PJK200152H, PJK200154H - JK200158H, 
+PJK200160H, PJK200161H, PJK200164H, PJK200167H, PJK200169H - PJK200172H, 
+PJK200178H, PJK200190H - PJK200201H, PJK200203H, PJK200206H, PJK200207H, 
+PJK200211H, PJK200212H, PJK200215H, PJK200217H, PJK200218H, PJK200220H, 
+PJK200221H, PJK200224H, PJK200229H, PJK200268H, PJK200272H, PJK200274H, 
+PJK200279H, PJK200283H - PJK200288H, PJK200294H, JK200296H, PJK200298H - 
+PJK200300H, PJK200302H, PJK200303H, JK200307H, PJK200309H, PJK200311H, 
+PJK200312H, PJK200315H, PJK200317H, PJK200319H, PJK200320H, PJK200323H, 
+PJK200324H, PJK200326H - PJK200328H, PJK200335H, PJK200336H, PJK200338H, 
+PJK200339H, PJK200341H, PJK200345H, PJK200348H, PJK200353H, PJK200354H - 
+PJK200356H, PJK200360H, PJK200364H, JK200369H, PJK200371H, PJK200372H, 
+PJK200381H - PJK200384H, JK200389H, PJK200391H, PJK200395H, PJK200398H, 
+PJK200407H, PJK200408H, PJK200412H, PJK200414H, PJK200415H, PJK200421H, 
+PJK200425H, PJK200427H, PJK200429H - PJK200433H, PJK200435H, JK200436H, 
+PJK200438H, PJK200440H, PJK200441H, PJK200443H, PJK200444H, PJK200450H, 
+PJK200451H, PJK200455H, PJK200458H - JK200461H, PJK200466H, PJK200469H - 
+PJK200482H, PJK200484H, PJK200486H - PJK200489H, PJK200491H, PJK200493H - 
+PJK200495H, PJK200497H, PJK200500H, PJK200502H - PJK200504H, JK200506H, 
+PJK200508H, PJK200509H, PJK200512H - PJK200514H, JK200516H, PJK200518H, 
+PJK200519H, PJK200521H, PJK200523H, PJK200524H, PJK200526H - PJK200537H, 
+PJK200540H - PJK200542H, JK200544H - PJK200547H, PJK200549H, PJK200551H, 
+PJK200555H, PJK200556H, PJK200558H, PJK200559H, PJK200565H - JK200568H, 
+PJK200571H, PJK200572H, PJK200574H, PJK200576H, PJK200577H, PJK200580H, 
+PJK200597H - PJK200599H, PJK200602H, JK200603H, PJK200609H, PJK200610H, 
+PJK200616H, PJK200617H, PJK200618H - PJK200623H, PJK200626H, PJK200628H, 
+JK200629H,PJK200630H, PJK200636H, PJK200656H - PJK200659H, PJK200660H - 
+JK200668H,  PJK200670H - PJK200678H, PJK200680H, PJK200682H - PJK200684H, 
+PJK200686H, PJK200688H - PJK200700H, PJK200702H, PJK200703H, PJK200705H - 
+PJK200710H PJK200712H, PJK200713H, PJK200715H, PJK200716H, PJK200718H, 
+PJK200721H, PJK200724H, PJK200726H - PJK200728H, PJK200730H, PJK200732H - 
+PJK200735H PJK200738H, PJK200741H, PJK200743H, PJK200745H - PJK200747H, 
+PJK200757H - PJK200765H, PJK200768H - PJK200774H, PJK200776H, PJK200777H, 
+PJK200779H - JK200781H, PJK200783H, PJK200784H, PJK200787H - PJK200789H, 
+PJK200791H -PJK200796H, PJK200805H, PJK200809H - PJK200817H, PJK200819H - 
+PJK200822H, PJK200826H, PJK200832H, PJK200840H - PJK200845H, PJK200847H - 
+PJK200849H, PJK200851H, PJK200852H, PJK200856H, PJK200860H, PJK200861H, 
+PJK200863H - PJK200869H, PJK200871H, PJK200872H, PJK200874H - PJK200880H, 
+PJK200883H, PJK200884H, PJK200886H, PJK200889H, PJK200891H - PJK200897H, 
+PJK200899H, PJK200900H - JK200907H, PJK200911H - PJK200913H, PJK200918H - 
+JK200920H, PJK200923H, PJK200925H, PJK200926H, PJK200928H - JK200932H, 
+PJK200937H, PJK200940H, PJK200942H, PJK200946H, PJK200948H, PJK200950H, 
+PJK200952H, PJK200954H, PJK200956H - JK200958H, PJK200960H, PJK200963H - 
+PJK200972H, PJK200974H - JK200977H, PJK200979H, PJK200981H - PJK200988H, 
+PJK200991H, PJK200992H, PJK200994H - PJK200999H, PJK201001H, JK201002H, 
+PJK201004H, PJK201005H, PJK201009H - PJK201015H, PJK201017H - PJK201019H, 
+PJK201021H, PJK201023H, PJK201025H, PJK201026H, PJK201029H, PJK201030H, 
+PJK201032H - JK201035H, PJK201037H, PJK201039H - PJK201041H, PJK201049H, 
+JK201050H, PJK201052H, PJK201056H - PJK201061H, PJK201064H, JK201066H, 
+PJK201071H - PJK201077H, PJK201080H, PJK201082H, PJK201084H - PJK201089H, 
+PJK201091H, PJK201103H, PJK201106H, PJK201108H, PJK201117H - PJK201119H, 
+PJK201121H,  JK201122H, PJK201124H - PJK201128H, PJK201130H - PJK201132H, 
+PJK201134H, PJK201135H, PJK201136H, PJK201142H - PJK201144H, PJK201146H, 
+PJK201147H - PJK201149H, PJK201158H, PJK201161H, PJK201162H, PJK201165H, 
+PJK201167H, PJK201168H, PJK201170H, PJK201174H, PJK201177H, PJK201180H, 
+PJK201182H, PJK201183H, PJK201184H, PJK201185H, PJK201187H, PJK201189H - 
+PJK201191H, PJK201194H - PJK201199H, PJK201202H, PJK201204H, PJK201205H, 
+PJK201207H, PJK201208H, PJK201209H, PJK201211H, PJK201212H, PJK201213H, 
+PJK201214H, PJK201215H, PJK201216H, PJK201217H, PJK201218H, PJK201219H, 
+PJK201222H - PJK201224H, PJK201247H, PJK201248H - PJK201252H, PJK201254H, 
+PJK201255H, PJK201259H, PJK201260H, PJK201262H - PJK201265H, PJK201268H, 
+PJK201269H, PJK201272H - PJK201274H, PJK201277H - PJK201284H, PJK201289H 
+- PJK201299H, PJK201301H - PJK201303H, PJK201305H, PJK201307H, 
+PJK201310H, PJK201312H, PJK201314H, PJK201316H, PJK201317H, PJK201320H, 
+PJK201322H - PJK201325H, PJK201329H - PJK201331H, PJK201333H, PJK201334H, 
+PJK201336H, PJK201338H - PJK201343H, PJK201345H, PJK201346H, PJK201350H - 
+PJK201355H, PJK201357H, PJK201360H - PJK201363H, PJK201365H, PJK201367H - 
+PJK201370H, PJK201372H - JK201375H, PJK201378H - PJK201380H, PJK201382H, 
+PJK201384H, PJK201386H, PJK201387H, PJK201389H - PJK201391H, JK201394H, 
+PJK201395H, PJK201398H - PJK201400H, PJK201408H, JK201409H, PJK201411H, 
+PJK201413H, PJK201414H, PJK201416H, PJK201419H, PJK201420H, PJK201422H, 
+PJK201423H, PJK201425H, PJK201426H, PJK201428H - PJK201431H, PJK201434H, 
+PJK201435H, PJK201437H, PJK201438H, PJK201443H - PJK201445H, PJK201448H - 
+PJK201450H, PJK201452H, PJK201453H, PJK201454H, PJK201456H, PJK201458H, 
+PJK201459H, PJK201463H - PJK201469H, PJK201472H, PJK201474H, PJK201475H, 
+PJK201480H, PJK201481H, PJK201494H, PJK201498H, PJK201499H, PJK201504H - 
+PJK201506H, PJK201507H - PJK201510H, PJK201512H, PJK201513H, PJK201515H, 
+PJK201517H, PJK201518H, PJK201521H - PJK201523H, PJK201525H - PJK201530H, 
+PJK201534H, PJK201535H, PJK201537H - PJK201542H, PJK201544H - JK201549H, 
+PJK201551H - PJK201554H, PJK201557H, PJK201559H, PJK201595H, PJK201597H, 
+PJK201601H, PJK201604H - PJK201607H, PJK201609H - PJK201614H, PJK201616H, 
+PJK201620H, PJK201630H - PJK201639H, PJK201641H, PJK201642H, PJK201647H, 
+PJK201648H, PJK201676H, PJK201677H, PJK201679H, PJK201680H, PJK201700H, 
+PJK201702H - PJK201704H, PJK201710H - PJK201714H, PJK201720H, PJK201722H 
+- PJK201725H, PJK201727H - PJK201729H, PJK201731H, PJK201734H - 
+PJK201736H, PJK201739H - PJK201742H, PJK201744H, PJK201745H, PJK201747H - 
+PJK201755H, PJK201757H - PJK201761H, PJK201763H, PJK201764H, PJK201769H, 
+PJK201770H, PJK201772H, PJK201774H, PJK201778H - PJK201780H, PJK201782H - 
+PJK201789H, PJK201791H - PJK201793H, PJK201796H - PJK201800H, PJK201802H, 
+PJK201809H, PJK201812H, PJK201813H,  PJK201817H, PJK201818H, PJK201822H, 
+PJK201823H, PJK201828H, PJK201829H, PJK201836H, PJK201839H, PJK201843H, 
+PJK201844H, PJK201849H - PJK201851H, PJK201853H - PJK201858H, PJK201861H, 
+PJK201864H - PJK201866H, PJK201869H - PJK201875H, PJK201877H, PJK201878H, 
+PJK201880H - PJK201882H, PJK201889H, PJK201891H, PJK201892H, PJK201894H - 
+PJK201897H, PJK201900H, PJK201901H, PJK201903H - PJK201906H, PJK201908H, 
+PJK201910H, PJK201911H, PJK201914H, PJK201915H, PJK201917H, PJK201919H, 
+PJK201921H, PJK201923H - PJK201926H, PJK201929H, PJK201930H, PJK201932H, 
+PJK201933H - PJK201942H, PJK201945H, PJK201946H, PJK201948H, PJK201949H, 
+PJK201951H, PJK201956H, PJK201960H, PJK201962H, PJK201964H, PJK201965H, 
+PJK202079H - PJK202081H, PJK202164H - PJK202167H, PJK202169H, PJK202171H, 
+PJK202172H, PJK202176H, PJK202177H, PJK202179H, PJK202181H, PJK202182H, 
+PJK202186H, PJK202187H, PJK202189H - PJK202193H, PJK202195H - PJK202197H, 
+PJK202199H, PJK202202H, PJK202203H - PJK202205H, PJK202208H, PJK200490H, 
+PJK200604H, PJK200615H, PJK200687H, PJK200890H, PJK200980H, PJK201022H, 
+PJK201053H, PJK201166H, PJK201246H, PJK201315H, PJK201366H, PJK201516H, 
+PJK201628H, PJK201718H, PJK201762H, PJK201773H, PJK201920H, PJK202194H, 
+PJK202754H, PJK203409H, PJK207051H, PJK207054H, PJK207056H - PJK207059H, 
+PJK207063H, PJK200112H, PJK200118H, PJK200123H, PJK200153H, PJK200209H, 
+PJK200280H, PJK200306H, PJK200410H, PJK200445H, PJK200485H, PJK200492H, 
+PJK200501H, PJK200515H, PJK200520H, PJK200548H, PJK200612H, PJK200701H, 
+PJK200711H, PJK200722H, PJK200725H, PJK200736H, PJK200753H, PJK200755H, 
+PJK200782H, PJK200790H, PJK200888H, PJK200908H, PJK200910H, PJK200914H, 
+PJK200915H, PJK200917H, PJK200922H, PJK200951H, PJK200959H, PJK200973H, 
+PJK200978H, PJK201000H, PJK201024H, PJK201038H, PJK201044H, PJK201047H, 
+PJK201094H, PJK201120H, PJK201129H, PJK201141H, PJK201159H, PJK201169H, 
+PJK201173H, PJK201176H, PJK201186H, PJK201188H, PJK201193H, PJK201203H, 
+PJK201206H, PJK201210H, PJK201221H, PJK201261H, PJK201287H, PJK201288H, 
+PJK201337H, PJK201347H, PJK201349H, PJK201364H, PJK201376H, PJK201383H, 
+PJK201388H, PJK201412H, PJK201415H, PJK201418H, PJK201421H, PJK201432H, 
+PJK201433H, PJK201436H, PJK201441H, PJK201447H, PJK201455H, PJK201457H, 
+PJK201462H, PJK201479H, PJK201490H, PJK201502H, PJK201511H, PJK201514H, 
+PJK201519H, PJK201533H, PJK201536H, PJK201555H, PJK201558H, PJK201596H, 
+PJK201603H, PJK201615H, PJK201654H, PJK201707H, PJK201719H, PJK201721H, 
+PJK201733H, PJK201737H, PJK201756H, PJK201768H, PJK201790H, PJK201814H, 
+PJK201848H, PJK201863H, PJK201868H, PJK201885H, PJK201898H, PJK201899H, 
+PJK201902H, PJK201931H, PJK201963H, PJK202168H, PJK202175H, PJK202201H, 
+PJK207050H and PJK207055H. 
+Distribution to Australia:
+Model 7273:  PJK200319S, PJK200320S, PJK200738S, PJK200740S, PJK201842H, 
+PJK201909H, PJK201912H, PJK201916H, PJK201927H, PJK200399S, PJK200412S, 
+and PJK200419S.
+Distribution to Canada:
+Model 7273:  PJK200174H, PJK200214H, PJK200305S, PJK200310S, PJK200322S, 
+PJK200323S, PJK200346S, PJK200520S, PJK200521S, PJK200522S, PJK200524S, 
+PJK200526S, PJK200528S, PJK200606H, PJK200607H, PJK200611H, PJK200696S, 
+PJK200743S, PJK200762S, PJK200768S, PJK200853H, PJK200857H, PJK200989H, 
+PJK201815H,
+PJK201834H, PJK201835H, PJK201837H, PJK201838H, PJK201883H, PJK201922H, 
+PJK202178H, PJK202209H, PJK200415S and PJK200424S.
+Distribution to Europe:
+Model 7229Cx:  PJJ200038S, PJJ200040S, PJJ200045S, PJJ200077R, 
+PJJ200078R, PJJ200079R, PJJ200080R,
+PJJ200082R - PJJ200088R, PJJ200090R - PJJ200092R, PJJ200094R - 
+PJJ200098R, PJJ200100R - PJJ200104R, PJJ200106R,  PJJ200107R, PJJ200109R, 
+PJJ200110R - PJJ200116R, PJJ200118R - PJJ200120R, PJJ200124R - 
+PJJ200126R, PJJ200128R - PJJ200133R, PJJ200135R - PJJ200138R, PJJ200162R, 
+PJJ200164R - PJJ200166R, PJJ200168R, PJJ200170R - PJJ200172R, 
+Model 7273:  PJK100462R, PJK100467R, PJK100471R, 
+PJK100476R - PJK100478R, PJK100545R - PJK100552R, PJK100554R, PJK100556R 
+- PJK100558R, PJK100592R, PJK100593R, JK100595R, PJK100600R - PJK100603R,
+PJK100606R - PJK100608R, JK100612R - PJK100619R,
+PJK100625R - PJK100629R, PJK100632R, PJK100636R, PJK100640R, PJK100642R, 
+PJK100643R, PJK100646R,
+PJK100651R - PJK100653R, PJK100656R, PJK100657R, PJK100661R, PJK100663R - 
+PJK100665R, PJK100669R, PJK100670R, PJK100672R, PJK100675R, PJK100677R - 
+PJK100679R, PJK100681R, PJK100682R, PJK100684R,
+PJK100685R, PJK100687R - PJK100694R, PJK100718R - PJK100726R, PJK100729R 
+- PJK100735R, PJK100737R, PJK200022R, PJK200023R, PJK200029R, PJK200031R,
+PJK200032R, PJK200036R - PJK200038R, PJK200040R, PJK200064S, PJK200066S, 
+PJK200067S - PJK200070S, PJK200108S, PJK200109S, PJK200115S, PJK200124S, 
+PJK200126S, PJK200131S - PJK200134S, PJK200136S, PJK200173H, PJK200175H, 
+PJK200204H, PJK200242S, 
+PJK200254S, PJK200266H, PJK200267H, PJK200285S, 
+PJK200287S - PJK200291S, PJK200293S, PJK200294S, PJK200296S, PJK200298S, 
+PJK200300S, PJK200302S,
+PJK200303S, PJK200313S, PJK200317S, PJK200344S, 
+PJK200365S, PJK200367S, PJK200373S - PJK200376S, 
+PJK200378S - PJK200380S, PJK200382S - PJK200388S, PJK200390S - 
+PJK200393S, PJK200395S - PJK200398S, PJK200400S - PJK200404S, PJK200407S, 
+PJK200409S, PJK200411S, PJK200413S, PJK200414S, PJK200416S - PJK200418S, 
+PJK200420S - PJK200422S, PJK200423S, PJK200425S, PJK200427S.PJK200428S, 
+PJK200513S - 
+PJK200515S, PJK200519S, PJK200525H, PJK200529S, 
+PJK200532S, PJK200533S, PJK200538H, PJK200539H, 
+PJK200597S - PJK200600S, PJK200603S - PJK200608S, PJK200610S - 
+PJK200617S, PJK200619S, PJK200620S, PJK200622S, PJK200623S, PJK200624H, 
+PJK200625H,
+PJK200625S, PJK200627H, PJK200627S, PJK200632S,
+PJK200634S, PJK200693S, PJK200695S, PJK200697S - PJK200699S, PJK200701S, 
+PJK200702S, PJK200704S, 
+PJK200706S - PJK200709S, PJK200712S, PJK200713S,
+ PJK200715S - PJK200720S, PJK200723S, PJK200725S, PJK200728S - 
+PJK200731S, PJK200731H, PJK200732S, PJK200733S, PJK200735S, PJK200736S, 
+PJK200739H, 
+PJK200739S, PJK200741S, PJK200742H, PJK200742S, 
+PJK200746S, PJK200748H, PJK200748S, PJK200750H - PJK200752H, PJK200756H, 
+PJK200757S, PJK200767S, 
+PJK200772S, PJK200786H, PJK200797H, PJK200799H, 
+PJK200801H, PJK200803H, PJK200804H, PJK200806H, 
+PJK200823H, PJK200824H, PJK200827H - PJK200831H, PJK200833H, PJK200835H - 
+PJK200839H, PJK200881H, PJK200933H, PJK200934H, PJK200936H, PJK200938H, 
+PJK200941H, PJK200943H, PJK200944H, PJK201065H, PJK201070H, PJK201078H, 
+PJK201081H, PJK201138H, PJK201139H, PJK201145H, PJK201150H, PJK201152H, 
+PJK201153H, PJK201154H, PJK201156H, PJK201157H, PJK201160H, PJK201164H, 
+PJK201171H, PJK201175H, PJK201300H, PJK201306H, PJK201309H, PJK201311H, 
+PJK201313H, PJK201319H, PJK201335H, PJK201442H, PJK201470H, PJK201471H, 
+PJK201492H, PJK201493H, PJK201500H, PJK201501H, PJK201503H, PJK201705H, 
+PJK201706H, PJK201738H, PJK201808H, PJK201811H, PJK201816H, PJK201819H, 
+PJK201821H, PJK201824H - PJK201827H, PJK201830H - PJK201833H, PJK201840H, 
+PJK201947H, PJK201950H, PJK201961H, PJK201966H and PJK201968H.
+Distribution to Hong Kong:
+Model 7273:  PJK200249S, PJK200286S, PJK200679H, PJK200909H, PJK200945H, 
+PJK201473H, PJK201820, PJK202206H, and PJK202207H.
+MANUFACTURER
+Medtronic, Inc., Minneapolis, Minnesota; Medtronic Med Rel, Inc., 
+Humacao, Puerto Rico; Medtronic, Switzerland Manufacturing Operations, 
+Tolochenaz, Switzerland.
+RECALLED BY
+Medtronic, Inc., Minneapolis, Minnesota, by letter dated February 11, 
+2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+1,628 defibrillators were distributed from December 1998 to November 
+1999.
+REASON
+A fracture of a soldered connection in the devices could result in loss 
+of telemetry and device output.
+________
+PRODUCT
+Various Heart Valves and Annuloplasty Rings:
+a) St. Jude Medical Masters Series Rotatable Aortic Mechanical Heart 
+Valve with Silzone Coating, Cuff Type, models:  
+  Standard Polyester: 19AS-601, 21AS-601, 23AS-601, 
+  25AS-601, 27AS-601, 29AS-601, 31AS-601. 
+  Expanded Polyester: 19AECS-602, 21AECS-602, 23AECS-602, 
+  25AECS-602, 27AECS-602, 29AECS-602, 31AECS-602.  
+  Hemodynamic Plus Cuff: 17AHPS-605, 19AHPS-605, 21AHPS-605,
+  23AHPS-605, 25AHPS-605, 27AHPS-605.  
+  Expanded HP Cuff: 17AEHPS-605, 19AEHPS-605, 21AEHPS-605,
+  23AEHPS-605, 25AEHPS-605, 27AEHPS-605.
+b) St. Jude Medical Masters Series Rotatable Mitral Mechanical Heart 
+Valve with Silzone Coating, Cuff Type, models:
+  Standard Expanded Polyester: 19MS-601, 21MS-601,
+  23MS-601, 25MS-601, 27MS-601, 29MS-601, 31MS-601,
+  33MS-601, 35MS-601, 37MS-601. 
+  Expanded Polyester: 19MECS-602, 21MECS-602, 23MECS-602,
+  25MECS-602, 27MECS-602, 29MECS-602, 31MECS-602,
+  33MECS-602.
+  Hemodynamic Plus: 17MHPS-605, 19MHPS-605, 21MHPS-605,
+  23MHPS-605 25MHPS-605, 27MHPS-605.
+  Expanded HP Cuff:  17MEHPS-605, 19MEHPS-605, 21MEHPS-605,
+  23MEHPS-605, 25MEHPS-605, 27MEPHS-605.  
+c) St. Jude Medical Regent Rotatable Aortic Mechanical Heart Valve with 
+Standard Polyester Cuff Having Silzone Coating, models: 17-AG-701, 19-AG-
+701, 21-AG-701, 23-AG-701, 25-AG-701,  27-AG-701, 29-AG-701;
+d) St. Jude Medical Regent Rotatable Aortic Mechanical Heart Valve with 
+Flex/Polyester Cuff Having Silzone Coating, models:  17AGF706, 19AGF706, 
+21AGF706, 23AGF706, 25AGF706, 27AGF706, 29AGF706;
+e) St. Jude Medical Seguin Annuloplasty Ring for Mitral Valve Repair with 
+Silzone Coating, models:  SARS-M24, SARS-M26, SARS-M28, SARS-M30, SARS-
+M32, SARS-M34, SARS-M36, SARS-M38, SARS-M40;
+f) St. Jude Medical Tailor Annuloplasty Ring with Silzone Coating, 
+models:  TAR-25, TAR-27, TAR-29, TAR-31, TAR-33, TAR-35;
+g) St. Jude Medical Epic Porcine Aortic Bioprosthetic Heart Valve, 
+models:  ELS-21A,  ELS-23A, ELS-25A, ELS-27A, ELS-29A, ELS-31A;
+h) St. Jude Medical Epic Porcine Mitral Bioprosthetic Heart Valve, 
+models:  ELS-21M, ELS-23M, ELS-25M, ELS-27M, ELS-29M, ELS-31M.  Recall 
+#Z-454/461-0.
+CODE
+All serial numbers of SMJ valves and annulplasty rings with Silizone 
+silver coating.
+MANUFACTURER
+St. Jude Medical, Inc., St. Paul, Minnesota.
+RECALLED BY
+Manufacturer, by letters on January 21 and 26, 2000.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+47,283 mechanical heart valves, 963 Epic Porcine valves, and 3,083 
+annuloplasty rings were distributed.
+REASON
+There is a statistically significant higher rate of paravalvular leaks 
+with the silver ion (Silzone) coated sewing cuffs leading to valve 
+explants.
+________
+PRODUCT
+Alycon Analyzers, automated chemistry analyzers for in-vitro diagnostic 
+use:  a) Alycon Analyzer 300; b) Alycon Analyzer 300i.  Recall #Z-
+462/463-0.
+CODE
+All codes.
+MANUFACTURER
+Abbott Laboratories, Inc., Irving, Texas.
+RECALLED BY
+Manufacturer, by letter dated January 13, 2000.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Nationwide and Puerto Rico.
+QUANTITY
+535 analyzers distributed in the United States from 5/1/98 to 12/1/99.
+REASON
+Software program errors cause incorrect association between patient and 
+the patient results.
+________
+PRODUCT
+COBAS Integra Ammonia (NH3L) Cassettes, contains an in-vitro diagnostic 
+reagent intended for use on COBAS Integra 400 and 700 for the 
+quantitative determination of the ammonia concentration in plasma:  a) 
+Catalog #0766682; b) Catalog #0737453.  
+Recall #Z-464/465-0.
+CODE
+Lot Numbers B2434 EXP 4/00 and B2635 EXP 5/00.
+MANUFACTURER
+Roche Diagnostics GmbH, Mannheim, Germany.
+RECALLED BY
+Roche Diagnostics Corporation, Indianapolis, Indiana, by letter on 
+February9, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+Undetermined.
+REASON
+Lithium heparin plasma may give erratic results compared to EDTA plasma 
+using the ammonia assay.
+________
+PRODUCT
+Ventak Prism Automatic Implantable Cardioverter Defibrillator, VR Models 
+1850 and 1855, and DR Models 1851 and 1856. These cardioverter 
+defibrillators are intended for use in patients who are at high risk of 
+sudden cardiac death due to ventricular arrhythmias.  Recall #Z-469/470-
+0.
+CODE
+Model 1850 Serial Numbers: 
+100027, 100028 - 100030, 100032, 100033, 100036, and 100039. 
+Model 1851 Serial Numbers: 300129 - 300137, 300139 - 300143, 300156 - 
+300158, 300160 - 300162, 300164 - 300166, 300168 - 300171, 300173 - 
+300175, 300177, 300178, 300181 - 300190, 300192, 300194, 300195, 300197, 
+300199, 300201, 300204, 300205, 300207 -300209, 300213, 300216, 300218, 
+300222, 300224 - 300226, 300228, 300238, 300239, 300243, 300244, 300246 - 
+300249, 300251, 300252, 300254, 300255, 300261, 300262, 300264, 300266 - 
+300273, 300277, 300278, 300281, 300283, 300286, 300287, 300290, 300294, 
+300295, 300298, 300301 - 300306, 300308, 300311 - 300313, 300316, 300321, 
+300323 - 300326, 300330, 300331, 300336, 300339, 300341, 300343, 300344, 
+300348 - 300350, 300362, 300363, 300365, 300366, 300376 - 300379, 300381, 
+300385, 300386, 300388, 300393 - 300399, 300402 - 300405, 300407, 300408, 
+300410, 300413 - 300416, 300418, 300419, 300421, 300422, 300424, 300425, 
+300427, 300428, 300429, 300430, 300432, 300437, 300439, 300442, 300448, 
+300449, 300452 - 300455, 300458, 300460, 300462 - 300469, 300472 - 
+300478, 300480, 300481, 300484 - 300492, 300494, 300498, 300500 - 300504, 
+300506 - 300509, 300511, 300512, 300515 - 300517, 300519, 300521, 300525, 
+300527, 300528, 300533 - 300536, 300542, 300548, 300550, 300551, 300553 - 
+300555, 300558, 300560, 300562, 300563, 300565 - 300567, 300570 - 300576, 
+300578 - 300583, 300619 - 300621, 300627, 300628, 300631, 300640, 300643, 
+300653, 300654, 300656, 
+300658, 300674, 300676, 300683, 300691, 300695, 300702, 300714, 
+300719, 300720, 300737, 300738, 300740, 300743, 300744, 300745, 
+300747, 300748, 300750 - 300752, 300773 - 300775, 300789, 300844, 
+300845, 300846, 300847, 300852, 300853, 300858, 300862, 300871, 
+300942, 300963, 301012, 301025, 301204, 301272, 301273, 301274, 
+301276, 301290, 301339, 301364, 301369, 301376, 301377, 301379, 
+301381, 301382, 301397, 301406, 301409 - 301411, 301417, 301418, 
+301420 - 301424, 301426, 301431 - 301433, 301445, 301452, 301454, 
+301459, 301482 - 301484, 301519, 301544, 301545, 301595, 301608, 
+301612, 301633, and 301694.
+Model 1855 Serial Numbers:  500014, 500015, 500016, 500017, and 500018.
+Model 1856 Serial Numbers:  600027, 600028, 600029, 600030, and 600031.
+MANUFACTURER
+Guidant Corporation, St. Paul, Minnesota.
+RECALLED BY
+Manufacturer, by memorandum on February 13, 2000, and by letter dated 
+February 14, 2000, followed by visit.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide, Australia, Canada, Israel, New Zealand, Europe.
+QUANTITY
+364 units.
+REASON
+Defect in an integrated circuit that can result in device failure.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+________
+PRODUCT
+Software for Pulmonary Function Testing System:
+a) BreezePF v3.8 Software, Catalog No. 147536-003;
+b) BreezePF v3.8A Software, Catalog No. 147570-003.
+Recall #Z-450/451-0.
+CODE
+None.
+MANUFACTURER
+Medical Graphics Corporation, St. Paul, Minnesota.
+RECALLED BY
+Manufacturer, by bulletin on January 8, 2000.  Firm-initiated field 
+correction ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+657 software disks were distributed.
+REASON
+An anomaly has been discovered in the software that can cause 
+confusion on the selection of which FEV1/FVC ratio is selected 
+for diagnostic reporting.  The problem only occurs when using 
+the Quality Review or Bronchial Provocation Review software to 
+select best composite efforts.
+________
+PRODUCT
+VDRL (Venteral Disease Research Laboratory) Test Kit-5.0 mL 
+ampoule, slide test provides both qualitative and
+semi-quantitative results.  Recall #Z-466-0.
+CODE
+Part #600902, Lot #VDRLA-107 EXP 10/01.
+MANUFACTURER
+Avanti Polar Lipids, Inc., Alabaster, Alabama.
+RECALLED BY
+Manufacturer, by verbal communication, followed by letter on 
+February 1, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Minnesota.
+QUANTITY
+2 test kits.were distributed.
+REASON
+The device was labeled with an incorrect expiration date.
+________
+PRODUCT
+Steri-Oss, HL Threaded Implant, HA Coated, endosseous dental 
+implant:  Part #5612HL, 5 mm x 12 mm; b) Part #4610HL, 
+4.5 mm x 10 mm.  Recall #Z-467/468-0.
+CODE
+Lot Numbers: a) 302453 EXP 10/04; b) 302457 EXP 10/04.
+MANUFACTURER
+Nobel Biocare USA, Inc., Yorba Linda, California.
+RECALLED BY
+Manufacturer, by letter on January 19, 2000.  
+Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide, Japan, Argentina, South Korea, Hong Kong.
+QUANTITY
+a) 144 units; b) 26 units were distributed.
+REASON
+Healing screws were mismatched between the two sizes 
+during production assembly.
+
+ END OF ENFORCEMENT REPORT FOR MARCH 29, 2000.  
+
+####
+
+
+
+
+
+FDA News Page   |   FDA Home Page 
+                                                          
+  
+
+Office of Public Affairs
+Hypertext uploaded by tg 2000-MAR-29.

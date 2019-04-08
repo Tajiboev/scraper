@@ -1,0 +1,338 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Feb
+		
+		
+		
+		  
+		  21
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      29 captures
+	      13 Oct 1999 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+
+September 29, 1999                                       99-39
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+________
+PRODUCT
+Bumble Bee brand Chunk Light Tuna in Water, in 6 ounce cans.
+Recall #F-669-9.
+CODE
+CLP4T over F16CC.
+MANUFACTURER
+Bumble Bee Seafoods, Inc., Santa Fe Springs, California.
+RECALLED BY
+International Home Foods, Inc., Parsippany, New Jersey, by E-mail,
+fax, and press release on August 30, 1999.  Ongoing recall 
+resulted from sample analysis and follow-up by the New York State 
+Department of Agriculture and Markets.
+DISTRIBUTION
+Mississippi, Colorado, Washington state.
+QUANTITY
+1,196 cases (48 cans per case) were distributed.
+REASONS
+Product contained high levels of histamine and was associated 
+with histamine poisoning.
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+________
+PRODUCT
+TUSSIONEX Pennkinetic (hydrocodone polistirex), extended- release 
+suspension (Hydrocodone polistirex equivalent to 10 mg 
+hydrocodone bitartrate and Chlorpheniramine polistirex equivalent 
+to 8 mg chlorpheniramine maleate), in 473 mL bottle, Rx 
+medication for relief of cough and upper respiratory symptoms 
+associated with allergy or a cold.
+NDC #53014-548-67.  Recall #D-423-9.
+CODE
+90299, EXP 04/01
+90300, EXP 04/01
+90301, EXP 04/01
+90302, EXP 04/01
+90303, EXP 04/01
+90309, EXP 05/01
+90310, EXP 05/01.
+MANUFACTURER
+Medeva Pharmaceuticals, Inc., Rochester, New York.
+RECALLED BY
+Manufacturer, by letter dated August 6, 1999.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+Lot 90299: 7,491 units were distributed between 5/17/99 and 
+           5/19/99.
+Lot 90300: 7,622 units were distributed between 5/18/99 and 
+           5/28/99.
+Lot 90301: 7,702 units were distributed between 5/28/99 and 
+           6/10/99.
+Lot 90302: 7,714 units were distributed between 5/24/99 and 
+           6/15/99.
+Lot 90303:  3,166 units were distributed on 6/15/99
+Lot 90309: 7,446 units were distributed between 5/25/99 and 
+           6/10/99.
+Lot 90310: 7,637 units were distributed between 6/10/99 and 
+           6/30/99.
+REASON
+Microbial contamination (acetobacter SPP).
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+________
+PRODUCT
+a) Platelets; b) Fresh Frozen Plasma. 
+Recall #B-1190/1191-9.
+CODE
+Unit #16LE49081.
+MANUFACTURER
+American Red Cross Blood Services, Columbus, Ohio.
+RECALLED BY
+Manufacturer, by telephone on June 10, 1999, and by letter dated 
+June 11, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Ohio.
+QUANTITY
+1 unit of each component.
+REASON
+Blood products were prepared from a unit of whole blood with an 
+extended collection time.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+________
+PRODUCT
+V.A.D. Access Kit/Dressing Change Tray, a sterile single use tray 
+containing the equipment needed, including heparin lock flush, to 
+change the dressing on a vascular access device.
+Recall #Z-1253-9.
+CODE
+Catalog #DC-680, Lot 906014, EXP 06/01.
+MANUFACTURER
+MEDIKMARK, Inc., Buffalo Grove, Illinois.
+RECALLED BY
+Manufacturer, by telephone on August 4, 1999, followed by letter 
+on August 9, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Illinois, New York, Texas, Arizona.
+QUANTITY
+360 trays.
+REASON
+Tray may contain 1000 u/ml heparin instead of 100 u/ml heparin.
+________
+PRODUCT
+Gammamed 12i and 12it High Dose Rate Afterloader Sources, used 
+for HDR afterloader radiation therapy, radionuclide  
+brachytherapy source.  Recall #Z-1255/1256-9.
+CODE
+6455-6464 (source).
+MANUFACTURER
+MDS Nordion/Theratronics International, Ltd., Kanata, Ontario, 
+Canada.
+RECALLED BY
+Manufacturer, by letter August 12, 1999.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Nationwide and Canada.
+QUANTITY
+36 units were distributed.
+REASON
+Use of substandard Ir-192 sealed sources may lead to overexposure 
+of the patient to radiation with the potential for a significant 
+overdose.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+________
+PRODUCT
+Omni-Jug Disposable Suction Canister, 15000 cc, for collection, 
+transport, and disposal of large amounts of irrigation fluid 
+generated during surgical procedures:
+a) Omni-Jug Disposable Suction Canister, Model #5036-00;
+b) Omni-Jug Disposable Suction Canister, Model #5036-01.
+Recall #Z-1243/1244-9.
+CODE
+O-rings are not coded; Canister lids are stamped with run dates 
+of 7/5/99 to 7/26/99.
+MANUFACTURER
+Maryland Plastics, Inc., Federalsburg, Maryland.
+RECALLED BY
+Waterstone Medical, Inc., Falls Church, Virginia, by letter on 
+July 29, 1999, followed by visit.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+8,000 units.
+REASON
+The O-ring component of the suction canister may fail to properly 
+seal, which may not allow proper vacuum seal.
+________
+PRODUCT
+Latex and Non-Latex Operating Room and Area Shoe Covers; Non 
+Latex Gripper Shoe Covers and Boot Covers, packaged in cases of 
+50, 100, 150, 200 and 300 covers each, under the American Health 
+& Safety Sure-Tread label:
+a) NON23758 - Gripper Shoe Covers, Non-Conductive, Universal
+              Size
+NON24758 - Gripper Shoe Covers, Non-Conductive, Universal
+           Size
+NON24759 - Gripper Shoe Covers, Non-Conductive, X-Large
+b) NON24752 - Gripper Sport Shoe Covers, Sport Shoe Size
+NON24852 - Gripper Sport Shoe Covers, SMS Material, Sport
+           Shoe Size
+c) NON24758R - Gripper Reverse Shoe Covers, Universal Size,
+               Reverse Seam, Blue
+NON24759R - Gripper Reverse Shoe Covers, X-Large, Reverse
+            Seam, Blue
+d) NON24758L - Gripper II Spunbond Shoe Covers, White
+e) NON27144 - Boot Cover Impervious Knee High No Latex
+NON27144XL - Boot Cover Impervious Knee High No Latex
+f) NON27752 - Shoe Cover w/Non Latex Grid Sport Size,
+NON27758R - Shoe Cover W/Non Latex Grid Reverse Blue,
+NON27759R - Shoe Cover W/Non Latex Grid X-Large Reverse,
+NON27852 - Shoe Cover W/Non Latex Grid Sport Size SMS
+g) NON27758 - Shoe Cover Gripper Non-Skid Blue No Latex,
+NON27759 - Shoe Cover Gripper Blue X-Large No Latex,
+h) AHS1151009 - American Heath & Safety Sure Tread
+                Disposable Shoe Covers, Stretch Size 5-12.
+Recall #Z-1245/1252-9.
+CODE
+All lots ending with JC followed by a numeral of the part 
+numbers/reorder numbers listed above.
+MANUFACTURER
+Hangzhou Jinchen Knitting & Textiles Co., Ltd., Hangzhou, China.
+RECALLED BY
+Medline Industries, Inc., Mundelein, Illinois, by letter dated 
+August 27, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+39,266 cases.
+REASON
+Some of the shoe covers have the gripper pattern made of a water-
+soluble substance, and may smear or may be more prone to slippage 
+if exposed to water.
+_______
+PRODUCT
+Stratus Cardiac Troponin-I Fluorometric Enzyme Immunoassay, a 
+quantitative immunoassay for the determination of cardiac 
+troponin-I levels in serum and Plasma:
+a) Catalog No. B5700-64 (Domestic), Stratus Cardiac Troponin-I 
+Fluorometric Enzyme Immunoassay - 120 Tests,;
+b) Catalog No. B5700-64R (International), Stratus Cardiac 
+Troponin-I Fluorometric Enzyme Immunoassay - 120 Tests.  Recall 
+#Z-1257/1258-9.
+CODE
+Lot Numbers:  a) KXTN-1146 through KXTN-1204, KXTN-1206 through 
+KXTN-1210, KXTN 1212, KXTN-1214, KXTN-1215 and
+KXTN-1219, EXP Dates from Oct. 28, 1999 through Feb. 18, 2000; b) 
+KXTN-1146 through KXTN-1204, KXTN-1206 through KXTN-1210, KXTN 
+1212, KXTN-1214, KXTN-1215 and KXTN-1219, EXP Dates from Oct. 28, 
+1999 through Feb. 18, 2000.
+MANUFACTURER
+Dade Behring, Inc., Miami, Florida.
+RECALLED BY
+Manufacturer, by letter on April 14, 1999.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+12,604 kits were distributed.
+REASON
+The device may produce false positive test results.
+
+END OF ENFORCEMENT REPORT FOR SEPTEMBER 29, 1999.  BLANK PAGES MAY 
+FOLLOW.
+
+####

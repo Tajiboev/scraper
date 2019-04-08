@@ -1,0 +1,552 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Mar
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      29 captures
+	      25 Feb 1997 - 14 Aug 2016
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+05/29/1990      
+
+FDA Enforcement for the week of May 30, 1990
+
+
+
+                            FDA ENFORCEMENT REPORT
+                               FOR MAY 30, 1990 
+
+                                                              May 30, 1990
+
+Recalls and Field Corrections:
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  Product will cause serious adverse health consequences or 
+                  death.
+
+                                     NONE 
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the 
+                  probability of serious adverse health consequences is 
+                  remote. 
+
+                                     NONE 
+
+                  Class III - A situation in which the use of, or exposure to 
+                  a violative product is not likely to cause adverse health 
+                  consequences. 
+
+
+                                     NONE 
+                                      -1- 
+
+
+
+
+
+
+                                   COSMETICS
+
+                                     NONE 
+
+                           HUMAN DRUGS AND BIOLOGICS
+
+                  Class I - 
+                                     NONE 
+
+                  Class II -
+
+Product:          (a) Platelets (expired); (b) Recovered Plasma.
+                  Recall #B-127/128-0.
+Code:             Unit numbers: (a) MC18462, MC15995; (b) MC13536, MC15736, 
+                  MC18312, MC18437, MC18462, MC20667, MC21444, MC21602, 
+                  MC21859, MC22326. 
+Manufacturer:     Medical Center Hospital (MCH), Odessa, Texas. 
+Recalled by:      Manufacturer, by letter January 16, 1990.  Firm-initiated 
+                  recall complete.
+Distribution:     (a) California; (b) Florida.
+Quantity:         (a) 2 units; (b) 10 units were distributed. 
+Reason:           Blood products were distributed which tested 1) 
+                  repeatably reactive for HBsAg, 2) nonreactive for 
+                  the antibody to the human immunodeficiency virus, 
+                  type 1 (anti-HIV-1) by EIA but collected from donors
+                  who had previously tested repeatably reactive for anti- 
+                  HIV-1 by EIA. 
+
+                                     ---- 
+
+Product:          Cobe Spectra Tubing Set.
+                  Recall #B-145-0.
+Code:             Extended Life Platelet Tubing Set Catalog #777003-000, all
+                  lots with an "S" in the lot number, and all lot numbers 
+                  beginning with 01T, 02T, 03T, 04T.
+Manufacturer:     Cobe Laboratories, Inc., Lakewood, Colorado.
+Recalled by:      Manufacturer, by letter January 16, 1990.  Firm-initiated 
+                  recall complete.
+Distribution:     Nationwide and international. 
+Quantity:         8,454 sets were distributed.
+Reason:           Tubing sets were misassembled during manufacture which
+                  resulted in the inversion of two lines connecting "y" 
+                  connectors and the collection bags. 
+
+                                     ---- 
+
+                  Class III - 
+
+Product:          Recovered Plasma.  Recall #B-129-0. 
+Code:             Unit numbers: MC11720, MC15076, MC15084.
+Manufacturer:     Medical Center Hospital, Odessa, Texas. 
+Recalled by:      Manufacturer, by letter January 16, 1990.  Firm-initiated 
+                  recall complete.
+Distribution:     Florida, California.
+
+                                      -2- 
+
+
+
+
+
+Quantity:         3 units were distributed. 
+Reason:           Recovered plasma was distributed which tested initially 
+                  reactive for the hepatitis B surface antigen. 
+
+                                      ----
+
+Product:          Cobe Spectra Tubing Sets: (a) Platelet Set; 
+                  (b) White Blood Cell Set.  Recall #B-146/147-0. 
+Code:             (a) Catalog #777004-000, lot numbers: 08S15379, 
+                  02T15378; (b) Catalog #777006-000, lot numbers: 
+                  01T15394, 01T15388. 
+Manufacturer:     Cobe Laboratories, Inc., Lakewood, Colorado.
+Recalled by:      Manufacturer, by January 16, 1990.  Firm-initiated
+                  recall complete.
+Distribution:     Nationwide and international. 
+Quantity:         (a) 456 sets; (b) 228 sets were distributed.
+Reason:           Tubing sets were misassembled during manufacture which
+                  resulted in the inversion of two lines connecting "y" 
+                  connectors and the collection bags. 
+
+                                      ----
+
+                         MEDICAL DEVICES AND RADIOLOGY
+
+                  Class I - 
+                                      NONE
+
+                  Class II -
+
+Product:          Model 5800 CADD-PCA Ambulatory Infusion Pump, an Rx 
+                  medical device intended for use as a pain management device.
+                  Recall #Z-504-0.
+Code:             Serial numbers 800501 through 804510. 
+Manufacturer:     Pharmacia Deltec, Inc., St. Paul, Minnesota.
+Recalled by:      Manufacturer, by letter January 24, 1990.  Firm-initiated 
+                  field correction ongoing. 
+Distribution:     Nationwide and Canada.
+Quantity:         2,757 pumps were distributed. 
+Reason:           Software error -- If the drug concentration entered into
+                  the pump program is four mg/ml, the device will report
+                  "MG Given" to be one-half the dose actually delivered.
+
+                                      ----
+
+Product:          Ballard Medical Products' Heimlich Micro Trach Transtracheal
+                  Oxygen Delivery System, a single-use, sterile, 5F or 6F 
+                  non-toxic catheter, intended to permit administration of
+                  low flow oxygen to patients during surgery: 
+                  (a) Catalog No. 170; (b) Catalog No. 171; 
+                  (c) Catalog No. 175; (d) Catalog No. 176. 
+                  Recall #Z-545/548-0.
+Code:             Lot numbers: (a) 7 12 89 0021, D90-017, D90-022, D90-028; 
+                  (b) D89-102, D90-016, D90-026, D90-032; 
+                  (c) 7 12 89 0220, D90-018, D90-027; 
+                  (d) D89-103, D90-014, D90-015, D90-021, D90-025, D90-033. 
+
+                                      -3- 
+
+
+
+
+
+Manufacturer:     Ballard Medical Products, Midvale, Utah.
+Recalled by:      Manufacturer, by letter March 23, 1990.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Nationwide, Canada, Puerto Rico.
+Quantity:         2,395 units were distributed. 
+Reason:           The catheter may kink within the trachea. 
+
+                                      ----
+
+Product:          Medtronic Model 5866-9 Adaptor Kit containing an adaptor
+                  (part 149039-G01) which is used with various non-Medtronic
+                  leads to provide a compatible connection to a Medtronic 
+                  Implantable Pulse Generator.  Recall #Z-552-0.
+Code:             Lot #J89064064. 
+Manufacturer:     Medtronic, Inc., Minneapolis, Minnesota.
+Recalled by:      Manufacturer, by letter and facsimile March 16, 1990. 
+                  Firm-initiated recall ongoing.
+Distribution:     Florida, Kentucky, Austria, Great Britain, The Netherlands, 
+                  Spain, France, Italy, Portugal, West Germany. 
+Quantity:         175 kits were distributed.
+Reason:           An incorrect adaptor part that has a smaller inner
+                  diameter in the female opening than the correct part
+                  was placed in a portion of kits during packaging. 
+
+                                      ----
+
+Product:          (a) Models SCL-5130, SCL-5125, SCL 5025; (b) Model SPL-2120 
+                  Laser Workstations, used for job shop application for 
+                  cutting prototype parts, primarily automotive.
+                  Recall #Z-611/612-0.
+Code:             Serial numbers:  (a) HAY-0123 (SCL-5130), AAY-0106H 
+                  (SCL-5125), HAY-0164H, HAY-0175H, HAY-0188H, HAY-0195H
+                  (SCL-5025); (b) HAY-0151H.
+Manufacturer:     Utilase Systems, Inc., Detroit, Michigan. 
+Recalled by:      Manufacturer.  FDA approved the firm's corrective action
+                  plan April 19, 1990.  Firm-initiated field correction 
+                  ongoing.
+Distribution:     Michigan, North Carolina, Illinois. 
+Quantity:         8 units were distributed. 
+Reason:           Noncompliance with the performance standard for laser 
+                  products in that they lacked identification, certification
+                  and other required labels.  Also, the user manual did not 
+                  contain all the required information. 
+
+                                      ----
+
+Product:          Alpha MC-9 Series Mobile C-Arm Image Intensified Unit,
+                  used for fluoroscopy with spot x-ray film capacity. 
+                  Recall #Z-613-0.
+Code:             Serial numbers:  MC7719, MC7721, MC7717, MC7711, MC7718,
+                  MK7722, MC7724, MC8314. 
+Manufacturer:     Instrumentarium Imaging, Inc., Milwaukee, Wisconsin.
+Recalled by:      Manufacturer.  FDA approved the firm's corrective action
+                  plan March 20, 1990.  Firm-initiated field correction 
+                  ongoing.
+Distribution:     Pennsylvania, Ohio, Kentucky, Delaware, Michigan. 
+Quantity:         8 units were distributed. 
+
+                                      -4- 
+
+
+
+
+
+Reason:           Noncompliance with the Performance Standard for X-Ray 
+                  Products 21 CFR 1020.31 (g)(l) "Field limitation and
+                  alignment for spot-film devices."  The field size was 
+                  not maintained when switching from fluoroscopy to 
+                  radiography.
+
+                                      ----
+
+Product:          Alpha MC-9R C-Arm Image Intensified Unit, used for
+                  job shop application for cutting prototype parts, 
+                  primarily automotive.  Recall #Z-614-0. 
+Code:             Serial number MC8314. 
+Manufacturer:     Instrumentarium Imaging, Inc., Milwaukee, Wisconsin.
+Recalled by:      Manufacturer.  FDA approved the firm's corrective action
+                  plan March 30, 1990.  Firm-initiated field correction 
+                  ongoing.
+Distribution:     Michigan. 
+Quantity:         1 unit was distributed. 
+Reason:           Noncompliance with the performance standard for x-ray 
+                  products.  The area of noncompliance include performance
+                  specifications corresponding to mA and kV not meet the
+                  accuracy statement at various kV settings.
+
+                                      ----
+
+Product:          Fisher Diagnostics Sera Chem Clinical Chemistry 
+                  Control Serum (Bovine) Unassayed Level II, used as a
+                  reference sample, intended to be used as if it were a 
+                  clinical specimen (a positive control), intended for
+                  estimating the precision and analytical bias in 
+                  equipment used in the determination of a number of
+                  clinical analysis.  Recall #Z-615-0.
+Code:             Catalog #3111-84, Lot #N1280799 EXP 8/1/91. 
+Manufacturer:     Instrumentation Laboratory, Division of Fisher
+                  Scientific Company, Inc., Orangeburg, New York. 
+Recalled by:      Manufacturer, by letter November 8, 1989.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Texas, Washington state, Tennessee, New Jersey, New York, 
+                  Pennsylvania, California. 
+Quantity:         1,027 packages were distributed.
+Reason:           The product does not meet the label claim of 48 hours 
+                  stability for Creatine Kinase (CK). 
+
+                                      ----
+
+Product:          3M PI-55 Urological 4.8 mm Surgical Staples, for use
+                  in the creation of a continent ideal reservoir (Kock
+                  Pouch) for urinary bladder replacement.  Recall #Z-616-0. 
+Code:             JUL 89 104 89601. 
+Manufacturer:     3M Edumex, Juarez, Mexico.
+Recalled by:      3M Medical-Surgical Division, St. Paul, Minnesota, by 
+                  telephone beginning April 4, 1990.  Firm-initiated
+                  recall complete.
+
+                                      -5- 
+
+
+
+
+
+Distribution:     North Carolina, Illinois, Texas, California.
+Quantity:         13 boxes of 12 individually-packaged staple cartridges
+                  per box were distributed. 
+Reason:           The staples were removed from the wrong end of the cartridge, 
+                  which has differentiated ends because a hole for the
+                  locking pin is in one end.
+
+                                      ----
+
+Product:          Medtronic Cardiac Sling, Model 7703PE, used during
+                  cardiopulmonary bypass to hold the heart in an elevated 
+                  position.  Recall #Z-626-0. 
+Code:             Lot #PE89051140.
+Manufacturer:     Wilshire Foam Products, Inc., Carson, California. 
+Recalled by:      Medtronic, Inc., Fridley, Minnesota, by visit during
+                  July 1989.  Firm-initiated recall complete. 
+Distribution:     Wisconsin, Missouri.
+Quantity:         20 units were distributed.
+Reason:           The cardiac sling may shed fibers of polyurethane material
+                  into the surgical wound due to improper die cutting of
+                  the holes in the sling body.
+
+                                      ----
+
+Product:          Zenith-Cox Flexion Chiropractic Tables: 
+                  (a) Model 90 (fixed height table);
+                  (b) Model 95 (variable  height table).  Recall #Z-627/628-0.
+Code:             Consecutive serial numbers 60454 through 62038, all units 
+                  built between June 1988 and April 1989. 
+Manufacturer:     Williams Manufacturing Company, Elgin, Illinois.
+Recalled by:      Manufacturer, by letter April 17 and 23, 1990.
+                  Firm-initiated field correction ongoing.
+Distribution:     Nationwide and international. 
+Quantity:         (a) 70 tables; (b) 298 tables were distributed; firm
+                  estimates 90 percent remains on market. 
+Reason:           One or more bolts in the caudal support linkage may 
+                  work out during use, causing the caudal section of the
+                  table to suddenly drop to the floor.
+
+                                      ----
+
+                  Class III - 
+
+Product:          Dental Implant Impression Post, a component of the
+                  Interpore IMZ Osteointegrated Implant System, used for
+                  making dental fitting impressions.  Recall #Z-625-0.
+Code:             Catalog #8425, lot #9281. 
+Manufacturer:     Eberle Medizin, Technische Elemente GMBH, Wermberg, 
+                  West Germany. 
+Recalled by:      Interpore International, Irvine, California, by telephone 
+                  November 8, 1989 followed by letter November 20, 1989.
+                  Firm-initiated recall ongoing.
+Distribution:     California, Florida, Ohio, Oregon.
+Quantity:         17 posts were distributed.
+
+                                      -6- 
+
+
+
+
+
+Reason:           Size 3.3 x 2 mm posts were erroneously packaged and 
+                  labeled as size 4.0 x 2 mm posts. 
+
+                                      ----
+
+Product:          Gas Cylinders for CDI Model 520 Calibrator, used to 
+                  calibrate the CDI Model 200 and Model 300 Extracorporeal
+                  Blood Gas Monitors: 
+                  (a) CDI Gas I/Gas 1, Model No. 7210 Components
+                  Concentration Contents 30.25 liters;
+                  (b) CDI Gas II, Model No. 7240 Components Concentration 
+                  Contents 30.25 liters.  Recall #Z-633/634-0.
+Code:             Lot numbers:  (a) 013509, 033399, 053419, 080100, 120170, 
+                  153629; (b) 010050, 020240, 053479, 060040, 083399. 
+Manufacturer:     Chilton Metals, Chilton, Wisconsin. 
+Recalled by:      CDI/3M Health Care, Irvine, California, by letter March 15, 
+                  1990.  Firm-initiated recall ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         1,573 cylinders were distributed. 
+Reason:           The threads on the devices were not compatible with 
+                  the threads on the CDI Model 520 Calibrator causing gas 
+                  leakage which may result in miscalibration of the monitors. 
+
+                                      ----
+
+                              VETERINARY PRODUCTS 
+
+                  Class I - 
+                                      NONE
+
+                  Class II -
+
+Product:          MVI Lincomycin Premix for Swine and Chickens, 10 grams
+                  per pound, in 50 pound bags.  Recall #V-043-0.
+Code:             All lots. 
+Manufacturer:     Mountaire Vitamins, Inc., North Little Rock, Arkansas.
+Recalled by:      Manufacturer, by letter February 19, 1990.  Firm- 
+                  initiated field correction complete.
+Distribution:     Texas, Georgia. 
+Quantity:         Firm estimated 20 bags remained on market.
+Reason:           The product label failed to contain the required
+                  warning and caution statements regarding the six-day
+                  pre-slaughter withdrawal period, guaranteed analysis, 
+                  and directions for use. 
+
+                                      ----
+
+                  Class III - 
+
+Product:          Dexamethasone Tablets, USP, 0.25 mg, in 1,000 tablet
+                  bottles, a veterinary Rx drug indicated for use as an 
+                  anti-inflammatory agent in cats and dogs, under the 
+                  following labels: Osborn Essar Corporation, Phoenix 
+                  Pharmaceutical, Professional veterinary Labs, VEDCO,
+
+                                      -7- 
+
+
+
+
+
+                  Tech America, Central Vet Supply, The Butler Company. 
+                  Recall #V-044-0.
+Code:             Lot numbers: 206-138, 206-140, 206-141, 206-142,
+                  206-143, 206-144, 206-146, 206-153. 
+Manufacturer:     Sanofi Animal Health, Inc., La Seur, Minnesota. 
+Recalled by:      Sanofi Animal Health, Inc., Ft. Dodge, Iowa, by letter
+                  April 20, 1990.  Firm-initiated recall ongoing. 
+Distribution:     Nationwide, Canada. 
+Quantity:         12,300 bottles were distributed.
+Reason:           Lots 146 and 153 are superpotent.  The rest are subpotent.
+
+                                      ----
+
+Medical Device Safety Alerts: 
+
+Product:          Digit, Ear, and Flexible Sensors used with the LIFESTAT 
+                  1600 pulse oximeter:
+                  (a) Digit sensor, Part No. 804343-00; 
+                  (b) Ear Sensor, Part No. 804582-00; 
+                  (c) Flexible Sensors (adult, pediatric, infant and
+                  neonate), Part numbers 804554-00, 804635-00,
+                  804634-00, 804633-00.  Safety Alert #M-048/050-0. 
+Code:             All sizes.  These assemblies are not serialized.
+Manufacturer:     Physio Control Corporation, Redmond, Washington (digit
+                  sensors); Honeywell Corporation, Juarez, Mexico (all
+                  other sensors). 
+Alerted by:       Physio Control Corporation, Redmond, Washington, by 
+                  letter April 16, 1990.
+Distribution:     Nationwide and international. 
+Quantity:         5,362 (finger/hand); 1,817 (ear/hand); 6,285 (adult/flex);
+                  4,523 (pediatric/flex); 1,107 (infant/flex); 2,998
+                  (neonate/flex) sensors were distributed.
+Reason:           When a Physio-Control sensor is used with Ohmeda pulse
+                  oximeter models 3700, 3710, 3740, patient burns may occur 
+                  at the sensor site.

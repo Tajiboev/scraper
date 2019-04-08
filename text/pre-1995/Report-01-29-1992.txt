@@ -1,0 +1,878 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Apr
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  18
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      29 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+01/29/1992
+
+Recalls and Field Corrections -- January 29, 1992
+
+January 29, 1992                                                     Recalls and Field Corrections
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  product will cause serious adverse health consequences or
+                  death.
+
+                                     NONE
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the
+                  probability of serious adverse health consequences is
+                  remote.
+
+
+Product:          Candy, various labels and sizes:
+                  1.  Childrens Treat, Dairy Mart brand, in 4 ounce bags;
+                  2.  Candy Buttons, Dairy Mart brand, in 2 ounce bags;
+                  3.  Spice Drops, Dairy Mart brand, in 7 ounce bags;
+                  4.  Candy Roll, Dairy Mart brand, in 4 ounce bags;
+                  5.  Pixy Stix, Dairy Mart brand, in 2 ounce bags;
+                  6.  Old Mill Candies Salt Water Taffy, in 4 ounce bags;
+
+                                      -1-
+                                       
+
+                  7.  Assorted Fruit Slices, Dairy Mart brand, in 4 ounce bags;
+                  8.  Old Mill Candies Gum Drop Jellies, in 7 ounce bags;
+                  9.  Gourmet Jelly Beans, Dairy Mart brand, in 4 ounce bags;
+                  10. Red Hot Dollars, dairy Mart brand, in 6 ounce bags;
+                  11. Jujy Fruits, Dairy Mart brand, in 6 ounce bags;
+                  12. Jelly Beans, Dairy Mart brand, in 7 ounce bags;
+                  13. Olde Mill Candies JU JU Fish, in 5 ounce bags;
+                  14. Bag O' Pops, Dairy Mart brand, in 5 ounce bags;
+                  15. Jolly Rancher, Dairy Mart brand, in 4 ounce bags;
+                  16. Atomic Fire Balls, Dairy Mart brand, in 4 ounce bags;
+                  17. Wrapped Sour Balls, Dairy Mart brand, in 5 ounce bags.
+                  Additional labels include Dairy Mart, Judy's Best, Olde Mill
+                  Candies, Food Bag, and Nutmeg Candies.  Not all types of
+                  candies are distributed under each name brand.
+                  Recall #F-093/109-2.
+Code:             None.
+Manufacturer:     John Hayes & Sons, Wolcott, Connecticut.
+Recalled by:      Manufacturer, by visit beginning December 30, 1991.
+                  Firm-initiated field correction ongoing.
+Distribution:     New England, New York.
+Quantity:         Firm estimates very little product remained on the
+                  market at the time of recall initiation.
+Reason:           Product contains undeclared FD&C; Yellow No. 5.
+
+                                     ----
+
+Product:          Plaza Nacho Cheese Topping for Tortilla Chips in 9
+                  ounce cans.  Recall #F-113-2.
+Code:             All lots.
+Manufacturer:     Amigos Canning Company, Inc., San Antonio, Texas.
+Recalled by:      H.E.B. Food Stores, San Antonio, Texas, by telephone
+                  April 3, 1991.  Firm-initiated recall complete.
+Distribution:     Texas.
+Quantity:         None.  7,288 cans were recovered from the market and labeled
+                  with a revised ingredient statement.
+Reason:           Product contains undeclared FD&C; Yellow No. 5.
+
+                                     ----
+
+Product:          Spring Water in 1 gallon clear plastic container with
+                  snap on cap, under Polar Water and Crystal Spring Water
+                  labels.  Recall #F-110-2.
+Code:             All production on the market, however, they are
+                  concentrating on the last 4 months because they believe
+                  from market surveys that is all that remains.
+Manufacturer:     Polar Water Company, Division of Suntory Water Group,
+                  Spring Grove, Virginia.
+Recalled by:      Suntory Water Group, Inc., Atlanta, Georgia, by letter
+                  November 27, 1991, and by telephone November 26, 1991.
+Distribution:     Georgia, Pennsylvania, Virginia, Ohio, Tennessee.
+Quantity:         Approximately 28,194 1-gallon containers were distributed.
+Reason:           Product is contaminated with mold.
+
+                                     ----
+
+                                      -2-
+
+
+Product:          Bottled Water, in 1.5 liter (50.7 fluid ounces) containers.
+                  Recall #F-112-2.
+Code:             Lot #RM1036 08201.
+Manufacturer:     Cascade Clear Water Company, Sedro Wooley, Washington.
+Recalled by:      Talking Rain Beverages Company, Bellevue, Washington,
+                  by visit.  Firm-initiated recall complete.
+Distribution:     Washington state.
+Quantity:         948 cases (12 containers/case) were distributed; firm
+                  estimates none remains on the market.
+Reason:           Product has an off-taste.
+
+                                     ----
+
+                  Class III - A situation in which the use of, or exposure
+                  to a violative product is not likely to cause adverse
+                  health consequences.
+
+                                     NONE
+
+
+                                   COSMETICS
+
+                                     NONE
+
+                           HUMAN DRUGS AND BIOLOGICS
+
+                  Class I -
+
+                                     NONE
+                  Class II - 
+
+Product:          Children's APAP Elixir, in 4 and 8 ounce sizes, a
+                  liquid OTC, non-aspirin drug used for temporary relief
+                  of fever and discomfort due to colds and flu, under the
+                  Barre-National, Alba, Albertson, Besco, Janet Lee, Major
+                  Quality Ty-Pap, Mutual, Peoples, Reliable, Revco, Rite Aid,
+                  Rx Plus and Select brand.  Recall #D-148-2.
+Code:             Lot numbers: Alba, 4 oz, grape  13585
+                  Albertson, 4 oz., cherry 13069, 13414, 13584
+                  Barre, 4 oz, grape 03323, 03786, 13585
+                  Barre, 4 oz, cherry  03160, 03331, 03481, 03691, 13069
+                                       13137, 13278, 13414, 13584, 13694
+                  Besco, 4 oz  02001
+                  Janet Lee, 4 oz, cherry 13278
+                  Major Quality Ty-Pap 4 oz, cherry, 03868, 13069
+                  Mutual, 4 oz, cherry 13278
+                  Peoples, 4 oz., cherry 03281
+                  Reliable, 4 oz, grape 13071, 13279
+                  Reliable, 4 oz, cherry 13137, 13278, 13584, 13694
+                  Reliable, 8 oz, cherry 13069, 13137
+                  Revco, 4 oz, grape  13585, 92370, 92594
+
+                                      -3-
+
+                  Revco, 4 oz, cherry 03626, 13584, 92592, 92593
+                  Revco, 8 oz, cherry 03691, 13584
+                  Rite Aid, 4 oz, grape 03786, 13071, 13279, 13585
+                  Rx Plus, 8 oz, cherry 13278, 13694,
+                  Rx Plus, 4 oz, grape 13279
+                  Select Brand, 4 oz, cherry 13694.
+Manufacturer:     Barre-National, Inc., Baltimore, Maryland.
+Recalled by:      Manufacturer, by letter December 23, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Nationwide, Mexico, Guam, Jamaica.
+Quantity:         3,319,204 units were distributed; firm estimates 252,664
+                  units remain on the market.
+Reason:           Markings on dosage cup are not totally compatible with
+                  label dosage instructions.
+
+                                     ----
+
+Product:          Various drug products:
+                  (a) Allopurinol Tablets, 100 mg, in 100 and 1,000 tablet
+                  bottles, 300 mg, in 100, 500 and 1,000 tablet bottles;
+                  (b) Chlorothiazide Tablets, 500 mg, in 100 and 1,000
+                  tablet bottles;
+                  (c) Diazepam Tablets, 2 mg, 5 mg and 10 mg, in 100, 500
+                  and 1,000 tablet bottles;
+                  (d) Disopyramide Phosphate Capsules, 100 mg and 150 mg, in
+                  100 and 500 capsule bottles;
+                  (e) Doxepin HCl Capsules, 10 mg, 25 mg, and 50 mg, in
+                  100 and 1,000 capsule bottles, 75 mg, in 100 and 500
+                  capsule bottles; 100 mg, in 100 and 1,000 capsule bottles;
+                  150 mg, in 100 capsule bottles;
+                  (f) Ibuprofen Tablets, 200 mg in 60 and 100 tablet bottles;
+                  400 mg, 600 mg, and 800 mg, in 100 500 and 1,000 tablet
+                  bottles;
+                  (g) Meclofenamate Sodium Capsules, 50 mg, in 100 and 250
+                  capsule bottles; 100 mg, in 100, 250, and 500 capsule
+                  bottles;
+                  (h) Metronidazole Tablets, 250 mg, in 100, 250, and 500
+                  tablet bottles; 500 mg, in 50 and 200 tablet bottles;
+                  (i) Methyldopa Tablets, 125 mg, in 100 tablet bottles;
+                  250 mg, in 100 and 1,000 tablet bottles; 500 mg, in
+                  100 and 500 tablet bottles;
+                  (j)  Oxazepam Capsules, 10 and 30 mg, in 100 and 250
+                  capsule bottles; 15 mg, in 100 and 500 capsule bottles;
+                  (k) Perphenazine Tablets, 8 mg, in 100 and 250 tablet
+                  bottles;
+                  (l)  Perphenazine/Amitriptyline HCl Tablets, 1/10,
+                  2/25 and 4/25 mg, in 100 and 500 tablet bottles;
+                  4/10, 4/50 mg, in 100 and 250 tablet bottles;
+                  (m) Propoxyphene Napsylate/Acetaminophen Tablets,
+                  50/325 mg, in 100 tablet bottles; 100/650 mg, in
+                  100, 500 and 1,000 tablet bottles;
+                  (n)  Propranolol HCl Tablets, 20 and 40 mg, in 100, 500,
+                  and 1,000 tablet bottles; 60 mg, in 100 tablet bottles;
+                  80 mg, in 100 and 500 tablet bottles;
+
+                                      -4-
+
+                  (o) Thiothixene Tablets, 2, 5, and 10 mg, in 100 and 500
+                  tablet bottles;
+                  (p) Tolazamide Tablets, 100 mg, in 100 and 250 tablet
+                  bottles; 250 mg, in 100, 250, and 500 tablet bottles;
+                  500 mg, in 100 and 250 tablet bottles.  All products are
+                  packaged and labeled by Chelsea Laboratories for
+                  distribution by Rugby Laboratories, with the exception
+                  of the 200 mg Ibuprofen Tablets, UPS which bear
+                  Rugby and Treasury Drug label.  Recall #D-149/194-2.
+Code:             All lots.
+Manufacturer:     Chelsea Laboratories, Inc., Monroe, North Carolina.
+Recalled by:      Manufacturer, by letter November 1, 1991.  Firm-
+                  initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         Firm estimates 30 percent of these products remain
+                  on the market.
+Reason:           Lack of assurance of bioequivalency and Abbreviated
+                  New Drug Approval discrepancies.
+
+                                     ----
+
+Product:          Adonis Guar Gum Capsules, 530 mg, in 180 capsule bottles,
+                  an OTC product.  Recall #D-197-2.
+Code:             All lots.
+Manufacturer:     Universal Labs. New Brunswick, New Jersey.
+Recalled by:      Adonis Health Products, Baldwin City, Kansas, by
+                  telling mail order customers product was discontinued;
+                  by stamping discontinued in catalogs; and by letter.
+                  Firm-initiated recall complete.
+Distribution:     Nationwide and international.
+Quantity:         Approximately 412 bottles were distributed.
+Reason:           Product marketed without an Approved New Drug Application.
+
+                                     ----
+
+Product:          Whole Blood.  Recall #B-099-2.
+Code:             Unit #131989.
+Manufacturer:     Blood Bank of Delaware, Inc., Newark, Delaware.
+Recalled by:      Manufacturer, by telephone March 20, 1991.  Firm-initiated
+                  recall complete.
+Distribution:     Delaware.
+Quantity:         1 unit.
+Reason:           A unit of Whole Blood, collected from an ineligible
+                  donor due to a history of recurring night sweats,
+                  was distributed.
+
+                                     ----
+
+Product:          Red Blood Cells.  Recall #B-108-2.
+Code:             Unit #4659671.
+Manufacturer:     Department of the Navy, Naval Hospital, Groton, Connecticut.
+Recalled by:      Manufacturer, by memorandum February 25, 1991.  Firm-
+                  initiated recall complete.
+Distribution:     New Jersey.
+
+                                      -5-
+
+
+Quantity:         1 unit.
+Reason:           Blood product, which tested reactive for the antibody
+                  to the human immunodeficiency virus type 1 (anti-HIV-1),
+                  was distributed.
+
+                                     ----
+
+Product:          (a) Source Leukocytes; (b) Source Plasma.
+                  Recall #B-111/112-2.
+Code:             Unit numbers:  (a) 203279, 207955, 224669;
+                  (b) 198073, 198471, 203089, 204142, 205207, 205499,
+                  206379, 206794, 207443, 207955, 208701, 209360, 211123,
+                  224669, 229726, 230941, 231855, 232220, 232925, 234513,
+                  235346, 236858.
+Manufacturer:     North American Biologicals, Inc., (NABI), Grand River
+                  Donor Center, Detroit, Michigan.
+Recalled by:      NABI, Miami, Florida, by letters dated August 29, 1991.
+                  Firm-initiated recall ongoing.
+Distribution:     North Carolina, New Jersey, Austria, Switzerland.
+Quantity:         (a) 3 units; (b) 22 units.
+Reason:           Blood products from donor who tested initially
+                  reactive to the hepatitis B surface antigen (HBsAg),
+                  were distributed.
+
+                                     ----
+
+Product:          Platelets, Pheresis.  Recall #B-113-2.
+Code:             Unit #0237253.
+Manufacturer:     Bergen Community Regional Blood Center, Paramus,
+                  New Jersey.
+Recalled by:      Consignee discovered error and returned unit to
+                  firm August 7, 1991.  Recall complete.
+Distribution:     New Jersey.
+Quantity:         1 unit.
+Reason:           Blood products, labeled with incorrect expiration
+                  dates, were distributed.
+
+                                     ----
+
+Product:          Red Blood Cells.  Recall #B-115-2.
+Code:             Unit numbers 25FR03816, 25LM00549, 25FR03833, 25FR013818,
+                  25LM00551, 25FR03828, 25LM00566, 25E66079, 25FR03815,
+                  25LM00455, 25LM00555, 25GW06723, 25GW06778, 25GW06730,
+                  25GW06729, 25GP05037.
+Manufacturer:     American Red Cross Blood Services, Syracuse, New York.
+Recalled by:      Manufacturer, by telephone January 17, 1991, followed
+                  by letter May 30, 1991.  Firm-initiated recall complete.
+Distribution:     New York.
+Quantity:         16 units.
+Reason:           Blood components, which were previously shipped
+                  under unacceptable temperatures for an indeterminate
+                  amount of time, were distributed.
+
+                                     ----
+                                      -6-
+
+CORRECTION:       Olympus PK TP System Test Kit for screening of Treponema
+                  pallidum antibodies, Recall #B-070-2 which appeared in the
+                  December 26, 1991 Enforcement should read:
+
+                  Quantity:  128 kits were distributed.
+
+                                     ----
+
+                  Class III -
+
+Product:          Film-Coated Aspirin, 5 grain, an OTC product in bottles
+                  of 100, 250, 270, 300, and 500 tablets, under Granutec House
+                  label of "CPL", Eckerd Drug, Super D, Smitty's, Shopko,
+                  Perry Drug, Medi-Save, Mason Drugs, K & B, Kerr Drugs,
+                  Harco, Harbest, FDC and Fays.  Recall #D-195-2.
+Code:             Lot numbers:  007372, 010034, 009128, 009170, 007378,
+                  011143, 009171, 007243, 007257, 012008, 002018, 006164,
+                  007418, 008023, 010085, 011140, 006250, 009160, 010042,
+                  010290, 009133, 010154, 010187, 010004, 009130, 003184,
+                  010166, 010137, 008027, 008063, 010258, 010059, 101019,
+                  009109, 009070, 010162, 010100, 011074, 011075, 010193,
+                  008382, 009175.
+Manufacturer:     Granutec, Inc., Wilson, North Carolina.
+Recalled by:      Manufacturer, by letter November 27, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Florida, Texas, Georgia, North Carolina, Tennessee,
+                  Ohio, Arizona, Wisconsin, Missouri, Utah, Illinois,
+                  Michigan, Louisiana, New Jersey, California, Alabama,
+                  Virginia, New York, Kentucky.
+Quantity:         146,388 100-count units, 5,184 250-count units,
+                  13,068 270-count units, 32,592 300-count units,
+                  65,912 500-count units were distributed.
+Reason:           Product does not meet dissolution specifications.
+
+                                     ----
+
+Product:          Oxygen, USP, Medical Gas packed into size D and E
+                  cylinders.  Recall #D-196-2.
+Code:             Lot numbers 06-14 91, 06-25 91, 06-28 91.
+Manufacturer:     Liberty Medical, Inc., Westlake, Ohio (formerly known
+                  as Liberty Respiratory, Inc.)
+Recalled by:      Manufacturer, by letter December 18, 1991, followed by
+                  telephone and visit.  Firm-initiated recall ongoing.
+Distribution:     Ohio.
+Quantity:         95 cylinders were distributed; firm estimates less than
+                  12 remain in distribution.
+Reason:           Purity level below U.S.P specifications.
+
+                                     ----
+
+Product:          Promethazine Syrup, plain, promethazine hydrochloride
+                  6.25 mg/5 ml, a Rx clear green oral liquid antihistaminic
+                  used in the treatment of allergies, in 5 ml unit dose
+                  cups.  Recall #D-198-2.
+
+                                      -7-
+
+Code:             Lot numbers:  102605 EXP 2/92, 105607 EXP 4/92, 106605
+                  EXP 6/92, 107602 EXP 7/92, 109610 EXP 9/92, 110613 EXP 10/92.
+Manufacturer:     Barre-National, Inc., Baltimore, Maryland.
+Recalled by:      Xactdose, Inc., South Beloit, Illinois (repacker/
+                  responsible firm), by letter January 6, 1992.
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         1,330 cases (10 cups per tray, 10 trays per carton)
+                  were distributed; firm estimates 130 cases remain on
+                  the market.
+Reason:           Label incorrectly declares product as an expectorant
+                  and antitussive.
+
+                                     ----
+
+Product:          Red Blood Cells.  Recall #B-109-2.
+Code:             Unit #23F19620.
+Manufacturer:     American Red Cross Blood Services, Asheville, North
+                  Carolina.
+Recalled by:      Manufacturer, by telephone June 14, 1991.  Firm-
+                  initiated recall complete.
+Distribution:     North Carolina.
+Quantity:         1 unit.
+Reason:           Blood product, which was labeled with an incorrect
+                  expiration date, was released.
+
+                                     ----
+
+Product:          Platelets.  Recall #B-110-2.
+Code:             Unit #2518528.
+Manufacturer:     Central Indiana Regional Blood Center, Inc.,
+                  Indianapolis, Indiana.
+Recalled by:      Manufacturer, by telephone April 29, 1991.  Firm-
+                  initiated recall complete.
+Distribution:     Indiana.
+Quantity:         1 unit.
+Reason:           Blood product, which tested non-reactive for the
+                  antibody to the human immunodeficiency virus type 1
+                  virus (anti-HIV-1) but was collected from a donor who
+                  previously tested anti-HIV-1 reactive, was released.
+
+                                     ----
+
+Product:          Red Blood Cells.  Recall #B-114-2.
+Code:             Unit #0231298.
+Manufacturer:     Bergen Community Regional Blood Center, Paramus,
+                  New Jersey.
+Recalled by:      Consignee discovered error and returned unit to
+                  firm July 18, 1991.  Recall complete.
+Distribution:     New Jersey.
+Quantity:         1 unit.
+Reason:           Blood product labeled with incorrect expiration
+                  dates was distributed.
+
+                                     ----
+                                      -8-
+
+
+                       DEVICES AND RADIOLOGICAL PRODUCTS
+
+                  Class I -
+
+                                     NONE
+                  Class II -
+
+Product:          Olympus Endoscope Washer (a) Model EW-10; (b) Model EW-20.
+                  Recall #Z-039/040-2.
+Code:             All serial numbers.
+Manufacturer:     Olympus Corporation, Tokyo, Japan.
+Recalled by:      Olympus Corporation, Lake Success, New York, by
+                  letter October 16, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         (a) 290 units; (b) 545 units were distributed.
+Reason:           Inadequate design of the device may allow colonization
+                  of water-borne organisms such as Pseudomonas in the
+                  internal tanks and tubing.
+
+                                     ----
+
+Product:          Laerdal Silicone Resuscitators, adult, child, and
+                  infant models.  Recall #Z-205-2.
+Code:             Adult size model numbers: 87 00 00, 87 00 16, 87 00 01,
+                  87 00 03, 87 00 05;
+                  Child size model numbers:  86 00 00, 86 00 16, 86 00 01,
+                  86 00 03, 86 00 05;
+                  Infant size model numbers:  85 00 00, 85 00 16, 85 00 01,
+                  85 00 03, 85 00 05.
+Manufacturer:     Laerdal Medical, Stavanger, Norway.
+Recalled by:      Laerdal Medical Corporation, Armonk, New York, by 
+                  letter on or about the first week of June 1991.
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide and international.
+Quantity:         Several thousand resuscitators remain in commerce.
+Reason:           Labeling did not contain adequate instructions for use.
+
+                                     ----
+
+Product:          The Pulsator Contact Lens Cleaning Accessory, used with
+                  contact lens solutions to loosen and remove normal tear
+                  residues and debris for hard, soft and rigid gas
+                  permeable contact lenses.  Recall #Z-206-2.
+Code:             Not coded.  All outstanding stock.
+Manufacturer:     Chinese Enterprise, Inc., Taipei, Taiwan.
+Recalled by:      Eaton Medicals Corporation, Memphis, Tennessee, by
+                  telephone November 7, 1991, followed by letter
+                  November 11, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         312 units were distributed; firm estimates 244 units
+                  remain on the market.
+
+                                      -9-
+
+
+Reason:           The labeling does not contain adequate directions for
+                  use and other label deficiencies.  Further, the device
+                  has been marketed without an approved 510(k) premarket
+                  notification.
+                                     ----
+
+Product:          Model V2465P Image Intensifier for medical diagnostic
+                  x-ray fluoroscopy.  Recall #Z-233-2.
+Code:             Undetermined.
+Manufacturer:     Hamamatsu Corporation, Bridgewater, New Jersey.
+Recalled by:      Manufacturer.  FDA approved the firm's corrective action plan
+                  November 29, 1991.  Firm-initiated field correction ongoing.
+Distribution:     California.
+Quantity:         1 unit.
+Reason:           Noncompliance with the performance standard for x-ray
+                  products in that it was sold for medical use without a
+                  certification label.
+
+                                     ----
+
+Product:          Hewlett-Packard M1900A Adapter Cables used with
+                  Hewlett-Packard Sa02 Pulse Oximeter Monitoring
+                  Equipment Module 78352C with Options A05 and 16, and
+                  Model 78354C with Options A14, A17, A18 and A51.
+                  Recall #Z-234-2.
+Code:             Problem arises with model numbers 78834C used with Options
+                  A19, C20, C30 AND C36;
+                  Model 78834CU used with Options E05
+                  Model 78352A used with Options A15, A16
+                  Model 78352C used with Options AO5, A16, A66, 297
+                  Model 78354A used with Options A14, A17, A18, 298, A19, 289
+                  Model 78354AU used with Options 772, E15
+                  Model 78354C used with Options A14, A17, A18, A19, A51,
+                  298, 285
+                  Model 78354CU used with Options A55 when used with damaged
+                  Nellcor SA02 sensors or HPM1900A Nellcor Adapter
+                  Cables are used.
+Manufacturer:     Hewlett-Packard, Boblingen, West Germany (importer).
+                  Nellcor Inc., Hayward, California (cable component).
+Recalled by:      Hewlett-Packard, Waltham, Massachusetts, by letter
+                  September 12, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide and international.
+Quantity:         Approximately 14,319 monitors were distributed.
+Reason:           Thermal burns may occur on the patient at the sensor site
+                  if the monitoring equipment is used with damaged Nellcor
+                  Sa02 Sensors or HPM1900A Adapter Cables for the Nellcor
+                  Sensor.
+                                     ----
+
+Product:          (a) 5 French Urinary Catheter;
+                  (b) FST 200 Pressure Monitoring System
+
+                                     -10-
+
+
+Code:             Polyurethane urinary catheter equipped with a sensor
+                  (transducer) connected to a fiberoptic cable to be used
+                  with the FST 200 Pressure Monitor to monitor the pressure
+                  exerted against the bladder wall for diagnostic purposes.
+                  Recall #Z-237/238-2.
+Code:             Catalog number is UD5.  No expiration date.
+                  LOT #           SERIAL #
+                  M200090         0189, 0105, 0172, 0121, 0101, 0071, 0080,
+                                  0007, 0225, 0186, 0134, 0212, 0046, 0081,
+                                  0127, 0074, 0104, 0107, 0184
+                  M200070         0128, 0110, 0088, 0089, 0093, 0092, 0039,
+                                  0114
+                  M200130         0628, 0500, 0653, 0409, 0742, 0610, 0575,
+                                  0636, 0802
+                  M200060         0059, 0021, 0016, 0035, 0012, 0031
+                  Monitor Codes - The monitors are assigned a serial number.
+                  The following is a list of the serial numbers under recall:
+                  064AS2, 065AS2, 053CS2, 059AMS2, 078AS2, 068AS2, 085AS2,
+                  086AS2.
+Manufacturer:     FiberOptic Sensor Technologies, Inc., Ann Arbor, Michigan.
+Recalled by:      Manufacturer, by telephone October 31, 1991.  Firm-
+                  initiated recall complete.
+Distribution:     Michigan, Massachusetts, Minnesota, Pennsylvania.
+Quantity:         42 catheters and 8 monitors were distributed.
+Reason:           The device has been marketed without an approved 510(k)
+                  premarket notification.
+
+                                     ----
+
+Product:          Collimators used in stationary C-arm fluoroscopic
+                  systems:  (a) Model TF-UA-2; (b) Model TF-UA-2L.
+                  Recall #Z-251/252-2.
+Code:             Undetermined.
+Manufacturer:     Toshiba America Medical Systems, Inc., Tustin, California.
+Recalled by:      Manufacturer.  FDA approved the firm's corrective action
+                  plan November 27, 1991.  Firm-initiated field correction
+                  ongoing.
+Distribution:     Nationwide.
+Quantity:         (a) 61 units; (b) 149 units were distributed.
+Reason:           Devices failed to meet the source-skin distance (SSD)
+                  requirement for stationary fluoroscopic systems as stated
+                  in 21 CFR 1020.32(f).
+
+                                     ----
+
+Product:          Model KXO-50N and KXO-80N Control/Generator used in
+                  systems incorporating an EPS-20 Electronic Photospot Camera.
+                  Recall #Z-253/254-2.
+Code:             Undetermined.
+Manufacturer:     Toshiba America Medical Systems, Inc., Tustin, California.
+Recalled by:      Manufacturer.  FDA approved the firm's corrective action plan
+                  November 29, 1991.  Firm-initiated field correction ongoing.
+Distribution:     Nationwide.
+
+                                     -11-
+
+
+Quantity:         2 units were distributed.
+Reason:           Devices failed to comply with 21 CFR 1020.32(c), Actuation
+                  of tube, and 21 CFR 1020.32(e), indication of potential and
+                  current requirements for fluoroscopic systems due to
+                  problems in control software.
+
+                                     ----
+
+Product:          Model BLR-15AA Collimator used in general radiographic
+                  and tomographic systems.  Recall #Z-255-2.
+Code:             Undetermined.
+Manufacturer:     Toshiba America Medical Systems, Inc., Tustin, California.
+Recalled by:      Manufacturer.  FDA approved the firm's corrective action plan
+                  November 29, 1991.  Firm-initiated field correction ongoing.
+Distribution:     Nationwide.
+Quantity:         92 units were distributed.
+Reason:           Devices failed to comply with 21 CFR 1020.30(h)(4)(ii)
+                  requirements for diagnostic x-ray products in that the
+                  user has not been properly informed about the actual
+                  aluminum equivalence of the filters which can be selected.
+
+                                     ----
+
+Product:          Insall/Burstein II 5 mm Tibial Augmentation Blocks:
+                  (a) Augmentation Block Unsterile, product numbers:
+                  31-8554-054-05, 31-8554-059-05, 31-8554-064-05,
+                  31-8554-069-05, 31-8554-074-05;
+                  (b) Augmentation Block, Sterile, product numbers:
+                  32-8554-054-05, 32-8554-059-05, 32-8554-064-05,
+                  32-8554-069-05, 32-8554-074-05.  Recall #Z-257/258-2.
+Code:             Product Numbers       Lot numbers:  
+                 (a)  31-8554-054-05    33115400, 33110300
+                  31-8554-059-05        33115600, 33110500
+                  31-8554-064-05        33115800, 33110700
+                  31-8554-069-05        33116000, 33110900
+                  31-8554-074-05        33116200, 33111100
+                  (b) 32-8554-054-05    33249800, 33178400, 33066200
+                  32-8554-059-05        33261500, 33250000, 33231800, 33231900,
+                                        33193200, 33178600, 33066400
+                  32-8554-064-05        33331200, 33261900, 33250200,
+                                        33232200, 33232300, 33193400,
+                                        33178800, 33066600, 06138800, 06138900
+                  32-8554-069-05        33262300, 33250400, 33232600, 33232700,
+                                        33193600, 33179000, 33066800, 06139900
+                  32-8554-074-05        33180100, 33067000
+Manufacturer:     Zimmer, Inc., Warsaw, Indiana.
+Recalled by:      Manufacturer, by telephone October 17-18, 1991, followed
+                  by letter October 21, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide, Japan, France.
+Quantity:         252 pieces subject to recall.
+Reason:           The augmentation block may not tighten up with the tibial
+                  plate (tray).
+                                     ----
+
+                                     -12-
+
+
+Product:          Hewlett-Packard Central Station Monitor and Arrhythmia
+                  Monitoring Option with Option A05-Six patient multiwave
+                  configuration with 2-channel delayed realtime recording.
+                  Recall #Z-260-2.
+Code:             HP 78560A/Option A05 - All units.
+Manufacturer:     Hewlett-Packard, Waltham, Massachusetts.
+Recalled by:      Manufacturer, by letter October 15, 1991.  Firm-initiated
+                  field correction ongoing.
+Distribution:     Nationwide, Canada, Germany, Australia, Hong Kong,
+                  Singapore, Taiwan, Australia.
+Quantity:         430 monitors were distributed.
+Reason:           Software problem - Misinterpretation of a patient's 
+                  condition could occur due to corruption of the second
+                  channel of a 2-channel delayed recording when the patient
+                  parameters at the bedside monitor are turned off during a
+                  delayed recording.
+
+                                     ----
+
+Product:          Model CO2 Laser Machine Tool Workstation (F series).
+                  Recall #Z-261-2.
+Code:             Undetermined.
+Manufacturer:     MC Machinery Systems, Inc., Wood Dale, Illinois.
+Recalled by:      Manufacturer.  FDA approved the firm's corrective
+                  action plan January 10, 1992.  Firm-initiated field
+                  correction ongoing.
+Distribution:     Nationwide.
+Quantity:         12 units.
+Reason:           Noncompliance with the performance standard for laser
+                  products in that it lacked adequate protective housing
+                  shield; adequate user instructions for calculating the
+                  Normal Hazard Zone (NHZ) surrounding the Class IV laser
+                  product.
+                                     ----
+
+                  Class III -
+
+Product:          X-Ray Bone Densitometer, a device that uses the
+                  technique known as Dual Energy X-Ray Absorptiometry (DEXA)
+                  to estimate skeletal bone mineral in vivo.  Recall #Z-136-2.
+Code:             Serial numbers: 633 through 734 (except 634, 640, 657, 658,
+                  685, and 732) plus 389, 390, 391, 398, 399, 405, 406, 604,
+                  605, 2005, 2006, 2007.
+Manufacturer:     Norland Corporation, Ft. Atkinson, Wisconsin.
+Recalled by:      Manufacturer, by letter September 6, 1991.  Firm-initiated
+                  field correction ongoing.
+Distribution:     Virginia, California and international.
+Quantity:         108 units were distributed.
+Reason:           A crimping problem at the cable terminals may cause
+                  loss of electrical connection and result in the unit
+                  failing daily calibration.
+
+                                     ----
+
+                                     -13-
+
+
+Product:          Oxoid Bile Aesculin Discs DD18, used for the
+                  identification of Enterococcus species Enterobacteriacene,
+                  Listeria monocytogenes and anerobic organisms and
+                  presence of constitutive enzymes.  Recall #Z-219-2.
+Code:             36751 EXP 2/92.
+Manufacturer:     Unipath Ltd., Basingstoke, England.
+Recalled by:      Unipath Company, Oxoid Division, Ogdenburg, New York
+                  (importer), by telephone December 5 and 6, 1991, followed by
+                  letter on or about December 12, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Pennsylvania, Ohio, Florida, Illinois.
+Quantity:         11 vials (each containing 50 discs) were distributed.
+Reason:           The product no longer gives a clear color reaction.
+                  The use of these discs could lead to failure to
+                  identify the presence of an aesculin-hydrolysing organism.
+
+                                     ----
+
+Product:          Unipolar Provisional Liner, Product #5003-44-01, a dummy
+                  implant/sizing instrument used for sizing purposes to
+                  determine the correct size of an acetabular cup shell
+                  and acetabular cup poly liner to use in a hip implant
+                  procedure.  Recall #Z-256-2.
+Code:             Lot #74515300.
+Manufacturer:     Zimmer, Inc., Warsaw, Indiana.
+Recalled by:      Manufacturer, by letter November 8, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Nationwide.
+Quantity:         52 pieces were distributed.
+Reason:           The provisional liner was stamped 38-43 mm OD, but
+                  the actual size is 44-49 mm OD.
+
+                                     ----
+
+                              VETERINARY PRODUCTS
+
+                                     NONE
+
+                                     ----
+
+Injunction Action Filed:
+
+Against:          Gulf Harvest Seafood, Inc., and Roger C. Van Dyke and
+                  Ronald M. Engle, Port Arthur, Texas.
+Product:          Crabmeat (90-604-788/792).
+
+                                     -14-
+
+
+
+
+Charge:           Adulterated - Product contained a poisonous or deleterious
+                  substance, Listeria monocytogenes, and was packed,
+                  prepared, or held under insanitary conditions whereby it
+                  may have been contaminated with filth.
+Filed:            November 15, 1991 - U.S. District Court for the
+                  Eastern District of Texas, Beaumont Division;
+                  Civil #1:91-CV0905, INJ #1272.
+Consent Decree:   Signed by the firm on December 13, 1991.
+
+
+                                     -15-

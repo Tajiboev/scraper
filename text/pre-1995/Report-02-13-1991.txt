@@ -1,0 +1,839 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  NOV
+		  Mar
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      23 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+02/12/1991 
+
+FDA Enforcement for the week of February 13, 1991 
+
+
+
+                            FDA ENFORCEMENT REPORT
+                             FOR FEBRUARY 13, 1991
+
+                                                         February 13, 1991
+Recalls and Field Corrections:
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  Product will cause serious adverse health consequences or 
+                  death.
+
+
+Product:          Medical foods, in 7 ounce size tins:
+                  (a) Maxamaid MSUD, a dietary supplement 
+                  for individuals with Maple Syrup Urine disease; 
+                  (b) Maximaid XMET, THRE, VAL, ISOLEU, a dietary 
+                  supplement for individuals with Methylamalomic Acedemia 
+                  or Propionic Acedemia;
+                  (c) Maximaid XMET, a dietary supplement for individuals 
+                  with Vitamin B6 non-responsive Hemocystinuria;
+                  (d) Maxamum-XP, a dietary supplement for individuals
+                  with Phenylketonuria.  These supplements are supplied in
+                  powdered form and are to be mixed with water so they
+                  may be taken as a drink with a meal.  Recall #F-184/187-1.
+
+                                      -1- 
+
+
+
+
+
+
+Code:             Batch numbers: (a) 24103 EXP 1/1/91; (b) 2310 EXP 12/1/90;
+                  (c) 23101 EXP 12/1/90l (d) 23094 and 23095 EXP 12/1/90. 
+Manufacturer:     Scientific Hospital Supplies, Ltd., Liverpool, England. 
+Recalled by:      Ross Laboratories, Columbus, Ohio, by telephone 
+                  November 20, 1990.  Firm-initiated recall complete. 
+Distribution:     Nationwide. 
+Quantity:         754 cases (10 tins/case) were distributed.
+Reason:           Product contains L-tryptophan manufactured by Showa 
+                  Denko, which has been shown to be associated with the 
+                  development of eosinophilia-myalgia syndrome. 
+
+                                     ---- 
+
+Product:          Nutritional products: 
+                  (a) MSUD-1, Mead Johnson amino acid mixture with
+                  vitamins and minerals, in 17-1/2 ounce cans.  The 
+                  product is taken orally and is sold in powder form; 
+                  (b) PKU-3, Mead Johnson amino acid mixture with 
+                  vitamins and minerals, in 17-1/2 ounce cans.
+                  Recall #F-188/189-1.
+Code:             (a) 4KS12 EXP 2/1/91; (b) 4KS21 EXP 2/1/91. 
+Manufacturer:     Milupa AG, West Germany.
+Recalled by:      Bristol-Myers Squibb Company, Mead Johnson Nutritional
+                  Group, Evansville, Indiana, by telephone November 29, 
+                  1990.  Firm-initiated recall ongoing. 
+Distribution:     (a) Georgia; (b) California, Connecticut, Florida,
+                  New York, Tennessee, Texas. 
+Quantity:         (a) 12 cases (2 cans/case); (b) 86 cases (2 cans/case)
+                  were distributed. 
+Reason:           Product contains L-tryptophan manufactured by Showa 
+                  Denko, which has been shown to be associated with the 
+                  development of eosinophilia-myalgia syndrome. 
+
+                                     ---- 
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the 
+                  probability of serious adverse health consequences is 
+                  remote. 
+
+
+Product:          Parker's Pride brand Sugar Coated Ball Gum, in
+                  11 ounce bags.  Recall #F-155-1.
+Code:             All lots. 
+Manufacturer:     Hannaford Brothers Company, South Portland, Maine.
+Recalled by:      Manufacturer, by telephone and letter on or about 
+                  December 27, 1990.  Firm-initiated recall ongoing.
+Distribution:     New England area and New York.
+Quantity:         46 cases (12 bags/case) were distributed. 
+Reason:           Product contains undeclared FD&C; Yellow No. 5.
+
+                                     ---- 
+
+                                      -2- 
+
+
+
+
+
+Product:          Boraxo hand cleansers, used with or without water 
+                  in metal cans which can be opened and inverted to fit 
+                  into hand dispensers: 
+                  (a) Boraxo Red Label Hand Cleanser, 4 pounds 8 ounces,
+                  product #00354; 
+                  (b) Boraxo Waterless Hand Cleanser, 4 pounds 12 ounces, 
+                  product #00355; 
+                  (c) Boraxo Waterless Hand Cleanser, 16 ounces,
+                  product #00357.  Recall #F-190/192-1. 
+Code:             Lot numbers: F160, F180, F210, F220, F250, F260, F270,
+                  F290. 
+Manufacturer:     Innovative Chemical Corporation, Amherst, New York. 
+Recalled by:      The Dial Corporation, Scottsdale, Arizona, by telephone 
+                  between July 8 and 11, 1990 followed by letter
+                  August 2, 1990.  Firm-initiated recall ongoing. 
+Distribution:     Connecticut, Georgia, Indiana, Kentucky, Iowa, Illinois,
+                  Michigan, New Jersey, Ohio, Oklahoma, Pennsylvania, 
+                  Tennessee, Virginia, Wisconsin. 
+Quantity:         258 cases were distributed; firm estimates none remains 
+                  on market.
+Reason:           Product is contaminated with Pseudomonas maltophilia
+                  bacteria. 
+                                     ---- 
+
+                  Class III - A situation in which the use of, or exposure
+                  to a violative product is not likely to cause adverse 
+                  health consequences.
+
+
+Product:          Ice Cube Shaped Chocolate Blocks, packaged 48 pieces
+                  per plastic tub.  Recall #F-149-1.
+Code:             All lots. 
+Manufacturer:     Moritz Eiskonfekt GmbH, Hamburg, Germany. 
+Recalled by:      Core-Mark International, Portland, Oregon, by letter
+                  November 20, 1990.  Firm-initiated recall complete. 
+Distribution:     Oregon, Washington state. 
+Quantity:         Approximately 64 cartons (24 tubs/carton) were distributed; 
+                  firm estimates none remains on the market.
+Reason:           Product is rancid.
+
+                                     ---- 
+
+                                   COSMETICS
+
+                                     NONE 
+
+                           HUMAN DRUGS AND BIOLOGICS
+
+                  Class I - 
+
+                                     NONE 
+
+                                      -3- 
+
+
+
+
+
+                  Class II -
+
+Product:          AMI-DECON (Tri-Phen Chlor) Tablets, an Rx antihistamine,
+                  under the Amide label in 1,000 tablet bottles and under 
+                  Rugby label in bottles of 100, 500 and 1,000. 
+                  Recall #D-174-1.
+Code:             Lot #90104 EXP 4/92.
+Manufacturer:     Amide Pharmaceutical, Inc., Little Falls, New Jersey. 
+Recalled by:      Manufacturer, by letters of December 4 and 27, 1990.
+                  Firm-initiated recall ongoing.
+Distribution:     New York, Florida, New Jersey, Pennsylvania.
+Quantity:         6,351 bottles of 100, 720 bottles of 500 and 459 bottles
+                  of 1,000 were distributed.
+Reason:           Variations in tablet size resulting in subpotency and 
+                  superpotency. 
+                                     ---- 
+
+Product:          GHB-PM, Gamma Hydroxybutyric Acid, marketed as an OTC 
+                  food supplement promoting hormone stimulation producing 
+                  muscle gain and weight loss.  Recall #D-175-1.
+Code:             All lots. 
+Manufacturer:     Ultimate Nutritional Systems, Inc., New Brunswick,
+                  New Jersey. 
+Recalled by:      Ultimate Strength Systems Labs, Inc., Newington,
+                  Connecticut, by telephone in October 1990.  Firm- 
+                  initiated recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         Firm estimates none remains on the market.
+Reason:           Product marketed without new drug approval.  See
+                  also FDA press release P90-53, November 8, 1990.
+
+                                     ---- 
+
+Product:          (a) Red Blood Cells; (b) Platelets; (c) Fresh Frozen
+                  Plasma; (d) Recovered Plasma.  Recall #B-064/067-1. 
+Code:             Unit numbers:  (a) 30G03743, 30G08550, 30G10479,
+                  30G16199, 30G21260, 30G26549, 30G30667, 30G34507, 
+                  30G44460, 30G54334, 30G58100, 30G95263, 30H60321, 
+                  30H66648, 30J27896, 30J59145, 30X02445, 30Y07026, 
+                  30Y14355, 30Y23114; 
+                  (b) 30G03743, 30G10479, 30G16199, 30G21260, 30G26549, 
+                  30G30667, 30G44460, 30G54334, 30H60321, 30H66648, 30J59145, 
+                  30Y14355; 
+                  (c) 30G54334, 30J59145, 30Y14355; 
+                  (d) 30G03743, 30G08550, 30G10479, 30G16199, 30G21260, 
+                  30G26549, 30G30667, 30G34507, 30G44460, 30G58100, 
+                  30G95263, 30H60321, 30H66648, 30J27896, 30X02445, 
+                  30Y07026, 30Y23114. 
+Manufacturer:     American Red Cross, Ashley, Pennsylvania. 
+Recalled by:      Manufacturer, by letters of June 20, 1990 and 
+                  July 3, 1990.  Firm-initiated recall ongoing. 
+Distribution:     Pennsylvania, New York, California, Switzerland.
+
+                                      -4- 
+
+
+
+
+
+Quantity:         (a) 20 units; (b) 12 units; (c) 3 units; (d) 17 units.
+Reason:           Blood products which tested non-reactive for the
+                  hepatitis B surface antigen (HBsAg), but were collected 
+                  from donors who previously tested repeatably reactive for 
+                  HBsAg, were distributed.
+
+                                     ---- 
+
+Product:          (a) Red Blood Cells; (b) Platelets, Pooled; 
+                  (c) Fresh Frozen Plasma; (d) Recovered Plasma, Pooled;
+                  (e) Recovered Plasma.  Recall #B-068/072-1. 
+Code:             (a) Unit numbers: 1101724, 2242713, 4406632, 4415127, 
+                  4427019, 4437211, 4442565, 6609353; 
+                  (b) Pool numbers: LP01077 (includes unit 1101724), LP5320 
+                  (includes unit 4427019), LP6797 (includes unit 2242713),
+                  LP9259 (includes 4442565);
+                  (c) Unit #4406632;
+                  (d) Pool numbers: 8803746 (includes unit 6609353),
+                  8806391 (includes unit 4427019), 8811952 (includes
+                  unit 2242713), 8815612 (includes unit 4437211), 
+                  8820403 (includes unit 4442565);
+                  (e) Units 1101724, 4415127. 
+Manufacturer:     The Blood Center of Central Iowa, Des Moines, Iowa. 
+Recalled by:      Manufacturer, by letters beginning September 7, 1990. 
+                  Firm-initiated recall ongoing.
+Distribution:     Iowa, California, Florida, Illinois.
+Quantity:         (a) 8 units; (b) 4 units; (c) 1 unit; (d) 5 units;
+                  (e) 2 units.
+Reason:           Blood components drawn from a donor with a history
+                  of hepatitis were distributed.
+
+                                     ---- 
+
+Product:          Recovered Plasma.  Recall #B-078-1. 
+Code:             Unit #3041406.
+Manufacturer:     J.K. & Susie L. Wadley Research Institute and Blood 
+                  Bank, Dallas, Texas.
+Recalled by:      Manufacturer, by letter June 15, 1989.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Texas, New Jersey, New York.
+Quantity:         1 unit. 
+Reason:           Blood component collected from a donor with a history 
+                  of cancer was distributed.
+
+                                     ---- 
+
+Product:          Recovered Plasma.  Recall #B-089-1. 
+Code:             Unit #43K20475. 
+Manufacturer:     American Red Cross, Waco, Texas.
+Recalled by:      Manufacturer, by telephone June 2, 1990 followed by 
+                  letter November 2, 1990.  Firm-initiated recall ongoing 
+Distribution:     Switzerland.
+Quantity:         1 unit. 
+                                      -5- 
+
+
+
+
+
+Reason:           Blood component tested non-reactive for anti-HIV-1
+                  but was collected from a donor who previously tested
+                  repeatably reactive for anti-HIV-1 was distributed. 
+
+                                     ---- 
+
+Product:          (a) Red Blood Cells; (b) Platelets; (c) Platelets, Pheresis;
+                  (d) Cryoprecipitated AHF; (e) Recovered Plasma. 
+                  Recall #B-092/096-1.
+Code:             Unit numbers: (a) 35G75905, 35M02170; (b) 35G75905; 
+                  (c) 35P02263; (d) 35M02170; (e) 35G75905. 
+Manufacturer:     American Red Cross, Roanoke, Virginia.
+Recalled by:      Manufacturer, by telephone on or about October 12 and 
+                  25, 1988, March 21, 1990 and April 20, 1990.
+                  Firm-initiated recall ongoing.
+Distribution:     Virginia, West Virginia, California, Ohio.
+Quantity:         (a) 2 units; (b) 1 unit; (c) 1 unit; (d) 1 unit;
+                  (e) 1 unit. 
+Reason:           Blood products collected from donors who 1) 
+                  participated in high risk behavior; 2) had taken
+                  anti-malaria prophylaxis during a visit to an area
+                  endemic for malaria; or 3) reported a fever and sore
+                  throat the evening after donating, were distributed.
+
+                                     ---- 
+
+                  Class III - 
+
+Product:          Merthiolate (Thimerosal, USP) 1:1,000 Topical Solution
+                  No 45, in 16 ounce glass bottles, an OTC antiseptic 
+                  product.  Recall #D-173-1.
+Code:             All lots. 
+Manufacturer:     Eli Lilly and Company, Indianapolis, Indiana. 
+Recalled by:      Manufacturer, by letter December 13, 1990.  Firm- 
+                  initiated recall ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         73,827 bottles were distributed.
+Reason:           Product does not meet USP specifications for pH.
+
+                                     ---- 
+
+Product:          (a) Red Blood Cells; (b) Recovered Plasma.
+                  Recall #B-090/091-1.
+Code:             Unit numbers: 43G50149, 43J61601. 
+Manufacturer:     American Red Cross, Waco, Texas.
+Recalled by:      Manufacturer, (a) by telephone June 2 & 6, 1990 followed
+                  by letter June 22, 1990 and July 2, 1990; (b) telephone 
+                  June 2, 1990 followed by letters of July 6, 1990. 
+                  Firm-initiated recall ongoing.
+Distribution:     Texas, California.
+Quantity:         2 units of each component.
+
+                                      -6- 
+
+
+
+
+
+Reason:           Blood components which tested non-reactive for the
+                  human-immunodeficiency virus type 1 (anti-HIV-1)
+                  but were collected from donors who previously tested
+                  repeatably reactive for anti-HIV-1 were distributed.
+
+                                     ---- 
+
+Product:          Red Blood Cells.  Recall #B-097-1.
+Code:             Unit #35G08068. 
+Manufacturer:     American Red Cross, Roanoke, Virginia.
+Recalled by:      Manufacturer, by telephone March 20, 1990.  Firm- 
+                  initiated recall complete.
+Distribution:     Virginia. 
+Quantity:         1 unit. 
+Reason:           Red Blood Cells collected from a donor who had taken
+                  anti-malaria prophylaxis during a visit to an area
+                  endemic for malaria, were distributed.
+
+                                     ---- 
+
+                         MEDICAL DEVICES AND RADIOLOGY
+
+                  Class I - 
+                                     NONE 
+                  Class II -
+
+Product:          Ohmeda Care Plus Incubator.  Recall #Z-204-1. 
+Code:             All serial numbers. 
+Manufacturer:     Ohmeda, Columbia, Maryland. 
+Recalled by:      Manufacturer, by letter January 7, 1991.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         Approximately 2,000 - 3,000 units were distributed. 
+Reason:           The handholes may accidentally be opened if an infant 
+                  kicks the handhole cover with sufficient force. 
+                  The infant may then fall through the open handhole. 
+
+                                     ---- 
+
+Product:          (a) Castle M/C 3671 EO Gas Sterilizer (with aeration);
+                  (b) Castle M/C 3622 Steam Sterilizer (gravity); 
+                  (c) Castle M/C 3633 Steam Sterilizer (high vacuum). 
+                  Single and double door, power and manual door models
+                  are affected.  Recall #Z-206/208-1. 
+Code:             Serial Nos: 47832  47833  47834  47835  47988, 47989  47990 
+                  47991  47992  47993  47994  47995  47996  47997 
+                  47998  47999
+
+                  48001  48326  48327  48328  48329  48330  48331 
+                  48332  48333  48334  48337  48338  48345  48863 
+                  48866  48867
+
+                                      -7- 
+
+
+
+
+
+                  49325  49326  49327  49332  49333  49335  49336 
+                  49338  49607  49609  49610  49612  49613  49614 
+                  49615  49616  49618  49621  49622  49623  49624 
+                  49625  49626  49627  49628, 49629  49630  49925 
+                  49926  49927  49928  49929  49930  49931  49932 
+                  49933  49934  49937 
+
+                  50042  50151  50152  50158  50157  50212  50215 
+                  50216  50218  50224  50225  50226  50228  50229 
+                  50230  50231  50232  50233  50235  50554  50555 
+                  50556  50557  50559  50560  50561  50563  50565 
+                  50566  50567  50568  50569  50572  50573  50853 
+                  50866  50867  50869  50870  50871  50872  50873 
+                  50874  50875  50876  50877  50878  50880  50881 
+                  50882  50883  50884  50885
+
+                  51024  51107  51108  51109  51111  51112  51113 
+                  51115  51116  51117  51118  51119  51121  51172 
+                  51323  51324  51325  51327  51329  51332  51335 
+                  51336  51337  51338  51339  51340  51341  51342 
+                  51566  51567  51568  51572  51574  51575  51576 
+                  51577  51578  51579  51580  51582  51585  51882 
+                  51883  51884  51885  51886  51887  51889  51892 
+                  51893  51894  51895  51896
+                  681189  681926. 
+Manufacturer:     MDT Biologic Company, Rochester, New York.
+Recalled by:      Manufacturer, by visit beginning on or about
+                  December 18, 1990.  Firm-initiated recall ongoing.
+Distribution:     Nationwide and international. 
+Quantity:         178 units were distributed. 
+Reason:           The doors may open under pressure.  There is a potential
+                  for very high pressure release of steam, parts or contents
+                  of device, and a potential exposure to ETO. 
+
+                                     ---- 
+
+Product:          Model TCT-600XT CT Scanners, computed tomography x-ray
+                  systems.  Recall #Z-210-1.
+Code:             All serial numbers. 
+Manufacturer:     Toshiba Corporation, Tokyo, Japan.
+Recalled by:      Toshiba America Medical Systems, Inc., Tustin, California,
+                  FDA approved the firm's corrective action plan
+                  January 18, 1991.  Firm-initiated field correction ongoing. 
+Distribution:     Nationwide. 
+Quantity:         Approximately 15 units were distributed.
+Reason:           Noncompliance with performance standards for x-ray
+                  products in that the radiation dose was found to be lower 
+                  than specified by the firm. 
+
+                                     ---- 
+
+                                      -8- 
+
+
+
+
+
+Product:          Alpha III MGF 110 Mammography System.  Recall #Z-213-1. 
+Code:             Serial numbers: A31504, A31505, A31508, A31509, A31510, 
+                  A31511, A31513, A31514, A31515, A31516, A31517, A31520, 
+                  A31522, A31523, A31525, A31536, A31537, A31539, A31540, 
+                  A31548. 
+Manufacturer:     Instrumentarium Imaging, Inc., Milwaukee, Wisconsin.
+Recalled by:      Manufacturer.  FDA approved the firm's corrective 
+                  action plan February 4, 1990. Firm-initiated field
+                  correction ongoing. 
+Distribution:     Nationwide. 
+Quantity:         20 units subject to field correction. 
+Reason:           Noncompliance with performance standard for x-ray 
+                  products in that labeling, x-ray field size indication
+                  and information to be provided to users is inadequate.
+
+                                     ---- 
+
+Product:          Model 46-903825GXX MVP Control Console, used for
+                  general purpose radiographic and fluoroscopic x-ray 
+                  procedures.  Recall #Z-214-1. 
+Code:             Serial numbers: Units with serial numbers less than 6200. 
+Manufacturer:     G.E.-CGR Espanola SPA, Madrid, Spain. 
+Recalled by:      General Electric Company, Milwaukee, Wisconsin. 
+                  FDA approved the firm's corrective action plan
+                  November 6, 1990.  Firm-initiated field correction ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         538 units were distributed. 
+Reason:           Noncompliance with performance standards for x-ray
+                  products due to inadequate indication of AEC (automatic 
+                  exposure control) exposures and inability to select backup
+                  time if not configured properly at installation.
+
+                                     ---- 
+
+Product:          Collimators:  (a) Model D-50M-M;
+                  (b) Model D-50M-MF; (c) Model DMF-150.
+                  Recall #Z-221/223-1.
+Code:             Serial numbers: (a) 1650 through 4272 (not inclusive);
+                  (b) 4271 through 5153 (not inclusive);
+                  (c) DMFl4036 through 14223 (not inclusive). 
+Manufacturer:     Dial-X Instruments, Inc., Copiague, New York. 
+Recalled by:      Manufacturer.  FDA approved the firm's corrective action
+                  plan December 17, 1990.  Firm-initiated field correction
+                  ongoing.
+Distribution:     Nationwide and international. 
+Quantity:         1,062 units were distributed. 
+Reason:           Noncompliance with performance standards for x-ray products 
+                  in that the x-ray field extends beyond the edge of the
+                  image receptor. 
+                                     ---- 
+
+                                      -9- 
+
+
+
+
+
+Product:          Medi-Tech Tegwire, a single lumen, teflon-coated
+                  guidewire with a non-compliant polyethylene terephthalate 
+                  (PET) balloon mounted at the distal tip, recommended for
+                  percutaneous transluminal angioplasty of the iliac, femoral 
+                  and renal arteries: 
+                  (a) Order #11-102; (b) Order #11-103; 
+                  (c) Order #11-104; (d) Order #11-105; 
+                  (e) Order #11-106; (f) Order #11-107; (g) Order #11-108;
+                  (h) Order #11-109.  Recall #Z-224/231-1.
+Code:             Description: (a) TW 3-2/100; (b) TW 3-4/100;
+                  (c) TW 4-2/100; (d) TW 4-4/100; (e) TW 5-2/100; 
+                  (f) TW 5-4/100; (g) TW 6-2/100; (h) TW 6-4/100. 
+Manufacturer:     Medi Tech Division of Boston Scientific Corporation,
+                  Watertown, Massachusetts. 
+Recalled by:      Manufacturer, by letter January 9, 1991.  Firm-initiated
+                  field correction ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         Firm estimates: 4,800 units distributed in 1989 of the
+                  old design with no caution label and 4,250 units
+                  distributed in 1990 of the old design with caution label. 
+Reason:           Catheter breaks may occur.  The firm is sending an
+                  advisory letter to users which warns them not to use a
+                  diagnostic catheter as a guiding catheter and to avoid
+                  any approach which involves crossing the aortic 
+                  bifurcation and to discontinue use of the product if it 
+                  kinks for any reason. 
+
+                                     ---- 
+
+Product:          Renalin Cold Sterilant for dialysis use, in .946 liter
+                  size plastic bottles.  The product is diluted with
+                  water to make a solution which is used to clean and 
+                  sterilize dialysis equipment.  Recall #Z-237-1. 
+Code:             Lot #0S123. 
+Manufacturer:     Minntech Corporation, Minneapolis, Minnesota. 
+Recalled by:      Manufacturer, by letter September 20, 1990 followed by
+                  telephone September 24, 1990.  Firm-initiated recall
+                  ongoing.
+Distribution:     Nationwide. 
+Quantity:         162 cases (12 quarts/case) were distributed.
+Reason:           Premature degradation of active ingredients.
+
+                                     ---- 
+
+                  Class III - 
+
+Product:          CAL 3 Calibration Standard for TCM, a 17.3 liter compressed 
+                  gas cylinder, for use as a calibration standard for the 
+                  firm's Transcutaneous TCM3 Monitor. Recall #Z-209-1.
+Code:             Lot numbers CC30K96 and CE02K96.
+Manufacturer:     Puritan Bennett Corporation, Lenexa, Kansas.
+
+                                     -10- 
+
+
+
+
+
+Recalled by:      Radiometer America, Inc., Westlake, Ohio, by telephone
+                  June 28 through July 5, 1990, followed by letter July 9,
+                  1990.  Firm-initiated recall complete.
+Distribution:     Nationwide. 
+Quantity:         37 units were distributed.
+Reason:           The cylinders were labeled as and actually contained 12%
+                  oxygen but were supposed to contain 21% oxygen. 
+
+                                     ---- 
+
+Product:          Beckman "AMY 200" Amylase Reagent, Part #442775,
+                  an in-vitro diagnostic product for use on Beckman 
+                  "Synchron CX4 and CX5" analyzer systems, for the
+                  quantitative determination of amylase in serum or plasma. 
+                  Recall #Z-212-1.
+Code:             Lot numbers: M004063 EXP 11/30/90; M006048 EXP 01/31/91;
+                  M007210 EXP 02/28/91. 
+Manufacturer:     Beckman Instruments, Inc. Carlsbad, California
+Recalled by:      Beckman Instruments, Inc., Brea, California by letters
+                  of 10/22/90 and 11/19/90.  Firm-initiated recall ongoing. 
+Distribution:     Nationwide and international
+Quantity:         2,237 units.
+Reason:           The product may exhibit test recoveries higher than 
+                  labeled specifictions.
+
+                                     ---- 
+
+Product:          Coumatrak Protime Test System, Protime Reagent Cartridges,
+                  Order #0300, an in-vitro diagnostic for determination of
+                  prothrombin time.  Recall #Z-234-1. 
+Code:             Lot numbers: P802H37 EXP 7/91, P802J58 EXP 9/91,
+                  P802K59 EXP 9/91, P802K61 EXP 10/91, P802K62 EXP 10/91, 
+                  P802K63 EXP 10/91 and P802K64 EXP 10/91.
+Manfacturer:      BioTrack, Inc., Mountain View, California.
+Recalled by:      Manufacturer, by letter January 9, 1991 and by mailgram 
+                  January 14, 1991.  Firm-initiated recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         2,560 cartons containing 25 cartridges were distributed.
+Reason:           Package integrity failures may produce falsely high 
+                  prothrombin times.
+                                     ---- 
+
+Product:          Beckman AST Reagent, intended for use with the Beckman
+                  "ASTRA" or "SYNCHRON AS" Analyzer Systems, an in-vitro
+                  diagnostic for the quantitative determination of
+                  aspartate amino transferase (AST) activity in serum:
+                  (a) Part #661960 supplied in 250 determination cartridges); 
+                  (b) Part #660680, supplied in 100 determination cartridges. 
+                  Recall #Z-240/241-1.
+Code:             Lot numbers and EXP dates:
+                  (a) L004024  9/91, L002083  8/91, L902095  8/90,
+                  L902074  8/90, L902034  8/90, L902015 EXP 7/90; 
+                  (b) L902134 8/90, L005014  10/91, L001225  7/91,
+                  L007094  1/92.
+                                     -11- 
+
+
+
+
+
+Manufacturer:     Beckman Instruments (Caribe), Inc., Naguabo, Puerto Rico. 
+Recalled by:      Beckman Instruments, Inc., Brea, California, by letters of
+                  August 22, 1990 and September 26, 1990.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Washington, D.C., Alaska, Hawaii, North Dakota or 
+                  South Dakota, California, Florida and international.
+Quantity:         (a) 10,806; (b) 7,141 units were distributed. 
+Reason:           The product may not meet its labeled performance
+                  specifications.  This may cause lower than expected 
+                  blank absorbence which generates DRR (dynamic range 
+                  reduced) flags and prevents successful loading of the 
+                  reagent cartridge, and inability to maintain quality
+                  control for the reagent within expected ranges. 
+
+                                     ---- 
+
+Product:          Beckman "Paragon" Serum Protein Electrophoresis (SPE) 
+                  Kits, intended for the diagnostic determination of proteins 
+                  in human serum, cerebrospinal fluid, and urine: 
+                  (a) Part #655900 (100 determinations);
+                  (b) Part #446004 (500 determinations).  Recall #Z-242/243-1.
+Code:             Kit Lot No.     Gel Lot No.     GEL EXP date
+                  (a)  M004006    M003205         09/30/91
+                       M003186    M003225         10/31/91
+                       M004117
+                       M003218    M004002         09/30/91
+                       M004141    M004032         10/31/91
+                       M003187    M004003         10/31/91
+                       M004118
+                       M004119
+                       M003190    M004034         10/31/91
+                  (b)  M003226    M003226         09/30/91
+                       M004054    M004054         10/31/91
+                       M004055    M004055         10/31/91. 
+Manufacturer:     Beckman Instruments, Inc., Carlsbad, California.
+Recalled by:      Beckman Instruments, Inc., Brea, California, by letters 
+                  of September 24, 1990 and October 24, 1990.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         98,390 kits were distributed. 
+Reason:           The product did not perform to its labeled specification
+                  which may cause a slightly enlongated pattern that is 
+                  not well defined on the gel.
+
+                                     ---- 
+
+                              VETERINARY PRODUCTS 
+
+                                     NONE 
+
+                                     -12- 
+
+
+
+
+
+Seizure Actions Filed:
+
+Product:          Disposable Latex Examination Gloves (91-672-865). 
+Charge:           Quality falls below that which it purports or 
+                  represents to possess because article contains holes
+                  and the distributor is not registered.
+Firm:             Northeast Dental Supply, Inc., Rochester and
+                  Pittsford, New York.
+Filed:            December 26, 1990 - U.S. District Court for the 
+                  Western District of New York; Civil #CIV 90-1321T,
+                  FDC #66009. 
+                                     ---- 
+
+Product:          Anchovies (90-471-353/354). 
+Charge:           Adulterated - Olive oil was substituted for anchovies 
+                  fillets.
+Firm:             Tzetzo Bros. Inc., Buffalo, New York. 
+Filed:            January 15, 1991 - U.S. District Court for the
+                  Western District of New York; Civil #CIV-91-0024-A, 
+                  FDC #66005. 
+                                     ---- 
+
+Product:          Surgical Instruments -- 3-1/2 inch Hartman Mosquito 
+                  Hemostatic Forceps and 5-1/2 inch Kelly Hemostatic
+                  forceps (91-575-442/443 and 90-575-462/463).
+Charge:           Adulterated - Quality falls below established standards 
+                  for surgical instruments.  Labeled or invoiced
+                  as stainless steel, they are misbranded and do not conform
+                  to established standards for stainless steel surgical 
+                  instruments.
+Firm:             Transworld Medical Supply, chicago, Illinois. 
+Filed:            January 9, 1991 - U.S. District Court for the 
+                  Southern District of Illinois, Eastern Division; FDC #65937.
+
+                                     ---- 
+
+Product:          Farbital Compound with Codeine #310 (90-576-652). 
+Charge:           Product is a new drug marketed without an approved
+                  New Drug Application. 
+Firm:             Anabolic Inc., Irvine California for Major Pharmaceutical 
+                  Corporation, Chicago, Illinois. 
+Filed:            December 28, 1990 - U.S. District Court for the 
+                  Northern District of of Illinois, Eastern division; 
+                  Civil #90C 7502, FDC #65939.
+
+                                     ---- 
+
+Product:          Farbital Compound with Codeine #310 (90-552-363). 
+Charge:           Product is a new drug marketed without an approved
+                  New Drug Application. 
+Firm:             Anabolic Inc., Irvine California for Major Pharmaceutical 
+                  Corporation, Chicago, Illinois. 
+Filed:            January 24, 1991 - U.S. District Court for the District 
+                  of Nebraska; Civil #91 00023, FDC 65939.

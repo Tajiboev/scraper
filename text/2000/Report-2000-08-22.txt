@@ -1,0 +1,752 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  FEB
+		  Apr
+		
+		
+		
+		  
+		  19
+		  
+		
+		
+		
+		  2001
+		  2003
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      36 captures
+	      18 Oct 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DF
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA 
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration, Department of Health and Human Services. 
+It contains information on actions  taken in connection with agency
+Regulatory activities.
+
+
+
+ August 23, 2000                                                  00-34
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+________
+PRODUCT
+Baron Peanut Butter in 18-ounce plastic jars.  
+Recall #F-780-0. 
+CODE
+None.
+MANUFACTURER
+Bajaj Foods, Ltd., Ahmedabad, India.
+RECALLED BY
+United Trading, Williamsville, New York, by fax on July 6, 2000.  
+Completed recall resulted from sample analysis  and follow-up by the New 
+York State Agriculture & Markets.  
+DISTRIBUTION
+New York.
+QUANTITY
+25 cases (12 units per case) were distributed.
+REASON
+The product contains 58 ppb of aflatoxin.
+
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS III
+__________
+PRODUCT
+Serafin brand Vanilla Dominicana in 2-ounce and 4-ounce rigid plastic 
+bottles, 24 bottles per case.  
+Recall #F-781-0.
+CODE
+None. 
+MANUFACTURER
+Natrex Manufacturing Company, Brooklyn, New York.
+RECALLED BY
+Manufacturer, by telephone on December 16, 1999.  Completed field 
+correction (relabeling) resulted from sample analysis and follow-up by 
+the New York State Department of Agriculture and Markets.
+DISTRIBUTION
+New York.
+QUANTITY
+51 cases of the 2 ounce bottles and 52 cases of the 4-ounce bottles were 
+distributed.
+REASON
+Product is not labeled as imitation vanilla.  It contains ethyl vanillin, 
+which is not an ingredient in standardized vanilla products.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+________
+PRODUCT
+a) Standardized Kentucky (June) Bluegrass Pollen Extract
+b) Standardized 3 Grass Pollen Mix
+c) Standardized 6 Grass Pollen Mix
+d) NWU Standardized Grass Mix  
+e) Individual Patient Treatment Vials - Drops 
+f) Individual Patient Treatment Vials - Injectable.  
+Recall #B-929/934-0.
+CODE
+Standardized Kentucky (June) Bluegrass Pollen Extract, 10,000 BAU/ml, Lot 
+D512082B
+Standardized 3 Grass Pollen Mix   Lot D8010509
+Standardized 6 Grass Pollen Mix   Lot D8010508
+NWU Standardized Grass Mix   Lot D8012801 
+Individual Patient Treatment Vials - First lot number listed -16470106
+Individual Patient Treatment Vials - 15 or 30 ml of sterile injectable 
+vials - First lot number listed - 16475007.  For a complete list of lot 
+numbers, contact FDA, Center for Biologics Evaluation and Research, 
+Office of Compliance (301) 827-6220.
+MANUFACTURER
+Allergy Laboratories of Ohio, Inc., Columbus, Ohio.
+RECALLED BY
+Manufacturer, by telephone on June 25, 1998, and by letters on July 8, 
+1998, and August 27, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Illinois, Maryland, Minnesota, Indiana, Ohio, New York, West Virginia, 
+Arizona.
+QUANTITY
+a) 5/5ml vials, 8/10 ml vials, 1/30 ml vial, 5/50 ml vials
+b) 1/50 ml vial; c) 1/20 ml vial; d) 3 vials; e) 46 vials of 15 or 30 ml 
+vials of oral drops; f) 34 vials were distributed.
+REASON
+Allergenic extracts may have been contaminated with Penicillium sp.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Recovered Plasma.
+Recall #B-995/997-0.
+CODE
+Unit numbers:  a) 19GN41477, 19GN41478, 19GN41480, 19GN41490, 
+19GN41493,19GN41550, 19GN41551, 19GN41552, 19GN41558,19GN41563,19GN41583; 
+b) 19GN41477, 19GN41478
+c) 19GN41477, 19GN41493, 19GN41550, 19GN41551, 19GN41552, 19GN41558, 
+19GN41563, 19GN41583.
+MANUFACTURER
+American Red Cross Blood Services, Paducah, Kentucky.
+RECALLED BY
+American Red Cross Blood Services, Nashville, Tennessee, by telephone on 
+November 4, 1998, followed by letter dated November 17, 1998.  Firm-
+initiated recall complete.
+DISTRIBUTION
+Kentucky, Tennessee, Californa.
+QUANTITY
+a) 11 units; b) 2 units; c) 8 units were distributed.
+REASON
+Blood products were collected in a manner that may have compromised the 
+sterility of the units.
+________
+PRODUCT
+Platelets.  Recall #B-1011-0.
+CODE
+Unit #1672794.
+MANUFACTURER
+Central Kentucky Blood Center (CKBC), Lexington, Kentucky.
+RECALLED BY
+Manufacturer, by letter dated July 17, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Kentucky.
+QUANTITY
+1 unit was distributed.
+REASON
+Platelets were prepared from a unit collected from a donor who had taken 
+aspirin within three days of donation.
+________
+PRODUCT
+Platelets.  Recall #B-1023-0.
+CODE
+Unit #24KW26445.
+MANUFACTURER
+American Red Cross Blood Services, Louisville, Kentucky.
+RECALLED BY
+Manufacturer, by letter dated June 5, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Kentucky.
+QUANTITY
+1 unit was distributed.
+REASON
+Platelets were prepared from a unit collected from a donor who was taking 
+Feldene.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets.  Recall #B-1024/1025-0.
+CODE
+Unit #42FR79545.
+MANUFACTURER
+American Red Cross Blood Services, Cleveland, Ohio.
+RECALLED BY
+Manufacturer, by letter dated April 24, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Ohio.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor taking the drug Arava.
+________
+PRODUCT
+Platelets, Pheresis, Leukocytes Reduced.  Recall #B-1027-0.
+CODE
+Unit #H81499.
+MANUFACTURER
+Northern Illinois Blood Bank, Rockford, Illinois.
+RECALLED BY
+Manufacturer, by letter dated April 25, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Illinois.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was labeled with an extended expiration date.
+________
+PRODUCT
+Patellar Tendon - Hemi, Model No. T030, Serial Numbers  4092163, 
+4092155 , 4092228, 4092201, 4100344,  4100336,  4100328, 4161335, 
+4161343, 4161351, 4161378
+Saphenous Vein, Model No. V010, Serial Numbers 3917983, 6297862, 
+6297897, 6287972, 6287999 
+Achilles Tendon, Model No. T010, Serial Numbers  4100379, 4161386, 
+4161394, 4142659
+Pulmonary Trunk Patch, Model No. P010, Serial Numbers 3999319, 6008879
+ALT Pulmonary Artery, Model No. A035 Serial Number 6276385
+Ascending Thoracic Aorta, Model No. A010, Serial Numbers 6100589, 
+6056547 
+Quadriceps Tendon, Model No. T050, Serial #4121139 
+Semiendinosus Tendon,  Model No. T060, Serial #4121112 
+Saphenous Vein, Model No. V010, Serial #6210848 
+Pericardium, Model No. PM00, Serial Numbers 3887715, 3889114 
+Lateral Meniscus - Bone -Right, Model No. M020,
+Serial Numbers 4062205, 4161297, 4142624
+Medial Meniscus - Bone -Right, Model No. M010, 
+Serial Numbers 4161289, 4142616
+Medial Meniscus - Bone - Left, Model No. M030  
+Serial Numbers 4161319, 4142675
+Lateral Meniscus - Bone - Left, Model No. M040,
+Serial Numbers 4161327, 4142683
+Patellar Tendon, Model No. T020, Serial Numbers 4142691, 4142632 
+Pulmonary Branch Patch, Model No. P020, Serial #6298168
+Pulmonary Hemi-Artery, Model No. PH00,  Serial #6297854.  
+Recall #B-1028-0.
+CODE
+See above.
+MANUFACTURER
+CryoLife, Inc., Kennesaw, Georgia.
+RECALLED BY
+Manufacturer, by letters dated March 3, 6, 9, 10, 23, 27, 2000, 
+April 6, 7, 10 or 12, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Arizona, California, Colorado, Florida, Illinois, Kansas, 
+Kentucky, Massachusetts, Minnesota, Nevada, New Jersey, 
+Virginia, Wisconsin, Canada, Korea.
+QUANTITY
+43 units were distributed.
+REASON
+Various human bone and musculoskeletal tissues for transplant, 
+which were collected from donors who had not been properly evaluated.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Recovered Plasma.
+Recall #B-1029/1031-0.
+CODE
+Unit #8504156.
+MANUFACTURR
+Community Blood center, Dayton, Ohio.
+RECALLED BY
+Manufacturer, by letter dated April 4, 2000, and by fax on March 16, 
+2000, and July 17, 2000.  Firm-initiated recall complete.
+DISTRIBUTION
+Ohio and Switzerland.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor with a history of jaundice.
+________
+PRODUCT
+Whole Blood.  Recall #B-1035-0.
+CODE
+Unit #Y25309.
+MANUFACTURER
+Aurora Area Blood Bank, Aurora, Illinois.
+RECALLED BY
+Manufacturer, by telephone on May 2, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Indiana.
+QUANTITY
+1 unit was distributed.
+REASON
+Autologous whole blood unit tested repeatedly reactive for Anti-HBc was 
+not labeled with "biohazard" label.
+________
+PRODUCT
+a) Red Blood Cells; b) Red Blood Cells, Leukocytes Reduced;
+c) Platelets; d) Cryoprecipitated AHF; e) Fresh Frozen Plasma; d) 
+Recovered Plasma.  Recall #B-1036/1041-0.
+CODE
+Unit Numbers: a) 0427406, 9983270; b) 9940305;
+c) 0427406, 9940305, and pooled unit 66876   
+d) 66870 (pooled unit); e) 0427406, 9940305; 
+f) 9983270.
+MANUFACTURER
+Hoxworth Blood Center, University of Cincinnati Medical Center, 
+Cincinnati, Ohio.
+RECALLED BY
+Manufacturer, by letter dated December 2, 1999.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Ohio, Kentucky, Florida.
+QUANTITY
+a) 2 units; b) 1 unit; c) 2 units and 1 pooled unit; 
+c) 1 pooled unit; d) 1 pooled unit; e) 2 units; f) 1 unit distributed.
+REASON
+Blood products were collected from a donor whose spouse tested positive 
+for Hepatitis B.
+________
+PRODUCT
+a) Red Blood Cells; b) Fresh Frozen Plasma; c) Platelets;
+d) Recovered Plasma.  Recall #B-1042/1045-0.
+CODE
+Unit numbers:  a) 42R45027, 42R42872, 42J14585;
+b) 42R45027, 42J14585; c) 42R45027; d) 42R42872.
+MANUFACTURER
+American Red Cross Blood Services, Cleveland, Ohio.
+RECALLED BY
+Manufacturer, by letter dated May 15, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Ohio and California.
+QUANTITY
+a) 3 units; b) 2 units; c) 1 unit; d) 1 unit distributed.
+REASON
+Blood products were collected from a donor with a history of having 
+tested positive for Hepatitis A.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Recovered Plasma.
+Recall #B-1046/1048-0.
+CODE
+Unit Numbers: a) 33KM60726, 33KG72300, 33KE03595, 33KK88749, 
+33KJ80302, 33KL79920, 33KY21491
+b) 33KG72300, 33KK88749, 33KJ80302, 33KL79920, 33KY21491, 33LM29901; 
+c) 33KM60726, 33KG72300, 33KE03595, 33KK88749, 33KJ80302, 33KL79920, 
+33KY21491, 33LM29901.
+MANUFACTURER
+American Red Cross Blood Services, Farmington, Connecticut.
+RECALLED BY
+Manufacturer, by letter dated February 9, 2000.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Alabama, Connecticut, North Carolina, California.
+QUANTITY
+a) 7 units; b) 6 units; c) 8 units were distributed.
+REASON
+Blood products tested negative for HbsAg and anti-HBc, but were 
+collected from donors whose previous confirmatory test results 
+were reclassified as HbsAg positive.
+________
+PRODUCT
+Red Blood Cells, Leukoreduced.  Recall #B-1049-0.
+CODE
+Unit #15009-7288.
+MANUFACTURER
+United Blood Services, Inc., Texas Blood Institute-Lubbock Center, 
+Lubbock, Texas.
+RECALLED BY
+Manufacturer, by telephone on February 13, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was distributed after receiving information from the 
+donor concerning a post donation illness.
+________
+UPDATE
+Red Blood Cells, Recall #B-980-0, (BSI Meridian, Mississippi), which 
+appeared in the August 16, 2000, Enforcement Report should read Unit 
+#16341-4733.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+________
+PRODUCT
+a) Allergenic Extract 5 Mold Mix, 5 ml, Testing-Scratch-Prick; b) 
+Allergenic Extract 5 Mold Mix, 5 ml, Injectable;
+c) Allergenic Extract 5 Mold Mix, 5 ml, Oral Drops.
+Recall #B-1020/1022-0.
+CODE
+Lot Numbers: a) B9006659, B9007298, B9007499, B9007510, B0008829, 
+B0008976, B0009261, B0009941
+b) 16906510, 16907910, 16908425, 16929203, 16935407, 16935606, 16936018, 
+16931701, 16937418, 16929001, 16933601, 16933701, 16934901, 16939203, 
+16939602, 16941601, 16942601, 16945004, 16946202, 16946401, 16946901, 
+16947501, 16947901, 16952112, 16948111, 16948712, 16945202, 16945403, 
+16953810, 16933201, 16956416, 16956502, 16957209, 16957701, 16958914, 
+16959503, 16956608, 16957505, 16957605, 16967003, 16962807, 16963204, 
+16967401, 16964615, 16966803, 16968207, 16969805, 16970902, 16971402, 
+16971702, 16971802, 16971902, 16971102, 16968309, 16968905, 16969303, 
+16969605, 16904314, 16972711, 16973108, 16973411, 16973713, 16974107, 
+16977006, 16977604, 16978002, 16979501, 16977109, 16977404, 16982641, 
+16982704, 16983003, 16978102, 16978302, 16978402, 16978801, 16978901, 
+16979601, 16983801, 16976802, 16979301, 16983101, 16985014, 16985231, 
+16987402, 16988908, 16989111, 16989409, 16988001, 16988101, 16985125, 
+16985613, 16991704, 16992102, 16992801, 16988201, 16988301, 16994204, 
+16994305, 16994902, 16995801, 16996101, 16996317, 16996506, 16985708, 
+16991504, 16986218, 16993106, 16991804, 16986804, 16986904, 16992202, 
+16988610, 16989013, 16993010, 16989311, 16989604, 16998126, 16986304, 
+16999205, 16999304, 16998603, 16982502, 16999604, 16987502, 16987702, 
+16995601, 17001722, 17002136, 17000502, 17000901, 17001101, 17001520, 
+17001806, 17001903, 17001610, 17007525, 17005108, 17007604, 16999802, 
+17005803, 17006003, 17000302, 17006720, 16998405, 17005303, 17006202, 
+17007909, 16998303, 17001201, 17002304, 17005202
+c) 17002428, 16974429, 16980028, 17002525, 17002627, 16952227, 16974564, 
+16980206, 16993207, 17008110, 16974709, 16980310, 16989807, 17002708, 
+16949209, 16989930, 16915806, 16984206, 17002806, 16967503, 16926525, 
+16952505, 16975149, 16943104, 16990103, 17003102, 16926901, 16927101, 
+16927201, 16927701, 17003304, 17003402, 16981021, 17003562, 16984324, 
+16975420, 16975545, 16990502, 16950201, 17008403, 16966002, 16976903, 
+17008603, 16966101, 16984401, 16997102, 16984601, 16984801, 16990701, 
+16984923, 16990801, 16993601, 16997201, 17003701, 17008901, 17009301, 
+16966325, 16982013, 16991119, 16938617, 16917416, 16917508, 17009849, 
+16938747, 16993856, 17004217, 16966715, 16976117, 16976706, 16993914, 
+16976313, 16915102, 16960704, 17010006, 16915210,
+MANUFACTURER
+Allergy Laboratories of Ohio, Inc., Columbus, Ohio.
+RECALLED BY
+Manufacturer, by telephone on July 12, 2000, and by letters mailed 
+beginning July 13, 2000.  Firm-initiated recall complete.
+DISTRIBUTION
+Connecticut, Kentucky, Maryland, Ohio, California, Pennsylvania, 
+Illinois.
+QUANTITY
+a) 17 vials; b) 152 individual patient treatment vials c) 75 individual 
+patient treatment vials were distributed. 
+REASON
+Allergenic extracts were labeled with extended expiration dates.
+________
+PRODUCT
+Recovered Plasma.  Recall #B-1026-0.
+CODE
+Unit #42FR79545.
+MANUFACTURER
+American Red Cross Blood Services, Cleveland, Ohio.
+RECALLED BY
+Manufacturer, by fax on May 5, 2000.  Firm-initiated recall complete.
+DISTRIBUTION
+New York.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor taking the drug Arava.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+________
+PRODUCT
+Laser Pointers, wide range in academic, industry and consumer use: a) 
+Model DPGL; b) Model DPIR 
+Recall #Z-881/882-0.
+CODE
+a) DPGL Series 1000, 2000, 3000, 3000F;
+b) DPIR Series 1000 and 2000, and Polaris Laser Pointer.
+MANUFACTURER
+Casix, Inc., Chatsworth, California.
+RECALLED BY
+Manufacturer.  FDA approved the firm's corrective action plan on August 
+7, 2000.  Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+1,280 units were distributed.
+REASON
+Noncompliance with performance with the Federal laser product performance 
+standard, 21 CFR 1040.10 in that products lack beam attenuators, emission 
+indicators, remote interlock connectors, and required labeling.
+________
+PRODUCT
+Diode-pumped solid state micro lasers, for various uses including academia and 
+industry applications.  
+Recall #Z-883/885-0.
+CODE
+Model Numbers 43XX, 45XX, 46XX.
+MANUFACTURER
+JDS Uniphase, Manteca, California.
+RECALLED BY
+Manufacturer.  FDA approved the firmís corrective action plan on 
+August 7, 2000.  Firm initiated fielda correction ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+40 units were distributed.
+REASON
+The laser product failed to comply with the Federal laser 
+product performance standard, 21 CFR 1040.10 in that the 
+following deficiencies: beam attenuator, key control, emission 
+indicator, remote interlock connector and labeling.
+________
+PRODUCT
+a) Baxter Thermo(tm) Stat Hypothermia Warming Mitt/Seal (Hand Model), 
+Catalogue No. 10-1005/1T0310; 
+b) Aquarius Medical Corporation Thermal Rescue Hypothermia 
+Warming Mitt and Seal (Hand Model), 
+Catalog No. 06-0003/1T0311;
+c) Aquarius Medical Corporation Thermal Rescue Hypothermia 
+Warming Mitt and Seal (Hand Model), Catalogue No. TR-04004/ETR-04004.  
+Recall #Z-891/893-0.
+CODE
+All lot numbers.
+MANUFACTURER
+Aquarius Medical Corporation, Scottsdale, Arizona.
+RECALLED BY
+Manufacturer, by letter on April 12, 2000.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Alaska, Arizona, California, Colorado, Georgia, Illinois, Massachusetts, 
+Maryland, Michigan, Missouri, Montana, New York, Oregon, Pennsylvania, 
+Texas, District of Columbia, Canada, Norway.
+QUANTITY
+Approximately 2,440 units were distributed.
+REASON
+Water evaporates through the polyvinyl chloride bag over extended periods 
+of storage, leading to a higher salt concentration with increase in mitt 
+temperature, with possible thermal injury to the patient.
+________
+PRODUCT
+Bear 1000 Ventilator, an adult/pediatric ventilator intended to provide 
+continuous mechanical ventilation of adult and pediatric patients: a) 
+Catalog #50-08550; b) 50-08555;
+c) 50-08560; d) 50-08570.  Recall #Z-894/897-0.
+CODE
+Various serial numbers in the range 11008756 to 11008959, shipped from 
+1/17/00 to 4/28/00.
+MANUFACTURER
+Bear Medical Systems, Palm Spring, California.
+RECALLED BY
+Manufacturer, by letter dated June 2, 2000.  Firm-initiated field 
+correction ongoing.
+DISTRIBUTION
+Alabama, California, Florida, Louisiana, Massachusetts, Missouri, New 
+York, Pennsylvania, Texas, Washington state, West Virginia, Algeria, 
+Brazil, Canada, China, Costa Rica, Greece, Hong Kong, India, Indonesia, 
+Israel, Japan, Jordan, Korea, Mexico, The Netherlands, Russia, Saudi 
+Arabia, Turkey, The United Arab Emirates.
+QUANTITY
+185 ventilators are in distribution.  In addition 24 EPI circuit board 
+service replacements were distributed.
+REASON
+There is possible corrosion of the mechanical relay that activates the 
+loss of power alarm. 
+________
+PRODUCT
+Fukuda Denshi, Model DS-5300 Patient Monitor, used to monitor one or more of 
+the following on an individual patient: ECG, respiration, non-invasive 
+and/or invasive blood pressures, temperature, pulse oximetry and cardiac 
+output.  
+Recall Z-898-0.
+CODE
+Serial number range: 27120281 through 29061471 (non-consecutive).
+MANUFACTURER
+Fukuda Denshi Company, Ltd., Tokyo, Japan.
+RECALLED BY
+Fukuda Denshi USA, Inc., Redmond, Washington, by letter on July 11, 2000.  
+Firm-initiated recall ongoing.
+DISTRIBUTION
+Florida, Pennsylvania, California, Arizona, Ohio, New Hampshire, Kentucky, 
+and Canada.
+QUANTITY
+96 units were distributed.
+REASON
+Power supply sub-assembly may fail causing the DS 5300 Patient Monitor to 
+become inoperable.
+________
+PRODUCT
+Trilogy Acetabular System Longevity Crosslinked Polyethylene 
+Liner, intended for cemented or non-cemented use in adults undergoing 
+primary surgery for rehabilitating hips:
+a) Zimmer Trilogy Acetabular System Longevity Crosslinked Polyethylene 
+Liner, Standard, 28 mm I.D., for use with 60 mm O.D. Shell, Catalog No. 
+00-6305-060-28; 
+b) Zimmer Trilogy Acetabular System Longevity Crosslinked Polyethylene 
+Liner, 7mm Ofset, 32 mm I.D., for use with 70 mm O.D. Shell, Catalog No. 
+00-6341-070-3.
+Recall #Z-900/901-0.
+CODE
+a) Lot No. 67465500; b) Lot No. 67257700.  
+MANUFACTURER
+Zimmer, Inc., Warsaw, Indiana.
+RECALLED BY
+Manufacturer, by letter on July 20, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+California, Illinois, Kansas, Louisiana, Maryland, Massachusetts, 
+Minnesota, Nebraska, Oregon, Pennsylvania, Texas, Virginia, Washington 
+state, Wisconsin, Australia.
+QUANTITY
+27 units were distributed.
+REASON
+70 mm liners are inside a 60 mm package. 
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+________
+PRODUCT
+Merifluor VZV IgM IFA/IFT, a rapid imunofluorescence test kit for the 
+detection of IgM antibodies to varicella-zoster virus (VZV) in human 
+serum.  Recall #Z-902-0.
+CODE
+Lot #VZ150.001, Catalog #VZ150/4878031.
+MANUFACTURER
+Meridian Diagnostics, Inc., Cincinnati, Ohio.
+RECALLED BY
+Manufacturer, by letter dated May 10, 2000.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Florida, Illinois, Nevada, New York, Oklahoma.
+QUANTITY
+38 units were distributed.
+REASON
+The VZV IgM IFA/IFT test kits are incorrectly labeled as EBV IgM IFA/IFT 
+kits.
+________
+PRODUCT
+Cephalothin Susceptibility Test Disks, KF 30.
+Recall #Z-903-0.
+CODE
+Catalog #33860, Lot #226063 EXP 11/02.
+MANUFACTURER
+Oxoid Ltd., United Kingdom.
+RECALLED BY
+Remel, Inc., Lenexa, Kansas, by letter June 27, 2000.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+99/5/50 disk cartridge boxes were distributed.
+REASON
+Product was labeled as Cephalothin Susceptibility Test Disks but 
+contained Vancomycin Susceptibility Test Disks.
+________
+PRODUCT
+Richard Allan Dispos-a-Ture Needles, Eyed Surgical Needles, Mayo Catgut 
+1/2 Circle Taper Point (Heavy), a disposable suturing needle.  Recall #Z-
+904-0.
+CODE
+Product #216705, Lot #2004-08-06.
+RECALLED BY
+Aspen Surgical Products, Inc., Grand Rapids, Michigan, by telephone 
+between October 21-28, 1999, followed by fax.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+60 boxes (72 pounces/2 needles per pouch) were distributed.
+REASON
+The outer boxes are labeled to contain, and do contain, product #216705, 
+the individual pouches within the boxes are labeled as product 216706.  
+The two needles are different sizes.
+________
+PRODUCT
+Architect i 2000 System.  Recall #Z-906-0.
+CODE
+All units, all software versions.
+MANUFACTURER
+Abbott Laboratories, Inc., Irving, Texas.
+RECALLED BY
+Abbott Laboratories, Inc., Abbott Park, Illinois, by letter on April 25, 
+2000.  Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide, Puerto Rico, Korea, Mexico, Canada, Germany, Japan, 
+Singapore, Hong Kong, Taiwan, Thailand, Malaysia, Australia, New Zealand.
+QUANTITY
+603 units were distributed.
+REASON
+System allows running of samples while the automatic flushing/cleaning 
+occurs.
+
+END OF ENFORCEMENT REPORT FOR AUGUST 23, 2000.
+
+####
+
+
+
+
+
+FDA News Page   |   FDA Home Page 
+                                                          
+  
+
+Office of Public Affairs
+Web Page created by cn 2000-AUG-22.
+Web Page uploaded by clb 2000-AUG-22 .

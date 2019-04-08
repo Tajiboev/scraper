@@ -1,0 +1,539 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      31 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+05/22/1990      
+
+FDA Enforcement for the week of MAY 23, 1990
+
+
+
+                            FDA ENFORCEMENT REPORT
+                               FOR MAY 23, 1990 
+
+                                                            May 23, 1990
+Recalls and Field Corrections:
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  Product will cause serious adverse health consequences or 
+                  death.
+
+                                     NONE 
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the 
+                  probability of serious adverse health consequences is 
+                  remote. 
+
+                                     NONE 
+
+                  Class III - A situation in which the use of, or exposure to 
+                  a violative product is not likely to cause adverse health 
+                  consequences. 
+
+
+                                     NONE 
+
+                                      -1- 
+
+
+
+
+
+                                   COSMETICS
+
+                                     NONE 
+
+                           HUMAN DRUGS AND BIOLOGICS
+
+                                     NONE 
+
+                         MEDICAL DEVICES AND RADIOLOGY
+
+                  Class I - 
+                                     NONE 
+
+                  Class II -
+
+Product:          FPR (TM) Phenytoin Kits, Product No. 101500, a
+                  fluorescence polarization immunoassay reagent kit used
+                  to quantitate Phenytoin in serum.  Each kit is labeled to 
+                  supply 100 in-vitro tests.  Recall #Z-570-0.
+Code:             Lot number C045 EXP 2/90. 
+Manufacturer:     Colony Laboratories, Inc., Richardson, Texas and
+                  Windsor Laboratories, Inc., Dallas, Texas.
+Recalled by:      Colony Laboratories, by letter November 20, 1989. 
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide and international. 
+Quantity:         572 kits were distributed; 6 kits were recovered. 
+Reason:           The product is out of specification results due to a
+                  tracer or stability problem.
+
+                                     ---- 
+
+Product:          Actuator Component No. 4104882 of North American Drager 
+                  AV-E Anesthesia Ventilator, sold with the Narkomed 2A,
+                  Narkomed 2B, Narkomed 3 and Narkovet-E (large animal) 
+                  anesthesia machines, used to breathe for a patient who is 
+                  under general anesthesia.  Recall #Z-586-0. 
+Code:             T8 and U8 (firm's recall letter states that the T8
+                  may look like I6, 16, I8, 18, I9 or 19.  No actuators 
+                  were actually distributed under these codes). 
+Manufacturer:     Clippard Instrument Laboratory, Inc., Cincinnati, Ohio. 
+Recalled by:      North American Drager, Telford, Pennsylvania, by letter 
+                  April 20 and 23, 1990.  Firm-initiated recall ongoing.
+Distribution:     Nationwide and international. 
+Quantity:         Firm received and used 2,500 actuators with the recalled
+                  codes to produce ventilators between August 1988 and
+                  March 1990. 
+Reason:           The ventilator may stick in the inspiratory phase.
+
+                                     ---- 
+
+Product:          "Airstrip" Post-Operative Dressings, packaged in a
+                  plastic tyvek-like pack, 20 sterile dressings per box:
+                  (a) Product No. 7193; (b) Product No. 7195. 
+                  Recall #Z-588/589-0.
+
+                                      -2- 
+
+
+
+
+
+Code:             Lot numbers:  (a) 8934, 8935, 8807; 
+                  (b) 8925, 8938, 8939. 
+Manufacturer:     Smith and Nephew Ltd., Hull, England. 
+Recalled by:      Smith and Nephew United, Inc., Largo, Florida, by 
+                  telephone followed by letter April 11, 1990.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         (a) 1,867 cases of 20 dressing; (b) 330 cases of 20 
+                  dressing were distributed.
+Reason:           The devices may have defective package seals which can
+                  compromise their sterility. 
+
+                                     ---- 
+
+Product:          Percutaneous Sheath Introducer Kits:
+                  (a) Product #W01454 - Intro Full 8.5 FR 3.5" LL 
+                  (luer-lock);
+                  (b) Product #W01481 - Intro Full 8.5 FR Cathlok - Kit.
+                  Recall #Z-590/591-0.
+Code:             Lot numbers:  (a) 904033; (b) 904188. 
+Manufacturer:     Medical Parameters, Inc., Woburn, Massachusetts.
+Recalled by:      Manufacturer, by telephone May 17, 1989.  Firm-initiated
+                  recall completed July 5, 1989.
+Distribution:     Massachusetts, Rhode Island, Maine, New Hampshire,
+                  Connecticut, Maryland.
+Quantity:         12 cases (10/case) were distributed; firm estimates none
+                  remains on market.
+Reason:           The product sheath was not bonded to the hemostasis valve.
+
+                                     ---- 
+
+Product:          Standard Adult External Paddles for use with Lifepak
+                  9 Defibrillator/Monitor, Part No. 802901-06.
+                  Recall #Z-593-0.
+Code:             293 noncontinuous serial numbers. 
+Manufacturer:     Physio Control Corporation, Redmond, Washington.
+Recalled by:      Manufacturer, by letter March 26, 1990 followed by
+                  visit.  Firm-initiated recall ongoing.
+Distribution:     Nationwide and international. 
+Quantity:         293 paddle sets were distributed. 
+Reason:           The wires in the coil cord connectors may have been 
+                  improperly crimped. 
+
+                                     ---- 
+
+Product:          Cobe Membrane Lung, Ultra (Blood Oxygenator with
+                  Integral Filter), a blood-gas exchange device intended
+                  to be used during cardiac surgical procedures requiring 
+                  cardiopulmonary bypass.  Recall #Z-594-0. 
+Code:             Catalog #050122-000, Lot #03T5305.
+
+                                      -3- 
+
+
+
+
+
+Manufacturer:     Cobe Laboratories, Inc., Lakewood, Colorado.
+Recalled by:      Manufacturer, by letter May 23, 1989.  Firm-initiated 
+                  recall complete.
+Distribution:     Nationwide. 
+Quantity:         144 cases were distributed; firm estimates none remains 
+                  on market.
+Reason:           The color coding of the connections of the arterial and 
+                  the venous sampling lines to the stopcock manifold were 
+                  reversed. 
+                                     ---- 
+
+Product:          Endoscope Washer Models EW-10 and EW-20, a device 
+                  that washes and/or disinfects endoscopes. 
+                  Recall #Z-595/596-0.
+Code:             All serial numbers. 
+Manufacturer:     Olympus Optical Company, Ltd., Tokyo, Japan.
+Recalled by:      Olympus Corporation, Lake Success, New York, by letter
+                  April 25, 1990.  Firm-initiation field correction 
+                  ongoing.
+Distribution:     Nationwide, Canada. 
+Quantity:         290 EW-10 units and 220 EW-20 units were distributed. 
+Reason:           The cleaning and washing procedures may be inadequate 
+                  to prevent the possibility of Pseudomonas aeruginosa
+                  contamination.
+                                     ---- 
+
+Product:          Model TCB-500 Control Unit, a battery powered transducer
+                  control unit, labeled as essential as an interface
+                  between the pressure sensor of any standardized 
+                  sensitivity Millar MIKRO-TIP Catheter Pressure
+                  Transducer and dc amplifiers which do not supply bridge 
+                  excitation voltage and do not have balance or calibration 
+                  controls for full-bridge strain gauge pressure transducers. 
+                  Recall #Z-597-0.
+Code:             Catalog #852-1018, Serial numbers:  781 through 789;
+                  792 through 802; 806, 807, 812 through 817. 
+Manufacturer:     Millar Instrument, Inc., Houston, Texas.
+Recalled by:      Manufacturer, by telephone June 1989.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Nationwide and Canada.
+Quantity:         Firm estimates none remains on market.
+Reason:           The battery holder may come loose during shipment or
+                  after having been in use for a short while. 
+
+                                     ---- 
+
+                                      -4- 
+
+
+
+
+
+Product:          Respironics Child BagEasy Resuscitators, manually 
+                  operated, used for emergency resuscitation of 
+                  children: 
+                  (a) Model No. 412080 Child BagEasy with PEEP and Mask;
+                  (b) Model No. 412081 Child BagEasy with PEEP; 
+                  (c) Model No. 412082 Child BagEasy with Mask; 
+                  (d) Model No. 412083 Child BagEasy only.
+                  Recall #Z-599/602-0.
+Code:             Serial numbers:  151007 through 151134, 159803 through
+                  160710, 180447 through 181088.
+Manufacturer:     Respironics, Inc., Monroeville, Pennsylvania. 
+Recalled by:      Manufacturer, by telephone April 24, 1990 followed by 
+                  letter April 27, 1990.  Firm-initiated recall ongoing.
+Distribution:     Nationwide. 
+Quantity:         1,476 units were distributed. 
+Reason:           The pressure relief valve may be defective. 
+
+                                     ---- 
+
+Product:          Cobe Pressure Monitoring Kit (Neonatal, CDXpress),
+                  a sterile, single-use Rx device used for invasive pressure
+                  monitoring, catheterization procedures, fluid delivery and/ 
+                  or blood access maintenance.  Each kit also contains a
+                  component called COBE Steriflo II Push Button Flush 
+                  Device, part of the overall kit:
+                  (a) Catalog #041-578-504; (b) Catalog #0429614000 (custom). 
+                  Recall #Z-603/604-0.
+Code:             Lot numbers:  (a) 03T4638; (b) 02T9620. 
+Manufacturer:     Cobe Laboratories, Inc., Arvada, Colorado.
+Recalled by:      Cobe Laboratories, Inc., Lakewood, Colorado, by telephone 
+                  April 6, 1989.  Firm-initiated recall ongoing.
+Distribution:     (a) Pennsylvania, Georgia, North Carolina, Canada;
+                  (b) Hawaii. 
+Quantity:         (a) 14 cases (10 kits/case) ; (b) 100 units were
+                  distributed; firm estimates none remains on market. 
+Reason:           The 3 cc/hour flushing device was provided in the kit 
+                  instead of the required 30 cc flushing device.
+
+                                     ---- 
+
+Product:          CSI (Crofilcon A) Contact Lens, a daily wear soft 
+                  contact lens used for the correction of nearsightedness 
+                  (myopia) or corneal astigmatism.  Recall #Z-605-0.
+Code:             CASOU EXP 10/94.
+Manufacturer:     Sola/Barnes-Hind, San Diego, California.
+Recalled by:      Manufacturer, by letter March 20, 1990.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Nationwide, Puerto Rico, Canada, England (United Kingdom),
+                  Holland, Singapore. 
+Quantity:         667 lenses were distributed.
+
+                                      -5- 
+
+
+
+
+
+Reason:           The label incorrectly states the lens diameter as 
+                  14.8 mm, whereas it should be 13.8 mm.
+
+                                     ---- 
+
+                  Class III - 
+
+Product:          (a) FPR (TM) Carbamazepine Kit, Product No. 121001, a 
+                  fluorescence polarization immunoassay reagent kit used
+                  to quantitate Carbamazepine in serum.  Each kit is
+                  labeled to supply 100 in-vitro tests; 
+                  (b) FPR (TM) Gentamicin Calibrator Kit, Product No. 125001, 
+                  tended for use in calibrating the TDx Fluorescence
+                  Polarization Analyzer using the Colony Laboratories, Inc. 
+                  FPR TM Gentamicin Kit for the quantitation of Gentamicin in 
+                  serum.  Each kit is labeled as containing 6/2.5 ml vials of 
+                  calibrators of optically clear bovine serum, 0.1% NaN3, and 
+                  designated concentrations of Gentamicin;
+                  (c) FPR (TM) Amikacin Reagent Pack Kit, Product No. 136001, 
+                  labeled in part:  "intended to be used in conjunction with
+                  the TDx Fluorescence Polarization analyzer to quantitate
+                  Amikacin in serum.  Amikacin is a semi-synthetic
+                  aminoglycoside which displays high potency and bacterial
+                  action for susceptible organisms.  Recall #Z-571/573-0. 
+Code:             Lot numbers:  EO14 EXP 2/90; (b) AC12 EXP 4/90; 
+                  (c) HO13 EXP 4/90.
+Manufacturer:     Colony Laboratories, Inc., Richardson, Texas and
+                  Windsor Laboratories, Inc., Dallas, Texas.
+Recalled by:      Colony Laboratories, (a & b) by letter November 20, 1989; 
+                  (c) Consignees were sent a new activation code sheet
+                  sometime in May 1989.  Firm-initiated recall ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         (a) 350 kits; (b) 200 kits; (c) 100 kits were distributed.
+Reason:           Failure to meet product specifications: 
+                  (a) Product spans changed after lot was released affecting
+                  the acceptance of the calibration curve;
+                  (b) Product calibrators were not allowing accurate control
+                  measurements and curve fit errors were encountered; 
+                  (c) The instrument could not be calibrated with the kit.
+
+                                     ---- 
+
+Product:          Precept 18" x 18" Lap Pads X-Ray Detectable,
+                  Reorder No. 63-6028.  Product contains 5 laparotomy 
+                  sponges wrapped in a non-absorbent outer wrap.  Wrap
+                  with sponges are placed in plastic pouches and are shipped
+                  in cardboard cases containing 20 pouches.  Recall #Z-587-0. 
+Code:             Lot numbers: 59311, 59312, 59317. 
+Manufacturer:     White Knight Health Care, Asheville, North Carolina.
+
+                                      -6- 
+
+
+
+
+
+Recalled by:      Manufacturer, by telephone February 9, 1990 followed
+                  by letter February 12, 1990.  Firm-initiated recall ongoing.
+Distribution:     New York, New Jersey, Rhode Island, Alabama, Florida, 
+                  Maryland, Virginia, Georgia, Pennsylvania, Massachusetts. 
+Quantity:         215 cases were distributed; firm estimates none remains 
+                  on market.
+Reason:           The strength of the pads may be unacceptable resulting in 
+                  shredding of the product during removal.
+
+                                     ---- 
+
+Product:          Ultrasound Probe Covers.  The cover is a plastic tube 
+                  6 inches in diameter and 32 inches long.  An "ultraphonic 
+                  gel" is used with the probe to provide an air-excluding 
+                  media between the probe and the cover and between the 
+                  cover and the patient.  Recall #Z-592-0.
+Code:             Item #910817, lot #8827.
+Manufacturer:     North Coast Medi-Tek, Inc., Mentor, Ohio. 
+Recalled by:      Cone Instruments, Inc., Solon, Ohio, by letter
+                  May 19, 1989.  Firm-initiated recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         300 units were distributed; firm estimates none remains 
+                  on market.
+Reason:           Two probe covers contained pin holes which could allow
+                  for the leakage of the ultraphonic gel. 
+
+                                                                            ----
+
+
+                              VETERINARY PRODUCTS 
+
+                  Class I - 
+                                     NONE 
+                  Class II -
+
+                                     NONE 
+                  Class III - 
+
+Product:          Vitamin A-D-B12 Injection, in 100 ml, 250 ml and
+                  500 ml vials, an Rx product under the Durvet, Lextron,
+                  Phoenix, Pro Labs (Agri Labs), Rx Vet, Vedco, 
+                  and Veterinary Laboratories labels.  Recall #V-042-0. 
+Code:             Lot numbers:  890478, 890601, 890602, 890882, 890883, 
+                  891165, 891165-1, 891360, 891517, 891558, 891674, 
+                  900137, 900138, 900139, 900391, 900391-1. 
+Manufacturer:     Veterinary Laboratories, Inc., Lenexa, Kansas.
+Recalled by:      Manufacturer, by letter May 1, 1990.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide, Puerto Rico.
+Quantity:         18,117/100 ml vials; 50,878/250 ml vials, 15,402/500 ml 
+                  vials were distributed. 
+
+                                      -7- 
+
+
+
+
+
+Reason:           Product is subpotent in cyanocobalamin. 
+
+                                     ---- 
+Medical Device Safety Alerts: 
+
+Product:          PORT-A-CATH Low Profile Portal Implantable Access 
+                  System with Ultra-Lock Catheter Connector, designed to
+                  permit repeated access to the vascular system for the 
+                  delivery of medications, fluids or nutritional
+                  solutions to selected sights within the vascular system.
+                  and also permits the sampling of venous blood.
+                  Safety Alert #M-046-0.
+Code:             System: Reorder #21-4028, Part #21-4028.01, Lot #12632; 
+                  Portal Component: Part #69-4128, Lot #10820;
+                  Catheter Component: Part No. 69-4228, Lot No. 12137.
+Manufacturer:     Pharmacia Deltec, Inc., St. Paul, Minnesota.
+Alerted by:       Manufacturer, by visits February/March 1990.
+Distribution:     Nationwide. 
+Quantity:         690 units were distributed. 
+Reason:           Silicone catheter fragmentation occurring at the Ultra-Lock 
+                  connector.
+                                     ---- 
+
+Product:          Bjork-Shiley 60 Degree Convexo-Concave Prosthetic 
+                  Heart Valve.  Safety Alert #M-047-0.
+Code:             All control numbers.
+Manufacturer:     Shiley, Inc., Irvine, California. 
+Alerted by:       Manufacturer, by letter March 30, 1990. 
+Distribution:     Nationwide. 
+Quantity:         Firm estimates that all units have been implanted 
+                  or destroyed. 
+Reason:           Valve failure due to strut fractures. 
+
+                                     ---- 
+Seizure Actions Filed:
+
+Product:          Frozen Lobster Tails (Import 876665). 
+Charge:           Product is decomposed and also contains an undeclared 
+                  preservative -- sodium bisulfite. 
+Firm:             Food-Tech Analysts and Consultants, Jamaica, New York.
+Filed:            March 12, 1990 - U.S. District Court for the District 
+                  of New Jersey; Civil #CV90-0876, FDC #65813.
+
+                                     ---- 
+
+Product:          Combination Drug Containing Butalbital, Aspirin, Caffeine,
+                  and Codeine (90-440-329). 
+Charge:           Product is an unapproved new drug.
+Firm:             Econolab, Inc., Westland, Michigan. 
+Filed:            April 26, 1990 - U.S. District Court for the Eastern
+                  District of Michigan; Civil #90-CV-60107-AA, FDC #65838.

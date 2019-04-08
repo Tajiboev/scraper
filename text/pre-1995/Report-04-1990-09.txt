@@ -1,0 +1,460 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      25 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+09/04/1990 
+
+FDA Enforcement for the week of September 5, 1990.
+
+
+
+                            FDA ENFORCEMENT REPORT
+                               FOR SEPT. 5, 1990
+
+                                            September 5, 1990 
+
+Recalls and Field Corrections:
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  Product will cause serious adverse health consequences or 
+                  death.
+
+                                     NONE 
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the 
+                  probability of serious adverse health consequences is 
+                  remote. 
+
+                                     NONE 
+
+                  Class III - A situation in which the use of, or exposure
+                  to a violative product is not likely to cause adverse 
+                  health consequences.
+
+                                     NONE 
+
+                                      -1- 
+
+
+
+
+
+                                 COSMETICS
+
+                                    NONE
+
+                         HUMAN DRUGS AND BIOLOGICS
+
+                  Class I - 
+
+
+Product:          Opticrom 4 percent Ophthalmic Solution (cromolyn sodium 
+                  solution, USP), 10 ml an Rx sterile, topical eye
+                  solution used in the treatment of certain allergic ocular 
+                  disorders, Recall #D-338-0. 
+Code:             Lot #KF35V, Exp. 12/91; KF7A, Exp. 1/93.
+Manufacturer:     Fisons PLC, Pharmaceutical Division, Crewe, Cheshire, 
+                  England.
+Recalled by:      Fisons Pharmaceuticals, Rochester, New York by letters
+                  beginning July 2, 1990. (See FDA Press Release
+                  P90-38 - July 13, 1990.). Firm initiated recall ongoing.
+Distribution:     Nationwide, Puerto Rico.
+Quantity:         45,337 units were distributed.
+Reason:           Bacterial contamination.
+
+
+                                    ----
+
+                  Class II -
+
+
+Product:          Source Plasma, Recall B-177-0.
+Code:             Unit #65985236. 
+Manufacturer:     Plasma Products, Inc., (doing business as Monroe Plasma 
+                  Lab.) Monroe, Louisiana.
+Recalled by:      Manufacturer, by letter and telephone June 12, 1989.
+                  Firm initiated recall complete. 
+Distribution:     California. 
+Quantity:         1 unit was distributed. 
+Reason:           A unit of Source Plasma, which tested repeatably reactive 
+                  for the antibody to the human immunodeficiency virus, 
+                  type 1 (anti-HIV-1) was distributed.
+
+                                    ----
+
+Product:          Red Blood Cells, Recall #B-182-0. 
+Code:             Unit #41KQ13394.
+Manufacturer:     American Red Cross, Alabama Region-Madison County,
+                  Huntsville, Alabama.
+Recalled by:      Manufacturer by telephone January 27, 1989.  Firm 
+                  initiated recall complete.
+Distribution:     Alabama.
+Quantity:         1 unit was disributed.
+Reason:           Unit drawn from a donor who had a hepatitis exposure
+                  prior to donation, was distributed. 
+
+                                    ----
+
+                                    -2- 
+
+
+
+
+
+Product:          Opticrom 4 percent Ophthalmic Solution (cromolyn sodium 
+                  solution, USP) in 5 ml plastic bottles (professional
+                  sample), 10 ml (trade) an Rx sterile, topical eye 
+                  solution used in the treatment of certain allergic ocular 
+                  disorders, Recall #D-338-0. 
+Code:             All lots. 
+Manufacturer:     Fisons PLC, Pharmaceutical Division, Crewe, Cheshire, 
+                  England.
+Recalled by:      Fisons Pharmaceuticals, Rochester, New York by letters
+                  beginning July 26-27, 1990.  Firm initiated recall
+                  ongoing.
+Distribution:     Nationwide, Puerto Rico.
+Quantity:         2,480,944 units were distributed. 
+Reason:           Lack of assurance of sterility. 
+
+                                    ----
+
+
+Product:          Needle Adapter Assembly an Rx product for use with
+                  Minitec (Technetium Tc 99m Generator), Recall #D-341-0. 
+Code:             All lots. 
+Manufacturer:     Bristol Myers Squibb Company, New Brunswick, New Jersey.
+Recalled by:      Manufacturer, by telephone June 27, 1990.  Firm initiated 
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         5,577 adapters distributed from January 1989 to 
+                  June 27, 1990.
+Reason:           Sterilizing filter (.22 micron) in Needle Adapter Assembly
+                  cannot assure the solution passing through will be
+                  sterilized. 
+
+                                    ----
+
+Product:          Proventil brand of Albuteral Sulfate Repetabs Brand of
+                  Extended Release Tablets, 4 mg. in 100 tablet bottles,
+                  an Rx used for the relief of bronchospasm in patients 
+                  with reversible obstructive airway disease, Recall
+                  #D-343-0. 
+Code:             Lot #8RDR101, Exp. date 4/91. 
+Manufacturer:     Schering Laboratories, Division of Schering-Plough Corp.
+                  Kenilworth, New Jersey. 
+Recalled by:      Manufacturer, by letter July 12, 1990.  Firm initiated
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         41,049 bottles were distributed.
+Reason:           Product does not meet dissolution test specifications.
+
+                                    ----
+
+                                    -3- 
+
+
+
+
+
+Product:          Brethine brand (terbutaline sulfate USP) 5 mg. tablets, an
+                  Rx bronchodilator used for bronchial asthma in 12/100 
+                  tablet bottles, Recall #D-348-0.
+Code:             Lot #1B113541, Exp. date 2/94.
+Manufacturer:     Ciba-Geigy Pharmaceuticals Division, Summit, New Jersey.
+Recalled by:      Manufacturer, by letter July 17, 1990.  Firm initiated
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         39,660/100 tablet bottles were shipped, firm estimates
+                  7,000/100 tablet bottles remain on market.
+Reason:           A bottle was found to contain an Esimil tablet
+                  (guanethidine monosulfate 10 mg., hydrochlorothiazide 
+                  25 mg.).
+
+                                    ----
+
+                  Class III - 
+
+Product:          (a) 2% Xylocaine Injection 20 mg/ml with
+                  Epinephrine; (b) 4% Citainest Forte (Prilocane HCL) 
+                  Injection 40 mg/ml with Epinephrine, used for local 
+                  anesthesia in dentistry, Recall #D-339/340. 
+Code:             (a) 906067, exp. date 12/90; 906068, exp. date 12/90; 
+                  906126, exp. date 12/90; 908079, exp. date 2/91; (b)
+                  903110, exp. date 9/90. 
+Manufacturer:     Astra Pharmaceutical Products, Inc., Westborough, 
+                  Massachusetts.
+Recalled by:      Manufacturer, by letter August 3, 1990.  Firm initiated 
+                  recall ongoing. 
+Distribution:     Arkansas, South Dakota, Alabama, Kansas, Florida, 
+                  South Carolina. 
+Quantity:         2,000,000 cartridges were distributed.
+Reason:           Product is subpotent for epinephrine. 
+
+                                    ----
+
+Product:          Tindal brand Acetophenazine Maleate Tablets, 20 mg. 
+                  tablets in 100 tablet bottles, an Rx orally used for
+                  the management of manifestations of psychotic disorders,
+                  Recall #D-342-0.
+Code:             Lot #'s 7BBA-1, exp. date 3/92; 8BBA-1, exp. date 3/92; 
+                  9BBA-1, exp. date 2/94; 9BBA-2, exp. date 3/93. 
+Manufacturer:     Schering Laboratories (division of Schering-Plough Corp.) 
+                  Kenilworth, New Jersey. 
+Recalled by:      Manufacturer, by letter July 3, 1990.  Firm initiated 
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         Approximately 15,000/100 tablet bottles were distributed. 
+Reason:           Product may not meet dissolution requirements through 
+                  expiration date.
+
+                                    ----
+
+                                    -4- 
+
+
+
+
+
+Product:          Imferon (iron dextran injection, USP) in 10 ml. multidose 
+                  vial, an Rx for intramuscular use in patients with
+                  documented iron deficiency in whom oral administration is 
+                  unsatifactory or impossible, Recall #D-344-0. 
+Code:             Lot #EC305W, Exp. date 10/92. 
+Manufacturer:     Fisons PLC, Pharmaceutical Division, Crewe, Cheshire, 
+                  England.
+Recalled by:      Fisons Pharmaceuticals, Rochester, New York by letter 
+                  July 24, 1990.  Firm initiated recall ongoing.
+Distribution:     Nationwide, Puerto Rico, Honduras.
+Quantity:         12,402 units were distributed.
+Reason:           Product does not meet USP requirements for particulate
+                  matter. 
+
+                                    ----
+
+Product:          PanOxyl AQ Acne Gel in 2 1/2%, 5% and 10% strength
+                  packaged in 2 oz. and 4 oz. tubes, a topical Rx 
+                  medication used in the treatment of acne vulgaris,
+                  Recall #D-345/347-0 
+Code:             All products ending in the letter "P".
+Manufacturer:     Stiefel Laboratories, Inc., Mayaguez, Puerto Rico.
+Recalled by:      Stiefel Laboratories, Inc., Oak Hill, New York by 
+                  letters July 9, and July 13, 1990.  Firm initiated recall 
+                  ongoing.
+Distribution:     New York, Puerto Rico.
+Quantity:         Approximately 350,000 units were distributed.  Firm 
+                  estimates less than 10,000 units remain on market.
+Reason:           Some lots have exhibited a loss of viscosity. 
+
+                                    ----
+
+Product:          Chlorpromazine HCl Oral Solution, 100 mg per 3.4 ml 
+                  an Rx oral liquid psychotropic used for the management
+                  of manisfestations of psychotic disorders, Recall #D-349-0
+Code:             Lot #003605, exp. date 9/91.
+Manufacturer:     Roxane Laboratories, Columbus, Ohio.
+Recalled by:      Xactdose, Inc., South Beloit, Illinois by letter July 13, 
+                  1990.  Firm initiated recall ongoing. 
+Distribution:     New York, Ohio, Indiana Wisconsin, California.
+Quantity:         113 cases were distributed. 
+Reason:           The solution reacted to the aluminum foil cup, causing
+                  leaking containers. 
+
+                                    ----
+
+                       MEDICAL DEVICES AND RADIOLOGY
+
+                  Class I - 
+
+                                    NONE
+
+                  Class II -
+
+                                    -5- 
+
+
+
+
+
+Product:          Liberator 20 Oxygen System, an Rx liquid oxygen device
+                  used for providing a controlled rate of oxygen flow to
+                  a patient, Recall #Z-797-0
+Code:             Serial #'s 119019001 thru 119019010; 119022015 thru 
+                  119022030.
+Manufacturer:     Cryogenic Associates (Medical Division of Minnesota 
+                  Valley Engineering, Inc.) New Prague, Minnesota.
+Recalled by:      Manufacturer by telephone on or about June 13, 1990.
+                  Firm initiated recall ongoing.
+Distribution:     Connecticut, Massachusetts, Canada. 
+Quantity:         21 units were distributed.
+Reason:           The device did not meet specifications for oxygen pressure
+                  affecting oxygen flow rate, during extended use because 
+                  of an incomplete weld on a liquid oxygen line.
+
+                                    ----
+
+Product:          MTP Transport Infusion Pump, Model 1001A used for 
+                  infusion of I.V. solutions and blood at desired flow
+                  rate and volume which can be preprogrammed by user or 
+                  operator, Recall #Z-798-0 
+Code:             Serial #'s 1291 thru 1305; 1644 thru 1717; 2230,
+                  2231; 1979, 1989, 1997, 1998, 2123, 2228, 2229, 2234, 
+                  2246 thru 2248, 2416; 2235; 1571, 1578, 1730, 1736, 
+                  1789, 2005, 2006. 
+Manufacturer:     Medical Technology Products Inc., Hungtington, New York 
+Recalled by:      Manufacturer by telephone June 5-6, 1990.  Firm 
+                  initiated recall ongoing. 
+Distribution:     Nationwide, Mexico. 
+Quantity:         109 units were distributed. 
+Reason:           The unit software was incorrectly programmed which
+                  caused the word "RATE" instead of "TOTL" to be displayed
+                  by the infusion pump when its Tamper Alarm feature is 
+                  activated by the unauthorized or unintentional change 
+                  of the "hundredths" total volume digital switch.
+
+                                    ----
+
+                  Class III - 
+
+Product:          3M Fletcher-Suit-Delcios Applicators, used in 
+                  intracavity treatment of cervical and/or uterine cancer,
+                  Recall #Z-851-0 
+Code:             All serial numbers. 
+Manufacturer:     Basic Industries, New Brighton, Minnesota.
+Recalled by:      3M Medical Device Division, St. Paul, Minnesota by
+                  letter May 4, 1990.  Firm initiated recall ongoing. 
+Distribution:     Nationwide, international.
+Quantity:         1,100 applicators were distributed. 
+
+                                    -6- 
+
+
+
+
+
+Reason:           The ovoids (egg-shaped enclosures into which the
+                  cesium-137 sources are inserted) may become loose or
+                  may detach from the ovoid handles of the applicators. 
+
+                                    ----
+
+Product:          APO Cal Apolipoprotein Calibrator, an in-vitro diagnostic 
+                  product, Recall #Z-852-0. 
+Code:             Lot #"M907129", Exp. date "1/31/91".
+Manufacturer:     Beckman Instruments, Inc., Carlsbad, California.
+Recalled by:      Beckman Instruments, Inc., Brea, California by telephone
+                  and follow-up letter dated March 30, 1990.  Firm
+                  initiated recall ongoing. 
+Distribution:     Illinois, Indiana, Kansas, Wisconsin, Florida,
+                  International.
+Quantity:         879 units were distributed. 
+Reason:           The value assigned for the device is inaccurate,
+                  which may cause an elevated recovery in control materials 
+                  and patient samples.
+
+                                    ----

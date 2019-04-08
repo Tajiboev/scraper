@@ -1,0 +1,725 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      29 captures
+	      19 Aug 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+October 14, 1998                                      
+ 98-41
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS
+I
+
+PRODUCT
+Ice Cream, packaged in square half-gallon containers:  a) Land
+O'Lakes Tasty Light & Creamy Caramel Pecan Light Ice Cream; b)
+HyVee Light Caramel Pecan Ice Cream.  Recall #F-005-9.
+CODE
+M19114TK xxxx 8161 (where xxxx = military time).
+MANUFACTURER
+Wells Dairy, Inc., LeMars, Iowa.
+RECALLED BY
+Manufacturer, by press release and by telephone on September 4,
+1998.  Firm-initiated recall complete.
+DISTRIBUTION
+a) Minnesota, North Dakota, Wisconsin, Michigan; b) Iowa,
+Minnesota, South Dakota.
+QUANTITY
+a) 1,440 square half gallon containers; b) 1,628 square half
+gallon containers were distributed.
+REASONEASON
+Product contains undeclared peanuts.
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS
+II
+
+PRODUCT
+Angel brand Pickled Mustard, vacuum packed in plastic bags, net
+weight 12.3 ounces (350 g), net drained weight 10.6 ounces,
+Product of Thailand.  Recall #F-004-9.
+CODE
+None.
+MANUFACTURER
+Zenith AGRI - Industry, Ltd., Thailand.
+RECALLED BY
+Summit Import Corporation, New York, New York, by letter dated
+September 5, 1997.  Completed recall resulted from sample
+analysis and follow-up by the New York State Department of
+Agriculture and Markets.
+DISTRIBUTION
+New York, New Jersey, Ohio, Florida, Pennsylvania, Tennessee.
+QUANTITY
+Firm estimates none remains on the market.
+REASON
+Product contained undeclared FD&C Yellow No. 5 and sodium
+benzoate.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS
+III
+
+PRODUCT
+Stop & Shop French Style Sliced Green Beans No Salt Added, Net
+Weight 14-1/2 ounce can.  Recall #F-003-9.
+CODE
+Can Code:J7L245 xx:xx
+           3323F, (Manufactured 10/24/97).
+MANUFACTURER
+Curtis Burns Food, Oakfield, New York.
+RECALLED BY
+Stop & Shop Supermarkets Company, Quincy, Massachusetts, by
+telephone followed by E-mail on August 20, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Connecticut, Massachusetts, Rhode Island, New York.
+QUANTITY
+Approximately 8,000 were distributed.
+REASON
+Product is contaminated with rodent parts.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS
+-- CLASS II
+
+UPDATE 
+Recall #D-242-8, OctreoScan (Mallinckrodt, Inc., Maryland
+Heights, Missouri), which appeared in the October 7, 1998
+Enforcement Report is a completed recall.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS
+II
+
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Fresh Frozen Plasma;
+d) Plasma; e) Recovered Plasma.  Recall #B-612/616-8.
+CODE
+Unit numbers:  a) KF21280, KF20551, KQ20957, KQ15799, KQ10656,
+KQ11783; b) KF20551, KQ20957, KQ15799, KQ10656, KQ11783; 
+c) KF20551, KQ15799, KQ10656, KQ11783; d) KF21280; e) KQ20957.
+MANUFACTURER
+Virginia Blood Services, Richmond, Virginia.
+RECALLED BY
+Manufacturer, by letter dated December 9, 1997.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Virginia, Illinois, California.
+QUANTITY
+a) 6 units; b) 5 units; c) 4 units; d) 1 unit; e) 1 unit.
+REASON
+Blood products were collected from a donor whose spouse has
+hepatitis C.
+
+
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Fresh Frozen Plasma.
+Recall #B-739/741-8.
+CODE
+Unit numbers: a) 03FW43712, 03FW43713, 03FW43715, 03FW43718,
+03FW43719; b) 03FW43713, 03FW43714; c) 03FW43714, 03FW43715,
+03FW43719.
+MANUFACTURER
+American Red Cross Blood Services, Atlanta, Georgia.
+RECALLED BY
+Manufacturer, by telephone on August 30, 1997, and by letter
+dated September 11, 1996.  Firm-initiated recall complete.
+DISTRIBUTION
+Georgia.
+QUANTITY
+a) 5 units; b) 2 units; c) 3 units were distributed.
+REASON
+Blood products were collected from donors whose body temperatures
+and blood pressure were not determined.
+
+
+PRODUCT
+Source Plasma.  Recall #B-1534-8.
+CODE
+180R5753, 180R6003, 180R8158, 180R8242, 180R8312, 180R8370,
+180R8440, 180R8540, 180R8599, 180R8697, 180R8918, 180R8959,
+180R9082, 180R9140, 180R9311, 180R9346, 180R9481, 180R9567,
+180R9653, 180R9743, 180R9884, 180SC170, 180SC359, 180SC479,
+180SC644, 180SC760, 180SC843, 180SB714, 180SB884, 180SB942,
+180SD313, 1840P085, 1840P232, 1840P450, 1840P540, 1840P725,
+1840P805.
+MANUFACTURER
+Centeon Bio-Services, Charlotte, North Carolina.
+RECALLED BY
+Centeon Bio-Services, King of Prussia, Pennsylvania, by letter
+dated March 3, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Illinois.
+QUANTITY
+37 units were distributed.
+REASON
+Blood products were drawn from an unsuitable donor.
+
+
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Fresh Frozen Plasma; 
+d) Plasma, Liquid.  Recall #B-001/004-9.
+CODE
+Unit numbers:  a) 04KM31896, 34KK29129, 34FH06140; b) 04KM31896;
+c) 04KM31896, 34FH19464; 34FH06140, 34KK29129; d) 04KK70691,
+04KK53628.  Recall #B-001/004-9.
+MANUFACTURER
+American Red Cross, New England Region, Dedham, Massachusetts.
+RECALLED BY
+Manufacturer, by letter dated August 13, 1997, or by fax on
+August 12, or telephone August 8, 1997.  Firm-initiated recall
+complete.
+DISTRIBUTION
+Massachusetts, Maine, New Hampshire, Vermont.
+QUANTITY
+a) 3 units; b) 1 unit; c) 4 units; d) 2 units were
+distributed.
+REASON
+Blood products were collected from a donor with a history of
+hepatitis. 
+
+
+PRODUCT
+Platelets, Pheresis.  Recall #B-005-9.
+CODE
+Unit numbers:  04LM56513A, 04LM56513B, 04LP31411A, 04LP31411B,
+04LM56210B, 04KC04478A, 04KC04478B, 04LP31867A, 04LP31867B,
+04LP31668, 04KC04546A, 04KC04546B, 04KC04506A, 04KC04506B.
+MANUFACTURER
+American Red Cross, New England Region, Dedham, Massachusetts.
+RECALLED BY
+Manufacturer, by letter dated December 19, 1997.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Massachusetts, New Hampshire, Maine.
+QUANTITY
+14 units were distributed.
+REASON
+Blood products had unacceptable platelet counts.
+
+
+PRODUCT
+a) Red Blood Cells; b) Recovered Plasma.  Recall #B-006/007-9.
+CODE
+Unit numbers:  Q09307, Q09580, M44969.
+MANUFACTURER
+Central California Blood Center, Fresno, California.
+RECALLED BY
+Manufacturer, by letter dated November 20, 1997.  Firm-initiated
+recall complete.
+DISTRIBUTION
+California.
+QUANTITY
+3 units of each component were distributed .
+REASON
+Blood products were not tested for syphilis.
+
+
+PRODUCT
+Platelets, Pheresis.  Recall #B-008-9.
+CODE
+Unit numbers:  01P35015 and 01P34485.
+MANUFACTURER
+American Red Cross Blood Services, Rochester, New York.
+RECALLED BY
+Manufacturer, by letter dated either December 9, 1996 or February
+24, 1997, and by telephone on December 9, 1996.  Firm-initiated
+recall complete.
+DISTRIBUTION
+New York.
+QUANTITY
+2 units were distributed.
+REASON
+Blood products had high platelet counts.
+
+
+PRODUCT
+a) Red Blood Cells; b) Platelets.  Recall #B-009/010-9.
+CODE
+Unit numbers:  a) 01KW03173, 01KG11478, 01X71575, 01W43313,
+01Q12731; b) 01KW03173, 01X71575, 01W43313, 01Q12731.
+MANUFACTURER
+American Red Cross Blood Services, Rochester, New York.
+RECALLED BY
+Manufacturer, by letter dated November 13, 1997.  Firm-initiated
+recall complete.
+DISTRIBUTION
+New York and Pennsylvania.
+QUANTITY
+a) 5 units; b) 4 units were distributed.
+REASON
+Blood products were collected from a donor taking the drug
+Zovirax.
+
+
+PRODUCT
+Allergenic Extracts, Sterile Injectable 8 ml/vial dilutions of 
+1:40,000, 1:4,000, 1:400, 1:40, distributed by BioProducts for
+Medicine, Inc., (BMI), Phoenix, Arizona.  Recall #B-013-9.
+CODE
+Lot Numbers: 1427, 1430, 1435, 1452, 1457, 1462. 
+EXP Date: 8/14/99. 
+MANUFACTURER
+Allergy Laboratories of Ohio, Inc., Columbus, Ohio.
+RECALLED BY
+Manufacturer, by fax on August 31, 1998.  The distributor issued
+letter dated September 1, 1998.  Firm-initiated recall
+ongoing.
+DISTRIBUTION
+Texas, Mississippi, Alabama, Louisiana, New Mexico, Missouri.
+QUANTITY
+19 patient treatment vials were distributed.
+REASON
+Unlicenced injectable allergenic extracts were distributed in
+interstate commerce.
+
+
+PRODUCT
+a) Red Blood Cells; b) Recovered Plasma.  Recall #B-017/018-9.
+CODE
+Unit #Q07845.
+MANUFACTURER
+Central California Blood Center, Fresno, California.
+RECALLED BY
+Manufacturer, by letter dated November 19, 1997.  Firm-initiated
+recall complete.
+DISTRIBUTION
+California.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products tested RPR reactive for syphilis.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS
+III
+
+PRODUCT
+a) Platelets, for further manufacturing; b) Recovered Plasma.
+Recall #B-333/334-8.
+CODE
+Contact FDA, Center for Biologics Evaluation and Research, Office
+of Compliance (301) 827-6220 for individual unit numbers
+recalled.
+MANUFACTURER
+Central Kentucky Blood Center, Lexington, Kentucky.
+RECALLED BY
+Manufacturer, by letter dated February 20 or 21, 1997.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Kentucky, Florida, Texas, New Jersey, Illinois, North Carolina,
+Massachusetts, Connecticut, Maine, Arkansas, Maryland,
+California.
+QUANTITY
+a) --- units; b) 55 units were distributed.
+REASON
+Blood products were collected from donors whose medical history
+screening was incomplete.
+
+
+PRODUCT
+
+Red Blood Cells.  Recall #B-608-8.
+CODE
+Unit #16LH15365.
+MANUFACTURER
+American Red Cross Blood Services, Columbus, Ohio.
+RECALLED BY
+Manufacturer, by telephone on September 9, 1997.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Ohio.
+QUANTITY
+1 unit was distributed.
+REASON
+Autologous blood product tested repeatedly reactive for the
+hepatitis B surface antigen (HBsAg), was not quarantined as
+required by the firm's standard operating procedures (SOP).
+
+
+PRODUCT
+Red Blood Cells for Further Manufacture.  Recall #B-617-8.
+CODE
+Unit #38-13496.
+MANUFACTURER
+Michigan Community Blood Centers, Bay City, Michigan.
+RECALLED BY
+Manufacturer, by letter on May 5, 1997.  Firm-initiated recall
+complete.
+DISTRIBUTION
+Michigan.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor with Graves disease.
+
+
+PRODUCT
+a) Red Blood Cells; b) Recovered Plasma.  Recall #B-011/012-9.
+CODE
+Unit numbers:  38FC33530 and 38FC33550.
+MANUFACTURER
+American Red Cross Great Lakes Region, Fort Wayne, Indiana.
+RECALLED BY
+Manufacturer, by telephone on May 18 or 21, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Indiana, California, Switzerland.
+QUANTITY
+2 units of each component were distributed.
+REASON
+Blood products were collected in expired blood collection
+bags.
+
+
+RECALLS AND FIELD CORRECTIONS: 
+DEVICES -- CLASS II 
+
+PRODUCT
+Ultranet Collimators SA and SM, Models 45296001, 45296017,
+45296026, 45296048, 45296489, 45296950, 45296490, 45296671,
+45296046, 45296948, 45296193, 2204634, 2204643, 2204646, 2204638,
+2204640, 2204649, 2204652, 45296307, 45296960, diagnostic X-ray
+beam limiting devices which restrict the dimensions of a
+diagnostic X-ray field by limiting the size of the primary X-ray
+beam.  Recall #Z-012/032-9.
+CODE
+All serial numbers.  
+MANUFACTURER
+GE Medical Systems Europe SA, Buc Cedex, France.
+RECALLED BY
+GE Medical Systems, Waukesha, Wisconsin, by field modification
+instruction dated September 24, 1998.  Firm-initiated field
+correction ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+8,588 units were distributed.
+REASON
+The mounting hardware loosened, allowing the collimators to
+fall.
+
+
+PRODUCT
+Veridose Diodes Model No. 30-474, packaged under the Nuclear
+Associates label, used to provide dose verification and quality
+assurance for patients undergoing radiation therapy.
+Recall #Z-034-9.
+CODE
+Serial number 110 to 134, manufactured prior to September 26,
+1997.
+MANUFACTURER
+Victoreen, Inc., Cleveland, Ohio.
+RECALLED BY
+Manufacturer, by telephone on or about August 31, 1998.  
+Firm-initiated recall ongoing.
+DISTRIBUTION
+Florida, Virginia, Georgia, California, New York.
+QUANTITY
+8 diodes were distributed.
+REASON
+Devices were manufactured with a serial tag that did not
+correspond to the manufacturer's specifications.  The serial tags
+indicate a prescribed energy use of 6 to 25 MeV electron
+radiation; however, the diodes are properly color coded and
+intended for use for 18 to 25 MV photon radiation.
+
+
+PRODUCT
+Storz Tanne Disposable Trephine Blades, sterile, single use,
+packaged 1 blade per package, Rx involving the following catalog
+numbers:a) Catalog No. E3050 6.0;
+b) Catalog No. E3050 6.25;
+c) Catalog No. E3050 6.50;
+d) Catalog No. E3050 6.75;
+e) Catalog No. E3050 7.0;
+f) Catalog No. E3050 7.25
+g) Catalog No. E3050 7.50
+h) Catalog No. E3050 7.75
+i) Catalog No. E3050 8.0
+j) Catalog No. E3050 8.25
+k) Catalog No. E3050 8.50
+l) Catalog No. E3050 8.75
+m) Catalog No. E3050 9.0
+n) Catalog No. E3050 9.25
+o) Catalog No. E3050 9.50.  Recall #Z-037/051-9.
+CODE Lot numbers:  a) E3050 6.0, Lot Nos. S0974, S1046, S1211;
+b) S1128, S1343;
+c) S1129, S1344;
+d) S0967, S1047, S1212;
+e) S0987, S1112, S1066, S1213;
+f) S0968, S0975, S1051, S1120, S1214;
+g) S1052, S1130, S1152, S1215, S1468;
+h) S0976, S1142, S1216, S1345, S1434;
+i) S0966, S1057, S1143, S1346, S1435;
+j) S0977, S1053, S1121, S1217, S1469;
+k) S0978, S1067, S1218, S1436;
+l) S0969, S1122, S1145, S1219;
+m) S1113, S1161;
+n) S1131, S1347;
+o) S1114, S1398, S1532.
+MANUFACTURER
+Bausch & Lomb Surgical, St. Louis, Missouri.
+RECALLED BY
+Manufacturer, by letter on August 10, 1998.  Firm-initiated
+recall ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+1,114 blades were distributed.
+REASON
+The blade may be brittle and break during corneal transplant
+procedures. 
+
+
+PRODUCT
+a) Model SC9000  MULTIGAS Module (PN 5189407E536U)
+b) Model SC9015  MULTIGAS+ Module(PN 5189415E536U), used to
+measure inspiratory and expiratory carbon dioxide, oxygen and
+nitrous oxide and anesthetic agents.  Recall #Z-052/053-9.
+CODE
+Serial numbers: 1201, 1018, 1025, 1052, 1057(German),1057
+(France), 839, 857, 1013, 1107, 1185, 1205, 843, 849, 841, 844,
+1051, 1053, 1106, 1027, 850, 842, 845, 846, 1021, 1029.
+MANUFACTURER
+ANDROS INC, Berkley, California.
+RECALLED BY
+Siemens Medical Systems, Inc., by Danvers, Massachusetts, by
+letter on August 25, 1998.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Arizona, California, Ohio, Germany, France, Italy, Sweden.
+QUANTITY
+26 units were distributed.
+REASON
+Monitor displays "Unidentified Contaminant" and multigas modules
+parameters are not updated.
+
+
+PRODUCT Lag Screws, implantable stainless steel devices used during
+orthopedic procedures:
+a) Standard Lag Screws - Catalogue No. (Length):
+12-1100 (55 mm); 12-1101 (60 mm); 12-1102 (65 mm); 12-1103 (70
+mm);
+12-1104 (75 mm); 12-1105 (80 mm); 12-1106 (85 mm); 12-1107 (90
+mm);
+12-1108 (95 mm); 12-1109 (100 mm); 12-1110 (105 mm); 12-1111 (110
+mm);
+12-1112 (115 mm); 12-1113 (120 mm); 12-1114 (125 mm); 12-1176
+(130 mm);
+12-1177 (135 mm); and, 12-1178 (140 mm).
+b)  Super Lag Screws - Catalogue No. (Length):
+12-1180 (55 mm); 12-1181 (60 mm); 12-1182 (65 mm); 12-1183 (70
+mm);
+12-1184 (75 mm); 12-1185 (80 mm); 12-1186 (85 mm); 12-1187 (90
+mm);
+12-1188 (95 mm); 12-1189 (100 mm); 12-1190 (105 mm); 12-1191 (110
+mm);
+12-1192 (115 mm); 12-1193 (120 mm); 12-1194 (125 mm); 12-1195
+(130 mm);
+12-1196 (135 mm); and, 12-1197 (140 mm).  Recall #Z-054/
+055-9.
+CODE A total of 1,036 lot numbers are subject to recall, representing
+673 lots of the Standard Lag Screws and 363 lots of the Super Lag
+Screws.  The following lots are subject to the recall:
+Eight (8) digit lot number beginning with: "707" - representing
+production in July 1997; "708" - representing production in
+August 1997; "709" - representing production in September 1997;
+"710" - representing production in October 1997; "711" -
+representing production in November 1997; "712" - representing
+production in December 1997;  "801" - representing production in
+January 1998;
+"802" - representing production in February 1998; and, "803" -
+representing production in March 1998.
+All Standard and Super Lag Screws bearing the above first three
+(3) digits are subject to recall with the following EXCEPTIONS:
+a)  Lot Nos. beginning with "707" through "803" that contain a
+letter suffix [i.e. lot 80205715 would be subject to recall,
+whereas lot 80205715A would not be subject to the recall] and
+bearing a packaging date of April 1998 or later.
+b)  All lots beginning with a "T" prefix do not possess the
+problem which precipitated the recall action and are exempt from
+the recall.
+MANUFACTURER
+Smith and Nephew, Inc., Orthopedic Division, Memphis,
+Tennessee.
+RECALLED BY
+Manufacturer, by voice mail message on May 5, 1997, and by
+letters on May 5 and 7, 1998, by fax on May 13, 1998, and letter
+dated September 2, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+28,457 screws were distributed.
+REASON
+Screws may not properly engage/disengage from surgical wrench
+during surgery.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS
+III
+
+PRODUCT
+Light-Cure Flowable (Paint-on) Dental Restorative and Veneer
+Cement, intended for restoring damaged tooth enamel or for
+cementing dental veneers, distributed under the following brand
+names:  Sci-Pharm CuRAY-Match, Henry Schein Veneer Cement,
+Master-Dent Flow Composite, Flow Fill, Natural Flow (distributed
+in Brazil), and Unidentified Brand (distributed in Korea).
+Recall #Z-035-8.
+CODE
+Batch Nos. 6349, 6367, 6373, and 6380.
+MANUFACTURER
+Scientific Pharmaceuticals, Inc., Pomona, California.
+RECALLED BY
+Manufacturer, by letter dated March 31, 1998.  Firm-initiated
+recall ongoing.
+DISTRIBUTION
+California, New York, North Carolina, Florida, New Jersey,
+Pennsylvania, Washington state, Brazil, Korea, Taiwan, Italy.
+QUANTITY
+3,835 units were distributed.
+REASON
+Product does not set completely after curing at room temperature
+as labeled.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS II
+
+UPDATE
+Recall #V-050-8, Purina Commercial Lean Generation #74 XG CTC 100
+(type C medicated feed for swine only), which appeared in the
+September 23, 1998 Enforcement Report should read:
+MANUFACTURER/FEEDMILL:  Purina Mills,
+Orrville, Ohio. 
+
+
+MEDICAL DEVICE SAFETY ALERT
+
+PRODUCT
+Heimlich Chest Drain Valve, a specially-designed flutter valve
+used to replace underwater bottles in chest drainage.
+Safety Alert #N-001-9.
+CODE
+Reorder or Catalog #3460 or 373460.
+MANUFACTURER
+Becton Dickinson Hancock, Hancock, New York.
+ALERTED BY
+Becton Dickinson and Company, Becton Dickinson Division, Franklin
+Lakes, New Jersey, by letter on February 23, 1998.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+100,000 units were distributed.
+REASON
+The firm's February 11, 1998 letter alerted all users to pay
+special attention to the "Directions for Use" printed on the
+package and "flow direction arrow" permanently molded on the
+transparent plastic chamber.  This will prevent the device from
+being connected backwards, which could create a tension
+pneumothorax and can lead to death.
+
+
+END OF ENFORCEMENT REPORT FOR OCTOBER 14, 1998.  BLANK PAGES MAY
+FOLLOW.
+
+
+####

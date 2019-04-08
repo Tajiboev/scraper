@@ -1,0 +1,447 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  MAR
+		  Apr
+		
+		
+		
+		  
+		  02
+		  
+		
+		
+		
+		  2002
+		  2003
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      29 captures
+	      25 Feb 1997 - 13 Mar 2010
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DF
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+12/21/1994
+
+Recalls and Field Corrections:  Foods -- Class II -- 12/21/1994
+
+December 21, 1994                                                94-51
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Coca Cola Classic, in 2 liter plastic bottles.  
+               Recall #F-135-5.
+CODE           Code beginning with APR0395TWE.
+MANUFACTURER   Coca-Cola Bottling Company of Buffalo, Inc., Buffalo, New
+               York.
+RECALLED BY    Manufacturer, by visit from approximately November 7-10, 1994,
+               followed by letter November 11, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   New York.
+QUANTITY       3,616 cases (8 bottles per case) were distributed.
+REASON         Product contains gear lubricant.
+
+_______________
+PRODUCT        Light n' Lively Free 50 Calories, Non-Fat Yogurt with
+               Aspartame Sweetener, variety pack, 3 Strawberry Fruit Cup & 
+               3 Strawberry Banana, in 4.4 ounce plastic cups. 
+               Recall #F-136-5.
+CODE           NOV 18.
+MANUFACTURER   Kraft, Inc. Dairy Group, Atlanta, Georgia.
+RECALLED BY    Kraft General Foods, Inc., Northfield, Illinois, by fax
+               November 2, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Illinois, Indiana, Wisconsin, North Carolina, Florida,
+               Alabama, Arkansas, Tennessee, Georgia, Missouri, Minnesota,
+               Michigan, Virginia, West Virginia.
+QUANTITY       3,153 cases were distributed; firm estimated that 20% of the
+               yogurt remained on market at time of recall initiation.
+REASON         Product contains metal shavings.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        Promise Extra Light Margarine, packaged in 16 ounce boxes,
+               four 1/4 pound sticks per box.  Recall #F-133-5.
+CODE           NOV 2194K.
+MANUFACTURER   Van Den Bergh Foods, New York, New York.
+RECALLED BY    Manufacturer, by letter August 8, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Washington state, California, Utah, Hawaii.
+QUANTITY       371 cases (18 packages per case) were distributed.
+REASON         Product is contaminated with mold.
+
+_______________
+PRODUCT        Jumex Apple Juice Drink in 8.4 fluid ounce plastic bottles. 
+               Recall #F-134-5.
+CODE           All lots.
+MANUFACTURER   Empacadora de Frutas y Jugos, S.A. de C.V., Mexico City,
+               Mexico.
+RECALLED BY    Vilore Foods Company, Inc., Laredo, Texas, by letter September
+               15, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   California, Texas.
+QUANTITY       1,680 cases (24 bottles per case) were distributed; firm
+               estimated that 200 cases remained on market at time of recall
+               initiation.
+REASON         Product is contaminated with yeast growth.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Prednisone Tablets, USP, 10 mg, Rx oral glucocorticoid anti-
+               inflammatory used in the treatment of rheumatoid arthritis and
+               adrenocortical insufficiency, packaged in bottles of 15, 40,
+               and 20 tablets.  Recall #D-039-5.
+CODE           Lot numbers: 4049042, 4122011, 4049047.
+MANUFACTURER   Purepac Pharmaceutical Company, Elizabeth, New Jersey
+               (responsible firm).
+RECALLED BY    Allscrips Pharmaceuticals, Inc., Vernon Hills, Illinois
+               (repacker), by letter September 8, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Michigan, Connecticut, California, Missouri, Florida, Nevada,
+               North Carolina, Georgia.
+QUANTITY       33 bottles of 15 tablets and 49 bottles of 40, and 2 bottles
+               of 20 tablets were distributed; firm estimated that 25 percent
+               of product remained on market at time of recall initiation.
+
+                                    -2-REASON         Product may not meet dissolution specifications through
+               expiration date.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Bactroban brand of Mupirocin Ointment, 2%, a topical
+               antibacterial, packaged in 1 gram single unit packages of 50,
+               1 gram patient starter samples boxes of 20, 15, and in 30 gram
+               tubes.  Recall #D-036-5.
+CODE           All lots.
+MANUFACTURER   SmithKline Beecham Pharmaceuticals, Cidra, Puerto Rico.
+               RECALLED BYSmithKline Beecham Pharmaceuticals, Bristol, Tennessee, by Fax
+               November 18, 1994, and by letter dated November 21, 1994. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Undetermined.
+REASON         Failure to meet potency and/or total degradation
+               specifications through expiration date.
+
+________________
+PRODUCT        Acetaminophen Tablets, Regular Strength, packaged in bulk
+               drums.  Recall #D-037-5.
+CODE           Lot #4083119.
+MANUFACTURER   Granutec, Inc., Wilson, North Carolina.
+RECALLED BY    Manufacturer, by issuing a return authorization on October 16,
+               1994.  Firm-initiated recall complete.
+DISTRIBUTION   Maryland.
+QUANTITY       7.9 million tablets.
+REASON         Presence of metallic particles.
+
+_______________
+PRODUCT        Bulk Naltrexone Hydrochloride Powder, used for further
+               manufacture of a drug prescribed for substance abuse problems. 
+               Recall #D-038-5.
+CODE           1479SMH060, 1479SMH061, 1479SMJ064, 1479SMJ066, 1479SMK067.
+MANUFACTURER   Mallinckrodt Chemical, Inc., St. Louis, Missouri.
+RECALLED BY    Manufacturer, by telephone October 12, 1994, and by letter
+               October 18, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Colorado, New York, Portugal.
+QUANTITY       36.1 kg were distributed between 6/14/94 and 8/8/94.
+REASON         Product exceeds specification for total water and ethanol
+               content.
+
+_______________
+PRODUCT        Cherry Nytime, a liquid OTC cough and cold drug product, in 6
+               fluid ounce bottles.  Recall #D-040-5.
+CODE           Lot #J256.
+MANUFACTURER   Thames Pharmacal Company, Inc., Ronkonkoma, New York.
+
+                                    -3-RECALLED BY    Manufacturer, by telephone March 29, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Minnesota.
+QUANTITY       10,666 units were distributed; firm estimates none remains on
+               the market.
+REASON         Alcohol component did not meet USP specifications for Non-
+               volatile Impurities.
+
+_______________
+PRODUCT        Oxycodone and Acetaminophen Tablet, 5 mg/325 mg, prescription
+               oral analgesic, in 100 and 500 tablet bottles, under the
+               following labels:  Halsey; Schein, Qualitest, Goldline. 
+               Recall #D-041-5.
+CODE           Lot numbers:  3J30F, 3J30L, 3L10F.
+MANUFACTURER   Halsey Drug Company, Inc., Brooklyn, New York.
+RECALLED BY    Manufacturer, by letter December 19, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       15,448 100-tablet bottles and 2,581 500-tablet bottles were
+               distributed.
+REASON         Oxycodone ingredient does not meet potency specifications.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS --
+=============================
+_______________
+UPDATE         Regarding Recall #B-024/026-5 which appeared in the November
+               16, 1994 Enforcement Report:  The report stated the reason as
+               blood components contaminated with "Coagulase negative
+               Streptococcus agalactiae Group B were distributed;" however,
+               it should have been reported as blood products contaminated
+               with "Streptococcus agalactiae Group B" were distributed.
+               These recalls were classified as follows:  
+               B-024-5 - Class I; B-025-5 - Class II; B-026-5 - Class III.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma.  
+               Recall #B-106/107-5.
+CODE           Unit #27028-4638.
+MANUFACTURER   United Blood Services Blood Systems, Inc., Texarkana, Texas.
+RECALLED BY    Manufacturer, by telephone September 28, 1993, followed by
+               letter September 30, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Arkansas, Switzerland.
+QUANTITY       1 unit of each component.
+REASON         Blood products, which were collected from a donor who had a
+               history of intravenous (IV) drug use, were distributed.
+
+
+                                    -4-RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        Whole Blood CPDA-1.  Recall #B-105-5.
+CODE           Unit #FS13010.
+MANUFACTURER   Delta Blood Bank, Stockton, California.
+RECALLED BY    Manufacturer, by telephone October 10, 1990.  This firm
+               initiated recall was completed in 1990.
+DISTRIBUTION   California.
+QUANTITY       1 unit.
+REASON         Blood product, which was labeled with an incorrect expiration
+               date, was distributed.
+
+_______________
+PRODUCT        Platelets Pheresis.  Recall #B-104-5.
+CODE           Unit #9202863.
+MANUFACTURER   Hunter Blood Center, Inc., Clearwater, Florida.
+RECALLED BY    Manufacturer, by letter September 4, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Florida.
+QUANTITY       1 unit.
+REASON         Blood product, which was collected from a donor who had
+               received the Rubella vaccine two weeks prior to donation, was
+               distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Easy Cap Disposable End-Tidal Carbon Dioxide Detector, used to
+               assist in verification of endotracheal tube placement after
+               intubation and during patient transport.  
+               Recall #Z-105-5.
+CODE           All lots with lot designator "J".
+MANUFACTURER   Harmac Medical Products, Inc., Buffalo, New York.
+RECALLED BY    Nellcor, Inc., Pleasanton, California, by letters sent August
+               18, 1993 and in October 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       306,456 units were distributed; firm estimates none remains on
+               the market.
+REASON         The device was found to contain an extra plastic cap within
+               the lower chamber of the detector, resulting in a possible
+               airflow obstruction.
+
+_______________
+PRODUCT        OPX Fiberoptic Intracranial Pressure Monitoring Catheter Kits: 
+               (a) Model OPX-SD; (b) Model OPX-V.  Recall #Z-176/177-5.
+CODE           All lots.
+MANUFACTURER   Innerspace, Inc., Irvine, California.
+RECALLED BY    Manufacturer, by letter August 29, 1994.  Firm-initiated
+               recall ongoing.
+
+                                    -5-DISTRIBUTION   Arizona, California, Florida, Illinois, Kansas, Missouri,
+               North Carolina, Nebraska, New Jersey, New York, Oklahoma,
+               Pennsylvania, Tennessee, Texas, Wisconsin, Washington, D.C.,
+               Brazil, Canada, France, Germany, Israel, Netherlands,
+               Switzerland, United Kingdom.
+QUANTITY       590 units were distributed.  On October 12, 1994, the firm
+               estimated that 156 units remained in commerce.
+REASON         The leakage caused by a defective seam may cause inaccurate
+               pressure readings.
+
+_______________
+PRODUCT        Tandem R CEA Immunoradiometric Assay Kits, Catalog #3063, in-
+               vitro device indicated for the quantitative measurement of
+               carcinoembryonic antigen (CEA) in human serum to be used as an
+               aid in the prognosis and management of cancer patients. 
+               Recall #Z-201-5.
+CODE           Lot numbers:  491001 EXP 9/7/94, 491062 EXP 9/21/94, 491092
+               EXP 9/28/94, 491109 EXP 10/5/94, 491154 EXP 10/12/94, 491216
+               EXP 10/26/94, 491249 EXP 10/26/94.
+MANUFACTURER   Hybritech, Inc., San Diego, California.
+RECALLED BY    Manufacturer, by letter October 14, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide, Puerto Rico, Canada, Chili.
+QUANTITY       582 kits were distributed from 7/25/94 through 9/14/94.
+REASON         Insufficient mouse IgG was added to diluent during manufacture
+               which results in the false elevation of patient test results.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Cadwell Spectrum 32 Neurometric Analyzer, an EEG device, and
+               the Neurometric EEG Software.  Recall #Z-175-5.
+CODE           All units which have the Neurometric software program.
+MANUFACTURER   Cadwell Laboratories, Inc., Kennewick, Washington.
+RECALLED BY    Manufacturer.  A software update package was sent to all
+               consignees in February 1994.  Firm-initiated field correction
+               complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       218 packages were distributed.
+REASON         The discriminant analysis within the Neurometric software
+               provided false positive and false negative readings, which
+               could result in misdiagnosis.
+
+_______________
+PRODUCT        SurgiQuip Power Console, Catalog #100-001, used to power
+               SurgiQuip hand-held orthopedic surgical instruments.
+               Recall #Z-178-5.
+
+                                    -6-CODE           Serial numbers:  01002, 01003, 01005, 01006, 01007, 01008,
+               01010, 01011, 01013, 01014, 01015, 01017, 01018, 01019, 01021,
+               01022, 01023, 01026, 01027, 01028, 01029, 01030, 01031, 01032,
+               01033, 01034, 01036, 01037, 01038, 01039, 01040, 01041, 01043,
+               01045, 01046, 01047, 01048, 01050, 01051, 01052, 01053, 01054,
+               01057, 01058, 01059, 01060, 01061, 01062, 01063, 01064, 01065,
+               01066, 01067, 01068, 01069, 01070, 01072, 01075, 01076, 01077,
+               01079, 01080, 01081, 01082, 01083, 01086, 01088, 01089, 01091,
+               01092, 01093, 01094, 01095, 01096, 01098, 01100, 01103, 01104,
+               01106, 01107, 01108, 01109, 01110, 01111, 01113, 01114, 01115,
+               01116, 01119, 01120, 01121, 01123, 01124, 01125, 01126, 01127,
+               01129, 01130, 01131, 01132, 01134, 01135, 01136, 01138, 01139,
+               01140, 01141, 01143, 01144, 01146, 01147, 01148, 01149, 01150,
+               01151, 01152, 01153, 01154, 01155, 01156, 01157, 01158, 01159,
+               01160, 01161, 01163, 01164, 01165, 01167, 01168, 01169, 01171,
+               01172, 01173, 01176, 01177, 01178, 01179, 01180, 01182, 01183,
+               01184, 01187, 01189, 01190, 01191, 01192, 01195, 01205, 01206,
+               01209, 01210, 01211, 01212, 01214, 01215, 01216, 01217, 01218,
+               01219, 01220, 01229, 01231, 01238, 01241, 01254, 01270, 01275,
+               01281, 01285, 01293, 01304, 01305, 01309, 01313, 01314, 01316,
+               01318, 01320, 01400, 01682, 01706, 01708, 01727, 01742, 01732,
+               01751, 01754, 01767, 01779, 01792.
+MANUFACTURER   SurgiQuip, Inc., Tulsa, Oklahoma
+RECALLED BY    Manufacturer, by letter September 20, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       191 units were distributed between July 1 and September 20,
+               1994.
+REASON         The console may be subject to temporary power shut-down due to
+               electrical interference generated from other operating room
+               equipment.
+
+
+MEDICAL DEVICE SAFETY ALERTS: 
+============================================
+_______________
+PRODUCT        Diagnostic Ultrasound Systems:  (a) SPA 1000; (b) DRF 800.
+               Safety Alert #N-003/004-5.
+CODE           All codes and serial numbers.
+MANUFACTURER   Diasonics Ultrasound, Inc., Milpitas, California.
+ALERTED BY     Manufacturer, by letter September 20, 1994. 
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+REASON         There is a potential for receiving a mild electric shock when
+               cleaning the logo on the machines with an electrolyte
+               solution.
+
+                                    -7-
+
+END OF ENFORCEMENT REPORT FOR DECEMBER 21, 1994.  BLANK PAGES MAY
+FOLLOW.
+
+
+                                   ####

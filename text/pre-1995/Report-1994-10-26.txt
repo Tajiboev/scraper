@@ -1,0 +1,664 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  20
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      31 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+10/26/1994
+
+Recalls and Field Corrections:  Foods -- Class I -- 10/26/1994
+
+October 26, 1994                                                 94-43
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+==========================
+_______________
+PRODUCT        Libby's brand Crispy Sauerkraut, in 32 ounce glass jars. 
+               Recall #F-011-5.
+CODE           Lot numbers:  BMEH1, BMEH2, BMEH3 (packed on 2/11/94); BPEH1,
+               BPEH2 (packed on 2/14/94); CPEH1, CPEH2, CPEH3 (packed on
+               3/14/94); CREH1, CREH3 (packed on 3/15/94); H2EH3, H2EH4,
+               H2EH5, H2EH6 (packed on 8/24/94).
+MANUFACTURER   Seneca Foods Corporation, Jackson, Wisconsin.
+RECALLED BY    Seneca Foods Corporation, Marion, New York, by fax September
+               19, 1994, followed by letter September 20, 1994.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       13,613 cases (12 jars per case) were distributed; firm
+               estimated that 3,000-4,000 jars remained on market at time of
+               recall.
+REASON         Product label does not declare the presence of sulfites.
+
+_______________
+PRODUCT        Food Club and Big Y brands Florentine Style Vegetables in 16
+               ounce packages, a mixture of frozen broccoli, carrots and
+               cauliflower.  Recall #F-012-5.
+CODE           Two line code H94LK5/D411502.
+MANUFACTURER   Lakeside Foods, Inc., Manitowoc, Wisconsin.
+RECALLED BY    Manufacturer, by letter and by press release September 23,
+               1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Ohio, Wisconsin, Illinois, Pennsylvania, West Virginia,
+               Massachusetts, Vermont.
+QUANTITY       437 cases (12 bags per case) were distributed.
+REASON         Product is contaminated with Listeria monocytogenes.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Carnation Good Start Infant Formula Concentrated Liquid in 13
+               fluid ounce cans.  Recall #F-013-5.
+CODE           Lot numbers:  4067EWGC447 (U.S.); 4062EWGC443 and 4067EWGC446
+               (Canada).
+MANUFACTURER   Nestle Food Company, Eau Claire, Wisconsin.
+RECALLED BY    Nestle USA, Inc., Glendale, California, by issuing a sales
+               department bulletin on July 13, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Arizona, California, Colorado, Idaho, Nevada, Oregon, Utah
+               Washington state, Wisconsin, Canada.
+QUANTITY       16,878 cases were distributed; firm estimates none remains on
+               the market.
+REASON         A small number of cans were found to contain non-pathogenic
+               spoilage organisms indicating the product has the remote
+               possibility of being contaminated with other microorganisms.
+
+_______________
+PRODUCT        (a) Caramel and (b) Lemon-Yellow Sweet Frosted Popcorn, in 4
+               ounce bags.  Recall #F-015/016-5.
+CODE           Product is identified by the last 5 numbers of the UPC code:
+               00840 (Caramel Sweet Frosted Popcorn); 00870 (Lemon-Yellow
+               Popcorn).
+MANUFACTURER   Judy's Gourmet Popcorn, Inc., Jackson, Michigan.
+RECALLED BY    Manufacturer, by telephone on or about October 14, 1994. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Michigan, Ohio, Illinois, Indiana.
+QUANTITY       (a) 264 cases (12 bags per case); (b) 324 cases (12 bags per
+               case) were distributed.
+REASON         Product contains undeclared FD&C; Yellow No. 5.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Balsamic Vinegar in 8.8 ounce bottles.  Recall #F-014-5.
+CODE           Lot #L3033.
+MANUFACTURER   Cesare Fiorucci S.p.A., Rome, Italy.
+RECALLED BY    Fiorucci Foods, Colonial Heights, Virginia, by letter on or
+               about June 10, 1994.  Firm-initiated field correction
+               (relabeling) complete.
+DISTRIBUTION   New Jersey, New York, Pennsylvania, Florida, Wisconsin, Rhode
+               Island, Connecticut, Massachusetts, Virginia, California.
+QUANTITY       50 cases (6 bottles per case) were distributed.
+REASON         Product contains undeclared sulfites.
+
+                                    -2-RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Prednisone Tablets USP (a) 5 mg; (b) 10 mg, Rx adrenocortical
+               steroids in bottles of 1000, 500 and 100 tablets.
+               Recall #D-014/015-5.
+CODE           Lot numbers and EXP dates:
+               (a) 097L2 11/94, 098L2 11/94, 050C3 3/95, 051C3 4/93, 
+               065F3 7/95, 066F3 6/95, 066J3 10/95, 067J3 10/95, 022A4 2/96,
+               002B4 2/96 (1000's);
+               (b) 060H2 10/94, 011B3 2/95, 071E3 5/95, 067G3 8/95,
+               085K3 10/95, 003B4 2/96 (100's); 012B3 2/95, 066G3 8/95, 
+               084K3 10/95, 061H2 10/94, 059L2 11/94, 060L2 11/94, 
+               072E3 5/95 (500's).
+MANUFACTURER   Purepac Pharmaceutical Company, Elizabeth, New Jersey.
+RECALLED BY    Manufacturer, by letter August 9, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Undetermined.
+QUANTITY       (a) 77,476 bottles of 1000; (b) 305,522 bottles of 100 and
+               38,646 bottles of 500 were distributed.
+REASON         Products may not meet dissolution/stability specifications
+               through expiration date.
+
+_______________
+PRODUCT        Bacitracin Ointment, USP, in 1/2 ounce tubes, applied
+               topically to help prevent infection in minor cuts, scrapes and
+               burns.  Recall #D-016-5.
+CODE           Lot #3J657 EXP 10/95.
+MANUFACTURER   NMC Laboratories, Inc., Glendale, New York.
+RECALLED BY    Manufacturer, by letter September 30, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       21,690 tubes were distributed; firm estimated that 2,000 units
+               remained on the market at time of recall.
+REASON         A unit carton of Bacitracin Ointment contained a tube of
+               Nystatin-Triamcinolone Cream.
+
+_______________
+PRODUCT        Oral-B Laboratories Anti-Plaque Alcohol Free Mouth Rinse, in
+               2 ounce bottles.  Recall #D-017-5.
+CODE           Lot #4P16064 EXP 2/96.
+MANUFACTURER   CCL Industries, Toronto, Ontario, Canada. 
+RECALLED BY    Oral-B Laboratories, Redwood City, California, by undated
+               letters sent during the week of October 10, 1994.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide, New Zealand.
+QUANTITY       84,720 units were distributed.
+REASON         Some bottles were found to contain Pseudomonas cepacia.
+
+
+                                    -3-RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Methadone Hydrochloride, oral solution, USP 5 mg per ml, in
+               500 ml bottles, used for treatment of narcotic addiction. 
+               Recall #D-012-5.
+CODE           Lot #941390 EXP 9/1/98.
+MANUFACTURER   Roxane Laboratories, Inc., Columbus, Ohio.
+RECALLED BY    Manufacturer, by letter October 5, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,192 bottles were distributed.
+REASON         Some bottles were found to have Metoclopramide Solution
+               outserts.
+
+_______________
+PRODUCT        Tegretol 200 mg Tablets (Carbamazepine USP) 100 tablets, in
+               unit dose package, an anticonvulsant and specific analgesic
+               for trigeminal neuralgia.  Recall #D-013-5.
+CODE           Lot #1T157629 EXP 7/98.
+MANUFACTURER   Ciba Pharmaceuticals Division, Suffern, New York.
+RECALLED BY    Manufacturer, by Ciba-Geigy Corporation, Summit, New Jersey,
+               by letter September 6, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       32,517 boxes (100 tablets each) were distributed.
+REASON         Delamination of blister packaging.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        Platelets.  Recall #B-003-5.
+CODE           Unit numbers:  1B2665, 1B2668, 1B2698, 1B2699, 5E9485, 4F7314,
+               4F7317, 9T6258, 9T6299.
+MANUFACTURER   Puget Sound Blood Center (PSBC), Seattle, Washington.
+RECALLED BY    Manufacturer, by telephone June 7, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Washington State.
+QUANTITY       9 units.
+REASON         Blood products, which were labeled with an incorrect
+               expiration date, were distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-004-5.
+CODE           Unit #15KG20320.
+MANUFACTURER   The American National Red Cross, Boise, Idaho.
+RECALLED BY    Manufacturer, by letter February 11, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Montana.
+QUANTITY       1 unit now out of distribution.
+REASON         Blood product, collected from an ineligible donor due to
+               travel in an area endemic for malaria, was distributed.
+
+                                    -4-RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        Forma Scientific Freezers, Ultra Low Temperature (ULT)
+               Freezers, used in the freezing and storage of blood components
+               and laboratory supplies, as well as other laboratory
+               applications.  Recall #B-005-5.
+CODE           Model numbers:  816, 817, 823, 825, 826, 838, 839, 0858, 859,
+               8416, 8417, 8423, 8425, 8426, 8436, 8438, 8439, 8440, 8442,
+               8445, 8452, 8458, 8460.
+MANUFACTURER   Bristol Compressors, Bristol, Virginia (supplier of
+               compressor).
+RECALLED BY    Forma Scientific, Inc., Marietta, Ohio, by letter dated
+               October 12, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       415 freezers.
+REASON         Ultra Low Temperature freezers with faulty compressors were
+               distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma.  
+               Recall #B-006/007-5.
+CODE           Unit #3M8179.
+MANUFACTURER   Puget Sound Blood Center, Seattle, Washington.
+RECALLED BY    Manufacturer, by telephone in September 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Washington state.
+QUANTITY       1 unit of each component.
+REASON         Blood products, which were collected from a donor who had
+               received the Mumps, Measles, and Rubella (MMR) vaccine one
+               week prior to donation, were distributed.
+
+_______________
+PRODUCT        Platelets.  Recall #B-013-5.
+CODE           Unit numbers:  42FJ17572, 42FJ17584, 42FJ17590, 42FJ17596.
+MANUFACTURER   American National Red Cross (The), Columbus, Ohio.
+RECALLED BY    Manufacturer, by letter July 20, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Ohio.
+QUANTITY       4 units.
+REASON         Blood products, which were exposed to unacceptable shipping
+               temperatures, were distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-014-5.
+CODE           Unit #NA26013.
+MANUFACTURER   East Texas Blood Center, Nacogdoches, Texas.
+RECALLED BY    Manufacturer, by telephone May 16, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       1 unit.
+REASON         Blood product, which was labeled with an incorrect expiration
+               date, was distributed.
+
+                                    -5-RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Optum Peritoneal Exchange Device, used to aseptically exchange
+               used bags of dialysate solution with new bags. Machine
+               automatically unspikes the old bag and spikes the new bag. 
+               (Note:  Device may bear the old Abbott Labs name or the new
+               Fresenius name).  Recall #Z-009-5.
+CODE           All units.  Serial numbers 10001 through 13748.
+MANUFACTURER   Random Corporation, Cincinnati, Ohio (contract manufacturer).
+RECALLED BY    Fresenius USA, Inc., Walnut Creek, California, by telephone
+               during the week of September 12, 1994, followed by letter. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       975 were distributed.
+REASON         The device fails to spike or adequately spike new dialysate
+               bags.
+
+_______________
+PRODUCT        Coated VICRYL (Polyglactin 910) Absorbable, Sterile Sutures:
+               (a) Precision Point--Reverse Cutting; 
+               (b) Precision Point--Conventional Cutting;
+               (c) Precision Cosmetic--Conventional Cutting;
+               (d) Reverse Cutting;
+               (e) Taper Point;
+               (f) Tapercut;
+               (g) Sabreloc--Spatula;
+               (h) Straight Cutting;
+               (i) E-Pack Procedure Kits (containing any of the affected
+               sutures.  Recall #Z-013/021-5.
+CODE           Product Codes - Lot Numbers 
+               (a) J426H       GC9678, GD9575;  
+               J427H           GD9037, GD9548;  
+               J464G           GD9057;  
+               J490G           GC9956, GD9056, GD9422;  
+               J493G           GD9088, GD9106, GD9110;  
+               J493H           GC9363, GD9425, GD9570;  
+               J494G           GC9740, GC9741, GC9850, GD9140, GD9501, 
+                               GD9502, GD9476;  
+               J494H           GC9360, GC9982, GD9087, GD9522;  
+               J495G           GD9114;  
+               J495H           GD9104, GC9692;  
+               J496G           GD9689;  
+               J496H           GC2365, GC2449, GC2544, GD9014, GD9015, 
+                               GD9145, GD9173, GD9503;  
+               J497G           GC2335, GD9113, GD9835;  
+               J497H           GC9834, GC9967, GD9032, GD9690, GD9452;  
+               J500G           GC2331, GD9035, GD9573; 
+               J500H           GC9676;  
+               J502H           GD9483;  
+               J506G           GC9983;  
+               J511G           GD9694;  
+               J513G           GD9528;  
+
+                                    -6-               J593G           GD9019; 
+               J594G           GC2546;  
+               J596H           GD9174;  
+               J610H           GD9176;  
+               J682G           GC2446, GD9101; 
+               J682H           GD9699; 
+               J683G           GD9572; 
+               J683H           GC9919, GD9036, GD9596; 
+               J935H           GC9951, GD9083, GD9500, GD9529; 
+               J936H           GC2329, GC9980, GD9012. 
+               (b) J598G       GC9918. 
+               (c) J813G       GC9998;  
+               J814G           GD9109; 
+               J822G           GC9916, GD9527; 
+               J823G           GC2363; 
+               J823H           GD9830; 
+               J824G           GD9591; 
+               J834G           GD9524; 
+               J835G           GC2548, GD9733; 
+               J844G           GC2328; 
+               J845G           GC2547, GD9020. 
+               (d) J196H       GC9838, GD9038; 
+               J266H           GD9039, GD9040, GD9884; 
+               J267H           GD9532, GD9533; 
+               J268H           GD9041, GD9093, GD9704, GD9713; 
+               J386H           GD9310; 
+               J391H           GC9679, GC9836, GD9111; 
+               J392H           GD9102, GD9594; 
+               J393H           GD9574; 
+               J396H           GD9171; 
+               J397H           GD9142, GD9531; 
+               J398H           GD9506; 
+               J421H           GC2447, GD9426, GD9525, GC9799; 
+               J422H           GB2362, GC2392, GC9810, GC9831, GD9085, 
+                               GD9428, GD9450; 
+               J423H           GD9013, GD9505, GD9595; 
+               J441H           GC9976, GD9016, GD9691; 
+               J442H           GC9835, GD9430, GD9482; 
+               J443H           GC2554; 
+               J451H           GD9031; 
+               J453H           GC9811, GD9005, GD9006, GD9461, GD9462,      
+                               GD9119; 
+               J455H           GD9166; 
+               J458H           GD9092, GD9545; 
+               J459H           GC9977, GD9423; 
+               J460H           GD9117; 
+               J461H           GC9954; 
+               J466H           GD9074, GD9121; 
+               J467H           GD9546, GD9547; 
+               J468H           GD9075, GD9094, GD9703; 
+               J472H           GD9577, GD9921; 
+               J479H           GC2374, GC9940; 
+
+                                    -7-               J480H           GC9837, GD9129; 
+               J484H           GC9941; 
+               J533H           GC2379, GD9682; 
+               J534H           GC9845, GC9785, GD9078, GD9079, GD9767; 
+               J535H           GC2381, GD9756; 
+               J586H           GC9955, GD9908; 
+               J588H           GC9770, GD9115, GD9576; 
+               J589H           GC2394; 
+               J695H           GC9943; 
+               J698H           GD9459; 
+               J869H           GC9936; 
+               J870H           GC9935, GD9753; 
+               J871H           GC2515, GD9487. 
+               (e) J213H       GC2372, GC9594, GD9138; 
+               J214H           GC2373, GC2551, GD9445, GD9749; 
+               J215H           GC2333, GD9478, GD9832; 
+               J218H           GC9501, GD9017; 
+               J219H           GC9581; 
+               J232H           GD9097, GD9725; 
+               J258H           GD9060, GD9061, GD9062, GD9301, GD9848; 
+               J259H           GC9690, GD9024, GD9025, GD9027; 
+               J260H           GD9000, GD9001, GD9466; 
+               J261H           GC9973, GD9002; 
+               J269H           GD9178, GD9886; 
+               J270H           GC2349, GD9043; 
+               J274H           GC9923, GD9712; 
+               J280H           GD9045, GD9514; 
+               J281H           GC9925; 
+               J303H           GD9732; 
+               J306H           GD9739; 
+               J314H           GC9828; 
+               J315H           GC9944, GD9004, GD9046, GD9432; 
+               J316H           GC2527, GC9841, GC9842, GC9946, GC9961, 
+                               GD9534, GD9584; 
+               J317H           GC2435, GD9686, GD9701, GD9866; 
+               J318H           GD9187; 
+               J323H           GD9758; 
+               J324H           GC2459, GD9536; 
+               J329H           GC2552; 
+               J332H           GD9705, GD9729, GD9154, GD9181, GD9680; 
+               J333H           GD9096, GD9122, GD9453, GD9512, GD9513, 
+                               GD9491, GD9707, GD9708, GD9766; 
+               J334H           GC9926, GD9125, GD9126, GD9147, GD9148, 
+                               GD9490, GD9510, GD9511, GD9762; 
+               J335H           GD9507, GD9508, GD9509; 
+               J338H           GC9993, GD9550; 
+               J339H           GC2455, GD9470, GD9471, GD9472, GD9473, 
+                               GD9474, GD9516, GD9517, GD9518, GD9788; 
+               J340H           GC9985, GD9986, GC9987, GC9988, GC9989, 
+                               GC9990, GD9065, GD9464, GD9465, GD9558, 
+                               GD9559, GD9560, GD9561, GD9563, GD9564, 
+                               GD9792, GD9794; 
+
+                                    -8-               J341H           GD9028; 
+               J343H           GC9927; 
+               J344H           GD9197, GD9198; 
+               J345H           GC2337, GC2338, GD9151, GD9436, GD9458, 
+                               GD9488; 
+               J346H           GD9137, GD9199, GD9521, GD9553, GD9554; 
+               J351H           GC2351, GD9011, GD9538, GD9723; 
+               J352H           GD9443, GD9444, GD9599, GD9785;  
+               J353H           GC9929, GD9515; 
+               J357H           GC2484, GD9685; 
+               J358H           GC2340, GC2341, GC9844, GD9052, GD9184, 
+                               GD9715, GD9724, GD9770; 
+               J375H           GD9067, GD9440, GD9681; 
+               J376H           GC9931, GD9068, GD9588; 
+               J381H           GC2353; 
+               J416H           GC2438, GC2439, GC9932, GC9933, GD9540, 
+                               GD9541, GD9542, GD9582; 
+               J417H           GC2366, GC2393; 
+               J434H           GD9165, GD9731; 
+               J436H           GD9186, GD9769; 
+               J437H           GC2354, GC9934, GD9543; 
+               J527H           GC2508, GD9448, GD9571;  
+               J602H           GC2382, GC9948, GD9578, GD9675, GD9709, 
+                               GD9730; 
+               J603H           GC2383, GD9080, GD9678, GD9755; 
+               J849G           GC9095; 
+               J944H           GC9994, GD9063, GD9565, GD9567; 
+               J945H           GC2557, GC9849; 
+               J946H           GD9066, GD9003, GD9520, GD9555, GD9556, 
+                               GC9969, GC9819; 
+               J956H           GD9774; 
+               J957H           GC9938; 
+               J958H           GC2345, GD9580, GD9581, GD9091. 
+               (f) J516H       GC2376, GD9710; 
+               J517H           GC2377, GD9077, GD9676, GD9192; 
+               J518H           GD9189, GD9434, GD9718; 
+               J916H           GD9455. 
+               (g) J553G       GC9996. 
+               (h) J662H       GC2441, GD9447, GD9742. 
+               (i) All lots.
+MANUFACTURER   Ethicon, Inc., San Antonio, Texas and San Angelo, Texas.
+RECALLED BY    Ethicon, Inc., Somerville, New Jersey, by letters of September
+               10 and 28, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       3,527,088 boxes were distributed.
+REASON         The sterility of these lots of sutures cannot be assured
+               because of possible microorganism contamination during aseptic
+               processing, following sterilization.
+
+                                    -9-_______________
+PRODUCT        Kidney Perfusate Solution Concentrate, in 500 ml bottles, used
+               as a preservation solution for kidneys prior to implanting. 
+               Recall #Z-023-5.
+CODE           All lots.
+MANUFACTURER   Geneva Laboratories, Inc./Preservation Solutions, Inc.,
+               Elkhorn, Wisconsin.
+RECALLED BY    Manufacturer, by letter September 8, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Washington, DC, New York, Florida, California.
+QUANTITY       575 bottles were distributed.
+REASON         Product is a Class III device and does not have an approved
+               application for pre-market approval or an investigational
+               device exemption in effect.
+
+_______________
+PRODUCT        Biopsy Guides for the 5C40 Transducer and C40 Transducer used
+               with the Quantum 2000 Ultrasound System.  Recall #Z-025-5.
+CODE           All codes.
+MANUFACTURER   Siemens Medical Systems, Inc., Issaquah, Washington.
+RECALLED BY    Manufacturer, by letter dated September 2, 1994.  Firm-
+               initialed field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       220 units were distributed.
+REASON         The device biopsy guide may not fit correctly on the bezel of
+               transducers causing slippage of the biopsy guide; resulting in
+               a biopsy sample being obtained outside the region of interest.
+
+_______________
+PRODUCT        Extended Blade Electrodes, Catalog #809319, used as an
+               accessory to an electrosurgical panel.
+               Recall #Z-031-5.
+CODE           Lot numbers 2E1701 and 2B1183.
+MANUFACTURER   Edward Weck & Company, Research Triangle Park, North Carolina.
+RECALLED BY    Manufacturer, by letter June 18, 1992.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide, Australia, Canada, Spain.
+QUANTITY       1,500 sales units.
+REASON         Some devices were found to have inadequate package seals which
+               may compromise the sterility of the device.
+
+_______________
+PRODUCT        Cooley Dilators:  (a) .5 mm, Catalog #355309; 
+               (b) 1.0 mm, Catalog #355310; (c) 1.5 mm, Catalog #355311;
+               (d) 2.0 mm, Catalog #355312; (e) 2.5 mm, Catalog #355313;
+               (f) 3.0 mm, Catalog #355314; (g) Dilator Set of 6 sizes,
+               Catalog #355315.  Recall #Z-034/040-5.
+CODE           Lot numbers:  KK3 and BB4.
+MANUFACTURER   Krass USA, Inc., Hecker, Illinois
+RECALLED BY    Pilling Weck, Research Triangle Park, North Carolina, by
+               letter August 10, 1994.  Firm-initiated recall ongoing.
+
+                                   -10-DISTRIBUTION   Nationwide, Canada, France, Singapore.
+QUANTITY       703 units were distributed.
+REASON         The dilators are breaking with excessive manipulation.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+=======================
+_______________
+PRODUCT        Toric Contact Lens, made to order lenses for use on
+               individuals with astigmatism:  (a) Optima series;
+               (b) Criterion Ultra.  Recall Z-011/012-5.
+CODE           Lot numbers:  (a) SC267904, SC272946;
+               (b) SH269648, SH267904.
+MANUFACTURER   Bausch and Lomb, Inc., Sarasota, Florida.
+RECALLED BY    Bausch and Lomb, Inc., Rochester, New York, by letters dated
+               September 19, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       19 lenses were distributed.
+REASON         Each lot was incorrectly labeled with the product lot number
+               and power parameters.
+
+_______________
+PRODUCT        Beckman Synchron CX7 Clinical Analyzer System, Part #756601,
+               indicated for in-vitro chemistry testing.  Recall #Z-024-5.
+CODE           All units.  All Serial numbers.
+MANUFACTURER   Beckman Instruments, Inc., Brea, California.
+RECALLED BY    Manufacturer, by letter April 22, 1994.  Firm-initiated field
+               correction complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       996 units were distributed.
+REASON         Defective software may cause patient samples to be incorrectly
+               sampled, which may cause incorrect patient results to be
+               reported.
+
+_______________
+PRODUCT        Software for the Electra 1000c, 900 and 900c Automated
+               Coagulation Timers.  Recall #Z-027/029-5.
+CODE           All using software version 3.0 and declining numerical
+               versions.
+MANUFACTURER   Medical Laboratories, Inc., Pleasantville, New York.
+RECALLED BY    Manufacturer, by bulletin July 29, 1992 and October 5, 1992. 
+               Firm-initiated field correction complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       1,954 instruments were distributed.
+REASON         Calculations associated with the "%" activity curve results
+               have been printed incorrectly during a test run with the
+               Electra 1000c.  This could result in viewing the incorrect
+               curve results.
+
+                                   -11-
+
+END OF ENFORCEMENT REPORT FOR OCTOBER 26, 1994.  BLANK PAGES MAY
+FOLLOW.
+                                   ####

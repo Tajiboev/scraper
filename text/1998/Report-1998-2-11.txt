@@ -1,0 +1,532 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  06
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      30 captures
+	      19 Aug 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+February 11, 1998                                   98-06
+
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS II ============
+_______________
+PRODUCT        7 C's Stuffed Crabs in Natural Shells, 72-2 oz.,  
+               net wt. 9 lbs,. Recall #F-246-8.
+CODE           "1111397".
+MANUFACTURER   C. B. Caroon Crab Co., Inc., Southport, North
+               Carolina.
+RECALLED BY    Manufacturer, by telephone on December 12,1997. 
+               Ongoing recall resulted from sample analysis and
+               follow-up by the North Carolina Department of
+               Agriculture.
+DISTRIBUTION   North Carolina and South Carolina.
+QUANTITY       65 cases were distributed.
+REASON         Product was found contaminated with Salmonella.
+
+_______________
+PRODUCT        Dews Research C-500 Chewable Vitamin C mixed fruit
+               flavor wafers in 100 count boxes:
+               a) Dews Research C-500 Chewable Vitamin C mixed
+               fruit flavor wafers in 100 count boxes
+               b) Red Arrow Distributing Lemon & Cream of Tarter
+               with sulfur wafers in 30 count boxes
+               c) Bald Mountain Herbal Syrup in 4 and 16 fl. 
+               1oz. bottles.  Recall #F-247/249-8.
+CODE           All lots manufactured prior to October 23,   
+               1997: a) Lot 31232; b) Lot 10714; 
+               c) Lot 70470.
+MANUFACTURER   Dews Research Associates, Mineral Wells, Texas.
+RECALLED BY    Twenty First Century Products, Mineral Wells,
+               Texas, by letter mailed between approximately
+               October 20 and November 3, 1997.  Ongoing 
+               recall resulted from sample analysis and 
+               follow-up by the Texas Department of Health.
+DISTRIBUTION   Nationwide.
+QUANTITY       a) 24 100-wafer boxes; b) 19 30-wafer boxes; 
+               c) 32 4-fluid ounce and 28 16-fluid ounce 
+               bottles were distributed.
+REASON         Products contain undeclared FD&C Yellow No. 5.
+
+
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS III ===========
+_______________
+PRODUCT        Janet Lee Apple Cider, in 128 ounce rigid 
+               plastic bottles.  Recall #F-071-8.
+CODE           Best Used by OCT 12 98 P2 and Best Used by 
+               OCT 12 98 Q2.
+MANUFACTURER   Hi Country Foods Corporation, Selah,
+               Washington.
+RECALLED BY    Manufacturer, by memorandum on November 7, 
+               1997.  Firm-initiated recall complete.
+DISTRIBUTION   Utah.
+QUANTITY       2,304 cases (4 bottles per case) were 
+               distributed.
+REASON         Product appears cloudy and fermented and 
+               unfit for food.
+
+_______________
+PRODUCT        Frozen Yellowfin Tuna Steaks, individually 
+               frozen-vacuum packed, skinless and boneless, 
+               in 4 ounce, 8 ounce and 10 ounce sizes,
+               packed in 1 10-pound master carton.  
+               Recall #F-250-8.
+CODE           Contract No.: ICM-2006A, all date codes.
+MANUFACTURER   P.T. Tirta Raya Mina, Jakarta, Indonesia.
+RECALLED BY    Slade Gorton & Company, Inc., Boston,
+               Massachusetts, by fax on January 15, 1998. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and Bermuda.
+QUANTITY       350 cartons (4 oz), 1,050 cartons (6 oz),831
+	       cartons (8 oz), and 350 cartons (10 oz) were 
+	       distributed.
+REASON         Product is adulterated due to decomposition.
+
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS II ========
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-308-8.
+CODE           Unit numbers:  832205 and 835753.
+MANUFACTURER   University of Texas, M.D. Anderson Cancer 
+               Center, Houston, Texas.
+RECALLED BY    Manufacturer, by letter dated January 9, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       2 units were distributed.
+REASON         Blood products were not properly tested for 
+               HIV-p24 antigen.
+
+_______________
+PRODUCT        a) Red Blood Cells; b) Cryoprecipitated, AHF; 
+               c) Recovered Plasma.  Recall #B-480/482-8.
+CODE           Unit numbers:  47Q01183, 47T35211, 47S02258, 
+               47T36762, 47E28421, 47S03964, 47K53416,
+               47J47690; b) 47S02258, 47S03964 
+               c)47E26962, 47Q01183, 47T35211, 47S02258,
+               47T36762, 47E28421, 47S03964, 47K53416, 
+               47J47690.
+MANUFACTURER   American Red Cross Blood Services, Peoria,
+               Illinois.
+RECALLED BY    Manufacturer, by letters dated September 1, 1997,
+               and October 1 and 24, 1997.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Missouri, Iowa, Illinois, California.
+QUANTITY       a) 8 units; b) 2 units; c) 9 units were 
+               distributed.
+REASON         Blood products were collected from a donor 
+               who had previously tested initially reactive for 
+               the antibody to the human immunodeficiency 
+               virus type 1 (HIV-1), but was not retested in 
+               duplicate.
+
+_______________
+PRODUCT        a) Red Blood Cells; b) Platelets.
+               Recall #B-516/517-8.
+CODE           Unit #50F52006.
+MANUFACTURER   American Red Cross Blood Services, Toledo, 
+               Ohio.
+RECALLED BY    Manufacturer, by telephone on July 7, 1997, 
+               and by letter dated either July 10 or 25, 
+               1997.  Firm-initiated recall complete.
+DISTRIBUTION   Ohio and Michigan.
+QUANTITY       1 unit of each component was distributed.
+REASON         Blood products were collected from a donor who 
+               reported travel to an area designated as 
+               endemic for malaria.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-548-8.
+CODE           Unit #29446-9849.
+MANUFACTURER   United Blood Services, Chicago, Illinois.
+RECALLED BY    Manufacturer, by letter dated January 20,
+               1998.  Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was collected from a donor who 
+               traveled to a malarial endemic area.
+
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS III =======
+_______________
+PRODUCT        Source Plasma.  Recall #B-223-8.
+CODE           Unit numbers: 0560382788 and 0560382844.
+MANUFACTURER   NABI (Miami Testing Lab), Miami, Florida.
+RECALLED BY    NABI Corporate Offices, Boca Raton, Florida, by
+               fax on December 2, 1996.  Firm-initiated recall
+               complete.
+DISTRIBUTION   North Carolina.
+QUANTITY       2 units were distributed.
+REASON         Blood products were collected from donors who 
+               tested initially reactive for HIV-1-p24, and 
+               not re-tested in duplicate as required by the
+               manufacturer's instruction.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-380-8.
+CODE           Contact FDA, Center for Biologics Evaluation 
+               and Research, Office of Compliance 
+               (301) 827-6220 for individual unit numbers     
+               recalled.
+MANUFACTURER   American Red Cross, Waco, Texas.
+RECALLED BY    American Red Cross, Tulsa, Oklahoma, by letter 
+               on August 20, 1997.  Firm-initiated recall   
+               complete.
+DISTRIBUTION   Illinois.
+QUANTITY       40 units were distributed.
+REASON         Failure to quarantine blood products which 
+               were shipped at unacceptable temperatures.
+
+_______________
+PRODUCT        a) Platelets; b) Fresh Frozen Plasma.
+               Recall #B-522/523-8.
+CODE           Unit #03GM39283.
+MANUFACTURER   American Red Cross Blood Services, 
+               Miami, Florida.
+RECALLED BY    Manufacturer, by letter dated October 10, 
+               1997, by telephone on October 8, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Georgia.
+QUANTITY       1 unit was distributed.
+REASON         Blood products were prepared from a unit of
+               Whole Blood with an extended collection time.
+
+
+
+_______________
+PRODUCT        a) Platelets; b) Fresh Frozen Plasma.
+               Recall #B-525/526-8.
+CODE           Unit #03GG41810.
+MANUFACTURER   American Red Cross Blood Services, Atlanta,
+               Georgia.
+RECALLED BY    Manufacturer, by telephone on January 17, 
+               1997.  Firm-initiated recall complete.
+DISTRIBUTION   Georgia.
+QUANTITY       1 unit was distributed.
+REASON         Blood products were prepared from a unit of 
+               Whole Blood which may have had an extended 
+               collection time.
+
+_______________
+PRODUCT        Fresh Frozen Plasma.  Recall #B-527-8.
+CODE           Unit #29445-9036.
+MANUFACTURER   United Blood Services, Chicago, Illinois.
+RECALLED BY    Manufacturer, by telephone on October 27, 
+               1997.  Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was prepared from a unit of 
+               Whole Blood with an extended collection time.
+
+_______________
+PRODUCT        a) Red Blood Cells; b)Platelets, Pheresis,
+               c) Lymphocytes; d) Recovered Plasma.
+               Recall #B-528/531-8.
+CODE           Unit numbers: a) LM93930, LM93931
+               b) Contact FDA, Center for Biologics 
+               Evaluation and Research, Office of Compliance
+               (301) 827-6220 for individual unit numbers 
+               recalled.
+               c) unit LH38387; d) units LM93930, LM93931.
+MANUFACTURER   The Blood Center of Southeastern Wisconsin, Inc.,
+               Milwaukee, Wisconsin.
+RECALLED BY    Manufacturer, by telephone on September 16, 
+               1996, and letters dated September 17, 1996, 
+               and October 24, 1997.  Firm-initiated recall                complete.
+DISTRIBUTION   Wisconsin, Ohio, Rhode Island, California.
+QUANTITY       a) 2 units; b) 34 units; c) 1 unit; d) 2 units    
+	       were distributed.
+REASON         Blood products incorrectly tested for the
+               antibody to the hepatitis B core antigen
+               (anti-HBc).
+
+_______________
+PRODUCT        Fresh Frozen Plasma.  Recall #B-545-8.
+CODE           Unit #29442-4190.
+MANUFACTURER   United Blood Services, Chicago, Illinois.
+RECALLED BY    Manufacturer, by telephone on September 29, 
+               1997.  Firm-initiated recall complete.
+DISTRIBUTION   California.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was prepared from a unit of
+               Whole Blood designated as a difficult 
+               collection.
+
+
+RECALLS AND FIELD CORRECTIONS: DEVICES -- CLASS II
+==========
+_______________
+PRODUCT        IMED GEMINI PC-1 and PC-2 INFUSION PUMPS: 
+               a) IMED Gemini PC-1 Infusion pumps
+               b) IMED Gemini PC-2 Infusion pumps.
+               Recall #Z-247/248-8.
+CODE           a) All software versions 6.55 or lower
+               b) All devices.
+MANUFACTURER   Alaris Medical Systems, Inc. (formerly IMED
+               Corp.), San Diego, California.
+RECALLED BY    Alaris Medical Systems, Inc., San Diego,
+               California, by letter on May 14, 1997.  
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       a) 34,192 units; b) 36,480 units were 
+               distributed.
+REASON         The pumps batteries may overheat, causing a
+               discharge of hydrogen gas which may cause the
+               pumps to burst.
+
+_______________
+PRODUCT        Powered Scooters:  a) Action CAT Powered 
+               Scooter; b) Action FLYER Powered Scooter.  
+               Recall #Z-295/296-8.
+CODE           Scooters with serial number prefixes 96C, 
+               96D, 96E, 9F, 96G, and 96H, manufactured 
+               between March 1996, and August 1996.
+MANUFACTURER   Invacare Corporation, Elyria, Ohio.
+RECALLED BY    Manufacturer, by letter dated January 31, 
+               1997.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       529 scooters were distributed.
+REASON         There is a potential failure condition whereby 
+               the motorlock could become disabled and could 
+               shut the controller off, resulting in the 
+               scooter losing power and braking ability.
+
+_______________
+PRODUCT        Bipolar Hip Implants.  Bipolar Head and 
+               Locking Ring Assembly of the Consensusr 
+               Bipolar System, in 21 sizes, and 42mm to 62mm, 
+               a component of the Consensusr Bipolar System.
+               Recall #Z-303-8.
+CODE           Catalog No and      Product Name:
+               1014-0-0042 Bipolar Head, CoCr, Size 42
+               1014-0-0043 Bipolar Head, CoCr, Size 43
+               1014-0-0044 Bipolar Head, CoCr, Size 44
+               1014-0-0045 Bipolar Head, CoCr, Size 45
+               1014-0-0046 Bipolar Head, CoCr, Size 46
+               1014-0-0047 Bipolar Head, CoCr, Size 47
+               1014-0-0048 Bipolar Head, CoCr, Size 48
+               1014-0-0049 Bipolar Head, CoCr, Size 49
+               1014-0-0050 Bipolar Head, CoCr, Size 50
+               1014-0-0051 Bipolar Head, CoCr, Size 51
+               1014-0-0052 Bipolar Head, CoCr, Size 52
+               1014-0-0053 Bipolar Head, CoCr, Size 53
+               1014-0-0054 Bipolar Head, CoCr, Size 54
+               1014-0-0055 Bipolar Head, CoCr, Size 55
+               1014-0-0056 Bipolar Head, CoCr, Size 56
+               1014-0-0057 Bipolar Head, CoCr, Size 57
+               1014-0-0058 Bipolar Head, CoCr, Size 58
+               1014-0-0059 Bipolar Head, CoCr, Size 59
+               1014-0-0060 Bipolar Head, CoCr, Size 60
+               1014-0-0061 Bipolar Head, CoCr, Size 61
+               1014-0-0062 Bipolar Head, CoCr, Size 62.
+MANUFACTURER   U.S. Medical Products, Inc., Austin, Texas.
+RECALLED BY    Hayes Medical, Inc. (HMI), Sacramento,
+               California, by letter on January 21, 1998.  
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       1,979 units were distributed.
+REASON         Nonconformance of the internal locking ring of
+               the product which may contribute to a failure
+               of the ring to meet its design specification.
+
+_______________
+PRODUCT        Powered Wheelchairs: a) Power 9000;
+               b) P7E; c) Ranger II Storm Series;
+               d) Power Tiger.  Recall #Z-304/307-8.
+CODE           Serial Numbers prefixed:  "95J through 95L"
+               and "96A through 96E", manufactured between
+               October 1995, and May 1996.
+MANUFACTURER   Invacare Corporation, Elyria, Ohio.
+RECALLED BY    Manufacturer, by letter dated July 31, 1996. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       4,002 units were distributed.
+REASON         The bolts which secure the rear wheels to the
+               drive shaft may loosen with time, and the wheel
+               could potentially fall off, which could cause the
+               user to fall out of the wheelchair.
+
+
+
+RECALLS AND FIELD CORRECTIONS: DEVICES -- CLASS III =========
+_______________
+PRODUCT        Action CAT Powered Scooters, a three-wheeled
+               scooter.  Recall #Z-287-8.
+CODE           All serial numbers beginning with 97H or 97I.
+MANUFACTURER   Invacare Corporation, Elyria, Ohio.
+RECALLED BY    Manufacturer, by letter dated September 25,
+               1997.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       150 scooters were distributed.
+REASON         Two wires became interchanged due to a
+               manufacturing error, resulting in the 
+               inability to recharge the battery.
+
+_______________
+PRODUCT        Powered Wheelchairs: a) Action Arrow;
+               b) Action Torque; c) Ranger X.  
+               Recall #Z-308/310-8.
+CODE           Serial numbers prefixed: 97F, 97G, 97H, 
+               97I manufactured between June 1997, and 
+               September 1997.
+MANUFACTURER   Invacare Corporation, Elyria, Ohio.
+RECALLED BY    Manufacturer, by letter dated November 4, 
+               1997.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       4,192 units were distributed.
+REASON         The brushes within the motor that drives 
+               the wheelchair are failing prematurely 
+               which may cause the user to be stranded.
+
+
+MEDICAL DEVICE SAFETY ALERTS: ===============================
+_______________
+PRODUCT        Pediatric Cribs, with security tops, all brand
+               names and models including, but not limited 
+               to, Midmark C-374 Pediatric Cribs and Security
+               Tops.  These cribs were manufactured and 
+               sold by a number of companies including: 
+               InterRoyal Corporation (Hurlco),  Hill-Rom
+               Company, Inc., Cambridge Scientific Industries,
+               General Medical (Whittaker) Manufacturing 
+               Company and Midmark Corporation.  The cribs
+               were marketed under the following names:  
+               Tabbert or "Tab" Crib Model C-374 (mfr'd by
+               Midmark, Cambridge, and General Medical), 
+               Hill-Rom Model 249 (Hill-Rom), and TODAY Crib
+Model          C-374 (mfr'd by InterRoyal).
+               Safety Alert #N-003-8.
+CODES          All serial numbers of Midmark's Model C-374
+               Pediatric Cribs manufactured by Midmark from 
+               1982 to 1986, are subject to the firm's 
+               intended "Safety Alert".  The serial numbers 
+               for the Midmark Model C-374 cribs are as 
+               follows: TP001000 - TP001651.  The Serial 
+               Numbers for those pediatric beds with security
+               tops manufactured by the other referenced firms,
+               subject to this Safety Alert, are unknown at 
+               this time.
+MANUFACTURER   Various.
+ALERTED BY     Midmark Corporation, Versailles, Ohio. by letter
+               dated January 23, 1998.  
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       1,361 cribs were distributed.
+REASON         Problems resulting when the security top is
+               lowered after the siderails are raised resulting
+               in one or both of the security top latches not
+               being engaged.  When this happens, a child can
+               push the security top up and out far enough to
+               place his or her head over the siderail.  Then
+               when the security top is returned to its lowered
+               position, the childs neck can be caught between
+               the security top and the siderail resulting in
+               strangulation.
+
+
+
+
+
+END OF ENFORCEMENT REPORT FOR FEBRUARY 11, 1998.  BLANK PAGES MAY FOLLOW.
+
+                                   ####
+
+
+
+  
+ End of Enforcement Report for

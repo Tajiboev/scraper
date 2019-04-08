@@ -1,0 +1,844 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Apr
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      28 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+03/30/1994
+
+Recalls and Field Corrections:  Foods -- Class IIII -- 03/30/1994
+
+March 30, 1994
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        Flavored dried noodle soups in plastic foam cups,
+               individually encased in a labeled cardboard sleeve, packaged
+               12 cups to a shipping carton:
+               (a) Fantastic Noodles brand 3 flavors, Curry Vegetable,
+               Tomato Vegetable, and Miso Vegetable;
+               (b) Ramen Pride brand 3 flavors, Beef, Shrimp, Chicken;
+               (c) Campbell's brand 2 flavors, Chicken and Beef;
+               (d) Thrift Maid brand 2 flavors, Chicken and French Onion;
+               (e) Caldo Pronto brand, Beef flavor;
+               (f) Mr. Noodles brand 5 flavors, Garden Vegetable, Chicken,
+               Spicy Chicken, Beef, and Spicy Beef;
+               (g) Tradition brand 2 flavors, Chicken and Beef.
+               Recall #F-319/325-4.
+CODE           25 OCT 3 through 15 NOV 3.  All lots produced from 10/25/93
+               through 11/15/93.
+MANUFACTURER   Sanwa Foods, Inc., a Campbell Soup Company, City of
+               Industry, California.
+RECALLED BY    Manufacturer, by memorandum November 23, 1993.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Arkansas, California, Colorado, Florida, Georgia, Indiana,
+               North Carolina, New Jersey, New York, Pennsylvania, Texas,
+               Washington state.
+QUANTITY       102,598 cases were distributed.  On December 15, 1993 the
+               firm estimated that 87,000 cases remained on the market.
+REASON         Products contained metal fragments.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS I
+==========================
+_______________
+PRODUCT        Alupent Inhalation Aerosol Complete, Metaproterenol Sulfate
+               USP, 0.65 mg, 10 ml inhaler, Rx bronchodilator for the
+               relief of bronchospasm in asthma patients and other patients
+               with respiratory ailments.  Recall #D-218-4.
+CODE           Lot #3337026 EXP 7/95.
+MANUFACTURER   3M Health Care Specialty, St. Paul, Minnesota (responsible
+               firm).
+RECALLED BY    Allscrips Pharmaceuticals, Inc., Vernon Hills, Illinois
+               (relabeler), by letter February 8, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   California, Washington state, Georgia.
+QUANTITY       50 canisters were distributed; firm estimates that 35% of
+               the product remains on the market.
+REASON         Product does not meet particle size distribution
+               specifications.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Tucks Pads 100's, non-Rx hygienic astringent wipe, in jars
+               of 100.  Recall #D-206-4.
+CODE           Lot #43760L EXP 2/95.
+MANUFACTURER   Warner-Lambert Company, Lititz, Pennsylvania.
+RECALLED BY    Warner-Lambert Company, Morris Plaines, New Jersey, by
+               letter October 6, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Massachusetts, Maine, Connecticut, New Jersey, New York,
+               Pennsylvania, Delaware, Maryland, Virginia, North Carolina,
+               South Carolina, Georgia, Florida, Alabama.
+QUANTITY       15,048 jars were distributed.
+REASON         Presence of mold.
+
+_______________
+PRODUCT        Doculax, docusate sodium 100 mg stool softener, in 100
+               capsule bottles.  Recall #D-207-4.
+CODE           Lot #A31 EXP 9/95.
+MANUFACTURER   Chase Pharmaceutical Company, Newark, New Jersey.
+RECALLED BY    V.A. Packaging & Manufacturing Company, Inc., Perth Amboy,
+               New Jersey (repacker/responsible firm), by letter November
+               5, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Undetermined.
+QUANTITY       890 bottles were distributed.
+REASON         Product labeled Doculax (Docusate Sodium) Capsules contained
+               Doculax Plus Capsules (Docusate Sodium Casanthranol).
+
+                                    -2-________________
+PRODUCT        NVE Revive Products:
+               (a) Revive Yourself Cold Tablets - 3 Way Cold Tablets (50 mg
+               phenylpropanolamine, 25 mg Ephedrine, 2 mg chlorpheniramine
+               maleate), non-Rx combination tablet, packaged in 25's, 50's
+               and 100's HDPE bottles, oral solid dosage form for use  as
+               an adrenergic/anti-histamine; 
+               (b) Revive Yourself Stimulant Caffeine Anhydrous - 20/20
+               Tablets (175 mg Caffeine), non-Rx single ingredient, oral
+               solid dosage form, packaged in HDPE bottles of 100, for use
+               as a stimulant;
+               (c) Revive Diet Aid with Grapefruit Extract - (25 mg
+               phenylpropanolamine with 25 mg grapefruit extract), non-Rx
+               single ingredient, oral solid dosage form, packaged in HDPE
+               bottles of 100 and 500, for use as an appetite suppressant. 
+               (d) Revive Yourself Diet Aid Purple Spec Tablets - (75 mg
+               phenylpropanolamine HCl, time release), non-Rx single
+               ingredient, time release solid oral dosage form,    
+               packaged in HDPE bottles of 100 and 500, for use as an
+               appetite suppressant;
+               (e) Revive Yourself Diet Aid Benzocaine Lozenge - (15 mg
+               Benzocaine), non-Rx single ingredient, solid oral dosage
+               form, packaged in HDPE bottles of 100 and 500, an anesthetic
+               marketed as an appetite suppressant;
+               (f) Revive Yourself Sleep Aid - (50 mg Diphenhydramine HCl),
+               non-Rx single ingredient, solid oral dosage form, packaged
+               in HDPE bottles of 100 and 500, an anti-histaminic for use
+               as a sleep aid;
+               (g) Revive Yourself Stimulant Caffeine Anhydrous - 40/40
+               Tablets (200 mg Caffeine  round), non-Rx single ingredient,
+               solid oral dosage form, packaged in HDPE bottles of 100 and
+               500, for use as a stimulant;
+               (h) Revive Yourself Stimulant Caffeine Anhydrous - 357
+               Magnum Tablet (200 mg Caffeine, heart shaped), non-Rx single
+               ingredient, solid oral dosage form, packaged in HDPE bottles
+               of 500's, for use as a stimulant.  Recall #D-208/216-4.
+               (NOTE: (h) above, is reportedly the same product as (g),
+               above, but is instead Heart Shaped, and bears a different
+               product number.  The product name "357 Magnum is the product
+               name used in a catalog, but does not appear on the product
+               label);
+               (i) Revive Diet Aid Anoretic Tablets - White Mini-Tab (37.5
+               mg Phenylpropanolamine HCl), non-Rx single ingredient, solid
+               oral dosage form, packaged in HDPE bottles of 100's, 500's,
+               1000's, for use as an appetite suppressant. 
+               Recall #D-208/216-4.  
+CODES          (a) lot #930214 EXP 6/94; (b) lot #930810 EXP 5/94;
+               (c) lot #931618 EXP 7/94; (d) lot #931712 EXP 5/94; 
+               (e) lot #931919 EXP 7/94; (f) lot #935708 EXP 4/94; 
+               (g) lot #933309 EXP 5/94; (h) lot #930522 EXP 6/94; 
+               (i) lot #931507 EXP 6/94. 
+
+                                    -3-               (Note:  Product #5 and #33 above are the same product
+               reportedly, but are 2 different shaped products with name
+               variability.) 
+MANUFACTURER   NVE, Inc., Newton, New Jersey.
+RECALLED BY    Manufacturer, by letter January 28, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Mississippi, Virginia, New Jersey, New York, Florida,
+               Pennsylvania, Alabama, Massachusetts, California.
+QUANTITY       (a) 545,511 tablets; (b) 244,900 tablets 
+               (c) 168,951 tablets; (d) 283,400 tablets 
+               (e) 169,935 tablets; (f) 310,400 tablets 
+               (g) 114,964 tablets; (h) 358,486 tablets** 
+               (i) 939,700 tablets**
+               **quantities quoted are representative of shipments to the
+               retail level only, a-g are wholesale and retail level sales.
+REASON         Manufacturing processes lacks validation.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Ornade Spansule Capsules (Phenylpropanolamine
+               Hydrochloride), in bottles of 500. Recall #D-217-4.
+CODE           Lot #1014N21 EXP 2/28/97.
+MANUFACTURER   Smith Kline Beecham, Philadelphia, Pennsylvania.
+RECALLED BY    Manufacturer, by telephone March 8, 1994, followed by letter
+               March 10, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Florida, New York, Michigan, Missouri, Ohio, New Jersey.
+QUANTITY       77 bottles were distributed.
+REASON         Incorrect expiration date.
+
+_______________
+PRODUCT        Ru-Tuss Liquid Antihistaminic Decongestant, Phenylephrine
+               HCl 5mg, Chlorpheniramine Maleate 2 mg, packed in 1 pint
+               bottles, nonprescription cough and cold preparation.  
+               Recall #D-219-4.
+CODE           Lot #07092 EXP 2/96.
+MANUFACTURER   Boots Pharamceuticals, Inc., Shreveport, Louisiana.
+RECALLED BY    Manufacturer, by letter March 17, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and Puerto Rico.
+QUANTITY       8,128 bottles were distributed.
+REASON         Labeling does not bear complete warning statement required
+               by final OTC monograph.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-163-4.
+CODE           Unit numbers:  CCH02009, CCH02068, CCH02127, CCH1775,
+               CCH1871, CCH1988.
+MANUFACTURER   National Medical Enterprises Hospital, Inc., doing business
+               as Century City Hospital, Los Angeles, California.
+
+                                    -4-RECALLED BY    Manufacturer, by telephone November 16, 1993 and Fax
+               November 19, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   California.
+QUANTITY       6 units.
+REASON         Recovered Plasma, collected from donors who: reported
+               histories of viral hepatitis; reported recent ear piercing,
+               acupuncture treatment or needlestick injury were
+               distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-169-4.
+CODE           Unit #3069322.
+MANUFACTURER   The Community Blood Center of Greater Kansas City, Kansas
+               City, Missouri.
+RECALLED BY    Manufacturer, by telephone March 19, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Missouri.
+QUANTITY       1 unit.
+REASON         Blood product, which was exposed to unacceptable
+               temperatures, was distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Red Blood Cells Leukocytes Removed. 
+               Recall #B-175/176-4.
+CODE           Unit numbers:  (a) 0237056, 0239106, 0245427; (b) 0241152.
+MANUFACTURER   Inland Northwest Blood Center, Spokane, Washington.
+RECALLED BY    Manufacturer, by letter August 10, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   West Virginia, Washington state.
+QUANTITY       (a) 3 units; (b) 1 unit.
+REASON         Blood products which tested negative for the antibody to
+               human T lymphotropic virus type I (anti-HTLV-I), but were
+               collected from a donor who previously tested repeatedly
+               reactive for anti-HTLV-1, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Fresh Frozen Plasma;
+               (d) Cryoprecipitated AHF; (e) Recovered Plasma.
+               Recall #B-178/182-4.
+CODE           Unit numbers:  (a) 5861930, 7112525, 7325057, 7487502,
+               7684616, 7685171; (b) 5861930, 7685171; (c) 7112525; (d)
+               7325057, 7487502, 7684626; (e) 5861930, 7325057, 7487502,
+               7684616.
+MANUFACTURER   BloodCare (formerly J.K. and Susie L. Wadley Research
+               Institute and Blood Bank), Dallas, Texas.
+RECALLED BY    Manufacturer, by letters dated May 4, 1992 and June 23,
+               1992, and July 30, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Pennsylvania, New Jersey, Florida, Arizona.
+QUANTITY       (a) 6 units; (b) 2 units; (c) 1 unit; (d) 3 units; (e) 4
+               units.
+                                    -5-REASON         Blood products collected from donors deferred due to: 
+               history of ear piercing; history of exposure to hepatitis;
+               or living in a malarial area, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-164-4.
+CODE           Unit numbers:  CCH02050, CCH02061, CCH02064.
+MANUFACTURER   National Medical Enterprises Hospital, Inc., doing business
+               as Century City Hospital, Los Angeles, California.
+RECALLED BY    Manufacturer, by telephone November 16, 1993 and Fax
+               November 19, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   California.
+QUANTITY       3 units.
+REASON         Recovered Plasma, collected from autologous donors who did
+               not meet the suitability criteria for allogenic use, in that
+               doners either: reported having a history of cancer; or
+               reported some form of unspecified liver disease were
+               distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-171-4.
+CODE           Unit #973024.
+MANUFACTURER   W.E. and Lela I. Stewart Regional Blood Center, Tyler,
+               Texas.
+RECALLED BY    Manufacturer, by telephone August 6, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       1 unit.
+REASON         Blood product, positive for the Lea antigen, but labeled Lea
+               negative, was distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-177-4.
+CODE           Unit #9822598.
+MANUFACTURER   BloodCare (formerly J.K. and Susie L. Wadley Research
+               Institute and Blood Bank), Dallas, Texas.
+RECALLED BY    Manufacturer, by telephone August 27, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       1 unit.
+REASON         Blood product which tested reactive for a serologic test for
+               syphilis (STS) were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Dynascope Model HG-300 Pulse Oximeter Module, provides non-
+               invasive continuous measurement of oxygen saturation and
+               pulse rate.  Recall #Z-304-4.
+CODE           All units.  Serial numbers are non-continuous and range from
+               20100074 to 25100668.
+                                    -6-MANUFACTURER   Fukuda Denshi, Ltd., Tokyo, Japan.
+RECALLED BY    Fukuda Denshi America Corporation, Redmond, Washington, by
+               telephone January 10, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       349 units.
+REASON         Electrostatic discharge from the environment can cause the
+               unit to malfunction, resulting in the superimposition of the
+               oxygen saturation waveform on the electrocardiogram waveform
+               and all other waveforms on the DS-3300 patient monitor.
+
+_______________
+
+PRODUCT        Tuwave Pulsed Galvanic Stimulator and Transcutaneous Nerve
+               Stimulator, used to provide symptomatic relief of pain as
+               well as provide treatment to reduce edema.  Recall #Z-411-4.
+CODE           Serial numbers 100-1085.
+MANUFACTURER   Staodyn, Inc., Longmont, Colorado.
+RECALLED BY    Manufacturer, by telephone beginning July 14, 1993, by voice
+               mail July 20, 1993, followed by letter.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       975 units.
+REASON         The keycaps of the control buttons may become wedged in the
+               "on" position.
+
+_______________
+PRODUCT        Assorted IV Sets for use with Intelligent Pump intravenous
+               infusion pump:
+               (a) Catalog No. V7100, Intelligent Pump Add-On Set; 
+               (b) Catalog No. V7105, 15 Drops/ml Intelligent Pump IV Set; 
+               (c) Catalog No. V7105-15, 15 Drops/ml Intelligent Pump IV
+               Set; 
+               (d) Catalog No. V7110, 15Drops/ml Intelligent Pump Primary
+               Additive IV Set; 
+               (e) Catalog No. V7112, 15 Drops/ml with 1.2 Micron Filter
+               Intelligent Pump Primary Additive IV Set; 
+               (f) Catalog No. V7115, 15 Drops/ml Intelligent Pump Primary
+               Additive IV Set with Low Pressure Timed Filter (0.22
+               Micron); 
+               (g) Catalog No. V7120, 60 Drops/ml Intelligent Pump Measured
+               Volume Solution Administration Set; 
+               (h) Catalog No. V7130, 15 Drops/ml Intelligent Pump Vented
+               Primary Additive IV Set; 
+               (i) Catalog No. V7135-14, 15 Drops/ml Intelligent Pump
+               Vented Primary Additive IV Set with Low Pressure Timed
+               Filter (0.22 Micron); 
+               (j) Catalog N. V7140, 60 Drops/ml Intelligent Pump Vented
+               Measured Volume Solution Administration Set; 
+               (k) Catalog No. V7150, 60 Drops/ml Intelligent Pump Vented
+               Nitroglycerin IV Set; 
+               (l) Catalog No. V7210, 15 Drops/ml Intelligent Pump Primary
+               Additive IV Set with Check Valve;
+
+                                    -7-               (m) Catalog No. V7213, 60 Drops/ml Intelligent Pump Primary
+               Additive IV Set with Check Valve; 
+               (n) Catalog No. V7215, 15 Drops/ml Intelligent Pump Primary
+               Additive IV Set with Check Value and Low Pressure Timed
+               Filter (0.22 Micron); 
+               (o) Catalog No. V7220, 15 Drops/ml Intelligent Pump Measured
+               Volume Primary Additive Set with 150ml Buret; 
+               (p) Catalog No. V7225, 15 Drops/ml Intelligent Pump Primary
+               Additive IV Set with Check Valve; 
+               (q) Catalog No. V7225-10, 15 Drops/ml Intelligent Pump
+               Primary Additive IV Set with 2 Check Valves, 3 Injection
+               Sites and "Control" Clamp; 
+               (r) Catalog No. V7225-20, 15 Drop[s/ml Intelligent Pump
+               Vented Primary Additive IV Set with Check Valve; 
+               (s) Catalog No. V7230-14, 15 Drops/ml Intelligent Pump
+               Vented Primary Additive IV Set with Check Valve; 
+               (t) Catalog No. V7235-14, 15 Drops/ml Intelligent Pump
+               Vented Primary Additive IV Set with Check Valve and Low
+               Pressure Timed Filter (0.22 Micron); 
+               (u) Catalog No. V7300, Intelligent Pump Y-Type Blood Set
+               with Injection Site.   Recall #Z-414/434-4.
+CODE           All lots.
+MANUFACTURER   MCGaw of Puerto Rico, Inc., Sabana Grande, Puerto Rico.
+RECALLED BY    McGaw, Inc., Irvine, California, by product advisory letter
+               dated October 14, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Caroline Islands, Canada.
+QUANTITY       (a) 63,155; (b) 22,782; (c) 83,638; (d) 896,414; (e) 73,362;
+               (f) 341,488; (g) 85,354; (h) 394,481; (i) 23,609;
+               (j) 105,341; (k) 74,025; (l) 2,237,352; (m) 34,357;
+               (n) 185,371; (o) 71,478; (p) 253,961; (q) 2,592; 
+               (r) 101,483; (s) 473,211; (t) 23,033; (u) 106,283 units were
+               distributed.
+REASON         A dimensional change in the "cassette" portion of the tubing
+               set may cause the pump alarm to sound.
+
+_______________
+PRODUCT        Olympus Series 200 Videobronchoscopes, provides a video
+               image of the trachea and bronchi:
+               (a) Model BF-200; (b) BF-P200; (c) Model BF-1T200.
+               Recall #Z-435/437-4.
+CODE           None.
+MANUFACTURER   Olympus Optical Company, Ltd., Tokyo, Japan.
+RECALLED BY    Olympus America, Inc., Lake Success, New York, by letter
+               January 19, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Connecticut, Florida, Canada.
+QUANTITY       2 units.
+REASON         A variability in the manufacturing process could cause the
+               CCD chip to fail due to static electricity discharge.  The
+               CCD chip is contained in the distal tip of the product and
+               is utilized to generate an electronic video signal of the
+               anatomical image.  This failure would cause loss of the
+               image generated by the chip the heating of the distal end. 
+
+                                    -8-_______________
+PRODUCT        Hudson Flow-Thru Small Volume Nebulizers, Catalog #1760,
+               indicated exclusively for the delivery of medical gases to
+               infant and neonatal patients.  Recall #Z-438-4.
+CODE           All lots.
+MANUFACTURER   Hudson Respiratory Care, Inc., Temecula, California.
+RECALLED BY    Manufacturer, by letter February 11, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       125,723 units.
+REASON         A dislodged baffle may occlude the air flow to the patient
+               or result in over-pressurization of the patient.
+
+_______________
+PRODUCT        Kendall Curity Disposable Laparotomy Sponges, Sterile,
+               Prewashed, Tray and Soft Pouches:
+               (a) 18" x 18" lap Sponges, Reorder numbers 6022 and 6522;
+               (b) 12" x 12" Lap Sponges, Reorder numbers 6034 and 6534;
+               (c) 18" x 4" Lap Sponges, Reorder numbers 6045 and 6545;
+               (d) 36" x 8" Lap Sponges, Reorder numbers 6056 and 6556.
+               Recall #Z-456/459-4.
+CODE           All lots.
+MANUFACTURER   Kendall Healthcare Products Company, Augusta, Georgia.
+RECALLED BY    Kendall Healthcare Products Company, Mansfield,
+               Massachusetts, by letter January 13, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       238,870 (Cases or units) were distributed.
+REASON         Some sponges were found to be non-sterile.
+
+_______________
+PRODUCT        All Instruction Manuals and Dermal Procedure Videotapes for
+               the Model 1316-10 New Beginnings Dermal Transfer cannula
+               Set.  Recall #Z-462/463-4.
+CODE           All revision (0, 1 and 2) of the Instruction Manual and all
+               copies of the Dermal Procedure videotape.
+MANUFACTURER   PMT Corporation, Chanhassen, Minnesota.
+RECALLED BY    Manufacturer, by telephone January 7, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       162 units of the device were distributed with instruction
+               manuals.
+REASON         Manuals and videotapes describe a new intended use
+               (tissue/dermal grafts) for which the firm does not have an
+               approved PMA.
+
+_______________
+PRODUCT        Venous Bloodlines, intended to be used for hemodialysis
+               during dialysis treatment, under NMC label:
+               (a) Catalog #03-7300-1; (b) Catalog #03-9301-7;
+               (c) Catalog #03-9303-3; (d) Catalog #03-9305-8;
+               (e) Catalog #03-9307-4; (f) Catalog #03-9308-2;
+               (g) Catalog #03-9310-8;
+                                    -9-               Packaged in Diala-kits:
+               (h) Catalog #46-3907; (i) Catalog #46-4402; 
+               (j) Catalog #46-4840; (k) Catalog #46-6000;
+               (l) Catalog #46-6140; (m) Catalog # 93-4061;
+               under Baxter Label: (n) Catalog #5M 4462; 
+               (o) Catalog #5M 4484; (p) Catalog #5M 4452.
+               Recall #Z-466/481-4.
+CODE           Lot numbers:  (a) R2S017, R2S019, R2S020, R2S021, R2S026,
+               R2S028, R2S035, R2S038, R2S044, R2S050, R2S055, R2S056,
+               R2S057, R2S060, R2S107, R2S114, R2S115, R2S123, R2S132,
+               R2S133, R2S134, R2S139, R3A001, R3A007, R3A008; (b) RS2S029,
+               RS2S033, RS2S034, RS2S042, R2S065, RS2S105, RS2S122,
+               RS2S136, RS3A003; (c) RS2S002, RS2S003, RS2S005, RS2S010,
+               RS2S014, RS2S046, RS2S062; (d) RS2S047; (e) RS2S104,
+               RS2S117, RS2S124; (f) RS2S007; (g) RS2S008, RS2S039,
+               RS2S040, RS2S111; (h) M3B154, M3B160, M3B755, M3C755; (i)
+               MEA786, M3A781; (j) M3A760; M3A777, M3A771, M3A782, M3A791,
+               M3A723, M3A758, M3A743, M3A794; (k) M3C159, M3C149; (l)
+               M3B192, M3B714, M3B721, M3B741, M3B715; (m) M3C155, M3C168,
+               M3C172, M3C188; (n) R2S607, R2S611, R2S623, R2S625; (o)
+               R2S613, R2S621; (p) R3A603.
+MANUFACTURER   National Medical Care, Medical Products Division, McAllen,
+               Texas.
+RECALLED BY    National Medical Care, Rockleigh, New Jersey (responsible
+               firm), by letter May 20, 1993.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       361,860 bloodlines plus 17,420 Diala-kits were distributed.
+REASON         The devices which are labeled as pyrogen free were tested,
+               and pyrogens in excess of USP pyrogen limit were found.
+
+_______________
+PRODUCT        Coulter S-Plus IV with Differential and related model
+               numbers:
+               (a) S-Plus with Differential, Part #6702398;  
+               (b) S-Plus V; Part #6702398;
+               (c) S-Plus VI, Part No. 6702950;
+               (d) ST, Part No. 6704259; 
+               (e) STKR, Part No. 6702881; 
+               (f) STKS, Part Nos. 6704657, 6604388.  Recall #Z-491/496-4.
+CODE           Catalog Numbers: (a) 6602261, 6602262, 6602263, 6602264,
+               6602650, 6602651, 6602652, 6602653, 6602901, 6602092,
+               6603099, 6603308, 6603309, 6603310, 6603311, 
+               (b) 6602304, 6602305, 6602306, 6602307, 6602654, 6602655,
+               6602656, 6602657, 6603312, 6603313, 6603314, 6603315, 
+               (c) 6602856, 6602857, 6603150, 6603151, 6603316, 6603317,
+               6603318, 6603319;
+               (d) 6603560, 6603561, 6603562, 6603563, 6603565, 6603566,
+               (e) 6602889, 6602890, 6602891, 6602892, 6602894, 6602895,
+               6602896, 6603410, 6603411;
+               (f) 6604024, 6640425, 6604026.
+MANUFACTURER   Coulter Limited, England (cuvettes).
+
+                                   -10-RECALLED BY    Coulter Corporation, Miami, Florida, by letter May 27, 1992. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       3,289 units.
+REASON         An unknown buildup on Hgb cuvettes resulted in unexplained,
+               false, low Hgb test results. 
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Optichem Bilirubin Reagent System (1+3) + (2), intended for
+               the in-vitro quantitative determination of direct and total
+               bilirubin in serum with the Coulter Optichem Chemistry
+               Systems (a) Part #2906863; (b) Part #2906864.  
+               Recall #Z-289/290-4.
+CODE           All lots, the most recent of which expires on 6/19/94.
+MANUFACTURER   Coulter Corporation, Diagnostics Group, Hialeah, Florida.
+RECALLED BY    Coulter Corporation, Miami, Florida, by letter June 11,
+               1992.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide, Guam, Canada.
+QUANTITY       Firm estimates none remains on the market.
+REASON         The labeled concentrations of the reagent components are
+               incorrect.
+
+_______________
+PRODUCT        Dacos Creatinine Reagents A and B, for in-vitro diagnostic
+               use.  Recall #Z-341-4.
+CODE           Kit lot number 15911, Part #2907083 EXP 12/94.
+MANUFACTURER   Trace Scientific Pty. Ltd., Clayton Victoria, Australia.
+RECALLED BY    Coulter Corporation, Miami, Florida, by letter dated July 9,
+               1993.  Firm-initaited recall complete.
+DISTRIBUTION   California, Illinois, Indiana, Michigan, New York, Ohio,
+               Pennsylvania, Texas.
+QUANTITY       Firm estimates none remains on the market.
+REASON         The reagent labeled "A" should be labeled "B" and vice
+               versa.
+
+_______________
+PRODUCT        Epics software: 
+               (a) Epics XL, Epics XL-MCL Software Level 1.0, Part numbers: 
+               6705457, 6705460, 6705461, 6705463, 6705785, 6705786,
+               6705787, 6705788, 6705789, 6705790, 6705791, 6705792,
+               6705793, 6705794, 6705795, 6705796;
+               (b) Epics Elite with Auto-Clone, Software level 3.25.
+               Recall #Z-365/366-4.
+CODE           Catalog numbers: (a) 6604713, 6604714, 6604721, 6604722,
+               6604723, 6604724, 6604725, 6604726, 6604983, 6604984,
+               6604985, 6604986, 6604987, 6604988, 6604989, 6604990,
+               6604991, 6604992, 6604993, 6604994, 6604995, 6604997,
+               6604998, 6604999; (b) 6912869.
+MANUFACTURER   Coulter Corporation, EPICS group, Miami Lakes, Florida.
+
+                                   -11-RECALLED BY    Coulter Corporation, Miami, Florida, by letter June 9, 1993. 
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Undetermined.
+REASON         A software error was identified which can cause histogram
+               data to be misidentified under certain conditions.
+
+_______________
+PRODUCT        Coulter 5C Cell Control, for in-vitro diagnostic use:
+               (a) Normal; (b) Abnormal I; (c) Abnormal II.
+               Recall #Z-367/369-4. 
+CODE           All lots were recalled from use on JT and T-Series Coulter
+               instruments; not from use on more sophisticated Coulter
+               instruments, e.g. STK S; MAX M.  The remaining codes would
+               have expired by May 1992.
+MANUFACTURER   Coulter Corporation, Diagnostics Group, Hialeah, Florida.
+RECALLED BY    Coulter Corporation, Miami, Florida, by letter April 16,
+               1992.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide, Canada, Brazil, Puerto Rico, Germany.
+QUANTITY       Firm estimates none remains on the market.
+REASON         An unidentified product defect has resulted in erroneous
+               out-of-specification values for the white blood cell
+               parameter.
+
+_______________
+PRODUCT        Coulter 4C Plus Cell Control, Abnormal Low.  These kits
+               include a diskette which provides for automatic recording of
+               quality control data.  Recall #Z-370-4.
+CODE           Kit lot #106738K, Part #7547003, lot numbers:  064600
+               (abnormal low); 079500 (Normal); 084600 (Abnormal high).
+MANUFACTURER   Coulter Corporation, Diagnostics Group, Hialeah, Florida.
+RECALLED BY    Coulter Corporation, Miami, Florida, by letter July 20,
+               1993.  Firm-initiated field correction complete.
+DISTRIBUTION   Nationwide, Canada, United Kingdom, Germany.
+QUANTITY       Firm estimates none remains on the market.
+REASON         An unformatted data diskette was included instead of a
+               diskette bearing control assay values.
+
+_______________
+PRODUCT        OptiChem Bilirubin 2 Reagent, for in-vitro diagnostic use,
+               used in the determination of the level of total bilirubin on
+               patient serum and control samples.  Recall #Z-371-4.
+CODE           Part #2906864, lot #7889F, EXP 3/21/94.
+MANUFACTURER   Coulter Corporation, Diagnostics Group, Hialeah, Florida.
+RECALLED BY    Coulter Corporation, Miami, Florida, by letter May 27, 1992. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Reported test values have demonstrated an unexplained,
+               incorrect, lowering of values.
+
+                                   -12-_______________
+PRODUCT        4C Normal Cell Control, for in-vitro diagnostic use:
+               (a) 4C Tripack Cell Control 9x2 mL, Part No. 7546885;
+               (b) 4C Dual Pack Cell Control 8x2, Part No. 7546451;
+               Recall #Z-396/397-4.
+CODE           Lot numbers:  (a) 34199K, 34200K, 34200K1, 34201K; 
+               (b) 29206K.
+MANUFACTURER   Coulter Corporation, Diagnostics Group, Hialeah, Florida.
+RECALLED BY    Coulter Corporation, Miami, Florida, by letter November 19,
+               1991.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       1,895 kits were distributed.
+REASON         High WBC recovery and the inability to retrieve the labeled
+               assay values could result in changes in the values of the
+               assays.
+
+_______________
+PRODUCT        Candela Dermatology Laser Systems:
+               (a) Candela Pigmented Lesion Laser System (PLDL), a
+               flashlamp excited dye laser used to treat benign superficial
+               pigmented lesions of the skin, Part #9914-00-0100; 
+               (b) Candela Pigmented Lesion/Tatu Laser System (PLTL),
+               incorporates two separate lasers:  the Pigmented lesion
+               laser, a flashlamp-exciated pulsed dye laser used to treat
+               benign superficial pigmented lesions of the skin and the
+               Tatulazr, a flashlamp-excited,Q-switched alexandrite laser
+               designed for the treatment of blue-black tattoos, Part
+               numbers:  9914-00-1000, 9914-00-0150, and 8901-00-5640).  
+               Recall #Z-412/413-4.
+CODE           Serial numbers:  (a) 0090, 0091, 0093, 0094, 0096, 0103,
+               0107, 0108, 0111; (b) 4099, 4110, 4114, 4122, 4130, 4131,
+               4140, 4146, 4150, 4151.
+MANUFACTURER   Candela Laser Corporation, Wayland, Massachusetts.
+RECALLED BY    Manufacturer, by notification package, dated November 16,
+               1993.  Firm-initiated field correction ongoing.
+DISTRIBUTION   Arizona, Colorado, California, New York, Tennessee,
+               Wisconsin, Virginia, North Carolina, Texas, Ohio, West
+               Virginia, Japan, United Kingdom, Thailand, Korea.
+QUANTITY       18 units.
+REASON         The design allowed for possible internal fires.
+
+_______________
+PRODUCT        Herbert/Whipple Step Drill, used to drill small bones in the
+               hand or foot for fracture fixation procedures involving
+               fingers and toes.  Recall #Z-452-4
+CODE           Lot numbers:  41463100, 42370400, 43317300.
+MANUFACTURER   North East Surgical Tool Company, Hanover, Massachusetts.
+RECALLED BY    Zimmer, Inc., Warsaw, Indiana, by letter November 2, 1992. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       159 drill bits.
+
+                                   -13-REASON         The drill bits may break, split, fray, crack or twist.
+
+_______________
+PRODUCT        Optima Toric - MTO Contact Lenses.  Recall #Z-453-4.
+CODE           Lot numbers:  SC219443, SC219473.
+MANUFACTURER   Bausch & Lomb Inc., Sarasota, Florida.
+RECALLED BY    Bausch & Lomb, Inc., Rochester, New York, by telephone
+               December 28, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       9 lenses.
+REASON         Each lot was packaged in the labeling of the other, thus the
+               lot number and the power is incorrect for the lens in the
+               package.  Lot number SC219443 was to have an assigned power
+               of -0.75 diopter and lot number SC219473 was to have an
+               assigned power of +5.0 diopter.
+
+_______________
+PRODUCT        Salmonella "O" Validation Antigen Group VI, in 5 ml vials.
+               Recall #Z-464-4.
+CODE           Lot numbers 1848-01 and 1848-02 EXP 12/95.
+MANUFACTURER   Roach Laboratories, Inc., Loganville, Georgia.
+RECALLED BY    Manufacturer, by letter November 16, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       25 vials were distributed.
+REASON         The antigen is not reactive in a manner described in the
+               product circular.  The antigen does not react appropriately
+               with the polyvalent type of antiserum.
+
+
+SEIZURES:
+=================================================================
+_______________
+PRODUCT        Sauerkraut in Glass Jars (93-718-826).
+CHARGES        Misbranded - The article's labeling is false and misleading
+               because it represents and suggests that the article is fresh
+               when, in fact, it is not fresh and contains chemical
+               preservatives; and, the article is fabricated from two or
+               more ingredients, and its label fails to bear the common or
+               usual name of each such ingredient.
+LOCATION       Flanagan Brothers, Inc., Bear Creek, Wisconsin.
+FILED          March 8, 1994; U.S. District Court for the Eastern District
+               of Wisconsin; Civil #94-C-0260; FDC #66917.
+SEIZED         March 16, 1994 - goods valued at approximately $5,200.
+
+_______________
+PRODUCT        Dry Dog Food (94-740-807).
+CHARGE         Adulterated - The article consists in part of a filthy 
+               substance because it contains rodent hairs, rodent excreta
+               pellets, and rodent gnawed paper; and it has been held under
+               insanitary conditions whereby it may have become
+               contaminated with filth. 
+
+                                   -14-LOCATIONS      Freight-A-Ranger, Inc., Forest View, Illinois, and Norfolk
+               and Southern Corporation, Chicago, Illinois. 
+FILED          March 17, 1994; U.S. District Court for the Northern 
+               District of Illinois, Eastern Division; Civil #94C 1650;
+               FDC #66945.
+SEIZED         March 17, 1994 - goods valued at approximately $61,647.
+
+_______________
+PRODUCT        One-Step Endodontic Formula (93-638-093).
+CHARGE         New drug - No approval of an application is in effect for
+               such drug.
+LOCATION       Dental Clearing House, Simsbury, Connecticut.
+FILED          February 25, 1994; U.S. District Court for the District 
+               of Connecticut; Civil #3:94CV287(AVC); FDC #66796.
+SEIZED         March 21, 1994 - goods valued at approximately
+               $3,500.
+
+
+                                   -15-
+END OF ENFORCEMENT REPORT FOR MARCH 30, 1994.  BLANK PAGES MAY
+FOLLOW.
+                                   ####

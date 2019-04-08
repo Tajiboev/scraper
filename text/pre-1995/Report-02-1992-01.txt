@@ -1,0 +1,615 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  NOV
+		  Mar
+		
+		
+		
+		  
+		  18
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      27 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+01/02/1992
+
+Recalls and Field Corrections: January 2, 1992
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  product will cause serious adverse health consequences or
+                  death.
+
+                                     NONE
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the
+                  probability of serious adverse health consequences is
+                  remote.
+
+                                     NONE
+
+                  Class III - A situation in which the use of, or exposure
+                  to a violative product is not likely to cause adverse
+                  health consequences.
+
+                                     NONE
+
+                                      -1-
+
+
+
+
+                                   COSMETICS
+
+                                     NONE
+
+                           HUMAN DRUGS AND BIOLOGICS
+
+                  Class I -
+
+Product:          Erythromycin Ethylsuccinate and Sulfisosoxazole Acetyl for
+                  oral suspension, 200 mg/600 mg/5 ml (ESP), in bottles of
+                  100 ml; Erythromycin Ethylsuccinate for oral suspension,
+                  200 mg/5 ml, (EES), in bottles of 100 ml.  Recall #D-133-2.
+Code:             Lot 1I445AW numeral 1, letter I, numbers 445, letters AW)
+                  EXP 9/95 for both products.
+Manufacturer:     Barr Laboratories, Inc., Northvale, New Jersey.
+Recalled by:      Barr Laboratories, Inc., Pomona, New York, by letters of
+                  November 21 and 26, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         Approximately 335 mislabeled bottles were distributed.
+Reason:           The erythromycin/sulfisosoxazole product is mislabeled as
+                  the one ingredient erythromycin product.
+
+                                     ----
+
+                  Class II - 
+
+Product:          Aspirin USP, bulk, in mesh grades 20, 40, 80, uncut
+                  crystals, and starch granulation, packed in polylined
+                  fiber drums of varying sizes (100 lb, 110.23 lb,
+                  250 lb, 253.5 lb, 1,635.45 lb, and 2,000 lb).
+                  Recall #D-134/138-2.
+Code:             The following lot numbers with their corresponding mesh
+                  sizes are involved in the recall:
+                  20-Mesh:  SA-121 through SA-145, SA-4045 through SA-4049,
+                  SA-4051 through 4058, SA-4060, SA-4065 Through SA-4072
+                  40-Mesh:  SA-1201 through SA-1249
+                  80-Mesh:  SA-7102 through SA-7147, SA-2033 through SA-2039
+                  SA-5019 through SA-5020
+                  Uncut:  SA-8196 through SA-8269
+                  Starch Granulation:  SA-10038 through SA-10049
+                  SA-12309 through SA-12311
+Manufacturer:     Rhone-Poulenc, Inc., St. Louis, Missouri.
+Recalled by:      Rhone-Poulenc, Inc., Princeton, New Jersey, by letters of
+                  December 10, 12, and 16, 1991.  Firm-initiated recall
+                  ongoing.
+Distribution:     Nationwide, Canada, Argentina, Mexico.
+Quantity:         Approximately 225 10,000-pound lots were distributed.
+Reason:           Product was found to contain stainless steel particles.
+
+                                     ----
+
+Product:          (a) Red Blood Cells; (b) Fresh Frozen Plasma;
+                  (c) Recovered Plasma.  Recall #B-055/057-2.
+
+                                      -2-
+
+
+
+
+Code:             Unit numbers:  (a) FS01525, FS03256, FM47233, FX31487;
+                  (b) FX30096; (c) FM47233, FM48159, FM48118, FM48107,
+                  FM45522, FM48558, FM32044, FX33422, FX35622, FS03881.
+Manufacturer:     Fairfax Hospital System, Inc., Annandale, Virginia.
+Recalled by:      Manufacturer, by letter January 16, 1991 and
+                  February 7, 1991.  Firm-initiated recall ongoing.
+Distribution:     Virginia, Washington, D.C.
+Quantity:         (a) 4 units; (b) 1 unit; (c) 10 units.
+Reason:           Blood products, improperly tested for the antibody
+                  to the human immunodeficiency virus, type 1
+                  (anti-HIV-1), were distributed.
+
+                                     ----
+
+Product:          Red Blood Cells.  Recall #B-065-2.
+Code:             Unit #13T37006.
+Manufacturer:     American Red Cross Blood Services, Detroit, Michigan.
+Recalled by:      Manufacturer, by telephone April 30, 1991, followed by
+                  letter May 15, 1991.  Firm-initiated recall complete.
+Distribution:     Michigan.
+Quantity:         1 unit.
+Reason:           Red Blood Cells testing repeatably reactive for
+                  hepatitis B surface antigen (HBsAg), were distributed.
+
+                                     ----
+
+Product:          Recombigen HIV-1 LA Kit.  Recall #B-067-2.
+Code:             Lot #A6706- EXP 7/9/91.
+Manufacturer:     Cambridge Biotech Corporation, Worcester, Massachusetts.
+Recalled by:      Manufacturer, by letter April 29, 1991, followed by
+                  telephone on or about April 29, 1991.  Firm-initiated
+                  recall complete.
+Distribution:     Nationwide, Bermuda, Australia, Ankara.
+Quantity:         343 kits (100 test per kit) were distributed.
+Reason:           Test kits, which failed to maintain stability for the
+                  detection of antibodies to the human immunodeficiency virus,
+                  type 1 (anti-HIV-1) throughout the dating period, were
+                  distributed.
+                                     ----
+
+                  Class III -
+
+Product:          (a) Whole Blood; (b) Red Blood Cells.  Recall #B-062/063-2.
+Code:             Unit numbers: (a) F90254; (b) F90237, F90244, F90245,
+                  F90252, F90258.
+Manufacturer:     Tacoma-Pierce County Blood Bank.  Tacoma, Washington.
+Recalled by:      Manufacturer, by telephone May 29, 1991, May 31, 1991,
+                  and June 7, 1991.  Firm-initiated recall complete.
+Distribution:     Washington state.
+Quantity:         (a) 1 unit; (b) 5 units.
+Reason:           Blood products, labeled with incorrect expiration dates,
+                  were distributed.
+                                     ----
+
+                                      -3-
+
+
+
+
+Product:          Red Blood Cells.  Recall #B-064-2.
+Code:             Unit #8138711.
+Manufacturer:     The Blood Center for Southeast Louisiana, New Orleans,
+                  Louisiana.
+Recalled by:      Manufacturer, by telephone July 29, 1991.  Firm-initiated
+                  recall complete.
+Distribution:     Louisiana.
+Quantity:         1 unit.
+Reason:           Blood product, labeled with incorrect expiration date
+                  due to the addition of AS-1 additive after the 72 hour
+                  limit, was distributed.
+
+                                     ----
+
+Product:          Platelets.  Recall #B-066-2.
+Code:             Unit #10099.
+Manufacturer:     Lane Memorial Blood Bank, Eugene, Oregon.
+Recalled by:      Manufacturer, by telephone August 8, 1991.  Firm-
+                  initiated recall complete.
+Distribution:     Oregon.
+Quantity:         1 unit.
+Reason:           Blood product, untested for the antibody to hepatitis
+                  C virus (anti-HCV), was distributed.
+
+                                     ----
+
+                       DEVICES AND RADIOLOGICAL PRODUCTS
+
+                  Class I -
+                                     NONE
+                  Class II -
+
+Product:          Ohmeda 7810 Anesthesia Ventilators, stock #1500-8000-000
+                  (all 7810 Ventilators are an integral part of Ohmeda
+                  Modulus II Plus Anesthesia Machines, stock #0236-5320-910).
+                  Recall #Z-149-2.
+Code:             All Ohmeda 7810 Anesthesia Ventilators that begin with
+                  letters CAHR, CAHS, CAHT, and CAHU 00100 through CAHU 01050
+                  including those serial numbers that end with letter "R".
+Manufacturer:     Ohmeda, Madison, Wisconsin.
+Recalled by:      Manufacturer, by letter dated November 1, 1991.
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide and international.
+Quantity:         4,200 units.
+Reason:           The device exhibits a sensitivity to electromagnetic
+                  interference (EMI) and power line disturbances, which could
+                  cause the ventilator to stop ventilating and the
+                  ventilator's monitoring functions, including alarms,
+                  to become inoperative.  In addition, the display may
+                  exhibit one or more ventilator failure messages or display
+                  unintelligible messages.
+
+                                     ----
+
+                                      -4-
+
+
+
+
+Product:          Astra T Single Chamber Pulse Generator:
+                  (a) Models 437/438/439 Low Profile, In-Line Bipolar
+                  Pulse Generators;
+                  (b) Models 537/538/539 Unipolar Pulse Generators.
+                  Recall #Z-147/148-2.
+Code:             All serial numbers.
+Manufacturer:     Cardiac Pacemakers, Inc., St. Paul, Minnesota.
+Recalled by:      Manufacturer, by letter dated November 26, 1991.
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide and international.
+Quantity:         59 units were distributed.
+Reason:           The generators contain capacitors from a specific vendor lot
+                  that may not perform to specification.  Some devices
+                  have exhibited lack of sensing resulting in asynchronous
+                  pacing at the programmed rate.
+
+                                     ----
+
+Product:          GE Computers for Magnetic Resonance (MR) System Models
+                  46-301394G4, 46-301394G14, 46-301394G24.
+                  Recall #Z-154-2.
+Code:             All serial numbers.
+Manufacturer:     GE Medical Systems, Waukesha, Wisconsin.
+Recalled by:      Manufacturer, by letters dated September 27, 1991 and
+                  October 25, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide and international.
+Quantity:         180 units were distributed.
+Reason:           The imaging, patient, and other hospital information for
+                  one patient exam may be mismatched by the MR with the images
+                  from different MR exams.
+
+                                     ----
+
+Product:          MR Adjustable Stool, Catalog #E8806AA, for use with
+                  magnetic resonance systems in the examination room.
+                  Recall #Z-155-2.
+Code:             All units.
+Manufacturer:     EF Brewer Company, Menomonee Falls, Wisconsin.
+Recalled by:      GE Medical Systems, Waukesha, Wisconsin, by letter
+                  September 1, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide, England, Canada, Japan, Portugal.
+Quantity:         161 units were distributed.
+Reason:           Over time, the ferrous nails which attach the mounting
+                  brackets to the backrest may pull out of the backrest
+                  and be attracted by the MR magnet, presenting a
+                  potential for injury.
+
+                                     ----
+
+Product:          Companion Airway and Delivery Management (ADAM) Circuit
+                  with pressure tap for obstructive sleep apnea patients.
+                  Recall #Z-202-2.
+
+                                      -5-
+
+
+
+
+
+Code:             Lot #AAX manufactured on 4/18/91.
+Manufacturer:     COF Training Services, Inc., Ottawa, Kansas.
+Recalled by:      Puritan Bennett Corporation, Lenexa, Kansas, by letter
+                  August 2, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide and international.
+Quantity:         150 units were distributed.
+Reason:           The devices were manufactured without a tap hole and the
+                  pressure top was incorrectly placed in the vent hole.
+
+                                     ----
+
+Product:          Ivion Intellijet Multi-Channel Infusion Pump.
+                  Recall #Z-212-2.
+Code:             All new and serviced devices built between May 23, 1990
+                  and May 3, 1991.  Serial numbers are as follows:
+                  P210, P245, P259, P282, P355, P386, P396, P403, P430, P461,
+                  P467, P481, P487, P508, P562, P570, P573, P625, P626,
+                  P648, P649, P682, P696, P771, P774, P784, P829, P840,
+                  P853, P873, P884, P888, P915, P932, P935, P936, P937, P942,
+                  P947, P958, P961, P974, P981, P988, P992, P995, P997,
+                  P1007, P1009, P1018, P1021, P1046, P1053, P1057,
+                  P1060-P1064, P1066, P1068, P1070-P1083, P1085-P1090,
+                  P1092-P1104, P1107, P1109-P11l1, P1113-P1119, P1121-P1129,
+                  P1131-P1133, P1135-P1139, P1141, P1143-P1144, P1146-P1147,
+                  P1149, P1152-P1161, P1163, P1165-P1167, P1169-P1170, P1210,
+                  P1212, P1214, P1218, P1220, P1223-1224, P1227-11232,
+                  P1235-P1241, P1244, P1248, P1254, P1256-P1258, P1260-P1266,
+                  P1268-P1275, P1277, P1279, P1282-P1285, P1287-P1293, P1295,
+                  P1297-P1302, P1304-P1311, P1313-P1317, P1319, P1320,
+                  P1326-P1327, P1330, P1339-P1343, P1345-P1347, P1349-P1350,
+                  P1352, P1371, P1373-P1375, P1377.
+Manufacturer:     Ivion Corporation, Broomfield, Colorado.
+Recalled by:      Manufacturer, by letter November 30, 1991.  Firm-initiated
+                  field correction ongoing.
+Distribution:     Nationwide, France.
+Quantity:         263 pumps subject to field correction.
+Reason:           Excessive adhesive was migrating down the shaft and onto
+                  the outside of the motor gear.  This caused the motor pawl
+                  to bond to the motor gear when the adhesive cured.
+
+                                     ----
+
+Product:          Propaq Monitors with Software versions 6.01 and 6.10:
+                  (a) Model 102; (b) Model 104; (c) Model 106.
+                  Recall #Z-213/215-2.
+Code:             Various serial numbers.
+Manufacturer:     Protocol Systems, Inc., Beaverton, Oregon.
+Recalled by:      Manufacturer, by letter September 27 and 28, 1991.
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide and international.
+Quantity:         992 units were distributed.
+
+                                      -6-
+
+
+
+
+Reason:           There is a software error in the computation of the
+                  diastolic pressure in those monitors with software versions
+                  6.01 and 6.10, which could cause falsely elevated diastolic
+                  readings from non-invasive blood pressure measurements taken
+                  by the monitor.
+
+                                     ----
+
+                  Class III -
+
+Product:          Operational Program Software, Version 05 (M235) for
+                  the AU5000.  Recall #Z-203-2.
+Code:             All units of Version 05.
+Manufacturer:     Olympus Optical Company, Ltd., Tokyo, Japan.
+Recalled by:      Olympus Corporation, Lake Success, New York, by
+                  telephone June 18, 1991, followed by letter June 21,
+                  1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         100 copies of software (M235).
+Reason:           Utilization of the BATCH mode for either online accession
+                  input or online data output may compromise the reported
+                  patient results, due to the inappropriate inclusion of
+                  previous sample ID numbers and patient results.
+
+                                     ----
+
+CORRECTION:       This a correction to Recall #Z-131/135-2 which appeared in
+                  the December 11, 1991 Enforcement Report.  Recall numbers
+                  Z-133/135-2 will be re-issued.
+
+Product:          Urostomy Pouches (two styles) designed to collect urine
+                  exiting from a stoma from people having a Urostomy.
+                  Recall #Z-131/132-2.
+Code:             ConvaTec Accuseal Urostomy Pouches
+                  21926           OEX2811, OGX2814, ODX2830
+                  21927           9BX2844, OGX2811, 9MX2814, OGX2825, OEX2805
+                  21928           OEX2804, OGX2815, OEX2815, OBX2824
+                  21936           OBX2800, ODX2829, OFX2826, OFX2813, OFX2826,
+                                  OEX2813
+                  21937           OEX2816, OGX2804, OBX2821, ODX2828
+                  21956           OEX2806, OBX2833, 9LX2810
+                  21957           OEX2817, 9MX2833, OBX2811, 9MX2823
+                  21958           OCX2814, 9CX2815
+                  21938           OCX2812, OFX2830, OEX2822, 9MX2810.
+                  ConvaTec Standard Sytle Urostomy Pouch
+                  List number     Control number
+                  24231           OEX2809, OFX2834, OFX2804, OGX2810
+                  24232           OFX2802
+                  24233           OEX2803, OFX2836, OFX2803, OFX2805, OGX2809
+                  24235           ODX2832, OFX2838, ODX2804, OFX2807
+                  24236           ODX2837, ODX2805
+                  24237           OAX2824.
+
+                                      -7-
+
+
+
+
+Manufacturer:     ConvaTec, Ltd., Whales, UK (pouches), and Medispo APS,
+                  Denmark (flanges).
+Recalled by:      ConvaTec, (a Bristol-Myers Company) Skillman, New Jersey,
+                  by memorandum dated August 24, 1990, and September 4, 1990.
+                  Firm-initiated recall complete.
+Distribution:     Nationwide.
+Quantity:         Approximately 51,000 market units (10's) units were
+                  distributed; firm estimates none remains on the market.
+Reason:           The flange's binding strength was compromised on some
+                  Urostomy Pouches as a result of an increase in channel width.
+
+                                     ----
+
+                              VETERINARY PRODUCTS
+
+                                     NONE
+
+Medical Device Safety Alerts:
+
+Product:          Ohmeda Biox 3740 Pulse Oximeter, a microprocessor-controlled
+                  device used to determine oxygen saturation in the tissue 
+                  vascular bed.  Safety Alert #M-019-2.
+Code:             All serial numbers.
+Manufacturer:     Ohmeda, Division of the BOC Group, Inc., Louisville,
+                  Colorado.
+Alerted by:       Manufacturer, by letter December 18, 1991.
+Distribution:     Nationwide, Taiwan, Brazil, Holland, El Salvador, Colombia,
+                  Jamaica, Canada.
+Quantity:         26,700 units were distributed.
+Reason:           Firm is informing users that the pulse oximeter should not
+                  be used as an apnea monitor.
+
+                                     ----
+
+Product:          Edwards-Duromedics Bileaflet Valves, also previously known
+                  as the Hemex Scientific Bileaflet Valve:
+                  (a) Bileaflet Valve Model 3160 (Aortic);
+                  (b) Bileaflet Valve Model 9120 (Mitral).
+                  Safety Alert #M-020/021-2.
+Code:             All sizes and serial numbers.
+Manufacturer:     Edwards CVS Division, Baxter Healthcare Corporation
+                  (formerly Hemex Scientific), Austin, Texas.
+Alerted by:       Baxter Health Corporation, Irvine, California, by
+                  initiating a patient notification program November 15, 1991
+                  containing letter dated November 4, 1991.
+Distribution:     Nationwide.
+Quantity:         No unimplanted valves are known to remain in commerce.
+                  Approximately 1,707 valves were distributed and implanted
+                  in the United States between 1982 and 1988.
+Reason:           One of the two leaflets of the valve may fracture and 
+                  break loose from the valve housing.
+
+                                     ----
+
+                                      -8-
+
+
+
+
+
+Injunction Actions Filed:
+
+Against:          West-ward Pharmaceutical Corporation, Eatontown, New Jersey.
+Product:          Prescription Drugs (91-524-393).
+Charge:           Adulterated - The articles were manufactured under
+                  conditions not in conformity with current good manufacturing
+                  practice regulations.
+Filed:            November 6, 1991 - U.S. District Court for the District of
+                  New Jersey; Civil #91-5-54CSF; INJ #1259.
+Consent Decree:   A consent decree was signed on December 19, 1991,
+                  providing for shut-down of the firm.
+
+                                     ----
+Seizure Actions Filed:
+
+Product:          Caldex CMPK Injection, an article of drug for veterinary
+                  use (91-625-203).
+Charge:           Misbranded - Product is a veterinary drug that does not
+                  bear the required prescription legend, "Caution: Federal law
+                  restricts this drug to use by or on order of a licensed
+                  veterinarian."  The product was manufactured in Canada for
+                  Agri Laboratories, Ltd., St. Joseph, Missouri.
+Firm:             Veterinary Pharmaceuticals, Inc., Hanford, California.
+Filed:            December 19, 1991 - U.S. District Court for the Eastern
+                  District of California; FDC #66267.
+
+                                     ----
+
+Product:          Le Tan Canthaxanthin tanning tablets (91-627-663).
+Charge:           Adulterated - Product contains an unsafe color additive.
+Shipper:          Le Tan, Montrose, Colorado;
+Firm:             Northbest Natural Products, Seattle, Washington.
+Filed:            December 6, 1991 - U.S. District Court for the Western
+                  District of Washington; Civil #91-1685; FDC #66321.
+Seized:           December 13, 1991; 53 80-tablet bottles and 300 leaflets.
+
+                                     ----
+
+Product:          Betel Nut and Betel Nut Leaves (91-556-866).
+Charge:           Adulterated - Products contain a poisonous and
+                  deleterious substance.
+Distributor:      United Asian Foods, Ltd., Vernon, California.
+Firm:             Asian Specialty Food Company, Ltd., Chippewa Falls,
+                  Wisconsin.
+Filed:            November 4, 1991 - U.S. District Court for the Western
+                  District of Wisconsin; Civil #91 C 0943 S; FDC #66299.
+
+                                     ----
+
+                                      -9-
+
+
+
+
+Product:          Oxygen, USP (91-610-137/8).
+Charge:           Adulterated - Product was repacked under conditions
+                  not in conformity with current good manufacturing practice
+                  regulations.
+                  Misbranded - The product labels fail to contain a statement
+                  of the quantity of contents.
+Firm:             Apache Oxy-Med, Inc., Mesa, Arizona.
+Filed:            September 27, 1991 - U.S. District Court for the
+                  District of Arizona; Civil #91-1547-PHX-EHC; FDC #66228.
+Seized:           October 8, 1991; stand tank, cylinders, etc., valued at
+                  $99,000.
+                                     -10-
+                                     ###

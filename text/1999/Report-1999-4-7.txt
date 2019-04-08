@@ -1,0 +1,579 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  03
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      28 captures
+	      16 Apr 2000 - 24 Apr 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+April 7, 1999                                             99-14
+
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS I
+________
+PRODUCT
+Velvet brand Chocolate Ice Cream, packed in 1 pint size paper cartons.  
+Recall #F-299-9.
+CODE
+Lot #0119.
+MANUFACTURER
+Velvet Ice Cream Company, Inc., Utica, Ohio.
+RECALLED BY
+Manufacturer, by letter on February 22, 1999, and by press release issued 
+by the Ohio Department of Agriculture on February 19, 1999.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Ohio.
+QUANTITY
+244 gallons (1,952 1-pint containers) were distributed.
+REASON
+Product is contaminated with Listeria monocytogenes.
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS II
+________
+PRODUCT
+Mango Tropitango, a dried fruit product, in 1 ounce, 6 ounce and 32 ounce 
+plastic bags.  Recall #F-289-9.
+CODEProduct Item #288 Lot Codes 1 oz.:
+8150  8110  8111  8112  8118  8120  8124  8127
+8122  8142  8147  8148  8152  8154  8156  8113
+8114  8115  8117  8119  8121  8126  8128  8146
+8260  8149  8153  8155  8157
+Product tem #288 6 oz:
+8096  8098  8105  8147  8182  8194  8196  8209
+8222  8247  8258  8264  8285  8287  8097  8104
+8127  8166  8183  8195  8208  8220  8243  8251
+8259  8280  8286  8317  8318
+Product Item #288 32 oz.
+8097  8117  8124  8139  8170  8191  8195  8204
+8217  8219  8229  8232  8245  8287  8320  8114
+8121  8138  8169  8190  8194  8203  8205  8218
+8227  8230  8233  8260  8288.
+MANUFACTURER
+Mariani Packing Company, Inc., San Jose, California.
+RECALLED BY
+Manufacturer, by telephone and letter November 25, 1998.  
+Firm-initiated recall ongoing.
+DISTRIBUTION
+Undetermined.
+QUANTITY
+96,101 cases or 1,379,714 pounds were distributed.
+REASON
+Product contains undeclared FD&C Yellow NO. 5 and 
+FD&C Yellow No. 8.
+________
+PRODUCT
+Sysco Imperial Scandanavian Blend with--carrots, peas, zucchini, green beans, 
+onions, packed in 6/4 lb. and 1/20 lb. poly bags/case.  
+Recall #F-319-9.
+CODEDate Codes:  8320LC4 and 8363LC1
+6/4 lb.  SYSCO ITEM #: 1025980.
+1/20 lb.  SYSCO ITEM #:1333228.
+MANUFACTURER
+Superior Packing and Blending, San Antonio, Texas.
+RECALLED BY
+Superior Foods, Watsonville, California, by letter on January 19, 1999.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Arkansas, Florida, Texas, Wisconsin.
+QUANTITY
+Firm estimates none remains on the market.
+REASON
+The carrot component of the Product contained elevated levels of lead.
+________
+PRODUCT
+Sun Chips brand Multigrain Snacks, in 14 1/2 ounce packages size containers.  
+Recall #F-320-9.
+CODE
+Pull Date Code May 04; 
+Manufacturing Code 229104.
+MANUFACTURER
+Frito-Lay, Inc., Irving, Texas.
+RECALLED BY
+Frito-Lay, Inc., Plano, Texas, by hand held computer message March 23, 1999.   
+Firm-initiated recall ongoing.
+DISTRIBUTION
+Colorado, Wyoming, Nebraska, South Dakota, Utah.
+QUANTITY
+900 bags were distributed.
+REASON
+Product contains undeclared dairy products.
+________
+PRODUCTBreads and Cheeses:
+a) "White Rice Yeast-Free Loaf For use in Wheat-Free
+Gluten-Free Diets", 20.75 oz. vacuum packages in clear plastic
+with insert color label, 6 pkgs/case
+b) "Potato Loaf For use in Wheat-Free & Gluten-Free Diets",
+24 oz. & 4.1 oz., vacuum packaging.  The 24 oz. loaf is clear
+plastic with color insert label, the 4.1 oz. contains 2 slices
+and the package has black and white adhesive label on outside of
+package
+c) Pizza shells (2 sizes): "PIZZAS 10 inch Diameter", 33.6
+oz. 5 pkgs/case; and "GLUTEN-FREE PIZZAS 6 Inch Diameter", 14.5
+oz. 5 pkgs/case.  Both have exactly the same ingredients and are
+vacuum packaged in clear plastic.  Pizzas are sandwiched between
+cookie sheet paper and then cardboard cake circles.  Adhesive
+black and white label is on the outside of the package
+d) "Wheat-free Pizza Shells", 22.4 oz., two pizza crusts
+vacuum packaged inside a color, retail style carton for retail
+sale.  5 pkgs/case
+e) "POUND CAKE", 11 oz., vacuum packaged in clear plastic with
+color insert label, 6 pkgs/case
+f) "English Muffins For use in Wheat-Free & Gluten-Free Diets", 14 oz.
+vacuum packaged in clear plastic with insert label, 6 pkgs/case.
+g) "Wylde Loaf" 24 oz. vacuum packaged in clear plastic with insert
+label, 6 pkgs/case; and 4.5 oz. vacuum packaged in 2 slice package
+with black and white adhesive label on outside of package, 14 pkgs/case.
+h) "Gluten Free Low Protein Waffles", 7 oz., 2 waffles/vacuum package.
+Label affixed to outside of package, 8 pkgs/case.
+i) "Cheddar Cheese For use in Low Protein and PKU Diets", 32 oz., vacuum
+packaged in clear plastic with color insert label, 6 pkgs/case.
+j) "Mozzarella Cheese For use in Low Protein and PKU Diets", 32 oz.
+vacuum packaged in clear plastic with color insert label, 6 pkgs/case
+k) "Jalapeno Cheese For use in Low Protein and PKU Diets" 32 oz. 
+vacuum packaged in clear plastic with color insert label, 6 pkgs/case.
+Recall #F-321/331-9.
+CODE
+All codes of all products.
+MANUFACTURER
+Ener-G Foods, Inc., Seattle, Washington.
+RECALLED BY
+Manufacturer, by fax on March 12 and 16, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide, Canada, Hong Kong, England.
+QUANTITY
+Undetermined.
+REASON
+Products were not manufactured in a manner that would assure that could not support 
+the growth of Clostridium botulinum.
+
+RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS II
+________
+PRODUCT
+Heparin Sodium Injection, USP, 1000 units/mL, in 5mL ampul, for IV or SC use, 
+Rx anticoagulant.  NDC #0209-4220-14.  Recall #D-156-9.
+CODE
+Lot #9703043 EXP 03/2000.
+MANUFACTURER
+Marsam Pharmaceuticals, Inc., Cherry Hill, New Jersey.
+RECALLED BY
+Manufacturer, by letter on December 10, 1998.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+19,925 units were distributed.
+REASON
+Particulate matter.
+________
+PRODUCT
+Liothyronine Sodium, USP, bulk powder, sold in 500 mg, 1 gram, and 5 gram units, 
+Rx for the treatment of hypothyroidism.  NDC numbers: 38779-0031-0 (500 mg), 
+38779-0031-6 (1 g), 38779-0031-3 (5 g).  Recall #D-157-9.
+CODE
+Lot #55007 EXP 06/00.
+MANUFACTURER
+Topchem S.R.L., Milano, Italy (bulk drug supplier).
+RECALLED BY
+Medisca, Inc., Plattsburgh, New York, by letter dated January 28, 1999.
+Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+192.5 grams were distributed.
+REASON
+Mislabeling - The product is Levothyroxine Sodium, not Liothyronine Sodium 
+as labeled.
+RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS III
+________
+PRODUCTPediacare brand OTC products for pediatric use.  Labels for the first five products 
+listed may state either McNeil Consumer Products Company Division of McNeil-PPC, Inc,
+or Marketed by Pharmacia & Upjohn Consumer Healthcare.  The labels for the last two 
+products listed state Marketed by Pharmacia & Upjohn Consumer Healthcare:
+a) Pedia Care Cough-Cold liquid (Each 5 mL contains pseudoephedrine hydrochloride 
+   15 mg, chlorpheniramine maleate 1 mg, and dextromethorphan hydrobromide 5 mg), 
+   in 4 fluid ounce bottles;
+b) Pedia Care Cough-Cold Chewables (Each tablets contains pseudoephedrine 
+   hydrochloride 15 mg, chlorpheniramine maleate 1 mg, and dextromethorphan 
+   hydrobromide 5 mg), 16 tablets;
+c) Pedia Care NightRest Cough-Cold liquid (Each 5 mL contains pseudoephedrine 
+   hydrochloride 15 mg, chlorpheniramine maleate 1 mg, and dextromethorphan 
+   hydrobromide 7.5 mg), in 4 fluid ounce bottles;
+d) Pedia Care Infants' Drops Decongestant (Each 0.8mL (dropperful) contains 
+   pseudoephedrine hydrochloride 7.5 mg), in 1/2 fluid ounce (15mL) bottles;
+e) Pedia Care Infants' Drops Decongestant Plus Cough (Each 0.8mL (dropperful) 
+   contains pseudoephedrine hydrochloride 7.5 mg and dextromethorphan 
+   hydrobromide 2.5 mg)), in 1/2 fluid ounce (15mL) bottles;
+f) Pedia Care Fever liquid , Ibuprofen Oral Suspension, 100 mg per 5 mL (teaspoon),
+   in 4 fluid ounce bottles;
+g) Pedia Care Fever drops, Ibuprofen Oral Suspension, 50 mg per 1.25 mL 
+   (dropperful), in 1/2 fluid ounce bottles.
+Recall #D-158/164-9.
+CODE
+All lots at retail with coupons attached.
+MANUFACTURER
+Pharmacia & Upjohn, Kalamazoo, Michigan.
+RECALLED BY
+Manufacturer, by letter dated February 9, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+419,000 packages were distributed.
+REASON
+Mislabeling - Some units are overlabeled with an incorrect peel off coupon.
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS II
+________
+PRODUCT
+Human Tissue for Transplant: Corneas, Veins, and Musculoskeletal Tissue.  
+Recall #B-571-9.
+CODE
+Donors 95-094, 97-191, 98-068.
+MANUFACTURER
+Upstate New York Transplant Services, Buffalo, New York.
+RECALLED BY
+Manufacturer, by letter either October 7, 8, 13, or 14,1998, or January 5 or 18, 
+1999, or by telephone on September 29, 1998.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+New York, Florida, New Jersey, Georgia.
+QUANTITY
+Tissues from 3 donors were distributed.
+REASON
+Tissues for transplant were incorrectly tested for HBsAg, or anti-HIV-1/2.
+________
+PRODUCT
+Donor Management Information System, Version 1.2.  
+Recall #B-602-9.
+CODE
+11 systems were distributed.
+MANUFACTURER
+Information Data Management, Rosemont, Illinois.
+RECALLED BY
+Manufacturer, by telephone on January 19, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+New Jersey, Illinois, Ohio, South Carolina, Hawaii, Tennessee, Indiana,
+Hong Kong and the United Kingdom.
+REASON
+Y2K defect in the computer software incorrectly calculates the end date 
+of a temporary deferral to be 1900 instead of 2000, and removes the deferral 
+from the database.
+________
+PRODUCT
+Recovered Plasma.  Recall #B-621-9.
+CODE
+Unit #49FF33317.
+MANUFACTURER
+American Red Cross Blood Services, Tulsa, Oklahoma.
+RECALLED BY
+Manufacturer, by fax on January 6, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+California.
+QUANTITY
+1 unit was distributed.
+DISTRIBUTION
+California.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor with a history of cancer.
+________
+PRODUCT
+a) Red Blood Cells; b) Fresh Frozen Plasma.  Recall #B-622/623-9.
+CODE
+Unit #17183-3374.
+MANUFACTURER
+United Blood Services, McAllen, Texas.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by telephone on February 4, 
+1999, and by letter dated March 3, 1999.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor with a history of cancer.
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+________
+PRODUCT
+Tissues for Transplant:  Corneas, Veins, and Musculosketal Tissue.  
+Recall #B-572-9.
+CODE
+Donor 97-239.
+MANUFACTURER
+Upstate New York Transplant Services, Buffalo, New York.
+RECALLED BY
+Manufacturer, by letter either October 7, 8, 13, or 14,1998, or January 5 or 18, 
+1999, or by telephone on September 29, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+New York, Florida, New Jersey, Georgia.
+QUANTITY
+Tissues from 1 donor was distributed.
+REASON
+Tissues for transplant were incorrectly tested for HBsAg, or anti-HIV-1/2.
+________
+PRODUCT
+a) Autologous Red Blood Cells.  Recall #B-600-9.
+CODE
+Unit numbers:  40J00191, 40J00192, 40J00193, 40J00194, 40J00195.
+MANUFACTURER
+American Red Cross Blood Services, St. Louis, Missouri (testing Laboratory).
+RECALLED BY
+American Red Cross Blood Services, Peoria, Illinois, by telephone and 
+fax on March 2, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Illinois.
+QUANTITY
+5 units were distributed.
+REASON
+Autologous red blood cells were incorrectly tested for syphilis, were not labeled 
+with a Biohazard label.
+________
+PRODUCT
+Red Blood Cells, Leukocytes Reduced.  Recall #B-620-9.
+CODE
+49FF33343, 49FM33092, 49GR09719, 49GR09721, 49GR09728, 49LF39752, 49LK12119, 
+49LQ01172, 49LQ01179.
+MANUFACTURER
+American Red Cross Blood Services, Waco, Texas.
+RECALLED BY
+American Red Cross Blood Services, Tulsa, Oklahoma, by telephone on September 25, 
+1998, and by letter dated October 8, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+9 units were distributed.
+REASON
+Leukocytes Reduced blood products were prepared using a filter that had not yet 
+been validated by the blood collection facility.
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+________
+PRODUCT
+Millennium VG Nuclear Medicine Scanner, Model 2200967; Varicam Nuclear Medicine 
+Scanner, Models 100-3101-0605 and 100-3101-0308. Recall #Z-745/747-9.
+CODE
+All serial numbers.
+MANUFACTURER
+Elscint Ltd., Haifa, Israel.
+RECALLED BY
+General Electric Medical System, Waukesha, Wisconsin, by instructions to replace 
+the lateral gear box on February 20, 1999.  Firm-initiated field correction 
+ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+187 units were distributed.
+REASON
+Excessive wear of the lateral motion gears was found on several Varicam/Millennium 
+VG Systems.  Failure of a lateral motion gear could allow the detector head to 
+move/fall down without operator control.
+________
+PRODUCT
+BBL Arysulfatase Broth (0.001M), used to differentiate mycobacteria based on 
+their ability to produce arylsulfatase, used in a 3-day test to detect 
+arysulfatase activity in rapidly growing mycobacteria.  Recall #Z-763-9.
+CODE
+Catalog #4395654, Lot #1013B9NCIW EXP 7/1/99.
+MANUFACTURER
+Becton Dickinson Microbiology Systems, Madison, Wisconsin.
+RECALLED BY
+Becton Dickinson Microbiology Systems, Sparks, Maryland, by letter dated 
+January 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+130 boxes (10 tubes per box) were distributed.
+REASON
+False negative test results.
+________
+PRODUCT
+BBL Motility Test Medium with TTC, used for the detection of motility of gram 
+negative enteric bactilli.  Recall #Z-764-9.
+CODE
+Lot #: 1013J8NZAF - Expiration date 01APR99, Catalog #4397921.
+MANUFACTURER
+Becton Dickinson Microbiology Systems, Sparks, Maryland.
+RECALLED BY
+Manufacturer, by telephone on April 13, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+10 boxes of 10 tubes each were distributed.
+REASON
+Lack of reaction to positive samples.
+________
+PRODUCT
+Biological Indicator ProSpore, indicated for team sterilization (121 degrees C).  
+Recall #Z-776-9.
+CODE
+Lot #PS-156.
+MANUFACTURER
+Raven Biological Laboratories, Inc., Omaha, Nebraska.
+RECALLED BY
+Manufacturer, by telephone on January 29, 1999.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Nationwide, Switzerland,England, Brazil, Ireland, Japan.
+QUANTITY
+167 50-ampoule boxes and 40 10-ampoule boxes were distributed.
+REASON
+An incorrect package information sheet accompanied the device.
+________
+PRODUCT
+I-125 SEEDS, a welded titanium capsule containing Iodine-125 adsorbed 
+onto a silver rod.  Recall #Z-777-9.
+CODE
+Model 6711, lot W82246, activity range 0.82-0.88 mCi.
+MANUFACTURER
+Medi-Physics, Inc., Arlington Heights, Illinois.
+RECALLED BY
+Nycomed Amersham Imaging, Princeton, New Jersey, by requesting return of 
+the shipment of seeds from the one direct account on November 20, 1998.  
+Firm-initiated recall complete.
+DISTRIBUTION
+New Hampshire.
+QUANTITY
+70 seeds were distributed.
+REASON
+Some of the seeds in the shipment were outside of the labeled radioactivity 
+range of 0.82-0.88 mCi.
+________
+PRODUCT
+Orthopedic Bone Screws, used to only assist in healing and are not intended 
+to replace normal body structures:
+a) Part No. 10025-60, 5.0mm Cannulated Cancellous Lag Screw, 60mm;
+b) Part No. 10025-55, 5.0mm Cannulated Cancellous Lag Screw, 55mm.  
+Recall #Z-779/780-9.
+CODE
+Lot numbers:  a) 99090; b) 99080.
+MANUFACTURER
+Alphatec Manufacturing, Inc., Palm Desert, California.
+RECALLED BY
+Manufacturer, by memorandum dated April 6, 1998.  Firm-initaited recall complete.
+DISTRIBUTION
+Japan.
+QUANTITY
+a) 8 units; b) 19 units were distributed.
+REASON
+The screw with laser etching, Part No. 10025-60, is actually 55mm in length, 
+and the screw with laser etching, Part No. 10025-55, is actually 60mm in length.
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+________
+PRODUCT
+Biological Indicators, Spore Strips, Bacillus Subtilis var.Niger (ATCC 9372), 
+for use determining the efectiveness of ethylene oxide or dry heat sterilization 
+procedures.  Recall #Z-778-9.
+CODE
+Lot #116392 EXP 8/2000.
+MANUFACTURER
+Raven Biological Laboratories, Inc., Omaha, Nebraska.
+RECALLED BY
+Manufacturer, by telephone on January 27, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Arizona, Puerto Rico, Germany, Italy, Japan, Canada.
+QUANTITY
+19,911 were distributed.
+REASON
+The glassine envelopes containing the individual spore strips were labeled 
+with an incorrect lot number while the boxes are labeled with the correct 
+lot number.
+
+END OF ENFORCEMENT REPORT FOR APRIL 7, 1999.
+
+####

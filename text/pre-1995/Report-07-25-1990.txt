@@ -1,0 +1,393 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  DEC
+		  Mar
+		
+		
+		
+		  
+		  28
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      24 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DO
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+07/24/1990     
+
+FDA Enforcement for the week of JULY 25, 1990 
+
+
+
+                            FDA ENFORCEMENT REPORT
+                               FOR JULY 25, 1990
+
+
+                                                          July 25, 1990 
+Recalls and Field Corrections:
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  Product will cause serious adverse health consequences or 
+                  death.
+
+                                     NONE 
+
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the 
+                  probability of serious adverse health consequences is 
+                  remote. 
+
+                                     NONE 
+
+                  Class III - A situation in which the use of, or exposure
+                  to a violative product is not likely to cause adverse 
+                  health consequences.
+
+                                     NONE 
+
+                                      -1- 
+
+
+
+
+
+                                 COSMETICS
+
+                                    NONE
+
+                           HUMAN DRUGS AND BIOLOGICS
+
+                  Class I - 
+
+                                     NONE 
+
+                  Class II -
+
+
+Product:          Source Plasma (frozen), for manufacturing use only, 
+                  Recall #B-160-0.
+Code:             Unit #'s N-31545-008
+                           N-31587-008
+                           N-31678-008
+                           T-11479-008
+                           N-32453-8
+                           N-32535-8
+                           N-32676-8
+                           N-32906-8
+                           N-33137-8
+                           T-12602-8
+                           T-12653-8
+                           T-12738-8. 
+Manufacturer:     Plasmatek of Nashville, Inc., Nashville, Tennessee. 
+Recalled by:      Manufacturer by letter February 2, 1990.  Firm initiated
+                  recall ongoing. 
+Distribution:     California. 
+Quantity:         12 units were distributed.
+Reason:           Source Plasma collected from donors deemed ineligible 
+                  based on previous hepatitis B surface antigen (HBsAg) 
+                  and/or the antibody to the human immunodeficiency virus 
+                  (HIV-1) test results, was distributed.
+
+                                     ---- 
+
+EXTENSION NOTE:   Recovered Plasma, B-020-0 which appeared in the December 13,
+                  1989 Enforcement Report has been extended to include
+                  Unit #'s 542778 547025, 55111, 552976, 557300.
+
+
+
+                                     ---- 
+
+                                      -2- 
+
+
+
+
+
+                  Class III - 
+
+Product:          Lee Aspirin 325 mg. tablets with codeine phosphate, 60 mg., 
+                  an Rx product under the Goldine label, Recall #D-316-0
+Code:             Lot #9F183, Exp. 6/91.
+Manufacturer:     K. M. Lee Laboratories, Santa Fe Springs, California. 
+Recalled by:      Manufacturer, by letter March 7, and March 27, 1990.  Firm
+                  initiated recall ongoing. 
+Distribution:     California, Florida, Ohio, Texas. 
+Quantity:         1,058/100 tablet bottles were distributed.
+Reason:           A bottle labeled as containing aspirin 325 mg. with 
+                  codeine 60 mg. per tablet contained aspirin 325 mg. 
+                  codeine 30 mg. per tablet.
+
+                                     ---- 
+
+
+Product:          Phenaphen-650 w/codeine tablets, in 50 tablet bottles, each 
+                  tablet containing 650 mg. acetaminophen and 30 mg. codeine
+                  phosphate, an Rx prescription, Recall #D-317-0. 
+Code:             Lot #'s 89-96-2, 89-97-12.
+Manufacturer:     A. H. Robins, Company, Richmond, Virginia.
+Recalled by:      Manufacturer, by letter February 1, 1990. 
+                  Firm-initiated recall.
+Distribution:     Nationwide, Thailand .
+Quantity:         9,718 bottles (lot #96) were distributed; 9,920 bottles 
+                  (lot #97) were distributed, firm estimates approximately
+                  600 bottles of each lot would be returned.
+Reason:           Incorrect expiration date of 36 months was used instead 
+                  of 24 months. 
+
+                                     ---- 
+
+                         MEDICAL DEVICES AND RADIOLOGY
+
+                  Class I - 
+
+
+                                     NONE 
+
+
+                  Class II -
+
+Product:          ECC 1400A Replacement Dental Timers, Recall #Z-732-0. 
+Code:             Units labeled as manufactered December 1987 or prior. 
+Manufacturer:     Electronic Control Corporation, Fraser, Michigan. 
+Recalled by:      Manufacturer. FDA approved the firm's corrective
+                  action plan June 29, 1990.  Firm initiated field
+                  correction ongoing. 
+
+                                      -3- 
+
+
+
+
+
+Distribution:     Nationwide. 
+Quantity:         Less than 2,926, not all serial numbers used. 
+Reason:           Noncompliance with the performance standard for X-ray 
+                  products in that the device could fail to terminate the 
+                  x-ray exposure production at the selected preset time 
+                  interval. 
+
+                                     ---- 
+
+Product:          Model MK-480 Laser Head and Model LPS-100 Power Supply
+                  Recall #Z-733/734-0.
+Code:             K05812 (laser head), K05813 (power head supply).
+Manufacturer:     Kigre, Incorporated, Hilton Head Island, South Carolina.
+Recalled by:      Manufacturer.  FDA approved the firm's corrective action
+                  plan June 29, 1990.  Firm-initiated field correction
+                  ongoing.
+Distribution:     South Carolina. 
+Quantity:         1 unit was distributed. 
+Reason:           Noncompliance with the performance standard for laser 
+                  products in that the device lacked identification labeling
+                  product class labeling, a warning logotype, adequate
+                  instructions for use and statement of output parameters.
+                  The device also does not provide a permanently attached 
+                  mechanism (other than laser energy source switch) to prevent
+                  human access by any part of the body to laser radiation.
+
+
+                                     ---- 
+
+CORRECTION:       Ohmeda Check Valve Disc Retainer Recall Z-657-0 which 
+                  appeared in the June 20, 1990 Enforcement Report should read: 
+                  Code:  Serial numbers that begin with ACLL, ACLM, ACLN, ACLP
+                  ACLQ, ACLR, ACLS, ACLT 0001 thru ACLT 01299.
+
+                                     ---- 
+
+                  Class III - 
+
+Product:          Cobe Pressure Monitoring Lines, used for pressure monitoring
+                  and injection of fluids during cardiac catherization, 
+                  Recall #Z-725-0.
+Code:             Catalog #040204-001, Lot #'s 0149214. 
+Manufacturer:     Cobe Laboratories, Inc., Cardiovascular Division, 
+                  Arvada, Colorado. 
+Recalled by:      Manufacturer by letter May 29, 1990.  Firm initiated recall 
+                  ongoing.
+Distribution:     Nationwide, Belgium, Canada.
+Quantity:         3,875 units were distributed. 
+Reason:           The 4 foot polyethylene high pressure lines (Catalog No.
+                  040204-001, Lot No. 01U9214) were incorrectly labeled on
+                  the outer case as 2 foot polyethylene high pressure lines 
+                  Catalog No. 040102-001, Lot NO. 01U9202). 
+
+                                     ---- 
+
+                                      -4- 
+
+
+
+
+
+
+Product:          Corning 500 ml Bottle Top Filter Funnel w/60 mm 
+                  .22 micron filter, used in tissue culture media filtration
+                  Recall #Z-726-0.
+Code:             Catalog No. 25975-45, Lot #31188007.
+Manufacturer:     Corning Inc., (formerly Corning Glass Works), 
+                  Oneonta, New York.
+Recalled by:      Corning Inc., Corning, New York by letter May 3, 1989.
+                  Firm-initiated recall complete. 
+Distribution:     Nationwide, Canada. 
+Quantity:         199 cases (12 units/case) were distributed, firm estimates
+                  none remains on market. 
+Reason:           Some of the units contained a .45 micron cellulose acetate
+                  membrane filter instead of .22 micron filter as labeled.
+
+                                     ---- 
+
+Product:          Corning brand (a) 500 ml, Vacuum Filter/Storage 
+                  System w/60mm, .45 micron filter, Product No. 25945-500 
+                  (b) 1000 ml Vacuum Filter/Storage System w/90 mm, 
+                  .22 micron filter, Product No. 25954-1L; (c) 1000 ml
+                  Vacuum Filter/Storage System w/90 mm, .45 micron filter,
+                  Product No. 25955-1L, all products packed 12/case,
+                  product is a sterile, plastic funnel with attached
+                  membrane filter and collection used to filter tissue
+                  culture media and biological fluids, Recall #Z-727/729-0. 
+
+Code:             Lot #'s (a) 11005364, 11005365, 04005360, 07005366, 
+                  11005369, 03005358; (all lots manufactured in 1985) 
+                  (b) 20189002; (c) 10388001, 15288002 15488003, 18788004,
+                  18788005, 13989001 (all lots manufactured in 1988). 
+Manufacturer:     Corning Inc., (formerly Corning Glass Works), Oneonta,
+                  New York. 
+Recalled by:      Corning Inc., (formerly Corning Glass Works), Corning,
+                  New York by letter November 15, 1989 with follow-up 
+                  letter dated April 27, 1990.  Firm initiated recall ongoing.
+Distribution:     Nationwide, Canada. 
+Quantity:         (a) 1,794 cases; (b) 113 cases; (c) 243 cases were
+                  distributed.
+Reason:           Some of the vacuum filter systems may have a defect that
+                  results in holes, cracks and rupturing of the membrane
+                  filters.
+
+                                     ---- 
+
+Product:          Cotton Twill used for tracheostomy tube ties in various 
+                  sizes:
+                  1/4" x 720 yds, Catalog No. 1102
+                  1/4" x 72 yds, Catalog No. 1112 
+                  3/8" x 720 yds, Catalog No. 1103
+
+                                      -5- 
+
+
+
+
+
+                  3/8" x 72 yds. Catalog No. 1113 
+                  1/2" x 720 yds. Catalog No. 1104
+                  1/2" x 72 yds. Catalog No. 1114 
+                  5/8" x 720 yds. Catalog No. 1105
+                  5/8" x 72 yds. Catalog No. 1115 Recall #Z-730-0.
+Code:             All lots. 
+Manufacturer:     Custom Hospital Products, Inc., Portland, Oregon. 
+Recalled by:      Manufacturer, by letter dated March 16, 1990.  Firm 
+                  initiated recall complete.
+Distribution:     Nationwide. 
+Quantity:         3,000 packages were distributed.
+Reason:           Product may have occasional splices that will separate or 
+                  unravel when used as a tracheostomy tube ties.
+
+
+                              VETERINARY PRODUCTS 
+
+                                     NONE

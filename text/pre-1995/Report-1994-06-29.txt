@@ -1,0 +1,689 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      26 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+06/29/1994
+
+Recalls and Field Corrections:  Foods -- Class I -- 06/29/1994
+
+June 29, 1994                                                 94-26
+ 
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+==========================
+_______________
+PRODUCT        Frookie All Natural Chocolate Chip Cookies, 6.5 ounces. 
+               Recall #F-704-4.
+CODE           Lot numbers:  31184P, 21194P, 31194P, 21254P, 31254P,
+               11264P, 21314P, 31314P, 21374P, 11374P, 11444P, 11194.
+MANUFACTURER   Imperial Baking, St. Louis, Missouri.
+RECALLED BY    R.W. Frookies, Inc., Sag Harbor, New York, by letters of
+               April 5, 1994, and May 23, 1994, and by press release April
+               7, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Firm estimates that fewer than 3,500 cases (12 boxes per
+               case) remain on market.
+REASON         Product contains pecans which are not declared on the label.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Tops brand Non-Dairy Creamer, frozen, 32 ounces.  
+               Recall #F-706-4.
+CODE           4055 (C, D, G, or H).
+MANUFACTURER   Rich Products Corporation, Buffalo, New York.
+RECALLED BY    Manufacturer, by telephone May 19, 1994, followed by letter
+               May 19, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   New York, Pennsylvania.
+QUANTITY       671 cases (12 units per case) were distributed between
+               February and May 1994.
+REASON         Product contains undeclared sodium caseinate.
+
+_______________
+PRODUCT        Mint Chip Ice Cream, pure chocolate chips in mint flavored
+               ice cream packaged in half gallon round paperboard tubs. 
+               Recall #F-705-4.
+CODE           Lot #07394.
+MANUFACTURER   Gillette Dairy, Norfolk, Nebraska.
+RECALLED BY    Manufacturer, by telephone May 11, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nebraska, Iowa, Missouri.
+QUANTITY       Approximately 1,518 units were distributed.
+REASON         Product contains undeclared FD&C; Yellow #5.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Pitressin (Vasopressin Injection, USP) Steri-Vial 10 Pressor
+               Units, in 0.5 ml, Synthetic 25/0.5 ml glass vials.  
+               Recall #D-305-4.
+CODE           Lot numbers:  022N2PN EXP 3/94, 03792PH EXP 1/94.
+MANUFACTURER   Warner-Lambert Company, Parke-Davis Division, Rochester,
+               Michigan.
+RECALLED BY    Parke-Davis Division of Warner-Lambert Company, Morris
+               Plains, New Jersey, by letter January 20, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide, Canada.
+QUANTITY       791 cartons of 25 vials of lot 022N2PN, 1,024 cartons of 25
+               vials of lot 03792PH were distributed.
+REASON         Portion of carton label bears incorrect route of
+               administration.
+
+_______________
+PRODUCT        Procan SR Tablets (Procaine Hydrochloride Extended Release
+               Tablets), indicated for the treatment of documented
+               ventricular arrhythmias:  (a) 250 mg; (b) 500 mg; (c) 750
+               mg.  Recall #D-312/314-4.
+CODE           Lot numbers:  (a) 01872VA EXP 6/94, 01872VB EXP 6/94; (b)
+               08442VB EXP 4/94, 04052VB EXP 4/94, 04142VB EXP 4/94,
+               01972VA EXP 6/94, 10382VA EXP 7/94, 08092VA EXP 8/94,
+               08192VA EXP 8/94, (c) 05852VA EXP 5/94, 08872VA EXP 7/94,
+               07392VA EXP 8/94, 03523VA EXP 1/95, 03623VA EXP 1/95,
+               03723VA EXP 1/95, 03823VA 1/95, 04353VA EXP 4/95, 04453VA
+               EXP 4/95, 03873VA EXP 6/94, 04052V EXP 4/94, 05852V EXP
+               5/94, 07392V EXP 8/94, 04453VA 4/95.  The following lots
+               were shipped to Parke-Davis in Brockville, Canada for
+               Canadian distribution:  08442V, 04052V, 10382V (500 mg);
+               05852V, 03523V, 03623V (750 mg).
+
+                                    -2-MANUFACTURER   Warner Lambert, Vega Baja, Puerto Rico.
+RECALLED BY    Parke-Davis, Division of Warner Lambert, Morris Plain, New
+               Jersey, by letter April 29, 1994.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       Firm estimates little product remains on the market.
+REASON         Abbreviated New Drug Application deficiencies.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Parke-Davis Consumer Health Products Group brand Benadryl
+               Tablets 25 mg, OTC antihistamine, in bottles of 100.  
+               Recall #D-306-4.
+CODE           Lot #09033V EXP 8/94.
+MANUFACTURER   Warner-Lambert Company, Vega Baja, Puerto Rico.
+RECALLED BY    Warner-Wellcome, Consumer Health Product, Morris Plains, New
+               Jersey, by letter mailed week of April 25, 1994.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       23,808 bottles were distributed.
+REASON         Subpotency.
+
+_______________
+PRODUCT        Methenamine Mandelate 1.0 Tablets, oral solid dosage form
+               packaged in 100 and 1,000 tablet bottles, Rx antiseptic for
+               urinary tract infections.  Recall #D-307-4.
+CODE           3053A EXP 6/95, 3167A EXP 12/95.
+MANUFACTURER   Amide Pharmaceutical, Inc., Little Falls, New Jersey.
+RECALLED BY    Manufacturer, by letter April 7, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   New York, Florida, California, Indiana.
+QUANTITY       48 bottles of 1000 and 288 bottles of 100 tablets were
+               distributed.
+REASON         Non-validated manufacturing process.
+
+_______________
+PRODUCT        Duragesic Fentanyl Transdermal System controlled substance
+               Rx drugs: (a) 25 mcg/hr; (b) 50mcg/hr. Recall #D-308/309-4.
+CODE           Lot numbers:  (a) 131305, 131306; (b) 132306, 132307.
+MANUFACTURER   Alza Corporation, Vacaville, California. 
+RECALLED BY    Janssen Pharmaceutica, Titusville, New Jersey, by letter on
+               or about February 25, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       66,653 cartons of lot 131305, 19,061 cartons of lot 131306,
+               35,230 cartons of lot 132306, and 15,159 cartons of lot
+               132307 were distributed.
+REASON         Release rate does not meet product specifications.
+
+                                    -3-_______________
+PRODUCT        Flurazepam Hydrochloride Capsules, USP, 30 mg, Rx schedule
+               IV narcotic oral hypnotic for the treatment of insomnia.
+               Recall #D-310-4.
+CODE           Lot 4A154 EXP 7/95.
+MANUFACTURER   Mylan Pharmaceuticals, Morgantown, West Virginia.
+RECALLED BY    UDL Laboratories, Rockford, Illinois (repacker/responsible
+               firm), by letter June 15, 1994.  Firm-initiated field
+               correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       2,190 unit cartons were distributed.
+REASON         Some unit cartons may be mislabeled as Temazepam Capsules 15
+               mg.  The unit dose packs are correct.
+
+_______________
+PRODUCT        Tagamet (brand of Cimetidine) 800 mg, in bottles of 30,
+               indicated for short-term treatment of active duodenal ulcer. 
+               Recall #D-311-4.
+CODE           Lot #8034T27 EXP 1/3/196.
+MANUFACTURER   Smith Kline Beecham Pharmaceuticals, Cidra, Puerto Rico.
+RECALLED BY    Manufacturer, by letter May 23, 1994.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       61,992 units were distributed.
+REASON         A tablet of Relafen 750 mg was found in a bottle of Tagamet 
+               800 mg.
+
+_______________
+PRODUCT        Miochol (Acetylcholine Chloride) 1:100 Intraocular, 10
+               mg/2ml, in 2 ml vials, used to obtain complete miosis of the
+               iris in seconds after delivery of the lens in cataract
+               surgery.  Recall #D-315-4.
+CODE           Lot numbers:  R4807D EXP 11/96 (Iocare Steri-Tags), R4807E
+               EXP 11/96, R4808E EXP 12/96 (System Paks).
+MANUFACTURER   Iolab, Inc., San German, Puerto Rico.
+RECALLED BY    Iolab, Claremont, California, by letter May 20, 1994.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       12,225 units were distributed; firm estimates none remains
+               on market.
+REASON         Product does not meet pH specifications.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Recovered Plasma. 
+               Recall #B-308/310-4.
+CODE           Unit #22LF63110.
+MANUFACTURER   The American National Red Cross, Philadelphia, Pennsylvania.
+RECALLED BY    Manufacturer, by letter October 19, 1993.  Firm-initiated
+               recall ongoing.
+
+                                    -4-DISTRIBUTION   Pennsylvania, California.
+QUANTITY       1 unit of each component.
+REASON         Blood products collected from a donor taking Proscar were
+               distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-339-4.
+CODE           Unit #03LT10561.
+MANUFACTURER   American Red Cross, Atlanta, Georgia.
+RECALLED BY    Manufacturer, by letter August 8, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Georgia.
+QUANTITY       1 unit.
+REASON         Red Blood Cells, collected from a donor who traveled to an
+               endemic area for malaria and had taken prophylactic anti-
+               malarial medication prior to donation, was distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Cryoprecipitated
+               AHF; (d) Fresh Frozen Plasma; (e) Platelet, Expired; (f)
+               Recovered Plasma; (g) Recovered Human Serum (Pool).  
+               Recall #B-341/347-4.
+CODE           Unit numbers:  (a) 31G44005, 31GE01404, 31GE02485,
+               31GE04447, 31T12697, 31T16663, 31T18895, 31T20598, 31T22927,
+               31V32870, 31W73945; (b) 31G44005, 31GE04447, 31T12697,
+               31T16663, 31T18895, 31T22927, 31V32870, 31W73945; (c)
+               31G44005, 31T22927, 31GE01404; (d) 31T12697, 31T16663,
+               31T18895, 31T20598, 31W73945; (e) 31T20598; (f) 31GE01404,
+               31GE02485, 31GE04447, 31T22927, 31V35314; (g) 31GE01404
+               (9RB1512-1-S), 31GE04447 (90RB03017), 31T16663 (92RB3602S),
+               31T18895 (93RB3060S), 31T20598 (93RB3115S), 31T22927
+               (93RB3182S), 31W73945 (92RB3523S).
+MANUFACTURER   American Red Cross Blood Services, Buffalo, New York.
+RECALLED BY    Manufacturer, by telephone from September 15, 1993 through
+               December 7, 1993, and by letters dated from June 1, 1993,
+               through December 12, 1993. Firm-initiated recall ongoing.
+DISTRIBUTION   New York, Pennsylvania, California, South Carolina,
+               Oklahoma, Alabama, Ohio, Georgia, Massachusetts,
+               Switzerland.
+QUANTITY       (a) 11 units; (b) 8 units; (c) 3 units; (d) 5 units; (e) 1
+               unit; (f) 5 units; (g) 7 units.
+REASON         Blood products which were collected from a donor with a
+               history of cancer; or tested negative but were collected
+               from donors who previously tested repeatedly reactive for
+               the antibody to the human immunodeficiency virus type 1
+               (anti-HIV-1), were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets, Expired; (c) Recovered
+               Plasma.  Recall #B-350/352-4.
+CODE           Unit numbers 1098037, 5070552.
+MANUFACTURER   Northwest Florida Blood Center, Inc., Pensacola, Florida.
+
+                                    -5-RECALLED BY    Manufacturer, (a) by letter May 25, 1993 and by telephone
+               January 4, 1993; (b&c;) telephone December 30, 1992, and by
+               letter May 25, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Florida.
+QUANTITY       2 units of each component.
+REASON         Blood products, which tested negative for all viral markers,
+               but were collected from donors who participated in high risk
+               behavior or experienced an occupational needle stick
+               exposure less than 12 months prior to donation, were
+               distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        Influenza Virus Vaccine Trivalent types A and B, Subvirion
+               Formula 1993-1994, Connaught Flu Vaccine, in prefilled 0.05
+               ml unit dose syringe.  Recall #B-338-4.
+CODE           Lot #3M41109.
+MANUFACTURER   Connaught Laboratories, Inc., Swiftwater, Pennsylvania.
+RECALLED BY    Manufacturer, by letter March 29, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Argentina.
+QUANTITY       30,000 units were distributed.
+REASON         In translating labeling from English to Spanish, a portion
+               of the indication section was omitted.
+
+_______________
+PRODUCT        (a) Granulocytes Apheresis; (b) Recovered Plasma.  
+               Recall #B-348/349-4.
+CODE           Unit numbers: (a) 31GJ04300; (b) 31G44005, 31V32870.
+MANUFACTURER   American Red Cross Blood Services, Buffalo, New York.
+RECALLED BY    Manufacturer, by telephone September 15, 1993, November 12,
+               1993, and December 7, 1993, and by letters dated June 1,
+               1993, September 17 and 24, 1993, November 22, 1993, and
+               December 10, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   New York, California, Massachusetts, Switzerland.
+QUANTITY       (a) 1 unit; (b) 2 units.
+REASON         Blood products which were collected from a donor with a
+               history of cancer or stored at an unacceptable temperature
+               were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Prowess 2000 Radiation Treatment Planning Software Package,
+               Version 2.08.  Recall #Z-740-4.
+CODE           None.
+MANUFACTURER   Small Systems Group, Inc., Chico, California.
+RECALLED BY    Manufacturer, by letter January 13, 1993.  Firm-initiated
+               field correction complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       96 units.
+                                    -6-REASON         Calculations in the brachytherapy module produced dose
+               errors of 48 percent.
+
+_______________
+PRODUCT        AC Power Adaptor or Transformer labeled "Component Power
+               Supply Class 2, Part #394-4010-001, intended for use with
+               medical and dental equipment.  Recall #Z-793-4.
+CODE           All lots except revision E.
+MANUFACTURER   Ault, Inc., Minneapolis, Minnesota.
+RECALLED BY    CNS, Inc., Chanhassen Minnesota, by letter November 8, 1993. 
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide and canada.
+QUANTITY       333 units were distributed.
+REASON         Some adaptors exceeded leakage current specifications, due
+               to loose fuses or fuses in close proximity to the
+               transformer lamination stack.
+
+_______________
+PRODUCT        Sterile ophthalmic solutions for use with contact lenses:
+               (a) Sherman Pharmaceutical Stay-Wet 3 preserved wetting and
+               "in eye" lubricating solution and rewetting drop for use
+               with fluoro/silicone crylate and silicone acrylate rigid gas
+               permeable (RPG) contact lenses, .33 ounces (10 ml) sample
+               size; 
+               (b) Sherman Pharmaceutical Stay-Wet 3 preserved wetting and
+               "in eye" lubricating solution and rewetting drop for use
+               with fluoro/silicone acrylate and silicone acrylate RPG
+               contact lenses, 1 fluid ounce (30 ml) size; 
+               (c) Wukvision Stay-Wet 3 preserved wetting and "in eye"
+               lubricating solution and rewetting drop for use with
+               fluoro/silicone acrylate and silicone acrylate RPG contact
+               lenses, 10 ml size; 
+               (d) Sherman Pharmaceutical de Stat 3 cleaning, disinfecting
+               and storage solution for use with fluoro/silicone acrylate
+               and silicone acrylate RPG contact lenses, 1 fluid ounce (30
+               ml) sample size; 
+               (e) Sherman Pharmaceutical de Stat 3 cleaning, disinfecting
+               and storage solution for use with fluoro/silicone acrylate
+               and silicone acrylate RPG contact lenses, 4 fluid ounces
+               (118 ml) size; 
+               (f) Wukvision de Stat 3 cleaning, disinfecting and storage
+               solution for use with fluoro/silicone acrylate and silicone
+               acrylate RPG contact lenses, 118 ml size;
+               (g) Wukvision de Stat 3 cleaning, disinfecting and storage
+               solution for use with fluoro/silicone acrylate and silicone
+               acrylate RPG contact lenses, 30 ml size; 
+               (h) Sherman Pharmaceutical Sof/Pro-Clean cleaning solution
+               for use with all soft (hydrophilic) contact lenses in heat
+               (thermal) and chemical (not heat) lens care systems, 1 fluid
+               ounce (30 ml) size; 
+
+                                    -7-               (i) Choongwae Pharma Corporation Sof/Prp-Clean cleaning
+               solution for use with all soft (hydrophilic) contact lenses
+               in heat (thermal) and chemical (not heat) lens care systems,
+               30 ml size.   Recall #Z-931/939-4.
+CODE           Lot numbers:  (a) 1793; (b) 363; (c) 1793; (d) 3452, 3642;
+               (e) 2332, 1603; (f) 1603; (g) 3642; (h) 1392, 1842, 1852;
+               (i) 1842, 1852.
+MANUFACTURER   Sherman Pharmaceuticals, Inc., Mandeville, Louisiana.
+RECALLED BY    Manufacturer, by letter May 9, 1994.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 26,371 units of Stay-Wet 3; approximately
+               45,906 units of de-Stat; and approximately 63,786 units
+               Sof/Pro-Clean from all lot numbers involved were
+               distributed.
+REASON         Product sterility may have been compromised due to potential
+               inadequate sterilization.
+
+_______________
+PRODUCT        IVAC Core-Check Tympanic Thermometer System, Model 2090A, a
+               hand-held thermometer which, when positioned in the external
+               auditory canal, measures the infrared energy emitted from
+               the tympanic membrane.  Recall #Z-963-4.
+CODE           All lot numbers.
+MANUFACTURER   IVAC Corporation, San Diego, California.
+RECALLED BY    Manufacturer, by issuing a service bulletin in February
+               1992, and by letter February 14, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       11,518 units were distributed from August 1991 to October
+               1992; firm estimated 10,255 units remained on market at time
+               of recall.
+REASON         Inadequate shielding allowing high levels of electromagnetic
+               or radio interference to possibly cause device malfunction.
+
+_______________
+PRODUCT        IPI Respiratory Therapy Fluid Transfer Sets with Luer Tip
+               and Spring Loaded Clamp, Catalog #1122, a sterile
+               prescription device used to transfer respiratory therapy
+               solutions to the desired respiratory device.  
+               Recall #Z-965-4.
+CODE           Lot #D040.
+MANUFACTURER   IPI Medical Products, Chicago, Illinois.
+RECALLED BY    Manufacturer, by telephone March 10, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Illinois, Ohio, North Carolina, Massachusetts, Arizona,
+               Georgia.
+QUANTITY       37 cases were distributed; firm estimated that 7 cases
+               remained on market at time of recall.
+REASON         The clamp on the sets were glued in the open position.
+
+                                    -8-_______________
+PRODUCT        MDE Defibrillator Model 19E and MDE Defibrillator with Pacer
+               Model 20E, options used with the Escort 300 Series full
+               parameter transport monitor.  Both options are low energy DC
+               defibrillators which are able to deliver an electrical shock
+               with a range of 2 to 360 joules of energy.  
+               Recall #Z-968/969-4.
+CODE           Serial numbers 1198 through 1307.
+MANUFACTURER   Medical Data Electronics, Inc., Arleta, California.
+RECALLED BY    Manufacturer, by letter December 2, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide, Canada, Hong Kong, Korea, the Philippines.
+QUANTITY       110 units were distributed.
+REASON         The energy selector switch can be set between the detented
+               increments of the switch causing higher than selected energy
+               to be delivered.
+
+_______________
+PRODUCT        Hot Choice Microwave Oven, Model 122000, used in heating
+               frozen prepared pizza or chicken using convection/microwave
+               energy.  Recall #Z-978-4.
+CODE           Serial numbers:  Undetermined.
+MANUFACTURER   Kaiser Electroprecision, Irvine, California.
+RECALLED BY    Manufacturer.  FDA Approved the firm's corrective action
+               plan June 16, 1994.  Firm-initiated field correction
+               ongoing.
+DISTRIBUTION   California.
+QUANTITY       30 units.
+REASON         Product failed to meet the certification labeling
+               requirements.
+
+_______________
+PRODUCT        First Medic Defibrillators (a) Model 90510 (FM 510); (b)
+               Model 90526 (FM 610).  Recall #Z-979/980-4.
+CODE           Serial numbers:  (a) 510B00312 - 510B00458, 510C00314 -
+               510C01074; (b) 526B01865 - 526B01915, 526C01681 - 526C02426.
+MANUFACTURER   SpaceLabs Medical, Inc., Redmond, Washington.
+RECALLED BY    Manufacturer, by letter April 26, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       (a) 610 units; (b) 483 units were distributed.
+REASON         The material (tin) used for the plating of the isolation
+               module shield is susceptible to metal fiber growth that, if
+               oriented in a certain fashion, can make contact with the
+               connector pins and result in a small electrical short
+               circuit condition for the device.
+
+_______________
+PRODUCT        Mevatron Linear Accelerator and Mevasim Therapy Simulator -
+               Overhead Suspension Hand Control.  Recall #Z-981-4.
+CODE           Overhead Suspension Assembly-A12, Part #94 10 309.  Used in
+               conjunction with all conventional and digital Mevatron
+               Linear Accelerators and Mevasim Therapy Simulators.
+                                    -9-MANUFACTURER   Siemens Medical Systems, Inc., Concord, California.
+RECALLED BY    Manufacturer, by letter October 29, 1994.  Firm-initiated
+               field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       1,141 units.
+REASON         The devices were distributed with a defective weld that can
+               fail and cause the overhead support plate (which weighs 45
+               pounds) to fall.
+
+_______________
+PRODUCT        Mevatron Linear Accelerator Wedge Filter Assembly, used with
+               the Mevatron Therapeutic X-ray Machine.  Recall #Z-982-4.
+CODE           All codes.
+MANUFACTURER   Siemens Medical Systems, Inc., Concord, California.
+RECALLED BY    Manufacturer, by letter October 29, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 4,000 wedges were distributed 1976-1993.
+REASON         The devices were distributed with defective connection
+               screws between the wedge filters and the aluminum trays
+               which could allow the wedge to fall from the mounting tray.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Calibration Gas Mixture, in UD size cylinders, used as a
+               calibration or check standard for anesthesia monitoring. 
+               Recall #Z-942-4.
+CODE           Lot #131403 EXP 5/95.
+MANUFACTURER   Scott Medical Products, Plumsteadville, Pennsylvania.
+RECALLED BY    Manufacturer, by telephone April 22 and 27, 1994.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Texas, Indiana, Iowa, California.
+QUANTITY       5 cylinders were distributed.
+REASON         The product which is 30% oxygen is incorrectly labeled as
+               containing 21% oxygen. 
+
+_______________
+PRODUCT        Cynomologus Monkey Kidney tubes, Catalog #70-177-D, used for
+               the isolation of virus in clinical specimens.  
+               Recall #Z-950-4.
+CODE           Lot #2C0087.
+MANUFACTURER   Whittaker Bioproducts, Inc., Walkersville, Maryland.
+RECALLED BY    Manufacturer, by telephone January 20, 1992.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       125 units were distributed.
+REASON         Product was contaminated with gram positive Bacillus
+               species.
+
+                                   -10-_______________
+PRODUCT        Rhesus Monkey Kidney Tubes with SV5 and SV40 Antiserum cell
+               cultures which is used for isolation of virus in clinical
+               specimens.  Recall #Z-951-4.
+CODE           Catalog #70-103D, Lot #2C0449.
+MANUFACTURER   Whittaker Bioproducts, Inc., Walkersville, Maryland.
+RECALLED BY    Manufacturer, by telephone March 4, 1992.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,474 units were distributed; firm estimates none remains on
+               the market.
+REASON         Product was contaminated with Micrococcus, Bacillus, and
+               Coryneform bacteria.
+
+_______________
+PRODUCT        Skull Mount Kit A-1330, consisting of sterile gloves, PVP
+               solutions, small prep tray, razor, sponge gauze, towels, CSR
+               wraps, needles, zylocaine, syringe, scalpel, drape, tray,
+               skull ring, bone screws, screw driver, drill bit, and hand
+               drill.  Recall #Z-964-4.
+CODE           Sterile lot #22063A, Kit lot #38027893.
+MANUFACTURER   Ohio Medical Instruments, Cincinnati, Ohio.
+RECALLED BY    Manufacturer, by telephone December 8, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Idaho.
+QUANTITY       1 kit was distributed.
+REASON         The product had no sterilization validation.
+
+_______________
+PRODUCT        Human Neonatal Kidney (HNK) Cell Cultures in tubes, 50 per
+               rack, living cell cultures for viral isolation procedures in
+               clinical virology labs.  Recall #Z-973-4.
+CODE           Catalog #70-151-D, Lot #1C3503, 1C3493.
+MANUFACTURER   Whittaker Bioproducts, Inc., Walkersville, Maryland.
+RECALLED BY    Manufacturer, by telephone December 18, 1991.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       3,380 units were distributed; firm estimates none remains on
+               the market.
+REASON         The device was contaminated with yeast.
+
+_______________
+PRODUCT        Human Neonatal Kidney (HNK) Cell Cultures in tubes, 50 per
+               rack, living cell cultures for viral isolation procedures in
+               clinical virology labs.  Recall #Z-974-4.
+CODE           Catalog #70-151-D, Lot #1C3568.
+MANUFACTURER   Whittaker Bioproducts, Inc., Walkersville, Maryland.
+RECALLED BY    Manufacturer, by telephone December 27, 1991.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide.
+
+                                   -11-QUANTITY       1,995 units were distributed; firm estimates none remains on
+               the market.
+REASON         Device was contaminated with bacteria.
+
+_______________
+PRODUCT        SeeQuence 2/Medalist Trial Contact Lenses, Not For Sale,
+               intended for use as trial lenses only, and remain on the
+               premises of the eye care practitioner.  Recall #Z-977-4.
+CODE           Lot #I092336.
+MANUFACTURER   Bausch & Lomb, Inc., Contact Lens Division, Rochester, 
+               New York.
+RECALLED BY    Manufacturer, by letter April 14, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       195 cartons were distributed between 12/20/93 and 3/25/94.
+REASON         While the blister packs are correctly labeled as -4.50
+               diopter, the cartons are mislabeled as -4.75 diopter.
+
+_______________
+UPDATE         The catalog number and lot number for Baxter's Stratus
+               Ultra-Sensitive hTsH Enzyme Immunoassay Kits, 
+               Recall #Z-893-4, should be Catalog No. B5700-44, Kit lots
+               Nos. KXTS-224M through KXTS-252M except for Lots KXTS-229M
+               and KXTS-252M and not catalog B5700, Kit lots KXS-24M
+               through KXTS-322M as erroneously stated in the June 15, 1994
+               Enforcement Report. 
+
+                                   -12-
+
+
+END OF ENFORCEMENT REPORT FOR JUNE 29, 1994.  BLANK PAGES MAY FOLLOW.
+                                   ####

@@ -1,0 +1,400 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  DEC
+		  Mar
+		
+		
+		
+		  
+		  28
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      43 captures
+	      19 Aug 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DO
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+  
+  January 21, 1998                                   98-03
+  
+  RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS II ============
+  
+  PRODUCT      	 Ferrous Fumarate, used for further
+                 manufacture, e.g. chewable children's
+                 multivitamins, pre-natal vitamins, and sports
+                 foods: a) Descote Ferrous Fumarate 60%; 
+               	 b) Destab Ferrous Fumarate 90S.
+                 Recall #F-222/223-8. 
+  CODE           a) PD1312 b) J111-7.
+  MANUFACTURER   a) Particle Dynamics, Inc., St. Louis,
+                 Missouri; b) International Food Processors,
+                 Hayfield, Minnesota.
+  RECALLED BY    Particle Dynamics, Inc., St. Louis, Missouri,
+                 by telephone on June 27, 1997, followed by
+                 letter faxed on July 3, 1997.  Firm-initiated
+                 recall ongoing.
+  DISTRIBUTION   New Jersey, Oklahoma, Maryland, New York,
+                 South Carolina, Michigan, California, Utah,
+                 Pennsylvania, Florida, international; b)
+                 California, New Jersey, Texas, North Carolina.
+  QUANTITY       a) 5,690 kilograms; b) 3,150 kilograms were
+                 distributed.
+  REASON         Product contains excessive levels of lead.
+  
+  RECALLS AND FIELD CORRECTIONS: FOODS  -- CLASS III ==========
+  _______________
+  PRODUCT        Tang San brand Hard Ground Nut Candy, in 8
+                 ounce plastic bags.  Recall #F-185-8.
+  CODE           None.  Any product which does not specifically
+                 list peanut as an ingredient.
+  MANUFACTURER   Tien Yun Corporation, Taiwan (packer).
+  RECALLED BY    Summit Import Corporation, New York, New York,
+                 by letter dated September 25, 1997.  Completed
+                 recall resulted sample analysis and follow-up
+                 by the New York State Department of
+                 Agriculture and Markets.
+  DISTRIBUTION   New York, Illinois, Virginia, Missouri,
+                 Maryland, Florida.
+  QUANTITY       42 cases (50 bags per case) were distributed.
+  REASON         The product's ingredient statement lists only
+                 "nut", but does not specify what nut is in the
+                 product.
+  
+  _______________
+  PRODUCT        Seneca Apple Juice in PET containers, 46 and,  
+                 64 ounce containers.  Recall #F-221-8.
+  CODE           46 oz. containers "HVMP" production date
+                 8/18/97 - 64 oz. containers "H6MP" production
+                 date 8/28/97 - "JJMP" production date 9/08/97.
+  MANUFACTURER   Seneca Foods Corporation, Prosser, Washington.
+  RECALLED BY    Seneca Foods Corporation, Marion, New York, by
+                 letters faxed and mailed on November 24 and
+                 25, 1997.  Firm-initaited recall ongoing.
+  DISTRIBUTION   Washington state, Oregon, Montana, California,
+                 and Costa Rica.
+  QUANTITY       Code H6MV - 6059 cases/8 containers
+                 Code JJMV - 6192 cases/8 containers
+                 Code HVMP - 4833 cases/8 containers
+                             17,084 cases total were
+                 distributed.
+  REASON         The product is unfit for food due to off
+                 flavor.
+  
+  
+  RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS
+  I =============
+  _______________
+  PRODUCT        Glycyrrhizic Acid (extract) Injection, 8 mg,
+                 30mL vials, Rx.   Recall #D-062-8.
+  CODE           All product purchased from April 1, 1996 thru
+                 October 10, 1996.
+  MANUFACTURER   Apothe'Cure, Inc., Dallas, Texas.
+  RECALLED BY    Manufacturer, by letter on November 25, 1996.
+                 Firm-initiated recall ongoing.
+  DISTRIBUTION   Nationwide and Canada.
+  QUANTITY       257 vials were distributed.
+  REASON         Microbial contamination - Mold in 
+                 product-aspergillus versicolor.
+  
+  
+  RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III ==========
+  _______________
+  PRODUCT        Polymyxin B Sulfate, USP, (for Prescription
+                 Compounding), 100 million units per bottle, in
+                 bottles of 10.78 grams.  Recall #D-059-8.
+  CODE           Lot #7D6013.
+  MANUFACTURER   Repacked for Coulter Foods.
+  RECALLED BY    Paddock Laboratories, Inc., Minneapolis,
+                 Minnesota, by telephone on December 11 and 12,
+                 1997, followed by letter sent on December 12,
+                 1997.  Firm-initiated recall ongoing.
+  DISTRIBUTION   Alabama, California, Florida, Maryland,
+                 Michigan, Minnesota, New York, Texas.
+  QUANTITY       25 bottles were distributed.
+  REASON         Mislabeling - Product potency labeled as 9282
+                 polymyxin B units/mg, but actually contains
+                 7891 units/mg.
+  
+  
+  RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II =======
+  _______________
+  PRODUCT        Red Blood Cells.  Recall #B-442-8.
+  CODE           Unit #21GJ84638.
+  MANUFACTURER   American Red Cross, Portland, Oregon.
+  RECALLED BY    Manufacturer, by letter dated October 30,
+                 1997.  Firm-initiated recall complete.
+  DISTRIBUTION   Washington state.
+  QUANTITY       1 unit was distributed.
+  REASON         Blood product was collected from a donor who
+                 traveled to a malarial endemic area. 
+  
+  _______________
+  PRODUCT        Red Blood Cells.  Recall #B-447-8.
+  CODE           Unit #W48088.
+  MANUFACTURER   Vector Healthsystems, Inc., Providence, Rhode
+                 Island.
+  RECALLED BY    Manufacturer, by letter dated April 10, 1997. 
+                 Firm-initiated recall complete.
+  DISTRIBUTION   Rhode Island.
+  QUANTITY       1 unit was distributed.
+  REASON         Blood product was collected from a donor who
+                 reported travel to an area designated as
+                 endemic for malaria.
+  
+  
+  RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS III =======
+  _______________
+  PRODUCT      a) Red Blood Cells; b)Platelets.
+               Recall #B-443/444-8.
+  CODE         Unit #KE71065.
+  MANUFACTURER Virginia Blood Services, Richmond, Virginia.
+  RECALLED BY  Manufacturer, by letter dated October 27,
+               1997.  Firm-initiated recall complete.
+  DISTRIBUTION Virginia.
+  QUANTITY     1 unit of each component was distributed.
+  REASON       Blood products were collected from a donor
+               whose hemoglobin/hematocrit was not
+               determined.
+  
+  
+  RECALLS AND FIELD CORRECTIONS:  DEVICES --
+  CLASS II =========
+  _______________
+  PRODUCT      Tomoscan AV-#1 CT Scanner, used in CT
+               Radiography.  Recall #Z-238-8.
+  CODE         None.
+  MANUFACTURER Phillips Medical Systems, Shelton,
+               Connecticut.
+  RECALLED BY  Manufacturer.  FDA approved the firm's
+               corrective action plan on January 9, 1998. 
+               Firm-initiated field correction ongoing.
+  DISTRIBUTION Nationwide.
+  QUANTITY     21 units were distributed.
+  REASON       The units are defective under 21 CFR 1003.2 in
+               that they do not interrupt the exposure when
+               the tabletop movement stops during a volume
+               scan mode.
+  
+  _______________
+  PRODUCT      Model No. A3 Beam Limiting Device (BLD) for
+               the Versaview Model A3 Dental System, used in
+               dental radiography.  Recall #Z-246-8.
+  CODE         None.
+  MANUFACTURER J. Morita Corporation, Tustin, California.
+  RECALLED BY  Manufacturer.  FDA approved the firm's
+               corrective action plan January 9, 1998.  
+               Firm-initiated field correction ongoing.
+  DISTRIBUTION Nationwide.
+  QUANTITY     22 units were distributed.
+  REASON       The units are defective under 21 CFR 1010.3
+               and 1020.30(e) in that they do not proper
+               certification and identification labels on the
+               beam limiting device.
+  
+  _______________
+  PRODUCT      General Radiographic Film:
+               a) Kodak INSIGHT Thoracic Imaging Film, 35 x
+               43 cm, Cat. #828 8201, emulsion #s 431 and 432
+               b) Kodak INSIGHT VHS Thoracic Imaging Film, 
+               35 x 35 cm, Cat. #832 3669, emulsion # 066;
+               35 x 43 cm, Cat. #173 1165, emulsion #066.
+               Recall #Z-276/277-8.
+  CODE         emulsion #066, exp. 6/99
+               emulsion #431, exp. 6/99
+               emulsion #432, exp. 8/99.
+  MANUFACTURER Eastman Kodak Company, Windsor, Colorado.
+  RECALLED BY  Eastman Kodak Company, Health Sciences
+               Division, Rochester, New York, by letters
+               dated November 26, 1997, and December 2, 1997. 
+               Firm-initiated recall ongoing.
+  DISTRIBUTION Nationwide.
+  QUANTITY     5,923 packs were distributed.
+  REASON       The product was finished incorrectly,
+               resulting in a orientation error during
+               exposure.
+  
+  
+  RECALLS AND FIELD CORRECTIONS: DEVICES -- CLASS III =========
+  _______________
+  PRODUCT      CDC Anaerobe Laked Sheep Blood Agar with
+               Kanamycin and Vancomycin, for in-vitro
+               diagnostic use.  Recall #Z-280-8.
+  CODE         Catalog No. 4321846, Lot Nos. G2RPHK, G3RPKT, 
+               G4RPOF, H1RPSK, H2RPWL, H3RPZZ, H4RRCI, and
+               H5RRHJ.
+  MANUFACTURER Becton Dickinson Microbiology Systems,
+               Cockeysville, Maryland.
+  RECALLED BY  Becton Dickinson Microbiology Systems, Sparks,
+               Maryland, by letter faxed in August 1996. 
+               Firm-initiated recall complete.
+  DISTRIBUTION Nationwide.
+  QUANTITY     106,440 units were distributed.
+  REASON       Product is contaminated with Cryptococcus
+               albicus. 
+  
+  _______________
+  PRODUCT      CDC Anaerobe 5% Sheep Blood Agar with
+               Phenylethyl Alcohol, for in-vitro diagnostic
+               use.  Recall #Z-281-8.
+  CODE         Catalog #4321739, Lot #I1RAIA.
+  MANUFACTURER Becton Dickinson Microbiology Systems,
+               Cockeysville, Maryland.
+  RECALLED BY  Becton Dickinson Microbiology Systems, Sparks,
+               Maryland, by telephone and letter faxed on
+               September 23, 1997.  Firm-initiated recall
+               ongoing.
+  DISTRIBUTION Nationwide and Canada.
+  QUANTITY     8,000 units were distributed; firm estimated
+               that 2,276 units remained on market at time of
+               recall initiation, however, the product is now
+               expired.
+  REASON       Product is contaminated with Enterococcus
+               faecium.
+  
+  _______________
+  PRODUCT      Trypticase Soy Agar with 5% sheep Blood (TSA
+               II), for in-vitro diagnostic use.
+               Recall #Z-282-8.
+  CODE         Catalog No. 4321261, Lot No. I4RAIS.
+  MANUFACTURER Becton Dickinson Microbiology Systems,
+               Cockeysville, Maryland.
+  RECALLED BY  Manufacturer, by letter faxed on September 23,
+               1997.  Firm-initiated recall ongoing.
+  DISTRIBUTION Nationwide.
+  QUANTITY     11,590 units were distributed.  Firm estimated
+               that 48,768 units remained on market at time
+               of recall initiation, however, the product is
+               now expired.
+  REASON       Product is contaminated.
+  
+  
+  RECALLS AND FIELD CORRECTIONS: VETERINARY PRODUCTS -- CLASS I =================
+  _______________
+  PRODUCT      Large Volume Parenterals:
+               Hypertonic Saline Solution 7.2% 
+               Electrolyte Solution with Dextrose Injection 
+               Calcium Gluconate 23% 
+               Dextrose Sol 50% 
+               Calcium Gluconate Injection 23% 
+               Caldex CMPK Injection 
+               Lactated Ringer Solution Injection 
+               Sterile Water for Injection 
+               Vitamin A & D Injection 
+               Vitamin B, D & B12 Injection 
+               Vitamin B Complex Injection 
+               Vitamin B Complex Fortified Injection.
+               Recall #V-006-8 and V-010/020-8.
+  CODE         All lots.
+  MANUFACTURER Sierra Pharmaceuticals, Inc., Mexicali,
+               Mexico.
+  RECALLED BY  Veterinary Pharmaceuticals, Inc., Hanford,
+               California, by press release dated January 16,
+               1998.  FDA-requested recall ongoing.  See also
+               FDA press release 98-02, dated January 16,
+               1998.
+  DISTRIBUTION California, Missouri.
+  QUANTITY     Undetermined.
+  REASON       Products contaminated with Bacillus 
+               cereus - labeling for these products falsely 
+	       states they are sterile; common equipment 
+               manufacturing practices and controls were    
+               used; there is no assurance of sterility and 
+               the products are adulterated.
+  
+  
+  END OF ENFORCEMENT REPORT FOR JANUARY 21, 1997.  BLANK PAGES MAY FOLLOW.
+
+                                       ####
+
+
+  
+ End of Enforcement Report for

@@ -1,0 +1,723 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      27 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+02/24/1993
+
+Recalls and Field Corrections:  Foods -- Class I -- 02/24/1993
+
+
+FEBRUARY 24, 1993                                                     93-8
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+
+PRODUCT        (a) Lotta Hotta Espinaca Dip, hot pepper cheese/spinach dip, in
+               17 ounce glass jar; (b) Chile Con Queso, 17 ounce glass jars.
+               Recall #F-222/223-3.
+CODE           None.
+MANUFACTURER   Nina, Ltd., Trenton, Missouri.
+RECALLED BY    Lotta Hotta, Inc., Overland Park, Kansas, by visit (a) December
+               22, 1992; (b) January 7, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Kansas, Missouri.
+QUANTITY       (a) 814 units were distributed; (b) Approximately 1,900 units
+               were distributed.
+REASON         Product has the potential to support the outgrowth of
+               Clostridium botulinum toxin.
+
+
+PRODUCT        Fisher/Rex Fresh and Fast Chicken Cor Don Bleu Sandwich, 5.7
+               ounces.  Recall #F-224-3.
+CODE           33692 and 32292.
+MANUFACTURER   Fisher's Bakery and Sandwich Company, Raleigh, North Carolina.
+RECALLED BY    Manufacturer, by visit December 7 & 15, 1992.  Firm-initiated
+               recall ongoing.  State of North Carolina issued press releases
+               on December 10 & 15, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   North Carolina, South Carolina, Virginia.
+QUANTITY       Approximately 400 sandwiches were distributed.
+REASON         Product was found to be contaminated with Listeria
+               monocytogenes by the North Carolina Department of Agriculture.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+
+PRODUCT        Oridol-DM Liquid, Rx liquid oral
+               antitussive/mucolytic-expectorant, 10 mg, packaged in 16 ounce
+               brown plastic bottles with white plastic caps, under the
+               following labels:  LuChem, Qualitest, and Major.
+               Recall #D-138-3.
+CODE           Lot 6292 EXP 9 94.
+MANUFACTURER   H.N. Norton & Company (formerly LuChem Pharmaceuticals, Inc.),
+               Shreveport, Louisiana.
+RECALLED BY    Manufacturer, by letter on or about December 28, 1992.
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       2,794 units under the LuChem label, 10,000 units under the
+               Qualitest label, and 744 units under the Major label were
+               distributed.
+REASON         One or more bottles of Oridol-C was mislabeled as Oridol-D.M.
+
+
+PRODUCT        Redi-Script Cephalexin Capsules USP, a Rx antibiotic, in
+               bottles labeled to contain 100 500-mg capsules.
+               Recall #D-139-3.
+CODE           Labels do not bear a lot number or expiration date.
+MANUFACTURER   Prepackage Specialists, Division of PDRx Pharmaceuticals, Inc.,
+               Oklahoma City, Oklahoma (repacker/own label distributor).
+RECALLED BY    Repacker, by telephone February 1, 1993, followed by letter
+               dated February 2, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   New Jersey, California, Illinois.
+QUANTITY       9,504 bottles were distributed; firm estimates that little, if
+               any, of the lot remains on the market.
+REASON         Some bottles labeled as 500 mg strength contain 250 mg capsules.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+
+PRODUCT        Cotatate DH Syrup, under the Major label, a liquid oral
+               antitussive/expectorant Rx drug consisting of hydrocodone
+               Bitartrate, 5 mg, and Guaifenesin, 100 mg, packaged in 16 ounce
+               brown plastic bottles.  Recall #D-137-3.
+CODE           Lot #5871 EXP 3/94.
+MANUFACTURER   H.N. Norton & Company (formerly LuChem Pharmaceuticals, Inc.),
+               Shreveport, Louisiana.
+RECALLED BY    Manufacturer, by letter on or about December 28, 1992.
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       3,428 units were distributed.
+REASON         Product does not meet stability specifications.
+
+
+PRODUCT        Rx drugs for injection in partial additive plastic I.V. bag,
+               called PAB bag:
+               (a) 5% Dextrose USP, 100 ml, 50 ml, and 25 ml;
+               (b) 0.9% Sodium Chloride USP, 100 ml, 50 ml;
+               (c) 0.4% Theophylline and 5% Dextrose, 100 ml, 50 ml;
+               (d) Metronidazole USP, 100 ml.  Recall #D-140/143-3.
+
+                                      -2-
+
+CODE           Lot numbers:  (a) J2N931, J2N932, J2N938, J2N941, J2N942 (100
+               ml); J2N924, J2N925, J2N926, N2N927, J2N936, J2N937 (50 ml);
+               J2N923 (25 ml);
+               (b) J2N929, J2N930, J2N934, J2N935, J2N943 (100 ml); J2N939,
+               J2N951 (50 ml);
+               (c) J2N933 (100 ml); J2N928 (50 ml); (d) J2N944.
+MANUFACTURER   McGaw, Inc., Irvine, California.
+RECALLED BY    Manufacturer, by letter December 21, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide, Canada.
+QUANTITY       (a) 239,552 units (100 ml), 71,568 units (50 ml), 19,952 units
+               (25 ml); (b) 316,736 units (100 ml), 341,040 units (50 ml); (c)
+               5,424 units (100 ml), 2,184 units (50 ml); (d) 74,616 units
+               were distributed.
+REASON         Some units may contain rubber particulate matter.
+
+
+PRODUCT        Chem-Tuss Elixir, a liquid antihistaminic, nasal
+               vasoconstrictor Rx drug, packaged in 16 ounce brown plastic
+               bottles.  Recall #D-144-3.
+CODE           Lot #5915 EXP 4/95.
+MANUFACTURER   H.N. Norton & Company (formerly LuChem Pharmaceuticals, Inc.),
+               Shreveport, Louisiana.
+RECALLED BY    Manufacturer, by letter on or about November 3, 1992.
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       104 units were distributed.
+REASON         Product contains excess FD&C; Blue #1 color.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+
+PRODUCT        Kendall Curity Disposable Non-Sterile, Latex Exam Gloves, large
+               ambidextrous, a disposable device intended for a variety of
+               uses in hospitals and other health areas.  Recall #Z-712-2.
+CODE           Reorder No. 1810, Lot Nos. 03JAN92, 00001 thru 00085, 04JAN92,
+               00086 thru 00241, 06JAN92, 00361 thru 00368.
+MANUFACTURER   Lovytex BDN BHD, Panglima Garang, Malaysia.
+RECALLED BY    Kendall Healthcare Products Company, Mansfield, Massachusetts,
+               by letter on or about May 21 & 22, 1992, and January 25, 1993.
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+REASON         Cartons had visible mold contamination and culture tests were
+               positive for mold and aerobic bacteria.
+
+
+PRODUCT        Porter:  MXR Flowmeter/Nitrous Oxide - Oxygen Flowmeter used
+               for nitrous sedation during dental procedures:
+               MXR Model numbers:  (a) 2000; (b) 2000-OS; (c) 2050; (d) 2055;
+               (e) 2056; (f) 2060.  Recall #Z-823/828-2.
+CODE           Serial numbers:  (a) 62,602 through 68,040; (b) 58,826 through
+               58,951; (c) 179 through 659; (d) 158 through 769; (e) 004; (f)
+               146 through 868.
+MANUFACTURER   Porter Instrument Company, Inc., Hatfield, Pennsylvania.
+RECALLED BY    Manufacturer, by mailing new instruction manual to include all
+               present owners of MXR-2000 units.  Firm-initiated field
+               correction ongoing.
+                                      -3-
+
+DISTRIBUTION   Nationwide, Canada, Denmark.
+QUANTITY       Approximately 6,500 units were distributed between 1/86 and
+               3/13/90.
+REASON         Malfunctions may allow for 100% nitrous oxide with 0% 0xygen
+               flow.
+
+
+PRODUCT        Safedge Oscillating Blade (17.0 mm Cut Edge), Part #1117, a
+               cutting accessory for orthopedic bone saw.  Recall #Z-162-3.
+CODE           Lot #91120501.
+MANUFACTURER   Stryker Corporation, Instruments Division, Kalamazoo, Michigan.
+RECALLED BY    Manufacturer, by letter September 28, 1992.  Firm-initiated
+               recall complete.
+Distribution   Florida, Michigan, Tennessee, Texas, Vermont, Virginia,
+               California, Turkey.
+QUANTITY       12 units were distributed.
+REASON         Wrong product, Part #1100, Section Blade, may be found in
+               package, instead of Part #1117, Safedge Oscillating Blade.
+
+
+PRODUCT        (a) White Irrigating Sleeve, single-use, for cataract surgery,
+               Catalog #OPO-WS;
+               (b) Collared Phaco I/A Tubing Set, Catalog #OPO-30WC.  The
+               Sleeve is contained in the AMO OPO-30WC Collared Phaco I/A
+               Tubing Set with white irrigation set and is also sold
+               separately as OPO-WS White Irrigation Sleeve.
+               Recall #Z-265/266-3.
+CODE           All lots.
+MANUFACTURER   Allergan Medical Optics (AMO), Irvine, California.
+RECALLED BY    Manufacturer, by telephone November 24, 1992, followed by
+               letter December 1, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Argentina, South Africa, Japan, Canada, Hong Kong,
+               Spain.
+QUANTITY       Approximately 28,800 units were distributed.
+REASON         Sleeve may tear or become deformed due to heat being generated
+               during use.
+
+
+PRODUCT        Therac Model 20 (T20) Cobalt 60 Linear Accelerator Radiation
+               Therapy Devices, used to treat cancer patients.
+               Recall #Z-267-3.
+CODE           Serial numbers:  031, 041, 043, 046, 058, 064, 065, 067, 073,
+               077, 412, 512, 612, 711, 813.
+MANUFACTURER   Theratronics International, Ltd., Carrollton, Texas.
+RECALLED BY    Theratronics International, Ltd., (formerly Atomic Energy  of
+               Canada Ltd.), Kanata, Ontario, Canada, by User Bulletin AUB
+               92-05 US dated December 3, 1992.  Firm-initiated field
+               correction ongoing.
+DISTRIBUTION   Alaska, Alabama, California, Florida, Illinois, Kansas,
+               Kentucky, Michigan, New York, Pennsylvania, Texas.
+QUANTITY       15 units were distributed.
+REASON         Improper dose distribution may occur in electron mode if hand
+               control pushbuttons are operated quickly in a particular
+               sequence.
+
+                                      -4-
+
+
+PRODUCT        Therac Model 6(T6) Cobalt 60 Linear Accelerator, radiation
+               therapy devices used to treat cancer patients.  Recall #Z-268-3.
+CODE           Serial numbers:  010, 015, 018, 020, 021, 024, 025, 027, 030,
+               031, 035, 036, 037, 038, 039, 563.
+MANUFACTURER   Theratronics International, Ltd., Carrollton, Texas.
+RECALLED BY    Theratronics International, Ltd., (formerly Atomic Energy of
+               Canada, Ltd.) Kanata, Ontario, Canada, by User Bulletin AUB
+               92-04 US dated December 3, 1992.  Firm-initiated field
+               correction ongoing.
+DISTRIBUTION   Alabama, California, Illinois, Kentucky, Oklahoma, Minnesota,
+               Michigan, Montana, New Jersey, New York, Pennsylvania, Texas,
+               Tennessee.
+QUANTITY       14 units were distributed.
+REASON         Unwanted gentry motion may occur with the treatment room door
+               closed.
+
+
+PRODUCT        Eldorado, Theratron, and Phoenix Model Cobalt 60 Radiation
+               Therapy Devices:
+               (a) Eldorado 76 (E76); (b) Eldorado 78 (E78); (c) Theratron 765
+               (T765); (d) Theratron 780 (T780); (e) Theratron 780C (T780C);
+               (f) Theratron 1000 (T000); (g) Phoenix.  Recall #Z-269/275-3.
+CODE           Serial numbers:  (a) 003 and 005; (b) 002, 003, 008, 010, 013,
+               027, 028. 050, 051, 058, 061, 063, 064, 902, 903; (c) 007 and
+               008; (d) 003, 004, 005, 007, 008, 010, 011, 016, 017, 019, 021,
+               024, 026, 027, 028, 033, 037, 040, 042, 049, 051, 052, 055,
+               056, 057, 058, 059, 060, 064, 067, 068, 073, 074, 075, 082,
+               083, 086, 089, 097, 101, 113, 114, 116, 121, 127, 128, 129,
+               133, 136, 137, 143, 149, 150, 151, 160, 161, 177, 178, 179,
+               182, 210, 215, 221, 226, 230, 232, 233, 234, 235, 236, 241,
+               249, 251, 252, 253, 262, 266, 275, 278, 280, 284, 288, 293,
+               296, 298, 299, 302, 306, 307, 308, 311, 314, 315, 318, 322,
+               323, 326, 333, 334, 335, 336, 341, 343, 351, 359, 360, 366,
+               367, 369, 381, 386, 388, 395, 398, 399, 401, 402, 415, 417,
+               426, 428, 431, 433, R20, and one unit with serial number
+               unknown; (d) 002, 009, 014, 016, 020, 022, 024, 030, 032, 035,
+               036, 038, 043, 058 R/V, 072, 073, 078, 082, 103; (e) 001, 004,
+               005, 007, 008, 010, 011, 012; (f) 001, 003, 005, 008, 010, 012,
+               014, 017, 018, 020, 023, 032, 036.
+MANUFACTURER   Theratronics International, Ltd., Carrollton, Texas.
+RECALLED BY    Theratronics International, Ltd. (formerly Atomic Energy of
+               Canada, Ltd), Kanata, Ontario, Canada, by User Bulletin
+               CUB-92-13 US dated December 3, 1992.  Firm-initiated field
+               correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       187 units.
+REASON         Potential problems involving control system pneumatics, mode
+               push button, electrons, emergency stop switch, hand control
+               cable, hand control support, and dual timer on these devices
+               can affect treatment timing and gentry operation.
+
+                                      -5-
+
+PRODUCT        Ultraviolet (UV) Lamps.  Recall #Z-281-3.
+CODE           Serial numbers:  Unknown.
+MANUFACTURER   Quality Lamp, Inc., Canton, Ohio.
+RECALLED BY    Manufacturer.  FDA approved the firm's corrective action plan
+               October 19, 1992.  Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       7,721 units were distributed.
+REASON         Noncompliance with performance standards for light emitting
+               products since the lamps are relabeled and are unreported to
+               CDRH, and since they were manufactured in an unregistered
+               medical establishment without a quality control testing and
+               certification program in effect, they remain adulterated and
+               misbranded.
+
+
+PRODUCT        Bud Ultraviolet Device, intended for surface cleaning and
+               surface energizing of endosseous implants.  Recall #Z-282-3.
+CODE           All serial numbers.
+MANUFACTURER   BUD Industries, Inc., East Aurora, New York.
+RECALLED BY    Manufacturer, by telephone and letter January 6, 1993.
+               Firm-initiated field correction complete.
+DISTRIBUTON    New York.
+QUANTITY       5 units were distributed.  All units has been returned as of
+               1/26/93.
+REASON         Product was distributed without an approved 510(k), PMA or IDE.
+
+
+PRODUCT        Allergan Mini Contact Lens.  Recall #Z-290-3.
+CODE           TC010.
+MANUFACTURER   Allergan Hydron, Farnborough, Hampshire, United Kingdom.
+RECALLED BY    Allergan Pharmaceuticals, Irvine, California, by telephone
+               December 23-24, 1992, followed by letter December 24, 1992.
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       10 units were distributed.
+REASON         Product may be contaminated with Pseudomonas cepacia.
+
+
+PRODUCT        Burkhart Roentgen brand Ceiling-Mounted Support Column, which
+               can hold two maneuverable arms capable of holding a surgical
+               light, an x-ray shield or CT injector.  Recall #Z-292-3.
+CODE           Catalog #C-100.
+MANUFACTURER   Burkhart Roentgen, Inc., Pinellas Park, Florida.
+RECALLED BY    Manufacturer, by visit January 1993.  Firm-initiated field
+               correction ongoing.
+DISTRIBUTION   Pennsylvania, Tennessee, Texas, Florida, Illinois, Minnesota,
+               Missouri.
+QUANTITY       27 units were distributed.
+REASON         The support column may fail causing the arm to fall.
+
+
+PRODUCT        HyperFormer Pump Dispensing Set, Catalog #V9900-01, used to
+               prepare total parenteral nutrition solutions in hospital
+
+                                      -6-
+
+               pharmacies.  Recall #Z-293-3.
+CODE           All lots beginning with F1 or F2 except Lots beginning with F2P
+               or F2S, F2N499, F2N672, F2N673.
+MANUFACTURER   McGaw of Puerto Rico, Inc., Sabana Grande, Puerto Rico.
+RECALLED BY    McGaw, Inc., Irvine, California, by letter November 6, 1992.
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and Puerto Rico.
+QUANTITY       Approximately 32,720 units were distributed; firm estimates
+               2,000 units remain on the market.
+REASON         Some tubing sets are improperly color-coded, which can result
+               in incorrect compounding of solution.
+
+
+PRODUCT        Endopath Disposable Surgical Trocar, used to establish a path
+               of entry for endoscopic instruments during gynecologic
+               laparoscopy and other abdominal procedures:
+               (a) Model LR005; (b) Model R1011; (c) Model B1011.
+               Recall #Z-294/296-3.
+CODE           Lot numbers:  (a) DG3347, DG3348, DG3349, DG3350, DG3351,
+               DG3352, DG3368, DG10K1, DG15K1, DG16K1;
+               (b) DG3358, DG3359, DG3360, DG3361, DG33369, DG3370, DG3371,
+               DG3372, DG3383, DG3384, DG3390, DG3393, DG3444, DG3445, DG16KE,
+               DG18KE, DG24KE, DG25KE, DG29KE;
+               (c) DG3434, DG3435, DG3436, DG3437, DG3438.
+MANUFACTURER   Ethicon, Inc., Juarez, Mexico.
+RECALLED BY    Ethicon, Inc., Cincinnati, Ohio, by Fax July 25, 1992, and
+               August 5, 1992 to international distributors and by verbal
+               instructions to domestic sales representatives on July 27,
+               1992, followed by letter dates July 27, 1992.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       78,428 units were distributed.
+REASON         The devices were leaking air due to excessive sealant which
+               interferes with the closure on the flapper valve on the sleeve
+               component.
+
+
+PRODUCT        (a) Tracheal Tubes with Flexibend Adapters, Catalog #5-10817,
+               8.5 mm, Catalog #5-10818, 9 mm, and Catalog #5-10820, 10 mm,
+               and Catalog #5-19112, 6 mm size, sterile devices  sold in units
+               of 10;
+               (b) Flexibend Adapters, Catalog #5-14018, 9 mm, and Catalog
+               #5-14020, 10 mm size, non-sterile, sold in bulk, in units of
+               100.  The adapter is an interim connection between the tracheal
+               tube and the 15 mm adapter that hooks to the respirator
+               circuit.  Recall #Z-336/337-3.
+CODE           Catalog #      Lot #
+               (a) 5-10818    008221
+               5-10817        009038
+               5-10820        005491, 007503, 009041, 9109G003749
+               5-191112       559421
+               (b) 5-14018    009341
+               5-14020        006138.
+MANUFACTURER   Sheridan Catheter Corporation, Argyle, New York.
+
+                                      -7-
+
+RECALLED BY    Manufacturer, by letter September 14, 1992.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   (a) Louisiana, Virginia, Pennsylvania, Oklahoma, Hawaii,
+               Finland, Japan, Brazil, Italy, Holland, Australia;
+               (b) United Kingdom and Norway.
+QUANTITY       (a) 4,120 units; (b) 400 units were distributed.
+REASON         Devices may crack which may cause them to be non-functional.
+
+
+PRODUCT        ECAT Scanner, positron emission tomography system, model #953.
+               Recall #Z-306-3.
+CODE           Serial numbers:  3600035-03 0001001 and 9011EA01AJ.
+MANUFACTURER   CTI Pet Systems, Knoxville, Tennessee.
+RECALLED BY    Siemens Gammasonics, Knoxville, Tennessee, by undated Field
+               Modification Instruction No. 19.  Firm-initiated field
+               correction ongoing.
+DISTRIBUTION   Germany.
+QUANTITY       2 units were distributed.
+REASON         A problem in the software on the sorter printed circuit board
+               could cause the sorter to cease functioning.
+
+
+PRODUCT        ECAT Scanner, positron emission tomography system, Model #951.
+               Recall #Z-307-3.
+CODE           Serial numbers:  9011DB01CW, 9012DB03CW.
+MANUFACTURER   CTI PET Systems, Knoxville, Tennessee.
+RECALLED BY    Siemens Gammasonics, Knoxville, Tennessee, by field
+               modification instruction #17, dated August 20, 1991.
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   Illinois, Arizona.
+QUANTITY       2 units were distributed.
+REASON         The ring source functions to normalize the device prior to
+               scanning a patient.  In some cases the ring source does not
+               extend as designed and, in such cases, the devices will lock-up
+               and cannot be used.
+
+
+PRODUCT        High pressure extension tubes, used to connect the angiographic
+               injector syringe to a catheter which is inserted into the
+               patient's vascular system:
+               (a) 10" tube with fixed adapter;
+               (b) 10" tube with rotating adapter;
+               (c) 20" tube with rotating adapter;
+               (d) 30" tube with rotating adapter;
+               (e) 30" tube with rotating adapter.  Recall #Z-309/313-3.
+CODE           Lot numbers:  (a) 022691; (b) 060591; (c) 090992;
+               (d) 021092; (e) 063592.
+MANUFACTURER   Critical Specialties, Inc., West Chester, Pennsylvania.
+RECALLED BY    Liebel-Flarsheim Company, Cincinnati, Ohio, by letter November
+               10 & 16, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       (a) 375 units; (b) 25 units; (c) 575 units; (d) 1,000 units;
+               (e) 850 units were distributed.
+REASON         The 10" and 30" tubes have a defect in the seal between the
+
+                                      -8-
+
+               luer lock end fitting and the tube which could lead to leakage
+               or air entering the tubing system.  Also the 20" tubes have a
+               defective roter adapter at the male luer which could cause the
+               tubes to separate from the catheter during an injection.
+
+
+UPDATES        Recall #Z-172-3, Wavicide-01, which appeared in the January 6,
+               1993 Enforcement Report should read:
+               CODE:  All lots distributed before 8-12-92.
+
+               Recall #Z-119/120-3, Technomed USA, Bay Shore, New York,
+               TEC1410 Anatomical Programming Generator which appeared in the
+               January 20, 1993, Enforcement Report has been withdrawn because
+               it was determined that the products were never distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+
+PRODUCT        ECAT Scanner, positron emission tomography system, Model Nos.
+               713, 831, 931, 933, 951, 951R, 953, and 953B.  Not all units of
+               these model numbers are subject to recall.
+               (a) ECAT Scanner, Model No. 713;
+               (b) ECAT Scanner, Model No. 831;
+               (c) ECAT Scanner, Model No. 931;
+               (d) ECAT Scanner, Model No. 951;
+               (e) ECAT Scanner, Model No. 951R;
+               (f) ECAT Scanner, Model No. 953;
+               (g) ECAT Scanner, Model No. 953B;
+               (h) ECAT Scanner, Model No. 933.  Recall #Z-298/305-3.
+CODES          (a) Serial No. 9008GG01CW.
+               (b) Serial No. 8711AD02CW.
+               (c) Serial Nos. 8702AD01AF, 8708AD01CW, 8711AD01CW, 8801AD01CW,
+               8802AD01CW, 8802AD02CW, 8804AA01A0, 8807AD02AB, 8811AD01CW,
+               8906AD01CW, & 8908AE01CW.
+               (d) Serial Nos. 8807BD01AB & 8904BE01CW.
+               (e) Serial Nos. 3600026-00 0001001, 3600031-00 0001001,
+               3600036-01 0001001*, 8911DB01AJ, 9011DB01CW, 9012DB01AR,
+               9102DB01CW, & 9102DB03CW.
+               (f) Serial Nos. 3600036-00 0001001, 3600036-01 0001001*,
+               3600036-01 0001003, 3600036-01 0001004, 3600036-01 0001005 &
+               9106DB01CW.
+               (g) Serial Nos. 3600034-00 0001001, 3600034-01 0001001,
+               3600035-03 0001001, 3600036-01 0001002, 8912EA01AJ, 8912EB02CD
+               & 9011EA01AJ.
+               (h) Serial Nos. 3600039-00 0001001, 3600041-00 0001001,
+               8912EC01AF & 9006EC01A1.
+               * Through an error at the manufacturer, two different models
+               were assigned identical serial numbers.
+MANUFACTURER   CTI PET Systems, Knoxville, Tennessee.
+RECALLED BY    Siemens Gammasonics, Inc., Knoxville, Tennessee, by field
+               modification instruction #25, dated April 30, 1992.
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   Arizona, California, Illinois, Michigan, Minnesota, Missouri,
+
+                                      -9-
+
+               Nebraska, New York, North Carolina, Tennessee, Australia,
+               Belgium, Canada, England, Germany, France, The Netherlands,
+               Italy.
+QUANTITY       40 units were distributed.
+REASON         Bed failed to return to zero position.  Also the computer
+               failed to clear previous bed settings when emergency stop
+               button was depressed.
+
+
+PRODUCT        DuPont ACA(R) Digoxin Antibody Conjugate Reagent (DGN-ABC
+               Reagent), an accessory of the DuPont ACA(R) Discrete clinical
+               analyzer system, used to treat a patient specimen of blood
+               serum in preparation for the measurement of its digoxin
+               concentration.  Recall #Z-288-3.
+CODE           Lot numbers:  18BD694 EXP 11/1/91, 1DD635 EXP 1/1/92.
+MANUFACTURER   E.I. DuPont De Nemours & Company, Wilmington, Delaware.
+RECALLED BY    Manufacturer, by letter August 16, 1991.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       10,851 kits of lot 1BD694 and 3,549 kits of lot 1DD635 were
+               distributed; firm estimates none remains on the market.
+REASON         Inaccurate Digoxin (DGN) concentration levels and the device's
+               inability to calibrate the ACA(R)  Discrete Clinical Analyzer
+               for the DGN Test Method at the 0.4 mg/ml level due to low
+               recovery of the 0.4 mg/ml calibrator.
+
+MEDICAL DEVICE SAFETY ALERTS:  (NOTE:  M changed to N number)
+
+PRODUCTS       (a) Theraplan Treatment Planning Systems with Software Versions
+               V05 and V04B-C;
+               (b) TP-11 Treatment Planning Systems with, Software Versions
+               V09 and V08B-C, computerized workstations used to calculate and
+               determine appropriate radiation treatment programs for doctors
+               to administer to cancer patients.  Safety Alert #N-023/024-3.
+CODES          Theraplan Treatment Planning System - 190 units
+               Serial Numbers TH-01, TH-07, TH-09, TH-23, TH-24, TH-35, TH-37,
+               TH-49, TH-53, TH-56, TH-64, THL-201, THL-203, THL-204, THL-209,
+               THL-216, THL-217, THL-218, THL-219, THL-227, THL-228, THL-229,
+               THL-230, THL-233, THL-234, THL-235, THL-238, THL-244, THL-245,
+               THL-254, THL-258, THL-259, THL-262, THL-264, THL-266, THL-269,
+               THL-272, THL-276, THL-277, THL-278, THL-279, THL-284, THL-286,
+               THL-287, THL-290, THL-291, THL-300, THL-301, THL-302, THL-304,
+               THL-305, THL-306, THL-307, THL-310, THL-311 THL-314, THL-318,
+               THL-319, THL-320, THL-321, THL-322, THL-323, THL-324, THL-325,
+               THL-328, THL-330, THL-332, THL-333, THL-334, THL-335, THL-337,
+               THL-340, THL-341, THL-342, THL-343, THL-345, THL-346, THL-347,
+               THL-348, THL-349, THL-351, THL-353, THL-358, THL-360, THL-361,
+               THL-365, THL-366, THL-368, THL-370, THL-373, THL-374, THL-375,
+               THL-377, THL-379, THL-383, THL-384, THL-385, THL-386, THL-387,
+               THL-390, THL-391, THL-392, THL-393, THL-394, THL-395, THL-396,
+               THL-397, THL-398, THL-399, THL-400, THL-401, THL-402, THL-403,
+               THL-404, THL-405, THL-406, THL-407, THL-408, THL-411, THL-413,
+               THL-414, THL-415, THL-416, THL-417, THL-420, THL-422, THL-425,
+
+                                      -10-
+
+               THL-426, THL-427, THL-428, THL-429, THL-430, THL-431, THL-433,
+               THL-434, THL-435, THL-436, THL-437, THL-438, THL-441, THL-443,
+               THL-445, THL-446, THL-448, THL-449, THL-450, THL-451, THL-452,
+               THL-453, THL-454, THL-456, THL-457, THL-458, THL-459, THL-460,
+               THL-461, THL-462, THL-463, THL-464, THL-468, THL-469, THL-470,
+               THL-471, THL-472, THL-473, THL-475, THL-476, THL-500, THL-501,
+               THL-503, THL-404, THL-505, THL-510, THL-512, THL-513, THL-514,
+               THL-515, THL-517, THL-528, THL-529, THL-530, THL-531, THL-533,
+               THL-535, THL-536, THL-539, THL-3100, THL-3102, THL-3103
+               TP-11 Treatment Planning System - 41 units
+               Serial Numbers TP-07, TP-08, TP-20, TP-27, TP-30, TP-31, TP-41,
+               TP-42, TP-63, TP-67, TP-72, TP-74, TP-78, TP-83, TP-88, TP-89,
+               TP-92, TP-93, TP-96, TP-103, TP-109, TP-115, TP-125, TP-127,
+               TP-139, TP-149, TPL-221, TPL-251, TPL-255, TPL-267, TPL-268,
+               TPL-285, TPL-292, TPL-294, TPL-309, TPL-316, TPL-338, TPL-364,
+               TPL-367, TPL-371, TPL-543,
+MANUFACTURER   Theratronics International, Ltd., formerly Atomic Energy of
+               Canada, Ltd., Kanata, Ontario, Canada;
+               Theratronics International, Ltd., 2833 Trinity Mills Road,
+               Suite 149, Carrollton, Texas.
+ALERTED BY     Manufacturer, by User Bulletin TH UB 92-006, dated December 3,
+               1992.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 190 units; (b) 41 units.
+REASON         Potential for mix-up of patient data during transfer from one
+               data disk to another.
+
+
+PRODUCT:       Vena Tech Vena Cava Filter Systems, sterile Rx implantable
+               stainless steel cone shaped filter for placement in the
+               inferior vena cava to preclude emboli ascending from any
+               inferior vein in patients with thromboembolic disease who
+               cannot receive anticoagulants, and patients with chronic
+               recurrent pulmonary embolism.  The following kits all contain
+               the same vena cava filter, with VJ and VF models having less
+               than full length struts, while the 30CJ, 30CF and 30D models
+               have full length struts:  Safety Alert #N-027/031-3.
+               (a) Catalog No. 31324: Vena Tech LGM Vena Cava Filter System
+               for Jugular Access, Type LGM-VJ-U, Distributed by Vena Tech
+               Corporation;
+               (b) Catalog No. 31325: Vena Tech LGM Vena Cava Filter System
+               for Femoral Access, Type LGM-VF-U, Distributed by: Vena Tech
+               Corporation;
+               (c) Catalog No. 31326: B. Braun Vena Tech 30CJ Vena Cava Filter
+               System for Jugular Approach, Type LGM-30-CJ/U, Distributed by:
+               B. Braun Vena Tech;
+               (d) Catalog No. 31327: B. Braun Vena Tech 30CF Vena Cava Filter
+               System for Femoral Approach, Type LGM-30-CF/U, Distributed by:
+               B. Braun Vena Tech;
+               (e) Catalog No. 31328: B. Braun Vena Tech 30D Vena Cava Filter
+               System for Jugular or Femoral Approach, Type LGM-30-D/U,
+               Distributed by: B. Braun Vena Tech;
+CODE           All serial numbers of all five catalog numbers.
+MANUFACTURER:  Celsa LG Medical, Chassenueil, France
+
+                                      -11-
+
+ALERTED BY     B. Braun Vena Tech, B. Braun of America, Evanston, Illinois, by
+               undated letter.
+DISTRIBUTION   Nationwide.
+QUANTITY       13,213 filters were distributed; firm estimates 70 units remain
+               on the market.
+REASON         Inadequate instructions for use, i.e. insertion information,
+               result in the filters posing a high risk of serious adverse
+               health consequences, including vessel or cardiovascular trauma,
+               bleeding, or death.
+
+                                     -12-
+
+END OF ENFORCEMENT REPORT FOR FEBRUARY 26, 1993.  BLANK PAGES MAY
+FOLLOW.

@@ -1,0 +1,526 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Feb
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      23 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+08/07/1990    
+
+FDA Enforcement for the week of August 8, 1990
+
+
+
+                            FDA ENFORCEMENT REPORT
+                              FOR AUGUST 8, 1990
+
+                                                               August 8, 1990 
+
+Recalls and Field Corrections:
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  Product will cause serious adverse health consequences or 
+                  death.
+
+
+Product:          Cold Smoked Salmon in vacuum packed flexible bags 
+                  which are unlabeled and uncoded.  Recall #F-574-0.
+Code:             Uncoded.
+Manufacturer:     Josephson's Smokehouse, Astoria, Oregon.
+Recalled by:      Manufacturer, by telephone May 9, 1990.  Firm-initiated 
+                  recall complete.
+Distribution:     Oregon, Utah. 
+Quantity:         Firm estimates none remains on market.
+Reason:           Product is contaminated with Listeria monocytogenes.
+
+                                     ---- 
+                                      -1- 
+
+
+
+
+
+
+Product:          "Pride of Virginia" Potato Salad in 12 oz. plastic
+                  containers. Recall #F-575-0.
+Code:             "4/16". 
+Manufacturer:     Pride of Virginia Meats, Inc., Lynchburg, Virginia. 
+Recalled by:      Manufacturer by visit April 12-13, 1990.  Firm
+                  initiated recall complete.
+Distribution:     Virginia. 
+Quantity:         125 gallons of potato salad was distributed.
+Reason:           Product contaminated with Listeria monocytogenes. 
+
+                                    ----
+
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the 
+                  probability of serious adverse health consequences is 
+                  remote. 
+
+                                    NONE
+
+                  Class III - A situation in which the use of, or exposure
+                  to a violative product is not likely to cause adverse 
+                  health consequences.
+
+                                    NONE
+
+                                 COSMETICS
+
+                                    NONE
+
+                         HUMAN DRUGS AND BIOLOGICS
+
+                  Class I - 
+
+                                    NONE
+
+                  Class II -
+
+Product:          (a)  Isopropyl Alcohol labeled as "Isopropyl Rubbing
+                  Alcohol"; 
+                  (b)  Biofiran Tincture labeled as "Biofiran Tintura"; 
+                  (c)  Biofiran Solution labeled as "Biofiran"; 
+                  (d)  Ethyl Alcohol labeled as "Ethyl Rubbing Alcohol; 
+                  (e)  Denatured Alcohol (Methanol) labeled as "Solvente
+                  Industrial";
+                  (f)  Ammonium water labeled as "Agua de Amonia";
+                  (g)  Glycerine USP Solution labeled as "Glicerina U.S.P.";
+                  (h)  Povidone Iodine Solution labeled as "Metadine Scrub";
+                  (i)  Povidone Iodine Solution labeled as "Metadine
+                  Solution";
+                  (j)  Hydrogen Peroxide Solution labeled as "Hydrogen
+                  Peroxide" Recall #D-320/329-0.
+Code:             None used.
+
+                                    -2- 
+
+
+
+
+
+Manufacturer:     Duqui, Inc., Barrio Palmas, Catano, Puerto Rico.
+Recalled by:      Manufacturer by telephone beginning July 3, 1990
+                  followed by letter July 5, 1990.  Firm initiated recall 
+                  ongoing.
+Distribution:     Puerto Rico, Virgin Islands.
+Quantity:         (a) 2,231/gallons, 1,218/1/2 gallon containers; 
+                  (b) 12/1 oz. bottles; (c) 474/gallons.; (d) 84/16 oz. 
+                  bottles; (e) 89/gallons.; (f) 12/8 oz. bottles; 
+                  (g) 24/1 oz. bottles; (h) 56/gallons.; (i) 48/gallons.; 
+                  (j) 4,056/16 oz. bottles were distributed.
+Reason:           Subpotency of the isopropyl alcohol product and current 
+                  good manufacturing practice deficiencies for all products.
+
+                                    ----
+
+
+Product:          Pentaerythritol Tetranitrate Sustained Release Tablets
+                  80 mg., an Rx drug used in the prophylactic treatment of
+                  angina pectoris (pain associated with coronary artery 
+                  disease) in bottles of 100's and 1000's under the 
+                  following labels:  Rugby, Goldline, Schein, Geneva Generic
+                  Vita-Rx, Bioline, Dixon's, Shane Major, H.L. Moore, 
+                  Genetco, Recall #D-331-0. 
+Code:             Lot #781128, Exp. date 2/92.
+Manufacturer:     Bolar Inc., Humacao, Puerto Rico. 
+Recalled by:      Bolar Pharmaceutical Co., Inc., Copaigue, New York
+                  by letter July 11, 1990.  Firm initiated recall ongoing.
+Distribution:     Nationwide. 
+Quantity:         1,583/100 bottles; 312/1000 bottles were distributed; 
+                  firm estimates approximately 10% remains on the market. 
+Reason:           Product failed dissolution specifications.
+
+                                    ----
+
+                  Class III - 
+
+Product:          Kasdenol, contains "Clorpactin WCS-60" brand of 
+                  Monxychorosene, packaged in 10 cc glass bottles, an 
+                  OTC product used as a germicidal mouth was and gargle,
+                  and for the relief of bleeding gums, cleansing the mouth; 
+                  deodorizing the mouth and for the improvement of oral and 
+                  dental hygiene, Recall #D-318-0.
+Code:             Lot #60-8902, Exp. date 12/90.
+Manufacturer:     United Guardian, Inc., Hauppauge, New York. 
+Recalled by:      Manufacturer, by letter June 13, 1990.  Firm initiated
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         4,224 bottles were distributed. 
+Reason:           Product below specification for available chlorine. 
+
+                                      ----
+
+                                      -3- 
+
+
+
+
+
+Product:          Hydrocortisone Cream 0.5% in 1 ounce tubes, an OTC topical
+                  steroid drug, Recall #D-319-0.
+Code:             Lot #5513, Exp. date 1/93.
+Manufacturer:     Pharmafair, Inc., Hauppauge, New York.
+Recalled by:      Manufacturer, by letter July 2, 1990.  Firm initiated 
+                  recall ongoing. 
+Distribution:     California, Pennsylvania. 
+Quantity:         8,532/1 ounce tubes were distributed. 
+Reason:           Subpotency. 
+
+                                      ----
+
+
+Product:          Nasalcrom (cromolyn sodium nasal solution, USP, an
+                  Rx drug used for the prevention and treatment of the
+                  symptoms of allergic rhinitis, packaged in a 13 ml. 
+                  bottle attached to a pump and actuator, Recall #D-330-0.
+Code:             Lot #ALF48W, Exp. date 10/91. 
+Manufacturer:     Fisons PLC, Pharmaceutical Division, Crewe Chechshire,
+                  England.
+Recalled by:      Fisons Pharmaceuticals, Rochester, New York, by letter
+                  July 3, 1990.  Firm initiated recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         32,058 units were distributed.
+Reason:           The Rynacrom portion of the lot was packaged with an incorrect
+                  package insert. 
+
+
+                                      ----
+
+Product:          Imferon (iron dextran injection, USP packaged in 2 ml 
+                  ampules, 10 ampules per box, an Rx drug used for
+                  intramuscular or intravenous use in patients with 
+                  documented iron deficiency in whom oral administration
+                  is unsatisfactory or impossible, Recall #D-332-0. 
+Code:             Lot #MW300A, Exp. date 1/95.
+Manufacturer:     Fisons PLC, Pharmaceutical Division, Crewe Chechshire,
+                  England.
+Recalled by:      Fisons Pharmaceuticals, Rochester, New York by letter 
+                  July 3, 1990.  Firm initiated recall ongoing. 
+Distribution:     Nationwide, Puerto, Rico. 
+Quantity:         24,880 units were distributed.
+Reason:           Product does not meet USP requirements for particulate
+                  matter. 
+
+
+                                      ----
+
+                                      -4- 
+
+
+
+
+
+Product:          Hydrochlorothiazide 25 mg. tablets, USP in 100 and 1000 
+                  tablet bottles, an Rx drug used as a diuretic, under
+                  the following labels:  Major Pharmaceuticals; Goldline; 
+                  Recall #D-333-0.
+Code:             Lot #2083-175, Exp. date 4/92.
+Manufacturer:     Zenith Laboratories Inc., Northvale, New Jersey.
+Recalled by:      Manufacturer, by telephone May 30, 1990, with follow-up 
+                  letter June 20, 1990.  Firm initiated recall ongoing. 
+Distribution:     Florida, California, Illinois, Michigan.
+Quantity:         432/100 bottles, 3,287/1000 bottes were distributed.
+Reason:           Incorrect identification number on tablets. 
+
+                                      ----
+
+Product:           Hexatussin Syrup; each 5 ml. contains Hydrocodone, 
+                   Bitartrate 2.5 mg., Phenylephrine HCl 5 mg., Pyrilamine
+                   Maleate 6 mg., Chlorpheniramine Maleate 2 mg., Phenindamine
+                   Tartrate 5 mg., Ammonium Chloride 50 mg., and Alcohol
+                   5%, an Rx drug Schedule III oral liquid drug used for the
+                   symptomatic relief of cough and nasal congestion, under
+                   the following labels: PBI Hexatussin Syrup; Posituss Syrup,
+                   Recall D-337-0.
+Code:              Lot #'s 17903A, 17903C, 17903E, 17903F, Exp. date 3/91.
+Manufacturer:      Pharmaceutical Basics, Inc., Morton Grove, Illinois. 
+Recalled by:       Manufacturer, by letter Jul7 23, 1990.  Firm initiated 
+                   recall ongoing.
+Distribution:      Nationwide.
+Quantity:          9,288 bottles were distributed.
+Reason:            The Phenindamine Tartrate ingredient is subpotent. 
+
+                                      ----
+
+                         MEDICAL DEVICES AND RADIOLOGY
+
+                  Class I - 
+                                      NONE
+
+                  Class II -
+
+Product:          Sunbronze STSSW28TTS Sunlamp.  Recall #Z-744-0. 
+Code:             Serial #'s 351, 354 thru 356, 362, 368, 369, 380, 416.
+Manufacturer:     European Sun Systems, Inc., St. Louis, Missouri.
+Recalled by:      Manufacturer.  FDA approved the firm's corrective 
+                  action plan July 12, 1990.  Firm-initiated field
+                  correction complete.
+Distribution:     Indiana.
+Quantity:         9 units were distributed; firm estimates all units
+                  were corrected. 
+Reason:           Noncompliance with performance standard for sunlamp 
+                  products. 
+
+                                      ----
+
+                                      -5- 
+
+
+
+
+
+                  Class III-
+
+
+Product:          One Time Sterile Medical Trays as follows: (a) Dressing 
+                  Change Tray, Product No. S7881; (b) CVC Dressing Tray 
+                  Product No. S7842; (c) Sterile Custom TPN Tray, 
+                  Product No. S7858; (d) Sterile Custom TPN Tray, 
+                  Product No. S7879; (e) Sterile TPN/CVP Dressing Change
+                  Tray, Product No. 61248; (f) Sterile TPN/CVP Subclavian 
+                  Dressing Tray (W/Tegaderm) Product No. 61249, Recall
+                  #Z-753/758-0. 
+Code:             Lot #'s: (a) 190165, Exp. date 01/93; (b) 190105 thru 190107
+                  Exp. date 10/92; (c) 190111, Exp. date 10/92; (d) 190127, 
+                  Exp. date 10/92; (e) 190050, Exp. date 11/92; (f) 189404, 
+                  Exp. date 10/92.
+Manufacturer:     Acme United Corporation, Goldsboro, North Carolina. 
+Recalled by:      Manufacturer by letter June 21, 1990.  Firm initiated 
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         987 trays (20 trays per case) were distributed. 
+Reason:           Product may contain a crack in the blister package which may
+                  compromise sterility. 
+
+                                      ----
+Product:          Ohmeda 4700 OxiCap Monitor, is a microprocessor control 
+                  device designed to (1) monitor arterial oxygen saturation 
+                  (Sa02) for detection of hypoxemia; (2) monitor end-tidal
+                  carbon dioxide (etCO2) for detection of changes in the
+                  adequacy of ventilation; (3) monitor the percent of 
+                  delivered inspired oxygen to ensure that the patient is 
+                  receiving the prescribed amount, Recall #Z-759-0. 
+Code:             All serial numbers. 
+Manufacturer:     Ohmeda, Louisville, Colorado. 
+Recalled by:      Manufacturer by letter April 27, 1990.  Firm initiated
+                  recall ongoing. 
+Distribution:     Nationwide, international.
+Quantity:         Approximately 2,500 units were distributed. 
+Reason:           The device may "lock-up" and display test pattern values
+                  for oximeter parameters when initially turned on. 
+
+                                      ----
+
+
+Product:          (a) Bard Woven Phillips Follower Urethral Catheter, 12 fr.; 
+                  (b) Bard Woven Phillips Follower Urethral Bougie 12 fr.;
+                  (c) Urethral Catheter GIFT (Gamete Intra Fallopian
+                  Transfer) Set 19 fr., Recall #Z-761/763-0.
+Code:             (a) Catalog No. 021512, Lot #03AA2078; (b) Catalog No. 024012 
+                  Lot #03AA2082; (c) Catalog No. 021519, Lot #03AA3005. 
+Manufacturer:     Bard Urological Division, Covington, Georgia. 
+Recalled by:      Manufacturer by letter and telephone May 17, 1990.
+                  Firm initiated recall ongoing.
+
+                                      -6- 
+
+
+
+
+
+Distribution:     Nationwide, Canada. 
+Quantity:         130 units were distributed. 
+Reason:           The catalog numbers of the urethral catheters (product nos. 
+                  021512 and 021519) may be switched with the catalog number of 
+                  the urethral bougie (product no. 024012).  The devices look 
+                  very similar except the catheter has a hollow lumen and the 
+                  follower bougie is solid. 
+
+                                      ----
+Product:          Diascam brand glucose test strips individually wrapped in 
+                  boxes of 25's, Recall #Z-766-0. 
+Code:             Lot #633333A, Exp. date 4/90. 
+Manufacturer:     Behringwerke AG, Federal Republic of Germany (strips).
+Recalled by:      Home Diagnostics, Inc., Eatontown, New Jersey by letter 
+                  October 26, 1989.  Firm initiated recall complete.
+Distribution:     Nationwide, West Germany, United Kingdom, Italy, Israel,
+                  Turkey. 
+Quantity:         3,315 boxes were distributed (25 per box).
+Reason:           The device may contain strips which are discolored and could
+                  result in falsely low glucose readings. 
+
+                                      ----
+
+
+Product:          Sharplan C02 Surgical Laser System Model Nos. 1050 and 1075.
+                  Recall #Z-767/768-0.
+Code:             All lots. 
+Manufacturer:     Laser Industries, Ltd., Tel Aviv, Israel. 
+Recalled by:      Sharplan Lasers Inc., Allendale, New Jersey by letter 
+                  April 18, 1990.  Firm initiated recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         45 units were distributed.
+Reason:           Potentential for low-power instability of the device in the 
+                  super pulse mode at a setting below 5 watts.
+
+                                      ----
+
+
+Product:          Rapimat Urine Control, Level 1, Kit, Recall #Z-765-0. 
+Code:             Lot #13880. 
+Manufacturer:     I.C.L. (also known as Hycor Biomedical Inc.), Garden Grove
+                  California. 
+Recalled by:      Behring Diagnostics Inc., Somerville, New Jersey by 
+                  telephone June 21, 1989 follow-up letter dated July 19, 
+                  1989.  Firm initiated recall ongoing. 
+Distribution:     Nationwide, Canada. 
+Quantity:         305 units were distributed. 
+Reason:           Some kits contained the package insert for Rapimat Urine
+                  Control Level II (abnormal) instead of the package insert 
+                  for Level I (normal) controls.
+
+                                      ----
+
+                                      -7- 
+
+
+
+
+
+                              VETERINARY PRODUCTS 
+
+                  CLASS I-
+
+                                      NONE
+
+                  CLASS II- 
+
+                                      NONE
+
+                                      ----
+
+                  CLASS III-
+
+
+Product:          Tylan (Tylosin) Plus Vitamins, oral antibiotic solution 
+                  packaged in 250 gram bottles for use in swine for the 
+                  control and treatment of swine dysentery (bloody scours)
+                  caused by pathogens sensitive to tylosin, Recall #V-052-0.
+Code:             Lot #'s 3DZ17B, Exp. date 1/1/91; 2PN38A, Exp. date 12/1/90;
+                  3AX10B, Exp. date 9/1/90; 3AJ75A Exp. date 8/1/90;
+                  2NZ32A Exp. date 8/1/90; 2NL19A Exp. date 7/1/90. 
+Manufacturer:     Elanco Products Company (division of Eli Lilly & Co.),
+                  Indianapolis, Indiana.
+Recalled by:      Manufacturer by letter June 14, 1990.  Firm initiated recall
+                  ongoing.
+Distribution:     Nationwide, Puerto Rico.
+Quantity:         56,591 bottles were distributed.
+Reason:           Subpotency or super-potency of tylosin ingredient.
+
+
+                                      ----

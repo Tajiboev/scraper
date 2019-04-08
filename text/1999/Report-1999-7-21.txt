@@ -1,0 +1,849 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  21
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      25 captures
+	      14 Jan 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+
+
+July 21, 1999                                      99-29
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+________
+PRODUCT
+a) Potato Salad; b) Cole Slaw; c) Fine Cole Slaw, manufactured 
+and distributed in 5 pound and 10 pound plastic containers.  
+Recall #F-560/562-9.
+CODE
+All potato salad distributed prior to 6/3/99 and all cole slaw 
+and fine cole slaw distributed prior to 6/15/99.
+MANUFACTURER
+Frank L. Harter & Sons, Cincinnati, Ohio.
+RECALLED BY
+Manufacturer: a) by telephone on June 4, 1999, followed by visit, 
+and by letter mailed beginning June 4, 1999; b&c;) by telephone 
+and by letter beginning on June 16, 1999. Completed field 
+correction (relabeling) resulted from an inspection conducted by 
+the Ohio Department of Agriculture (ODA).
+DISTRIBUTION
+Kentucky and Indiana.
+QUANTITY
+Approximately 800 pounds of potato salad and 150 pounds of cole 
+slaw and fine cole slaw remained on market at time of recall 
+initiation.
+REASON
+The Potato Salad contains undeclared egg yolks and undeclared 
+FD&C; Yellow No. 5.  The Cole Slaw and Fine Cole Slaw contain 
+undeclared egg yolks.
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+________
+PRODUCT
+Te Chang Food brand Spiced Dried Bean Curd, in 6 ounce boxes.  
+Recall #F-541-9.
+CODE
+None.
+MANUFACTURER
+Grand Western Food Corporation, Taiwan.
+RECALLED BY
+Blooming Import Company, Inc., Brooklyn, New York, by letter on 
+February 10, 1999.  Completed recall resulted from sample 
+analysis and follow-up by the New York State Department of 
+Agriculture and Markets.
+DISTRIBUTION
+New York.
+QUANTITY
+95 cartons (10 boxes per carton) were distributed.
+REASON
+Product contained the unapproved color additive Ponceau 4R.
+________
+PRODUCT
+Pearl River Bridge brand Almond Cakes, in 10 ounce packages.  
+Recall #F-542-9.
+CODE
+None.
+MANUFACTURER
+Guangdong Foodstuffs Import & Export Corporation, Peoples 
+Republic of China.
+RECALLED BY
+Murray International Trading Company, Inc., Brooklyn, New York, 
+by letter on April 16, 1999.  Completed field correction 
+(relabeling) resulted from sample analysis and follow-up by the 
+New York State Department of Agriculture and Markets.
+DISTRIBUTION
+New York.
+QUANTITY
+50 cases (60 packages per case) were distributed.
+REASON
+Product contained undeclared FD&C; Yellow No.5 and FD&C; Blue No.1.
+________
+PRODUCT
+a) CTF brand Pickled Mango in 16 ounce glass jars, Product of 
+Thailand; b) CTF brand Pickled Lotus Rootlets, in 15 ounce glass 
+jars, Product of Thailand.  Recall #F-547/548-9.
+CODE
+None.
+MANUACTURER
+a) Siam Tropical Product Limited Partnership, Bangkok, Thailand; 
+b) Savoy Enterprise Limited Partnership., Bangkok, Thailand.
+RECALLED BY
+BCN Trading Inc., Brooklyn, New York (importer), by letter on 
+January 12, 1999.  Completed recall resulted from sample analysis 
+and follow-up by the New York State Department of Agriculture and 
+Markets.
+DISTRIBUTION
+New York, Connecticut, Florida, District of Columbia, 
+Massachusetts, New Jersey, Pennsylvania.
+QUANTITY
+a) 60 cartons (24 jars per carton); b) 200 cartons (24 jars per 
+carton) were distributed.
+REASON
+a) Product contained undeclared FD&C; Yellow No. 5;
+b) Product contained undeclared sulfites and sodium benzoate.
+________
+UPDATE
+Isomil, Ready-To-Feed Liquid Infant Formula, Recall F-537-9, 
+which appeared in the July 14, 1999 Enforcement Report is a Class 
+II recall.
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+________
+PRODUCT
+Frozen Whole Eggs, in 30 pound plastic pails.
+Recall #F-599-9.
+CODE
+Lot #A73388E.
+MANUFACTURER
+Estherville Foods, Inc., Estherville, Iowa.
+RECALLED BY
+Nulaid Foods, Inc., Ripon, California, by telephone on or about 
+May 10, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+California, Hawaii, Nevada.
+QUANTITY
+1,805 pails were distributed.
+REASON
+The product contains a foreign object (a piece of equipment 
+identified as a breaker cup assembly).
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+________
+PRODUCT
+Trihexyphenidyl Hydrochloride Tablets, 5 mg, in 100 tablet 
+blister strips of 10 tablets, Rx oral antispasmodic tablet used 
+as an adjunct in the treatment of all forms of parkinsonism. NDC 
+51079-124-20.  Recall #D-278-9.
+CODE
+Lot #8V938.
+MANUFACTURER
+Lederle Pharmaceutical, Division of American Cyanamid, Pearl 
+River, New York.
+RECALLED BY
+UDL Laboratories, Inc., Rockford, Illinois (repacker), by letter 
+dated June 14, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+3,624 unit cartons were distributed; firm estimated that 25 
+percent of the product remained on market at time of recall 
+initiation.
+REASON
+Mislabeling - Some blister strips are held in shelf unit cartons 
+(100's) labeled as Allopurinol Tablets, 300 mg.  The blister 
+strips are correctly labeled.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets.  Recall #B-950/951-9.
+CODE
+Unit #22394-5190.
+MANUFACTURER
+United Blood Services, Las Vegas, Nevada.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by telephone on 
+September 24, 1997, and by letter dated October 14, 1997.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Nevada and Florida.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor who traveled to an 
+area considered endemic for malaria.
+_______
+PRODUCT
+Red Blood Cells.  Recall #B-952-9.
+CODE
+Unit #G48051.
+MANUFACTURER
+Mississippi Valley Regional Blood Center, Davenport, Iowa.
+RECALLED BY
+Manufacturer, by letter dated November 12, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Iowa.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who traveled to an area 
+considered endemic for malaria.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-955-9.
+CODE
+Unit #J30422.
+MANUFACTURER
+Mississippi Valley Regional Blood Center, Davenport, Iowa.
+RECALLED BY
+Manufacturer, by telephone on March 30, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Iowa.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product may have been contaminated during collection.
+________
+PRODUCT
+Fresh Frozen Plasma.  Recall #B-959-9.
+CODE
+Unit numbers: 97FP07383, 97FP07384, 97FP10001, 97FP14576, 
+98FP06068.
+MANUFACTURER
+Barnes-Jewish Hospital, St. Louis, Missouri.
+RECALLED BY
+Manufacturer, by telephone on March 8 and 9, 1998.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Missouri.
+QUANTITY
+5 units were distributed.
+REASON
+Blood products were labeled with extended expiration dates.
+________
+PRODUCT
+a) Red Blood Cells; b) Cryoprecipitated AHF;
+c) Recovered Plasma.  Recall #B-960/962-9.
+CODE
+Unit #16E21232.
+MANUFACTURER
+American Red Cross Blood Services, Columbus, Ohio.
+RECALLED BY
+Manufacturer, by letter dated February 3, 1999, or by fax on 
+February 4, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Ohio and Switzerland.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor with a history of IV 
+drug use and sex with another male.
+________
+PRODUCT
+Platelets, Pheresis.  Recall #B-978-9.
+CODE
+Unit #1079003.
+MANUFACTURER
+Community Blood Center, Dayton, Ohio.
+RECALLED BY
+Manufacturer, by letter dated March 26, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Ohio.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who received body 
+piercing within 12 months of donation.
+________
+PRODUCT
+a) Red Blood Cells; b) Rd Blood Cells, Leukocytes Removed; 
+c) Platelets; d) Recovered Plasma.  Recall #B-979/982-9.
+CODE
+Unit Numbers: a)7618516, 7626780; b) 6790116; 
+c) 6790116, 7626780; d) 7618516, 7626780, 6790116.
+MANUFACTURER
+New York Blood Services (Center West), New York, New York.
+RECALLED BY
+New York Blood Center, Inc., New York, New York, by letter dated 
+September 8, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+New York and Switzerland.
+QUANTITY
+a) 2 units; b) 1 unit; c) 2 units; d) 3 units were distributed.
+REASON
+Blood products initially tested negative for the Human 
+Immunodeficiency virus type 1 (HIV-1) p24 antigen, but 
+retrospectively tested repeatedly reactive for HIV-p24, with an 
+indeterminate neutralization test.
+________
+PRODUCT
+Platelets, Pheresis, Leukocytes Reduced.  Recall #B-994-9.
+CODE
+Unit 2615058.
+MANUFACTURER
+LifeSource, Glenview, Illinois.
+RECALLED BY
+Manufacturer, by telephone on February 22, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Illinois.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was mislabeled as CMV antibody negative.
+________
+PRODUCT
+Platelets, Pheresis, Leukocytes Reduced.  Recall #B-995-9.
+CODE
+Unit #3704721.
+MANUFACTURER
+LifeSource, Glenview, Illinois.
+RECALLED BY
+Manufacturer, by telephone on December 10, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Illinois.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product had an unacceptable platelet count.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets.  Recall #B-996/997-9.
+CODE
+Unit #H58725.
+MANUFACTURER
+Northern Illinois Blood Bank, Rockford, Illinois.
+RECALLED BY
+Manufacturer, by telephone on May 10, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Illinois.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor who was not asked some 
+of the pre-donation donor screening questions.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Recovered Plasma.
+Recall #B-1000/1002-9.
+CODE
+Unit #4040769.
+MANUFACTURER
+Community Blood Center, Dayton, Ohio.
+RECALLED BY
+Manufacturer, by letter dated December 21, 1998, or by fax 
+December 11, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Ohio and Switzerland.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor with a history of 
+cancer.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets.  Recall B-1004/1005-9.
+CODE
+Unit numbers: a) R44246, Q40911, Q23635, N97120; b) N97120.
+MANUFACTURER
+Aurora Area Blood Bank, Aurora, Illinois.
+RECALLED BY
+Manufacturer, by letter dated June 3, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Illinois and Indiana.
+QUANTITY
+a) 4 units; b) 1 unit.
+REASON
+Blood products tested negative for the antibody to the human 
+immunodeficiency virus type 1 (anti-HIV-1), but were collected 
+from a donor who previously tested repeatedly reactive for 
+anti-HIV-1, Western blot negative.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+________
+PRODUCT
+Red Blood Cells.  Recall #B-953-9.
+CODE
+Unit numbers:  G47075 and G47063.
+MANUFACTURER
+Mississippi Valley Regional Blood Center, Davenport, Iowa.
+RECALLED BY
+Manufacturer, by telephone on August 8, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Illinois.
+QUANTITY
+2 units were distributed.
+REASON
+Blood products were labeled with extended expiration dates.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-954-9.
+CODE
+Unit #J31022.
+MANUFACTURER
+Mississippi Valley Regional Blood Center, Davenport, Iowa.
+RECALLED BY
+Manufacturer, by telephone on July 1, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Illinois.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was leukoreduced by filtration greater than seven 
+days after collection.
+________
+PRODUCT
+a) Red Blood Cells; b) Red Blood Cells, Leukocytes Reduced
+c) Platelets; d) Cryoprecipitated AHF; e) Recovered Plasma.  
+Recall #B-983/987-9.
+CODE
+Unit Numbers:  a) 6713858, 6718452, 6719429, 6744732, 6746804, 
+6750903, 6755303, 6765586, 6765601, 6794047, 6794086, 7437572, 
+7439592, 7609342, 7621867, 7625339, 7677780, 6755780, 6794110
+b) 6735701, 6716238
+c) 6744732, 6746804, 7437572, 7609342, 7621867, 6735701
+d) 6713858, 6718452
+e) 6713858, 6718452, 6719429, 6744732, 6746804, 6750903, 6755303, 
+6765586, 6765601, 6794047, 6794086, 7437572, 7439592, 7609342, 
+7621867, 7625339, 7677780, 6755780, 6794110, 6735701, 6716238.
+MANUFACTURER
+New York Blood Services (Center West), New York, New York.
+RECALLED BY
+Manufacturer, by letter dated September 8, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+New York, New Jersey, Switzerland.
+QUANTITY
+a) 19 units; b) 2 units; c) 6 units; d) 2 units; e) 21 units were 
+distributed.
+REASON
+Blood products initially tested negative for the antibody to the 
+Human T-Lymphotropic virus type I (anti-HTLV-I), but 
+retrospectively tested repeatedly reactive for anti-HTLV-I/II, 
+PCR negative.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-1008-9.
+CODE
+Unit numbers: 55FH21721, 55FH21726, 55H66471, 55S94938, 55S94943, 
+55S94945, 55S94951, 55S94952, 55S94956, 55S94960.
+MANUFACTURER
+American Red Cross Blood Services, Little Rock, Arkansas.
+RECALLED BY
+Manufacturer, by telephone on April 30, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Arkansas.
+QUANTITY
+10 units were distributed.
+REASON
+Blood products were returned after receipt at an unacceptable 
+temperature and were redistributed.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-1009-9.
+CODE
+Unit #5090829.
+MANUFACTURER
+BloodCare, Dallas, Texas.
+RECALLED BY
+Manufacturer, by letter dated January 25, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor whose hemoglobin results 
+were not documented during screening.
+________
+PRODUCT
+Platelets, Pheresis.  Recall #B-1010-9.
+CODE
+Unit #1006615.
+MANUFACTURER
+Community Blood Center, Dayton, Ohio.
+RECALLED BY
+Manufacturer, by telephone on October 21, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Ohio.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was positive for Propionibacterium acnes.
+________
+PRODUCT
+Red Blood Cells; b) Recovered Plasma.  
+Recall #B-1011/1012-9.
+CODE
+Unit #5071236.
+MANUFACTURER
+BloodCare, Dallas, Texas.
+RECALLED BY
+Manufacturer, a) by telephone and letter on December 14, 1998, 
+followed by second letter dated January 28, 1999; b) by letter 
+dated December 14, 1998, followed by second letter dated March 
+23, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Texas and Switzerland.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor whose arm inspection 
+was not documented.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+________
+PRODUCT
+Bubble Suction Tubing, Catalog #116740.  Recall #Z-685-9.
+CODE
+Lot #41AJCM16 EXP 2004-01.
+MANUFACTURER
+ConMed Corporation, El Paso, Texas.
+RECALLED BY
+Manufacturer, by fax on February 19, 1999, and by letter dated 
+February 22, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Florida and North Carolina.
+QUANTITY
+12 cases (50 units per case) were distributed.
+REASON
+Non-Sterility.
+________
+PRODUCT
+Venturi Ventilators With CRT Monitor Part Number 1248.
+Recall #Z-1038-9.
+CODE
+Serial numbers:  970129-970194 (not inclusive).
+MANUFACTURER
+MICROVITECH, United Kingdom (manufacturer of CRT).
+RECALLED BY
+Cardiopulmonary Corporation, Milford, Connecticut, by overnight 
+mail on June 14, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Russia, United Kingdom, Italy.
+QUANTITY
+43 units were distributed.
+REASON
+CRT monitor does not meet the mean-time-between-failure (MTBF) 
+specification.  The failure may result in the CRT  not displaying 
+the monitored patient data.
+________
+PRODUCT
+Venturi Ventilator with Hard Drive Part Number 230012.
+Recall #Z-1039-9.
+CODE
+Serial numbers:  970129-980258 (not inclusive).
+MANUFACTURER
+Cardiopulmonary Corporation, Milford, Connecticut (ventilator); 
+Segate, San Jose, California (hard drive).
+RECALLED BY
+Cardiopulmonary Corporation, Milford, Connecticut, by letter 
+between June 14-15, 1999.  Firm-initiated field correction 
+ongoing.
+DISTRIBUTION
+Alabama, Connecticut, Florida, North Carolina, Italy, Russia, 
+United Kingdom.
+QUANTITY
+59 units were distributed.
+REASON
+User interface software will not load when unit is first powered 
+on.
+________
+PRODUCT
+GE Millennium MPR/MPS Single Detector Nuclear Medicine System 
+(Emission Computed Tomography System), Model 2151300.  
+Recall #Z-1068-9.
+CODE
+All units.
+MANUFACTURER
+General Electric Medical System, Waukesha, Wisconsin.
+RECALLED BY
+Manufacturer, by safety notice dated June 10, 1998.  
+Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+167 units were distributed.
+REASON
+An unintended detector tilt motion can occur when the operator 
+selects the table up/down motion.
+________
+PRODUCT
+Bone-Dri Femoral Surgical Wick, used to control and wick fluids 
+from the femoral canal during surgery. 
+Recall #Z-1069-9 
+CODE
+Catalog Numbers: 6209-1-205 (package of 5 units)
+                 6209-1-201 (single unit)
+Sterility Lot Codes: 9902144, 9902145, 9902146, 9902147, 9902203, 
+9902204, 9902501, 9902542, 9902543, 9902544, 9902545, 9902744, 
+9902747, 9902748, 9902845, 9902846, 9902847, 9902848, 9902849, 
+9902852.
+MANUFACTURER
+Howmedica Osteonics Corporation, San Jose, California.
+RECALLED BY
+Manufacturer, by letter dated February 17, 1999, followed by 
+telephone.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+178 units were distributed.
+REASON
+The sterility of the device has been compromised due to a lack of 
+adequate sterilization.
+________
+PRODUCT
+King Systems brand Universal F2 Breathing Circuits with 
+Co-Axial Filter. Recall #Z-1077-9.
+CODE
+Various product numbers and lot numbers.
+MANUFACTURER
+King Systems Corporation, Noblesville, Indiana.
+RECALLED BY
+Manufacturer, by letter dated February 23, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+4,531 cases (101,580 breathing circuits) were distributed.
+REASON
+Excessive flash in the filter housing may significantly increase 
+resistance to flow in the expiratory side of the unit.
+________
+PRODUCT
+CryoValve Allograft (heart valve): a) Model AV00;
+b) PV00.  Recall #Z-1078/1079-9.
+CODE
+Serial Numbers:  a) 6280773; b) 6280765. Donor #32029
+MANUFACTURER
+CryoLife, Inc., Kennesaw, Georgia.
+RECALLED BY
+Manufacturer, by letter sent on June 21, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Canada.
+QUANTITY
+2 units.
+REASON
+Donors do not meet current guidelines regarding serodilution of 
+plasma because of the amount of transfused/infused fluids 
+administered.
+________
+PRODUCT
+CryoValve Allograft (heart valve) Model PV00. 
+Recall #Z-1080-9.
+CODE
+Serial #3864863. Donor #19913.
+MANUFACTURER
+CryoLife, Inc., Kennesaw, Georgia.
+RECALLED BY
+Manufacturer, by letter sent on June 21, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Oklahoma.
+QUANTITY
+1 unit.
+REASON
+Donors do not meet current guidelines regarding serodilution of 
+plasma because of the amount of transfused/infused fluids 
+administered.
+________
+PRODUCT
+CryoValve Allograft (heart valve), Model AV00.
+Recall #Z-1081-9.
+CODE
+Serial #3864855.
+MANUFACTURER
+CryoLife, Inc., Kennesaw, Georgia.
+RECALLED BY
+Manufacturer, by letter dated June 18, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Idaho.
+QUANTITY
+1 unit.
+REASON
+Donors do not meet current guidelines regarding serodilution of 
+plasma because of the amount of transfused/infused fluids 
+administered.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+________
+PRODUCT
+Connecting screw and compression screw for titanium solid humeral 
+nails, Part Numbers: 358.54 and 358.61.
+Recall #Z-1066/1067-9.
+CODE
+Part Number  358.54, Lot Numbers: A4FL336, A4GA308, A4GC384, 
+A4GC813, A4HB049, A4HB716, A4HD872, and A4HD873; Part Number 
+358.61, Lot numbers: A4GA932, A4GA933, A4GC425, A4GD662, 
+A4GE889, and A4GK100.
+MANUFACTURER
+Synthes (USA), West Chester, Pennsylvania.
+RECALLED BY
+Synthes USA, Paoli, Pennsylvania, by letter sent on June 16, 
+1999, followed by telephone or visit.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Nationwide and Canada.
+QUANTITY
+339 units were distributed.
+REASON
+Product drawing contained an interference issue which created a 
+potential for the connecting screw not to fit into or bind within 
+the insertion handle.
+________
+PRODUCT
+DePuy Self-Centering Hip Cups:
+a) Size 22.225 mm, Product No. 1035-44-000;
+b) Size 28 mm, Product No. 1037-45-000.  
+Recall #Z-1082/1083-9.
+CODE
+Lot numbers: a) S73LR1; b) S74DC1.
+MANUFACTURER
+DePuy Orthopaedics, Inc., Warsaw, Indiana.
+RECALLED BY
+Manufacturer, by verbal notification on March 24, 1999, and by 
+letter dated March 25, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Missouri, New Jersey, Pennsylvania, Canada, England, Japan.
+QUANTITY
+2 lots of 10 units each were distributed.
+REASON
+Labeling mix-up -- A 28 mm cup was found in a carton labeled as a 
+22.225 mm cup, and a  22.225 mm cup in a carton labeled as a 28 
+mm cup.
+________
+PRODUCT
+Bivona Fome-Cuf Pediatric Tracheostomy Tube with Stomaseal, 
+Catalog No. 85P045.  Recall #Z-1084-9.
+CODE
+Lot No. 842260 EXP 03/2004.
+MANUFACTURER
+Bivona Medical Tech., Division of UroQuest Med. Corporation, 
+Gary, Indiana.
+RECALLED BY
+Manufacturer, by letter sent on June 15, 1999.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Arizona, Florida, Michigan, New Hampshire, Texas, Virginia, 
+Australia.
+QUANTITY
+21 units were distributed.
+REASON
+The tube's outer shaft diameter printed on the neckflange of the 
+tube differed from that on the label.
+
+END OF ENFORCEMENT REPORT FOR JULY 21, 1999.
+
+
+####

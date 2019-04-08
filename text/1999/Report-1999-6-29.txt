@@ -1,0 +1,904 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  FEB
+		  Apr
+		
+		
+		
+		  
+		  25
+		  
+		
+		
+		
+		  2001
+		  2003
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      36 captures
+	      17 Apr 2000 - 21 Aug 2016
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DF
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+
+June 30, 1999                                      99-26
+
+RECALLS AND FIELD CORRECTIONS:  CLASS I
+________
+PRODUCT
+Morningland Dairy Raw Milk "Chives Colby" Cheese, packaged in random sizes 
+averaging .95 pounds/package.
+Recall #F-485-9.
+CODE
+A259.
+MANUFACTURER
+Morningland Farm, Inc., Mountain View, Missouri.
+RECALLED BY
+Manufacturer, by telephone on May 22, 1999, and by press release on May 25, 
+1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Missouri, New York, California, Georgia, South Carolina, Colorado, Utah, 
+Maryland, Pennsylvania, Illinois, Arizona, Tennessee.
+QUANTITY
+135 pounds were distributed.
+REASON
+Product was contaminated with Listeria monocytogenes.
+
+
+________
+PRODUCT
+Peony Mark brand Dried Potato, in 6 ounce flexible plastic bags.  Product of 
+China.  Recall #F-486-9.
+CODE
+None.
+MANUFACTURER
+Sun Wing Hong Food Ltd., Chai Wan, Hong Kong, China.
+RECALLED BY
+Tai Wing Hong Importer, Inc., Brooklyn, New York, by letter and by telephone on 
+December 10, 1998, and by press release on December 7, 1998.  Completed recall 
+resulted from sample analysis and follow-up by the New York State Department of 
+Agriculture and Markets.
+DISTRIBUTION
+New York.
+QUANTITY
+21 cartons (100 packages per carton) were distributed.
+REASON
+Product contained undeclared sulfites.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+________
+PRODUCT
+Lucky Lotus brand Hot Luu Tapioca Snack packaged in 7 ounce flexible plastic 
+packages.  Product of Vietnam.
+Recall #F-473-9.
+CODE
+None.
+MANUFACTURER
+Nam Hai Company, Ltd., Ho Chi Minh, Vietnam.
+RECALLED BY
+Kien Import Corporation, Brooklyn, New York, by letter on December 23, 1998.  
+Completed recall resulted from sample analysis and follow-up by the New York 
+State Department of Agriculture and Markets.
+DISTRIBUTION
+Massachusetts, Rhode Island, Connecticut, New Jersey, New York, Pennsylvania, 
+Maryland, Virginia, North Carolina.
+QUANTITY
+31 cases (50 packages per case) were imported.
+REASON
+Product contained Ponceau 4R (an unapproved color additive) and it contained 
+undeclared FD&C Yellow No. 5 and FD&C Blue No. 1.
+
+
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+________
+PRODUCT
+Medical foods in steel cans with a paper label. Note that firm's "AMTF Tube 
+Feeding" product in aluminum cans with a lithograph label are not a part of this 
+recall:
+a) AMTF Basic Formula, Ready to Use, 8 FL OZ. "Manufactured for Nyer Nutritional 
+Systems, Inc. Phoenix, Arizona 85014".
+b) Nutriflavor, Delicious Lemon Artificial Flavor, 8 FL OZ. "Manufactured for 
+Nyer Nutritional Systems, Inc. Phoenix, Arizona 85014".
+c) Nutriflavor, Delicious Orange Artificial Flavor, 8 FL OZ.  "Manufactured for 
+Nyer Nutritional Systems, Inc. Phoenix, Arizona 85014".
+d) AMTF Pediatric Formula, Ready to Use, 8 FL. OZ. "Manufactured for Nyer 
+Nutritional Systems, Inc. Phoenix, Arizona 85014".
+e) AMTF High-Protein Formula, Ready to Use, 8 FL. OZ. "Manufactured for Nyer 
+Nutritional Systems, Inc. Phoenix, Arizona 85014".
+f) AMTF Pulmonary Formula, Ready to Use, 8 FL. OZ. "Manufactured for  Nyer 
+Nutritional Systems, Inc. Phoenix, Arizona 85014".
+g) AMTF Diabetic Formula, Ready to Use, 8 FL OZ, "Manufactured for Nyer 
+Nutritional Systems, Inc. Phoenix, Arizona 85014".
+h) AMTF Trauma Formula, Ready to Use, 8 FL. OZ. "Manufactured for Nyer 
+Nutritional Systems, Inc. Phoenix, Arizona 85014".
+i) AMTF High-Cal 2.0 Formula, Ready to Use, 8 FL OZ, "Manufactured for Nyer 
+Nutritional Systems, Inc. Phoenix, Arizona 85014".
+j) AMTF Renal Formula, Ready to Use, 8 FL. OZ. "Manufactured for Nyer 
+Nutritional Systems, Inc. Phoenix, Arizona 85014" 
+Recall #F-475/484-9.
+CODE
+Codes beginning with: a) 9350; b) 9351; c) 9352; d) 9353; e) 9354; f) 9355; g) 
+9356; h) 9357; i) 9358; j) 9359.
+MANUFACTURER
+Amboy of Michigan, LLC (formerly Curtice Burns Foods, Benton Harbor, Michigan.
+RECALLED BY
+Nyer Nutritional Systems, Phoenix, Arizona, by letter and telephone on January 
+12, 1999, followed by visit.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Tennessee, California, Arizona, Texas, Ohio, Oklahoma, South Carolina.
+QUANTITY
+24,246 cases (24 cans per case) are subject to recall.
+REASON
+Product is held in detinning cans.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+________
+PRODUCT
+Compressed Medical Oxygen, USP, Rx product stored in D, N, and M6 size metal 
+type cylinders.  Recall #D-272-9.
+CODE
+Lot numbers:  990-220-01, 990-221-01, 990-222-01.
+MANUFACTURER
+Homecare Concepts, Inc., Farmingdale, New York.
+RECALLED BY
+Manufacturer, on May 13, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+New York.
+QUANTITY
+65 cylinders were distributed.
+REASON
+Incomplete testing for strength and identity.
+
+________
+PRODUCT
+Cephradine Capsules USP, 250 mg in bottles of 100, Rx indicated in the treatment 
+of respiratory tract infection, otitis media, skin and skin-structure 
+infections, and urinary tract infections.  NDC #0093-3153-01.
+Recall #D-274-9.
+CODE
+Lot #56214 EXP 9/99.
+MANUFACTURER
+Teva Pharmaceuticals, USA, Inc., Sellersville, Pennsylvania.
+RECALLED BY
+Manufacturer, by letter on June 15, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+Approximately 10,852 bottles were distributed; firm estimated that 2,700 bottles 
+remained on market at time of recall initiation.
+REASON
+Subpotency (stability).
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+________
+PRODUCT
+Rx controlled-substance cough syrups:
+a) ENDOTUSS HD(tm) Syrup, (Hydrocodone Bitartrate 1.67 mg, Phenylephrine 
+Hydrochloride 5 mg, Chlorpheniramine Maleate 2 mg), in one pint (473 mL) bottles
+b) POLYTINE D(tm) Syrup, (Phenylpropanolamine Hydrochloride 12.5 mg, 
+Phenyltoloxamine Citrate 4 mg, Pyrilamine Maleate 4 mg, Pheniramine Maleate 4 
+mg, Alcohol 4%), in one pint (473mL) bottles 
+c) POLYTINE CS (tm) Syrup, (Codeine Phosphate 10 mg, Phenylpropanolamine 
+Hydrochloride 12.5 mg, Brompheniramine Maleate 2 mg), in one pint (473 mL) 
+bottles
+d) CO-TUSSIN(tm) Syrup, (Hydrocodone Bitartrate 5 mg, Guaifenesin 100 mg) in one 
+pint  (473 mL ) bottles, all lot numbers.  Recall #D-269/271-9 and D-273-9.
+CODE
+(a) NDC 58634-0004-1 (EndoTuss HD)
+Lot Numbers/Exp. Dates:
+AA146, 09/2000
+AA152, 09/2000
+AA159, 11/2000
+AA164R, 12/2000
+AA170, 2/2001
+AA173, 3/2001
+b) NDC 58634-0010-1 (Polytine D)
+Lot Numbers/Exp. Date:
+AA153, 9/2000
+AA156, 10/2000
+AA163, 11/2000
+AA169, 3/2001
+c) NDC 58634-0009-1 (Polytine CS)
+Lot Numbers/Exp. Date:
+AA154, 10/2000
+AA160, 11/2000
+AA166, 1/2001
+AA177, 3/2001
+d) NDC 58634-0032-1 (CoTussin)
+Lot Numbers/Exp.Date:  
+AA161, 11/2000
+AA162, 12/2000
+AA165, 12/2000
+AA168, 2/2001
+AA172, 3/2001
+AA174, 3/2001.
+MANUFACTURER
+Signature Pharmaceuticals, Inc., Gloversville, New York.
+RECALLED BY
+Manufacturer, by letter dated June 8, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+a) EndoTuss HD:  16,165/one pint (473 ml) bottles
+b) Polytine D:   9,103/one pint (473 ml) bottles
+c) Polytine CS:  5,293/one pint (473 ml) bottles  
+d) CoTussin:     13,410/one pint (473 ml) bottles were distributed.
+REASON
+Lack of data to support labeled expiration date.
+
+________
+PRODUCT
+Supac Analgesic Tablets (Acetaminophen 160 mg, Aspirin 230 mg, Caffeine 33 mg), 
+in 100 and 1,000 tablet bottles, OTC analgesic. NDC Numbers:  0178 0100 01 and 
+0178 0100 10.
+Recall #D-275-9.
+CODE
+Lot Numbers         Expiration Date
+6A12                January 1999
+6G53                July 1999
+7F14                June 2000
+7K72                October 2000
+8D63                October 1999.
+MANUFACTURER
+Mission Pharmacal Company (MPC), San Antonio, Texas.
+RECALLED BY
+Manufacturer, by letter dated April 6, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+7,703 100-tablet bottles and 784 1,000-tablet bottles were distributed.
+REASON
+Free Salicylic Acid values exceed USP limit and/or content uniformity failures 
+for caffeine.
+
+________
+PRODUCT
+Tilade Inhaler (Nedocromil Sodium Inhalation Aerosol) 1.75 mg per actuation, 8.5 
+g (52 metered inhalations) professional samples, an inhaled anti-inflammatory 
+agent for the preventive management of mild to moderate asthma in adult and 
+pediatric patients 6 years of age and older. 
+NDC 0585-0685-98.  Recall #D-276-9.
+CODE
+Lot #A70732 EXP 8/99.
+MANUFACTURER
+Fisons PLC Pharmaceutical Division, United Kingdom.
+RECALLED BY
+Rhone Poulenc Rorer, Collegeville, Pennsylvania, by telephone on April 27, 1999, 
+followed by letter dated April 30, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Missouri and Arkansas.
+QUANTITY
+16 inhalers were distributed; firm estimates none remain on the market.
+REASON
+Failure to meet dose uniformity requirements.
+
+_______
+UPDATE
+Miacalin Nasal Spray (Novartis Pharmaceuticals Corporation), Recall #D-254-9, 
+which appeared in the June 23, 1999 Enforcement Report listed an incorrect lot 
+number "324A6496".  The correct number is "324A6495".  Also, the recall covers 
+all product "distributed" from 11/19/97 thru 5/20/99 rather than "manufactured" 
+during that time.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+________
+PRODUCT
+Red Blood Cells.  Recall #B-892-9.
+CODE
+Unit #FE00843.
+MANUFACTURER
+Healthcare Provider Services, Inc., Providence,
+Rhode Island.
+RECALLED BY
+Manufacturer, by letter dated January 13, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Rhode Island.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who traveled to an area considered 
+endemic for malaria.
+
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets.  Recall #B-893/894-9.
+CODE
+Unit #L92144.
+MANUFACTURER
+Healthcare Provider Services, Inc., Providence, Rhode Island.
+RECALLED BY
+Manufacturer, by telephone on January 4, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Rhode Island.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor who traveled to an area considered 
+endemic for malaria.
+
+________
+PRODUCT
+Red Blood Cells.  Recall #B-896-9.
+CODE
+Unit 04KF10531.
+MANUFACTURER
+American Red Cross Blood Services, Dedham, Massachusetts.
+RECALLED BY
+Manufacturer, by telephone on February 3, 1999, followed by letter dated 
+February 10, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Massachusetts.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor with no hemoglobin results documented 
+during screening.
+
+________
+PRODUCT
+Red Blood Cells, Leukocytes Reduced.  Recall #B-898-9.
+CODE
+Unit #32GE13783.
+MANUFACTURER
+American Red Cross Blood Services, Madison, Wisconsin.
+RECALLED BY
+Manufacturer, by telephone and by letter on March 20, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Wisconsin.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product for which documentation of irradiation was incomplete.
+
+________
+PRODUCT
+Platelets.  Recall #B-899-9.
+CODE
+Unit #32KM10592.
+MANUFACTURER
+American Red Cross Blood Services, Madison, Wisconsin.
+RECALLED BY
+Manufacturer, by telphone on August 10, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Wisconsin.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who had traveled to an area designated 
+as endemic for malaria.
+
+
+________
+PRODUCT>
+a) Red Blood Cells; b) Platelets.  Recall #B-918/919-9.
+CODE
+Unit #03GM48049.
+MANUFACTURER
+American Red Cross Blood Services, Atlanta, Georgia.
+RECALLED BY
+Manufacturer, by telephone on February 27, 1999, and March 11, 1999.  Firm-
+initiated recall complete.
+DISTRIBUTION
+Georgia and Pennsylvania.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products may have been contaminated during collection of sample tubes.
+
+________
+PRODUCT
+Platelets, Pheresis.  Recall #B-922-9.
+CODE
+Unit #6239753.
+MANUFACTURER
+Long Island Blood Services, Melville, New York.
+RECALLED BY
+Manufacturer, by letter dated May 23, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+New York.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product had an unacceptable platelet yield.
+
+________
+PRODUCT
+a) Red Blood Cells; b) Fresh Frozen Plasma.
+Recall #B-923/924-9.
+CODE
+Unit numbers: a) 36LK10888, 36GK00286, and 36LC10683 
+b) 36LK10888.
+MANUFACTURER
+American Red Cross Blood Services, Columbia, South Carolina.
+RECALLED BY
+Manufacturer, by letter dated November 16, 1998, or by telephone.  Firm-
+initiated recall complete.
+DISTRIBUTION
+South Carolina, North Carolina, Georgia.
+QUANTITY
+a) 3 units; b) 1 unit was distributed.
+REASON
+Blood products were collected from a donor taking the drug, Methotrexate.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+________
+PRODUCT
+Synthes Sterile Drill Bits, Part #356.982.  Recall #Z-985-9.
+CODE
+Lot numbers:  A6G7403 and A6G6911.
+MANUFACTURER
+Synthes (USA), Monument, Colorado.
+RECALLED BY
+Synthes USA, Paoli, Pennsylvania, by letter sent on April 1, 1998.  Firm-
+initiated recall complete.
+DISTRIBUTION
+Nationwide, Canada, Switzerland.
+QUANTITY
+283 units were distributed.
+REASON
+Package insert was not placed in packaging when the product was sent out.
+
+________
+PRODUCT
+Synthes Mandibular Modular Fixation System, Part #449.236.
+Recall #Z-986-9.
+CODE
+Lot #1005.
+MANUFACTURER
+Synthes (USA), Monument, Colorado.
+RECALLED BY
+Synthes USA, Paoli, Pennsylvania, by letter sent on March 25, 1998.  Firm-
+initiated recall complete.
+DISTRIBUTION
+California, Pennsylvania, North Carolina, New York, Tennessee, Texas.
+QUANTITY
+21 units were distributed.
+REASON
+Package insert was not placed in packaging when the product was sent out.
+
+________
+PRODUCT
+Synthes Spine Anterior Thoracolumbar Rod Clamp.
+Recall #Z-987-9.
+CODE
+Part #498.160.
+MANUFACTURER
+Synthes (USA), West Chester, Pennsylvania.
+RECALLED BY
+Synthes USA, Paoli, Pennsylvania, by letter on August 25, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+California, Colorado, Florida, Georgia, Illinois, Massachusetts, Maryland, 
+Minnesota, North Carolina, New Hampshire, New Jersey, New York, Pennsylvania, 
+Texas, Utah, Virginia, Washington state.
+QUANTITY
+46 units were distributed.
+REASON
+The connector is not compatible with VentroFix System.  The distance at which 
+the parallel connector maintains the rods is less than that which clamps 
+provide.
+
+________
+PRODUCT
+SK (sterile kits) kits, consisting of replacement seals and valves for cannulas:  
+Model SK1, SK2, SK3, SK4.
+Recall #Z-990/993-9.
+CODE
+Lots with Gibbons label:
+981380   981691   981731   981781   983510   983511.
+Lots with Smith & Nephew label:
+981390   981671   981681   981700   982380   982780
+982790   983450   983520.
+MANUFACTURER
+Gibbons Surgical Corporation, Virginia Beach, Virginia.
+RECALLED BY
+Manufacturer, by fax on May 17, 1999, followed by telephone.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Alabama, California, Pennsylvania, Texas, Michigan, Massachusetts, Missouri, 
+Austria, Germany.
+QUANTITY
+17,439 kits were distributed.
+REASON
+Devices were dosed at a different level than that documented in validation 
+study.
+
+________
+PRODUCT
+Liftmaster Patient Hoist, Models 160 and 190 (Catalog numbers AA8940/AA8945).  
+Recall #Z-1003/1004-9.
+CODE
+All units in the United States.
+MANUFACTURER
+Smith & Nephew Homecraft, Ltd., Farnham, Surrey, UK.
+RECALLED BY
+Smith & Nephew, Inc., Germantown, Wisconsin, by letter sent on June 7, 1999.  
+Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+24 lifts.
+REASON
+A bolt attaching the load-spreader to the boom of the lift can fracture due to 
+metal fatigue over time and allow the patient to fall to the floor.
+
+________
+PRODUCT
+Bard Cardiopulmonary Extracorporeal Cannulae, intended for use in cardiovascular 
+surgery to cannulate vessels or perfuse arteries:
+Z-1012-9 -- Models: 007300, 007301, 007302,007303.
+Overall Length: 17.5cm, 14-20F, 3/8 inch connector.
+Z-1013-9 -- Models: 007350,007351.
+Overall Length: 17.5cm, 10&12F, 1/4 inch connector.
+Z-1014-9  - Models: 007267, 007268, 007269, 007270, 007271.
+Overall Length: 41.5cm,16-24F, 3/8 inch connector.
+Z-1015-9 - Models: 007274, 007275, 007276, 007277, 007278, 007279, 007280, 
+007281,007282.  Overall Length: 41.5cm,10-26F, 1/4 inch Connector
+Z-1016-9 - Model: 007773.  Overall Length:27.5cm,12F, 1/4 inch connector.
+Z-1017-9- Model: 007720, 007721, 007722, 007723.
+Overall Length: 27.5cm,10-16F, 1/4 inch connector.
+Z-1018-9 - Model: GA***** Special Order product attributes, such as length, 
+French size, etc. GA*****
+Item #'s: 007274-007282, 007773, 007720-007723
+Special order-GAXXXXXX  
+* (X =ANY NUMBER 0-9)
+CODE
+Lot numbers:  All Lot Numbers 43CI--- through 43LI---,
+43AJ--- through 43EJ--- and Lot Numbers 43BI2019, 43BI2023 and 43BI2025.  Lot 
+Numbers 43BI--- through 43LI---, 43AJ---through 43EJ---.  (- represents any 
+number 0-9).
+MANUFACTURER
+C.R. Bard Puerto Rico, Las Piedras, Puerto Rico.
+RECALLED BY
+C.R. Bard, Inc., Haverhill, Massachusetts, by letter on June 7, 1999.  Firm-
+initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+46,539 units were distributed.
+REASON
+Sterile barrier may be compromised.
+
+________
+PRODUCT
+Argyle DeLee Suction Catheter w/Mucous Trap, intended to aspirate liquids or 
+semisolids from a patient's upper airway.  Recall #Z-1019-9.
+CODE
+Product code: 8888-257360.  Lot #9088054.
+MANUFACTURER
+Kelsar, S.A., Tijuana, Mexico.
+RECALLED BY
+Kendall Healthcare Products Company, Mansfield, Massachusetts, by fax on May 28, 
+1999, followed by letter on June 1, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and Canada.
+QUANTITY
+85 cases (50 units per case) were distributed.
+REASON
+Product may be non-sterile.
+
+________
+PRODUCT
+Laser Systems and Communication Lasers:
+a) Model No. DY Laser Systems;
+b) Model No. DYH Laser Systems;
+c) Model No. LCT Class IIIb Communication Laser.
+Recall #Z-1022/1024-9.
+CODE
+Model Number:  DY and DYH Laser Systems and LCT Communication Laser Systems.
+MANUFACTURER
+Power Technology, Inc., Mabelvale, Arkansas
+RECALLED BY
+Manufacturer.  FDA approved the firm's corrective action plan on June 15, 1999.  
+Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+23 units were distributed.
+REASON
+The model DY and DYH laser systems were introduced into commerce uncertified and 
+did not comply with the performance standard  (Section 538 of the Federal Food, 
+Drug, and Cosmetic Act and 21 CFR 1010.2). The Class IIIb LCT communication 
+lasers failed to have a remote interlock connector, an adequate beam attenuator, 
+and the correct text on the warning logotype label (CFR 21 1040.10(f)(3), 21 CFR 
+1040.10(f)(6), (21 CFR 1040.10(g)(2)(iii).
+
+________
+PRODUCT
+Vitros ECi Immunodiagnostic System, a random access immunodiagnostic analyzer 
+for use in clinical laboratories.  Recall #Z-1025-9.
+CODE
+Catalog No. 8633893, All units with the MOD E2 upgrade including but not limited 
+to Serial Nos. 30000256, 30000311, 30000333, 30000351, 30000358, 30000364, 
+30000369, 30000372, 30000376, 30000377, 30000386, 30000397, 30000402, 30000449, 
+30000451, 30000478, 30000578, 30000602, 30000622, 30000660, 30000671, 30000678, 
+30000697, 30000714, 30000736, 30000750, 30000752, 30000789, and 30000820.
+MANUFACTURER
+Ortho-Clinical Diagnostics, Rochester, New York.
+RECALLED BY
+Manufacturer, by letters dated March 22 and 29, 1999.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+Approximately 105 units are affected.
+REASON
+The shear valves in the reagent monitoring system may seize and stop dispensing 
+reagent.
+
+________
+PRODUCT
+MHS Manual Hexdriver, Part #10150, used to screw in or out the appropriate 
+10010-XX size bone screws that secure the Alphatec modular barrel plate 
+extensions against the proximal femur.  Recall #Z-1026-9.
+CODE
+Lot #M990188E.
+MANUFACTURER
+Alphatec Manufacturing Inc., Palm Desert, California.
+RECALLED BY
+Manufacturer, by letter on May 21, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Michigan, Georgia, Florida.
+QUANTITY
+27 units.
+REASON
+The hexdriver shaft was not heat treated as indicated in the specifications.
+
+________
+PRODUCT
+IVAC MedSystem III Infusion System, a three-channel microprocessor based fluid 
+delivery device for use to control and monitor infusion via intravenous, intra-
+arterial or subcutaneous routes:  a) Model 2860: three-channel, general purpose, 
+infusion pump, 110V;
+b) Model 2863: three-channel, general purpose, infusion pump, 110V;
+c) Model 2866: three-channel, general purpose, infusion pump, 220V 
+(international), and a power supply board kit for use as a replacement power 
+supply board for the Medsystem III pump.  Recall #Z-1027-9.
+CODE 
+Pump Serial Numbers less than 3351884; 
+Kit Serial Numbers:  2860646 and 2860531.
+MANUFACTURER
+Alaris Medical Systems, Inc., San Diego, California.
+RECALLED BY
+Manufacturer, by letter on May 28, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide, Canada, The Netherlands, Japan, American Somoa.
+QUANTITY
+2,851 pumps and 466 power supply board kits were distributed.
+REASON
+Capacitors in the power supply board are failing causing the pumps to shut 
+down/stop infusing without an alarm notifying the user.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+________
+PRODUCT
+1.5 mm TI Cortex Screw Self Tapping 8 mm and 12 mm,
+Part numbers 400.808.96 and 400.812.96.  
+Recall #Z-988/989-9.
+CODE
+Part number 400.808.96 Lot number A3KT631 and Part number 400.812.96 Lot number 
+A3KU527.
+MANUFACTURER
+Synthes (USA), Monument, Colorado.
+RECALLED BY
+Synthes USA, Paoli, Pennsylvania, by letter on April 8, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+496 units were distributed.
+REASON
+Product was mislabeled.  The label placed on the device was blue instead of 
+mauve.  A blue label is for 2.0 mm diameter screws.  The text on the label was 
+correct.
+
+________
+PRODUCT
+Ortho Chlamydia Antigen ELISA Test, diagnostic test kits.
+Recall #Z-999-9.
+CODE
+Catalog #550080, Lot #550080.034, Expiration Dates: 8/23/99 
+(reagent), 8/3/99 (kits).
+MANUFACTURER
+Meridian Diagnostics, Inc., Cincinnati, Ohio.
+RECALLED BY
+Meridian Diagnostics, Inc., Cincinnati, Ohio, by telephone, fax or mail on 
+October 6, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+310 kits were distributed.
+REASON
+OPD Substrate Tablets have deteriorated resulting in inaccurate test results.
+
+________
+PRODUCT
+ORTHO HSV Antigen ELISA Test, Modification, diagnostic test kits for the 
+detection of herpes simplex virus.
+Recall #Z-1000-9.
+CODE
+Catalog #550010, Lot #550010.042, EXP Date: 8/23/99 
+(reagent), 1/19/99 (kit).
+MANUFACTURER
+Meridian Diagnostics, Inc., Cincinnati, Ohio.
+RECALLED BY
+Manufacturer, by telephone, fax or mail on October 6, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Nationwide and Italy.
+QUANTITY
+433 kits were distributed.
+REASON
+The OPD Substrate Tablets have deteriorated resulting in inaccurate test 
+results.
+
+________
+PRODUCT
+Synthes (USA) Midfacial System Part Numbers 446.516 and 447.515.  Recall #Z-
+1005/1006-9.
+CODE
+Part number 446.516 Lot A3LU954 and Part number 447.515 lot A3LZ375.
+MANUFACTURER
+Synthes (USA), Monument, Colorado.
+RECALLED BY
+Synthes USA, Paoli, Pennsylvania, by letter sent on July 22, 1998.  Firm-
+initiated recall complete.
+DISTRIBUTION
+California, Florida, Michigan, Oregon, Texas.
+QUANTITY
+27 units were distributed.
+REASON
+Product was mislabeled.  The plates were anodized gold and should have been 
+green/gray.
+
+________
+PRODUCT
+One Shots HDL Precipitating Reagent, for in-vitro diagnostic use in 0.5 ml 
+tubes, packaged in a blue plastic pail containing 250 tubes.  Recall #Z-1011-9.
+CODE
+Catalog No. 3335-250, Lot Nos. MI20, EXP 10/31/98, and NG07, EXP 8/31/99.
+MANUFACTURER
+Data Medical Associates, Inc., Arlington, Texas.
+RECALLED BY
+Manufacturer, by telephone on October 2, 1997.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+2,241 pails were distributed.
+REASON
+The reagent tubes contain less reagent volume than indicated on the label.
+
+________
+PRODUCT
+Acufex Tibial Anchor Screw & Spiked Washer, indicated for use in fixation of 
+soft tissue in orthopedic procedures.
+Recall #Z-1020-9.
+CODE
+Catalog #7207-186.
+MANUFACTURER
+Smith & Nephew, Inc., Mansfield, Massachusetts.
+RECALLED BY
+Manufacturer, by letter on May 17, 1999, followed telephone and E-mail.  Firm-
+initiated recall ongoing.
+DISTRIBUTION
+Arkansas, Colorado, Massachusetts, Pennsylvania, Texas, Wisconsin, Africa, 
+Belgium, Singapore, France, Denmark.
+QUANTITY
+182 units were distributed.
+REASON
+The head of the screw may break during insertion.
+
+________
+PRODUCT
+IMx Estradiol Reagent Pack, List #2215-22, 100 tests,an in-vitro diagnostic 
+microparticle enzyme immunoassay for the quantitative measurement of estradiol 
+in human serumand plasma on the IMx Analyzer.  Recall #Z-1021-9.
+CODE
+Lot Numbers:  49001M100, 51758M300, 51585M400.
+MANUFACTURER
+Abbott Laboratories, Abbott Park, Illinois.
+RECALLED BY
+Manufacturer, by letter dated June 11, 1999, followed by telephone.  Firm-
+initiated recall ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+3,037 packs were distributed.
+REASON
+Lots may show underrecovery of estradiol with undiluted patient specimens.
+
+
+END OF ENFORCEMENT REPORT FOR JUNE 30, 1999.

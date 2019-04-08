@@ -1,0 +1,612 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Mar
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      26 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+01/20/1993
+
+Recalls and Field Corrections:  Foods -- Class II -- 01/20/1993
+
+
+JANUARY 20, 1993                                             93-3
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+
+PRODUCT        Tutti-Frutti Dessert Pasta, in 8 ounce cello bags, and in bulk
+               10 pound boxes.  Recall #F-122-3.
+CODE           All lots.
+MANUFACTURER   Oak Creek Farms, Edgar, Nebraska.
+RECALLED BY    Manufacturer, by telephone November 30, 1992, followed by
+               letter December 3, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   New York, California, Nebraska, Illinois, Texas.
+QUANTITY       200 10-pound boxes and 308 8-ounce bags were distributed.
+REASON         Product contains undeclared FD&C; Yellow No. 5 and 6.
+
+
+PRODUCT        Northeast brand Mushrooms Pieces and Stems, in 68 ounce cans.
+               Recall #F-123-3.
+CODE           MSP FCY 2302.
+MANUFACTURER   Product of China.
+RECALLED BY    Northeast Marketing Company, New Bedford, Massachusetts, by
+               letter on or about December 23, 1992.  Firm-initiated recall
+               ongoing.
+
+DISTRIBUTION   Massachusetts, Rhode Island.
+QUANTITY       948 cases (5 cans per case) were distributed.
+REASON         Product was processed and packed under unsanitary conditions
+               which may cause it to be adulterated with Staphylococcus
+               Enterotoxin.
+
+
+PRODUCT        Fruit syrup products under the following labels:
+               Borinquen brand:  Passion Fruit, Coconut, Raspberry, Tamarind,
+               Sugar Cane; Sesame Seed, Egg Nog, Grape;
+               Poly brand:  Passion Fruit, Coconut, Sour Sop, Guava, Sesame
+               Seed, Tamarind.  Recall #F-166/175-3.
+CODE           None.
+MANUFACTURER   Halcon Bakers, Inc., Caguas, Puerto Rico.
+RECALLED BY    Manufacturer, by telephone followed by letter September 15,
+               1992.  Firm-initiated recall complete.
+DISTRIBUTION   New York.
+QUANTITY       1,118 cases (12   24.5-ounce) and 1,052 cases (12 24.5-ounce)
+               were distributed; firm estimates none remains on the market.
+REASON         Product contains undeclared FD&C; Yellow No. 5.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+
+PRODUCT        Food Lion Unsweetened Pineapple Juice, in 46 ounce metal cans.
+               Recall #F-124-3.
+CODE           All product with the letters "ZM" in the coding.
+MANUFACTURER   Seneca Foods, Mountain Home, North Carolina.
+RECALLED BY    Food Lion, Inc., Salisbury, North Carolina, by memorandum
+               September 28-29, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   North Carolina, South Carolina, Virginia, Florida,
+               Pennsylvania, Tennessee, Texas.
+QUANTITY       6,653 cases were distributed.
+REASON         North Carolina Department of Agriculture, Food and Drug
+               Protection Division found the product is unfit for human
+               consumption due to foreign particles in cans of food, detinning
+               and deenameling.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+
+UPDATE         Bulk Neomycin Sulfate, USP, Powder, Recall #D-479-2,
+               manufactured by Upjohn Company, which appeared in the September
+               9, 1992 Enforcement Report should read:
+               CODE:  430HR, 073HT, 177FU, 178FU.  Lot #765FY should not be
+               included in recall
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+
+PRODUCT        Fentanyl Citrate and Droperidol Injections, in 2 ml vials, Rx
+               drugs indicated to produce tranquilization and analgesia for
+               surgical and diagnostic procedures.  Recall #D-100-3.
+CODE           Lot numbers 210092 EXP 4/94, 211050 EXP 5/94 (10 ampules);
+               211114 EXP 5/94 (10 single dose vials).
+MANUFACTURER   Astra Pharmaceutical Products, Inc., Westborough,       
+               Massachusetts.
+RECALLED BY    Manufacturer, by letter December 28, 1992.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       3,800 units of lot 210092, 200 units of lot 211050 and 4,300
+               units of lot 211114 were distributed.
+REASON         Supplier of bulk Fentanyl citrate ingredient used a
+               manufacturing method not currently approved.
+
+
+PRODUCT        Mallinckrodt T1-201 Thallous Chloride, in 10 ml vials, 1
+               mCi/ml, 8 mCi, A radioactive parenteral.  Recall #D-101-3.
+CODE           All vials in this recall bore the correct lot #1202351.
+MANUFACTURER   Mallinckrodt Medical, Inc., Maryland Heights, Missouri.
+RECALLED BY    Manufacturer, by telephone December 22, 1992.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Pennsylvania, Florida.
+QUANTITY       2 units were distributed.
+REASON         Two units (vial, can and insert) declare incorrect lot number
+               on can and insert.  Vial declares correct lot number.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+
+PRODUCT        Recovered Plasma.  Recall #B-115-3.
+CODE           Unit #SV0501982.
+MANUFACTURER   Personal Blood Storage of America, Inc., Columbia, South
+               Carolina.
+RECALLED BY    Manufacturer, by letter September 22, 1992.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Florida.
+QUANTITY       1 unit.
+REASON         Recovered Plasma, which tested repeatedly reactive for the
+               antibody to hepatitis B core antigen (anti-HBc), was
+               distributed for further manufacture into non-injectable
+               products without labeling to reflect the anti-HBc reactive
+               results.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+
+PRODUCT        (a) Platelets; (b) Recovered Plasma.  Recall #B-116/117-3.
+CODE           Unit #616307.
+MANUFACTURER   Belle Bonfils Memorial Blood Center, Denver, Colorado.
+RECALLED BY    Manufacturer, by telephone August 14, 1991.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Colorado, California.
+QUANTITY       1 unit of each component.
+REASON         Blood products, corresponding to a unit of Red Blood Cells
+               which was found to be contaminated with Pseudomonas flourescens
+               and Pseudomonas picketti, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS I
+
+PRODUCT        Responder Series 1500 Defibrillator.  Recall #Z-062-3.
+CODE           All serial numbers.
+MANUFACTURER   Marquette Electronics, Inc., Bangor, N. Ireland.
+RECALLED BY    Marquette Electronics, Inc., Milwaukee, Wisconsin, by letter
+               October 16, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       196 units.
+REASON         Potential for the device to fail to record patient ECG
+               tracings, without advising the user that the patient is not
+               connected.
+
+PRODUCT        Hystero-Flo Pump, Reorder #200346, a disposable, pneumatic
+               device designed to provide continuous, controlled, powered
+               irrigation during surgery and is intended for uterine
+               distention and irrigation during hysteroscopic procedures.
+               Recall #Z-118-3.
+CODE           All lots.
+MANUFACTURER   Davol, Inc., subsidiary of C.R. Bard, Inc., Lawrence, Kansas.
+RECALLED BY    Bard Reproductive Systems, C.R. Bard, Inc., Haverhill,
+               Massachusetts, by telephone October 26, 1992, followed by
+               letter.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       27,108 units were distributed.
+REASON         Failure of the pump's latex diaphragm could result in gas
+               introduction into the uterine cavity, causing an air embolism
+               and possible life-threatening complications.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+
+PRODUCT        TEC 1410 Anatomical Programming Generator:
+               (a) TEC 1410 Anatomical Programming Generator, x-ray control,
+               Model T 1410-1;
+               (b) TEC 1410 Anatomical Programming Generator, high voltage
+               generator, Model T 1410-3.  Recall #Z-119/120-3.
+CODE           Serial numbers:  Undetermined.
+MANUFACTURER   Tecnomed USA, Bay Shore, New York.
+RECALLED BY    Manufacturer.  FDA approved the firm's corrective action plan
+               November 16, 1992.  Firm-initiated field correction ongoing.
+DISTRIBUTION   No units sold in the United States.
+QUANTITY       There is a single unit located in the Technomed USA facility
+               warehouse.
+REASON         Noncompliance with the performance standards for x-ray products
+               in that product lacked complete reports of quality assurance
+               test procedures, test data, accuracy specifications, and had
+               improperly placed certification labels.
+
+
+PRODUCT        Introducer kits, used in conjunction with candela urinary and
+               biliary scopes to provide an open channel into the surgical
+               site within the body cavity allowing the introduction of a
+               surgical endoscope:
+               Miniflex Introducer Kits, designed to be used in the urinary
+               tract:
+               (a) Catalog #7120-004770 contains 1 Miniflex Introducer kit;
+               (b) Catalog #7120-00-6120 contains 4 Miniflex Introducer Kits;
+               Reddick/Saye (RS) Introducer Kits, designed to be used in a
+               surgical incision through a trocar:
+               (c) Catalog #7120-00-4760 contains 1 Rs Introducer Kit;
+               (d) Catalog #7120-00-6110 contains 4 RS Introducer Kits.
+               Recall #Z-110/113-3.
+CODE           Lot numbers:  (a) 7029201160036/92, 7039203720084/92,
+               7049202440103/92; (b) 7029201070036/92, 7039203950087/92,
+               7049202950108/92.
+MANUFACTURER   Cordis Corporation, Miami Lakes, Florida.
+RECALLED BY    Candela Laser Corporation, Wayland, Massachusetts, by letter
+               July 24, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       1,095 units were distributed.
+REASON         Sterility of the product may be compromised.
+
+
+PRODUCT        Reusable Techswitch Pencils, electrosurgical pencils:
+               (a) Model 9166; (b) Model 9167.  Recall #Z-160/161-3.
+CODE           Lot numbers:  (a) CA019257, CA039257, CA049257, CA069257,
+               CA089257, CB089257; (b) CA039258.
+MANUFACTURER   Aspen Labs, Inc., Englewood, Colorado.
+RECALLED BY    Manufacturer, by letter November 5, 1992.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   California, Colorado, Tennessee, Wisconsin, Pennsylvania,
+               Illinois, Washington state, New York, Alabama, Oregon,
+               Michigan, Texas, Maryland, Canada.
+QUANTITY       13,900 pieces were distributed.
+REASON         Control buttons were manufactured from an inappropriate
+               material.  If this material is autoclaved, it may cause the
+               buttons to distort and/or fall off.
+
+
+PRODUCT        Bicarbolyte Bicarbonate Hemodialysis Concentrate Acidified
+               Portion (36.83X) 2DX, used with dual proportioning artificial
+               kidney machines.  Recall #Z-186-3.
+CODE           Lot #JUN 93 JU 19.
+MANUFACTURER   Bicarbolyte Wisconsin, Oak Creek, Wisconsin.
+RECALLED BY    Bicarbolyte, Alexandria, Virginia, by telephone on or about
+               July 8, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Wisconsin.
+QUANTITY       Approximately 4 1-gallon drums were distributed.
+REASON         Product contains 3.9 mEq/L potassium instead of 2.0 mEq/L as
+               labeled.
+
+
+PRODUCT        (a) Mid Cross Brace; (b) End Cross Brace; (c) Support Rod
+               Components, used with the Selby 1 Spine Fixation Kit.  The
+               Selby 1 system is intended for use in stabilizing and
+               supporting the spine during sacral/iliac/lamina attachment
+               procedures.  Recall #Z-191/193-3.
+CODE           To include all lots for part numbers:
+               SS-1000-C.B.R.H. (Mid-High Profile); SS-1000-C.B.L.H. (Mid-High
+               Profile); SS-1000-C.B.R.H.-L.P. (Mid Low-Profile);
+               SS-1000-C.B.L.H.-L.P. (Mid Low-Profile); SS-1000-E.C.B.R.H.;
+               SS-1000-E.C.B.L.H.; SS-1000-6-4.0-175; SS-1000-6-3.5-175;
+               SS-1000-6-3.0-175; SS-1000-6-2.5-175.
+MANUFACTURER   Advance Spine Fixation Systems, Inc., Cypress, California.
+RECALLED BY    Manufacturer, by letter October 14, 1992.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Texas, Minnesota, Oregon, California, Georgia, Colorado.
+QUANTITY       989 units were distributed.
+REASON         The device components were shipped prior to receiving 510(k).
+
+
+PRODUCT        Crib Monitor, breathing frequency device.  Recall #Z-198-3.
+CODE           All lots.
+MANUFACTURER   Perinatronics, Inc., Palm Beach Gardens, Florida.
+RECALLED BY    Manufacturer, by letter September 17, 1992.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       245 units were distributed; firm estimates 103 units remain on
+               the market.
+REASON         Product was distributed without 510(k) approval.
+
+
+PRODUCT        Ortholoc Modular Total Condylar Femoral Prosthesis:
+               (a) Catalog #1880-0010, Medium/Left (Modular IV), porous
+               coated;
+               (b) Catalog #1880-0012, Medium/Right (Modular IV), porous
+               coated;
+               (c) Catalog #1885-0010, Medium/Left (Modular IV-C), non-porous.
+               Recall #Z-199/201-3.
+CODE           Lot numbers:  (a) 092M781560; (b) 082M765020; (c) 082M57960,
+               092M774060.
+MANUFACTURER   Dow Corning Wright, Inc., Arlington, Tennessee.
+RECALLED BY    Manufacturer, by memorandum November 2, 1992.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Arizona, California, Colorado, Connecticut, Florida, Iowa,
+               Kansas, Kentucky, Louisiana, Michigan, Missouri, Nebraska, New
+               Jersey, Ohio, Oregon, Pennsylvania, Utah, Virginia, Washington
+               state, West Virginia.
+QUANTITY       44 units were distributed.
+REASON         The outer carton labeling may not correspond with the outer and
+               inner sterile tyvek blister package labels.
+
+                                       -6-
+
+PRODUCT        Sterile medical devices:
+               (a) PCA/Syringe Pump V Set, Catalog #V3 GII;
+               (b) Pediatric V Set, Catalog #V4 GISL;
+               (c) Two Way V Set, Catalog #V2 VY;
+               (d) ICU V Set, Catalog #V4 GILL;
+               (e) General/Labor Ward V Set, Catalog #V3 GIS;
+               (f) Amnicots, Catalog #0-100.  Recall #Z-208/213-3.
+CODE           All lots prior to 12/01/92.
+MANUFACTURER   Go Medical Industry Pty. Ltd., Subiaco 6008 Western Australia.
+RECALLED BY    Pacific Rim Medical, Inc., Nashville, Tennessee, by letter
+               December 16, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   (a-e) Arizona, California, Missouri, North Carolina, Ohio,
+               Pennsylvania, Tennessee, Wisconsin; (f) Nationwide and Canada.
+QUANTITY       (a-e) 19,104; (f) 94,000 units were distributed.
+REASON         Sterilization procedures has not been validated.  Products were
+               also illegally imported in violation of an automatic detention
+               order.
+
+PRODUCTS       Angeflator Balloon Inflation Device, coronary angioplasty
+               balloon inflation pump, Model AFL-20.  Recall #Z-214-3.
+CODE           Lot numbers:  2NBC59, 2QBC99, 2TBC16.
+MANUFACTURER   B. Braun Medical, Inc., Burron Cardiovascular Division,
+               Minneapolis, Minnesota.
+RECALLED BY    Manufacturer, by letter December 7, 1992.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Florida, Georgia, Kansas, Michigan, Minnesota, New Jersey, New
+               York, Oklahoma, Pennsylvania, Texas, and international.
+QUANTITY       275 units were distributed.
+REASON         An incorrect bezel (glass covers) may interfere with the
+               pointer movement, which can cause the displayed pressure to be
+               significantly below the actual pressure.
+
+
+PRODUCT        Blood Glucose Test Strips, an in-vitro diagnostic used with a
+               supreme meter to determine blood glucose levels in diabetics.
+               Recall #Z-215-3.
+CODE           100-289, 296-307, 310-492, 59101-95103.
+MANUFACTURER   Hypoguard (Exports), Inc., Suffolk, England, UK.
+RECALLED BY    British American Medical, Inc., Laguna Hills, California, by
+               letter December 17, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Maine, New Jersey, Washington, D.C., Georgia, Florida,
+               Michigan, Wisconsin, Minnesota, California.
+QUANTITY       15,640 units were distributed; firm estimates that less than
+               200 bottles remain on the market.
+REASON         The strips may contain a manufacturing defect which causes the
+               strips to read blood glucose levels inaccurately.
+
+
+PRODUCT        Command2 Console Bracket, Part #2296-3-10.  The product is a
+               bracket which attaches to an I.V. pole for placement of a
+               Command Microlectric Console.  Recall #Z-216-3.
+CODE           None.
+MANUFACTURER   Stryker Corporation, Instruments Division, Kalamazoo, Michigan.
+RECALLED BY    Manufacturer, by letter November 25, 1992.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       37 units were distributed.
+REASON         Inadequate fixation can cause the I.V. Console Plate to fall
+               off of an I.V. stand when loaded with weight.
+
+
+PRODUCT        ACS Hi-Torque Floppy II Exchange Wire Microglide Coating,
+               Catalog #22369MJ, intended to facilitate the placement of
+               balloon dilatation catheters during percutaneous transluminal
+               coronary angioplasty (PTCA), and/or percutaneous transluminal
+               angioplasty (PTA).  Recall #Z-218-3.
+CODE           Lot numbers 2082751, 2090852, 2091651.
+MANUFACTURER   Advanced Cardiovascular Systems, Inc., Temecula, California.
+RECALLED BY    Manufacturer, by letter October 9, 1992.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Ohio, Tennessee, New York, Indiana, Minnesota, Michigan,
+               Florida, Canada, Italy.
+QUANTITY       121 units were distributed.
+REASON         The labeling indicates that the guidewire has a 30 cm
+               radiopaque tip when the product actually has a 2 cm radiopaque
+               tip.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+
+PRODUCT        Reciprocating Blade, 23.0 mm cut edge, Part # 1675-107, a
+               cutting accessory for orthopedic bone saw.  Recall #Z-145-3.
+CODE           Lot #92060231.
+MANUFACTURER   Stryker Corporation, Instruments Division, Kalamazoo, Michigan.
+RECALLED BY    Manufacturer, by letter September 28, 1992.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   New York, Pennsylvania, South Carolina, Virginia.
+QUANTITY       4 boxes (3 units per box) were distributed.
+REASON         Each  individual blade package may not have a part
+               identification label on it.
+
+
+PRODUCT        BBL Opticult.  Product consists of 10 disposable plastic
+               containers with microbiological culture media, intended to be
+               used for subculturing of blood culture bottles.
+               Recall #Z-166-3.
+CODE           All lot numbers from June 1991 to November 1991.
+MANUFACTURER   Becton Dickinson Microbiology Systems, Cockeysville, Maryland.
+RECALLED BY    Manufacturer, by telephone on or about December 2, 1991, by fax
+               on or about December 19, 1991, followed by letter December 20,
+               1991.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       37,342 units were distributed.
+REASON         Portions of some lots exhibited leakage of blood/broth mixture
+               when inverted or opened during the subculturing process.
+
+
+PRODUCT        Invos 3100 Cerebral Oximeter, used as a monitor which when
+               connected to a sensor device, non-invasively measures the
+               approximate regional oxygen saturation (rSO2) of the hemoglobin
+               in the microvasculature of an adult's brain.  Recall #Z-169-3.
+CODE           Serial numbers:  101004, 101028, 101029, 101035, 101072,
+               101095.
+MANUFACTURER   Somanetics Corporation, Troy, Michigan.
+RECALLED BY    Manufacturer, by Fax and letter January 20 and 30, 1992, and
+               March 39, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   New York, New Jersey, Massachusetts, UK, Japan.
+QUANTITY       7 units were distributed; firm estimates none remains on the
+               market.
+REASON         Good manufacturing practice deficiencies and lack of device
+               history records.
+
+
+PRODUCT        Deklene II 7-0 Polypropylene Cardiovascular Nonabsorbable
+               Surgical Suture with T-6 Needle USP (blue monofilament:
+               (a) Catalog #D-7004M4; (b) Catalog #D-7063M4.
+               Recall #Z-181/182-3.
+CODE           Lot numbers:  (a) 02478, 02479A; (b) 02478, 02576P.
+MANUFACTURER   Deknatel, Inc., Fall River, Massachusetts.
+RECALLED BY    Manufacturer, by letter September 11, 1992.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       3 boxes of 12 paks of lot 02576P, 5 boxes of 12 paks of lot
+               02479A, 52 boxes of 12 paks of lot 02478 were distributed.
+REASON         The devices were labeled as containing 7-0 Suture and t-6
+               Needle, but may contain 5-0 Suture and T-1 Needle instead.
+
+
+PRODUCT        (a) Storz Disposable Trephine Blade, 8.0 mm, Product #E3096;
+               (b) Castroviejo Corneal Transplant Trephine Kit with 2/8.0 mm
+               blades, Product #E3094, used to cut donor corneal tissue,
+               therefore, no patient contact is made.  Recall #Z-183/184-3.
+CODE           Lot numbers (a) 19022C; (b) All lots.
+MANUFACTURER   Storz Instrument Company, St. Louis, Missouri.
+RECALLED BY    Manufacturer, by letter November 11, 1992.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       67 individually packaged blades and 29 blades which were put
+               into kits were distributed.
+REASON         7.25 mm blades may be packaged as 8.0 mm blades.
+
+
+PRODUCT        (a) Dacroswab Type 1, general all purpose sterile disposable
+               specimen collection swabs on an aluminum shaft used for the
+               collection of non-microbial specimens and viral specimens from
+               the ear, nose, and urethral canal such as herpes simplex virus,
+               packaged 100 swabs, 10 boxes per case, 1 per envelope;
+               (b) Calgiswab Type 4, sterile alginate swabs on ultrafine
+               flexible aluminum shafts for use as sampling specimens for
+               infectious diseases of the ear, nose, and throat, and sexually
+               transmitted diseases, packaged 100 swabs (10 boxes per case, 1
+               swab per envelope.  Recall #Z-194/195-3.
+CODE           Lot numbers:  (a) Lot #8784, reorder 174135; (b) 8948, reorder
+               #174116.
+MANUFACTURER   Spectrum Laboratories, Inc., Houston, Texas.
+RECALLED BY    Manufacturer, (a) by letter dated October 14, 1992; (b) by
+               letter dated November 13, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   (a) Nationwide, Canada, China, Finland; (b) Nationwide, Puerto
+               Rico, Bermuda, Canada.
+QUANTITY       (a) 157,200 swabs were distributed; FDA estimates 20 percent of
+               the product remains on the market; (b) 60 cases (1,000 swabs
+               per case) were distributed; FDA estimates that 20 percent of
+               the product remains on the market.
+REASON         The products do not conform to the firm's quality control
+               standards.
+
+
+UPDATE         Stryker Instruments' Medium Narrow Blade, Recall #Z-152-3,
+               which appeared in the December 30, 1992 Enforcement Report
+               should have read Part #2296-3-114.
+
+
+MEDICAL DEVICE SAFETY ALERTS:
+
+PRODUCT        Disposable low pressure gas/driven irrigating pumps used in
+               arthroscopic procedures:
+               (a) Davol Arthro-Flo Pump (K870915), Reorder #0037750;
+               (b) Davol Arthro-Flo Pump (K913028), Reorder #0015000.
+               Safety Alert #M-010/011-3.
+CODE           All lots.
+MANUFACTURER   Davol, Inc., Subsidiary of C.R. Bard, Inc., Lawrence, Kansas.
+ALERTED BY     Davol, Inc., Subsidiary of C.R. Bard, Inc., Cranston, Rhode
+               Island, by letter October 23, 1992.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       461,517 units were distributed.
+REASON         The device is contraindicated in hysteroscopy due to diaphragm
+               failure.
+
+
+PRODUCT        Omitron 2000, Hi-Dose Rate Remote Afterloader System with
+               Ir-192, for brachytherapy radiation.  Safety Alert #M-012-3.
+CODE           All units.
+MANUFACTURER   Omnitron International, Inc., Houston Texas.
+ALERTED BY     Manufacturer, by letter December 17, 1992.
+DISTRIBUTION   Nationwide, Australia.
+QUANTITY       33 units were distributed.
+REASON         Possibility of source separating from wire during treatment
+               procedures.
+
+                                     -10-
+
+
+END OF ENFORCEMENT REPORT FOR JANUARY 20, 1993.  BLANK PAGES MAY
+FOLLOW.

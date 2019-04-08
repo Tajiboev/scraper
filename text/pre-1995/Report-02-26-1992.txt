@@ -1,0 +1,688 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      26 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+02/26/1992
+
+Recalls and Field Corrections:  February 26, 1992
+
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  product will cause serious adverse health consequences or
+                  death.
+
+
+Product:          (a) Frozen Razor Clams in 5 pound cans; (b) Minced Razor
+                  Clams, in 7 ounce cans.  Recall #F-116/117-2.
+Code:             (a) All lots produced since 9/1/91; (b) Lot #01118/BMRCL.
+Manufacturer:     Bell Buoy Crab Company, Seaside, Oregon.
+Recalled by:      Manufacturer, by telephone November 21-22, 1991.
+                  Firm-initiated recall complete.
+Distribution:     Washington state, Oregon, California, Virginia, Idaho.
+Quantity:         (a) 591 cans; (b) 96 cans were distributed.
+Reason:           Product is contaminated with Domoic Acid.
+
+                                     ----
+
+                                      -1-
+                                       
+
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the
+                  probability of serious adverse health consequences is
+                  remote.
+
+
+Product:          Mehaffies brand (a) Pineapple Pie; (b) Lemon Pies,
+                  32 ounces.  Recall #F-120/121-2.
+Code:             Pies coded with a pull date that expires 4 days from
+                  the date of manufacture.
+Manufacturer:     Mehaffies Pie Company, Dayton, Ohio.
+Recalled by:      Manufacturer, by visit July 11, 1991.  Firm-initiated
+                  recall complete.
+Distribution:     Ohio.
+Quantity:         Approximately (a) 80 pies; (b) 300 pies were distributed;
+                  none remains on market.
+Reason:           Product contained undeclared FD&C; Yellow No. 5.
+
+                                     ----
+
+Product:          Birds Eye Brussels Sprouts, in 10 ounce foil wrapped
+                  boxes.  Recall #F-122-2.
+Code:             Lot numbers NI0348 5, NI0348 6, NI0348 7.
+Manufacturer:     Norcal Crosetti Foods, Inc., Watsonville, California.
+Recalled by:      Kraft General Foods, Inc., Glenview, Illinois, by letter
+                  January 23, 1992.  Firm-initiated recall complete.
+Distribution:     Nationwide.
+Quantity:         1,515 cases (24 boxes per case) were distributed; firm
+                  estimates 30 percent remains on the market.
+Reason:           Product is contaminated with diesel fuel.
+
+                                     ----
+
+Product:          Kountry Fresh brand (a) Shelled Peanuts; (b) Roasted
+                  Peanuts, in 16 ounce glass jars.  Recall #F-123/124-2.
+Code:             Sell by 5-5-93B.
+Manufacturer:     John B. Sanfilippo & Son, Inc., Bainbridge, Georgia.
+Recalled by:      Manufacturer, by visit on or about January 31, 1992.
+                  Firm-initiated recall ongoing.
+Distribution:     Alabama.
+Quantity:         Unknown.
+Reason:           Product contains high aflatoxin levels.
+
+                                     ----
+
+Product:          Fresh Asparagus imported from Peru, in unlabeled 11
+                  pound cartons.  Recall #F-125-2.
+Code:             None.
+Manufacturer:     Frutech International Pompnao Beach, Florida.
+Recalled by:      Manufacturer, by telephone November 20, 1991, followed
+                  by letter November 21, 1991.  Firm-initiated recall
+                  complete.
+
+                                      -2-
+
+
+
+Distribution:     Florida, Michigan, New York, Georgia.
+Quantity:         392 cartons were distributed; firm estimates none
+                  remains remain on the market.
+Reason:           Product is contaminated with Chlorpyrifos.
+
+                                     ----
+
+Product:          Blended Margarine and Butter Products:
+                  (a) TW Services, 1 pound containers;
+                  (b) Gold-N-Sweet, 5 pound tubs;
+                  (c) Old Fashion, 20 pound pails;
+                  (d) One + Two (1+2), 1 pound containers, and 5 and
+                  50 pound pails;
+                  (e) Fancy Blend, 30 and 50 pound cubes.
+                  Recall #F-127/131-2.
+Code:             All lot codes that include the letters "CW".
+Manufacturer:     Wilsey Foods, Inc., City of Industry, California.
+Recalled by:      Manufacturer, by telephone November 12, 1991 and by
+                  press release issued by the State of California,
+                  Department of Health Services on November 14-15, 1991.
+                  Firm-initiated recall ongoing.
+Distribution:     Arizona, California, Hawaii, Nevada, Utah.
+Quantity:         Approximately 1,660,000 pounds were manufactured;
+                  FDA estimates that little product remains in commerce.
+Reason:           Product is contaminated with Staphylococcus enterotoxin.
+
+                                     ----
+
+                  Class III - A situation in which the use of, or exposure
+                  to a violative product is not likely to cause adverse
+                  health consequences.
+
+
+CORRECTION:       Bottled Water, Recall #F-112-2, manufactured by
+                  Cascade Clear Water Company, Sedro Wooley, Washington,
+                  which appeared in the January 29, 1992 Enforcement
+                  Report is a Class III recall.
+
+                                     ----
+
+                                   COSMETICS
+                  Class I -
+
+                                     NONE
+                  Class II -
+
+Product:          Hand Lotion, non-medicated, in 12 fluid ounce plastic
+                  pump bottles.  Recall #F-126-2.
+Code:             Lot numbers: MG0390, MG1190, MG1290, MG1390, MH0190
+                  MH0290, MH0990, MH1090, MH1790, MH2090, MH2190.
+Manufacturer:     Midik Corporation, Elkhart, Indiana.
+
+                                      -3-
+
+
+
+Recalled by:      Bristol-Myers Squibb Company, Evansville, Indiana, by
+                  voice mail message on October 25, 1991, followed by
+                  sales department bulletin dated October 30, 1991, and
+                  by letter October 31, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         84,660 bottles were distributed; firm estimates none
+                  remains on the market.
+Reason:           Product is contaminated with Pseudomonas Aeruginosa.
+
+                                     ----
+
+                  Class III -
+                                     NONE
+
+                           HUMAN DRUGS AND BIOLOGICS
+
+                  Class I -
+
+                                     NONE
+                  Class II - 
+
+Product:          LyphoMed brand Nitroglycerin Injection, USP, 5 mg/ml, in
+                  5 ml and 10 ml vials, a Rx injectable for intravenous
+                  infusion after dilution for control of blood pressure
+                  during surgical procedures.  Recall #D-214-2.
+Code:             Lot numbers:  110359 EXP 10/92 (5 ml), 110367 EXP 10/92
+                  (10 ml).
+Manufacturer:     Lyphomed, Division of Fujisawa USA, Inc., Melrose Park,
+                  Illinois.
+Recalled by:      Manufacturer, by letter February 7, 1992.  Firm-initiated
+                  recall ongoing.
+Distribution:     Florida, New York, California, New Jersey, Puerto Rico,
+                  India.
+Quantity:         24,250 5-ml vials and 15,720 10-ml vials were distributed;
+                  firm estimates none remains on the market.
+Reason:           Subpotency.
+                                     ----
+
+Product:          Levothroid (Levothyroxin Sodium, USP) Tablets, 100 mcg,
+                  in 100 tablet bottles, a Rx product used as a replacement
+                  for substitution therapy for diminished or absent thyroid
+                  function.  Recall #D-216-2.
+Code:             05428-1 EXP 4/93.
+Manufacturer:     Pharmacy Dispensing Quantities, Inc., Fort Scott, Kansas.
+                  (repacker/responsible firm).
+Recalled by:      Repacker, by letter December 23, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Nationwide.
+Quantity:         1,498 bottles were distributed.
+Reason:           An Inderal 10 mg tablet was found in a bottle of the
+                  product.
+
+                                     ----
+
+                                      -4-
+
+
+
+Product:          OTC Acetaminophen Liquid, cherry and grape flavors, in
+                  4 fluid ounce plastic bottles, with accompanying dosage
+                  cup, indicated for relief of children's fever and pain,
+                  under the K.C. Pharmaceuticals, Leiner Nutritional
+                  Products, and Topco Associates labels.  Recall #D-219-2.
+Code:             Lot numbers 9B21401, 9C21402, 9F21403, 9F21404, 0A025,
+                  0E048, OK018, 0M016, 0N029, 1D033, 1D035, EXP dates range
+                  from 3/91 to 11/92.
+Manufacturer:     K.C. Pharmaceuticals, Inc., Pomona, California.
+Recalled by:      Manufacturer, by letter January 10, 1992.  Firm-initiated
+                  recall ongoing.
+Distribution:     California, Illinois.
+Quantity:         81,822 bottles were distributed; FDA estimates 8,000
+                  bottles remain on the market.
+Reason:           Markings on dosage cup not totally compatible with label
+                  dosage instructions.
+
+                                     ----
+
+Product:          Platelets Pheresis.  Recall #B-121-2.
+Code:             Unit numbers:  21P27268, 21P27270, 21P27273S, 21P27274S,
+                  21P27274T.
+Manufacturer:     American Red Cross, Portland, Oregon.
+Recalled by:      Manufacturer, by telephone June 6, 1991, followed by
+                  letter June 21, 1991.  Firm-initiated recall complete.
+Distribution:     Oregon.
+Quantity:         5 units.
+Reason:           Blood products, labeled with incorrect expiration dates,
+                  were distributed.
+
+                                     ----
+
+Product:          Recovered Plasma.  Recall #B-128-2.
+Code:             Unit #53R77805.
+Manufacturer:     American Red Cross Blood Services, Baltimore, Maryland.
+Recalled by:      Manufacturer, by letter June 26, 1991.  Firm-initiated
+                  recall complete.
+Distribution:     Switzerland.
+Quantity:         1 unit.
+Reason:           Blood product drawn from an unsuitable donor was
+                  distributed.
+
+                                     ----
+
+Product:          Red Blood Cells.  Recall #B-130-2.
+Code:             Unit #1390990.
+Manufacturer:     Mississippi Blood Services, Inc., Jackson, Mississippi.
+Recalled by:      Manufacturer, by telephone October 17, 1991, followed
+                  by letter November 14, 1991.  Firm-initiated recall
+                  complete.
+Distribution:     Mississippi.
+
+                                      -5-
+
+
+Quantity:         1 unit.
+Reason:           A unit of red blood cells, testing repeatably reactive
+                  for the antibody to hepatitis C virus encoded antigen
+                  (anti-HCV), was distributed.
+
+                                     ----
+
+Product:          Red Blood Cells.  Recall #B-131-2.
+Code:             Unit #1678135.
+Manufacturer:     Walson Army Hospital, Ft. Dix, New Jersey.
+Recalled by:      Manufacturer, by telephone September 26 or 27, 1991.
+                  Firm-initiated recall complete.
+Distribution:     New York.
+Quantity:         1 unit.
+Reason:           Blood component which tested repeatably reactive for
+                  hepatitis B surface antigen (HBsAg) was distributed for
+                  transfusion.
+                                     ----
+
+Product:          (a) Red Blood Cells; (b) Platelets; (c) Fresh Frozen
+                  Plasma; (d) Recovered Plasma.  Recall #B-135/138-2.
+Code:             Unit numbers:  21-54448, 21-58709, 21-62534, 21-64150,
+                  21-66371, 21-68787, 21-69882, 21-75061, 21-85046, 21-87455,
+                  21-90189, 35-17567, 35-20290, 35-22115, 35-25034, 35-37562,
+                  35-39564, 35-45190, 35-57740, 35-58126, 35-69974, 35-72033,
+                  35-77937, 35-78390, 35-79838, 35-87387, 35-94708, 35-99103,
+                  37-01509, 37-01906, 37-05957, 37-06798, 37-13446, 37-24155,
+                  37-29406, 37-31288;
+                  (b) 35-17567, 35-20290, 35-22115, 35-39564, 35-57740,
+                  35-58126, 35-69974, 35-72033, 35-79838, 35-78390, 35-87387,
+                  35-94708, 35-99103, 37-01509, 37-01906, 37-05957, 37-06798,
+                  37-13446, 37-24155, 37-29406, 37-31288;
+                  (c) 21-85046, 35-20290, 35-37562, 35-76782, 37-01906;
+                  (d) 21-54448, 21-58709, 21-62534, 21-64150, 21-66371,
+                  21-68787, 21-69882, 21-75061, 21-87455, 21-90189, 35-17567,
+                  35-22115, 35-25034, 35-39564, 35-45190, 35-57740, 35-58126,
+                  35-69974, 35-72033, 35-77937, 35-78390, 35-79838, 35-87387,
+                  35-94708, 35-99103, 37-01509, 37-05957, 37-06798, 37-13446,
+                  37-24155, 37-29406, 37-31288.
+Manufacturer:     Michigan Community Blood Center, doing business as
+                  Grand Valley Blood Program, Grand Rapids, Michigan.
+Recalled by:      Manufacturer, by telephone November 1, 1990, and by
+                  letters of January 2, 7 and 14, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Mississippi, Virginia, New York, California, New Jersey,
+                  Pennsylvania, Michigan.
+Quantity:         (a) 36 units; (b) 21 units; (c) 5 units; (d) 32 units.
+Reason:           Blood components, which tested non-reactive for the
+                  antibody to the human immunodeficiency virus type 1
+                  (anti-HIV-1) but were collected from donors who
+                  previously tested repeatably reactive for anti-HIV-1,
+                  were distributed.
+                                     ----
+
+                                      -6-
+
+
+Product:          Source Plasma.  Recall #B-145-2.
+Code:             Unit #XF9880.
+Manufacturer:     Indianapolis Blood Plasma, Inc., Indianapolis, Indiana.
+Recalled by:      Consignee notified firm October 8, 1991.  Recall complete.
+Distribution:     North Carolina.
+Quantity:         1 unit.
+Reason:           Blood product untested for the antibody to the human
+                  immunodeficiency virus type 1 (anti-HIV-1) and hepatitis B
+                  surface antigen (HBsAg) was distributed.
+
+                                     ----
+
+Product:          Platelets, Pooled.  Recall #B-147-2.
+Code:             Pool #FF63382.
+Manufacturer:     The Blood Center of Southeastern Wisconsin, Milwaukee,
+                  Wisconsin.
+Recalled by:      Manufacturer, by telephone July 25, 1991.  Firm-initiated
+                  recall complete.
+Distribution:     Wisconsin.
+Quantity:         1 unit.
+Reason:           Pooled Platelets, which contained platelets collected
+                  from an ineligible donor due to a reported history of
+                  hepatitis b exposure occurring two weeks prior to
+                  donation, were distributed.
+
+                                     ----
+
+                  Class III -
+
+Product:          Rx Tylenol with Codeine No. 3 Tablets, in 100 tablet
+                  bottles.  Recall #D-215-2.
+Code:             Lot #HC1632P EXP 3/94.
+Manufacturer:     McNeil Pharmaceutical Company, Dorado, Puerto Rico.
+Recalled by:      McNeil Pharmaceutical, Spring House, Pennsylvania,
+                  by letter January 20, 1992.  Firm-initiated recall ongoing.
+Distribution:     New York, Pennsylvania, Florida, Virginia, Maryland,
+                  Georgia, Alabama, West Virginia, South Carolina, Rhode
+                  Island, Connecticut, North Carolina, Maine, Vermont.
+Quantity:         13,680 bottles were distributed; firm estimates 1,000
+                  bottles remain on the market.
+Reason:           Some bottles in correctly labeled unit cartons were
+                  placed in a packer labeled Tylenol with Codeine No. 2
+                  tablets.  The outer shipping carton is correctly labeled.
+
+                                     ----
+
+Product:          Trandate (Labetalol Hydrochloride) Tablets, 100 mg, in
+                  100 tablet bottles, a Rx drug for use in the management
+                  of hypertension.  Recall #D-217-2.
+Code:             Z60300MX EXP MAY94.
+Manufacturer:     Pharmacy Dispensing Quantities, Inc., Ft. Scott, Kansas
+                  (repacker/responsible firm).
+
+                                      -7-
+
+
+
+Recalled by:      Repacker, by letter August 13, 1991.  Firm-initiated
+                  recall complete.
+Distribution:     New York, Missouri, Tennessee, South Dakota, Idaho,
+                  Ohio, Pennsylvania, Indiana.
+Quantity:         140 bottles were distributed.
+Reason:           The label correctly declares the product as 100 mg
+                  but the ingredient statement shows the product as 200 mg.
+
+                                     ----
+
+Product:          Clonidine HCl Tablets, 0.3 mg, in 100 tablet bottles, a
+                  Rx drug indicated for the treatment of hypertension,
+                  under the Best label only.  Recall #D-218-2.
+Code:             Lot numbers 322991 EXP 8/93, 127491 EXP 9/93.
+Manufacturer:     Par Pharmaceutical, Inc., Spring Valley, New York.
+Recalled by:      Manufacturer.  Firm-initiated recall ongoing.
+Distribution:     Florida.
+Quantity:         72 bottles were distributed.
+Reason:           Correct tablet number 112 was misprinted as 110 on the
+                  side panel of the Best brand label.
+
+                                     ----
+
+Product:          (a) Platelets Pheresis; (b) Source Leukocytes.
+                  Recall #B-119/120-2.
+Code:             Unit numbers:  (a) 21P27407, 21P27409; (b) 21F12431.
+Manufacturer:     American Red Cross, Pacific Northwest Services,
+                  Portland, Oregon.
+Recalled by:      Manufacturer, by letter June 24, 1991.  Firm-initiated
+                  recall complete.
+Distribution:     Oregon, Washington state.
+Quantity:         (a) 2 units; (b) 1 unit.
+Reason:           Blood products, incorrectly tested for the antibody
+                  to the hepatitis C virus (anti-HCV), were distributed.
+
+                                     ----
+
+Product:          Red Blood Cells.  Recall #B-129-2.
+Code:             Unit numbers: 5161923 through 5161930, 5161932, 5161933,
+                  5161935, 5161936, 5161939, 5161944, 5161946, 5161949,
+                  5161950, 5161951.
+Manufacturer:     Department of the Navy, Naval Hospital Camp Lejeune,
+                  Camp Lejeune, North Carolina.
+Recalled by:      Manufacturer, by telephone August 28-29, 1991.  Firm-
+                  initiated recall complete.
+Distribution:     North Carolina, New Jersey.
+Quantity:         18 units.
+Reason:           Red Blood Cells labeled with incorrect expiration
+                  dates were distributed.
+
+                                     ----
+
+                                      -8-
+
+
+
+Product:          (a) Red Blood Cells; (b) Platelets; (c) Recovered Plasma;
+                  (d) Fresh Frozen Plasma; (e) Cryoprecipitated AHF.
+                  Recall #B-139/143-2.
+Code:             Unit numbers:  (a) 21-65779, 21-75172, 32-67143, 35-34999,
+                  35-39374, 35-39472, 35-40820, 35-42151, 35-45886, 35-47282,
+                  35-50970, 35-51753, 35-52477, 35-53952, 35-53986, 35-55003,
+                  35-56697, 35-59369, 35-60827, 35-64630, 35-65208, 35-71771,
+                  35-73412, 35-76782, 35-76793, 35-77105, 35-77285, 35-77492,
+                  35-82167, 35-87288, 35-89389, 35-89831, 35-91751, 35-94573,
+                  35-95222, 35-96137, 35-97931, 35-01399, 37-02147, 37-05105,
+                  37-10576, 37-12827, 37-16040, 37-16873, 37-20114, 37-21703,
+                  37-22351, 37-26799, 37-27245, 37-30921, 37-33717, 37-36371,
+                  37-36838, 37-37409, 41-09170, 41-10558, 41-11004, 41-11898,
+                  41-11946, 41-12982, 41-12989, 41-15625;
+                  (b) 32-67143, 35-34999, 35-39374, 35-39472, 35-40820,
+                  35-42151, 35-45886, 35-47282, 35-50970, 35-51753, 35-52477,
+                  35-53952, 35-53986, 35-55003, 35-56697, 35-59369, 35-60827,
+                  35-64630, 35-65208, 35-71771, 35-73412, 35-76782, 35-76793,
+                  35-77105, 35-77285, 35-82167, 35-87288, 35-89389, 35-91751,
+                  35-94573, 35-95222, 35-96137, 37-01399, 37-02147, 37-05105,
+                  37-10576, 37-12827, 37-16040, 37-16873, 37-20114, 37-22351,
+                  37-26799, 37-27245, 37-33717, 37-36371, 37-37409, 41-11004,
+                  41-11898, 41-11946, 41-12989;
+                  (c) 21-65779, 21-75172, 32-67143, 32-67287, 35-39374,
+                  35-39472, 35-40820, 35-45866, 35-50970, 35-51753, 35-52477,
+                  35-53952, 35-53986, 35-56697, 35-60827, 35-64630, 35-65208,
+                  35-71771, 35-73412, 35-76793, 35-77105, 35-77285, 35-77492,
+                  35-82167, 35-89389, 35-89831, 35-91751, 35-94573, 35-95222,
+                  35-96137, 35-97931, 37-01399, 37-12827, 37-16040, 37-16873,
+                  37-21703, 37-22351, 37-26799, 37-27245, 37-30921, 37-33717,
+                  37-36838, 41-09170, 41-10558, 41-11004, 41-11898, 41-11946,
+                  41-12982, 41-12989, 41-15625;
+                  (d) 35-34999, 35-42151, 35-47282, 35-55003, 35-59369,
+                  35-87288, 35-02147, 37-05105, 37-10576, 37-20114, 37-36371,
+                  37-37409;
+                  (e) 35-89831, 35-97931, 35-21703, 37-30921, 37-36838,
+                  41-11004, 41-11898, 41-12982.
+Manufacturer:     Michigan Community Blood Center, doing business as
+                  Grand Valley Blood Program, Grand Rapids, Michigan.
+Recalled by:      Manufacturer, by telephone November 1, 1990, and by
+                  letters of January 2, 7, and 14, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Mississippi, Virginia, New York, California, New Jersey,
+                  Pennsylvania, Michigan.
+Quantity:         (a) 62 units; (b) 50 units; (c) 50 units; (d) 12 units;
+                  (e) 8 units.
+Reason:           Blood components, which tested non-reactive for the
+                  antibody to the human immunodeficiency virus type 1
+                  (anti-HIV-1) but were collected from donors who
+                  previously tested repeatably reactive for anti-HIV-1,
+                  were distributed.
+
+                                     ----
+
+                                      -9-
+
+
+
+Product:          Source Plasma.  Recall #B-144-2.
+Code:             Unit #52396.
+Manufacturer:     Sera-Tec Biologicals, Inc., Toledo, Ohio.
+Recalled by:      Consignee notified firm on or about July 10, 1991.
+                  Recall complete.
+Distribution:     Michigan.
+Quantity:         1 unit.
+Reason:           Blood products from two different donors were
+                  labeled with identical bleed numbers and released.
+
+                                     ----
+
+Product:          Red Blood Cells.  Recall #B-146-2.
+Code:             Unit #6035521.
+Manufacturer:     Community Blood Center, Inc., Appleton, Wisconsin.
+Recalled by:      Consignee notified firm by telephone December 31, 1991.
+                  Recall complete.
+Distribution:     Kentucky.
+Quantity:         1 unit.
+Reason:           A unit of Red Blood Cells, labeled with the incorrect
+                  expiration date, was distributed.
+
+                                     ----
+
+                       DEVICES AND RADIOLOGICAL PRODUCTS
+
+
+                  Class I -
+
+                                     NONE
+
+                  Class II -
+
+CORRECTION:       Recall #Z-295-2, which appeared in the February 12, 1992
+                  Enforcement Report should read:
+
+Product:          Externally Assembled Lower Limb Prosthesis, AKA, Above 
+                  Knee Prosthesis Appliance/Artificial Leg.  Only those
+                  units manufactured using the Teh Lin above the knee wood
+                  block, TWB-4 series are involved.  Only units manufactured
+                  from 1/91 through 10/91 may contain this component.  This
+                  is a custom device that is labeled:  Harry J. Lawall & Son,
+                  Philadelphia, Pennsylvania.  Recall #Z-295-2.
+
+Reason:           The Teh Lin above the knee wood block, TWB-4 series
+                  component appeared to be fracturing while in use and
+                  may cause a severe malalignment of the leg components.
+
+                                     ----
+
+                                     -10-
+
+
+
+                  Class III -
+
+Product:          ZMS IM Fixation Tibial Nails, orthopedic implant products
+                  used in fracture fixation of the tibia:
+                  1.  Catalog No. 2238-09-40, 9mm diameter and 40cm length
+                  2.  Catalog No. 2238-09-42, 9mm diameter and 42cm length
+                  3.  Catalog No. 2238-09-44, 9mm diameter and 44cm length
+                  4.  Catalog No. 2238-10-40, 10mm diameter and 40cm length
+                  5.  Catalog No. 2238-10-42, 10mm diameter and 42cm length
+                  6.  Catalog No. 2238-10-44, 10mm diameter and 44cm length
+                  7.  Catalog No. 2238-11-40, 11mm diameter and 40cm length
+                  8.  Catalog No. 2238-11-42, 11mm diameter and 42cm length
+                  9.  Catalog No. 2238-11-44, 11mm diameter and 44cm length
+                  10. Catalog No. 2238-12-40, 12mm diameter and 40cm length
+                  11. Catalog No. 2238-12-42, 12mm diameter and 42cm length
+                  12. Catalog No. 2238-12-44, 12mm diameter and 44cm length
+                  13. Catalog No. 2238-13-40, 13mm diameter and 40cm length
+                  14. Catalog No. 2238-13-42, 13mm diameter and 44cm length
+                  15. Catalog No. 2238-13-44, 13mm diameter and 44cm length
+                  16. Catalog No. 2238-14-40, 14mm diameter and 40cm length
+                  17. Catalog No. 2238-14-42, 14mm diameter and 42cm length
+                  18. Catalog No. 2238-14-44, 14mm diameter and 44cm length
+                  Recall #Z-323/340-2.
+Code:             Lot numbers:
+                  (1) 78262100; (2) 78262200; (3) 78262300; (4) 77691500;
+                  (5) 77691600; (6) 77691700; (7) 78610600; (8) 78610700;
+                  (9) 78610800; (10) 78734300; (11) 78734200; (12) 78734100;
+                  (13) 77963900; (14) 77964000; (15) 77964100; (16) 7808900;
+                  (17) 708089000; (18) 78089100.
+Manufacturer:     Zimmer, Inc., Warsaw, Indiana.
+Recalled by:      Manufacturer, by letter December 23, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Kentucky, New Jersey, Connecticut, Wisconsin, Virginia,
+                  Mississippi, California, South Carolina, Ohio.
+Quantity:         76 pieces were distributed.
+Reason:           The tibial nails have light green stickers that code for
+                  femoral nails instead of the correct black stickers for
+                  tibial nails.
+                                     ----
+
+                             VETERINARY PRODUCTS 
+
+                                     NONE
+
+                                     -11-
