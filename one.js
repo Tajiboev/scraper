@@ -1,59 +1,48 @@
-const fs = require("fs");
-const Excel = require('exceljs');
+const fs = require('fs');
+const _ = require('lodash')
+const Excel = require('exceljs')
 
-const files = fs.readdirSync('text/2000');
-const nm = 52;
-const working_file_name = files[nm];
-console.log('Working on', nm, 'of 2000');
-
-textjs(working_file_name);
-
-var errorFiles1995 = [3, 20, 32, 33, 48, 49, 50, 'total 53']
-var errorFiles1996 = [32, 'total50'];
-var errorFiles1997 = [13, 17, 20, 'total53'];
-var errorFiles1998 = [5, 11, 24, 49, 'total52'];
-var errorFiles1999 = ['32-0-products+solved', '47 may have problem with rec#', 'total51'];
-//checking for 1st dot (.) after reason can be errorprone
-// MOST ERRORS MUST HAVE BEEN RESOLVED WITH IF STATEMENT IN LOOKFORMULTIPLES(i)
-var errorFiles2000 = ['no-errors', 'total52'];
-
-function textjs(filename) {
-    fs.readFile(`text/2000/${filename}`, "utf8", function read(err, data) {
+const textjs = (filename) => {
+    fs.readFile(`text/${year}/${filename}`, "utf8", (err, data) => {
         if (err) {
-            console.log(`error while reading ${filename}`, err);
+            console.error(`error while reading ${filename}`, err);
         } else {
             process(data);
         }
     });
 }
 
-function process(text) {
-    var transformed = transform(text);
-    divide(transformed) //that's why all code below executes
+const accumulatorArray = []
+const process = (data) => {
+    let transformedText = transform(data);
+    let dividedAndFiltered = divideAndFilter(transformedText);
+    for (i of dividedAndFiltered) {
+        let extra = `${getCategory(i)} ${getClass(i)}`
+        singlify(i, extra)
+    } // gather to accumulatorArray
+    getTheInfo(accumulatorArray)
+
 }
 
-function transform(theText) {
-    var transformedText = theText
-        .toLowerCase()
-        .replace(/([ ]{2,})/g, " ")
-        .replace(/\./g, ".\n")
-        .replace(/RECALLS AND FIELD CORRECTIONS/ig, "KEYWORDHERE");
-    // .replace(/distribuion/g, "distribution");
-    // because of error in 1st of 2000
-    return transformedText;
+const transform = (text) => {
+    var transformed = text.toLowerCase().replace(/\s\s+/g, " ").replace(/([ ]{2,})/g, " ").replace(/\. /g, ".\n").replace(/Recalls and Field Corrections/gi, "KEYWORDHERE");
+    return transformed;
 }
 
-function divide(rawtext) {
-    var arr = [];
-    var keywordcount = rawtext.match(/KEYWORDHERE/g).length;
+const divideAndFilter = (rawtext) => {
+    let keywordcount = rawtext.match(/KEYWORDHERE/g).length;
+    let arr = [];
 
-    var initialPosition = rawtext.indexOf("KEYWORDHERE");
-    var nextPosition = rawtext.indexOf(
+    let initialPosition = rawtext.indexOf("KEYWORDHERE");
+    arr.push(initialPosition);
+    let nextPosition = rawtext.indexOf(
         "KEYWORDHERE",
         initialPosition + 1
     );
-    arr.push(initialPosition);
-    arr.push(nextPosition);
+    if (nextPosition != -1) {
+        arr.push(nextPosition);
+    }
+
     for (let i = 0; i <= keywordcount; i++) {
         initialPosition = nextPosition;
         nextPosition = rawtext.indexOf("KEYWORDHERE", initialPosition + 1);
@@ -64,110 +53,105 @@ function divide(rawtext) {
             arr.push(rawtext.length);
         }
     }
-    var paragraphs = [];
+
+    let paragraphs = [];
     for (let n = 0; n < arr.length - 1; n++) {
         var keyword_to_keyword = rawtext.slice(arr[n], arr[n + 1]);
-        paragraphs[n] = `${keyword_to_keyword.replace(/(\r\n|\n|\r)/gm, " ")}`;
+        paragraphs[n] = `${keyword_to_keyword}`.replace(/(\r\n|\n|\r)/gm, " ");
+
     };
 
-
-
-    var filtered_paragraphs = paragraphs.filter((elem) => {
-        return elem.includes("KEYWORDHERE: drug") || elem.includes("KEYWORDHERE: bio") || elem.includes("KEYWORDHERE: device")
+    let filtered_paragraphs = paragraphs.filter(elem => {
+        return (
+            elem.includes("KEYWORDHERE: drug") ||
+            elem.includes("KEYWORDHERE: bio") ||
+            elem.includes("KEYWORDHERE: device")
+        );
     });
-    // console.log(filtered_paragraphs);
-    var to_prod_final_array = [];
 
-    function lookForMultiples(item) {
-        let number_of_reasons = item.match(/reason/g).length;
-        let number_of_distributions = item.match(/distribution/g).length;
+    return filtered_paragraphs
+}
 
-        if (number_of_reasons == number_of_distributions) {
-            var number_of_products = number_of_reasons;
-        };
+const singlify = (text, cc) => {
+    let info = cc;
+    let product = text.indexOf('product')
+    if (product == -1) return
+    let reason = text.indexOf('reason', product)
+    let end = text.indexOf('.', reason)
+    let single = text.slice(product, end)
+    accumulatorArray.push(`${info} ${single}`)
+    let remaining = text.replace(single, '').replace('.', '').trimLeft()
+    singlify(remaining, info)
+}
 
-        if (number_of_products > 1) {
-            splitMultiples(item, number_of_products);
-        } else if (number_of_products == 1) {
-            to_prod_final_array.push(`${item}`)
+const getTheInfo = (container) => {
+    var lastResult = container.map((element) => {
+        return {
+            date: `${working_file_name.replace("Report-", "").replace(".txt", "")}`,
+            category: getCategory(element),
+            class: getClass(element),
+            name: getProductName(element),
+            recall_number: getRecallNumber(element),
+            manufacturer: getManufaturer(element),
+            distribution: getDistribution(element),
+            recall_date: getRecallDate(element),
+            recalled_by: getRecaller(element),
+            quantity: getQuantity(element),
+            reason: getReason(element)
         }
-    };
-
-    function splitMultiples(text, divisions) {
-        var classX = (elem) => elem.substr(elem.indexOf("class"), 9);
-        var categoryX = (element) => element.substr(element.indexOf("KEYWORDHERE:"), 17)
-        var position_start = text.indexOf("product");
-        var position_of_reason = text.indexOf("reason", position_start)
-        var position_end = text.indexOf(".", position_of_reason)
-
-        for (let i = 0; i < divisions; i++) {
-            var one_product = `${categoryX(text)} + ${classX(text)} + ${text.slice(position_start, position_end)}`;
-            to_prod_final_array.push(one_product);
-
-            position_start = text.indexOf("product", position_end);
-            position_of_reason = text.indexOf("reason", position_start);
-            position_end = text.indexOf(".", position_of_reason)
-        };
-    }
-
-    for (i of filtered_paragraphs) {
-        if (i.includes("reason") && i.includes("distribution")) {
-            // console.log(i);
-            lookForMultiples(i)
-        }
-    };
-
-    console.log(`There are ${to_prod_final_array.length} products in ${working_file_name}`);
-
-    getTheInfo(to_prod_final_array)
-
+    })
+    createXLSX(lastResult);
 };
 
-
-
-var lastResult = [];
-
-function createXLSX(last_arr) {
+const createXLSX = (last_arr) => {
     var workbook = new Excel.Workbook();
-    var worksheet = workbook.addWorksheet(`${working_file_name.replace('.txt', '')}`);
+    var worksheet = workbook.addWorksheet(
+        `${working_file_name.replace(".txt", "")}`
+    );
 
     worksheet.columns = [{
-            header: 'recall_classification_date',
-            key: 'date',
+            header: "RECALL_CLASSIFICATION_DATE",
+            key: "date"
         },
         {
-            header: 'product_type',
-            key: 'category',
+            header: "PRODUCT_TYPE",
+            key: "category"
         },
         {
-            header: 'classification',
-            key: 'class',
-        }, {
-            header: 'recall_number',
-            key: 'recall_number',
+            header: "CLASSIFICATION",
+            key: "class"
         },
         {
-            header: 'product',
-            key: 'name',
-        }, {
-            header: 'recalling_firm',
-            key: 'recalled_by',
+            header: "RECALL_NUMBER",
+            key: "recall_number"
         },
         {
-            header: 'manufacturer',
-            key: 'manufacturer',
-        }, {
-            header: 'recall_initiation_date',
-            key: 'recall_date',
-        }, {
-            header: 'reason',
-            key: 'reason',
-        }, {
-            header: 'volume',
-            key: 'quantity',
-        }, {
-            header: 'distribution',
-            key: 'distribution',
+            header: "PRODUCT",
+            key: "name"
+        },
+        {
+            header: "RECALLING_FIRM",
+            key: "recalled_by"
+        },
+        {
+            header: "MANUFACTURER",
+            key: "manufacturer"
+        },
+        {
+            header: "RECALL_INITIALIZATION_DATE",
+            key: "recall_date"
+        },
+        {
+            header: "REASON",
+            key: "reason"
+        },
+        {
+            header: "VOLUME",
+            key: "quantity"
+        },
+        {
+            header: "DISTRIBUTION",
+            key: "distribution"
         }
     ];
 
@@ -185,150 +169,170 @@ function createXLSX(last_arr) {
             quantity: i.quantity,
             reason: i.reason
         });
-    };
+    }
 
-    workbook.xlsx.writeFile(`excel/2000/${working_file_name.replace('.txt', '')}.xlsx`, 'utf8')
+    workbook.xlsx
+        .writeFile(
+            `excel/${year}/${working_file_name.replace(".txt", "")}.xlsx`,
+            "utf8"
+        )
         .then(function () {
-            console.log("done writing to Excel file")
+            console.log("done writing to Excel file");
         });
 } //--fn create excel end
 
-function beautify(text) {
-    return text.split(" ")
-        .map((s) => s.charAt(0).toUpperCase() + s.substring(1).toLowerCase())
-        .join(" ")
-        .replace(/(\r\n|\n|\r)/gm, " ")
-        .trim();
+const getClass = (element) => {
+    let classX = element.substr(element.indexOf("class"), 9).replace("class", "");
+    return _.words(classX.toUpperCase()).join(' ')
 }
 
-function getTheInfo(container) {
-    container.forEach(element => {
-        lastResult.push({
-            "date": `${working_file_name.replace('Report-', '').replace('.txt', '')}`,
-            "category": getCategory(element),
-            "class": getClass(element),
-            "name": getProductName(element),
-            "recall_number": getRecallNumber(element),
-            "manufacturer": getManufaturer(element),
-            "distribution": getDistribution(element),
-            "recall_date": getRecallDate(element),
-            "recalled_by": getRecaller(element),
-            "quantity": getQuantity(element),
-            "reason": getReason(element)
-        });
-    });
-    createXLSX(lastResult)
-};
-
-function getProductName(element) {
-    var pIndex = element.indexOf("product");
-    var dIndex = element.indexOf(".", pIndex);
-    if (dIndex - pIndex < 10) {
-        dIndex = element.indexOf(",", pIndex)
-    }
-    var pname = element.slice(pIndex, dIndex).replace("product", "");
-    return beautify(pname);
-}
-
-function getManufaturer(element) {
-    var mIndex = element.indexOf("manufacturer");
-    var dotIndex = element.indexOf(".", mIndex);
-    if (dotIndex - mIndex < 15) {
-        dotIndex = element.indexOf(",", mIndex)
-    }
-    var manufacturer = element
-        .slice(mIndex, dotIndex)
-        .replace("manufacturer", "");
-    return beautify(manufacturer);
-}
-
-function getDistribution(element) {
-    var disIndex = element.indexOf("distribution");
-    var dotIndex = element.indexOf(".", disIndex);
-    var distribution = element
-        .slice(disIndex, dotIndex)
-        .replace("distribution", "");
-    return beautify(distribution);
-}
-
-function getRecaller(element) {
-    var recIndex = element.indexOf("recalled by");
-    var dotIndex = element.indexOf(",", recIndex);
-    var recaller = element
-        .slice(recIndex, dotIndex)
-        .replace("recalled by", "");
-    return beautify(recaller);
-}
-
-function getQuantity(element) {
-    var qIndex = element.indexOf("quantity");
-    var dotIndex = element.indexOf(".", qIndex);
-    var quantity = element.slice(qIndex, dotIndex).replace("quantity", "").trim();
-    return quantity;
-}
-
-function getReason(element) {
-    var reaIndex = element.indexOf("reason");
-    var dotIndex = element.indexOf(".", reaIndex);
-    var commaIndex = element.indexOf(",", reaIndex);
-    if (dotIndex = element.length) {
-        var reason = element.slice(reaIndex, element.length).replace("reason", "");
-    } else {
-        var reason = element.slice(reaIndex, dotIndex).replace("reason", "");
-    };
-
-    if (reason.length < 15) {
-        reason = element.slice(reaIndex, commaIndex).replace("reason", "");
-    }
-    return beautify(reason);
-}
-
-function getClass(element) {
-    var classX = element.substr(element.indexOf("class"), 9).replace("class", "");
-    return classX.toUpperCase();
-}
-
-function getCategory(element) {
-    var categoryX = element
+const getCategory = (element) => {
+    let categoryX = element
         .substr(element.indexOf("KEYWORDHERE:"), 17)
-        .replace("KEYWORDHERE:", "").trim()
+        .replace("KEYWORDHERE:", "")
+        .trim();
 
     switch (categoryX) {
         case "drug":
-            categoryX = 'Drugs';
+            categoryX = "Drugs";
             break;
         case "biol":
-            categoryX = 'Biologics';
+            categoryX = "Biologics";
             break;
         case "devi":
-            categoryX = 'Devices';
+            categoryX = "Devices";
             break;
         default:
-            categoryX = 'N/A'
+            categoryX = "N/A";
     }
 
     return beautify(categoryX);
 }
 
-function getRecallNumber(element) {
-    var numIndex = element.indexOf("recall #");
-    var dotIndex = element.indexOf(".", numIndex);
-    var recallnumber = element.slice(numIndex, dotIndex).replace("recall #", "").trim();
+
+
+
+
+const getProductName = (element) => {
+    let pIndex = element.indexOf("product");
+    let dIndex = element.indexOf(".", pIndex);
+    if (dIndex - pIndex < 10) {
+        dIndex = element.indexOf(",", pIndex);
+    }
+    let pname = element.slice(pIndex, dIndex).replace("product", "");
+    return beautify(pname);
+}
+
+const getManufaturer = (element) => {
+    let mIndex = element.indexOf("manufacturer");
+    let dotIndex = element.indexOf(".", mIndex);
+    if (dotIndex - mIndex < 15) {
+        dotIndex = element.indexOf(",", mIndex);
+    }
+    let manufacturer = element
+        .slice(mIndex, dotIndex)
+        .replace("manufacturer", "");
+    return beautify(manufacturer);
+}
+
+const getDistribution = (element) => {
+    if (element.includes('distribution')) {
+        let disIndex = element.indexOf("distribution");
+        let dotIndex = element.indexOf(".", disIndex);
+        let distribution = element
+            .slice(disIndex, dotIndex)
+            .replace("distribution", "");
+        return beautify(distribution);
+    } else {
+        return 'N/A'
+    }
+}
+
+const getRecaller = (element) => {
+    let recIndex = element.indexOf("recalled by");
+    let dotIndex = element.indexOf(",", recIndex);
+    let recaller = element.slice(recIndex, dotIndex).replace("recalled by", "");
+    return beautify(recaller);
+}
+
+const getQuantity = (element) => {
+    let qIndex = element.indexOf("quantity");
+    let reaIndex = element.indexOf("reason", qIndex);
+    let quantity = element.slice(qIndex, reaIndex).replace("quantity", "");
+
+    return beautify(quantity);
+}
+
+const getReason = (element) => {
+    var reaIndex = element.indexOf("reason");
+    var dotIndex = element.indexOf(".", reaIndex);
+    var commaIndex = element.indexOf(",", reaIndex);
+    if (dotIndex == element.length) {
+        var reason = element.slice(reaIndex, element.length);
+    } else {
+        var reason = element.slice(reaIndex, dotIndex);
+    }
+
+    if (reason.length < 15) {
+        reason = element.slice(reaIndex, commaIndex);
+    }
+    return beautify(reason.replace("reason", ""));
+}
+
+const getRecallNumber = (element) => {
+    let numIndex = element.indexOf("recall #");
+    let dotIndex = element.indexOf(".", numIndex);
+    let recallnumber = element
+        .slice(numIndex, dotIndex)
+        .replace("recall #", "")
+        .trim();
     return recallnumber;
 }
 
-function getRecallDate(element) {
-    var working_string = element.slice(element.indexOf("recalled by"), element.length);
+const getRecallDate = (element) => {
+    let working_string = element.slice(
+        element.indexOf("recalled by"),
+        element.length
+    );
 
-    let rgxMM = working_string.match(/(January|February|March|April|May|June|July|August|September|October|November|December)/i);
+    let rgxMM = working_string.match(
+        /(January|February|March|April|May|June|July|August|September|October|November|December)/i
+    );
     let rgxDD = working_string.match(/\d{1,2}/);
     let rgxYY = working_string.match(/\d{4}/);
 
-    let recalldate = 'N/A'
+    let recalldate = "N/A";
 
     if (rgxMM != null && rgxMM != null && rgxYY != null) {
         recalldate = `${rgxMM[0]} ${rgxDD[0]}, ${rgxYY[0]}`;
-    };
+    }
 
-    return beautify(recalldate)
+    return beautify(recalldate);
 };
+
+const beautify = (text) => {
+    return _.words(text).map(word => _.capitalize(word)).join(' ')
+}
+
+
+const year = "1995";
+const files = fs.readdirSync(`text/${year}`);
+var nm = 10;
+var working_file_name = files[nm];
+console.log(working_file_name);
+
+textjs(working_file_name);
+
+var errorFilesPre1995 = ["total 253"];
+var errorFiles1995 = ['02-22', '03-22', '03-29'];
+var errorFiles1996 = [32, "total50"];
+var errorFiles1997 = [13, 17, 20, "total53"];
+var errorFiles1998 = [5, 11, 24, 49, "total52"];
+var errorFiles1999 = [
+    "32-0-products+solved",
+    "47 may have problem with rec#",
+    "total51"
+];
+//checking for 1st dot (.) after reason can be errorprone
+// MOST ERRORS MUST HAVE BEEN RESOLVED WITH IF STATEMENT IN LOOKFORMULTIPLES(i)
+var errorFiles2000 = ["no-errors", "total52"];

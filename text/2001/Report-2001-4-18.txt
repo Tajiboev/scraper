@@ -1,0 +1,1269 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  DEC
+		  Mar
+		
+		
+		
+		  
+		  21
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      33 captures
+	      28 Apr 2001 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DO
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA 
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration, Department of Health and Human Services. 
+It contains information on actions  taken in connection with agency
+Regulatory activities.
+
+
+
+
+April 18, 2001                                                  01-15
+
+
+
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS II
+________
+PRODUCT:
+Beauty Briefcase; Code.  Recall #F-350-1. 
+CODE: 
+SKU # 50192.
+MANUFACTURER: 
+Markwins International, City of Industry, CA. 
+RECALLED BY:
+Manufacturer, by press release and newspaper ad on January 11, 2001.  Firm-
+initiated recall complete.
+DISTRIBUTION:
+Florida.
+QUANTITY:
+316 units.
+REASON: 
+The Beauty Briefcases contain bottles labeled as eye makeup remover that 
+actually contain cuticle remover.
+
+__________
+PRODUCT: 
+Truffle Candy.  Recall #F-351-1. 
+CODE: 
+Product was not coded.  All product on the market at the time the 
+recall was initiated was affected.
+MANUFACTURER:
+The South Bend Chocolate Company, South Bend, IN. 
+RECALLED BY: 
+Manufacturer, by fax letter on 3/28/2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+Illinois, Indiana, Michigan and Pennsylvania. 
+QUANTITY:
+Approximately 520 packages (240 lbs.).
+REASON: 
+The product contains undeclared FD&C; Yellow No. 5, FD&C; Yellow 
+No. 6, FD&C; Blue No. 1 and FD&C; Red No. 3.
+________
+PRODUCT:
+a) Flavorite brand Mint Chocolate Chip Ice Cream, half gallon; 
+b) Home Style brand Mint Chocolate Chip Ice Cream, half gallon. 
+Recall #F-352-1.
+CODE:
+All lots distributed prior to 7/13/00.  The products have 
+a 8 month shelf-life expiration date on them.
+MANUFACTURER:
+Driggs Farms of Indiana, Inc., Decatur, IN.
+RECALLED BY:
+Manufacturer, by telephone and fax on 7/14/00.  Firm-initiated 
+recall complete. 
+DISTRIBUTION:
+Illinois, Indiana, Iowa, Kansas, Missouri, New York, Ohio,  
+Pennsylvania and Wisconsin.
+QUANTITY:
+a) 4,524 cartons; b) 93,828 cartons.
+REASON:
+The product contains undeclared FD&C; Yellow No. 5.
+
+RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS I
+________
+PRODUCT:
+(Rx) Colchicine Injection, 0.5 mg, 30 ml Multiple Dose Vial. 
+Recall #D-170-1.
+CODE:
+Lot No. 1EC093000. 
+MANUFACTURER:
+Amram Inc., Rathdrum, Idaho.
+RECALLED BY:
+Phyne Pharmaceuticals, Inc., Scottsdale, AZ, on December 7, 2000.  
+Firm-initiated recall ongoing.      
+DISTRIBUTION:
+Nationwide to physicians.
+QUANTITY:
+33 vials.
+REASON:
+Super-Potency (By Mis-Formulation).
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS II 
+________
+PRODUCT:
+a) Whole Blood.  Recall #B-869-1.
+b) Red Blood Cells.  Recall #B-870-1.
+c) Red Blood Cells Leukocytes Reduced.  Recall #B-871-1.
+d) Red Blood Cells Leukocytes Reduced Irradiated.  Recall  #B-872-1.
+e) Platelets.  Recall #B-873-1.
+f) Platelets, Irradiated.  Recall #B-874-1.
+g) Platelets Pheresis, Leukocytes Reduced.  Recall #B-875-1.
+h) Cryoprecipitated AHF.  Recall #B-876-1.
+i) Plasma, Cryoprecipitate Reduced.  Recall #B-877-1.
+j) Plasma, Liquid.  Recall #B-878-1.
+k) Fresh Frozen Plasma.  Recall #B-879-1.
+l) Recovered Plasma.  Recall #B-880-1.
+CODES:
+a) (2 units), unit numbers G12866 and G11601;
+b) (181 units), unit numbers G12863, G12865, G12868, G12869, G12877, 
+G12878, G12880, G12887, G12896, G12928, G12929, G05921, G08900, G08922, 
+G08928, G08939, G08944 G08947, G09523, G09527, G09528, G09535, G09544, 
+G09555, G09563, G09571, G09577, G09579, G09581, G09583, G09584, G09585, 
+G09586, G09588, G09590, G09593, G09595, G09599, G09600, G09602, G09606, 
+G09609, G09611, G09612, G09614, G11618, G11627, G11630, G11631, G11633, 
+G11664, G11675, G11677, G11681, G11684, G11685, G11687, G11689, G11692, 
+G11693, G11694, G11695, G11696, G11698, G11701, G11706, G11707, G11708, 
+G11710, G11713, G11714, G11715, G11722, G11723, G11724, G11728, G11732, 
+11738, G11740, G11766, G11767, G11770, G11772, G11773, G11775, G11776, 
+G11778, G11779, G11780, G11783, G11785, G11786, G11787, G11789, G11790,
+M03620, M03628, M03640, M03646, M03662, M03816, M03823, M03825, M03827, 
+M03828, M04336, M04337, M04342, M04343, M04345, M04346, M04349, M04357, 
+M04370, M04374, M04375, M04384, M04386, M04390, M04391, M04392, M04393, 
+M04401, M04406, M04409, M04410, M04411, M04418, M04420, M04423, L67365, 
+L67366, L67367, L67368, L67369, L67371, L67372, L67374, L67375, L67376, 
+L67377, L67379, L67381, L67382, L67383, L67384, L67385, L67386, L67387, 
+L67388, L67390, L67391, L67392, L67393, L67394, L67396, L67404, L67406, 
+L67410, L67414, L67419, L67421, L67425, L67427, L67428, L67433, L67435, 
+L67440, L67443, G12850, G08916, G08961, G09533, G09537, G09547, G09562, 
+G11612, G11758, L67405, L67420, and L67431
+c) Red Blood Cells, Leukocytes Reduced (110 units), unit numbers G12847, 
+G12848, G12857, G12864, G12870, G12872, G12873, G12875, G12886, G12888, 
+G12890, G12891, G12897, G12902, G12903, G12904, G12905, G12906, G12908, 
+G12911, G12912, G12918, G12924, G12925, G08927, G09524, G09525, G09529, 
+G09530, G09531, G09532, G09534, G09536, G09538, G09541, G09542, G09543,
+G09546, G09549, G09550, G09551, G09552, G09553, G09556, G09557, G09559, 
+G09560, G09561, G09564, G09567, G09570, G09572, G09573, G09574, G09575, 
+G09576, G09578, G09587, G09592, G09598, G09601, G09605, G09607, G09616, 
+G11607, G11619, G11629, G11679, G11705, G11717, G11726, M03645, M03652,
+M03668, M03824, M04335, M04341, M04348, M04355, M04358, M04360, M04361, 
+M04365, M04367, L67370, L67373, L67378, L67389, L67397, L67398, L67399, 
+L67400, L67401, L67402, L67403, L67407, L67408, L67409, L67412, L67422, 
+L67423, L67424, L67430, L67432, L67436, L67439, L67441, L67442, L67444, 
+and L67446;
+d) (10 units), unit numbers G12845, G12846, G12862, G12874, G12883, G12892, 
+G12923, G09596, G11615 and M04430;
+e) (94 units), unit numbers G12846, G12847, G12857, G12861, G12863, G12864, 
+G12868, G12870, G12872, G12873, G12875, G12877, G12880, G12886, G12887, 
+G12888, G12890, G12891, G12892, G12897, G12902, G12903, G12905, G12906, 
+G12908, G12911, G12912, G05921, G08922, G08927, G08928, G08939, G09524, 
+G09525, G09527, G09528, G09529, G09530, G09531, G09532, G09534, G09535, 
+G09536, G09538, G09541, G09542, G09543, G09546, G09549, G09550, G09552, 
+G09555, G09556, G09557, G09560, G11675, G11677, G11679, G11684, G11689, 
+G11692, G11693, G11694, G11695, G11698, G11701, G11706, G11707, G11708, 
+G11710, M03620, M03628, M03640, M03645, M03646, M03652, M04390, M04391, 
+M04392, M04410, M04411, M04418, L67369, L67371, L67372, L67373, L67374, 
+L67379, L67382, L67386, L67387, L67402, L67403, and L67407;
+f)(2 units), unit numbers G09551 and G11687;
+g)(25 units, 6 units also irradiated), unit numbers G12879, G09522, G09539, 
+G09589, G09591, G09594, G09597, G09603, G11662, G11666, G11709, G11760, 
+G11768, L67380, L67395, L67413, L67416, L67418, L67426, G12859, G12926, 
+G08950, G09566, G09566, and G09589:	
+h)(24 units), unit numbers M03816, M03823, M03824, M03827, M03828, M04335, 
+M04336, M04342, M04343, M04345, M04346, M04348, M04349, M04355, M04357, 
+M04358, M04361, M04365, M04367, M04370, M04374, M04375, M04384, and M04386;
+i)(4 units), unit numbers M04346, M04357, M04370, and M04386;
+j)(12 units), unit numbers G12850, G08916, G08961, G09533, G09537, G09547, 
+G09562, G11612, G11758, L67405, L67420, and L67431;
+k)(96 units), unit numbers G12845, G12847, G12863, G12865, G12868, G12869, 
+G12873, G12877, G12880, G12887, G12890, G12896, G12908, G12911, G12923, 
+G12928, G05921, G09530, G09531, G09532, G09534, G09535, G09536, G09538, 
+G09542, G09543, G09549, G09551, G09552, G09553, G09556, G09557, G09560, 
+G09561, G09564, G09570, G09571, G09572, G09573, G09574, G09575, G09576, 
+G09577, G09578, G09581, G09583, G09584, G09585, G09586, G09588, G09592, 
+G09593, G09595, G09596, G09598, G09599, G09600, G09601, G09602, G09604, 
+G09605, G09606, G09607, G09609, G09611, G09612, G09614, G09616, G11607, 
+G11615, G11618, G11619, G11627, G11630, G11631, G11633, G11726, M03628, 
+L67367, L67368, L67369, L67372, L67374, L67376, L67377, L67378, L67379, 
+L67383, L67386, L67390, L67392, G12926, G08950, G09594, L67413, and L67426;
+l)(153 units), unit numbers G12861, G12864, G12870, G12872,
+G12886, G12892, G12897, G12902, G12903, G12904, G12905, G12906, G12912, 
+G12918, G12924, G12925, G12929, L67365, L67370, L67371, L67373, L67381, 
+L67382, L67384, L67385, L67387, L67388, L67391, L67393, L67394, L67396, 
+L67397, L67398, L67399, L67401, L67402, L67403, L67404, L67407, L67408, 
+L67409, L67410, L67412, L67414, L67419, L67421, L67422, L67423, L67424, 
+L67425, L67428, L67430, L67432, L67433, L67435, L67436, L67439, L67440, 
+L67441, L67442, L67443, L67444, L67446, G08900, G08922, G08927, G08928, 
+G08939, G08944, G08947, G09524, G09525, G09527, G09528, G09529, G09541, 
+G09546, G09555, G11629, G11664, G11675, G11677, G11679, G11684, G11687, 
+G11689, G11692, G11693, G11694, G11695, G11696, G11698, G11701, G11705, 
+G11706, G11707, G11708, G11710, G11713, G11714, G11717, G11723, G11724, 
+G11728, G11732, G11738, G11740, G11766, G11767, G11770, G11772, G11773, 
+G11776, G11778, G11779, G11780, G11783, G11785, G11786, G11787, G11789, 
+G11790, M03620, M03640, M03645, M03646, M03662, M03668, M04360, M04390, 
+M04391, M04392, M04393, M04401, M04409, M04410, M04411, M04418, M04423, 
+M04430, G09523, G09544, G09567, G09587, G09590, G11685, G11722, G11771, 
+G11775, M03652, M03825, M04406, and M04420.
+MANUFACTURER:
+Northern Illinois Blood Bank, Inc., Rockford, IL. 
+RECALLED BY:
+Manufacturer, by telephone on January 29, 2001, and by letters dated 
+February 2, 2001.  Firm-initiated recall ongoing.
+DISTRIBUTION:
+Illinois, Florida, New Jersey, New York, North Carolina, Alabama, Missouri, 
+and California.
+QUANTITY:
+664 units.
+REASON: 
+Blood products, incorrectly tested for antibodies to human 
+immunodeficiency virus types 1 and 2 (anti-HIV-1/2), HIV p24 
+antigen, or antibodies to human T lymphotropic virus types I 
+and II (anti-HTLV-I/II), were distributed.
+________
+PRODUCT:
+a)Red Blood Cells.  Recall #B-898-1.
+b) Platelets.  Recall B-899-1.
+CODES:
+a) and b) Unit G57367.
+MANUFACTURER:
+Mississippi Valley Regional Blood Center, Davenport, IA.
+RECALLED BY:
+Manufacturer, by facsimile dated October 18, 1999 and by letters 
+dated October 27,1999 and November 2, 1999.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+Iowa , Missouri, and Switzerland.
+QUANTITY:
+Two units.
+REASON: 
+Blood products, collected from a donor who may have been taking an 
+experimental drug, were distributed.
+________
+PRODUCT:
+Red Blood Cells.  Recall #B-913-1.
+CODE:
+Unit 22413-3101.
+MANUFACTURER:
+United Blood Services, Las Vegas, NY.
+RECALLED BY:
+Blood Systems, Inc., Scottsdale, AZ., by letter dated August 15, 2000.  
+Firm-initiated recall  complete.
+DISTRIBUTION:
+Nevada.
+QUANTITY:
+One unit.
+REASON: 
+Blood product, collected from a donor who reported travel to an area 
+designated as endemic for malaria, were distributed.
+________
+PRODUCT:
+a) Red Blood Cells.  Recall #B-915-1.
+b) Recovered Plasma.  Recall #B-916-1.
+CODE:
+a) and b) Unit 41GM27092. 
+b) MANUFACTURER:
+American Red Cross Blood Services, Alabama Region, Birmingham, AL.
+RECALLED BY:
+Manufacturer, by letter dated November 24, 1999, and Questionable 
+Plasma Inquiry on November 23, 1999, which they in turn forwarded 
+to the California consignee of the Recovered Plasma on December 12, 
+1999. Firm-initiated recall complete.
+DISTRIBUTION:
+Alabama and California.
+QUANTITY:
+Two units.
+REASON: 
+Blood products collected from a donor with a history of having tested 
+positive for hepatitis, were distributed. 
+________
+PRODUCT:
+Red Blood Cells.  Recall #B-917-1. 
+CODES:
+Unit #21KK28191.
+MANUFACTURER:
+American Red Cross, Pacific Northwest Regional Blood Services, 
+Portland, OR.
+RECALLED BY:
+Manufacturer,by letter dated December 4, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+Oregon.
+QUANTITY: 
+One unit.
+REASON: 
+Blood product, collected from a donor who had lived in an area designated 
+as endemic for malaria, was distributed.
+________
+PRODUCT:
+Red Blood Cells.  Recall # B-924-1. 
+CODE:
+Unit  3032730.
+MANUFACTURER:
+Community Blood Center, Dayton, OH.
+RECALLED BY:
+Manufacturer, by letter dated October 31, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+Ohio
+QUANTITY:
+One unit.
+REASON: 
+Blood product, collected from a donor who reported travel to an area 
+designated as endemic for malaria, was distributed.  
+_______
+PRODUCT:
+Red Blood Cells Leukocytes Removed.  Recall #B-925-1. 
+CODES:
+Units 1125393, 1119885, 1115000.
+MANUFACTURER:
+Community Blood Center, Datyton, OH.
+RECALLED BY:
+Manufacturer, by letters dated October 31, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+Ohio.
+QUANTITY:
+Three units.
+REASON: 
+Blood products, collected from a donor who reported travel to an area 
+designated as endemic for malaria, were distributed.
+________
+PRODUCT:
+a) Red Blood Cells.  Recall #B-927-1. 
+b) Red Blood Cells, Leukoreduced.  Recall #B-928-1.
+CODES:
+a) Units   1335942, 1336099, 1336388, 1336542, 1336629, 
+1336679, 1336681, 2033745, 2033749, 8129108, 1336839, 1336899, 1424784,
+8129323, 8129334, 9185578, 9185591, 9186020, 9186022, 9186248;
+b) Units  5029569,  5029570,  5324144,  5526939,  5717987
+MANUFACTURER:
+Sylvan N. Goldman Institute, dba Oklahoman Blood Institute, Oklahoma City, OK. 
+RECALLED BY:
+Manufacturer, by telephone on February 23, 1994.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+Massachusetts.
+QUANTITY:
+25 units.
+REASON: 
+Blood products, that were shipped under unsuitable temperatures, were 
+distributed.  
+________
+PRODUCT:
+a) Red Blood Cells .  Recall #B-936-1;  
+b) Platelets  for Manufacturing Non-injectable Products.  
+Recall # B-937-1; 
+c) Recovered Plasma.  Recall # B-938-1.
+CODES:
+a) Units  18GH440904, 18GH37931;
+b) Unit  18GH440904;
+c) Units  18GH440904, 18GH37931.
+MANUFACTURER:
+American Red Cross Blood Services, Great Lakes Region,	Lansing, MI. 
+RECALLED BY:
+Manufacturer, by letters dated November 21, 2000, and December 21, 2000.  
+Firm-initiated recall complete.
+DISTRIBUTION:
+Michigan, and California.
+QUANTITY:
+Five units.
+REASON: 
+Blood products, collected from a donor with a history of having tested 
+positive for Hepatitis A, were distributed.
+________
+PRODUCT:
+Platelets, Pheresis.  Recall # B-939-1. 
+CODE:
+Units  38P62086 (split unit).
+MANUFACTURER:
+American Red Cross Blood Services,  Fort Wayne, IN .
+RECALLED BY:
+Manufacturer, by letter dated August 23, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+Indiana.
+QUANTITY:
+One unit.
+REASON: 
+Blood products, collected from a donor who reported having traveled 
+to an area designated as endemic for malaria, were distributed.
+________
+PRODUCT:
+a) Red Blood Cells.  Recall #B-940-1;	 
+b) Platelets.  Recall # B-941-1.
+CODE:
+a) and  b) Unit 01KT42624. 
+MANUFACTURER:
+American Red Cross Blood Services, New York-Penn Region, 
+West Henrietta, NY.
+RECALLED BY:
+Manufacturer, by letters dated May 26, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+New York.
+QUANTITY:
+Two units.
+REASON: 
+Blood products, collected from a donor who reported travel to an 
+area designated as endemic for malaria, were distributed.
+________
+PRODUCT:
+Red Blood Cells, Leukoreduced.  Recall # B-942-1.
+CODE:
+Unit  21FM57369.
+MANUFACTURER:
+American Red Cross,  Pacific Northwest Regional Blood Services, 
+Portland, OR.
+RECALLED BY:
+Manufacturer, by letter dated October 10, 2000.  Firm-initiated 
+recall complete.
+DISTRIBUTION:
+Oregon.
+QUANTITY:
+One unit.
+REASON: 
+Blood product, collected from a donor who reported travel to an 
+area designated as endemic for malaria, was distributed.  
+________
+PRODUCT:
+Red Blood Cells.  Recall #B-943-1.
+CODE:
+Unit 22415-0528.
+MANUFACTURER:
+United Blood Services, Las Vegas, NV.		
+RECALLED BY:
+Blood Systems, Inc., Scottsdale, AZ, by letter dated June 7, 2000.  
+Firm-initiated recall-complete.
+DISTRIBUTION:
+Nevada.
+QUANTITY:
+One unit.
+REASON: 
+Blood product, collected from a donor who reported travel to an area: 
+designated as endemic for malaria, was distributed.  
+________
+PRODUCT:
+a) Red Blood Cells.  Recall #B-944-1;  
+b) Platelets.  Recall #B-945-1;     
+c) Source Leukocytes for Further Manufacturing Recall #B-946-1 . 
+CODE:
+a) Unit  18GF14428, 18GF12750;
+b) Unit  18GF12750;
+c) Unit  18GF14428.
+MANUFACTURER:
+American Red Cross Blood Services, Great Lakes Region, Lansing, MI.
+RECALLED BY:
+Manufacturer, by letters on June 26, 1998.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+Michigan and New Jersey.      
+QUANTITY:
+Four units.
+REASON: 
+Blood products, collected from a donor who reported having lived in  
+an area designated as endemic for malaria, were distributed.
+________
+PRODUCT:
+Platelets.  Recall #B-993-1. 
+CODE:
+(754 units), unit numbers 2110007, 2110056, 2110057, 2110059, 
+2110060, 2110061, 2110063, 2110078, 2110079, 2110080, 2110082, 
+2110084, 2110085, 2110086, 2110096, 2110097, 2110098, 2110099, 
+2110102, 2110103, 2110104, 2110105, 2110107, 2110110, 2110119, 
+2110121, 2110123, 2110125, 2110155, 2110164, 2110165, 2150003, 
+2150007, 2150008, 2150009, 2150010, 2150011, 2150014, 2150016, 
+2150020, 2150021, 2150022, 2150026, 2150033, 2200001, 2200004, 
+2200005, 2200008, 2200009, 2200012, 2200016, 2200017, 2200019, 
+2200020, 2200021, 2200024, 2200043, 2200045, 2200052, 2200055, 
+2200060, 2200062, 2200063, 2200065, 2200067, 2200068, 2200070, 
+8069277, 8069278, 8069281, 8069282, 8069284, 8069289, 8073555, 
+8073557, 8073558, 8073559, 8073560, 8073561, 8073562, 8073563, 
+8073564, 8073565, 8073568, 8073569, 8073572, 8073573, 8073574, 
+8073575, 8073576, 8073578, 8073580, 8073581, 8073582, 8073583, 
+8073588, 8073591, 8073592, 8073593, 8073594, 8073606, 8073607, 
+8073608, 8073609, 8073610, 8073611, 8073612, 8073614, 8073615, 
+8073617, 8073618, 8073619, 8073622, 8073623, 8073627, 8073628, 
+8073630, 8073631, 8073634, 8073635, 8073637, 8073638, 8073642, 
+8073644, 8073645, 8073646, 8073647, 8073648, 8073649, 8073651, 
+8073652, 8073659, 8073660, 8073661, 8073707, 8073710, 8073712, 
+8073715, 8073716, 8073724, 8073727, 8073735, 8073736, 8073737, 
+8073738, 8073740, 8073748, 8073751, 8073752, 8073755, 8073757, 
+8073760, 8073762, 8073763, 8073764, 8073773, 8073775, 8073779, 
+8073780, 8073782, 8073784, 8073791, 8073793, 8073794, 8073795, 
+8073797, 8073798, 8073799, 8073800, 8080688, 8080689, 8080690, 
+8080691, 8080692, 8080694, 8080698, 8080699, 8080701, 8080702, 
+8080703, 8080704, 8080706, 8080710, 8080711, 8080712, 8080714, 
+8080717, 8080723, 8080725, 8080726, 8080730, 8080731, 8080732, 
+8080733, 8080735, 8080736, 8080738, 8080740, 8080751, 8080754, 
+8080755, 8080756, 8080757, 8080758, 8080760, 8080761, 8080762, 
+8080764, 8080767, 8080768, 8080769, 8080770, 8080774, 8080776, 
+8080777, 8080778, 8080783, 8080785, 8080786, 8080787, 8080788, 
+8080791, 8080792, 8080794, 8080795, 8080796, 8083309, 8083369, 
+8083370, 8083371, 8083376, 8083377, 8083379, 8083380, 8083381, 
+8083383, 8083384, 8083385, 8083388, 8083411, 8083413, 8083414, 
+8083416, 8083417, 8083418, 8083419, 8083421, 8083422, 8083423, 
+8083424, 8083425, 8083426, 8083429, 8083430, 8083431, 8083432, 
+8083433, 8084265, 8084268, 8084270, 8084272, 8085227, 8085241, 
+8085242, 8085244, 8085245, 8085246, 8085247, 8085248, 8085249, 
+8085271, 8085272, 8085273, 8085275, 8085276, 8085277, 8085279, 
+8085280, 8085282, 8085292, 8085294, 8085297, 8085298, 8085299, 
+8085913, 8085918, 8085919, 8085924, 8085925, 8085927, 8085928, 
+8085929, 8085931, 8085934, 8085937, 8085939, 8086047, 8086048, 
+8086049, 8086050, 8086051, 8086052, 8086054, 8086055, 8086056, 
+8086057, 8086060, 8086061, 8086062, 8086063, 8086064, 8086065, 
+8086069, 8086072, 8086073, 8086075, 8086164, 8086166, 8086167, 
+8086168, 8086170, 8086171, 8086172, 8086175, 8086177, 8086178, 
+8086179, 8086180, 8086181, 8086185, 8086186, 8086811, 8086812, 
+8086819, 8086820, 8086821, 8086822, 8086825, 8086826, 8086827, 
+8086828, 8086831, 8086837, 8086841, 8086842, 8086843, 8086849, 
+8086851, 8086852, 8086874, 8086875, 8086877, 8086879, 8086883, 
+8086885, 8086886, 8086888, 8086889, 8087309, 8087417, 8087419, 
+8087432, 8087433, 8087435, 8087436, 8087438, 8087441, 8087442, 
+8087538, 8087542, 8087544, 8087545, 8087548, 8087608, 8087613, 
+8087616, 8087617, 8087619, 8087621, 8087622, 8087624, 8087626, 
+8087628, 8087630, 8087631, 8087632, 8087633, 8087634, 8087635, 
+8087636, 8087637, 8087641, 8087642, 8087644, 8087645, 8087646, 
+8087647, 8087649, 8087653, 8087658, 8087661, 8087662, 8087667, 
+8087668, 8087671, 8087673, 8087675, 8087676, 8087677, 8087678, 
+8087679, 8087680, 8087683, 8087685, 8087722, 8087723, 8087726, 
+8087727, 8087728, 8087731, 8087732, 8087733, 8087738, 8087782, 
+8088857, 8088860, 8088863, 8088868, 8088869, 8088892, 8088897, 
+8088898, 8088899, 8088900, 8088902, 8088904, 8088905, 8088906, 
+8088908, 8088910, 8088946, 8088948, 8088950, 8088951, 8088958, 
+8088962, 8088964, 8088965, 8088967, 8088969, 8088970, 8088973, 
+8088974, 8088975, 8088976, 8088977, 8088979, 8088981, 8088984, 
+8088987, 8088989, 8088991, 8088993, 8088994, 8088996, 8088999, 
+8089000, 8089005, 8089008, 8089009, 8089015, 8089017, 8089019, 
+8089021, 8089026, 8089031, 8089032, 8089037, 8089038, 8089043, 
+8089047, 8089049, 8089050, 8089052, 8089065, 8089066, 8089067, 
+8089069, 8089070, 8089071, 8089072, 8089074, 8089075, 8089076, 
+8089077, 8089078, 8089079, 8089080, 8089081, 8089082, 8089083, 
+8089084, 8089090, 8089091, 8089092, 8089093, 8089094, 8089097, 
+8089098, 8089101, 8089102, 8089104, 8089106, 8089108, 8089110, 
+8089111, 8089112, 8089113, 8089126, 8089128, 8089129, 8089131, 
+8089132, 8089133, 8089141, 8089142, 8089143, 8089144, 8089145, 
+8089146, 8089148, 8089150, 8089151, 8089152, 8089180, 8089181, 
+8089182, 8089856, 8089860, 8089861, 8089864, 8089867, 8089868, 
+8089870, 8089883, 8089886, 8089944, 8089945, 8089946, 8089948, 
+8089956, 8089958, 8089960, 8089961, 8089964, 8089965, 8089969, 
+8089981, 8089983, 8089987, 8089994, 8089999, 8091841, 8091843, 
+8091845, 8091851, 8091852, 8091854, 8091857, 8091896, 8091899, 
+8093338, 8093339, 8093354, 8093356, 8093359, 8093360, 8093365, 
+8093399, 8093400, 8093401, 8093402, 8093403, 8093453, 8093457, 
+8093458, 8093459, 8093472, 8093473, 8093475, 8093480, 8093481, 
+8093484, 8093485, 8093486, 8093487, 8093491, 8093492, 8093494, 
+8093496, 8093497, 8093498, 8093502, 8093508, 8093509, 8093510, 
+8093511, 8093512, 8093513, 8093514, 8093515, 8093517, 8093519, 
+8093528, 8093537, 8093541, 8093542, 8093544, 8093545, 8093553, 
+8093554, 8093555, 8093556, 8093559, 8093560, 8093636, 8093637, 
+8093641, 8093642, 8093643, 8093645, 8093646, 8093651, 8093652, 
+8093655, 8093656, 8093657, 8093658, 8093659, 8093660, 8093670, 
+8093671, 8093672, 8093673, 8093676, 8093677, 8093680, 8093681, 
+8093682, 8093683, 8093688, 8093690, 8093692, 8093693, 8093694, 
+8093696, 8093752, 8093754, 8093759, 8093763, 8093771, 8093774, 
+8093781, 8093783, 8093787, 8093789, 8093790, 8093807, 8093817, 
+8093820, 8093823, 8093824, 8093825, 8093912, 8093914, 8093915, 
+8093917, 8093919, 8093920, 8094161, 8094162, 8094270, 8094271, 
+8094274, 8094276, 8094278, 8094281, 8094282, 8094284, 8094286, 
+8094288, 8094289, 8094291, 8094292, 8094293, 8094301, 8094302, 
+8094303, 8094304, 8094305, 8094307, 8094308, 8094309, 8094310, 
+8094311, 8094312, 8094314, 8094315, 8094316, 8094317, 8094318, 
+8094322, 8094323, 8094324, 8094325, 8094330, 8094331, 8094334, 
+8094336, 8094338, 8094339, 8094340, 8094342, 8094343, 8094413, 
+8094740, 8094741, 8094742, 8094744, 8094745, 8094746, 8094748, 
+8094749, 8094750, 8094752, 8094754, 8094755, 8094756, 8094757, 
+8094758, 8094759, 8094760, 8094767, 8094768, 8094770, 8094771, 
+8094775, 8094777, 8094778, 8094801, 8094803, 8094804, 8094805, 
+and 8094806.
+MANUFACTURER:
+LifeShare, Inc., Elyria, IN.
+RECALLED BY:
+Manufacturer, by letters dated August 17, 2000, and August 24, 2000.  
+Firm-initiated recall complete.
+DISTRIBUTION:
+Ohio, Texas, California, Washington DC, Louisiana, and Arizona.
+QUANTITY:
+754 units.
+REASON: 
+Platelets, labeled with an extended expiration date, were distributed.
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS III 
+________
+PRODUCT:
+Recovered Plasma. Recall #B-881-1.
+CODES:
+unit numbers G08900, G08922, G08927, G08928, G08939, G08944,
+G08947,G09524, G09525, G09527, G09528, G09529, G09541, G09546, 
+G09555, G11629, G11664, G11675, G11677, G11679, G11684, G11687, 
+G11689, G11692, G11693, G11694, G11695, G11696, G11698, G11701, 
+G11705, G11706, G11707, G11708, G11710, G11713, G11714, G11717, 
+G11723, G11724, G11728, G11732, G11738, G11740, G11766, G11767, 
+G11770, G11772, G11773, G11776, G11778, G11779, G11780, G11783, 
+G11785, G11786, G11787, G11789, G11790, M03620, M03640, M03645, 
+M03646, M03662, M03668, M04360, M04390, M04391, M04392, M04393, 
+M04401, M04409, M04410, M04411, M04418, M04423, M04430, G09523, 
+G09544, G09567, G09587, G09590, G11685, G11722, G11771, G11775, 
+M03652, M03825, M04406, and M04420.
+MANUFACTURER:
+Northern Illinois Blood Bank, Inc., Rockford, IL. 
+RECALLED BY:
+Manufacturer, by telephone on January 29, 2001, and by letters dated
+February 2, 2001.  Firm-initiated recall  complete.
+DISTRIBUTION:
+Illinois, Florida, New Jersey, New York, North Carolina, Alabama, 
+Missouri, and California.
+QUANTITY:
+90 units.
+REASON: 
+Blood products, incorrectly tested for antibodies to human 
+immunodeficiency virus types 1 and 2 (anti-HIV-1/2), HIV p24 
+antigen, or antibodies to human T lymphotropic virus types I 
+and II (anti-HTLV-I/II), were distributed.
+________
+PRODUCT:
+Recovered Plasma.  Recall #B-900-1.
+CODE:
+Unit G57367.
+MANUFACTURER:
+Mississippi Valley Regional Blood Center, Davenport, IA.
+RECALLED BY:
+Manufacturer, by facsimile dated October 18, 1999 and by letters dated 
+October 27,1999 and November 2, 1999.  Firm-initiated recall complete.
+DISTRIBUTION:
+Iowa, Missouri, and Switzerland.
+QUANTITY:
+One unit.
+REASON: 
+Blood products, collected from a donor who may have been taking an 
+experimental drug, were distributed.
+ 
+RECALLS AND FIELD CORRECTIONS: DEVICES -- CLASS II
+________
+PRODUCT:
+Dr. Sweat�s Atlas Orthogonal Chiropractic Adjustment Table 
+(aka Atlas Table).  Recall #Z�347-1.
+CODE:
+Model No. WW0O11OO, Serial Nos. 100108 through 100175. 
+MANUFACTURER:
+Wuestec Medical, Inc., Mobile, AL.
+RECALLED BY:
+Manufacturer, by US certified mail on February 16, 2001.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION:
+United States, Canada and Japan.
+QUANTITY:
+68
+REASON:
+A patient could be pinned to the stylus by the headrest.
+________
+PRODUCT:
+Alcon Custom Paks containing Becton-Dickinson 3 ml syringe with 
+21G x 1.5� Needle.  Recall #Z-460-1. 
+CODES:
+183095H 183114H 183141H 183172H 183223H 183243H 183426H 183464H 183666H
+183685H 184047H 184522H 184529H 184560H 184601H 184611H 184629H 184666H 
+184667H 184707H 184782H 184812H 184838H 184850H 184932H 185055H 185099H 
+185121H 185181H 185436H 185614H 185648H 185672H 185745H 185771H 185791H 
+185793H 186061H 186088H 186120H 186207H 186569H 186791H 186910H 186988H 
+176970H 177292H 177763H 177770H 178538H 178623H 178679H 178694H 178779H 
+178796H 178815H 178931H 178974H 179158H 179170H 179214H 179247H 179476H 
+179598H 179712H 179756H 179786H 180032H 180049H 180131H 180149H 180178H 
+180191H 180208H 180266H 180357H 180367H 180524H 180905H 181222H 181254H 
+181282H 181284H 181377H 181403H 181405H 181958H 181974H 182023H 182606H 
+182735H 182773H 182983H 182985H 183017H 183057H
+MANUFACTURER:
+Alcon Laboratories, Houston, Texas.
+RECALLED BY:
+Manufacturer, by letter on December 20, 2000.  Firm-initiated recall     
+complete.
+DISTRIBUTION:
+Nationwide.
+QUANTITY:
+808.
+REASON:
+The 3 ml syringe(s) with 21 gauge needle contained in the Custom pak 
+may have a loose or missing protector cap.
+________
+PRODUCT:
+Cryovalve Allograft; Model No. AV00.  Recall #Z-469-1. 
+CODES:
+Serial No. 6865724.
+MANUFACTURER:
+Cryolife, Inc., Kennesaw, GA.
+RECALLED BY:
+Manufacturer representative visited the hospital and removed the 
+device from hospital inventory on January 16, 2001. Firm-initiated 
+recall complete.
+DISTRIBUTION:
+Phoenix, AZ.
+QUANTITY:
+One.
+REASON:
+The firm received additional donor information from the procurement 
+agency, confirming that a duplicate set of serologies possessed 
+discordant HbsAg results.  The tissue  was released in error.
+________
+PRODUCT:
+Cryovalve Allograft; 
+a)Model No. AV05.  Recall #Z-470-1;
+b)Model No. PV05.  Recall #Z-471-1.
+CODES:
+a) Serial No. 3981339; b) Serial No. 3981347.  
+MANUFACTURER:
+Cryolife, Inc., Kennesaw, GA.
+RECALLED BY:
+Manufacturer, by letter on February 7, 2001.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+San Francisco, CA., and Columbus, OH.
+QUANTITY:
+Two.
+REASON:
+The firm�s donor did not meet current guidelines regarding serodilution 
+of plasma because of the amount of  transfused/infused fluids administered.
+________
+PRODUCT:
+Ohmeda Medical Giraffe� Omnibed�, Various Serial Numbers.  
+Recall #Z-472-1.
+CODE:
+Serial Number HDGD00104 HDGD00107 HDGD00111 HDGD00113 HDGD00114 HDGD00115 
+HDGD00118 HDGD00120 HDGD50202 HDGD50204 HDGD50205 HDGD50206 HDGD50207 
+HDGD50208 HDGD50209 HDGD50210 HDGD50211 HDGD50212 HDGD50215 HDGD50216 
+HDGD50218 HDGD50219 HDGD50220 HDGD50222 HDGD50223 HDGD50226 HDGD50227 
+HDGD50228 HDGD50242 HDGD50243 HDGD50244 HDGD50245 HDGD50260 HDGD50261 
+HDGD50262 HDGD50263 HDGD50264 HDGD50265 HDGD50266 HDGD50267 HDGD50268 
+HDGD50269 HDGD50270 HDGD50271 HDGD50272 HDGD50274 HDGD50275 HDGD50276 
+HDGD50277 HDGD50278 HDGD50280 HDGD50281 HDGD50282 HDGD50283 HDGD50284 
+HDGD50287 HDGD50288 HDGD50289 HDGD50296 HDGD50297 HDGD50298 HDGD50299 
+HDGD50300 HDGD50301 HDGD50302 HDGD50303 HDGD50304 HDGD50305 HDGD50306 
+HDGD50307 HDGD50308 HDGD50309 HDGD50310 HDGD50311 HDGD50313 HDGD50314 
+HDGD50314 HDGD50315 HDGD50316 HDGD50317 HDGD50318 HDGD50324 HDGD50325 
+HDGD50327 HDGD50328 HDGD50329 HDGD50330 HDGD50331 HDGD50332 HDGD50333 
+HDGD50334 HDGD50335 HDGD50336 HDGD50337 HDGD50338 HDGD50339 HDGD50340 
+HDGD50341 HDGD50342 HDGD50343 HDGD50345 HDGD50346 HDGD50347 HDGD50348 
+HDGD50349 HDGD50350 HDGD50353 HDGD50354 HDGD50355 HDGD50359 HDGD50360 
+HDGD50361 HDGD50362 HDGD50363 HDGD50364 HDGD50366 HDGD50368 HDGD50369 
+HDGD50370 HDGE50001 HDGE50002 HDGE50003 HDGE50004 HDGE50005 HDGE50006 
+HDGE50007 HDGE50009 
+International Serial Numbers HDGD50236 HDGD50234 HDGD50235 HDGD00001 
+HDGD00002 HDGD50229 HDGD50231 HDGD50232 HDGD50233 HDGD50388 HDGD50389 
+HDGD50001 HDGD50237 HDGD50239 HDGD50291 HDGD50292 HDGD50377 HDGD50379 
+HDGD50256 HDGD50257 HDGD50258 HDGD50259 HDGD50254 HDGD50255 HDGE50028 
+HDGD00110 HDGD50224 HDGD50319 HDGD50371 HDGD50249 HDGD50246 HDGD50248 
+HDGD50238 HDGD50320 HDGD50321 HDGD50293 HDGD50250 HDGD50240 HDGD50290 
+HDGD50294 HDGD50376 HDGD50378 HDGD50380 HDGD50381 HDGD50384 HDGD50386 
+HDGD50385 HDGD50247 HDGD50251 HDGD50252 HDGD50230 
+MANUFACTURER:
+Ohmeda Medical, Laurel, MD.
+RECALLED BY:
+Manufacturer notified domestic consignees by letter on February 28, 
+2001 and March 2, 2001.  Foreign consignees were notified via UPS ON 
+March 16, 2001.  Firm-initiated recall ongoing.
+DISTRIBUTION:
+Nationwide, Austria, Poland, Ireland, Sweden, Norway, Belgium, Estonia, 
+Finland, Canada, Italy, Spain, Germany, Netherlands, Japan, United Kingdom.
+QUANTITY:
+178.
+REASON:
+Oxygen concentration variations (resulting in too much or too little 
+oxygen) may occur inside the infant incubator compartment when the 
+device is operated in the "incubator" mode.
+________
+PRODUCT:
+Coated VICRYL (polyglactin 910) suture, MONOCRYL (poliglecaprone 
+25) suture, PDS II (Polydioxanone) suture, E-Pack Procedure Kits.  
+Recall #Z-0475/0478-1.
+CODES:
+Item #	Lot #
+J00JG	QA2665
+J195H	QA2504
+J259H	PP7868
+J259H	PP7869
+J259H	QA7573
+J259H	QA7574
+J259H	QA7575
+J260H	QA7176
+J260H	QA7189
+J260H	QA7395
+J260H	QA8009
+J260H	QB7107
+J260W31	QA7394
+J261H	QA7142
+J261H	QA7426
+J261H	QA7445
+J261H	QA7540
+J266H	PP7882
+J266H	QA7156
+J266H	QA7242
+J266H	QA7953
+J304H	PP7398S
+J304W22	QA7110
+J304W22	QA7438
+J304W22	QA7580
+J305H	QA7584
+J316H	PP7883
+J316H	QA7209
+J316H	QB7153
+J316H	QB7161
+J316W31	QA7422
+J316W31	QA7925
+J317H	QA7162
+J317H	QA7163
+J317H	QB7554
+J317W31	QA7637
+J317W31	QB7108
+J329W21	PP7824
+J339H	PP7873
+J339H	QA7397
+J339H	QA7460
+J339H	QA7524
+J339H	QA7613
+J339W31	PP7872
+J339W31	QA7143
+J340H	PP7861
+J340H	QA7130
+J340H	QA7393
+J340H	QA7937
+J340H	QA7957
+J340W31	QA7571
+J346H	QA7153
+J346H	QA7180
+J346H	QA7339
+J346H	QA7423
+J346H	QA7489
+J346H	QA7595
+J346H	QA8006
+J346W31	QA7146
+J363H	QA2400
+J364H   QA2450
+J365H	PP2684
+J365H	QA2658
+J369H	QA2508
+J370H	QA2519
+J370H	QA2579
+J371H	QA2460
+J371H	QA2659
+J375W21	QA7644
+J416H	PP7884
+J416H	QA7127
+J416H	QA7141
+J416H	QA7262
+J416H	QA7263
+J416H	QA7264
+J416H	QA7269
+J416H	QA7290
+J416H	QA7303
+J416H	QA7940
+J416W31	PP7836
+J417H	QA7638
+J417H	QA7653
+J417H	QA7660
+J417H	QA7661
+J417H	QA7681
+J417H	QA7990
+J417H	QA8021
+J446V21	PP7828
+J459H	QA7417
+J459H	QA7542
+J490G	PP7834
+J493G	QA7369
+J493V31	QA7576
+J494G	QA7382
+J494G	QA7982
+J494H	QA7995
+J496G	QA7155
+J496G	QA7280
+J496G	QA7463
+J496G	QA7560
+J496G	QA7673
+J496H	PP7885
+J496H	PP7886
+J496H	QA7177
+J496H	QA7178
+J496H	QA7203
+J496H	QA7254
+J496H	QA7281
+J496H	QA7430
+J496H	QA7561
+J496H	QA7562
+J496H	QA7594
+J496H	QA7675
+J496H	QB7130
+J496H	QB7538
+J507G	QA7432
+J507G	QA7519
+J533H	PP7449S
+J533H	QA7497
+J568H	PP2677
+J568H	QA2580
+J569H	QA2466
+J569H	QA2553
+J588H	QA7418
+J589H	QA7543
+J589W21	QA7419
+J597G	QA7234
+J603H	QB7542
+J603H	QB7543
+J607H	PP2735
+J607H	QA2540
+J607H	QA2596
+J614H	PM2727S
+J614H	QA2418
+J615H	QA2606
+J616H	PP2704
+J616W21	PP2752
+J616W21	QA2431
+J618W21	QA2577
+J617H   QA2572
+J643H	PM2502S
+J644H   QA2479
+J645H   QA2595
+J646H   QA2617
+J683H	PP7819
+J699H	QA7915
+J808Q21	QA2573
+J845G	QA7224
+J845G	QA7949
+J904T	QA2526
+J904T	QA2527
+J904T	QA2533
+J904T	QA2538
+J904T	QA2594
+J905T	QA2571
+J905T	QA2581
+J906G	QA2692
+J907V21	QA2569
+J910T	PP2753
+J910T	QA2463
+J910T	QA2471
+J910T	QA2475
+J910T	QA2476
+J910T	QA2543
+J910T	QA2548
+J910T	QA2549
+J911T	PP2693
+J911T	QA2512
+J911T	QA2593
+J912G	PM2716S
+J912G	QA2435
+J912G	QA2436
+J913G	QA2570
+J931H	PP2585
+J945H	PP7653S
+J945H	QA7119
+J945H	QA7147
+J945H	QA7165
+J945H	QA7341
+J945H	QA7607
+J945H	QA7919
+J945H	QA7958
+J945H	QA8007
+J946H	QA7246
+J946H	QA7342
+J946H	QA7938
+J946H	QB7534
+J977H	QA2555
+J978H	PL2689S
+J979H	PP2731
+J979H	QA2509
+J980H	PP2552
+JB47W21  PP2577
+JB94730	QA2442
+Y399H	PP2681
+Y426H	QA7504
+Y426H	QA7930
+Y427H	QA7170
+Y493G	QA7365
+Y493G	QA7366
+Y496G	QA7501
+Y909G	QA7379
+Y910G	QA2212
+Y911G	QA7554
+Z127H	PP9092
+Z127H	QA7539
+Z148H	PP9089
+Z317H	QA7535
+Z333H	QA7217
+Z333W20  QA7216
+Z340W20  QA7472
+Z347H	QB9271
+Z352H	QA7496
+Z357H	QA7493
+Z359T	PP2587
+Z370T	QA2445
+Z371T	QA2582
+Z398H	QA7462
+Z398H	QA7522
+Z421H	QA7431
+Z452H	PM9788S
+Z463G	QA7579
+Z466H	QA7225
+Z495V21	QA7133
+Z496G	QA7308
+Z496G	QA7309
+Z496G	QA7310
+Z496G	QA7331
+Z569T   QA2592
+Z823G	QA7271
+Z844G	QA7221
+Z877G	QA2575
+Z877G	QA2605
+
+E-Code	E-Batch #
+4829E	QAT391
+5835E	QAT395 
+6327E	QAT409
+6291E	QAT447
+5412E	QAT456
+6178E	QAT500
+4007E	QBT003
+3116E	QBT009
+6217E	QBT020
+4901E	QBT028
+5367E	QBT045
+5864E	QBT053
+5519E	QBT056
+6420E	QBT057
+5296E	QBT061
+3494E	QBT063
+5413E	QBT070
+5765E	QBT072
+6285E	QBT074
+5923E	QBT087
+6243E	QBT099
+5461E	QBT103
+4392E	QBT104
+5007E	QBT105
+5196E	QBT118
+5865E	QBT122
+5674E	QBT130
+6291E	QBT132
+6500E	QBT136
+E3638	QBT139
+2048E	QBT142
+6403E	QBT143
+6045E	QBT146
+6135E	QBT149
+1511E	QBT164
+E7260	QBT206
+MANUFACTURER:
+Ethicon, Inc., San Angelo, TX.
+RECALLED BY:
+Manufacturer, by letters on February 27, and 28, 2001. 
+Firm-initiated recall ongoing.
+DISTRIBUTION:
+United States and Internationally.
+QUANTITY:
+1,248,876.
+REASON:
+Possibly non-sterile sutures.
+________
+PRODUCT:
+OctoBase Retractor Rack (product number 28701). 
+Recall #Z-0479-1. 
+CODE:
+All distributed units of the product were recalled. 
+MANUFACTURER:
+Max Hauser GmbH, D-78507 Tuttlinger, Germany.
+RECALLED BY:
+Medtronic Cardiac Surgery Technologies, Minneapolis, MN, 
+by memorandum dated 12/20/00.  Firm-initiated recall complete.
+DISTRIBUTION:
+California, Georgia, Illinois, Iowa, Maryland, Pennsylvania and 
+Wisconsin, and Washington, DC. 
+QUANTITY:
+18 units.
+REASON:
+The retractor may lock-up during use.
+________
+PRODUCT:
+Medtronic DBS Lead Kits, Models 3387 and 3389, For deep brain 
+stimulation.  Recall #Z-0480-1.
+CODES:
+All lots distributed prior to January 5, 2001. 
+MANUFACTURER:
+Medtronic, Inc., Neurological Division, Minneapolis, MN.
+RECALLED BY:
+Manufacturer, by letters dated January 16, 2001.  Firm-initiated 
+ecall ongoing.
+DISTRIBUTION:
+Nationwide and Australia, Canada, China, Japan and The Netherlands.
+QUANTITY:
+11043 leads.
+REASON:
+Some electrodes in the leads are not connected to the proper connector 
+sleeve.
+________
+PRODUCT:
+Boston Scientific Scimed Maverick Monorail PTCA Dilatation Catheters, Models 
+H7493027515150, H7493027509200, H7493027515250, H7493027515300, H7493027530400, 
+H7493027520150, H7493027530200, H7493027520250, H7493027520300, H7493027515400, 
+H7493027515270, H7493027515200, H7493027515350, H7493027520200, H7493027520350, 
+H7493027520400, H7493027520270, H7493027515220, H7493027515320, H7493027520320, 
+H7493027520370, H7493027515370 and H7493027509220.  Recall #Z-0481-1. 
+CODES:
+All remaining lots of the products at consignees are being recalled. 
+MANUFACTURER:
+Boston Scientific Scimed, Inc., Maple Grove, MN.
+RECALLED BY:
+Manufacturer, by Urgent Recall Notice, dated December 5, 2000.  
+Firm-initiated recall ongoing.
+DISTRIBUTION:
+Nationwide and 11 European Countries.
+QUANTITY:
+684 catheters.
+REASON:
+Possibility of a hole between the wire and the inflation lumens.
+ 
+CORRECTION:  The Enforcement Report for April 11, 2001 
+(Recall #Z-347-1) has been reassigned to a new product 
+(Dr. Sweat�s Atlas Orthogonal Chiropractic Adjustment Table 
+(aka Atlas Table).  The New Recall Nos. for (Femoral Hip Stems) 
+follows:
+________
+PRODUCT:
+Femoral Hip Stems;
+a) Lat. Answer Cemented Femoral 9 x 125 mm Lateralized Stem. 
+   Recall #Z-461-1;
+b) Lat. Answer Cemented Femoral 11.0 x 135 mm Lateralized Stem.   
+   Recall #Z-462-1;  
+c) CB Answer Cemented Femoral 9.0 x 125 mm Stem. 
+   Recall # Z-463-1.   
+d) Mallory/Head Cemented Femoral Interlok/Minus 5 mm Neck, 5 mm 
+   x 7 mm.  Recall #Z-464-1.
+e) Mallory/Head Cemented Femoral Interlok/with Collar 7.0 x 140  
+   mm Stem.  Recall #Z-465-1.  
+f) Mallory/Head Collared Femoeral 7.0 x 140 mm Stem.  
+   Recall #Z-466-1.  
+g) Mallory/Head C Femoral Reduced 5P/7D x 105 mm Minus 5 mm Neck.  
+   Recall #Z-467-1.  
+h) Modified Mallory/Head C Femoral 5 mm x 7 mm x 115 mm Stem Minus 
+   5 mm Neck.  Recall #Z-468-1.
+CODE:
+a) Part No. 162501, Lot Nos. 314750, 385750, 462760 and 538800;
+b) Part No. 162502, Lot Nos. 013820, 087010, 138970, 138980, 
+   156390, 207720, 241120, 252630, 264810, 302780, 347780, 
+   462770, 538810, 587870, 623710 and 666370;
+c) Part No. CP155895, Lot Nos. 314520, 314530, 403400 and 
+   462380;
+d) Part No. 105606, Lot Nos. 029110, 155570, 338210 and 474040;
+e) Part No. 105607, Lot Nos. 113800, 113810, 137940, 137950,   
+   155580, 170500, 183130, 183140, 194670, 207420, 229400,   
+   264510, 013510, 099850, 289400, 289410, 302350, 435370, 
+   487870, 487880, 500930, 511980, 511990, 523800, 523810, 
+   538270, 549180 and 549190;
+f) Part No. RD116807, Lot No. 207230;
+g) Part No. 154682, Lot No. 264440;
+h) Part No. CP154683, Lot No. 326020.
+MANUFACTURER:
+Biomet Orthopedics, Inc., Warsaw, IN,
+RECALLED BY:
+Manufacturer, by facsimile letter on January 18, 2001.  
+Firm-initiated recall ongoing.
+DISTRIBUTION:
+United States, Canada, France and Korea.
+QUANTITY:
+159.
+REASON:
+The cobalt-chrome alloy may have a streak of pure cobalt.
+
+
+END OF ENFORCEMENT REPORT FOR APRIL 18, 2001.
+
+
+
+
+
+
+FDA News Page   |   FDA Home Page 
+                                                          
+  
+
+Office of Public Affairs
+Hypertext uploaded by tg 2001-APR-18.

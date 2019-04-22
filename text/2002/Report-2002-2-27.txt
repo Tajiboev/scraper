@@ -1,0 +1,357 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  06
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      25 captures
+	      18 Apr 2002 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA 
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration, Department of Health and Human Services. 
+It contains information on actions  taken in connection with agency
+Regulatory activities.
+
+
+
+	February 27, 2002                                          02-08RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS I_______________________
+PRODUCT
+Physicians Formula, Eye Makeup Remover Lotion, 2 Fl. Oz./ 59 ml., Recall 
+# F-299-2.
+CODE
+Batch Code 0821 and 0601.
+RECALLING FIRM/MANUFACTURER
+Pierre Fabre/Physicians Formula Cosmetics, Azusa, CA, by press release on 
+June 8, 2001 and by fax and letters on June 11, 2001.
+Firm initiated recall is complete.
+REASON
+The product was contaminated with Pseudomonas fluorescens/putida.
+VOLUME OF PRODUCT IN COMMERCE
+16,300 units.
+DISTRIBUTION
+Nationwide.
+
+_______________________
+PRODUCT
+Zorba Natural Pepperoncini Mild Pickled Peppers Sulfite Free, 15 fl. oz. 
+glass jar with gold cap.  Recall # F-300-2.
+CODE
+OCT1703;
+OCT1803;
+NOV703.
+Codes are located on the cap.
+RECALLING FIRM/MANUFACTURER
+Orleans Packing Company, Hyde Park, MA, by telephone and fax on Nov. 14, 
+2001.  Firm initiated recall is complete.
+REASON
+Product contains undeclared sulfites.
+VOLUME OF PRODUCT IN COMMERCE
+1772 cases.
+DISTRIBUTION
+Nationwide.
+
+	RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS II
+_______________________
+PRODUCT
+Red Blood Cells, Leukocytes Reduced, Recall # B-0861-2.
+CODE
+Unit number 12FG81607.
+RECALLING FIRM/MANUFACTURER
+The American National Red Cross, Carolinas Region, Charlotte, NC, by 
+letters dated Oct. 17 and Nov. 19, 2001.  Firm initiated recall is 
+complete.
+REASON
+Blood product, collected from an unsuitable donor based on travel to an 
+area considered endemic for malaria, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+TN.
+_______________________
+PRODUCT
+a) Red Blood Cells, Recall # B-0863-2;
+b) Fresh Frozen Plasma, Recall # B-0864-2.
+CODE
+a) and b) Unit number 03KL07272.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm: The American National Red Cross, Southern Region, 
+Atlanta, GA, by telephone on March 12 and by letter dated March 17, 1998.
+Manufacturer:	American Red Cross Blood Services, Miami, FL.
+Firm initiated recall is complete.
+REASON
+Blood products, that tested negative for viral markers, but were 
+collected from an ineligible donor based on the application of a tattoo 
+within the previous 12 months, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+2 units.
+DISTRIBUTION
+FL.
+_______________________
+PRODUCT
+Plasma, Cryoreduced, For Further Manufacturing Use, 
+Recall # B-0866-2.
+CODE
+Unit number 03KT03575.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm: The American National Red Cross, Southern Region, 
+Atlanta, GA, by letter on Nov. 12, 1997.
+Manufacturer:	 American Red Cross Blood Services, Miami, FL.
+Firm initiated recall is complete.
+REASON
+Blood product, that was not properly quarantined after the donor provided 
+information concerning an accidental needlestick during the previous 
+twelve months, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+Switzerland.
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS III
+_______________________
+PRODUCT
+Immune Globulin Intravenous (Human); Venoglobulin?-S, 10% Solution; (10 
+g, 100 ml), Recall # B-0858-2.
+CODE
+Lot number GR1038A.
+RECALLING FIRM/MANUFACTURER
+Alpha Therapeutic Corporation, Los Angeles, CA, by letter dated Nov. 26, 
+2001.  Firm initiated recall is complete.
+REASON
+Human immunoglobulin, with anti-complementary activity (ACA) levels that 
+exceeded specifications, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1,351 vials.
+DISTRIBUTION
+FL and GA.
+_______________________
+PRODUCT
+Allergenic extracts labeled in part "ALLERGENIC EXTRACT **, 
+Recall # B-0862-2.
+CODE
+Three custom mixes that contain Aspergillus Fumigatus lot H483911
+a)	"SACRAMENTO 4 MOLD MIX ** Strength: 1:50 w/v ** 10 mL **"
+	Lot No. J31I3208, Exp. Date 10/04/2004.
+a)	"ADE OFFICE USE "T" ** Strength: Concentrate 50 mL ***"
+	Lot No. B21I3030, Exp. Date 02/01/2003.
+a)	"SCOTT MOLD MIX ** Strength 1:10 w/v  10 mL***"
+	Lot No. 131I2921, Exp. Date 09/19/2004.
+     59 Custom patient prescriptions that contain Aspergillus           
+Fumigatus lot H483911
+a)	"ENVIRONMENTAL TS"
+	Lot no. T01-010873 Exp. date 09/20/2002
+a)	"5mL ENVIR/STD. CAT RF"
+	Lot no. T01-010878 Exp. date 09/20/2002
+	Lot no. T01-011606 Exp. date 10/10/2002
+a)	"ENVIR/STD MITE TS" 
+	Lot no. T01-011680 Exp. date 10/11/2002 
+	Lot no. T01-011784 Exp. date 10/17/2002 	
+a)	"5mL ENVIR/STD MITE RF" 
+	Lot no. T01-011083 Exp. date 09/26/2002 
+	Lot no. T01-011166 Exp. date 09/27/2002 
+	Lot no. T01-011462 Exp. date 10/04/2002 
+	Lot no. T01-011468 Exp. date 10/04/2002 
+	Lot no. T01-011599 Exp. date 10/10/2002 
+	Lot no. T01-011602 Exp. date 10/10/2002
+	Lot no. T01-011690 Exp. date 10/11/2002
+	Lot no. T01-011829 Exp. date 10/17/2002
+a)	"ENVIR/STD MITE TS+2"
+	Lot no. T01-011551 Exp. date 10/10/2002
+a)	"5mL MOLD RF" 
+	Lot no. T01-011285 Exp. date 10/03/2002
+	Lot no. T01-011456 Exp. date 10/04/2002 
+	Lot no. T01-011570 Exp. date 10/10/2002
+	Lot no. T01-011579 Exp. date 10/10/2002
+"10mL MOLD RF" 
+	Lot no. T01-011202 Exp. date 09/27/2002 	
+a)	"5mL MOLD/STD CAT RF 
+	Lot no. T01-011801 Exp. date 10/17/2002
+"10mL MOLD/STD CAT RF" 
+	Lot no. T01-011631 Exp. date 10/10/2002 
+a)	"MOLD/STD MITE TS+1" 
+	Lot no. T01-011123 Exp. date 09/27/2002 
+	Lot no. T01-011124 Exp. date 09/27/2002
+a)	"5mL MOLD/STD MITE RF" 
+	Lot no. T01-010877 Exp. date 09/20/2002
+a)	"MOLD/STD MITE TS" 
+	Lot no. T01-011549 Exp. date 10/10/2002
+a)	"5mL MOLD/STD MITE RF" 
+	Lot no. T01-010942 Exp. date 09/20/2002 
+	Lot no. T01-010949 Exp. date 09/20/2002 
+	Lot no. T01-011286 Exp. date 10/03/2002	
+a)	"5mL POLLEN RF" 
+	Lot no. T01-010954 Exp. date 09/20/2002 
+	Lot no. T01-011290 Exp. date 10/03/2002
+    "10mL POLLEN RF" 
+	Lot no. T01-011758 Exp. date 10/11/2002
+a)	"5mL POLLEN/STD POL RF"
+	Lot no. T01-010889 Exp. date 09/20/2002
+	Lot no. T01-010891 Exp. date 09/20/2002 
+	Lot no. T01-010896 Exp. date 09/20/2002
+	Lot no. T01-010902 Exp. date 09/20/2002
+	Lot no. T01-010904 Exp. date 09/20/2002
+	Lot no. T01-011131 Exp. date 09/27/2002
+	Lot no. T01-011186 Exp. date 09/27/2002
+	Lot no. T01-011366 Exp. date 10/03/2002	
+	Lot no. T01-011453 Exp. date 10/04/2002
+	Lot no. T01-011575 Exp. date 10/10/2002
+	Lot no. T01-011596 Exp. date 10/10/2002
+	Lot no. T01-011604 Exp. date 10/10/2002
+	Lot no. T01-011711 Exp. date 10/11/2002
+	Lot no. T01-011785 Exp. date 10/17/2002
+	Lot no. T01-011795 Exp. date 10/17/2002
+	Lot no. T01-011805 Exp. date 10/17/2002
+	Lot no. T01-011818 Exp. date 10/17/2002
+    "10mL POLLEN/STD POL RF"
+	Lot no. T01-011039 Exp. date 09/26/2002
+	Lot no. T01-011729 Exp. date 10/11/2002
+	Lot no. T01-011732 Exp. date 10/11/2002
+	Lot no. T01-011985 Exp. date 10/18/2002
+a)	"10mL POLLEN/MOLD RF"
+	Lot no. T01-011327 Exp. date 10/03/2002
+a)	"5mL POLLEN/ST MITE RF"
+	Lot no. T01-011353 Exp. date 10/03/2002
+	Lot no. T01-011369 Exp. date 10/03/2002
+	Lot no. T01-011787 Exp. date 10/17/2002
+"10mL POLLEN/ST MITE RF"
+	Lot no. T01-011485 Exp. date 10/04/2002
+	Lot no. T01-011640 Exp. date 10/10/2002
+a)	 "POLLEN/STD POL TS+1"
+	Lot no. T01-011544 Exp. date 10/10/2002
+
+Stock fills of Aspergillus Fumigatus filled from Aspergillus Fumigatus lot 
+H483911
+
+a)	 "ASPERGILLUS FUMIGATUS ** Strength 1:10 w/v ** 50 mL,  Lot No. 
+K31I2841,  Exp. Date 09/24/2004;  Lot No. H41I2851, Exp. Date 
+09/24/2004.
+RECALLING FIRM/MANUFACTURER
+Hollister-Stier Laboratories, LLC, Spokane, WA, by telephone on Nov. 12 
+and by letter dated Nov. 13, 2001.
+Firm initiated recall is complete.
+REASON
+Lack of assurance of sterility.  The recalled products passed release 
+sterility testing, but a subsequent lot filled from the same bulk extract 
+failed sterility testing.
+VOLUME OF PRODUCT IN COMMERCE
+69 units.
+DISTRIBUTION
+Nationwide.
+_______________________
+PRODUCT
+Cryoprecipitated AHF, Recall # B-0865-2.
+CODE
+Unit number 03V06690.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm: The American National Red Cross, Southern Region, 
+Atlanta, GA, by telephone on Jan. 14 and by letter dated Jan. 20, 1998.  
+Manufacturer:	American Red Cross Blood Services, Miami, FL.
+Firm initiated recall is complete.
+REASON
+Blood product, manufactured from a unit of whole blood whose collection 
+time was extended, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+FL.
+	
+
+END OF ENFORCEMENT REPORT FOR FEBRUARY 27, 2002####
+
+
+
+
+ FDA News Page   
+  |   FDA Home Page 
+                                                          
+  
+ Office of Public Affairs
+  Hypertext uploaded by tg 2002-FEB-27.

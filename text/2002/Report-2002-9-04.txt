@@ -1,0 +1,954 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Sep
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  06
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      25 captures
+	      06 Oct 2002 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA 
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration, Department of Health and Human Services. 
+It contains information on actions  taken in connection with agency
+Regulatory activities.
+
+September 4, 2002
+  02-35
+  
+RECALLS AND FIELD CORRECTIONS: 
+  FOODS -- CLASS I
+_______________________
+  PRODUCT
+  SUPREME QUALITY brand PICKLED Sour 
+  bamboo shoot (SLICE) packed in glass 
+  jars, NET WT. 29.89 OZ. ING: Bamboo, 
+  Water, Salt. PRODUCT OF THAILAND. 
+  Barcode #84909 00343. Recall # F-746-2.
+  CODE
+
+  All products on the market at the 
+  time the recall was initiated.
+  RECALLING FIRM/MANUFACTURER
+
+  Recalling Firm: Hong Thai Foods Corp., 
+  Brooklyn, NY, by press release on 
+  February 14, 2002.
+  Manufacturer: Savoy Enterprises Ltd., 
+  Part. Yannawa, Bangkok.
+  State initiated recall is complete.
+  REASON
+
+  The New York State Department of 
+  Agriculture and Markets found the 
+  product to contain undeclared sulfites 
+  (390 ppm).
+  VOLUME OF PRODUCT IN COMMERCE
+
+  23 cases (12 jars per case).
+  DISTRIBUTION
+
+  NY and NJ.
+_______________________
+  PRODUCT
+  Caravelle brand, Pickled Sour Bamboo 
+  Shoot Slices, 2 pound and 4 pound 
+  jars. Recall # F-747-2.
+  CODE
+
+  All products on the market at the 
+  time the recall was initiated.
+  RECALLING FIRM/MANUFACTURER
+
+  Recalling Firm: Anhing Corporation, 
+  Los Angeles, CA, by letter on July 
+  2, 2002. The New York State Department 
+  of Agriculture and Markets issued 
+  a press release on June 27, 2002.
+  Manufacturer: Unknown. State initiated 
+  recall is ongoing.
+  REASON
+
+  The New York State Department of 
+  Agriculture and Markets found the 
+  product to contain 781 ppm undeclared 
+  sulfites in 35g serving size.
+  VOLUME OF PRODUCT IN COMMERCE
+
+  Undetermined.
+DISTRIBUTION
+
+  Nationwide.
+
+
+RECALLS AND FIELD CORRECTIONS: FOODS 
+  -- CLASS II
+
+_______________________
+  PRODUCT
+
+Pure Fun brand Peach Mango Juice 
+  Blend Concentrate,1+7, in half gallon 
+  bottles. Recall # F-748-2.
+  CODE
+
+  Lot 110702.
+  RECALLING FIRM/MANUFACTURER
+
+  Penguin Juice Company, Westland, 
+  MI, by telephone on July 29, 2002 
+  and by letter on August 1, 2002. 
+  FDA initiated recall is complete.
+  REASON
+
+  The product contained undeclared 
+  FD&C Yellow No. 5.
+  VOLUME OF PRODUCT IN COMMERCE
+
+  50 cases (6 bottles per case).
+  DISTRIBUTION
+
+  GA.
+_______________________
+  PRODUCT
+
+Laima brand Greipfrutu Skelites 
+  (Grapefruit Candy). Recall # F-749-2.
+  CODE
+
+  Lot No. L01012.
+  RECALLING FIRM/MANUFACTURER
+
+  Recalling Firm: Romic Inc., Alpharetta, 
+  GA, by telephone on June 13, 2002.
+  Manufacturer: JSC Laima Riga, Latvia. 
+  State initiated recall is ongoing.
+  REASON
+
+  The product contained the unapproved 
+  food color Ponceau 4R.
+  VOLUME OF PRODUCT IN COMMERCE
+
+  640 cartons.
+  DISTRIBUTION
+
+  NY.
+_______________________
+  PRODUCT
+
+Miguel and Valentino brand Fig 
+  Cake, Hand Made, packaged in cellophane 
+  wrap and further packaged in wraparound 
+  wicker basket, net wt. approx 2 lbs. 
+  Recall # F-750-2.
+  CODE
+
+  Lots 14922, 23206, 25093, 27205.
+  RECALLING FIRM/MANUFACTURER
+
+  Recalling Firm: Miguel and Valentino, 
+  Bethesda, MD, by press release on 
+  June 6, 2002.
+  Manufacturer: Victoriano Navas Martin 
+  Zorilla Archez (Malaga) Spain. State 
+  initiated recall is complete.
+  REASON
+
+  Product contained undeclared almonds 
+  which were visible on the top of 
+  the cake.
+  VOLUME OF PRODUCT IN COMMERCE
+
+  672 cakes.
+  DISTRIBUTION
+
+  CO, FL, GA, MD, D.C., MI, CA and 
+  NJ.
+
+RECALLS AND FIELD CORRECTIONS: 
+  DRUGS -- CLASS II
+_______________________
+  PRODUCT
+
+Zerit (stavudine) Capsules, 40 
+  mg, bottles of 60, Rx only. Recall 
+  # D-398-2.
+  CODE
+
+  Lot 1A36209, Exp. FEB 2003.
+  RECALLING FIRM/MANUFACTURER
+
+  Recalling Firm: Alliance Wholesale 
+  Distributor, Richton Park, IL, by 
+  letter dated June 28, 2002.
+  Manufacturer: Bristol-Myers Squibb 
+  Oncology/Immunology, Princeton, NJ. 
+  Firm initiated recall is ongoing.
+  REASON
+
+  Tablets changed to capsules.
+  VOLUME OF PRODUCT IN COMMERCE
+
+  26 bottles.
+  DISTRIBUTION
+
+  Nationwide.
+_______________________
+  PRODUCT
+
+Quinaglute (quinidine gluconate, 
+  USP), Dura-Tabs (extended-release 
+  tablets, USP) 324 mg, 100 count bottles, 
+  Rx only. Recall # D-399-2.
+  CODE
+
+  Lot #012634, Exp. OCT 23 03
+  Lot #012831, Exp. NOV 27 03 
+  Lot #012263, Exp. SEP 04 03.
+  RECALLING FIRM/MANUFACTURER
+
+  Recalling Firm: AmeriSource Health 
+  Services Corp., Columbus, OH, by 
+  letter and fax on August 20, 2002.
+  Manufacturer: Berlex Laboratories, 
+  Wayne, NJ. Firm initiated recall 
+  is ongoing.
+  REASON
+
+  Metal particles found in tablet (by 
+  manufacturer).
+  VOLUME OF PRODUCT IN COMMERCE
+
+  687 bottles total.
+  DISTRIBUTION
+
+  Nationwide.
+_______________________
+  PRODUCT
+
+Nasonex Nasal Spray (mometasone 
+  furoate monohydrate) 50 mcg, Net 
+  Contents: 17 g, 120 Metered Sprays, 
+  FOR INTRANASAL USE ONLY. Rx only. 
+  Recall # D-400-2.
+  CODE
+
+  1-KTL-147 Exp. date 3.03.
+  RECALLING FIRM/MANUFACTURER
+
+  Recalling Firm: Schering Corpration, 
+  Kenilworth, NJ, by fax on an unknown 
+  date and by letters on August 12, 
+  2002.
+  Manufacturer: Schering-Plough Products, 
+  Inc., Manati, Puerto Rico. Firm initiated 
+  recall is ongoing.
+  REASON
+
+  Defective container; missing part 
+  in actuator may cause a narrow stream 
+  of product to be dispensed rather 
+  than a fine spray 
+  VOLUME OF PRODUCT IN COMMERCE
+
+  295,620 units.
+  DISTRIBUTION
+
+  Nationwide.
+
+RECALLS AND FIELD CORRECTIONS: 
+  BIOLOGICS -- CLASS I
+_______________________
+  PRODUCT
+
+Human Tissue for Transplantation 
+  of the following types. Recall # 
+  B-1789-2.
+  a) Skin, Meshed 
+  b) Skin (sq.ft.) 
+  c) Tibia 
+  d) Achilles Tendon with Bone
+  e) Patellar Ligament; with Quadriceps 
+  
+  f) Patellar Ligament 
+  g) Ilium, Hemi 
+  h) Fibula, Segment 
+  i) Tri-Cortical Block 
+  J) Cortical Wedge Select 
+  k) Fibula, Ring	
+  l) Cancellous, Crushed 
+  m) Cancellous Block
+  n) Cancellous, Crushed 
+  CODE
+
+  a) Tissue ID # CTSP000348-009, CTSP000348-010, 
+  
+  CTSP000348-011, CTSP000348-012,
+  CTSP000348-013, CTSP000348-014. 
+  b) Tissue ID # CTSP000348-015, CTSP000348-016. 
+  
+  c) Tissue ID # CTSP000348-017.
+  d) Tissue ID # CTSP000348-018, SP000348-019.
+  e) Tissue ID # CTSP000348-020.
+  f) Tissue ID # CTSP000348-021.
+  g) Tissue ID # CTSP000348-022.
+  h) Tissue ID # CTSP000348-023, CTSP000348-024. 
+  i) Tissue ID # CTSP000348-032.
+  j) Tissue ID # CTSP000348-033, CTSP000348-034,
+  CTSP000348-035, CTSP000348-036,							CTSP000348-037, 
+  CTSP000348-038,							CTSP000348-039, 
+  CTSP000348-040,							CTSP000348-041.			
+  k) Tissue ID # CTSP000348-044, CTSP000348-046,							CTSP000348-050.			
+  l) Tissue ID # CTSP000348-053, CTSP000348-054, 
+  
+  CTSP000348-055, CTSP000348-056,
+  CTSP000348-057, CTSP000348-058,
+  CTSP000348-059, CTSP000348-060,							CTSP000348-061, 
+  CTSP000348-062.
+  m) Tissue ID # CTSP000348-063, CTSP000348-064,						 
+  CTSP000348-065, CTSP000348-066,							CTSP000348-067, 
+  CTSP000348-068,							CTSP000348-069, 
+  CTSP000348-070,							CTSP000348-071, 
+  CTSP000348-072,							CTSP000348-073, 
+  CTSP000348-074,							CTSP000348-075, 
+  CTSP000348-076,
+  			CTSP000348-077, CTSP000348-078,
+  			CTSP000348-079.
+  n) Tissue ID # CTSP000348-080, CTSP000348-081,				 
+  CTSP000348-082.	
+  RECALLING FIRM/MANUFACTURER
+
+  Community Blood Center, dba: Community 
+  Tissue Services (CTS), Dayton, Ohio, 
+  by letters dated July 15, 2002 and 
+  July 25, 2002.
+  Firm initiated recall is ongoing.
+REASON
+
+  Tissue for transplantation, processed 
+  from a donor who tested positive 
+  for hepatitis C virus (HCV) subsequent 
+  to distribution.
+  VOLUME OF PRODUCT IN COMMERCE
+
+  59 units.
+  DISTRIBUTION
+
+  Nationwide.
+
+RECALLS AND FIELD CORRECTIONS: 
+  BIOLOGICS -- CLASS II
+_______________________
+  PRODUCT
+
+Red Blood Cells, Leukocytes Reduced, 
+  Recall # B-1788-2.
+  CODE
+
+  Units 04KS64220, 04G25447.
+  RECALLING FIRM/MANUFACTURER
+
+  American Red Cross, New England Region, 
+  Dedham, MA, by letter dated May 7, 
+  2002. Firm initiated recall is complete.
+  REASON
+
+  Blood products, collected from a 
+  donor who had lived in an area designated 
+  as endemic for malaria, were distributed. 
+  
+  VOLUME OF PRODUCT IN COMMERCE
+
+  2 units.
+  DISTRIBUTION
+
+  MA.
+_______________________
+  PRODUCT
+
+Platelets, Pheresis, Leukocytes 
+  Reduced, Recall # B-1818-2
+  CODE
+
+  Unit 04GS06136.
+  RECALLING FIRM/MANUFACTURER
+
+  American Red Cross Blood Services,	New 
+  England Region,	Dedham, MA, by 
+  telephone on May 13, 2002, and letter 
+  dated May 28, 2002.
+Firm initiated recall is complete.
+  REASON
+
+  Blood product, inappropriately prepared 
+  in that the product was distributed 
+  in one platelet bag instead of two, 
+  was distributed.
+  VOLUME OF PRODUCT IN COMMERCE
+
+  1 unit.
+  DISTRIBUTION
+
+  NY.
+_______________________
+  PRODUCT
+
+Red Blood Cells, Leukocytes Reduced, 
+  Irradiated, Recall # B-1820-2.
+  CODE
+
+  Unit S12185.
+  RECALLING FIRM/MANUFACTURER
+
+  Delta Blood Bank, Stockton, CA, by 
+  letter dated November 2, 2000. 
+  Firm initiated recall is complete.
+  REASON
+
+  Blood product, which tested non-reactive 
+  for antibody to the hepatitis B core 
+  antigen (anti-HBcore), but was collected 
+  from a donor who previously tested 
+  reactive on two prior occasions, 
+  was distributed.
+  VOLUME OF PRODUCT IN COMMERCE
+
+  1 unit.
+  DISTRIBUTION
+
+  CA.
+_______________________
+  PRODUCT
+
+Source Plasma, Recall # B-1833-2.
+  CODE
+
+  Units 0015331, 0015469, 0015654.
+  RECALLING FIRM/MANUFACTURER
+
+  DCI Biologicals Hot Springs, Inc., 
+  Plasmapheresis Facility, Hot Springs 
+  AK, by fax on February 11, 2002. 
+  Firm initiated recall is complete.
+  REASON
+
+  Blood products, collected from 
+  a donor who tested reactive for hepatitis 
+  B surface antigen (HbsAg), were distributed.
+  VOLUME OF PRODUCT IN COMMERCE
+
+  3 units.
+  DISTRIBUTION
+
+  Austria.
+  ______________________
+  PRODUCT
+
+Red Blood Cells, Leukoreduced, 
+  Recall # B-1834-2.
+  CODE
+
+  Units 50C19470, 50C19479, 50C19554, 
+  50LG55918, 50C19378, 50C19350, 50LG55838, 
+  50C19960, 50C19973, 50C19976, 50C20073, 
+  50C23477, 50LG58467, 50LG58471, 50LG58483, 
+  50LG57697, 50C23668, 50C23712, 50C23713, 
+  50LH24269, 50LJ36051, 50LJ36210, 
+  50LJ36248, 50C24394. 
+  RECALLING FIRM/MANUFACTURER
+
+  American Red Cross Blood Services,	Western 
+  Lake Erie Region, Toledo, OH, by 
+  letter dated December 4, 2001 or 
+  February 6, 2002.
+  Firm initiated recall is complete.
+  REASON
+
+  Blood products, which were incorrectly 
+  tested for Cytomegalovirus (CMV), 
+  were distributed.
+  VOLUME OF PRODUCT IN COMMERCE
+
+  24 units.
+  DISTRIBUTION
+
+  OH.
+_______________________
+  PRODUCT
+
+Platelets Pheresis, Recall # 
+  B-1857-2.
+  CODE
+
+  Unit number R52990.
+  RECALLING FIRM/MANUFACTURER
+
+  HCSC Blood Center, Miller Memorial 
+  Blood Center, Bethlehem, PA, by letter 
+  on August 8, 2000. Firm initiated 
+  recall is complete.
+  REASON
+
+  Platelets with a decreased platelet 
+  count were distributed.
+  VOLUME OF PRODUCT IN COMMERCE
+
+  1 unit.
+  DISTRIBUTION
+
+  PA.
+_______________________
+  PRODUCT
+
+Platelets Pheresis, Recall # 
+  B-1858-2.
+  CODE
+
+  Unit number R52937.
+  RECALLING FIRM/MANUFACTURER
+
+  HCSC Blood Center,	Miller Memorial 
+  Blood Center, Bethlehem, PA, by letter 
+  on July 20, 2000. Firm initiated 
+  recall is complete.
+  REASON
+
+  Blood product, collected from a donor 
+  that did not answer one of the medical 
+  history questions concerning behavior 
+  known to increase risk of infection 
+  with the human immunodeficiency virus 
+  (HIV), was distributed.
+  VOLUME OF PRODUCT IN COMMERCE
+
+  1 unit.
+  DISTRIBUTION
+
+  PA.
+
+RECALLS AND FIELD CORRECTIONS: 
+  BIOLOGICS -- CLASS III
+_______________________
+  PRODUCT
+
+Source Plasma, Recall # B-1707-2.
+  CODE
+
+  Units 46 DCDYDG 0, 46 DCCWXG 0.
+  RECALLING FIRM/MANUFACTURER
+
+  Aventis Bio-Services, Inc., Decatur, 
+  IL, by fax on February 22, 2002.
+  Firm initiated recall is complete.
+  REASON
+
+  Blood products, collected from a 
+  donor with an elevated temperature 
+  and whose health history was incomplete, 
+  were distributed.
+  VOLUME OF PRODUCT IN COMMERCE
+
+  2 units.
+  DISTRIBUTION
+
+  IL.
+_______________________
+  PRODUCT
+
+Platelets, Pheresis, Recall # 
+  B-1816-2.
+  CODE
+
+  Unit R79836.
+  RECALLING FIRM/MANUFACTURER
+
+  HCSC Blood Center, t/a Miller Memorial 
+  Blood Center, Bethlehem, PA, by telephone 
+  on August 6, 2001 and by letter dated 
+  September 14, 2001. Firm initiated 
+  recall is complete.
+  REASON
+
+  Blood product, collected from a donor 
+  whose arm inspection was not documented, 
+  was distributed.
+  VOLUME OF PRODUCT IN COMMERCE
+
+  1 unit.
+  DISTRIBUTION
+
+  PA.
+_______________________
+  PRODUCT
+
+Red Blood Cells, Leukocytes Reduced, 
+  Recall # B-1819-2.
+  CODE
+
+  Unit 12GY49326.
+  RECALLING FIRM/MANUFACTURER
+
+  American Red Cross Blood Services,	Carolinas 
+  Region, Charlotte, NC, by telephone 
+  on May 29, 2002 and by letter dated 
+  June 11, 2002. Firm initiated recall 
+  is complete.
+  REASON
+
+  Blood product, which had a positive 
+  antibody screening test, but labeled 
+  as negative for unexpected antibodies, 
+  was distributed.
+  VOLUME OF PRODUCT IN COMMERCE
+
+  1 unit.
+  DISTRIBUTION
+
+  NC.
+_______________________
+  PRODUCT
+
+Red Blood Cells, Leukocytes Reduced, 
+  Recall # B-1821-2.
+  CODE
+
+  Unit G46085.
+  RECALLING FIRM/MANUFACTURER
+
+  Northern Illinois Blood Bank, Rockford, 
+  IL, by telephone on June 6, 2002. 
+  Firm initiated recall is complete.
+  REASON
+
+  Blood product, which was incorrectly 
+  tested for anti-HTLV I/II, was distributed.
+  VOLUME OF PRODUCT IN COMMERCE
+
+  1 unit.
+  DISTRIBUTION
+
+  IL.
+_______________________
+  PRODUCT
+
+Fresh Frozen Plasma, Recall # 
+  B-1855-2.
+  CODE
+
+  Unit number 6745504.
+  RECALLING FIRM/MANUFACTURER
+
+  Coral Blood Services, Inc., Children's 
+  Memorial Hospital, Chicago, IL, by 
+  telephone on February 22, 2002 and 
+  by letter dated March 27, 2002. Firm 
+  initiated recall is complete.
+  REASON
+
+  Blood product, that was not frozen 
+  within 8 hours of collection, was 
+  distributed.
+  VOLUME OF PRODUCT IN COMMERCE
+
+  1 unit.
+  DISTRIBUTION
+
+  IL.
+_______________________
+  PRODUCT
+
+Red Blood Cells, Leukocytes Reduced, 
+  Recall # B-1856-2.
+  CODE
+
+  Unit numbers 6745708, 6746142, 6746143, 
+  6746145, 6746146, and 6746147.
+  RECALLING FIRM/MANUFACTURER
+
+  Coral Blood Services, Inc., Children's 
+  Memorial Hospital, Chicago, IL, by 
+  telephone on February 21, 2002 and 
+  by letter dated March 27, 2002. Firm 
+  initiated recall is complete.
+  REASON
+
+  Blood products, that did not have 
+  the additive solution included within 
+  the time frames specified by the 
+  manufacturer's instructions, were 
+  distributed.
+  VOLUME OF PRODUCT IN COMMERCE
+
+  6 units.
+  DISTRIBUTION
+
+  IL.
+_______________________
+  PRODUCT
+
+Red Blood Cells, Recall # B-1859-2.
+  CODE
+
+  Unit numbers T30834, T30836, and 
+  T30841.
+  RECALLING FIRM/MANUFACTURER
+
+  HCSC Blood Center,	Miller Memorial 
+  Blood Center, Bethlehem, PA, by telephone 
+  on April 19, 2000. Firm initiated 
+  recall is complete.
+  REASON
+
+  Unlicensed blood products were distributed 
+  interstate.
+  VOLUME OF PRODUCT IN COMMERCE
+
+  3 units.
+  DISTRIBUTION
+
+  NJ.
+
+RECALLS AND 
+  FIELD CORRECTIONS: DEVICES -- CLASS 
+  II
+  
+  
+****CORRECTION****
+ Recall # Z-1152-2/Z-1154-2 on 
+  Enforcement Report 02-30 had the 
+  incorrect manufacturer listed. The 
+  correct manufacturer is: Angeion 
+  Corp., Minneapolis, MN.
+_______________________
+  PRODUCT
+
+Sterile Laceration Tray, product 
+  code 50-10890, packaged in sterile 
+  tray, 30 trays\case. Recall # Z-1269-2.
+  CODE
+
+  Lot number 324580.
+  RECALLING FIRM/MANUFACTURER
+
+  Recalling Firm: Deroyal Industries, 
+  Inc., Powell, TN, by letter on March 
+  19, 2002.
+  Manufacturer: Deroyal Wound Care, 
+  Rose Hill, VA. Firm initiated recall 
+  is complete.
+  REASON
+
+  Defective seals on surgical trays 
+  compromise device sterility.
+  VOLUME OF PRODUCT IN COMMERCE
+
+  90 trays.
+  DISTRIBUTION
+
+  GA.
+_______________________
+  PRODUCT
+
+Buffered Iontophoretic Delivery 
+  Electrode System, non-sterile, single-use 
+  only, packaged in a metalized mylar 
+  bag, 12 per box. 
+  IO-Drive Iontophoresis Electrode 
+  System. Recall # Z-1271-2.
+  
+  The product consists of 1 active 
+  drug delivery electrode, 1 return 
+  electrode, 1 or 2 alcohol swabs, 
+  and an instruction manual. The device 
+  is sold as a kit that is non-sterile 
+  and intended for single-use only.
+  The kits contain one of three sizes 
+  of the active electrode (small, medium, 
+  or large). 
+  The medical device is sold under 
+  the 'Selective Med Components' label 
+  and several private labels as follows:
+  1) Buffered Iontophoretic Delivery 
+  Electrode System; North Coast Medical, 
+  Inc. 
+  2) Buffered Iontophoretic Delivery 
+  Electrode System, EMSI, Tampa, Florida. 
+  
+  3) Buffered Iontophoretic Delivery 
+  Electrode System; MedPend, Inc., 
+  Lake Mary, FL.
+  4) Buffered Iontophoretic Delivery 
+  Electrode System; Rudolph Medical.
+  5) Buffered Iontophoretic Delivery 
+  Electrode System; Physio Tech.
+  6) Buffered Iontophoretic Delivery 
+  Electrode System; 
+  Spectramed.
+  7) IoDOSE Buffered Iontophoretic 
+  Delivery Electrode System; 
+  MagMed, Inc.
+  8) SUPER-TRODES Buffered Iontophoretic 
+  Delivery Electrode 
+  System; SME, Inc.
+  9) Buffered Iontophoretic Delivery 
+  Electrode System; Selective 
+  Med Components.
+  10) IONTO-Clone Buffered Iontophoretic 
+  Delivery Electrode System; New England 
+  Surgical, Inc.
+  CODE
+
+  Lot Numbers: 5129-1, 5130-1, 5131-1, 
+  5291-1, 5292-1, 5293-1, 5368-1, 5369-1, 
+  5370-1, 5573-1, 5574-1, 5575-1, 5684-1, 
+  5685-1, 5686-1, 5946-1, 5947-1, 5948-1, 
+  6483-1, 6484-1, 6487-1, 6711-1, 6712-1, 
+  6713-1, 7030-1, 7031-1, 7032-1, 7427-1, 
+  7428-1, 7429-1, 7513-1, 7514-1, and 
+  7515-1.
+  RECALLING FIRM/MANUFACTURER
+
+  Selective Med Components, Inc., Mt. 
+  Vernon, OH, by recall notice on July 
+  18, 2002. FDA initiated recall is 
+  ongoing.
+  REASON
+
+  The device may cause skin burns.
+  VOLUME OF PRODUCT IN COMMERCE
+
+  70,000 kits.
+  DISTRIBUTION
+
+  FL, MS, OH, MA, CA, VA, and NC.
+
+RECALLS AND FIELD CORRECTIONS: 
+  DEVICES -- CLASS III
+_______________________
+  PRODUCT
+
+Storz brand Concentrix Phacoemulsification 
+  Pack, Labeled as Sterile. Product 
+  or reference number CX4310. Recall 
+  # Z-1270-2.
+  CODE
+
+  Lot Number: S7825.
+  RECALLING FIRM/MANUFACTURER
+
+  Bausch & Lomb Surgical, Inc., 
+  Clearwater, FL, by letter on May 
+  10, 2002. Firm initiated recall is 
+  ongoing.
+  REASON
+
+  Irrigation line tubing may not properly 
+  adhere to the casette and leak or 
+  detach.
+  VOLUME OF PRODUCT IN COMMERCE
+
+  600 (100 boxes/6 units each).
+  DISTRIBUTION
+
+  Nationwide and Australia, Canada 
+  and The Netherlands.
+END OF ENFORCEMENT 
+  REPORT FOR SEPTEMBER 4, 2002
+####
+
+ Enforcement 
+  Report Index   | FDA 
+  News Page   |   FDA 
+  Home Page 
+
+ Office of Public Affairs
+  Hypertext uploaded by clb 
+  2002-SEP-03.

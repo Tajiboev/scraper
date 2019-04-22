@@ -6,16 +6,16 @@ async function scrape(page) {
     try {
         const mainHtml = await request(page.href);
         const $ = cheerio.load(mainHtml);
-        let text = $('body').text().trim();
+        const text = $('body').text().trim();
 
-        let rgx = page.text.match(/\d{2,4}/g);
-        let rgx2 = page.text.match(/\d+/g);
-        let fileName = `text/pre-1995/Report-${rgx[2]}-${rgx[0]}-${rgx[1]}.txt`;
-        if (fileName.includes('undefined')) {
-            fileName = `text/pre-1995/Report-${rgx2[2]}-${rgx2[0]}-${rgx2[1]}.txt`;
-        }
+        var str = page.text
+        var str2 = str.slice(str.indexOf('Date Released ') + 14, str.length - 1)
+        var arr1 = str2.match(/\d{1,2}/g)
+        var arr2 = str2.match(/\d{4}/)
+        var fileName = `${arr2[0]}-${arr1[0]}-${arr1[1]}`
 
-        fs.writeFile(fileName, text, function finish(err) {
+
+        fs.writeFile(`text/pre-1995/${fileName}.txt`, text, function finish(err) {
             if (err) {
                 console.log('error (while writing)', err.message);
             } else {
@@ -36,10 +36,10 @@ function fetchText() {
             console.log('error while reading', err)
         } else {
             const links = JSON.parse(contents);
-            for (let i = 250; i < 255; i++) {
+            for (let i = 240; i < 255; i++) {
                 scrape(links[i]);
             };
-            console.log(links.length);
+            // console.log(links.length);
         }
     });
 

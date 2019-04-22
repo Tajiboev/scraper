@@ -1,0 +1,1018 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  AUG
+		  Dec
+		
+		
+		
+		  
+		  04
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      33 captures
+	      09 Mar 2001 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dm
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA 
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration, Department of Health and Human Services. 
+It contains information on actions  taken in connection with agency
+Regulatory activities.
+
+
+
+
+
+
+
+February 28, 2001                           01-08
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+________
+PRODUCT:
+Pancrelipase Capsules.  Recall #D-081-1.
+CODE:
+Lot 40629 exp.12/00.
+MANUFACTURER:
+Mutual Pharmaceutical Company, Inc., Philadelphia, PA.
+RECALLED BY:
+Manufacturer, by letter on 10/10/00.  Firm-initiated recall complete.
+DISTRIBUTION:
+Nationwide.
+QUANTITY:
+3,125 bottles.
+REASON:
+Dissolution failure.
+________
+PRODUCT:                   
+(Rx) Hydrocortisoneand Acetic Acid OTIC Solution, USP, 1%/2%, 10 mL 
+bottle.  Recall #D-095-1.
+CODE:
+Lot No. 22864, exp. 05/01.
+MANUFACTURER:
+Morton Grove Pharmaceuticals, Inc., Morton Grove, IL.
+RECALLED BY:
+Manufacturer, by letter on 1/23/01.  Firm-initiated recall ongoing.
+DISTRIBUTION:
+Nationwide.
+QUANTITY:
+66581 bottles.
+REASON:
+Subpotency-Hydrocortisone (12th month of stability).
+________
+PRODUCT:
+a)(RX) Isosorbide Dinitate Tablets, 10 mg, bottles of 270 tablets.  
+Recall #D-097-1;
+b)(RX) Tramadol HCL tablets, 50 mg, bottles of 240 tablets.  Recall #D-
+098-1.
+CODE:
+a) Lot No. 12040012, Exp. Date 12-28-01; b) Lot No. 112000TM94, Exp. 11-
+28-01.
+MANUFACTURER:
+REGISTERED Repacker: Veteran�s Administration-Centralized Mail Order 
+Pharmacy, Lancaster, TX.
+RECALLED BY:
+Manufacturer/Registered Repacker by telephone.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION:
+S. Carolina, Virginia, and Kansas.
+QUANTITY:
+a)3,700 bottles; b) 200.
+REASON:
+Tablet mix-up. a) Furosemide 40 mg with isosorbide; Metoprolol b)Tartrate 
+50 mg with tramadol.
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+________
+PRODUCT:
+Oxygen, USP, liquid, in Cryogenic Home Units.  Recall #D-077-1.
+CODE:
+Lot #         Serial #
+120400-7      C065A86
+120400-6      S021185
+120400-7      C034K08
+120400-6      S027185 
+MANUFACTURER:
+Kern Medical Inc. dba Dasco Home Medical Equipment Company, Alliance, OH.
+RECALLED BY:
+Manufacturer, by telephone on 1/3/01.  Firm-initiated recall ongoing.
+DISTRIBUTION:
+Ohio.
+QUANTITY:
+Four.
+REASON:
+Use of improper oxygen analyzer for identity testing.
+________
+PRODUCT:
+(OTC) Medi-Tussin DM Cough Suppressant/Expectorant, (Dextromethorphan 
+HBr, USP 10 mg/Guaifenesin, USP 100 mg), in 8 Fl. Oz. Bottles.  Recall 
+#D-078-1.
+CODE:
+9HD0020  mfr. Date 8/5/99, esp. 8/2002; 
+9GD0132  mfr. Date 7/15/99, exp. 7/2002;
+0GD0326  mfr. Date 8/3/00, exp. 5/2003;
+9GD0369  mfr. Date 8/1/99, exp. 7/2002;
+9HD0021  mfr. Date 8/5,6/99, exp. 8/2002;
+0GD0379  mfr. Date 8/1/00, exp. 5/2003.
+MANUFACTURER:
+Perrigo, Allegan, MI.
+RECALLED BY:
+Manufacturer, by telephone on 10/6/00 and by telephone and letter on  
+10/24/00.  Firm-initiated recall ongoing. 
+DISTRIBUTION:
+Nationwide.
+QUANTITY:
+91,800 units.
+REASON:
+Tussin DM product mislabeled as Tussin CF on the bottles.
+________
+PRODUCT:
+(Rx) Hydrocortisone and Acetic Acid OTIC Solution, USP, 1%/2%, 10 mL 
+bottle.  Recall #D-096-1.
+CODE:
+Lot No. 22900, exp. 05/01; 22725, exp. 02/01; and 22761, exp. 02/01.
+MANUFACTURER:
+Morton Grove Pharmaceuticals, Inc., Morton Grove, IL.
+RECALLED BY:
+Manufacturer, by letter on 1/23/01.  Firm-initiated recall ongoing.
+DISTRIBUTION:
+Nationwide.
+QUANTITY:
+66581 bottles.
+REASON:
+Degradants; out of specification results during stability testing.
+________
+PRODUCT:
+(OTC) Adult low strength enteric coated aspirin tablets, 81 mg, 120 unit 
+bottles.  Recall #D-099-1.
+CODE:
+0032636; 0032637; 0032856; 0032858; 0033126; 0033127; 0033129; 0033203; 
+0033204; 0033459; 0043676; 0043691 and 0066784.
+MANUFACTURER:
+Time-Cap, Inc., Farmington, NY.
+RECALLED BY:
+Leiner Health Products, Inc., Carson, CA., by letter on 11/30/2000. Firm-
+initiated recall ongoing.
+DISTRIBUTION:
+MN; PA; NY; NC; MA; OH; CA; WA; CO; MD; AZ; OR; AR; FL.
+QUANTITY:
+109,716 bottles of 120 tablets each.
+REASON:
+Superpotency.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+________
+PRODUCT:
+Red Blood Cells.  Recall #B-438-1.
+CODE:
+Units 04FS19304, 04W14252.
+MANUFACTURER:
+American Red Cross, New England Region, Dedham, MA.
+RECALLED BY:
+Manufacturer, by telephone on August 8, 2000 and by letter dated August 
+15, 2000.  Firm-initiated recall complete.
+DISTRIBUTION:
+Massachusetts.
+QUANTITY:
+2 units.
+REASON:
+Blood product, typed S antigen positive but shipped as S antigen 
+negative, was distributed.  
+________	
+PRODUCT:	
+Corneas.  Recall # B-595-1.
+CODE:  
+Donor ID 2000-289C, 2000-290C.
+MANUFACTURER:
+Lions Eye Bank for Long Island, Manhasset, NY 
+RECALLED BY:
+Manufacturer, by telephone on November 10, 2000 and  letter dated 
+November 17, 2000.
+DISTRIBUTION:
+New York
+QUANTITY:
+Two.
+REASON:	
+Corneas, from a donor who tested repeatedly reactive for the
+antibody to the Hepatitis B core antigen, were distributed.  
+________	 
+PRODUCT:	
+Source Plasma .  Recall #B-617-1.    
+CODE:
+Units   MGD057, MGN956, MGN818, MGN682.
+MANUFACTURER:
+Sera-Tec Biologicals Limited Partnership,  Seattle, WA.
+RECALLED BY:
+Manufacturer, by facsimile on April 28, 2000.  Firm-initiated 
+recall complete.	 
+DISTRIBUTION:
+North Carolina 
+QUANTITY:
+Four units. 
+REASON:	
+Blood products, which tested negative for the hepatitis B 
+surface antigen (HBsAg), but were  collected from a donor who
+previously tested reactive for HBsAg, were  distributed. 
+________
+PRODUCT:	
+Source Plasma.  Recall #B-634-1.
+CODES:           
+Units        G-49828-079, G-49722-079, G-49473-079, G-49346-079, 
+G-48948-079, G-48864-079, G-48632-079, G-48517-079, G-48299-079, 
+G-48184-079, G-47971-079, G-47848-079, G-47469-079, G-47197-079,
+G-46839-079, G-46780-079, G-46558-079, G-46478-079, G-46190-079, 
+G-46113-079, G-45898-079, G-45782-079, G-45524-079, G-45455-079, 
+G-45230-079, G-45129-079, G-44907-079, G-44805-079, G-44522-079,
+G-44421-079, G-44132-079, G-44044-079, G-43720-079, G-43618-079, 
+G-43365-079, G-43186-079, G-27277-079, G-27027-079, G-26854-079, 
+G-26614-079, G-26439-079, G-25315-079, G-25085-079, G-17970-079, 
+G-17713-079, G-17170-079, G-17044-079, G-16764-079, G-16568-079, 
+G-15433-079, G-15323-079, G-15003-079, G-14823-079, G-14566-079, 
+G-14378-079, G-14128-079, G-13912-079, G-13626-079, G-13434-079, 
+G-13163-079, G-13007-079, G-12753-079, G-12547-079, G-12263-079, 
+G-12066-079, G-11805-079, G-11610-079, G-08143-079, G-07992-079, 
+G-07781-079, G-07421-079, G-07232-079, G-06630-079, G-06437-079,
+G-06250-079, G-06087-079, G-05780-079, G-05550-079, G-05369-097, 
+G-99485-079, G-99301-079, G-98950-079, G-98751-079, G-97985-079, 
+G-97807-079, G-97298-079, G-97048-079, G-96870-079, G-96658-079,
+G-99557-079, G-96368-079, G-96204-079, G-95960-079, G-95676-079, 
+G-95490-079, G-95272-079, G-95074-079, G-94870-079, G-94706-079, 
+G-94104-079, G-93904-079, G-93225-079, G-93007-079, G-92800-079, 
+G-92607-079, G-92345-079, G-91910-079, N-14113-079. 
+MANUFACTURER:
+Alpha Therapeutic Corp., Seattle, WA .
+RECALLED BY:
+Alpha Therapeutic Corp., Los Angeles, CA , by letters dated August 28, 
+2000, sent by facsimile on August 29, 2000.  Firm-initiated recall 
+complete. 
+DISTRIBUTION:
+California, North Carolina, Germany and Spain. 
+QUANTITY:
+108 units.
+REASON:
+Blood products, collected from a donor with a history of having tested 
+positive for Hepatitis B, were distributed.   
+________
+PRODUCT:
+Red Blood Cells, Leukoreduced .  Recall #B-669-1.   
+CODE:
+Unit 01E43702   
+MANUFACTURER:  	
+American Red Cross Blood Services, New York - Penn Region,
+Rochester, NY.
+RECALLED BY:
+American Red Cross Blood Services, New York - Penn Region, West
+Henrietta, NY, by telephone on December 24, 1999.  Firm-
+initiated recall complete.	 
+DISTRIBUTION:
+New York .
+QUANTITY:			
+One unit.
+REASON:	
+Blood product, which was mislabeled as CMV antibody negative,
+was distributed. 
+________	 
+PRODUCT:	
+Platelets, Pheresis, Leukoreduced.  Recall #B-670-1.     
+CODE:
+Unit 53LT67703.
+MANUFACTURER:
+American Red Cross, Greater Chesapeake and Potomac Region, Baltimore, MD.
+RECALLED BY:
+Manufacturer, by telephone on September 6, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+Maryland.
+QUANTITY:
+One unit.
+REASON:
+Blood product, which was labeled as leukoreduced, but did not 
+meet the requirements for a leukoreduced product, was
+distributed.
+________	
+PRODUCT:	
+Pulmozyme (dornase alfa) Inhalation Solution.  Recall #B-671-1.     
+CODE:
+Lot K9721A.   Expiration date October 2001.    
+MANUFACTURER:
+Genentech, Inc., South San Francisco, CA.  
+RECALLED BY:
+Manufacturer, by letters dated October 12, 2000.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION:
+Maryland.
+QUANTITY:
+216, 450 ampules distributed
+REASON:
+An unapproved filtration step was used to remove metal 
+particulates from the bulk drug.   
+_________ 
+PRODUCTS:	
+a)Red Blood Cells, Leukocytes Reduced.  Rcall #B-672-1;    
+b) Recovered Plasma.  Recall #B-673-1.
+CODES:
+a)  Units  40GE49526, 40GE49541, 40GE49549, 40GE49564, 40GE49566, 
+40GE49596, 40GE49615, 40LR14576, 40GE49627, 40GE49631, 40GE49660, 
+40GE49680, 40GE49682, 40LR14731, 40LR14764, 40LR14770, 40LR14775, 
+40GC51637, 40GC51647, 40GC51653, 40GC51666, 40GC51730, 40GC51747, 
+40GC51751.		
+b) Units   40GE49541, 40GE49596, 40LR14576, 40GE49680, 40LR14764, 
+40LR14775 .
+MANUFACTURER:
+American Red Cross Blood Services, Heart of America Region, 
+Peoria, IL.
+RECALLED BY:
+Manufacturer, by telephone on September 27, 28, & 29, 2000 and on October 
+10, 2000. Firm-initiated recall complete.
+DISTRIBUTION:
+Illinois and Georgia. 
+QUANTITY:
+a) 24 units;  b) 6 units.
+REASON:
+Blood products, collected in a manner that may have compromised the 
+sterility of the units, were distributed.   
+________
+PRODUCT:	
+Red Blood Cells.  Recall #B-674-1.    
+CODES:
+Units 0293772, 7543601, 7543598, 8543726.
+MANUFACTURER:
+Community Blood Center of Greater Kansas City, Kansas City, MO.
+RECALLED BY:
+Manufacturer, by telephone on 11/18 & 19/98.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+Missouri and Kansas. 
+QUANTITY:
+Four units.
+REASON:
+Blood products, collected in a manner that may have compromised the 
+sterility of the units, were distributed.   
+________
+PRODUCT:
+Platelets, Pheresis.  Recall #B-676-1.
+CODE:
+Units 21KP09378, 21KP09379, 21KP09380, 21KP09381.
+MANUFACTURER:
+American Red Cross, Pacific Northwest Regional Blood Services, Portland 
+OR.
+RECALLED BY:
+Manufacturer, by telephone on September 29, 2000, and by letters dated 
+October 13, 2000.  Firm-initiated recall complete.
+DISTRIBUTION:
+Washington and Oregon.
+QUANTITY:
+Four units.
+REASON:
+Blood products, labeled with extended expiration dates, were distributed.
+________
+PRODUCT:	
+a) Red Blood Cells.  Recall # B-677-1;  b) Cryoprecipitated AHF.  Recall 
+#B-678-1; c) Recovered Plasma.  Recall #B-679-1.
+CODES:
+a) Unit  21GE18711;  b) Unit 21GE18711; c)Unit  21GE18711.
+MANUFACTURER:	
+American Red Cross, Pacific Northwest Regional Blood Services,
+Portland, OR.
+RECALLED BY:
+Manufacturer, by letters dated June 8, 2000.  The Oregon consignee was 
+also notified by telephone on May 30, 2000. 
+DISTRIBUTION:
+California and Oregon.
+QUANTITY:
+Three units.
+REASON:
+Blood products, collected from a donor with a history of
+jaundice, were distributed.  
+________
+PRODUCT:	
+a) Red Blood Cells, Leukoreduced. Recall #B-680-1;  b)  Platelets.  
+Recall #B-681-1; c) Recovered Plasma.  Recall #B-682-1.      
+CODES:
+a) Units 01KJ32588, 01KJ31092;  b) Units 01KJ32588, 01KJ31092; c) Unit  
+01KJ31092.
+MANUFACTURER:
+American Red Cross Blood Services, New York - Penn Region,
+Rochester, NY.
+RECALLED BY:
+American Red Cross Blood Services, New York - Penn Region, West 
+Henrietta, NY., by letters dated February 23, 2000.  Firm-initiated 
+recall complete.
+DISTRIBUTION:
+New York.
+QUANTITY:
+Five units.
+REASON:
+Blood products, collected from a donor with a history of
+jaundice, were distributed.  
+________
+PRODUCT:	
+a) Red Blood Cells.  Recall #B-683-1; b) Platelets. 
+b) Recall #B-684-1.
+CODES:
+a) Unit 54KF55120; b) Unit 54KF55120.
+MANUFACTURER:
+American Red Cross Blood Services,  Puerto Rico Region, Rio
+Piedras,, PR . 
+RECALLED BY:	
+American Red Cross Blood Services,  Puerto Rico Region, San Juan, PR,  by 
+telephone on January 17, 1997.  
+DISTRIBUTION:
+Puerto Rico.
+QUANTITY:
+2 units.
+REASON:
+Blood products, collected from a donor with a history of jaundice, were 
+distributed.
+________
+PRODCTS:	
+a) Red Blood Cells, Recall # B-685-1;    
+b) Platelets. Recall # B-686-1;
+c) Fresh Frozen Plasma.  Recal #B-687-1;
+d) Source Leukocytes for Further Manufacturer.  Recall #B-688-1;
+e) Recovered Plasma.  Recall #B-689-1.
+CODES:
+a)Units  01LY03315, 01LN02110;
+b)Units  01LH26327, 01LY03315;
+c) Units  01LH26327, 01LY03315;		
+d)Unit   01LY03315;
+e)Unit   01LN02110.
+MANUFACTURER:
+American Red Cross Blood Services, New York - Penn Region,
+Buffalo, NY.
+RECALLED BY:
+American Red Cross Blood Services,New York - Penn Region, Rochester, NY, 
+by letters dated November 26, 1999.  Firm initiated recall complete.
+DISTRIBUTION:
+New York and New Jersey.
+QUANTITY:
+8 units.
+REASON:	
+Blood products, collected from a donor with a history of having
+tested positive for Hepatitis were distributed. 
+________
+PRODUCT:
+a) Red Blood Cells.  Recall #B-691-1;  b)Recovered Plasma.  Recall #B-
+692-1.   
+CODE:
+a & b) Unit 53FP31924
+MANUFACTURER:
+American Red Cross, Greater Chesapeake and Potomac Region,
+Baltimore, MD.
+RECALLED BY:
+Manufacturer, by letter dated September 19, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+Maryland.
+QUANTITY:
+2 units.
+REASON:
+Blood products, collected from a donor taking the drug
+Methotrexate, were distributed.  
+________
+PRODUCT:	
+Red Blood Cells, Irradiated. B-694-1.
+CODE:      
+Unit  50X15470	
+MANUFACTURER:
+American Red Cross Blood Services, Western Lake Erie Region, Toledo, OH. 
+RECALLED BY:	
+Manufacturer, by letter dated December 6, 2000.  Firm-initiated recall 
+complete.	
+DISTRIBUTION:
+Ohio.
+QUANTITY:
+One unit.
+REASON:
+Red Blood Cells, missing documentation related to the irradiation process 
+storage temperature. 
+________
+PRODUCT:	
+Platelet, Pheresis.  Recall #B-696-1.          
+CODE:
+Unit 5857791
+MANUFACTURER:
+Central Indiana Regional Blood Center, Inc., Indianapolis, IN.
+RECALLED BY:
+Manufacturer, by telephone on November 1, 2000, and by letter on November 
+15, 2000.  Firm-initiated recall complete.
+DISTRIBUTION:
+Indiana.	
+QUANTITY:
+One unit.
+REASON:
+Blood product, which was labeled with an incorrect platelet yield, was 
+distributed.
+________
+PRODUCT:     
+a) Red Blood Cells. Recall # B-697-1;      
+b) Fresh Frozen Plasma.  Recall #B-698-1.     
+CODE:
+a) Unit 21GL48234; b) Unit 21GL48234.
+MANUFACTURER:
+American Red Cross, Pacific Northwest Regional Blood Services, Portland, 
+OR.  
+RECALLED BY:
+Manufacturer, by letters dated October 19, 2000 and the Oregon consignee 
+by telephone on October 6, 2000. 
+DISTRIBUTION:
+Californiia and Oregon.
+QUANTITY:
+Two units.
+REASON:
+Blood products, collected from a donor with a history of having tested 
+positive for hepatitis, were distributed.
+________
+PRODUCT:	
+Recovered Plasma for Manufacturing .  Recall #B-700-1.   
+CODE: 
+Units Y16247, Y33803
+MANUFACTURER:
+Aurora Area Blood Bank, Heartland Blood Centers, Aurora, IL. 
+RECALLED BY:
+Manufacturer, by facsimile dated August 7, 2000.  Firm-initiated 
+recall complete.
+DISTRIBUTION:
+Switzerland.
+QUANTITY:
+Two units.
+REASON:	
+Blood products, collected from a donor who had lived in the
+United Kingdom from 5/1/76 to 6/6/81, were distributed.
+________
+PRODUCT:	
+Red Blood Cells.  Recall #B-716-1.     
+CODE:
+Unit  FR23831
+MANUFACTURER:
+Sacramento Medical Foundation Blood Center, Sacramento, CA
+RECALLED BY:
+Manufacturer, by telephone on March 17, 1999.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+California.
+QUANTITY:
+One unit.
+REASON:
+Blood product, collected from a donor who had skin piercing
+performed within the past year, was distributed.
+________
+PRODUCT:	
+a) Platelets.  Recall #B-720-1;  b) Source Leukocytes.  Recall #B-721-1.
+CODE:
+a)Unit number 3679677;  b) unit number 3660490. 
+MANUFACTURER: 
+Gulf Coast Regional Blood Center,  Houston, TX.
+RECALLED BY:
+Manufacturer, by letter on Septemeber 13, 1999.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+Texas and Missouri.
+QUANTITY:
+Two units.
+REASON:
+Bood products, that contained unexpected antibodies, but were labeled 
+negative for unexpected antibodies, were distributed.
+________
+PRODUCT:  	
+Platelets.  Recall #B-732-1.
+CODES:
+unit numbers 87-15540, 38-36042, 38-36043, 
+30-12157, 30-12161, 30-12164, 30-12168, 30-12171, 30-12172, 
+30-12148, 30-12170, 30-12173, 38-36038, 62-48074, 62-48077, 
+62-48067, 62-48079, 63-12254, 63-12255, 63-12264, 30-12152, 
+87-15550, 62-48055, 34-49179, 63-12234, 87-15561, 87-15548, 
+87-15546, 62,48061, 62-48060, 62-48031, 34-49149, 87-15531, 
+87-15529, 38-36019, 38-36004, 38-36025, 38-36024, 62-48-56, 
+62-48051, 62-48048, 62-48043, 62-48042, 38-36022, 38-36020, 
+34-49156, 34-49139, 34-49142, 38-36001, 38-36007, 38-36009, 
+38-36012, 38-36018, 62-48008, 62-48011, 36-39833, 36-39835, 
+36-39839, 34-49155, 38-35997, 36-39814, 36-39816, 34-49170, 
+34-49174, 38-36036, 38-36039, 63-12231, 63-12233, 63-12237, 
+63-12240, 63-12241, 63-12242, 63-12245, 63-12246, 63-12252, 
+87-15552, 87-15553, 87-15556, 87-15557, 34-49162, 34-49163, 
+34-49164, 34-49165, 34-49166, 34-49168, 34-49169, 34-49171, 
+34-49172, 34-49175, 34-49176, 34-49178, 34-49180, 63-12227, 
+63-12228, 63-12229, 63-12232, 63-12235, 63-12243, 63-12248, 
+63-12249, 87-15551, 87-15555, 38-36002, 38-36003, 38-36005, 
+34-49158, 62-48032, 62-48033, 62-48040, 62-48046, 62-48047, 
+87-15521, 87-15519, 87-15526, 87-15527, 87-15517, 62-48001, 
+36-39822, 38-35996, 36-39813, 34-49146, 34-49144, 34-49141, 
+63-12266, 87-15565, 36-39865, 36-39862, 36-39861, 36-39853, 
+36-39851, 36-39845, 62-48088, 62-48084, 62-48081, 62-48068, 
+30-12153, 36-39869, 36-49194, 34-49193, 34-49190, 34-49189, 
+38-36045, 34-49167, 63-12218, 30-12160, 63-12239, 38-36035, 
+62-48058, 63-12215, 63-12222, 63-12225, 87-15538, 87-15541, 
+87-15543, 87-15544, 62-48038, 38-36033, 38-36032, 38-36027, 
+38-36026, 34-49157, 34-49154, 34-49152, 34-49151, 34-49148, 
+38-36021, 38-35998, 87-15520, 87-15525, 38-36000, 38-36011, 
+87-15530, 87-15534, 87-15536, 34-49143, 34-49135, 34-49145, 
+36-39840, 36-39843, 38-36006, 34-49132, 34-49134, 34-49136, 
+34-49137, 34-49138, 34-49130, 63-12383, 36-39838, 63-12256, 
+and 30-12169
+MANUFACTURER:
+Michigan Community Blood Centers, Grand Valley Blood Program, Grand 
+Rapids, MI. 
+RECALLED BY:
+Manufacturer, by letters on May 23, 2000, or June 16, 2000.  
+DISTRIBUTION:
+Michigan.
+QUANTITY:
+190 units.
+REASON:
+Platelets with a decreased platelet count were distributed.
+________
+PRODUCT:  	
+Platelets. Recall #B-733-1. 
+CODES:
+(477 units), unit numbers 29GF09480, 29GF09481, 29GF09482, 29GF09484, 
+29GF09485, 29GF09486, 29GL57550, 29GL57555, 29GL57560, 29GL57561, 
+29GX48308, 29GX48311, 29GX48644, 29GX48647, 29GX48648, 29GX48669, 
+29GW29577, 29GW29578, 29GW29585, 29FJ38597, 29FN33006, 29FN33085, 
+29FN33086, 29FN33088, 29FN33090, 29FN33091, 29FN33096, 29FS81451, 
+29FS81522, 29FS81524, 29FS81563, 29FW37779, 29FW37781, 29FW37786, 
+29FW37913, 29FW37916, 29GF09478, 29GF09479, 29GW29589, 29GW29592, 
+29GW29594, 29GW29595, 29KJ07901, 29KJ07902, 29KJ07904, 29KJ07909, 
+29KJ07985, 29KJ07986, 29KJ07987, 29KM13428, 29KM13431, 29KM13432, 
+29KM13433, 29KX06467, 29KZ05018, 29KZ05019, 29FG80625, 29KY05256, 
+29FG80558, 29FN33251, 29GM79175, 29KL18534, 29FJ38452, 29KL18528, 
+29FG80629, 29KY05259, 29FG80563, 29FS81442, 29GP60679, 29KL18599, 
+29FJ38453, 29KL18529, 29FG80678, 29FW38003, 29FG80564, 29FS81443, 
+29GP60684, 29KL18600, 29FJ38454, 29KY05211, 29FJ38468, 29FW38019, 
+29FK36077, 29FS81448, 29GP60688, 29KL18601, 29FJ38455, 29KL18498, 
+29FJ38469, 29GF09714, 29GM79136, 29FS81449, 29GP60694, 29KL18602, 
+29FJ38456, 29KL18500, 29FJ38470, 29GF09718, 29GX48409, 29FS81452, 
+29GP60695, 29KL18604, 29FJ38457, 29KL18502, 29FJ38472, 29GF09723, 
+29KJ07883, 29FS81564, 29GW29575, 29KL18605, 29FJ38458, 29KL18530, 
+29FJ38481, 29GM79124, 29KL18381, 29FW37787, 29GW29582, 29KL18607, 
+29FJ38464, 29KY05215, 29FJ38483, 29KL18610, 29KL18382, 29FW37788, 
+29GW29587, 29KL18612, 29FJ38465, 29KY05216, 29FJ38485, 29KL18614, 
+29GL57567, 29FW37790, 29GW29588, 29KL18613, 29FJ38466, 29KY05222, 
+29FJ38486, 29FJ38420, 29GW29579, 29FW37794, 29GX48312, 29KL18615, 
+29FJ38467, 29KY05223, 29FJ38487, 29KJ07885, 29GX48306, 29FW37795, 
+29GX48313, 29KL18621, 29FJ38471, 29GL57559, 29FJ38489, 29GX48404, 
+29GX48307, 29FW37797, 29GX48314, 29KL18622, 29FJ38473, 29GW29598, 
+29FJ38490, 29GX48405, 29KM13405, 29FW37907, 29GX48316, 29KM13403, 
+29FJ38476, 29FS81445, 29FJ38491, 29GX48407, 29KM13406, 29FW37908, 
+29KJ07896, 29KM13404, 29FJ38477, 29FS81446, 29FJ38492, 29GX48620, 
+29KM13407, 29FW37914, 29KJ07898, 29KM13413, 29FJ38478, 29FS81447, 
+29FJ38494, 29GX48621, 29KM13408, 29FW37917, 29KJ07900, 29KM13417, 
+29FJ38480, 29GF09596, 29FJ38496, 29GX48625, 29KM13409, 29FW37919, 
+29KJ07903, 29KM13420, 29FJ38482, 29GL57546, 29FJ38497, 29GX48626, 
+29KM13410, 29FW38004, 29KJ07905, 29KM13421, 29FJ38484, 29GP60686, 
+29FJ38503, 29GX48632, 29KM13411, 29FW38006, 29KJ07907, 29KM13424, 
+29FJ38493, 29GP60687, 29FN32958, 29GX48634, 29KM13414, 29GF09483, 
+29KJ07910, 29KM13426, 29FJ38500, 29GP60690, 29FN32960, 29GX48641, 
+29KX06459, 29GF09589, 29KJ07973, 29KM13427, 29FJ38501, 29GP60691, 
+29FN32963, 29GX48642, 29KX06468, 29GF09592, 29KJ07974, 29KM13430, 
+29FJ38502, 29KJ08055, 29FN32965, 29GX48643, 29FJ38421, 29GF09597, 
+29KJ07976, 29KM13435, 29FJ38551, 29KL18514, 29FN33003, 29GX48645, 
+29FJ38422, 29GF09598, 29KJ07977, 29KM13436, 29FJ38576, 29KX06463, 
+29FW37791, 29GX48646, 29FJ38424, 29GF09599, 29KJ07978, 29KM13437, 
+29FJ38603, 29KX06465, 29FW37792, 29GX48650, 29FJ38429, 29GF09600, 
+29KJ07979, 29KN23513, 29FK36079, 29KJ07894, 29FW37793, 29GX48667, 
+29FN33089, 29GF09682, 29KJ07981, 29KN23514, 29FG80626, 29KL18609, 
+29FW37796, 29GX48671, 29GF09591, 29GF09684, 29KJ07982, 29KN23515, 
+29FG80627, 29KM13434, 29KC32047, 29GX48673, 29GF09594, 29GF09688, 
+29KJ08133, 29KN23522, 29FG80630, 29KC32049, 29GX48674, 29FK36081, 
+29GF09689, 29KJ08143, 29KN23524, 29FG80631, 29KC32050, 29KC32048, 
+29FK36082, 29GF09690, 29KJ08144, 29KN23527, 29FG80634, 29KC32051, 
+29KC32053, 29FL58928, 29GF09691, 29KJ08145, 29KX06460, 29FG80762, 
+29KC32052, 29KC32054, 29FL58933, 29GF09693, 29KJ08146, 29KX06461, 
+29FG80780, 29KC32055, 29KC32056, 29FL58937, 29GF09694, 29KJ08147, 
+29KX06462, 29FJ38414, 29KL18385, 29KC32058, 29FL58941, 29GF09696, 
+29KJ08149, 29KX06464, 29FJ38415, 29GX48406, 29KJ07881, 29FL58948, 
+29GF09705, 29KJ08150, 29KX06469, 29FJ38416, 29KL18379, 29KJ07884, 
+29FN32941, 29GF09720, 29KJ08151, 29KX06513, 29FJ38417, 29GX48408, 
+29KJ07886, 29FN32943, 29GF09721, 29KJ08152, 29KX06547, 29GP60692, 
+29KL18388, 29KJ07887, 29FN32946, 29GF09725, 29KJ08153, 29KX06562, 
+29GP60693, 29FJ38488, 29KJ07888, 29FN32957, 29GL57548, 29KJ08154, 
+29KX06569, 29KL18506, 29FG80632, 29KJ07889, 29FN32962, 29GL57549, 
+29KJ08155, 29KX06570, 29KL18526, 29FG80633, 29KJ07891, 29FN32964, 
+29GL57551, 29KJ08159, 29KX06571, 29KL18533, 29FJ38475, 29KJ07893, 
+29FN32966, 29GL57553, 29KJ08161, 29KY05212, 29KY05213, 29FJ38281, 
+29FG80559, 29FN32967, 29GL57554, 29KJ08162, 29KY05219, 29KY05217, 
+29FW37551, 29FG80754, 29FN33014, 29GL57556, 29KJ08163, 29KY05221, 
+29KY05225, 29FX58023, 29FG80756, 29FN33092, 29GL57557, 29KJ08164, 
+29KZ05015, 29GL57552, 29FG80677, 29FG80763, 29FN33093, 29GL57563, 
+29KJ08165, 29KZ05016, 29FJ38507, 29FG80764, 29FJ38419, 29FN33094, 
+29GM79127, 29KL18503, 29KZ05017, 29KL18383, 29FJ38505, 29FJ38432, 
+29FN33095, 29GM79135, 29KL18504, 29KZ05021, 29KL18386, 29FJ38506, 
+29FJ38463, 29FN33097, 29GM79140, 29KL18508, 29FJ38418, 29KL18387, 
+29FJ38610, 29FJ38560, 29FN33099, 29GM79143, 29KL18511, 29FJ38426, 
+29KL18389, 29FN33018, 29FJ38594, 29FN33233, 29GM79153, 29KL18517, 
+29FJ38427, 29FJ38423, 29FS81525, 29FJ38595, 29FN33235, 29GM79156, 
+29KL18518, 29FJ38428, 29GL57547, 29FW38022, 29FG80560, 29FN33238, 
+29GM79157, 29KL18523, 29FJ38430, 29GP60685, 29KJ07897, 29FS81561, 
+29FN33248, 29GM79158, 29KL18525, 29FJ38431, and 29KL18497.
+MANUFACTURER:
+The American National Red Cross,Mid-Atlantic Region, Norfolk, VA
+RECALLED BY:
+Manufacturer, by letter dated August 11, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+Virginia, North Carolina, Connecticut.
+QUANTITY:
+477 units.
+REASON:
+Platelets with a decreased platelet count were distributed.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+________
+PRODUCT:
+Platelet.  Recall #B-594-1.
+CODE:
+Units 8174074
+MANUFACTURER:
+LifeSource, Glenview, IL.
+RECALLED BY:
+Manufacturer, by telephone on September 11, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+Illinois.
+QUANTITY:
+One.
+REASON:
+Blood product, prepared from a Whole Blood unit that had
+discrepant start and end times documented, was distributed.  
+________
+PRODUCT:
+Platelet Pheresis, Leukoreduced, Irradiated. Recall # B-695-1.   
+CODE:
+Unit 42KW06646
+MANUFACTURER:
+American Red Cross Blood Services, Western Lake Erie Region, Toledo, OH. 
+MANUFACTURER:
+American Red Cross Blood Services, Western Lake Erie Region, Toledo, OH. 
+RECALLED BY:	
+Manufacturer, by letter dated December 6, 2000.  Firm-initiated recall 
+complete.	
+DISTRIBUTION:
+Ohio.
+QUANTITY:
+One unit.
+REASON:
+Temperature documentation following irradiation was missing.
+________
+PRODUCT:	
+Red Blood Cells.  Recall #B-722-1.
+CODE:
+Unit number 3679677 and 3672602.
+MANUFACTURER: 
+Gulf Coast Regional Blood Center, Houston, TX.
+RECALLED BY:
+Manufacturer, by letter on Septemeber 13, 1999.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+Texas and Missouri.
+QUANTITY:
+Two units.
+REASON:
+Bood products, that tested positive for unexpected antibodies, but were 
+not labeled as positive for unexpected antibodies, were distributed.
+
+RECALLS AND FIELD CORRECTIONS: DEVICES -- CLASS II
+________
+PRODUCT:
+Cytodrape probe cover and drape.  Recall #Z-0204-1.
+CODE:
+Lot number 0800101 Part number AY000293.
+MANUFACTURER:
+Cytometrics, Inc., Philadelphia, PA.
+RECALLED BY:
+Manufacturer, by telephone on 9/26 and 9/28/00.  Firm-initiated
+recall complete.
+DISTRIBUTION:
+NC, AZ, TX, and DC.
+QUANTITY:
+140 units.
+REASON:
+May not have received adequate dose of radiation to sterilize 
+product.
+________
+PRODUCT:
+EScreen System, which collectively includes the eCUP, the
+eREADER optical imaging technology, and the eCUP data analysis
+software, for use in drug abuse testing. Recall #Z-205-1.
+CODE:
+All.
+MANUFACTURER:
+EScreen Inc., Overland Park, KS.
+RECALLED BY:
+Manufacturer, by letters, dated 9/12/00.  Firm-initiated recall
+complete.
+DISTRIBUTION:
+Nationwide.
+QUANTITY:
+300 units.
+REASON:
+Distributed without 510(k) clearance.
+________
+PRODUCT:	
+Giardia lamblia Antigen Detection Microwell ELISA.  
+Cat.# GL-35M 96 Test.  Recall #Z-0206-1
+CODE:	
+Lot 9906226.  Exp. Date March 2001.
+MANUFACTURER:
+Alexon-Trend, Inc., Ramsey, MN.
+RECALLED BY: 
+Manufacturer, by telephone and fax on  November 20,2000.  Firm-initiated 
+recall complete.
+DISTRIBUTION:  
+Idaho, New Mexico and South Dakota.
+QUANTITY:
+258 Kits.
+REASON:
+Product is not labeled as investigational use, has no 510(k) clearance.
+________
+PRODUCT:
+BD Syringe 3 ml with 21G1.5�� PrecisionGlide Needle. 
+Recall #Z-243-1.  
+CODE:
+Lot Nos. 00C3461, 00C3462, 00C3463, 00F3461, 00G3461, and 
+00G3462.  Catalog #309577;
+MANUFACTURER:
+Becton Dickinson & Co., Franklin Lakes, NJ.
+RECALLED BY:
+Manufacturer, by letter on December 4, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+Nationwide.
+QUANTITY:
+4,802,000 syringes.
+REASON:
+The needle shields may disengage from the needle.
+________
+PRODUCT:
+Model Eclipse TMR2000 Holmium Laser System.  Recall #Z-245-1.
+CODE:
+All.
+MANUFACTURER:
+Eclipse Surgical Technologies, Sunnyvale, CA.
+RECALLED BY:
+Manufacturer, by letter on January 19, 2001.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION:
+Nationwide.
+QUANTITY:
+246 units.
+REASON:
+Lacked procedures for periodic recalibration of the laser system.
+________
+PRODUCT:
+SpF Implantable Spinal Fusion Stimulator and OsteoGen     
+Surgically Implanted Bone Growth Stimulator
+a) Z-254-1 - Model SpF XL 4/CW; 
+b) Z-255-1 - Model SpF 2T/C; 
+c) Z-256-1 - Model SpF 2TT/CW; 
+d) Z-257-1 - Model SpF 2T/D; 
+e) Z-258-1 - Model SpF 2T/DW; 
+f) Z-259-1 - Model SpF 2T/F; 
+g) Z-260-1 - Model SpF 2T/FW; 
+h) Z-261-1 - Model SpF 2T/GW; 
+i) Z-262-1 - Model SpF 2T/DLW; 
+j) Z-263-1 - Model SpF 2T/GLW; 
+k) Z-264-1 - Model SpF 4T/C; 
+l) Z-265-1 - Model SpF 2/C; 
+m) Z-266-1 - Model OSTEOGEN; 
+n) Z-267-1 - Model OSTEOGEN-M; 
+o) Z-268-1 - Model OSTEOGEN/F; 
+p) Z-269-1 - Model SpF XL II, 2/DW; 
+q) Z-270-1 - Model SpF XL, 2/DM; 
+r) Z-271-1 - Model SpF-XL IIb, 2/DW. 
+CODES:
+a) Ref. #101370W; b) Ref. #101332;  c) Ref. #101332W;
+d) Ref. # 101362; e) Ref. #101362W; f) Ref. #101382;
+g) Ref. #101382W; h) Ref. #101392W; i) Ref.#101363W;
+j) Ref. #101393W; k) Ref. #101334;  l) Ref. #101304;
+m) Ref. #101325;  n) Ref. #101325M; o) Ref. #101330;  
+p) Ref. #101375W; q) Ref. #101385M; r) Ref. #101385W.
+MANUFACTURER:
+EBI, L.P., Parsippany, NJ.
+RECALLED BY:
+Manufacturer, by Federal Express letter on January 17, 2001.  Firm-
+initiated recall ongoing.
+DISTRIBUTION:
+Nationwide.
+QUANTITY:
+715 units.
+REASON:
+The integrity of the sterile packaging may be compromised.  
+
+RECALLS AND FIELD CORRECTIONS: DEVICES -- CLASS III
+________
+PRODUCT:	
+Screw Cap Centrifuge Tubes.  Recall #Z-244-1.
+CODE:	
+Part No. 3252.
+MANUFACTURER:
+Hardy Diagnostics, Santa Maria, CA.
+RECALLED BY: 
+Manufacturer, by telephone on March 9, 2000.  Firm initiated recall 
+ongoing.
+DISTRIBUTION:  
+NJ and CA.  One VA account in Martinez, CA.
+QUANTITY:
+6 cases.
+REASON:
+Tubes break during centrifugation at speed within the limit.
+
+END OF ENFORCEMENT REPORT FOR FEBRUARY 28, 2001
+
+####
+
+
+
+
+
+
+ FDA News Page   
+  |   FDA Home Page 
+                                                          
+  
+
+Office of Public Affairs
+  Hypertext uploaded by tg 2000-FEB-28 .

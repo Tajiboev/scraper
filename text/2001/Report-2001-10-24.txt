@@ -1,0 +1,1945 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      30 captures
+	      30 Dec 2001 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA 
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration, Department of Health and Human Services. 
+It contains information on actions  taken in connection with agency
+Regulatory activities.
+
+
+
+
+October 24, 2001                                           01-42
+
+
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS I
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-026-2, Bamboo Shoots in flexible plastic bags, net wt. 14 oz. (400 g). 
+Product of China. Codes: Barcode # 6 915531 280224 and no other coding.
+REASON:
+The product contained undeclared sulfites.
+MANUFACTURER/RECALLING FIRM:
+Yeung Kong Food Co., Ping Shan, N.T. Hong Kong
+RECALLED BY:
+Advance Imports Inc. Brooklyn, NY, by letter, telephone and visit on 
+11/14/00. 
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Flushing, NY 
+QUANTITY:
+34 cases (20 -14 oz. bags per case) were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS II
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+
+F-019-2, Royale Dark Chocolate Covered Peppermint Patties 
+
+F-020-2, Royale Dark Chocolate Coconut Patties 
+
+F-021-2, Royale Dark Chocolate Vanilla Cremes 
+
+F-022-2, Royale Dark Chocolate Dipped Fruit Cremes (Tropical Pina Colada) 
+
+F-023-2, Royale Dark Chocolate Dipped Fruit Cremes (Tropical Key Lime) 
+
+F-024-2, Royale Dark Chocolate Dipped Fruit Cremes (Tropical Mango)
+
+F-025-2, Eddyleon Jelly Graham Cookies 
+Codes: Lot 1 474 08-00. This lot number is for the box only since the 
+recalling firm does not use lot or batch numbers.
+REASON:
+The products contain undeclared milk residue.
+MANUFACTURER/RECALLING FIRM:
+Eddyleon Chocolate Company Moosic, PA 
+RECALLED BY:
+The recalling firm by letter dated 9/10/01 
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+CT, FL, GA, MI, NY, and PA. 
+QUANTITY:
+45,108 boxes 
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS I 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1779-1, Corneas, Units C-01-109-OS, C-01-109-OD 
+REASON:
+Corneas, collected from a donor who tested repeat reactive for HIV 1/2, 
+and was confirmed positive by Western Blot, were distributed. 
+MANUFACTURER/RECALLING FIRM:
+Lions Eye and Tissue Bank, Inc., Seabrook, MD
+RECALLED BY:
+The recalling firm by telephone on February 8, 2001
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MO
+QUANTITY:
+1 unit
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS II 
+
+* Correction to Recall B-1301-1, reported in the ER of June 20, 
+2001.  The "Reason" is corrected to read as follows: �Corneas, that were 
+collected from a donor who tested repeatedly reactive for the antibody to 
+the Hepatitis B core antigen (anti-HBc), and non reactive for hepatitis B 
+core IgM, were distributed.�
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1915-1, Platelets, Unit 24GJ44021
+REASON:
+Blood product, collected from a donor who had taken Feldene, was 
+distributed.
+MANUFACTURER/RECALLING FIRM:
+American Red Cross Blood Services, Louisville, KY
+RECALLED BY:
+Recalling firm, by letter dated May 22, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+IN
+QUANTITY:
+1 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1977-1, Platelets, Unit 1486289
+REASON:
+Blood product, collected from a donor who had body piercing within twelve 
+months of donation, was distributed.  
+MANUFACTURER/RECALLING FIRM:
+New York Blood Center (Center West), New York, NY
+RECALLED BY:
+Recalling firm by letter dated May 25, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+NY
+QUANTITY:
+1 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-0003-2, Recovered Plasma, Unit 21GW22390
+REASON:
+Blood products, collected from a donor with a history of hepatitis, were 
+distributed.   
+MANUFACTURER/RECALLING FIRM:
+American Red Cross, Portland, OR
+RECALLED BY:
+Recalling firm by letter on December 15, 2000 
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+CA
+QUANTITY:
+1 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-0004-2, Red Blood Cells, Units BB150871
+B-0005-2, Red Blood Cells, Leukoreduced, Unit 4160632
+B-0006-2, Platelets, Unit 4160632		
+REASON:
+Blood products, collected from a donor with a history of hepatitis, were 
+distributed.   
+MANUFACTURER/RECALLING FIRM:
+Blood Bank of Alaska, Anchorage, AK
+RECALLED BY:
+Recalling firm by letter dated March 29, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+AK
+QUANTITY:
+3 units
+______________________________
+RECALL NUMBER,PRODUCT AND CODE:
+B-0007-2, Red Blood Cells Units 20E22322, 20J19751, 20J33942, 20W05141
+B-0008-2, Fresh Frozen Plasma, Unit 20W05141
+B-0009-2, Recovered Plasma, Units 20E22322, 20J19751, 20J33942
+REASON:
+Blood products, collected from a donor with a history of having tested 
+positive for HCV, were distributed.   
+MANUFACTURER/RECALLING FIRM:
+American Red Cross Blood Services, Salt Lake City, Utah
+RECALLED BY:
+American Red Cross Blood Services, Boise, ID, by telephone on August 28, 
+2000 and by letter dated August 29, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+CA and UT
+QUANTITY:
+8 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-0011-2, Red Blood Cells, 	Units 21GW24159, 21GW21039
+B-0012-2, Recovered Plasma,   Units 21GW24159, 21GW21039
+REASON:
+Blood products, collected from a donor with a history of jaundice, were 
+distributed.
+MANUFACTURER/RECALLING FIRM:
+American National Red Cross, Portland, OR 
+RECALLED BY:
+The recalling firm by letter dated December 12, 2000 and December 20, 
+2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+CA and OR
+QUANTITY:
+4 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-0015-2, Source Plasma for Manufacturing Use Only, 
+Unit 76187308
+REASON:
+Blood product, which tested repeat reactive for anti-HCV, was 
+distributed.
+MANUFACTURER/RECALLING FIRM:
+Interstate Blood Bank, Inc., Milwaukee, WI
+RECALLED BY:
+Interstate Blood Bank, Inc., Memphis, TN, by telephone and fax on April 
+7, 1997
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+CA
+QUANTITY:
+1 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-0018-2, Red Blood Cells, Leukoreduced, Irradiated, Unit 33GE30491
+			B-0019-2, Platelets, Leukoreduced, Unit 33GE30491
+	B-0020-2, Recovered Plasma, Frozen, Unit 33GE30491
+REASON:
+Blood products, which tested negative for the antibody to the human 
+immunodeficiency virus type 1 (HIV-1), but were collected from a donor 
+who previously tested repeatedly reactive for the antibody, with a 
+negative confirmatory test, were distributed.
+MANUFACTURER/RECALLING FIRM:
+American Red Cross, Farmington, CT 
+RECALLED BY:
+The recalling firm by letter dated April 20, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+CT and CA
+QUANTITY:
+3 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-0021-2, Source Plasma, Units 38700088, 38697456, 38688492, 38686153, 
+38681226, 38678806, 38673689, 38671548, 38666735, 38664281
+REASON:
+Blood products, collected from a donor who had a tattoo within twelve 
+months of donation, were distributed.
+MANUFACTURER/RECALLING FIRM:
+Nabi BioMedical Center, Corpus Christi, Texas
+RECALLED BY:
+The recalling firm by fax dated October 18, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+CA
+QUANTITY:
+10 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-0022-1, Red Blood Cells, Unit 0669878  
+REASON:
+Blood product, which was stored at unacceptable temperatures,
+was distributed.
+MANUFACTURER/RECALLING FIRM:
+Memorial Blood Center, Minneapolis, MN
+RECALLED BY:
+The recalling firm by telephone on or about August 6, 1999.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MN
+QUANTITY:
+1 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-0029-2, Red Blood Cells, Unit 21G96538
+B-0030-2, Platelets, Unit 21G96538
+REASON:
+Blood products, which tested reactive for anti-HCV, were distributed.
+MANUFACTURER/RECALLING FIRM:
+American Red Cross, Portland, OR
+RECALLED BY:
+The recalling firm by letter dated October 19, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+WA and OR
+QUANTITY:
+2 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-0031-2, Red Blood Cells, Unit 2012772
+B-0032-2, Platelets, Unit 2012772
+B-0033-2, Recovered Plasma, Unit 2012772
+REASON:
+Blood products, collected from a donor with a history of having tested 
+positive for HCV, were distributed.   
+MANUFACTURER/RECALLING FIRM:
+The Community Blood Center, Inc., Appleton, Wisconsin
+RECALLED BY:
+The recalling firm by letter dated March 28, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+WI and FL
+QUANTITY:
+3 units
+______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-0034-2, Red Blood Cells, Unit 20J15089
+B-0035-2, Platelets, Unit 20J15089
+B-0036-2, Fresh Frozen Plasma, Unit 20J15089		
+REASON:
+Blood products, collected from a donor with a history of testing positive 
+for hepatitis C, were distributed.   
+MANUFACTURER/RECALLING FIRM:
+American Red Cross Blood Services, Salt Lake City, UT 
+RECALLED BY:
+American Red Cross, Boise, ID, by letter dated March 16, 2000
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+CA and UT
+QUANTITY:
+3 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-0040-2, Source Plasma, Unit number YP26790
+REASON:
+Blood product, collected from a donor that subsequently tested repeatedly 
+reactive for the antibodies to human immunodeficiency virus, types 1 and 
+2 (anti-HIV-1/2), was not properly quarantined and was distributed.
+MANUFACTURER/RECALLING FIRM:
+Interstate Blood Bank, Inc., Milwaukee, WI
+RECALLED BY:
+Interstate Blood Bank, Inc., Memphis, TN, by telephone on February 3, 
+1997
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+CA
+QUANTITY:
+1 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-0041-2, Red Blood Cells, Leukocytes Reduced, unit numbers 40GJ36723, 
+40GF41207, and 40GC58691
+REASON:
+Blood products, that tested positive for the Jkb antigen, but were labeled 
+Jkb antigen negative, were distributed.
+MANUFACTURER/RECALLING FIRM:
+The American National Red Cross, Peoria, IL
+RECALLED BY:
+The recalling firm by telephone on July 16, 2001, and by letter dated 
+August 7, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+IL
+QUANTITY:
+3 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-0042-2, Platelets, unit number 13FC15728
+B-0043-2, Fresh Frozen Plasma, unit number 13FC15728
+REASON:
+Blood products, corresponding to a unit of Red Blood Cells that was 
+possibly contaminated with coagulase negative Staphylococcus sp. 
+bacteria, were distributed.
+MANUFACTURER/RECALLING FIRM:
+The American National Red Cross, Detroit, MI
+RECALLED BY:
+The recalling firm by telephone on February 27, 2001, and by letter dated 
+March 2, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MI
+QUANTITY:
+2 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-0044-2, Red Blood Cells, unit number 0733009
+REASON:
+Blood product, manufactured in a manner that may have compromised the 
+sterility of the unit, was distributed.
+MANUFACTURER/RECALLING FIRM:
+Memorial Blood Centers of Minnesota, Minneapolis, MN
+RECALLED BY:
+The recalling firm by telephne on October 13, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MN
+QUANTITY:
+1 unit
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS III 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-889-1, Source Plasma, unit numbers 1941V045A and 1941V140A
+REASON:
+Blood products, collected from an ineligible donor due to a history of 
+the disease Lupus, were distributed.
+MANUFACTURER/RECALLING FIRM:
+Aventis Bio-Services, Inc., Fort Worth, TX
+RECALLED BY:
+The recalling firm by letter on April 6, 1999
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+TX
+QUANTITY:
+2 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1789-1, Red Blood Cells, Leukoreduced, Units 49W35857, 49W35858, 
+49W35859
+REASON:
+Blood products, collected in expired blood collection bags, were 
+distributed.  
+MANUFACTURER/RECALLING FIRM:
+American National Red Cross, Tulsa, OK
+RECALLED BY:
+The recalling firm by telephone on March 30, 2001 and by letters dated 
+April 11, 2001
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+TX and OK
+QUANTITY:
+3 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-0016-2, Red Blood Cells, Leukoreduced, Unit 53FP37527
+B-0017-2, Platelets, Unit 53FP37527
+REASON:
+Blood products, which were not quarantined after receiving information 
+concerning a post donation illness, were distributed.  
+MANUFACTURER/RECALLING FIRM:
+American Red Cross Blood Services, Baltimore, Maryland
+RECALLED BY:
+The recalling firm by telephone or by letter on May 30, 2001 or June 11, 
+2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MD and DC
+QUANTITY:
+2 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-0023-2, Source Plasma for manufacturing use only
+Units 
+99SWIA0082     99SWIA0503     99SWIA0592     99SWIA0717     99SWIA9566     
+99SWIA1029     99SWIA1035     99SWIA1998     99SWIA2401     99SWIA9686
+99SWIA2920     99SWIA3032     99SWIA3415     99SWIA4095     99SWIA9693     
+99SWIA4096     99SWIA4182     99SWIA4283     99SWIA4290     99SWIA9855
+99SWIA4361     99SWIA4902     99SWIA5134     99SWIA5236     99SWIA5481     
+99SWIA5307     99SWIA5884     99SWIA6306     99SWIA6500   	
+99SWIA6449     99SWIA6674     99SWIA7580     99SWIA8031     99SWIA8218     
+99SWIA8325     99SWIA8372     99SWIA8389 
+99SWIA8630     99SWIA8702     99SWIA8748     99SWIA8884     99SWIA8919     
+99SWIA8931     99SWIA5672     99SWIA5695
+99SWIB0345     99SWIB0438     99SWIB0503     99SWIB0525     99SWIB0799     
+99SWIB1237     99SWIB1338     99SWIB1351     99SWIB1441     99SWIB1505     
+99SWIB1590     99SWIB1697     99SWIB1802     99SWIB1823     99SWIB1850     
+99SWIB1860     99SWIB1886     99SWIB1960     99SWIB2115     99SWIB2252     
+99SWIB2364     99SWIB2380     99SWIB2558     99SWIB2813     99SWIB2850     
+99SWIB3011     99SWIB3049     99SWIB3486     99SWIB3503     99SWIB3548
+99SWIB3860     99SWIB4049     99SWIB4133     99SWIB4706     99SWIB4734     
+99SWIB4845     99SWIB5100     99SWIB5483     99SWIB5721     99SWIB5774     
+99SWIB5976     99SWIB6282     99SWIB6506     99SWIB6533     99SWIB6853
+99SWIB6875     99SWIB7433     99SWIB7460     99SWIB7487     99SWIB7928     
+99SWIB7978     99SWIB8333     99SWIB8434     99SWIB9033     99SWIC0170
+REASON:
+Blood products, collected from a donor whose health screening was not 
+adequately performed, were distributed
+MANUFACTURER/RECALLING FIRM:
+Community Bio-Resources, Inc., Sheboygan, WI
+RECALLED BY:
+Community Bio-Resources, Inc., Hoover, AL by fax on December 9, 1999
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MI and Australia
+QUANTITY:
+100 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-0024-2, Source Plasma for Manufacturing	
+Units 
+98LWIA5125    98LWIA6216    98LWIA7000    98LWIA7030    98LWIA7122    
+98LWIA8207    98LWIA8527    98LWIA8585    98LWIA8588    98LWIA9513
+99LWIA0107    99LWIA0773    99LWIA1642    99LWIA1648   99LWIA2805    
+99LWIA2834    99LWIA2850    99LWIA3531    99LWIA4661    99LWIA6061    
+99LWIA6433    99LWIA6705    99LWIA6801    99LWIA6938    99LWIA8336    
+99LWIA9173   
+98LWIB0255    98LWIB0496    98LWIB0508    98LWIB0579    98LWIB0595    
+98LWIB0650    98LWIB1209    98LWIB1661    98LWIB1820    98LWIB1841    
+98LWIB1875    98LWIB2893    98LWIB2931    98LWIB3285    98LWIB3297    
+98LWIB3301    98LWIB3321    98LWIB3322    98LWIB3605    98LWIB3659
+98LWIB3806    98LWIB4110    98LWIB4316    98LWIB4340
+
+99LWIB0513    99LWIB0906    99LWIB1085    99LWIB1167    99LWIB1393    
+99LWIB2117    98LWIB2382    99LWIB2548    99LWIB4701    99LWIB4707    
+99LWIB4764    99LWIB5551    99LWIB5555    99LWIB5564    99LWIB5567    
+99LWIB5952    99LWIB5984    99LWIB6113    99LWIB6117    99LWIB6123    
+99LWIB6174    99LWIB6184    99LWIB6114    99LWIB6512    99LWIB6517    
+99LWIB6552    99LWIB6568    99LWIB6584    99LWIB6706    99LWIB6711    
+99LWIB6733    99LWIB6762    99LWIB6765    99LWIB6981    99LWIB7029    
+99LWIB7802    99LWIB8194    99LWIB8204    99LWIB8542    99LWIB8545    
+99LWIB8667    99LWIB9749    99LWIC1005    99LWIC1063    99LWIC3340    
+99LWIC4553    99LWIC5567    99LWIC5614    99LWIC5624    99LWIC6987    
+99LWIC8702    99LWIC8737    99LWIC8753    99LWID0341    99LWID1981    
+99LWID2701    99LWID3765    99LWID4205    99LWID5538    99LWID5627    
+99LWID6173    99LWID6454    99LWID7345    99LWID7446    99LWIC8738     
+REASON:
+Blood products, collected from a donor whose health screening was not 
+adequately performed, were distributed
+MANUFACTURER/RECALLING FIRM:
+Community Bio-Resources, Inc., Onalaska, WI
+RECALLED BY:
+Community Bio-Resources, Inc., Hoover, AL, by fax on 
+December 9, 1999
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MI and Austria
+QUANTITY:
+115 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-0025-2, Source Plasma for Manufacturing Use Only, 
+Unit 00MMNC4820
+REASON:
+Blood product, collected under conditions where the sterility may have 
+been compromised, was distributed.
+MANUFACTURER/RECALLING FIRM:
+Community Bio-Resources, Inc., Mankato, MN
+RECALLED BY:
+Community Bio-Resources, Inc., Hoover, AL, by fax dated 
+August 8, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Austria
+QUANTITY:
+1 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-0026-2, Red Blood Cells, 	Units L19344, L22228, L23295, L26460 
+B-0027-2, Platelets, Unit L26460
+B-0028-2, Recovered Plasma, Units L19344, L22228, L23295, L26460	
+REASON:
+Blood products, collected from a donor whose arm inspection was not 
+documented, were distributed.
+MANUFACTURER/RECALLING FIRM:
+Central Illinois Community Blood Bank, Springfield, IL
+RECALLED BY:
+The recalling firm by letter dated May 22, 2001 or July 9, 2001
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+IL, MO and Switzerland
+QUANTITY:
+9 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-0037-2, Red Blood Cells, unit number 21KH31172
+B-0038-2, Cryoprecipitated AHF, unit numbers 21KJ35675 and 21KH31172
+B-0039-2, Recovered Plasma, unit numbers 21KJ35675 and 21KH31172
+REASON:
+Blood products, collected from an ineligible donor due to a history of 
+receipt of clotting factor concentrates, were distributed.
+MANUFACTURER/RECALLING FIRM:
+The American National Red Cross, Pacific Northwest Region, Portland, OR
+RECALLED BY:
+The recalling firm by telephone on October 16, 2000, by letter dated 
+October 30, 2000, and by facsimile on October 21, 2000
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+OR, CA and Switzerland
+QUANTITY:
+5 units
+
+h3>E FIELD CORRECTIONS: DEVICES -- CLASS II 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-1079-1/Z-1081-1
+Codes:            
+A)  Stryker Zoom Patient Transport Frame. Model 2040; 
+Serial numbers 0012036662, 0012036663 and 010215001 through 0107037043.
+B)  Stryker Epic II Critical Care bed with Zoom.  Model 2030; Serial 
+numbers 010215606 through 0106036627.
+C) Stryker Secure II Med/Surg bed with Zoom.  Model 3002; 
+Serial numbers 0101035906 through 010515421.
+REASON: 
+Inverter/charger board may catch fire when unplugged from power source.
+MANUFACTURER/RECALLING FIRM:
+Stryker Corp. Kalamazoo, MI 
+RECALLED BY:
+Recalling firm by letter dated July 20, 2001 
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide, Brazil and Korea
+QUANTITY:
+271 beds
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0005-2/Z-0006-2, IMMULITE Turbo Troponin I Kit. An in-vitro diagnostic 
+kit for the quuantitative measurement of Troponin I in serum or plasma. 
+Models affected are 100 test kit (LSKTI1 lot 118) and 500 test kit 
+(LSKTI5 lot 118).
+REASON:
+Component mix-up in diagnostic kit
+MANUFACTURER/RECALLING FIRM:
+Diagnostic Products Corp., Los Angeles, CA  
+RECALLED BY:
+Manufacturer, by letter dated August 8, 2001 
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION: 
+Nationwide and Worldwide 
+QUANTITY:
+318 100 test kits; 6 500 test kits 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0007-2, Cryocyte Freezing Containers, 250 ml with Label Pocket. Labeled 
+in part, "Immunotherapy Code XXXXXX Cryocyte Freezing Container with 
+Label Pocket 250 ml Capacity*** Baxter Healthcare Corporation, Deerfield 
+IL 60015" Codes:            
+Codes:
+4R9953
+4R9959
+R4R9951
+R4R9955
+Lots:
+H98G14462R
+H98G23463R
+REASON:
+Cracking of fill tubing.
+MANUFACTURER/RECALLING FIRM:
+Nexell Therapeutics, Inc., Irvine, CA  
+RECALLED BY:
+Recalling firm sent letters dated 9/10/1998
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Nationwide and Canada. 
+QUANTITY:
+103 cases 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0013-2, Behring Coagulation System (BCS) Coagulation Analyzer. 
+Codes: Software Version 2.2  Code OVIO03
+REASON:
+Falsely shortened APTT value.
+MANUFACTURER/RECALLING FIRM:
+Dade Behring Marburg GMBH, Marburg, Germany
+RECALLED BY:
+Dade Behring, Inc., Newark, DE, by letter on 6/25/01
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide 
+QUANTITY:
+167 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0016-2, American Medical System Cavernotome C&R; Disposable Dilators; 
+set includes 4 sizes of dilators.
+Codes: Lot Numbers: R11,584/5/6/7
+Part Number: 72403293
+REASON:
+Sterile disposable dilators punctured sterile packaging in transit.
+MANUFACTURER/RECALLING FIRM:
+Uroan XXI Electromedicina Palma De Mallorca, SP 
+RECALLED BY:
+American Medical Systems, Inc., Minnetonka, MN, by letter dated September 
+10, 2001 
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Nationwide 
+QUANTITY:
+107 Units 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0017-2, Chamberlite Emergency Portable Hyperbaric Chamber
+Labeled: Operation Pressure 15 PSI
+Codes:            
+Serial numbers:
+10, 14, 51, 52, 170, 205, 311, 312, 313, 314, 504, 538, 539, 657, 752, 
+753, 755, 756, 817, 818, and 820
+REASON:
+Firm is distributing device at a higher psi level than it is approved 
+for.
+MANUFACTURER/RECALLING FIRM:
+Hyperbaric Technologies, Inc. Amsterdam, NY 
+RECALLED BY:
+The firm issued recall letters dated 9/13/01.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide
+QUANTITY:
+21 units 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0018-2, Premier brand Chagas IgG EIA test kits. 
+Codes: Lot # TCE100.012, Exp Date: 4/5/02
+REASON:
+False positive test results. 
+MANUFACTURER/RECALLING FIRM:
+Meridian Bioscience, Inc., Cincinnati, OH  
+RECALLED BY:
+Meridian Diagnostics, Inc., Cincinnati, OH, by fax and letter on 
+8/16/2001
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+IA, MN, TX and Brazil and Panama Republic.
+QUANTITY:
+859 kits 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0019-2/Z-0023-2, Nipro Safe Touch Safety Fistula Needle
+Codes: All model numbers and lot numbers are included in this recall. 
+model( Reorder or Catalog numbers) and lot numbers below:
+REORDER NUMBER			LOT NUMBERS
+FS 152530BC	01B22, 01B26, 01C01, 01C09, 01C16,             
+01C21,01C17, 01C18, 01C22, 01C24, 01D04, 01D05, 
+01C30
+
+FS 152530BCR			01C28, 01C30, 01C29, 01D01
+
+
+FS 162530BC	01B25, 01B26, 01C18, 01C12, 01C14, 01C15, 01C16, 
+01C17
+
+FS 142530BC			01C27, 01C26, 01C28
+
+FS 172530BC			01C24, 01C23, 01C26
+REASON:
+Needle may separate from the hub of the fistula needle
+MANUFACTURER/RECALLING FIRM:
+Nissho Nipro Corp., LTD., Ayuthaya
+RECALLED BY:
+Nipro Medical Corporation Miami, FL, by telephone and letter on July 23, 
+2001.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+VA, IL, CO, TN and MA.
+QUANTITY:
+696,500 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0024-2, Gamow Bag, a portable hyperbaric chamber, Codes: All Gamow Bags 
+with S/N's between "31" and "1062"
+REASON:
+Unsubstantiated claims for HACE and HAPE
+MANUFACTURER/RECALLING FIRM:
+Hyperbaric Technologies, Inc. Amsterdam, NY 
+RECALLED BY:
+The recalling firm by letters dated 7/20/01 and 8/15/01 to direct 
+accounts.  Recall involves removing and replacing pages in the User's 
+Manual.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+CO and Japan, India and NYS
+QUANTITY:
+86
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0028-2, Pediatric Pallet, part number 5239715; an accessory used with 
+the E.CAM Emission Imaging Computed Tomography Systems to adapt the unit 
+for pediatric use for all common nuclear medicine procedures. 
+Codes: All Pediatric Pallets sold as accessories to the following E.CAM 
+Systems:
+
+Model 4380221 - E.CAM Gantry Dual Head Variable, serial numbers 
+0005 through 1215
+Model 5242826 - E.CAM Gantry Dual Head Variable, serial numbers 
+1001 through 3141 and 4001 through 4111
+Model 5977066 - E.CAM Gantry Dual Head Variable, serial numbers 
+4100 through 4178
+Model 4380213 - E.CAM Gantry Single Head, serial numbers 0001 
+through 4016
+Model 5977074 - E.CAM Gantry Single Head, serial numbers 4001 
+through 4031
+REASON:
+Pediatric Pallet plunger end pin may break
+MANUFACTURER/RECALLING FIRM:
+Siemens Medical Systems, Inc., Hoffman Estates, IL
+RECALLED BY:
+Firm's servicemen replaced defective plunger assembly under Service 
+Bulletin NM010/00/R issued 5/9/00.  No end user notification was made.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Nationwide.
+QUANTITY:
+28 pallets
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0029-2/Z-0030-2, AccuSync 7 ECG Gating Device/Monitor used as an 
+accessory to the E.CAM family of Emission Imaging Computed Tomography 
+Systems to monitor the patients' cardiac output and act as a trigger 
+during gated cardiac acquisitions; Siemens Medical Systems Inc., Hoffman 
+Estates, IL; two models of monitor were affected by the recall:
+a) ECG Monitor without Chart Recorder, part 5220327
+b) ECG Monitor with Chart Recorder, part 5220335
+Codes: Accusync 7 ECG Monitors, Models 7000-3 and 7000-3P, part numbers 
+5220327 and 5220335 respectively, shipped as accessories with the 
+following cameras:
+Model 4380221 - E.CAM Gantry Dual Head Fixed, serial numbers 9, 13, 1005 
+through 1215
+
+Model 5242826 - E.CAM Gantry Dual Head Variable, serial numbers 
+1001 through 1131 and 2001 through 2082
+
+Model 4380213 - E.CAM Gantry Single Head Fixed, serial numbers 1, 2, 1002 
+through 1022 and 2002 through 2022
+
+Model 3562357 - Multispect 2 HD3 Gantry, serial numbers 1017, 1028, 1039, 
+1044, 1046, 1047, 1048
+
+Model 3562332 - Diacam HD3 Gantry Integrated, serial numbers 1001 through 
+1106
+REASON:
+Monitor generates ECG patterns & traces when not connected to patient
+MANUFACTURER/RECALLING FIRM:
+AccuSync Medical Research Corp. Milford, CT
+RECALLED BY:
+Siemens Medical Systems, Inc., Hoffman Estates, IL, issued Service 
+Bulletin FMI-281 on 9/30/99 
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Nationwide and Worldwide
+QUANTITY:
+432 monitors 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0032-2/Z-0036-2, Boston Scientific Corporation�s Viper Small Vessel 
+Peripheral (Balloon) Dilatation Catheters with Bioslide Hydrophilic 
+Coating, 
+Model               Lot Numbers
+M001192060		4009868
+M001192130		4006308
+M001192150		4003520, 4009870
+M001192020		4003569
+M001192110		4003574
+REASON:
+Some units have mid-shaft bond strengths below specifications making it 
+is possible that a distal segment of the catheter may become detached.  
+MANUFACTURER/RECALLING FIRM:
+Boston Scientific SciMed, Inc., Maple Grove, MN
+RECALLED BY:
+Firm issued letters dated 8/2/01 with follow-up visit 
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+FL, GA, IL, NY, WA and Germany
+QUANTITY:
+22 catheters 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0037-2/Z-0056-2, Airlife Manual Resuscitation Bags, Latex Free; a 
+disposable single patient use device used for pulmonary resuscitation; 
+the immediate container has the warning "IMPORTANT Perform functional 
+test on Resuscitator by squeezing the bag and verifying proper valve 
+action PRIOR TO PLACING IN SERVICE"; Manufactured for Allegiance 
+Healthcare Corporation, IL 
+
+Codes: Catalog # 2K8001, 2K8005 and 2K8017: all lots beginning 
+with Y9, Y0, Y1A and 04440, 04401, 04634, and all lots 
+between Y1B0000 through Y1B0257
+
+Catalog #2K8008 and 2K8010: Any lot number where the last 
+six digits are prior to 001216, where the digits represent 
+the year, the month and the day, i.e. 2000, DEC 16 and prior
+Catalog #2K8000, 2K8004, 2K8018, 2K8019, 2K8020, 2K8021, 
+2K8032, 2K8033, 2K8034, 2K8035, 2K8036, 2K8037, 2K8038, 
+2K8039 and 2K8040: Any lot number where the last six digits 
+are prior to 010115, i.e. prior to 2001 JAN 15
+Custom Sterile kit product numbers packaged with the above listed 
+resuscitation bags include:
+
+Kits containing adult resuscitation bags:
+
+a) BLK675361A, manufacture dates 03/03/1999, 03/24/1999, 
+04/12/1999, 05/25/1999
+
+b) BLKOC1026B, manufacture dates 03/02/2001, 03/20/2001
+
+c) PC12CG15A, manufacture date 11/05/1999
+
+d) PC12CG15B, manufacture dates 11/11/1999, 12/21/1999
+
+e) PC12CG15C, manufacture dates 12/21/1999, 01/19/2000, 01/31/2000, 
+02/08/2000, 02/22/2000, 03/24/2000, 04/13/2000, 04/18/2000, 
+04/20/2000
+
+f) PC12CG15D, manufacture dates 05/08/2000, 05/10/2000, 05/12/2000
+
+g) PC12CG15E, manufacture date 05/26/2000
+
+h) PC12CG15F, manufacture dates 06/15/2000, 06/20/2000, 06/30/2000, 
+07/19/2000, 07/25/2000, 08/09/2000, 08/17/2000, 08/23/2000, 08/31/2000, 
+09/09/2000, 10/02/2000, 10/20/2000, 10/24/2000, 10/31/2000, 11/20/2000, 
+11/29/2000, 12/02/2000, 12/26/2000, 
+01/23/2001, 02/02/2001, 02/16/2001, 03/14/2001
+
+i) PC12CGFFZ, manufacture dates 10/22/1999, 11/02/1999
+
+j) PC12VR15A, manufacture dates 12/10/1999, 01/11/2000, 01/31/2000, 
+03/24/2000, 04/20/2000
+
+k) PC12VR15B, manufacture dates 05/05/2000, 05/20/2000
+
+l) PC12VR15C, manufacture date 05/25/2000
+
+m) PC12VR15D, manufacture dates 06/20/2000, 07/03/2000, 08/02/2000, 
+08/25/2000, 09/26/2000, 09/28/2000, 11/03/2000, 11/19/2000, 11/29/2000, 
+12/28/2000, 01/23/2001, 02/02/2001, 02/21/2001, 
+03/09/2001, 05/14/2001
+
+n) PC12VRFFZ, manufacture date 10/04/1999
+
+o) PC21CGMMQ, manufacture dates 08/16/2000, 10/03/2000
+
+p) PC21CGMMR, manufacture date 11/09/2000
+
+q) PC21CGMMS, manufacture dates 11/17/2000, 11/20/2000
+
+r) PC21CGMMT, manufacture date 01/08/2001
+
+s) PC21CGMMU, manufacture dates 02/08/2001, 03/09/2001
+
+t) PC21HTMMF, manufacture date 07/14/2000
+
+u) PC21HTMMG, manufacture dates 07/17/2000, 08/28/2000, 10/04/2000
+
+v) PC21HTMMH, manufacture date 10/06/2000
+
+w) PC21HTMMI, manufacture dates 11/30/2000, 01/08/2001, 01/30/2001, 
+03/09/2001
+
+x) PC21HTMMJ, manufacture date 03/22/2001 
+
+y) PC21HTMMK, manufacture date 04/25/2001
+
+z) PC21VRMMM, manufacture dates 09/01/2000, 10/11/2000, 11/17/2000, 
+12/13/2000
+
+aa) PC21VRMMN, manufacture dates 12/20/2000, 12/22/2000
+
+bb) PC23OHAKJ, manufacture dates 12/20/1999, 01/26/2000, 
+02/16/2000, 03/21/2000, 05/12/2000
+
+cc) PC23OTMUB, manufacture dates 01/11/2000, 01/20/2000, 02/22/2000, 
+03/13/2000, 04/25/2000, 05/17/2000, 06/07/2000, 07/18/2000, 08/09/2000, 
+08/22/2000, 10/04/2000, 11/21/2000, 11/27/2000, 11/29/2000, 12/08/2000, 
+01/05/2001, 12/22/1999R
+
+dd) PC43CGSPB, manufacture date 05/09/2000
+
+ee) PC73OHASJB, manufacture date 05/11/2001
+
+ff) PC73OHSJA, manufacture dates 04/03/2001, 04/16/2001
+
+gg) PC73OHSJB, manufacture dates 05/04/2001, 05/07/2001
+
+hh) PV12AAFFJ, manufacture dates 08/06/1999, 09/08/1999, 09/27/1999, 
+12/14/1999, 01/14/2000, 02/02/2000, 02/25/2000, 
+04/11/2000, 04/21/2000
+
+ii) PV12AAFFK, manufacture date 05/24/2000
+
+jj) PV12AAFFL, manufacture dates 06/07/2000,  07/27/2000, 
+11/20/2000, 01/17/2001, 02/23/2001
+
+kk) PV12AAFFM, manufacture date 05/09/2001
+ll) PV12CVUME, manufacture dates 10/22/1999, 10/28/1999, 
+11/10/1999, 11/15/1999
+
+mm) PV12CVUMF, manufacture dates 12/09/1999, 01/11/2000
+
+nn) PV12CVUMG, manufacture dates 02/01/2000, 02/24/2000, 
+02/25/2000, 03/08/2000
+
+oo) PV12CVUMH, manufacture dates 03/28/2000, 04/15/2000, 04/26/2000, 
+05/01/2000, 05/11/2000, 05/13/2000, 05/18/2000, 
+06/01/2000, 06/14/2000, 06/26/2000
+
+pp) PV12CVUMI, manufacture dates 07/11/2000, 08/04/2000, 08/25/2000, 
+09/26/2000, 10/09/2000, 10/12/2000, 10/20/2000, 11/07/2000, 12/18/2000, 
+12/23/2000, 01/12/2001, 02/13/2001, 02/22/2001, 03/19/2001, 04/23/2001, 
+05/23/2001, 05/31/2001
+
+qq) RE1239086A, manufacture date 06/08/2000 
+
+rr) RES131431A, manufacture dates 12/17/1998, 12/17/1998, 12/17/1998
+
+ss) RES215902D, manufacture dates 09/14/2000, 12/09/2000
+
+tt) RES232917A, manufacture dates 12/08/1999, 03/08/2000, 04/29/2000
+
+uu) RES235488B, manufacture dates 04/06/1999, 04/09/1999, 06/03/1999, 
+08/19/1999, 10/27/1999, 12/01/1999, 12/27/1999, 02/17/2000, 05/03/2000, 
+09/20/2000, 12/26/2000, 01/11/2001, 
+03/13/2001, 05/14/2001
+
+vv) RES361278A, manufacture dates 11/12/1998, 11/25/1998, 12/11/1998, 
+03/09/1999, 04/20/1999, 06/02/1999, 07/19/1999, 08/19/1999, 10/01/1999, 
+10/27/1999, 11/15/1999, 12/09/1999
+
+ww) RES365784A, manufacture dates 03/01/1999, 03/26/1999, 04/26/1999, 
+05/12/1999, 06/10/1999, 08/06/1999, 08/19/1999, 
+09/02/1999, 10/28/1999, 12/08/1999, 07/12/2001
+
+xx) RES377177C, manufacture dates 11/24/1998, 01/06/1999, 01/06/1999, 
+07/12/1999, 08/12/1999, 09/15/1999, 10/21/1999, 
+12/10/1999, 01/25/2000, 01/28/2000, 03/29/2000
+
+yy) RES411065A, manufacture dates 12/01/1998, 12/01/1998, 01/05/1999, 
+01/05/1999, 01/05/1999, 01/11/1999, 01/11/1999, 01/11/1999, 02/16/1999, 
+02/16/1999, 02/16/1999, 03/26/1999, 03/26/1999, 03/26/1999, 05/01/1999, 
+05/13/1999, 05/13/1999
+
+zz) RES413580A, manufacture date 11/30/1998 aaa) RES459293A, manufacture 
+date 03/02/2001 bbb) RES459293B, manufacture date 03/02/2001
+
+ccc) RES731619B, manufacture dates 06/20/2001, 07/12/2001
+
+ddd) RES90RESUB, manufacture dates 04/13/1999, 04/23/1999
+
+eee) RESOC1026A, manufacture dates 12/15/1998, 01/08/1999, 
+02/09/1999
+
+fff) RESOC1431B, manufacture dates 01/14/1999, 03/09/1999, 
+05/12/1999, 07/09/1999, 10/01/1999, 12/20/1999
+
+ggg) RESOC5849A, manufacture dates 11/16/1998, 11/16/1998, 
+12/15/1998, 12/15/1998, 01/11/1999, 01/11/1999, 02/23/1999, 
+02/23/1999, 04/01/1999, 04/01/1999, 05/14/1999, 05/14/1999, 
+06/24/1999, 06/24/1999, 09/13/1999, 09/13/1999
+
+hhh) RESOC-6120, manufacture dates 11/20/1998, 01/07/1999, 
+02/02/1999
+
+iii) RESOC6120C, manufacture dates 04/27/1999, 06/02/1999, 
+06/02/1999, 07/15/1999, 07/15/1999, 08/25/1999, 08/25/1999, 
+10/12/1999, 10/12/1999, 11/11/1999, 11/11/1999, 02/02/2000, 
+02/02/2000
+
+jjj) RESOC7180A, manufacture dates 04/07/1999, 05/12/1999, 
+06/18/1999
+
+kkk) RESOC7692A, manufacture dates12/09/1998, 12/09/1998
+
+lll) RPK218814A, manufacture dates 11/02/2000, 11/16/2000, 
+11/30/2000, 01/02/2001, 01/17/2001, 02/07/2001, 02/21/2001, 
+03/27/2001
+
+mmm) RPS411211B, manufacture dates 11/16/2000, 11/28/2000
+
+nnn) RPS670132B, manufacture date 09/12/2000
+
+ooo) SPK218814A, manufacture dates 07/13/2000, 08/07/2000
+
+ppp) SPK417242A, manufacture dates 06/21/2000, 06/30/2000
+kits containing pediatric resuscitation bag
+
+a) PRES461932, manufacture dates 11/10/1998, 11/30/1998, 
+03/04/1999, 03/09/1999
+
+b) RE1365784A, manufacture dates 03/31/2000, 03/31/2000, 
+03/28/2001, 03/28/2001
+
+c) RE1OC5445A, manufacture date 07/13/2001
+
+d) RE1VF0326A, manufacture dates 03/12/2001, 03/12/2001
+
+e) RES239086A, manufacture dates 02/11/2000, 03/10/2000, 
+05/25/2000, 06/08/2000, 11/03/2000
+
+f) RESOC7004A, manufacture date 03/12/2001
+
+g) SP1215902C, manufacture dates 06/14/2000, 08/02/2000, 09/19/2000, 
+10/31/2000, 11/13/2000, 01/15/2001, 03/07/2001, 
+06/30/2001
+REASON:
+Resuscitation bags may not allow proper duck bill valve action
+MANUFACTURER/RECALLING FIRM:
+Engineered Medical Systems, Inc. Indianapolis, IN 
+RECALLED BY:
+Allegiance Healthcare Corporation McGaw Park, IL, by Federal Express, on 
+8/6/01 
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Nationwide 
+QUANTITY:
+2,076,594 units 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0058-2, Laser Doppler Flowmeter, PF 5001 Main Unit; a Blood Flow Meter.
+Used for housing Laser Doppler Blood Perfusion modules: PF 5010 Laser 
+Doppler Module, or PF 5040 Transcutaneous Oxygen Module.
+Codes: Serial Numbers: 1196 and 1199
+REASON:
+A low output level from the laser light will result in device failure 
+during use
+MANUFACTURER/RECALLING FIRM:
+Perimed AB Jarfalla - Sweden
+RECALLED BY:
+PeriMed, Inc., North Royalton, OH, by telephone on 1/25/2001, and letter 
+on 2/2/2001.   
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+AZ and IL
+QUANTITY:
+2
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0060-2, Constellation brand Multiple Electrode Recording and Pacing 
+Catheter. Codes: All lots affected.
+REASON:
+Product may be contaminated with small fibers on the distal tip of the 
+catheter.
+MANUFACTURER/RECALLING FIRM:
+Boston Scientific Corp. San Jose, CA
+RECALLED BY:
+Recalling firm, via telephone on July 5, 2001 and letter on July 13, 2001
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide and worldwide
+QUANTITY:
+4,416 units 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0061-2, IsoMed Constant-Flow Infusion System Clinical Reference Guide 
+for Pain Therapy, Product Catalog Number 182369-102/UC1999901594a EN 
+NP3821
+Codes: Lot number: None (clinical guides do not have lot numbers)
+REASON:
+Clinical guides given to physicians to aid their management of patients 
+with IsoMed pumps lack a warning statement.
+MANUFACTURER/RECALLING FIRM:
+Medtronic, Inc., Neurological Division, Minneapolis, MN
+RECALLED BY:
+Recalling firm by letter dated July 26, 2001 
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide
+QUANTITY:            
+102 Reference Guides 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0062-2, AxSYM Total T4 Reagent
+AxSYM Total T4 is a Fluorescence Polarization Immnunoassay (FPIA) for the 
+quantitative determination of thyroxine (T4) in human serum or plasma.  
+This include both protein-bound and unbound forms of thyroxine. The 
+AxSYMm Total T4 assay is used as an aid in the assessment of thyroid 
+status.
+Codes: List No.:  7A55-20
+Lot No.:  70892Q100, 70892Q101 and 70892Q102 
+Exp. Date: 10/12/2001
+REASON:
+Failure to calibrate  the assay when using  these reagents lots
+MANUFACTURER/RECALLING FIRM:
+Abbott Health Products, Inc., Barceloneta, PR
+RECALLED BY:
+Recalling firm by letter dated 8/2/01 
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide and Worldwide
+QUANTITY:
+11,259 kits 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0067-2, NORMOCARB (Sterile Bicarbonate Renal Dialysis Concentrate).  
+Lots 1A530, 1A620, 1A940, 1B270, 1B280, 1C330, GA0951, GA1188, GA1190 and 
+GA2889 Codes:            
+REASON:
+Contaminated with microorganism
+MANUFACTURER/RECALLING FIRM:
+Dialysis Solutions, Inc. Richmond Hills, Ontario, Canada  
+RECALLED BY:
+Novex Pharma Richmond Hills, Ontario, Canada,  
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+AL, CA, MA, MS, NY, NC, PA
+QUANTITY:
+Approx. 330 cases
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0068-2, Depuy brand PFC Sigma Knee System fluted femoral stem, 18 mm x 
+175 mm. Catalog number 96-1713, Lot 099495.
+Codes: Depuy brand PFC Sigma Knee System fluted femoral stem, 18 mm x 175 
+mm. Catalog number 96-1713, Lot 099495.
+REASON:
+Mislabeled as to size
+MANUFACTURER/RECALLING FIRM:
+Depuy Orthopaedics, Inc., Warsaw, IN
+RECALLED BY:
+Recalling firm by telephone on February 5, 2001 and letter dated February 
+19, 2001 
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+FL, LA, ME, MO, NV and England
+QUANTITY:
+20
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0069-2/Z-0072-2, Junction Box, a component of Invacare Electric Beds, 
+AC-Powered Adjustable Hospital.
+Codes: All affected junction boxes are identified with the date of 
+manufacture from 8/1/1998 thru 10/31/2000.  
+REASON:
+A faulty junction box may overheat, and result in electrical failure with 
+potential fire hazard.
+MANUFACTURER/RECALLING FIRM:
+Invacare Corp. Sanford, FL 
+RECALLED BY:
+Invacare Corp. Elypia, OH, by letter on 8/31/2001.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide and Worldwide
+QUANTITY:
+222,022 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0074-2/Z-0087-2, COBE Cardioplegia Delivery Sets (may also be labeled 
+as the Sorin brand, the Dideco brand or be contained in COBE Heart Lung 
+packs).
+Codes:         
+Part #                   Lot #
+032746002      11FO147, 12F0392,0101100069, 0106900012
+
+020947601      12F0811MP
+
+027812201      03F0641, 05F0502, 07F0610, 09F0729, 10F0678, 
+               10F0679, 12F0585, 12F0584, 0102900082, 
+               0108900150
+
+027819201     03F0607, 07F0563, 09F0571, 10F0640, 11F0536,
+              12F0575, 12F0623, 12F0735, 0100300115,
+              0102200123, 0103600060, 0104000060, 0104600104                         
+		    0109500149, 0111000065, 0111600084.
+  
+067239001     0109300036
+
+078722004     0107400098, 0109500184, 0113000058, 0100300153
+
+078838003      09F0002, 11F0003, 0103600100, 0105700186,
+               0107400102.
+   
+078860004      01G0087, 01G0001.
+
+078920001      0105700236
+
+078939001      0110100019
+
+078722002      03F0232, 06F0159, 08F0011, 08F0348, 10F0368,
+               11F0348.
+
+027816201      05F0571, 07F0565, 08F0654, 09F0631.
+
+027840201      01F0595, 02F0715.
+
+025735403      10F0529MP.    
+REASON:
+Tubing subassembly assembled with wrong size tubing.
+MANUFACTURER/RECALLING FIRM:
+COBE CARDIOVASCULAR, INC. ARVADA, CO
+RECALLED BY:
+Recalling firm, by letter on 5/24/2001
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide, Canada and Italy
+QUANTITY:
+2566 sets 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0088-2, Human Dura Mater Allograft, packaged in bottles, and labeled in 
+part: "HUMAN FREEZE DRIED ETHYLENE OXIDE STERILIZED DURA MATER" Codes:  
+This code is on the label as "Deposit Number:", front face.
+D-17048-000-1998
+D-17049-000-1998
+D-17050-000-1998
+D-17051-000-1998
+D-17053-000-1998
+D-17126-000-1998
+D-17131-000-1998
+D-17212-000-1998
+D-17213-000-1998
+D-17214-000-1998
+D-17216-000-1998
+D-17217-000-1998
+D-17218-000-1998
+D-17219-000-1998
+D-17220-000-1998
+D-17230-000-1998
+D-17231-000-1998
+D-17232-000-1998
+D-17233-000-1998
+D-17282-000-1998
+D-17283-000-1998
+D-17284-000-1998
+D-17285-000-1998
+D-17286-000-1998
+D-17287-000-1998 
+D-17307-000-1998
+D-17308-000-1998
+D-17309-000-1998
+D-17346-000-1998
+D-17347-000-1998
+D-17348-000-1998
+D-17349-000-1998
+D-17350-000-1998
+D-17359-000-1998
+D-17360-000-1998
+D-17361-000-1998
+D-17362-000-1998
+D-17363-000-1998
+D-17364-000-1998
+D-17387-000-1998
+D-17388-000-1998
+D-17389-000-1998
+D-17390-000-1998
+D-17391-000-1998
+D-17530-000-1998 
+D-17531-000-1998
+D-17532-000-1998
+D-17533-000-1998
+D-17534-000-1998
+D-17535-000-1998
+D-17536-000-1998
+D-17551-000-1998
+D-17552-000-1998
+D-17553-000-1998
+D-17554-000-1998
+D-17555-000-1998
+D-17556-000-1998
+D-17557-000-1998
+D-17558-000-1998
+D-17559-000-1998
+D-17579-000-1998
+D-17580-000-1998
+D-17581-000-1998
+D-17582-000-1998
+D-17612-000-1998
+D-17613-000-1998
+D-17614-000-1998
+D-17615-000-1998
+D-17625-000-1998
+D-17626-000-1998
+D-17627-000-1998
+D-17628-000-1998
+D-17629-000-1998
+D-17630-000-1998
+D-17675-000-1998
+D-17676-000-1998
+D-17677-000-1998
+D-17678-000-1998
+D-17679-000-1998
+D-17680-000-1998
+D-17699-000-1998 
+D-17700-000-1998
+D-17701-000-1998
+D-17707-000-1998
+D-17708-000-1998
+D-17709-000-1998
+D-17710-000-1998
+D-17730-000-1998
+D-17731-000-1998
+D-17756-000-1998
+D-17761-000-1998
+D-17762-000-1998
+D-17763-000-1998
+D-18320-000-1998
+D-18321-000-1998
+D-18322-000-1998
+D-18323-000-1998
+D-18325-000-1998
+D-18326-000-1998
+D-18327-000-1998
+D-18593-000-1999
+D-18594-000-1999
+D-18595-000-1999
+D-18596-000-1999
+D-18599-000-1998
+D-18600-000-1998
+D-18601-000-1998
+D-18602-000-1998
+D-18603-000-1998
+D-18607-000-1998
+D-18608-000-1998
+D-18609-000-1998
+D-18610-000-1998
+D-18611-000-1998
+D-18612-000-1998
+D-18613-000-1998
+D-18615-000-1998
+D-18616-000-1998
+D-18618-000-1998
+D-18619-000-1998
+D-18621-000-1998
+D-18622-000-1998
+D-18636-000-1998
+D-18637-000-1998
+D-18638-000-1998
+D-18639-000-1998
+D-18640-000-1998
+D-18642-000-1998
+D-18643-000-1998
+D-18644-000-1998
+D-18645-000-1998
+D-18646-000-1998
+D-18756-000-1998
+D-18757-000-1998
+D-18758-000-1998
+D-18759-000-1998
+D-18760-000-1998
+D-18761-000-1998
+D-18762-000-1998
+D-18764-000-1998
+D-18765-000-1998
+D-18766-000-1998
+D-18767-000-1998
+D-18768-000-1998
+D-18769-000-1998
+D-18771-000-1998
+D-18772-000-1998
+D-18773-000-1998
+D-18774-000-1998
+D-18775-000-1998
+D-18789-000-1998
+D-18790-000-1998
+D-18791-000-1998
+D-18792-000-1998
+D-18793-000-1998
+D-18809-000-1998
+D-18810-000-1998
+D-18811-000-1998
+D-18812-000-1998
+D-18813-000-1998
+D-18814-000-1998
+D-18820-000-1999
+D-18822-000-1999
+D-18823-000-1999
+D-18824-000-1999
+D-18825-000-1999
+D-18826-000-1999
+D-18896-000-1999
+D-18897-000-1999
+D-18898-000-1999
+D-18899-000-1999
+D-19012-000-1999
+D-19013-000-1999
+D-19014-000-1999
+D-19015-000-1999
+D-19030-000-1999
+D-19031-000-1999
+D-19032-000-1999
+D-19033-000-1999
+D-19034-000-1999
+D-19035-000-1999
+D-19037-000-1998
+D-19038-000-1998
+D-19039-000-1998
+D-19040-000-1998
+D-19041-000-1998
+D-19057-000-1998
+D-19059-000-1998
+D-19078-000-1998
+D-19079-000-1998
+D-19080-000-1998
+D-19081-000-1998
+D-19082-000-1998
+D-19545-000-1999
+D-19546-000-1999
+D-19547-000-1999
+D-19548-000-1999
+D-19549-000-1999
+D-19850-000-1999
+D-19851-000-1999
+D-19852-000-1999
+D-19853-000-1999
+D-19854-000-1999
+D-19861-000-1999
+D-19862-000-1999
+D-19863-000-1999
+D-19864-000-1999
+D-19874-000-1999
+D-19875-000-1999
+D-19878-000-1999
+D-19879-000-1999
+D-19880-000-1999
+D-19882-000-1997
+D-19883-000-1997
+D-19893-000-1999
+D-19894-000-1999
+D-19895-000-1999
+D-19900-000-1999
+D-19901-000-1999
+D-19902-000-1999
+D-19903-000-1999
+D-20394-000-2000
+D-20395-000-2000
+D-20396-000-2000
+D-20397-000-2000
+D-20408-000-1999
+D-20409-000-1999
+D-20410-000-1999
+D-20411-000-1999
+D-20412-000-1999
+D-20413-000-1999
+D-20414-000-1999
+D-20416-000-1999
+D-20417-000-1999
+D-20464-000-1999
+D-20465-000-1999
+D-20466-000-1999
+D-20467-000-1999
+D-20468-000-1999
+D-20470-000-1999
+D-20471-000-1999
+D-20472-000-1999
+D-20473-000-1999
+D-20475-000-1999
+D-20476-000-1999
+D-20477-000-1999
+D-20484-000-1999
+D-20485-000-1999
+D-20486-000-1999
+REASON:
+Dura Mater with Residual Endotoxin level above 0.06EU/ml
+MANUFACTURER/RECALLING FIRM:
+University of Miami Tissue Bank Miami, FL 
+RECALLED BY:
+Transportation Research Foundation, Bellaire, TX, by letter dated 7/2/01
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide 
+QUANTITY:
+249 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0089-2, Profile MD V-186HV3 Implantable Cardioverter Defibrillator
+Codes: Profile MD Model V186HV3, Implantable defibrilator.
+REASON:
+Capacitor may short
+MANUFACTURER/RECALLING FIRM:
+St. Jude Medical, Inc., Sylmar, CA
+RECALLED BY:
+Recalling firm by FEDEX 
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide, Europe, Latin America, Australia and Canada
+QUANTITY:
+771 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0090-2/Z-0176-2, All lots of all cassettes for the listed products that 
+do not bear a green or white sticker with arrows pointing up and the 
+words "store upright" on the sticker are under recall.  Codes: Roche 
+COBAS Integra Invitro diagnostics for use on Roche COBAS Integra 400, 700 
+or 800 clinical chemistry analyzers, as follows:
+1. AAGP [Alpha-1-Acid Glycoprotein], Ref 2 0750913
+2. AAT [Alpha-1-Antitrypsin], Ref 2 0750921
+3. ACETA [Acetaminophen], Ref 2 0767174
+4. ACPP [Acid/Prostatic Phosphatase], Ref 20737321
+5. ALB [Albumin], Ref 2 0737461
+6. ALB-T[ Albumin] Ref 2 0737674
+7. ALPL6 [Alkaline Phosphatase], Ref 2 0759961
+8. ALTL [Alanine Transaminase], Ref 2 0764957
+9. ALPL2 [Alk Phosphatase], Ref 2 0766739
+10. AMIKM [Amikacin], Ref 2 0767166
+11. AMYLL [Amylase], Ref 2 0759988
+12. AMY-P [Amylase Pancreatic], Ref 2 0766623
+13. APOA [Apolipoprotein A-1], Ref 2 0737682
+14. APOB [Apolipoprotein B], Ref 2 0737690
+15. ASO [Anti-Streptolysin O], Ref 2 0750948
+16. ASTL [Aspartate Aminotransferase], Ref 2 0764949
+17. AT3 [Antithrombin III], Ref 2 0751731
+18. BIL-D [Direct Bilirubin], Ref 2 0737496
+19. BIL-T [Total Bilirubin], Ref 2 0737488 
+20. C3C [Complement C3c], Ref 2 0737712
+21. C4 [Complement C4], Ref 2 0737720
+22. CA [Calcium], Ref 2 0763128
+23. CARB [Carbamazepine], Ref 2 0737828
+24. CERU [Ceruloplasmin], Ref 2 0764663
+25. CHE [Cholesterase], Ref 2 0737380
+26. CHECK [Check Cassette], Ref 2 0757136
+27. CHOLL [Cholesterol], Ref 2 0763012
+28. CKL [Creatine Kinase], Ref 2 0759236
+29. CKMBL [Creatine Kinase-MB], Ref 2 0759244
+30. CLEAN [Cleaner Cassette], Ref 2 0764337
+31. CO2-S [Carbon dioxide] Ref 2 0766763
+32. CREAE [Creatinine Enzymatic], Ref 2 0763144
+33. CREAJ [Creatinine Jaffee], Ref 2 0764345
+34. CREAP [Creatinine Plus], Ref 2 3029565
+35. CRPLX [C-Reactive Protein (Latex)], Ref 2 0764930
+36. CSA [Cyclosporine], Ref 2 0753564 
+37. D-DI [Tina-quant, D-Dimer], Ref 2 3001245
+38. DIG [Digoxin], Ref 2 0737836 
+39. ETOH [Ethanol], Ref 2 0737550
+40. FERR [Ferritin], Ref 2 0753556
+41. FPCAL [Fp-Calibration], Ref 2 0755346
+42. FRA [Fructosamine], Ref 2 0737569
+43. GENT [Gentamicin], Ref 2 0737844
+44. GGTL [Glutamyltransferase], Ref 2 0759996
+45. GLUCL [Glucose HK liquid], Ref 2 0763020
+46. HAPT [Haptoglobin], Ref 2 0737747  
+47. HBA1C [Hemoglobin A1c], Ref 2 0753521
+48. HDL-D [HDL Cholesterol Direct], Ref 2 0764558
+49. IGA [Immunoglobulin A], Ref 2 0737755
+50. IGGT [Immunoglobulin G (turb.)], Ref 2 0766631
+51. IGM [Immunoglobulin M], Ref 2 0737771
+52. IRON [Iron], Ref 2 0737585 
+53. LACT [Lactate], Ref 2 0757225 
+54. LDHI [Lactate dehydrogenase], Ref 2 0759813
+55. LDL-D [LDL Cholesterol Direct], Ref 2 0766747
+56. LIDO [Lidocaine], Ref 2 0757241  
+57. LIPC [Lipase Colorimetric], Art 0759007   
+58. LIPL [Lipase], Ref 2 0763004
+59. MG [Magnesium], Ref 2 0737593     
+60. MYO [Myoglobin], Ref 2 0753548  
+61. NAPA [N-Acetyl Procainamide], Ref 2 0737852  
+62. NH3L [Ammonia], Ref 2 0766682  
+63. PHNO [Phenobarbital], Ref 2 0737860  
+64. PHNY [Phenytoin], Ref 2 0737879  
+65. PHOS [Phosphate (inorganic)], Ref 2 0737607 
+66. PREA [Prealbumin], Ref 2 0764655
+67. PRIM [Primidone], Ref 2 0737887 
+68. PROC [Procainamide], Ref 2 0737895  
+69. QUIN [Quinidine], Ref 2 0737909
+70. RF II [Rheumatoid Factors II], Ref 2 0764574
+71. SALI [Salicylate], Ref 2 0753580
+72. SBARB [Barbiturates Reagent Kit], Ref 2 0766704
+73. SBENZ [Benzodiazepines Reagent Kit], Ref 2 0766690
+74. STFR [Tina-quant, soluble transferrin receptor], Ref 2 
+    0763454 
+75. THEO [Theophylline], Ref 2 0737917
+76. TOBR [Tobramycin], Ref 2 0737925   
+77. Total T4 [Thyroxine], Art 0739006  
+78. TP [Total Protein], Ref 2 0737615   
+79. TPU-C [Total Protein Urine/CSF], Ref 2 0757233  
+80. TRIGL [Triglycerides], Ref 2 0767107
+81. TRSF [Transferrin], Ref 2 0737798
+82. T-UP [T-Uptake], Art 0739014  
+83. UA [Uric Acid], Ref 2 0756296
+84. UIBC [Unsaturated Iron-Binding Capacity], Ref 2 0737631
+85. UREAL [Urea/BUN], Ref 2 0763039
+86. VALP [Valproic Acid], Ref 2 0737933   
+87. VANC [Vancomycin], Ref 2 0737941  
+REASON:
+Bottles may leak and result in incorrect results
+MANUFACTURER/RECALLING FIRM:
+Roche Diagnostics GmbH Mannheim, Germany
+RECALLED BY:
+Roche Diagnostics Corp., Indianapolis, IN by urgent product removal 
+bulletin dated 9/4/01.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide 
+QUANTITY:
+87 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0177-2/Z-0178-2, Procyon Bedside Monitors, Models BSM-4104A and BSM-
+4114A.
+Codes: Models BSM-4104A and BSM-4114A Bedside Monitors.
+REASON:
+Software causes infusion rate 2.2 times proper rate.
+MANUFACTURER/RECALLING FIRM:
+Nihon Kohden, Inc., CA
+RECALLED BY:
+Recalling firm by telephone and letter on September 12, 2001.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide
+QUANTITY:
+96,88 to hospitals and 8 to dealers for demonstration units
+
+
+RECALLS AND FIELD CORRECTIONS: DEVICES -- CLASS III
+
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0026-2, VITROS Chemistry Slides - BUN/UREA DT Slides
+25 slides per box, Responsible firm on the label: Ortho-Clinical 
+Diagnostics, Inc., Rochester, NY, 
+Codes: 
+Lot Number: 0154-0536-2869
+REASON:
+Lot # and exp. date on some cartons is unreadable
+MANUFACTURER/RECALLING FIRM:
+Ortho-Clinical Diagnostics, Inc., Rochester, NY
+RECALLED BY:
+Recalling firm, by letter dated 8/10/01 
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Australia, Canada, India, Japan and Singapore
+QUANTITY:
+2,628 cartons
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0027-2, IVD Transferrin Receptor Assay (TfR)kit; In vitro enzyme 
+immunoassay for quantifying the concentration of transferrin receptor in 
+human serum or plasma to aid in the diagnosis of iron deficiency anemia. 
+Codes: Catalog number TF-94, Kit Lot #s: TF-94-36 and TF-94-37, HRP-
+Conjugate (component) Lot #306149.
+REASON:
+IVD product for TfR with controls out of range
+MANUFACTURER/RECALLING FIRM:
+Ramco Laboratories, Inc., Stafford, TX
+RECALLED BY:
+Firm, by letter and telephone on 6/7/00.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+WA, MD, GA, IA, NY and Denmark, Italy, Hong Kong, Germany, Bangladesh, 
+Netherlands and Switzerland
+QUANTITY:
+99 kits
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0031-2, Motion Electronics Computer Chassis (MECC) Backplanes installed 
+in E.CAM Emission Imaging Computed Tomography Systems used for all common 
+nuclear medicine procedures; Siemens Medical Systems, Inc., Nuclear 
+Medicine Group, Hoffman Estates, IL Codes: MECC Backplane "2104938 REV C" 
+-- a component in the following cameras
+a) Model 4380221 - E.CAM Gantry Dual Head, serial numbers 
+00005, 01007A, 01008A, 01141, 01181 through 01215
+
+b) Model 5242826 - E.CAM Gantry Dual Head, serial numbers 
+01001 through 01075
+
+c) Model 4380213 - E.CAM Gantry Single Head, serial numbers 
+01002 through 01014
+REASON:
+Backplane traces become overheated, causing CT camera to become 
+inoperable
+MANUFACTURER/RECALLING FIRM:
+Siemens Medical Systems, Inc., Hoffman Estates, IL
+RECALLED BY:
+Recalling firm issued Service Bulletin on 4/11/00.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide and Worldwide
+QUANTITY:
+111 units 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0057-2, Marconi MX8000 Computed Tomography X-ray System.
+Codes: All Marconi MX8000 CT Scanners running with Version 2.0 
+sofware.
+REASON:
+A software anomaly in ver 2.0 software may result in improper patient 
+diagnosis.
+MANUFACTURER/RECALLING FIRM:
+Marconi Medical Systems, Inc., Highland Heights, OH
+RECALLED BY:
+The firm by letter, dated 8/10/2000
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Nationwide and Brazil  
+QUANTITY:
+76 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0059-2, Valleylab E6019 Bipolar Footswitch, Lot #498238.
+Codes: Catalog Number: E6019, Lot Number:498238
+REASON:
+Footswitch will intermittently stick in the ON (activated) position.
+MANUFACTURER/RECALLING FIRM:
+Valleylab, Inc., Boulder, CO
+RECALLED BY:
+Recalling firm via letter on 06/08/2001 
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Nationwide 
+QUANTITY:
+80 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0063-2, Roche Tina-quant IgA.  Catalog # 1931687; all lots.  The 
+product is an invitro diagnostic for the determination of human IgA.
+
+Z-0064-2, Roche Tina-quant IgE.  Catalog # 1931725; all lots.  The 
+product is an invitro diagnostic for the determination of IgE.
+
+Z-0065-2, Roche Tina-quant IgG.  Catalog # 1931695; all lots.  The 
+product is an invitro diagnostic for the determination of human IgG.
+
+Z-0066-2, Roche Tina-quant IgM.  Catalog # 1929305; all lots.  The 
+product is an invitro diagnostic for the determination of human IgM.
+
+Codes: All lots of Tina-quant IgA (catalog # 1931687), IgE(catalog # 
+1931725), IgG(catalog # 1931695) and IgM(catalog # 1929305) in vitro 
+diagnostic reagents.
+REASON:
+Monoclonal gammopathies may exhibit high dose hook effect below label 
+conc.
+MANUFACTURER/RECALLING FIRM:
+Roche Diagnostics GmbH Mannheim, Germany,  
+RECALLED BY:
+Roche Diagnostics Corp., Indianapolis, IN, sent an Urgent Product 
+Bulletin dated 9/17/01 
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+United States
+QUANTITY:
+Approximate 8000 kits
+
+
+END OF ENFORCEMENT REPORT FOR OCTOBER 24, 2001.
+
+####
+
+
+
+
+
+
+FDA News Page   |   FDA Home Page 
+                                                          
+  
+
+Office of Public Affairs
+Hypertext uploaded by tg 2001-OCT-24.

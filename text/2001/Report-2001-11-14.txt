@@ -1,0 +1,1718 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  OCT
+		  Jan
+		
+		
+		
+		  
+		  16
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      58 captures
+	      16 Nov 2001 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA 
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration, Department of Health and Human Services. 
+It contains information on actions  taken in connection with 
+agency
+Regulatory activities.
+
+
+
+
+November 14, 2001                                01-45
+
+	RECALLS AND FIELD CORRECTIONS: FOODS CLASS II
+_______________________
+PRODUCT
+Alaska Supreme brand ice cream in 1/2 gallon cardboard 
+containers.  
+Flavors include: 
+a) China Green Tea, Recall #F-031-2;
+b) Mint Chip, Recall #F-032-2;
+c) Cappuccino, Recall #F-033-2.
+CODE
+Pull dates up through June 19, 2002.
+RECALLING FIRM/MANUFACTURER
+Alaska Supreme Ice Cream, Inc. Anchorage, AK, by on site visit on 9/20/01. 
+Firm initiated recall is complete.
+REASON
+The products contained undeclared FD&C; Yellow 
+No. 5.
+VOLUME OF PRODUCT IN COMMERCE
+Unknown.
+DISTRIBUTION
+Anchorage, AK.
+
+	RECALLS AND FIELD CORRECTIONS: FOODS CLASS III
+_______________________
+PRODUCT
+a) Health from the Sun Liquid Gold Flax Oil, 16 fl.oz., bottles
+HEALTH FROM THE SUN FLAX LIQUID GOLD OCIA CERTIFIED ORGANIC 
+COLD-PRESSED FLAX OIL Vegetable Source of Omega-3 Fatty Acids 
+16.0 FL. OZ. 472ML****Marketed by: Health from the Sun ***A 
+Division of Arkopharma***Newport,NH 03773*** product of Canada***", 
+Recall #F-034-2.
+
+b) Health from the Sun Total EFA Liquid, 16 fl. oz. bottles.
+Lableled in part:"HEALTH FROM THE SUN The Total EFA MEETS YOUR 
+DAILY ESSENTIAL FATTY ACID NEEDS Vegetarian EFA Oil Blend with 
+Lignans 16.0 Fl OZ 472 ML ****Marketed by: Health from the Sun 
+***A Division of Arkopharma***Newport,NH 03773*** product of Canada***", 
+Recall #F-035-2.
+CODE
+a) Health from the Sun Liquid Gold Flax Oil, 16 fl. oz., Lot 
+number: 101284, Exp. Date: June, 2002.
+
+b) Health from the Sun Total EFA Liquid, 16 fl. oz., Lot Number: 
+101205, Exp. Date: April, 2002. 
+RECALLING FIRM/MANUFACTURER
+Recalling Firm: Health from the Sun, A Division of Arkopharma, 
+Inc., Newport, NH, initiated the recall by fax on 8/27/01 to the 
+direct accounts-distributors.
+Manufacturer: Bioriginal Food Service and Science Corp., 
+Saskatoon, Saskatchen.  
+Firm initiated recall ongoing.
+REASON
+Some of the product may contain water instead 
+of the labeled oil.
+VOLUME OF PRODUCT IN COMMERCE
+a) 3,256 bottles;  
+b) 1,472 bottles. 
+DISTRIBUTION
+Nationwide and Canada.
+
+RECALLS AND FIELD CORRECTIONS: DRUGS CLASS II
+_______________________
+PRODUCT
+Lantus Insulin Glargine (rDNA origin) Injection; 100 units/mL 
+(U-100)in 10 mL vials, 10 vials per pack; NDC #0088-2220-33, 
+Recall # D-029-2.
+CODE
+All lots of Lantus U-100 Insulin distributed to Walgreens 
+pharmacies between 5/2/01 and 9/7/01.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm: Walgreen Co., Deerfield, IL, by e-mail on 
+9/7/01. 
+Manufacturer: Aventis Pharma AG Frankfurt am Main, Germany. 
+Firm initiated recall is complete. 
+REASON
+Temperature Abuse-product shipped unrefrigerated by recalling firm.
+VOLUME OF PRODUCT IN COMMERCE
+38,000 vials. 
+DISTRIBUTION
+Nationwide.
+_______________________
+PRODUCT
+Oxygen, USP, compressed, packaged in #2 high pressure Cylinders, 
+Recall #D-030-2.
+CODE
+12892001/11, 12892001/12, 12892001/13, 12892001/18, 12892001/20, 
+12902001/8, 12902001/12.
+RECALLING FIRM/MANUFACTURER
+Nexair, LLC Memphis, TN, telephoned its branch stores and 
+customers on 10/18/01.  Firm initiated recall is ongoing.
+REASON
+Cylinders were contaminated with oil in and around the valve 
+threads.
+VOLUME OF PRODUCT IN COMMERCE
+22 cylinders. 
+DISTRIBUTION
+TN and AR.
+_______________________
+PRODUCT
+Timoptic-XE (Timolol Maleate Ophthalmic Gel Forming Solution) 
+0.5% Timolol Equivalent (Timolol Maleate 6.8 mg/mL), Rx only, 5 
+ml Ophthalmic Dispenser, NDC number 03558-03-00,
+Recall #D-033-2.
+CODE
+Lot # 0304L exp. 12/02.
+RECALLING FIRM/MANUFACTURER
+Merck & Co., Inc., West Point, PA, on 9/26/01, sent recall 
+letters.  Firm initiated recall is ongoing. 
+REASON
+Lack of assurance of sterility. 
+VOLUME OF PRODUCT IN COMMERCE
+74,671 units. 
+DISTRIBUTION
+Nationwide.
+
+RECALLS AND FIELD CORRECTIONS: DRUGS CLASS III 
+_______________________
+PRODUCT
+Fluocinolone Acetonide Topical Solution, USP, 0.01%, For 
+External Use Only, Not for Ophthalmic Use, Rx only,20 mL and 60 
+mL plastic bottles.
+
+The Thames brand 20 mL bottle has a white and blue colored 
+label, and is labeled in part, "xxx NDC 49158-209-40 xxx 
+FLUOCINOLONE ACETONIDE xxx SOLUTION xxx USP, 0.01% xxx Rx only 
+xxx 20 mL xxx Thames PHARMACAL CO., INC. xxx Ronkonkoma, N.Y. 
+11779 USA xxx". 
+
+The Thames brand 60 mL bottle is white and blue colored label, 
+and is labeled in part, "xxx NDC 49158-209-32 xxx FLUOCINOLONE 
+ACETONIDE xxx SOLUTION USP, 0.01% xxx Rx only xxx 60 mL xxx 
+Thames PHARMACAL CO., INC. xxx Ronkonkoma, N.Y. 11779 USA xxx".
+
+The Qualitest brand 20 mL bottle has a brown and beige colored 
+label, and is labeled in part, "xxx NDC 0603-1231-43 xxx 
+FLUOCINOLONE ACETONIDE xxx TOPICAL SOLUTION USP, 0.01% xxx Mfg.  
+for: QUALITEST PHARMACEUTICALS, INC., xxx HUNTSVILLE, AL 35811 
+xxx Rx only xxx NET CONTENTS 20 mL xxx Qualitest(R) xxx".
+
+The Qualitest brand 60 mL bottle has a brown and beige colored 
+label, and is labeled in part, "xxx NDC 0603-1231-49 xxx 
+FLUOCINOLONE ACETONIDE xxx SOLUTION USP, 0.01% xxx Mfg. for: 
+QUALITEST PHARMACEUTICALS, INC., xxx HUNTSVILLE, AL 35811 xxx 
+NET CONTENTS 60 mL xxx Qualitest(R) xxx".
+
+The Schein Pharmaceutical brand 60-mL bottle has blue and white 
+colored label, and is labeled in part, �xxx SCHEIN 
+PHARMACEUTICAL xxx NDC 0364-7343-58 xxx FLUOCINOLONE ACETONIDE 
+xxx Topical Solution, USP, xxx 0.01% xxx Mfd. for: Schein 
+Pharmaceutical, Inc.  xxx Florham Park, NJ 07932 USA xxx 60 mL 
+xxx�.
+
+The Major Pharmaceuticals brand 60-mL bottle has a blue, red and 
+green colored label, and is labeled in part, �xxx NDC 0904-2661-
+03 xxx Fluocinolone Acetonide xxx Topical Solution USP, xxx 
+0.01% xxx Rx only xxx 60 mL xxx MAJOR(R) PHARMACEUTICALS xxx 
+Distributed by Major Pharmaceuticals xxx Livonia, MI 48150 USA 
+xxx�. 
+Recall #D-024-2
+CODE
+Lots: N304 (exp. 7/2002), N409 (exp. 7/2002), N588 (exp. 
+12/2002), N660 (exp. 2/2003) Thames NDC: 49158-209-40 (20 mL), 
+49158-209-32 (60 mL)Qualitest NDC: 0603-1231-43 (20 mL), 0603-
+1231-49 (60 mL)
+Schein NDC: 0364-7343-58 (60 mL).
+Major NDC: 0904-2661-03 (60 mL).
+PLEASE NOTE: Schein Pharmaceutical labeled product in 20 mL bottles
+with NDC 0364-7343-55 listed in the 24 Hour Alert was not included 
+in the RR as it was discovered that it had not been distributed. 
+RECALLING FIRM/MANUFACTURER
+Thames Pharmacal Co., Inc. Ronkonkoma, NY, by letter, dated 10/3/01.  
+Firm initiated recall is ongoing.
+REASON
+Subpotency (12 month stability). 
+VOLUME OF PRODUCT IN COMMERCE
+A total of 73,612 bottles: 37,696 - 20 mL bottles and 35,916 - 
+60 mL bottles. 
+DISTRIBUTION
+Nationwide and Puerto Rico.
+_______________________
+PRODUCT
+Chlor-Trimeton Allergy 8 hour tablets, Chlorphenirmaine maleate, 
+8 mg per tablet, 15 tablets, blister packaged. The product
+is labeled in part: 
+
+Chlor-Trimeton Antihistamine Allergy 8 Hour 15 tablets Schering-
+Plough HealthCare Products, Inc. Memphis, TN. 
+Inside each carton is a foil blister of fifteen (15) tablets 
+labeled in part: 
+Chlor-Trimeton 8 Hour Allergy Tablets 7-CC-2 EXP 1/02 Schering-
+Plough HealthCare Products, Inc. Memphis, TN  
+Recall #D-025-2
+CODE
+Lot No. 7-CC-2, Expiration January 2002.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm: Schering Plough Healthcare Products,
+Cleveland, TN, by letter dated October 5, 2001. 
+Manufacturer: Schering Laboratories Kenilworth, NJ. 
+Firm initiated recall is ongoing.
+REASON
+Dissolution Failure at 2 hour test time (Stability 50th month).
+VOLUME OF PRODUCT IN COMMERCE
+154,404. 
+DISTRIBUTION
+Nationwide and Puerto Rico.
+_______________________
+PRODUCT
+Atarax tablets (hydroxyzine HCl), 10 mg, 100 Tablet bottles, Rx 
+only, NDC 0049-5600-66, Pfizer Roerig, Division of Pfizer, Inc., 
+NY, NY, Recall #D-026-2.
+CODE
+Lot # 0105K00A, expiration date 7/2002, NDC 0049-5600-66, Item 
+#4341.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm: Pfizer, Inc. New York, NY, by letter dated 
+10/9/01.
+Manufacturer: Pfizer, Inc. Brooklyn, NY. 
+Firm initiated recall is ongoing.
+REASON
+Dissolution failure (12th month stability).
+VOLUME OF PRODUCT IN COMMERCE
+24,140 bottles were distributed. 
+DISTRIBUTION
+Nationwide and Puerto Rico, Trinidad, Bahamas and St. Marten.  
+_______________________
+PRODUCT
+a) BETCO brand Premium Antibacterial Hand Cleaner with Aloe 
+(catalog #73644) - Active Ingredient - Chloroxylenol 0.5%, 
+Recall # D-027-2.
+
+The recalled products are packed and distributed in the 
+following size/type containers:
+Premium Antibacterial Hand Cleaner (#73644):
+55-gallon drums; sold individually -  NDC #65601-736-55; 
+5-gallon pails; sold individually  -  NDC #65601-736-05; 
+1-gallon containers; 4 per case    -  NDC #65601-736-04; 
+16 oz bottles; 12 per case         -  NDC #65601-736-36;
+8 oz bottles; 12 per case          -  NDC #65601-736-68;
+4 oz bottles; 24 per case          -  NDC #65601-736-24; 
+1100 ml Bag-In-Box; 10 per case    -  NDC #65601-736-10; 
+900 ml Bag-In-Box; 12 per case     -  NDC #65601-736-19; 
+500 ml Bag-In-Box; 18 per case     -  NDC #65601-736-88; 
+
+b) BETCO brand Winning Hands Pearlized Antiseptic Lotion Hand 
+Cleaner (catalog #14104) - Active Ingredient - Chloroxylenol 
+0.375%, 
+Recall # D-028-2.
+
+Winning Hands Pearlized Antiseptic Lotion Hand Cleaner (#14104):
+55-gallon drums; sold individually - NDC #65601-141-55; 
+5-gallon pails; sold individually  - NDC #65601-141-05; 
+1-gallon containers; 4 per case    - NDC #65601-141-04; 
+4 oz bottles; 24 per case          - NDC #65601-141-24; 
+1100 ml Bag-In-Box; 10 per case    - NDC #65601-141-10; 
+900 ml Bag-In-Box; 12 per case     - NDC #65601-141-19; 
+500 ml Bag-In-Box; 18 per case     - NDC #65601-141-88; 
+CODE
+a) Premium Antibacterial Hand Cleaner with Aloe (#73644):  
+Lot Numbers: 2690, 2770, 2850, 2980, 3010, 3080, 3210, 3320, 
+3410, 3460, 3540, 0041, 0521, 0651, 0781, 0871, 0941, 1011, 
+1161, 1211, 1281, 1371, 1431, 1571, 1601, 1691, 1761, 1901, 
+1931, 1971, 2061, 2071, 2131, 2201, 2291, 2351, 2491, 2531, 
+2571, 2611. 
+
+Expiration Dates: 9/25/2001, 10/3/2001, 10/11/2001, 10/24/2001, 
+10/27/2001, 11/3/2001, 11/16/2001, 11/27/2001, 12/6/2001, 
+12/11/2001, 12/19/2001, 1/4/2002, 1/9/2002, 1/16/2002, 
+1/25/2002, 1/31/2002, 2/10/2002, 2/21/2002, 3/6/2002, 3/19/2002, 
+3/28/2002, 4/4/2002,  4/11/2002, 4/26/2002, 5/1/2002, 5/8/2002, 
+5/17/2002, 5/23/2002, 6/6/2002, 6/9/2002, 6/18/2002, 6/25/2002, 
+7/9/2002, 7/12/2002, 7/16/2002, 7/25/2002, 7/26/2002, 8/1/2002, 
+8/8/2002, 8/17/2002, 8/23/2002, 9/6/2002, 9/10/2002, 9/14/2002, 
+9/18/2002.
+
+b) Winning Hands Pearlized Antiseptic Lotion Hand Cleaner 
+(#14104): 
+Lot Numbers: 2710, 2770, 2920, 2990, 3040, 3140, 3220, 3340, 
+3400, 3490, 3560, 0041, 0111, 0221, 0241, 0321, 0441, 0471, 
+0591, 0671, 0791, 0861, 0931, 0991, 1131, 1231, 1291, 1421, 
+1561, 1591, 1691, 1721, 1801, 1871, 1941, 2041, 2081, 2191, 
+2251, 2281, 2331, 2411, 2491, 2571, 2641. 
+
+Expiration dates: 9/28/2001, 10/3/2001, 10/18/2001, 10/25/2001, 
+10/30/2001,11/9/2001, 11/17/2001, 11/29/2001, 12/5/2001, 
+12/14/2001, 12/21/2001, 1/4/2002, 1/11/2002, 1/22/2002, 
+1/24/2002, 2/1/2002, 2/13/2002, 2/16/2002, 2/28/2002, 3/8/2002, 
+3/20/2002, 3/27/2002, 4/3/2002, 4/9/2002, 4/23/2002, 5/3/2002, 
+5/9/2002, 5/22/2002, 6/5/2002, 6/8/2002, 6/18/2002, 6/21/2002, 
+6/29/2002, 7/6/2002, 7/13/2002, 7/23/2002, 7/27/2002, 8/7/2002, 
+8/13/2002, 8/16/2002, 8/21/2002, 8/29/2002, 9/6/2002, 9/14/2002, 
+9/21/2002. 
+RECALLING FIRM/MANUFACTURER
+BETCO Corporation Toledo, OH, by letters on 10/1/2001.  Firm 
+initiated recall is ongoing.
+REASON
+Unapproved dye in products.
+VOLUME OF PRODUCT IN COMMERCE
+a) Antibacterial HC - 43, 225 -gals total = all pkg. sizes and 
+configurations
+b) Antiseptic HC - 123,000 gals total - all pkg. sizes and 
+configurations.
+DISTRIBUTION
+Nationwide and Japan, British Columbia.
+_______________________
+PRODUCT
+Cheratussin AC Expectorant Cough Suppressant, Sugar Free 
+containing Guaifenesin, USP (100mg/5mL), Codeine Phosphate, USP 
+(10mg/5mL), and Alcohol, 3.5%. The product is manufactured under 
+three names: Qualitest, Vintage, and Zenith: 
+Goldline (Zenith Goldline uses the name, Guaituss AC Syrup, in 
+place of Cheratussin),  
+Recall #D-031-2.
+CODE
+Codes:            Qualitest�
+Lot Number	Suffix	        NDC Numbers
+012J9		A		0603-1075-56
+012J9		B		0603-1075-58
+012J9		C		0603-1075-56
+017K9		A		0603-1075-58
+018K9		A		0603-1075-58
+005L9		B		0603-1075-54
+005L9		C		0603-1075-56
+005L9		D		0603-1075-56
+006L9		A		0603-1075-58
+038M9		A		0603-1075-58
+039M9		A		0603-1075-56
+039M9		C		0603-1075-54
+039M9		D		0603-1075-54
+011B0		A		0603-1075-56
+012B0		A		0603-1075-60
+012B0		F		0603-1075-58
+003A0		B		0603-1075-58
+004A0		B		0603-1075-54
+004A0		C		0603-1075-56
+004A0		D		0603-1075-60
+023F0		B		0603-1075-54
+008G0		A		0603-1075-54
+008G0		B		0603-1075-60
+008G0		D		0603-1075-58
+012H0		C		0603-1075-58
+012H0		D		0603-1075-54
+012H0		E		0603-1075-58
+045J0		A		0603-1075-58
+046K0		A		0603-1075-58
+046K0		C		0603-1075-54
+046K0		D		0603-1075-56
+002L0		A		0603-1075-58
+016M0		A		0603-1075-58
+019M0		A		0603-1075-54
+019M0		C		0603-1075-58
+043M0		B		0603-1075-54
+043M0		C		0603-1075-56
+043M0		E		0603-1075-58
+024A1		D		0603-1075-58
+062A1		B		0603-1075-54
+062A1		C		0603-1075-56
+062A1		E		0603-1075-60
+062A1		F		0603-1075-56
+036B1		A		0603-1075-56
+036B1		C		0603-1075-58
+037B1		A		0603-1075-58
+059B1		A		0603-1075-58
+023F1		A		0603-1075-54
+027G1		A		0603-1075-54
+
+Vintage�
+Lot Number	Suffix	NDC Numbers
+011B0		B		0254-9064-58
+012B0		B		0254-9064-62
+012B0		E		0254-9064-58
+012B0		G		0254-9064-53
+003A0		C		0254-9064-58
+008G0		C		0254-9064-62
+008G0		E		0254-9064-58
+012H0		A		0254-9064-62
+012H0		B		0254-9064-58
+024A1		A		0254-9064-53
+024A1		C		0254-9064-58
+044D1		A		0254-9064-58
+044D1		B		0254-9064-62
+012F1		A		0254-9064-58
+
+Zenith Goldline
+Lot Number	Suffix	NDC Numbers
+018K9		B		0182-0017-40
+005L9		A		0182-0017-37
+039M9		B		0182-0017-37
+011B0		C		0182-0017-40
+012B0		C		0182-0017-37
+012B0		D		0182-0017-40
+003A0		A		0182-0017-40
+004A0		A		0182-0017-37
+023F0		A		0182-0017-37
+046K0		B		0182-0017-37
+046K0		E		0182-0017-40
+043M0		A		0182-0017-37
+043M0		D		0182-0017-40
+024A1		B		0182-0017-37
+062A1		B		0182-0017-37
+036B1		B		0182-0017-40
+059B1		B		0182-0017-40
+007E1		A		0182-0017-37
+007E1		B		0182-0017-40
+RECALLING FIRM/MANUFACTURER
+Vintage Pharmaceuticals, Inc. Huntsville, AL, by letter dated 
+October 1, 2001. Firm initiated recall is ongoing.
+REASON
+Subpotency  (Codeine Phosphate ingredient at 12 month 
+stability).
+VOLUME OF PRODUCT IN COMMERCE
+15,860,150 ounces. 
+DISTRIBUTION
+Nationwide and Puerto Rico.
+_______________________
+PRODUCT
+Premarin Tablets (conjugated estrogen tablets USP), 1.25 mg,100 
+tablets per bottle, Repackaged by National PharmPak Services, 
+Inc., Zanesville, OH, Rx only, NDC #0046-0866-81 (Wyeth-Ayerst), 
+Recall #D-032-2.
+CODE
+Lot No. 9010249B, Exp. Date 09/03.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  National Pharmpak Services, Inc., Zanesville, 
+OH, by letter on 8/14/2001.
+Manufacturer: Ayerst Laboratories, Rouses Point, NY. 
+Firm initiated recall is ongoing.
+REASON
+Dissolution failure (by manufacturer).
+VOLUME OF PRODUCT IN COMMERCE
+9851 bottles of 100 count.
+DISTRIBUTION
+Nationwide
+
+	RECALLS AND FIELD CORRECTIONS: BIOLOGICS CLASS II
+_______________________
+PRODUCT
+Corneas, Recall #B-0014-2.
+CODE
+Tissue Id. 2001-07-3073, 2001-07-3074. 
+RECALLING FIRM/MANUFACTURER
+Recalling Firm: Heartland Lions Eye Banks, Columbia, MO, by 
+telephone and letter on August 10, 2001.		
+Procuring Firm: Missouri Lions Eye Bank, Springfield, MO.  
+Firm initiated recall is complete.
+REASON
+Corneas, that were collected from a donor who tested repeatedly 
+reactive for the antibody to the Hepatitis B core antigen (anti-
+HBc), were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+2 units.
+DISTRIBUTION
+OK and KS
+__________________
+PRODUCT
+Source Plasma for Manufacturing Use Only, Recall #B-0045-2.	
+CODE
+Units 00LWIB8896, 00LWIB9820, 00LWIC1337, 00LWIC1965.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm: Community Bio-Resources, Inc., Hoover, AL, by 
+fax on July 25, 2000.	
+Manufacturer: Community Bio-Resources, Inc., Onalaska, WI. 
+Firm initiated recall is complete.
+REASON
+Blood products, collected from a donor who had not completed the 
+CJD/nvCJD increased risk questions, were distributed.  
+VOLUME OF PRODUCT IN COMMERCE
+4 units.
+DISTRIBUTION
+Austria.
+_______________________
+PRODUCT
+a) Red Blood Cells, Recall #B-0046-2;   			
+b) Platelets, Recall #B-0047-2;   				
+c) Cryoprecipitate AHF, Pooled, Recall #B-0048-2.  	
+CODE
+a) Unit 0546061;
+b) Unit 0546061;
+c) Unit 0546061.
+RECALLING FIRM/MANUFACTURER
+Hoxworth Blood Center, Cincinnati, Ohio, recalled by letter 
+dated February 28, 2001. Firm initiated recall complete.
+REASON
+Blood product, collected from a donor with a history of having 
+tested positive for hepatitis A, were distributed.   
+VOLUME OF PRODUCT IN COMMERCE
+3 units.
+DISTRIBUTION
+OH.
+_______________________
+PRODUCT
+a) Red Blood Cells, Recall #B-0053-2;	  
+b) Platelets, Recall #B-0054-2;			  
+c) Liquid Plasma, Recall #B-0055-2;		  
+d) Cryoprecipitate, Recall #B-0056-2;		 
+e) Recovered Plasma,	Recall #B-0057-2.	  
+CODE
+a) Units 42FP84273, 42FY46000, 42T10971, 42S58036, 42G36643,       
+42J35244, 42M64574;
+b) Units 42FP84273, 42S58036, 42J35244, 42M64574;
+c) Unit 42S58036;
+d) Unit 42G36643;
+e) Units 42FP84273, 42FY46000, 42T10971, 42G36643, 42J35244.
+RECALLING FIRM/MANUFACTURER
+American Red Cross Blood Services, Cleveland, Ohio, by letter 
+dated May 3, 2001. Firm initiated recall is complete.
+REASON
+Blood products, collected from a donor with a history of 
+jaundice, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+18 units.
+DISTRIBUTION
+OH and CA.
+__________________
+PRODUCT
+Red Blood Cells, Leukoreduced, Recall # B-0068-2.   
+CODE
+Unit F126584.
+RECALLING FIRM/MANUFACTURER
+Puget Sound Blood Center & Program, Seattle, WA, by telephone on 
+February 13, 2001. Firm initiated recall is complete.
+REASON
+Blood product, which may not have been irradiated, was labeled 
+as irradiated.  
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+WA.
+_______________________
+PRODUCT
+Source Plasma, Recall #B-0083-2.
+CODE
+Units  (30 units) 22428325, 19957913, 19956015, 20360887, 
+19669069, 14506215, 15346261, 14457166, 16636767, 16633810, 
+17640268, 17637268, 16314344, 16312838, 16311589, 16090507, 
+16088092, 16087088, YP86391, YP82372, YP82202, YP81909, YP81597, 
+YP80442, YP80011, YP79895, YP78111, YP75686, YP75568, YP75347.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Interstate Blood Bank, Inc., Memphis, TN, by 
+letters dated May 17, 2000.
+Manufacturer:	Interstate Blood Bank, Inc., Milwaukee, WI  
+Firm initiated recall is complete.	
+REASON
+Blood products, collected from a donor who had engaged in high 
+risk behaviors, were distributed.  
+VOLUME OF PRODUCT IN COMMERCE
+30 units.
+DISTRIBUTION
+CA and IL.
+_______________________
+PRODUCT
+Source Plasma, Recall # B-0084-2.
+CODE
+Units 23098244, 23092600.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Interstate Blood Bank, Inc., Memphis, TN, by 
+letter dated June 20, 2000.
+Manufacturer:  Interstate Blood Bank, Inc., Madison, WI.
+Firm initiated recall is complete.
+REASON
+Blood products, collected from a donor who had body piercing, 
+were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+2 units. 
+DISTRIBUTION
+CA.
+_______________________
+PRODUCT
+Source Plasma, Recall # B-0085-2.
+CODE
+99SWIA5743, 99SWIA5935, 99SWIA6175, 99SWIA6364. 
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Community Bio-Resources, Inc., Hoover, AL, by 
+facsimile on June 1, 1999.  
+Manufacturer:	Community Bio-Resources, Inc., Sheboygan, WI.  
+Firm initiated recall is complete.
+REASON
+Blood products, collected from a donor who had a Rubella 
+immunization, were distributed.  
+VOLUME OF PRODUCT IN COMMERCE
+4 units.
+DISTRIBUTION
+MN.
+_______________________
+PRODUCT
+a) Red Blood Cells, Leukoreduced, Recall #B-0087-2;	
+b) Recovered Plasma, Recall # B-0088-2.
+CODE
+a) Units 21KR09340, 21KR06567;
+b) Units 21KR09340, 21KR06567. 
+RECALLING FIRM/MANUFACTURER
+American Red Cross, Pacific Northwest Regional Blood Services, 
+Portland, OR, by letter dated December 28, 2000.  Firm initiated 
+recall is complete.  
+REASON
+Blood products, collected from a donor taking the drug 
+Methotrexate, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+4 units.
+DISTRIBUTION
+GA and OR.
+_______________________
+PRODUCT
+a) Red Blood Cells, Leukoreduced, Recall #B-0089-2;
+b) Platelets, Recall #B-0090-2.
+CODE
+a) Unit 13GV13930; 
+b) Unit 13GV13930. 
+RECALLING FIRM/MANUFACTURER
+American Red Cross Blood Services, Detroit, MI, by letter dated 
+April 19, 2001.  Firm initiated recall is complete.
+REASON
+Blood products, collected from a donor who reported having lived 
+in a country designated as endemic for malaria, were 
+distributed.
+VOLUME OF PRODUCT IN COMMERCE
+2 units.
+DISTRIBUTION
+MI.
+_______________________
+PRODUCT
+a) Red Blood Cells, Recall #B-0104-2; 
+b) Platelets Irradiated, Recall #B-0105-2;
+c) Recovered Plasma, Recall #B-0106-2.
+CODE
+a) Unit number 3037667;
+b) Unit number 3037667;
+c) Unit number 3037667.
+RECALLING FIRM/MANUFACTURER
+Community Blood Center, Dayton, OH, recall by letters dated 
+April 3 and 19, 2001.  Firm initiated recall is complete.
+REASON
+Blood products, collected from an ineligible donor due to 
+medication with the drug Proscar, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+3 units.
+DISTRIBUTION
+OH and Switzerland.
+_______________________
+PRODUCT
+a) Red Blood Cells, Recall #B-0107-2; 
+b) Fresh Frozen Plasma, Recall #B-0108-2;
+c) Recovered Plasma, Recall #B-0109-2.
+CODE
+a) Unit numbers 06FH85173 and 06FH84102;
+b) Unit number 06FH85173;
+c) Unit number 06FH84102.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  The American National Red Cross, Los Angeles, 
+CA, by letter dated June 18, 2000.    
+Manufacturer:	American Red Cross Blood Services, Southern 
+California Region, Fullerton, CA.  Firm initiated recall is 
+complete.
+REASON
+Blood products, collected from an ineligible donor due to 
+medication with the drug Methotrexate, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+4 units.
+DISTRIBUTION
+CA.
+_______________________
+PRODUCT
+a) Red Blood Cells, Recall #B-0110-2;
+b) Recovered Plasma, Recall #B-0111-2.
+CODE
+a) Unit number 1926993;
+b) Unit number 1926993.
+RECALLING FIRM/MANUFACTURER
+Central Indiana Regional Blood Center, Inc., Indianapolis, IN, 
+recall by letter dated July 19, 2001.  Firm initiated recall is 
+complete. 
+REASON
+Blood products, collected from a donor whose health history 
+screening was inadequately performed, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+2 units.
+DISTRIBUTION
+IN and Switzerland.
+_______________________
+PRODUCT
+Red Blood Cells, Recall #B-0112-2.
+CODE
+Unit number 24GK22146.
+RECALLING FIRM/MANUFACTURER
+The American National Red Cross, Louisville, KY, by telephone on 
+June 8, 2001.  Firm initiated recall is complete.
+REASON
+Blood product, labeled with the incorrect red blood cell antigen 
+typing information, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+KY.
+_______________________
+PRODUCT
+a) Red Blood Cells, Leukocytes Reduced, Recall # B-0114-2;
+b) Recovered Plasma, Recall #B-0115-2.
+CODE
+a) Unit number FM20503;
+b) Unit number FM20503.
+RECALLING FIRM/MANUFACTURER
+Healthcare Provider Services, Inc., Providence, RI, recall by 
+telephone on February 28, 2001 and by facsimile on March 1, 
+2001. Firm initiated recall is complete.
+REASON
+Blood products, that tested negative for antibodies to human 
+immunodeficiency virus, types 1 and 2 (anti-HIV-1/2), but were 
+collected from a donor that previously tested repeatedly 
+reactive for anti-HIV-2, were distributed. 
+VOLUME OF PRODUCT IN COMMERCE
+2 units.
+DISTRIBUTION
+RI and Switzerland.
+_______________________
+PRODUCT
+Red Blood Cells, Leukocytes Reduced, Recall #B-0116-2.
+CODE
+Unit number 12GH99665.
+RECALLING FIRM/MANUFACTURER
+The American National Red Cross, Carolinas Region, Charlotte, 
+NC, by telephone on July 27, 2001.  Firm initiated recall is 
+complete.
+REASON
+Blood product, that tested negative for antibodies to human 
+immunodeficiency virus, types 1 and 2 (anti-HIV-1/2), but was 
+collected from a donor that previously tested repeatedly 
+reactive for anti-HIV-1/2, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+NC.
+_______________________
+PRODUCT
+Red Blood Cells, Leukocytes Reduced, Recall # B-0117-2. 
+CODE
+Unit number 01KK67047.
+RECALLING FIRM/MANUFACTURER
+The American National Red Cross, West Henrietta, NY, by letter 
+dated May 1, 2001. Firm initiated recall is complete.
+REASON
+Blood product, collected from an unsuitable donor based on 
+travel to an area considered endemic for malaria, was 
+distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+NY.
+_______________________
+PRODUCT
+Red Blood Cells, Leukocytes Reduced, Recall # B-0118-2. 
+CODE
+Unit number 03GF64030.
+RECALLING FIRM/MANUFACTURER
+The American National Red Cross, Atlanta, GA  30324, by letter 
+dated January 26, 2001.  Firm initiated recall is complete.
+REASON
+Blood product, collected from an unsuitable donor based on 
+living in an area considered endemic for malaria, was 
+distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+GA.
+_______________________
+PRODUCT
+Recovered Plasma, Recall # B-0121-2. 		 
+CODE
+Unit 06GR47936. 
+RECALLING FIRM/MANUFACTURER
+American Red Cross, Los Angeles, CA, by fax dated March 20, 
+2000. Firm initiated recall is complete.
+REASON
+Blood product, collected from a donor with a history of having 
+tested positive for hepatitis B surface antigen (HbsAg), was 
+distributed. 	 
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+CA.
+_______________________
+PRODUCT
+Platelet, Pheresis, Leukoreduced, Recall #B-0124-2. 		
+CODE
+Unit 03K23318.
+RECALLING FIRM/MANUFACTURER
+American Red Cross , Atlanta, GA, by telephone on March 30, 2001 
+and by letter dated April 12, 2001.  Firm initiated recall is 
+complete.
+REASON
+Blood product, which was labeled as leukoreduced, but failed the 
+quality control specification for white blood cell count, was 
+distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+GA.
+__________________
+PRODUCT
+Platelet, Pheresis, Leukoreduced, Recall #B-0128-2.		
+CODE
+Unit 03F11943.
+RECALLING FIRM/MANUFACTURER
+American Red Cross, Atlanta, GA, by telephone on January 8, 2001 
+and by letter dated January 11, 2001.  Firm initiated recall is 
+complete.
+REASON
+Blood product, which was labeled as leukoreduced, but that 
+failed the quality control specification for white blood cell 
+count, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+GA.
+_______________________
+PRODUCT
+Platelet, Pheresis, Irradiated (Split unit), Recall #B-0131-2.	
+CODE
+Unit 20R12321.
+RECALLING FIRM/MANUFACTURER
+American Red Cross Blood Services, Tucson, AZ, by telephone on 
+June 21, 2001.  Firm initiated recall is complete.
+REASON
+Blood products, which were not quarantined after receiving 
+information concerning a post nation illness, were distributed.  
+VOLUME OF PRODUCT IN COMMERCE
+2 units.
+DISTRIBUTION
+AZ.
+____________________
+PRODUCT
+Cornea, Recall #B-0133-2.
+CODE
+Unit C-01-172-OD.
+RECALLING FIRM/MANUFACTURER
+Lions Eye and Tissue Bank, Inc. (lions of District 22-C), 
+Seabrook, Maryland, by telephone and by letter dated October 4, 
+2001. Firm initiated recall is complete.
+REASON
+Cornea, collected from a donor who tested repeat reactive for 
+hepatitis B surface antigen (HbsAg), was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+MD.
+__________________
+PRODUCT
+Fresh Frozen Plasma (3 Quad Packs), Recall #B-0145-2.
+CODE
+Unit 8798943.
+RECALLING FIRM/MANUFACTURER
+Community Blood Centers of South Florida, Lauderhill, Florida , 
+by letter dated November 7, 1997.  Firm initiated recall is 
+complete.
+REASON
+Blood products, collected from a donor taking the drug Proscar, 
+were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+3 units.
+DISTRIBUTION
+TX.
+__________________
+PRODUCT
+Platelets, Recall #B-0153-2.		
+CODE
+Unit 8858283.
+RECALLING FIRM/MANUFACTURER
+Community Blood Centers of South Florida, Lauderhill, Florida, 
+by telephone on February 25, 1998 and letter dated on or about 
+March 6, 1998.   Firm initiated recall is complete.
+REASON
+Blood product, collected from a donor with a history of ear 
+piercing within the past 12 months, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+NY.
+
+_______________________
+PRODUCT
+a) Red Blood Cells, Leukocytes Reduced, Recall #B-0154-2; 
+b) Red Blood Cells, Leukocytes Reduced Irradiated, 
+   Recall #B-0155-2.
+CODE
+a) Unit numbers 18FW16936 and 18FR44026;
+b) Unit number 18FX23598.
+RECALLING FIRM/MANUFACTURER
+The American National Red Cross, Lansing, MI, of the recall by 
+letters dated June 12, 2001, and July 19, 2001.  Firm initiated 
+recall is complete.
+REASON
+Blood products, collected from an unsuitable donor based on 
+living in an area considered endemic for malaria, were 
+distributed.
+VOLUME OF PRODUCT IN COMMERCE
+3 units.
+DISTRIBUTION
+MI.
+_______________________
+PRODUCT
+Platelets Pheresis, Recall #B-0156-2.
+CODE
+Unit number 28FP04506
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  The American National Red Cross, Atlanta, GA, 
+on or about July 22, 1998.
+Manufacturer:	American Red Cross Blood Services, Daytona Beach, 
+FL.  Firm initiated recall is complete.
+REASON
+Blood product, that tested positive for Cytomegalovirus (CMV), 
+but was labeled negative for CMV, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+FL.
+_______________________
+PRODUCT
+a)  Red Blood Cells, Leukocytes Reduced, Recall #B-0157-2;
+b)  Plasma, Recall #B-0158-2.
+CODE
+a) Unit number 38LC14725;
+b) Unit number 38LC14725.
+RECALLING FIRM/MANUFACTURER
+The American National Red Cross, Fort Wayne, IN, by telephone on 
+February 3, 2001, and by facsimile on February 7, 2001.  Firm 
+initiated recall is complete.
+REASON
+Blood products, that tested negative for the antibodies to human 
+immunodeficiency virus, types 1 and 2 (anti-HIV-1/2), but were 
+collected from a donor that previously tested repeatedly 
+reactive for anti-HIV-1/2, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+2 units.
+DISTRIBUTION
+IN and NY.
+_______________________
+PRODUCT
+Red Blood Cells, Leukocytes Reduced Irradiated, 
+Recall #B-0160-2.
+CODE
+Unit number 10623-0447.
+RECALLING FIRM/MANUFACTURER
+Blood Systems, Inc., Scottsdale, AZ, by letter dated August 13, 
+2001. Firm initiated recall is complete.
+REASON
+Blood product, collected from an ineligible donor due to a 
+medical history of polycythemia, was distributed. 
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+AZ.
+_______________________
+PRODUCT
+Red Blood Cells, Leukocytes Reduced, Recall #B-0161-2.
+CODE
+18FJ43400.
+RECALLING FIRM/MANUFACTURER
+The American National Red Cross, Lansing, MI, by telephone on 
+June 11, 2001.  Firm initiated recall is complete.
+REASON
+Blood product, that was incorrectly leukoreduced, was 
+distributed.  
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+MI.
+_______________________
+PRODUCT
+a)  Red Blood Cells, Leukoreduced , Recall #B-0162-2;
+b)  Platelets, Recall #B-0163-2. 
+CODE
+Unit 01W81928;
+Unit 01W81928.
+RECALLING FIRM/MANUFACTURER
+American Red Cross Blood Services, West Henrietta, NY, by 
+telephone on October 12 and 13, 2000, and by letters dated 
+October 23, 2000.  Firm initiated recall is complete.
+REASON
+Blood products, which were mislabeled as CMV antibody negative, 
+were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+2 units.
+DISTRIBUTION
+NY.
+_______________________
+PRODUCT
+a) Red Blood Cells, Recall #B-0173-2;
+b) Red Blood Cells, Leukoreduced, Recall #B-0174-2; 
+c) Platelets, Recall #B-0175-2; 
+d) Recovered Plasma , Recall #B-0176-2.
+CODE
+a) Units L18895, L18879;
+b) Unit L25171;
+c) Unit L18879;
+d) Unit L18895.	
+RECALLING FIRM/MANUFACTURER
+Central Illinois Community Blood Bank, Springfield, IL, by 
+letters on May 21, 2001 or June 5, 2001.
+REASON
+Blood products, collected from donors whose donor history was 
+incomplete, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+5 units.
+DISTRIBUTION
+IL and Switzerland.
+_____________________
+PRODUCT
+Source Plasma, Recall #B-0180-2.
+CODE
+Units (20 units)G-86935-118, G-86833-118, G-86182-118, G-85518-
+118, G-85325-118, G-85129-118, G-84955-118, N-22054-118, N-
+22029-118, G-87732-118, G-87484-118, G-87343-118, G-88101-118, 
+G-87895-118, G-86555-118, G-86455-118, G-89151-118, G-89008-118, 
+G-88430-118, G-88289-118. 
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Alpha Therapeutic Corporation, Los Angeles, CA, 
+by facsimile on January 24, 2001.	
+Manufacturer:	Alpha Therapeutic Corporation, Louisville, KY.  
+Firm initiated recall is complete.
+REASON
+Blood products, which tested negative for all required viral 
+marker testes, but were collected from a donor who had been 
+deferred due to an unknown reactive lab result, were 
+distributed. 
+VOLUME OF PRODUCT IN COMMERCE
+20 units.
+DISTRIBUTION
+CA, NC, Germany and Spain.
+_______________________
+PRODUCT
+Source Plasma, Recall #B-0182-2.
+CODE
+G-56850-178, G-56733-178, G-56403-178, 
+G-56104-178,  G-55854-178, G-55505-178, G-55345-178, G-54976-
+178, 
+G-54853-178, G-54463-178, G-54323-178, G-53970-178, G-53805-178, 
+G-53434-178, G-53263-178, G-52951-178, G-52755-178, G-52412-178, 
+G-52231-178, G-51900-178, G-51734-178, G-51375-178, G-51202-178,
+G-50844-178, G-50668-178, G-50344-178, G-50159-178, G-49852-178, 
+G-49511-178, G-49315-178, G-47141-178, G-46792-178, G-46626-178, 
+G-46244-178, G-46077-178, G-45717-178, G-45570-178, G-45262-178, 
+G-45043-178, G-44664-178, G-44489-178, G-44131-178, G-43941-178, 
+G-43578-178, G-43403-178, G-43055-178, G-42940-178, G-42552-178, 
+G-42376-178, G-42003-178, G-41813-178, G-41406-178, G-41218-178, 
+G-40592-178, G-40426-178, G-40017-178, G-39883-178, G-36018-178, 
+N-08077-178, N-08046-178.
+RECALLING FIRM/MANUFACTURER
+Seramed Bio Center/Melrose Park, Melrose Park, IL , by facsimile 
+on February 12, 2001.  Firm initiated recall is complete.
+REASON
+Blood products, which tested negative for all required tests, 
+but were collected from a donor who had previously been 
+deferred, were distributed. 
+VOLUME OF PRODUCT IN COMMERCE
+60 units.
+DISTRIBUTION
+CA.
+_______________________
+PRODUCT
+Red Blood Cells, Recall #B-0189-2.
+CODE
+Unit 13FN62230.
+RECALLING FIRM/MANUFACTURER
+American Red Cross Blood Services, Detroit, MI, by letter dated 
+January 25, 2001.  Firm initiated recall is complete.
+REASON
+Blood product, collected from a donor taking the drug Arava, was 
+distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+MI.
+_______________________
+PRODUCT
+Source Plasma, Recall #B-0202-2. 
+CODE
+Units   449004, 449223, 449472.
+RECALLING FIRM/MANUFACTURER
+Centeon (Aventis) Bio-Services, Inc., Little Rock, AR, by 
+facsimile on February 21, 2000.  Firm initiated recall is 
+complete.
+REASON
+Blood products, collected from a donor with a history of having 
+tested positive for Hepatitis B, were distributed.   
+VOLUME OF PRODUCT IN COMMERCE
+3 units.
+DISTRIBUTION
+Germany.
+_______________________
+PRODUCT
+Red Blood Cells, Recall #B-0218-2. 
+CODE
+Unit number S84027.
+RECALLING FIRM/MANUFACTURER
+Blood Bank of San Bernadino and Riverside Counties, San 
+Bernadino, CA, by letter dated March 21, 2001.  Firm initiated 
+recall is complete.
+REASON
+Blood product, collected from an unsuitable donor based on 
+travel to an area considered endemic for malaria, was 
+distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+CA.
+____________________
+PRODUCT
+Red Blood Cells, Recall #B-0219-2.
+CODE
+Unit Y62482.
+RECALLING FIRM/MANUFACTURER
+Blood Bank of San Bernadino and Riverside Counties, San 
+Bernadino, CA, by letter dated February 27, 2001.  Firm 
+initiated recall is complete.
+REASON
+Blood product, collected from an unsuitable donor based on 
+travel to an area considered endemic for malaria, was 
+distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+CA.
+___________________
+PRODUCT
+a) Red Blood Cells, Recall #B-0220-2; 
+b) Red Blood Cells, Leukocytes Reduced, Recall #B-0221-2. 
+CODE
+a) Unit number S94694;
+b) Unit number S91538.
+RECALLING FIRM/MANUFACTURER
+Blood Bank of San Bernadino and Riverside Counties, San 
+Bernadino, CA, by letters dated May 9 and 15, 2001.  Firm 
+initiated recall is complete.
+REASON
+Blood products, collected from an unsuitable donor based on 
+travel to an area considered endemic for malaria, were 
+distributed.
+VOLUME OF PRODUCT IN COMMERCE
+2 units.
+DISTRIBUTION
+CA.
+________________
+PRODUCT
+Platelets Pheresis, Leukocytes Reduced , Recall #B-0222-2.
+CODE
+Unit numbers 2302873, 2303388, and 2303510 (distributed as two 
+split units).
+RECALLING FIRM/MANUFACTURER
+LifeShare, Inc., Elyria, OH, by letter dated August 8, 2001.  
+Firm initiated recall is complete.
+REASON
+Blood products, collected from an unsuitable donor based on 
+travel to an area considered endemic for malaria, were 
+distributed.
+VOLUME OF PRODUCT IN COMMERCE
+4 units.
+DISTRIBUTION
+OH.
+__________________
+PRODUCT
+Cryoprecipitated AHF, Recall #B-0223-2.
+CODE
+Unit numbers 1784941, 1750496, 1789656, 1785016, 1753225, 
+1786413, 1757077, 1791911, 1784507, and 1795364.
+RECALLING FIRM/MANUFACTURER
+Central Kentucky Blood Center, Inc., Lexington, KY, by letter 
+dated June 20, 2001.  Firm initiated recall is complete.
+REASON
+Blood products, which were thawed and labeled with the incorrect 
+expiration date, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+10 units.
+DISTRIBUTION
+KY.
+_______________________
+PRODUCT
+Red Blood Cells, Leukocytes Reduced, Recall #B-0224-2.
+CODE
+Unit number 084FT33620.
+RECALLING FIRM/MANUFACTURER
+The American National Red Cross, Oakland, CA, recall by 
+telephone on December 1, 2000, and by letter dated December 13, 
+2000.  Firm initiated recall is complete.
+REASON
+Blood product, labeled with the incorrect expiration date, was 
+distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+CA.
+_______________________
+PRODUCT
+Red Blood Cells, Leukocytes, Recall #B-0248-2.
+CODE
+Reduced, Units 10623-7690 and 10633-6050.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Blood Systems, Inc., Scottsdale, AZ, by letter 
+on February 20, 2001.
+Manufacturer:	Blood Systems, Inc., Scottsdale, AZ.
+Firm initiated recall is complete.
+REASON
+Blood products, collected from an unsuitable donor based on 
+travel to an area considered endemic for malaria, were 
+distributed.
+VOLUME OF PRODUCT IN COMMERCE
+2 units.
+DISTRIBUTION
+AZ.
+_______________________
+PRODUCT
+Red Blood Cells, Leukocytes Reduced, Recall #B-0249-2. 
+CODE
+Unit number 8338045.
+RECALLING FIRM/MANUFACTURER
+South Florida Blood Banks, Inc., West Palm Beach, FL, by 
+telephone on September 4, 2001.
+REASON
+Blood product, collected from an ineligible donor due to 
+medication with the drug Proscar, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+FL.
+_______________________
+PRODUCT
+Platelet Pheresis, Recall #B-0252-2.
+CODE
+Unit 6651906 (part 1).
+RECALLING FIRM/MANUFACTURER
+Suncoast Communities Blood Bank, Sarasota, FL, by telephone on 
+September 10, 2000, and by letter dated October 2, 2000.  Firm 
+initiated recall is complete.
+REASON
+Blood product, which did not meet acceptable platelet yields, 
+was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+FL.
+_______________________
+PRODUCT
+Red Blood Cells, Recall #B-0254-2.
+CODE
+Unit FM37567.
+RECALLING FIRM/MANUFACTURER
+Healthcare Provider Services, Inc., Providence, RI, by letter 
+dated June 26, 2001.  Firm initiated recall is complete.
+REASON
+Blood product, which was collected from a donor whose hemoglobin 
+result was not documented, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+RI.
+_______________________
+PRODUCT
+Red Blood Cells, Recall #B-0255-2. 
+CODE
+Unit FJ83066.
+RECALLING FIRM/MANUFACTURER
+Healthcare Provider Services, Inc., Providence, RI, by letter 
+dated July 29, 2001.
+REASON
+Blood product, which was collected from a donor whose hemoglobin 
+result was not documented, was distributed.  Firm initiated 
+recall is complete.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+RI.
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS CLASS III
+_______________________
+PRODUCT
+a) Red Blood Cells, Recall # B-0049-2;			
+b) Red Blood Cells, Leukoreduced, #B-0050-2	;
+c) Fresh Frozen Plasma, #B-0051-2;		
+d) Recovered Plasma, #B-0052-2. 			
+CODE
+a) Units L22326, L21241;
+b) Units L22735, L28611;
+c) Units L21241, L22735;
+d) Units L28611, L22326.
+RECALLING FIRM/MANUFACTURER
+Central Illinois Community Blood Bank, Springfield, IL, by 
+letter dated May 21, 2001 or July 11, 2001.  Firm initiated 
+recall is complete.
+REASON
+Blood products, collected from a donor whose arm inspection was 
+not documented, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+8 units.
+DISTRIBUTION
+IL and Switzerland.
+_______________________
+PRODUCT
+Platelets Pheresis, Recall # B-0060-2. 
+CODE
+Unit numbers 8837250, 8837252, 8837247.
+RECALLING FIRM/MANUFACTURER
+Community Blood Centers of South Florida, Inc., Lauderhill, FL, 
+by letter on or about April 10, 1998.  Firm initiated recall is 
+complete.
+REASON
+Unlicensed blood PRODUCTs were distributed 
+interstate.
+VOLUME OF PRODUCT IN COMMERCE
+3 units.
+DISTRIBUTION
+TN.
+_______________________
+PRODUCT
+Source Plasma, Recall #B-0086-2.   
+CODE
+99SWIA6837, 99SWIA7074, 99SWIA7302. 
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:	Community Bio-Resources, Inc., 	Hoover, 
+AL  35244, by facsimile on June 1, 1999.
+Manufacturer:	Community Bio-Resources, Inc.
+Sheboygan, WI.  
+Firm initiated recall is complete.
+REASON
+Blood products, collected from a donor who had a Rubella 
+immunization, were distributed.  
+VOLUME OF PRODUCT IN COMMERCE
+3 units.
+DISTRIBUTION
+MN.
+_______________________
+PRODUCT
+Red Blood Cells, Leukoreduced, Recall #B-0095-2.  
+CODE
+Unit 3038862.
+RECALLING FIRM/MANUFACTURER
+Community Blood Center, Inc., Appleton, WI, by telephone on 
+February 2, 2001, and by letter dated February 2, 2001.  Firm 
+initiated recall is complete.
+REASON
+Blood product, leukoreduced by filtration greater than five days 
+past the time of collection, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+WI.
+_______________________
+PRODUCT
+Red Blood Cells, Leukocytes Reduced Irradiated, 
+Recall # B-0113-2.
+CODE
+Unit numbers 50C14091 and 50C14281.
+RECALLING FIRM/MANUFACTURER
+The American National Red Cross, Toledo, OH, by telephone on 
+June 6, 2001, and by letter dated June 7, 2001.  Firm initiated 
+recall is complete.
+REASON
+Blood products, labeled with the incorrect expiration date, were 
+distributed.
+VOLUME OF PRODUCT IN COMMERCE
+2 units.
+DISTRIBUTION
+OH.
+_______________________
+PRODUCT
+Red Blood Cells, Leukoreduced, Irradiated, Recall #B-0130-2.
+CODE
+Units 5343971, 7520291.
+RECALLING FIRM/MANUFACTURER
+Carter BloodCare, Bedford, Texas by letter dated June 4, 2001.   
+Firm initiated recall is complete.
+REASON
+Blood products, which were out of controlled storage for more 
+than thirty minutes, were distributed. 
+VOLUME OF PRODUCT IN COMMERCE
+2 units.
+DISTRIBUTION
+TX.
+_______________________
+PRODUCT
+Red Blood Cells, Leukoreduced, Irradiated, Recall #B-0132-2.	
+CODE
+Units 50LH21552, 50LH21554.
+RECALLING FIRM/MANUFACTURER
+American Red Cross Blood Services, Toledo, OH, by telephone on 
+June 11, and by letter dated June 14, 2001. Firm initiated 
+recall is complete.
+REASON
+Blood products, which were labeled with the incorrect expiration 
+date, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+2 units.
+DISTRIBUTION
+OH.
+_______________________
+PRODUCT
+Fresh Frozen Plasma, Recall #B-0146-2.	
+CODE
+Unit 38FE72836.
+RECALLING FIRM/MANUFACTURER
+American Red Cross Blood Services, Fort Wayne, IN 46825, by 
+telephone on July 17, 2001 and by letter dated July 18, 2001.  
+Firm initiated recall is complete.
+REASON
+Blood product, collected from a donor whose arm inspection was 
+not
+documented, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+IN.
+_______________________
+PRODUCT
+Red Blood Cells, Leukocytes Reduced Washed, Recall # B-0159-2. 
+CODE
+03LR61195, 03GR54968, 03FJ63453, 03R14614, 03G10178, 03FQ16784, 
+03GK56226, 03L17515, 03S07957, 03FJ63332, 03FR47438, 03GJ67133, 
+03LL13888, 03GL52824, 03FQ16679, 03GH48291, 03V17818, 03GL54004, 
+03FR46726, 03GF64091, and 03FJ62453.
+RECALLING FIRM/MANUFACTURER
+The American National Red Cross, Atlanta, GA, recall by letters 
+dated November 27, 2000, and December 27, 2000.
+REASON
+Blood products, that were below the minimum specification for 
+red blood cell recovery, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+21 units.
+DISTRIBUTION
+GA.
+_______________________
+PRODUCT
+a) Red Blood Cells, Recall #B-0203-2;  
+b) Platelets, Recall #B-0204-2;
+c) Recovered Plasma, Recall #B-0205-2. 
+CODE
+a) Units 42FT85123, 42G21060; 
+b) Unit 42T85123; 
+c) Units 42FT85123, 42G21060.
+RECALLING FIRM/MANUFACTURER
+American Red Cross Blood Services, Cleveland, OH, by letters 
+dated July 13, 2001.  Firm initiated recall is complete.
+REASON
+Blood products, collected from a donor with a history of 
+Idiopathic Thrombocytopenic Purpura, were distributed.  
+VOLUME OF PRODUCT IN COMMERCE
+5 units.
+DISTRIBUTION
+OH and MI.
+_______________________
+PRODUCT
+a) Red Blood Cells, Leukoreduced, Recall # B-0207-2; 
+b) Cryoprecipitated AHF, Recall #B-0208-2;
+c) Recovered Plasma, Recall #B-0209-2.  
+CODE
+a) Unit 10626-5833;
+b) Unit 10626-5833;
+c) Unit 10626-5833.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:	Blood Systems, Inc., Scottsdale, AZ, by 
+letters      on December 6, 2000.   
+Manufacturer:	United Blood Services, Scottsdale, AZ  85252
+Firm initiated recall is complete.
+REASON
+Blood products, collected from a donor who received a bone graft 
+within a year of donation, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+3 units.
+DISTRIBUTION
+AZ.
+_______________________
+PRODUCT
+Platelets Pheresis, Recall #B-0217-2. 
+CODE
+Unit number 8894571.
+RECALLING FIRM/MANUFACTURER
+Community Blood Centers of South Florida, Inc., Lauderhill, FL, 
+recall by telephone on July 13, 1998, and by letter on or about 
+July 16, 1998.  Firm initiated recall is complete.
+REASON
+Unlicensed blood PRODUCT was distributed 
+interstate.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+NY.
+_______________________
+PRODUCT
+Red Blood Cells, Recall #B-0250-2. 
+CODE
+Unit 04Q071515.
+RECALLING FIRM/MANUFACTURER
+LifeSouth Community Blood Center, Gainesville, FL, by facsimile 
+on July 11, 2000.  Firm initiated recall is complete.
+REASON
+Blood product, which was collected from a donor who had received 
+a tissue transplant (surgery) within one year of donation, was 
+distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+FL.
+_______________________
+PRODUCT
+Source Plasma, Recall #B-0251-2.
+CODE
+Units 15796929, 15795687, 15793966, 15793058, 15791238, 
+14560217, 14558429, 14557422, 1455756, 14554513, 14552557, 
+14551802, 15469496, and 15468758.
+RECALLING FIRM/MANUFACTURER
+Sera-Tec Biologicals, North Brunswick, NJ, by letter dated July 
+19, 1999.  Firm initiated recall is complete.
+REASON
+Blood products, which were collected from a donor who was taking 
+the medication Propecia, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+14 units.
+DISTRIBUTION
+CA.
+_______________________
+PRODUCT
+Source Plasma, Recall #B-0253-2.
+CODE
+Unit YA-114266.
+RECALLING FIRM/MANUFACTURER
+Pyramid Biological Corporation, Van Nuys, CA, by letters dated 
+April 10 and May 18, 2001. Firm initiated recall is complete.
+REASON
+Blood product, which was collected from a donor who was not 
+properly screened, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+NJ
+
+	RECALLS AND FIELD CORRECTIONS: DEVICES CLASS II
+
+**CORRECTION**  Z-0217-2 listed in the November 7, 2001 
+Enforcement Report, as a Class II Recall, should be listed as a Class III 
+Recall.
+_______________________
+PRODUCT
+Stryker Model No. 2500 Go Bed, Recall #Z-0266-2.
+CODE
+Serial Nos. C01001 through C03551.
+RECALLING FIRM/MANUFACTURER
+Stryker Corp., Kalamazoo, MI, by letters dated 8/23/01. 
+REASON
+Side rail does not always lock in the highest position and it may drop 
+suddenly causing injury or falls to patients or caregivers. 
+VOLUME OF PRODUCT IN COMMERCE
+201 beds
+DISTRIBUTION
+Nationwide
+
+RECALLS AND FIELD CORRECTIONS: VETERINARY MEDICINE - CLASS II
+_______________________
+PRODUCT
+Red Cell, Iron Rich Homogenized, Yucca Flavored Vitamin-Iron-Mineral 
+Supplement for all classes of horses.  For Animal Use Only.  NET 
+CONTENTS: 1 GALLON.  HORSE HEALTH Products, A Division 
+of Farnam Companies, Inc. PO Box 34820, Phoenix AZ 85067-4820,
+Recall # V-002-2.
+Redglo, EQUICARE (brand), Homogenized Energy Building Liquid Multi-
+Vitamin Supplement for Horses. EQUICARE PRODUCTS, A 
+Division of Farnam Companies, Inc., PO Box 34820, Phoenix, AZ, 
+Recall # V-003-2.
+CODE
+All codes.
+RECALLING FIRM/MANUFACTURER
+Farnam Companies, Inc., Phoenix, Arizona, sent a recall letter dated 
+March 8, 2001, to all distributors via regular first class mail.  Firm 
+initiated recall is ongoing.
+REASON
+The products contain protein material derived from 
+bovine mammalian tissues; however, the bags are not labeled with the 
+required BSE cautionary statement.
+VOLUME OF PRODUCT IN COMMERCE
+14,000 to 15,000 gallons.
+DISTRIBUTION
+Nationwide.
+
+RECALLS AND FIELD CORRECTIONS: VETERINARY MEDICINE - CLASS III
+_______________________
+PRODUCT
+Stemz brand Horse Liniment in 12 oz. amber glass bottles and l-gallon 
+amber glass bottles, Recall # V-004-2.
+CODE
+Lot 1075N061, manufactured on 3/16/2001, exp. 3/16/2002.
+RECALLING FIRM/MANUFACTURER
+Jogue Inc., dba Northville Laboratory, Northville, Michigan, by telephone 
+on August 9, 2001.  Firm initiated recall  is complete. 
+REASON
+Manufacturing, testing, and release of product was not 
+in conformance with CGMP's.
+VOLUME OF PRODUCT IN COMMERCE
+41.5 gallons (187 x 12 oz. and 24 x 1-gallon).
+DISTRIBUTION
+IN, MI, OH.
+
+END OF ENFORCEMENT REPORT FOR NOVEMBER 14, 2001
+
+####
+
+
+
+
+
+FDA News Page   |   FDA Home Page 
+                                                          
+  
+
+Office of Public Affairs
+Hypertext uploaded by tg 2001-NOV-14.

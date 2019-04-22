@@ -1,0 +1,1271 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Feb
+		  AUG
+		  Mar
+		
+		
+		
+		  
+		  05
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      30 captures
+	      21 Nov 2001 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dm
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA 
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration, Department of Health and Human Services. 
+It contains information on actions  taken in connection with agency
+Regulatory activities.
+
+
+October 3, 2001                                        01-39
+
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS I
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-582-1, Fly Horse brand Dehydrated Lily Flowers (Fleur de lis Sechee) 
+packed in flexible plastic bags, net wt. 6 oz. (170 g). 
+ING: Dehydrated lily flowers.  Product of China.  
+Firm on label - Packed For: Mandarin Enterprises, Room 1004-5A, 10/F., 
+Wing Tuck Commercial Centre, 177-183 Wing Lok Street, West, Hong Kong. 
+Codes: barcode # 4 891193 120363 and no other coding.
+REASON:
+The New York State Department of Agriculture and Markets determined that 
+the product contained undeclared sulfites.
+MANUFACTURER/RECALLING FIRM: 
+UNKNOWN
+RECALLED BY:
+YBL World Wide Trading Inc. Brooklyn, NY, by letter on 5/4/01. 
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+NY and MD
+QUANTITY:
+367 cases (100 - 6 oz. packages per case) were distributed - 282 cases 
+were sold to local restaurants for cooking
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-583-1, Badia Brand Paprika, 2 0z plastic bottles, with a 
+red/green/white /black label printed in part:  "**Badia Spices, Inc., 
+Miami, FL 33172-6497***" The lot number and date is printed on top of the 
+bottle cap as follows: "Lot: 120400 EXP 12/005" or "EXP 01/2006 LOT 
+120400". Initially a market withdrawal, the firm action is now a recall 
+because of a positive FDA sample of bulk product used to repack various 
+sizes (sample # 120400 collected on 2/7/01). This includes 1 oz. 
+cellophane packs and 16 oz bottles, one gallon (4.5 lb) and 20 lb plastic 
+tubs as well as 55 lb. bags (bulk bags as recd. from Spanish supplier.  
+Codes: All 2 oz. Paprika plastic bottles with the code "120400" with 
+expiration dates of 12/2005 and 01/2006, all 1 oz. cello packs with the 
+expiration date of "02-03", all 16 oz bottles with the lot # "120400".  
+The 4.5 lb.  or gallon and 20 lb tubs do not have any coding or 
+expiration dates that can be used for identification,  nor does the bulk 
+bags (55 lb.)sold to several customers.  The 4.5 lb or gallon, 20 lb. 
+tubs and 55 lb. bags are sold only to restaurant and food service firms 
+(it is possible some of the gallons were sold to consumers since some 
+were in "retail" stores that also sell to institutions but may not have a 
+record of their location).  The firm claims all of these product sizes 
+were brought back since there is no coding.
+REASON:
+The product was contaminated with Salmonella.
+MANUFACTURER/RECALLING FIRM: 
+Badia Spices, Inc Miami, FL
+RECALLED BY:
+Manufacturer, by recall memo and distributed it to their route sales 
+people directing them to collect all paprika products found in stores.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+FL, MD, GA, TX, LA, NY, MA, PR, and Venzuela, West Indies, Peru, Costa 
+Rica, Bahamas
+QUANTITY:
+68,557 units were distributed		
+______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-584-1, Dole Classic Cole Slaw; 1 pound bag, Codes:Best if used by date: 
+"02 05 01"
+REASON:
+The New York State Department of Agriculture and Markets determined that 
+the product was contaminated with Salmonella typhimurium.
+MANUFACTURER/RECALLING FIRM: 
+Dole Fresh Vegetables, Inc. Yuma, AZ
+RECALLED BY:
+Dole Fresh Vegetables, Inc. Westlake Village, CA, issued two press 
+releases on 2/2/2001, one tailored for and at the request of New York 
+State Department of Agriculture, and another covering the full 
+distribution spectrum.  Follow-up telephone and fax notice was made to 
+consignees for food service customers and later for retail customers.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Nationwide
+QUANTITY:
+65,466 one lb retail bags
+________________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-585-1, Deli Express Deli Style Stacker Sandwich, Net Wt. 4.6 Oz., 
+Codes: Lot 410811
+According to the firm's distribution system, a "sell by" date is placed 
+on individual (single-sandwich) packages of the product using a stick-on 
+label "gun" when the packages are distributed to convenience stores.  At 
+the time the product is delivered to a convenience store, it is placed in 
+a refrigerated display.  The sell-by date placed on individual packages 
+is thirty days after the product is removed from frozen storage and 
+placed in refrigerated storage at the store. As a result, there could be 
+various "sell by" dates on the recalled sandwiches.
+REASON:
+The Department of Defense determined that the product was contaminated 
+with Listeria monocytogenes.
+MANUFACTURER/RECALLING FIRM: 
+E.A. Sween Company Eden Prairie, MN
+RECALLED BY:
+"Account Managers" (delivery people) and their superiors (district 
+managers and regional managers) in the chain of command were 
+notified by voice mail on 05/31/2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Nationwide  
+QUANTITY:
+13,860 sandwiches		
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-595-1, Kippered Salmon Salad in 5 lb bulk containers 
+F-596-1 Vacuum Packed Cold Smoked Sable sold as 3-4 lb steaks/filet.
+Codes: Salmon product: batch #1304 use by 7/25/01
+Sablefish product: code 157 batch #21265
+REASON:
+The products were contaminated with Listeria monocytogenes.
+MANUFACTURER/RECALLING FIRM 
+Homarus/Marshall Smoked Fish Inc Bensalem, PA 
+RECALLED BY:
+The recalling firm contacted the consignees via telephone on 
+7/19/01 to inform them of the problem and request the return of 
+the product.  A recall letter was sent via fax as a follow up 
+to the phone calls.  
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+NY, NJ and PA
+QUANTITY:
+80 lbs (salmon salad) and 251 lbs (sablefish)	
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-598-1 Yummy brand Sesame Cakes
+F-599-1 Yummy brand Almond Cakes 
+Products are packaged in 9.2 oz. (260 grams)
+12-piece rice cakes plastic wrapped, inside a plastic container
+50 plastic containers per case
+Codes: All codes.
+REASON:
+Products contain undeclared peanuts.
+MANUFACTURER/RECALLING FIRM: 
+Dodwell Corporation dba Yummy Foods Co. San Francisco, CA 
+RECALLED BY:
+The recalling firm, via letters dated Tuesday, April 2, 2001, 
+and by press release, on April 2, 2001
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+CA
+QUANTITY:
+48 cases
+________________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-594-1, McDonald�s Candies Home Made Salt Water Taffy, 
+5 oz. plastic bags, packed by McDonald�s Candies, Muskegon, 
+Michigan 49442.  The label on the bag declares 6 � oz., however 
+the firm had hand-written 5 oz. over the 6 � oz. prior to 
+distribution.  The product was not coded.
+REASON:
+The product contained undeclared egg albumin, evaporated milk, 
+and the FD&C colors Yellow No. 5, Yellow No. 6, Red No. 40, 
+Red No. 3, and Blue No. 1.
+MANUFACTURER/RECALLING FIRM:
+McDonald's Candies, Muskegon, MI
+RECALLED BY:
+Recalling firm, by visit 5/3/01 and press release 5/5/01. 
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Western Michigan
+QUANTITY:
+24 / 5 oz. retail packages.
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-597-1, Tuna Sandwiches sold in vending machines bearing an 
+expiration date of on or before 06/21/01.
+REASON:
+The product contained undeclared egg yolks.
+MANUFACTURER/RECALLING FIRM:
+All Star Services Inc., Port Huron, MI
+RECALLED BY:
+Recalling firm, by memo 6/19/01. 
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Michigan
+QUANTITY:
+435 sandwiches
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-600-1, Publix Premium Coffee Almond Fudge Light Ice Cream, Half Gallon 
+Plastic size Carton,
+Codes: Sell by date and code:  "15 NOV 01  12-444"
+REASON:
+The product contained undeclared peanuts.
+MANUFACTURER/RECALLING FIRM:
+Publix Supermarkets, Dairy Division Lakeland, FL 
+RECALLED BY:
+Firm sent Recall Notification e-mails to involved Publix Warehouses and 
+retail stores on 7/12/01 and issued a press release 7/13/01.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+FL, GA, SC and AL
+QUANTITY:
+216 implicated cartons.
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-601-1, Meatless chicken pattie labeled in part: "MEATLESS CHIK'N GRILL 
+SAVORY HERB*** Gardenburger, Inc. 1411 SW Morrison Street, Suite 400 
+Portland, Oregon***4 GRILLED SOY FILLETS NET WT 10OZ (284G)
+***KEEP FROZEN***"
+Codes:  All codes on the market at the time the recall was initiated.  
+This includes cartons embossed with the following codes: 0297, 0298, 
+0306, 0307, 0308, 0311, 0325, 0326, 0341, 0342, 0343, 0353, 1004, 1005, 
+1008, 1009, 1010, 1026, 1027, 1032, 1033, 1043, 1044, 1045, 1067, 1068, 
+1073, 1074, 1075, 1106, 1107, 1136, 1137, 1138, 1144, 1145, 1171, 1172, 
+1197, 1198
+REASON:
+Product contained undeclared sulfites.
+MANUFACTURER/RECALLING FIRM:
+Gardenburger, Inc. Clearfield, UT 
+RECALLED BY:
+Gardenburger, Inc. Portland, OR, issued press release on 8/7/01 and 
+notified accounts via FAX and letter. A notice was issued on the 
+Gardenburger, Inc. website.   
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide
+QUANTITY:
+1,059,768 cartons		
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-602-1, Friendly's Candy Shoppe Sundae Featuring M & M's Chocolate 
+Candies, Half-Gallon [1.89L]
+Product effected in this recall does not declare "Egg whites" in the 
+ingredient statement.
+All product with an expiration date prior to March 4, 2002.
+The firm conducted a "Market Withdrawal" on :
+Friendly�s Candy Shoppe Sundae Ice Cream featuring Heath;
+Friendly�s Candy Shoppe Sundae Ice Cream featuring Snickers Bars
+Codes: Friendly's Candy Shoppe Sundae Featuring M & M's Chocolate 
+Candies, Half-Gallon containers  with dates code prior to March 4, 2002.
+REASON:
+Product contains undeclared egg whites.
+MANUFACTURER/RECALLING FIRM:
+FRIENDLY ICE CREAM CORPORATION WILBRAHAM, MA
+RECALLED BY:
+Recalling firm, by press release on 5/24/01 followed by written 
+notification to consignees on 5/25/01.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Nationwide
+QUANTITY:
+84, 217 cases (6-1/2 gallon containers)		
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-603-1/F-604-1
+Brand Name:  PROTEIN CHEF
+Products are labeled as: (1) "Chicken" (F-603-1) 
+and (2) "Tuna" (F-604-1)
+NOTE:  There is no chicken or tuna in these products.
+Sold frozen, in 10 lb. boxes.  Each box contains 2/5-lb. plastic pouches.
+Responsible firm on the label:  Scott Adams Foods, 288 Newton 
+Sparta Road, Newton, NJ  07860
+Codes: All lots are subject to recall.
+The firm uses a 5 digit code.  First 2 digits = year; next 3 digits = 
+julian date.  (i.e. 01193 = 7/12/01 production date)
+Products shipped with lot number 01236 or higher, represent new 
+production. 
+REASON:
+Undeclared Sulfites
+MANUFACTURER/RECALLING FIRM:
+EFCO Products Inc. Poughkeepsie, NY
+RECALLED BY:
+Direct accounts were notified via telephone call on 8/20/01 followed by 
+recall letters sent via fax and Certified Mail on 8/21/01.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+NC, NJ, NY, OK, PA and TN.
+QUANTITY:
+Chicken: 310/10-lb. cases/Tuna:  79/10-lb. cases	
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-606-1, Salmon spread in round, rigid, plastic container with label 
+affixed to lid reading in part "Jackson's Quality Plus ** Smoked Wild 
+Salmon Spread ** Ingredients *** Net Wt. 7 oz. *** Packed by Quality Plus 
+Products, Inc., Bellingham, WA ***" Codes:SEP 10 2001 and SEP 30 2001 The 
+firm will subtract approximately 7 days from the pull date of the cream 
+cheese used in the product.
+REASON:
+PRODUCT CONTAINS UNDECLARED EGG YOLKS.
+MANUFACTURER/RECALLING FIRM:
+Quality Plus Products, Inc. Bellingham, WA
+RECALLED BY:
+On 8/16&17/01 the firm telephoned each consignee and requested product be 
+pulled from sale and held for relabeling. The firm has created an 
+additional ingredient label to be affixed to current label.  
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Northwestern part of WA
+QUANTITY:
+Unknown
+
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS II
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE: 
+A) F-565-1 Sweet Maid brand Crystal Lollypops in plastic bags, net wt. 
+1.5 oz.  Packed and Distributed By: Sweetmaid Inc., Detroit, MI 48228.
+
+B) F-566-1 Sweet Maid brand Candy Rolls in plastic bags, net wt. 1.75 oz.  
+Packed and Distributed By: Sweetmaid Inc., Detroit, MI 48228.
+
+C) F-567-1 Sweet Maid brand Starlight Mints in plastic bags, net wt. 2.00 
+oz.  Packed and Distributed By: Sweetmaid Inc., Detroit, MI 48228.  Only 
+the packages containing multiple color combination mints are affected by this 
+recall (e.g. green and white, purple and white, etc.).  The product 
+packaged only with red and white combination mints is not affected. 
+The products were not coded.
+REASON:  
+A) Sweet Maid brand Crystal Lollypops contained undeclared Yellow No. 5, 
+Red No. 3, Red No. 40, and Blue No. 1.
+B) Sweet Maid brand Candy Rolls contained undeclared Yellow No. 6, Red 
+No. 40, and Blue No 2.
+C) Sweet Maid brand Starlight Mints contained undeclared Yellow No. 5, 
+Blue No.1, Red No. 3, and Blue No.1 Lake.
+RECALLING FIRM/REPACKER: 
+Sweet Maid Candy Packaging, Inc., Detroit, MI 
+RECALLED BY:
+The recalling firm, by visit beginning on June 25, 2001. 
+FIRM INITIATED RECALL: 
+Complete 
+DISTRIBUTION: 
+MI 
+QUANTITY: 
+Approximately 1,600 packages of Crystal Lollypops, 3,500 packages of 
+Candy Rolls, and 700 packages of Starlight Mints.  
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-608-1 California's Finest Tropical Mix
+F-609-1 California's Finest Spicy Trail Mix
+F-610-1 Naked Nuts Oriental Party Mix
+Codes: No codes apply.
+REASON:
+All three products contain undeclared FD&C Yellow No. 5 and FD&C Yellow 
+No. 6.  The Oriental Party Mix also contains undeclared sulfites.
+MANUFACTURER/RECALLING FIRM:
+Pacific Horizon Sylmar, CA 
+RECALLED BY:
+Firm, by phone and letters dated January 11, 2001  
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+CA
+QUANTITY:
+1565 cs. Tropical;816 cs. Oriental; 1981 cs Trail Mix		
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+a) F-612-1 Vanilla Pudding Cup, 6 oz.
+b) F-613-1 Banana Pudding Cup, 6 oz.
+c) F-614-1 Coconut Pudding Cup, 6 oz.
+d) F-615-1 Butterscotch Pudding Cup, 6 oz.
+e) F-616-1 Chocolate Pudding Cup, 6 oz.
+f) F-617-1 Lemon Pudding Cup, 6 oz.
+g) F-618-1 Mud Pie, 6 oz.
+h) F-619-1 Sugar Cookie, 5 oz.
+i) F-620-1 Rice Krispy Trea, 4 oz.
+j) F-621-1 Hokie Pokie
+k) F-622-1 Super Submarine Hogie, 10 oz.
+l) F-623-1 Ham Salad Sandwich, 9 oz.
+m) F-624-1 Chicken Salad Sandwich, 8 oz.
+n) F-625-1 Tuna Salad Sandwich, 6 oz.
+o) F-626-1 Lemon Poppy Seed Muffin, 5 oz. 
+p) F-627-1 Banana Nut Muffin, 5 oz. 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-578-1, "Rose Brand Egg Roll Wrappers", product is packed in 2 lb. 
+plastic vacuum packed bags, 25 bags/case or bulk in 25 lb. cases.  Codes: 
+Product is not coded.
+REASON:
+The product contained undeclared milk and soy ingredients.
+MANUFACTURER/RECALLING FIRM: 
+Tsue Chong Company Inc. Seattle, WA 
+RECALLED BY:
+On 6/19/01 the firm telephoned their 6 wholesalers, this was followed by 
+a faxed letter dated 6/20/01.  On 6/21/01 the firm faxed a second 
+notification stating for the wholesalers to pick up product from their 
+consignees. 
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+WA
+QUANTITY:
+approx. 840 cases since 1/1/01		
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-593-1, Goldensmell brand Happy Marshmallow Candy packed in flexible 
+plastic packages, Product of China.  Product comes in four sizes (net 
+weights): 1.4 oz. (40 grams), 2.8 oz. (80 grams), 3.5 oz. (100 grams) and 
+6.4 oz. (180 grams).
+Firm on labels - Imported by Strong America Ltd.
+Codes: 1.4 oz.: barcode # 6 43806 88710 1 and no other coding.
+2.8 oz.: barcode # 6 43806 89048 4 and no other coding.
+3.5 oz.: barcode # 6 43806 89048 4 and no other coding.
+6.4 oz.: barcode # 6 43806 89047 7 and no other coding.
+REASON:
+The products contained the undeclared color additives tartrazine 
+(certifiable as FD&C Yellow #5), sunset yellow FCF (certifiable as FD&C 
+Yellow #6) and erythrosine (certifiable as FD&C Red #3).
+MANUFACTURER/RECALLING FIRM: 
+Yik Hoi Trading Company Kowloon, Hong Kong, China,
+RECALLED BY:
+Strong America Limited Brooklyn, NY, sent a recall letter, dated 8/2/00, 
+covering the recall of all four sizes of product.  The letter instructed 
+the direct accounts to discontinue selling the product, and return it to 
+Strong America immediately. 
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Brooklyn and NY
+QUANTITY:
+1.4 oz: 67 cases (80 packages per case); 2.8 oz: 73 cases (40 packages 
+per case); 3.5 oz: 46 cases (40 packages per case); 6.4 oz: 110 cases (40 
+packages per case).		
+		
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS III
+________________________________
+Recall Number, Product and Code:
+F-575-1 "Big Land" brand Guava Filling Cake, net weight 12 ounces. 
+Product is packed in a metal container and placed in a cardboard box 
+printed in part, "*** BIG LAND BAKERY, INC. 2700 West 3rd Court, Hialeah, 
+Florida 33010 ***" and sealed in a plastic wrap. See attached label.
+b) F-576-1 "Big Land" brand Guava Short Cake, net weight 2 1/2 ounces. 
+Product is packed in a plastic package printed in part, "*** BIG LAND 
+BAKERY, INC. 2700 West 3 Court, Hialeah, FL 33010 ***". See attached 
+label.
+c) F-577-1 "Big Land" brand Strawberry Cup Cake, net weight 7.5 ounces. 
+Product is packed in plastic package printed in part, "***SIX PACK 
+STRAWBERRY CUP CAKE ** BIG LAND BAKERY, INC 2700 West 3 Court,Hialeah,FL 
+33010 ***". See attached label.
+Codes:  All codes
+REASON:
+For products a and b, undeclared Red #40, Yellow #5, and Blue #1; for 
+products c and d, undeclared Yellow # 5 and #6; for products e, f, 
+and g, undeclared Red # 40.
+MANUFACTURER/RECALLING FIRM: 
+Big Land Bakery, Inc. Hialeah, FL
+RECALLED BY:
+The firm is having their delivery personnel relable store product 
+with corrective labeling beginning on 7/13/01 and they projected 
+completing the field correction by 7/30/01 or soooner. 
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Product directly distributed to 633 retail stores in South Florida (Dade, 
+Broward, and Monroe Counties).
+QUANTITY:
+The firm would not give FDA any estimate.  There is a two month 
+expiration date.		
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-579-1 Minute Maid 100% Pure Apple Juice From Concentrate with 
+Added Calcium and Vitamin C, 6.75 fl. oz. (200 ml) box  
+F-580-1 Minute Maid 100% Juice Mixed Berry, 6.75 fl. oz. (200 ml) box  
+F-581-1 Hi-C Orange Lavaburst, 6.75 fl. oz. (200 ml) box 
+The products were packaged 10 boxes per pack, 4 packs to a case. 
+Codes:            
+Apple: MAR2102TF XX:XX 
+Berry: NOV2101TF XX:XX
+Hi-C: JAN2002TF XX:XX
+The codes appear on the top of the jucie box in a a block marked "BEST IF 
+USED BY".  The codes represent the Expiration Date (MAr2102), plant and 
+line code (TF) and military time (XX:XX).
+REASON:
+The products may be spoiled.
+MANUFACTURER/RECALLING FIRM: 
+Minute Maid Paw Paw, MI 
+RECALLED BY:
+The Minute Maid Company, A Division of Coca Cola Houston, TX, on 6/22/01 
+sent a recall letter began by an internal and external letter to all 
+consignees of the Apple Juice (the only product implicated at that time) 
+informing them of the retrieval action due to the product not meeting 
+"high quality standards".  On June 26, via letters, the retrieval was 
+expanded to include the Berry and Hi-C product due to the firm 
+investigation findings.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+AL, AR, CO, GA, IA, IL, IN, KS, KY, LA, MI, MN, MS, MO, NC, ND, NE, OH, 
+PA, SD, VA, WI, TN.
+QUANTITY:
+Apple: 12,710 cases; Mixed Berry: 6,751 cases; Hi-C: 9,050 cases	
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-586-1, "Minute Maid -Premium- CALCIUM Berry Punch *** 10% FRUIT JUICE 
+PASTEURIZED *** 64 FL OZ *** KEEP REGRIDERATED *** THE MINUTE MAID 
+COMPANY *** HOUSTON, TX 77252" packaged in a gable top carton, 8 to a 
+case.
+Codes:  MAY14LE, MAY23LE, MAY28LE
+REASON:
+The product was contaminated with mold.
+MANUFACTURER/RECALLING FIRM: 
+Cutrale Citrus Juices USA Leesburg, FL
+RECALLED BY:
+The Minute Maid Company, A Division of Coca Cola Houston, TX, on 5/10/01, 
+sent a recall letter with instructions to cease distribution.  Firm sales 
+personnel visited all accounts and removed product but no count was kept 
+of how many units were removed and destroyed on-site.   
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+NC, AL, G, FL , SC, MS, TN and LA.  
+QUANTITY:
+12,623 cases of 8		
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-587-1, Sunny Delight Original Florida Style, packaged in 64 fl oz 
+plastic bottles, 8 bottles per case.  The product is labeled as 
+distributed by Procter & Gamble, Cincinnati, Ohio  45202.
+Codes: OCT20H1930 through OCT20H2245
+REASON:
+The product is off-flavor due to excess salt.
+MANUFACTURER/RECALLING FIRM: 
+Sundor Brands, Inc. Atlanta, GA 
+RECALLED BY:
+The Proctor & Gamble Company Cincinnati, OH, on 7/13/2001, contacted 
+their affected consignees by telephone.  The customers were instructed to 
+'hold' the product until picked up by a P&G representative.  The 
+recovered product will be destroyed. 
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+IN, FL, MS, KY, LA, MI, TN, AL, SC, WI, IL, and GA.
+QUANTITY:
+8,091 cases		
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-588-1, Hunt's Ketchup, 14 oz bottle. No salt added. 
+Codes: Production dates FEB 28; MARCH 1; MARCH 2 (2001)
+REASON:
+The product was unfit for food due to spoilage.
+MANUFACTURER/RECALLING FIRM: 
+Con-Agra Grocery Products Irvine, CA 
+RECALLED BY:
+A recall letter dated June 13, 2001 was sent to customers 
+requesting return of the product in confirmation of conversations 
+that were had with contacts at the customers.  
+FIRM INITIATED RECALL:
+Ongoing 
+DISTRIBUTION:
+Nationwide and Antigua, Panama, Puerto Rico, Aruba, Honduras, Bahamas, 
+US Virgin Islands.
+QUANTITY:
+unknown
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+SoBE Sports System- 20 oz. plastic botttles with codes as follows:
+A. F-589-1 SoBe Sports System-Fruit Punch 
+Codes as follows:
+LM 1162, LM 1163, LM 1164,LM 1165, LM 1192, LM 1193, LM 1194,
+LM 1201, LM 1202 
+B. F-590-1 SoBe Sports System- Orange 
+Codes as follows:
+LM 1155, LM 1156, LM 1158, LM 1159, LM 1160, LM 1167, LM 1169, 
+LM 1198, LM 1199, LM 1200, LM 1202.
+C. F-591-1 SoBe Sport System - Tropical
+Codes as  follows:
+LM 1160, LM 1162, LM 1169, LM 1170 ,  LM 1201
+D. F-592-1 SoBe Sports System- Lemon Lime 
+Codes as follows:
+LM 1166, LM 1167, LM 1194, LM 1195, LM 1197, LM 1198 
+Codes: SoBe Sports System 20 oz. plastic botttle as listed:
+REASON:
+Product may contain mold.
+MANUFACTURER/RECALLING FIRM: 
+Lyons Magnus Fresno, CA 
+RECALLED BY:
+South Beach Beverage Company [SOBE] Norwalk, CT, sent a letter to its 
+distributors on 8/3/01 instructing them to place product on hold and 
+recommended removal of product from retail. On 8/7/01 a second 
+notifcation issued and instructed the distributors to remove product at 
+the retail level within 48 hours or notify retailers and have them remove 
+product.  On 8/10/01, the firm expanded the recall to include the SoBe 
+Sports System Flavors as: Orange, Lemon-Lime and Tropical. The firm is 
+recalling all flavors produced after June 1, 2001 from the Lyons Magnus 
+plant. 
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Nationwide
+QUANTITY: 
+165, 296 cases [12 bottles/case]
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-605-1, Propel Fitness Water; purified water with 6 vitamins and fruit 
+flavor; 24/500 ml plastic bottles per case; Distributed by The Gatorade 
+Company, P.O. Box 049003, Chicago, IL 60604-9003 USA
+The product subject to the recall is a warehouse club 24/500 ml.  Variety 
+Pack, UPC code 52000-52430, consisting of eight bottles of each flavor, 
+Berry, Lemon and Orange.
+Codes: Pallets bearing dates 8/9/01 through 8/27/01
+Case UPC code 52000-52430
+REASON:
+Case label does not contain aspartame ingredient listing and warning.
+MANUFACTURER/RECALLING FIRM:
+The Quaker Oats Company Atlanta, GA
+RECALLED BY:
+The Quaker Oats Company Chicago, IL, sent recall letters dated 8/30/01 to 
+the Sam's Clubs and Costco Wholesale clubs via electronic mail on the 
+same date.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+TX, NM, CA, AL, VA, FL, AZ, C O, NV
+QUANTITY:
+8300 cases
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-607-1, Large Tuna Loins packed for restaurants (product is not 
+labeled)The fresh tuna loins are sold in pounds to local restaurants in 
+the bay area, packaged as needed.  Shipped in cardboard containers with 
+chipped ice.
+Codes: Product is not coded.
+REASON:
+The product is decomposed.
+MANUFACTURER/RECALLING FIRM:
+Seafood Co. Inc., San Francisco, CA 
+RECALLED BY:
+Pacific Harvest Seafoods, Inc. San Jose, CA, recalled the decomposed tuna 
+loins on 5/15/2001. The firm 
+notified its customers orally and sent its workers to collect the 
+remaining tuna at the restaurants. The firm stopped further marketing of 
+the product on 5/15/2001.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+CA
+QUANTITY:
+81 pounds
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-608-1, COFFEE-MATE Lite Powder Coffee Creamer. 6 and 16 ounce plastic 
+(HDPE) containers.
+Codes:           Julian Date Codes:
+1138
+1139
+1141
+1142
+1153
+1170
+1171
+1180
+1181
+1182
+1221
+1222
+1229
+1230
+1231
+REASON:
+The product is unfit for food due to off odor and flavor.
+MANUFACTURER/RECALLING FIRM:
+Nestle Beverage Co. Jacksonville, IL
+RECALLED BY:
+Nestle USA Glendale, CA, sales representatives were notified of the 
+recall and directed to immediately contact and visit customers to 
+determine if any affected product was in the customer's warehouse.  
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide and to Canada, Honduras, Panama, El Salvador, Caymen 
+Islands and Oranjestaad.
+QUANTITY:
+47,101 cases	
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-611-1, Beechnut Naturals **** 100% Mixed Fruit Juice
+32 fl. oz. plastic bottles
+Responsible firm on the label:  "Distributed by:  Beech-Nut 
+Nutrition Corporation, Canajoharie, NY  13317"
+Codes: 
+16 26 Sep 02
+15 19 Aug 02
+15 18 Aug 02
+The above codes are printed on the side of the bottle.
+UPC CODE:  "0-523632-3"
+REASON:
+Mold in product
+MANUFACTURER/RECALLING FIRM:
+Mayer Brothers Barker, NY 
+RECALLED BY:
+Beechnut Nutrition Corp. Canajoharie, NY, notified brokers via e-mail on 
+8/7/01.   
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+FL, GA, IN, MD, MO, NJ, NY, NC, OH, O(r, PA, SC, TN, VT, WV and Puerto 
+Rico
+QUANTITY:
+6,767 cases (12 per case)
+_______________________________
+Recall Number, Product and Code
+a) F-628-1 Sausage, Egg, Cheese Biscuit, 4 oz.
+b) F-629-1 Ham, Egg, Cheese Biscuit, 3 oz.
+REASON:
+Undeclared allergens
+MANUFACTURER/RECALLING FIRM:
+Arrowrock Supply LLC Boise, ID 
+RECALLED BY:
+On 5/8/01 the firm called all accounts that received the pudding cups and 
+cookies (products initially identified as containing undeclared 
+allergens).  On 5/9/01 the firm expanded the recall to include the 
+indicated sandwiches and muffins, and again called all of its customers 
+that were shipped the recalled products.  Late on 5/9/01 the firm 
+developed recall letters for both the Petticoat Pantry and Fresh to You 
+brand labeled products, which were mailed on 5/10/01.  
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+ID and OR
+QUANTITY:
+Unknown
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-630-1, COFFEE-MATE Lite Powder Coffee Creamer. 6 and 16 ounce plastic 
+(HDPE) containers.
+Codes: Julian Date Codes:
+1138
+1139
+1141
+1142
+1153
+1170
+1171
+1180
+1181
+1182
+1221
+1222
+1229
+1230
+1231
+REASON:
+The product is unfit for food due to off odor and flavor.
+MANUFACTURER/RECALLING FIRM:
+Nestle Beverage Co. Jacksonville, IL 
+RECALLED BY:
+Nestle USA Glendale, CA, sales representatives were notified of the 
+recall and directed to immediately contact and visit customers to 
+determine if any affected product was in the customer's warehouse.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide 
+QUANTITY:
+47,101 cases
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS II
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1940-1, Platelet, Pheresis, (Split unit)16356-6320
+REASON:
+Blood products, which had an unacceptable platelet count, were 
+distributed.
+MANUFACTURER/RECALLING FIRM:
+United Blood Services, Meridian, MS
+RECALLED BY:
+Blood System, Inc., Scottsdale, AZ, notified the consignee located in 
+Mississippi by telephone on April 20, 2001 and May 8, 2001, and by letter 
+dated May 21, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MS
+QUANTITY:
+2 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1956-1, Red Blood Cells, Leukoreduced, Unit 36LR17052
+REASON:
+Blood product prepared from an overweight whole blood unit was 
+distributed.  
+MANUFACTURER/RECALLING FIRM:
+American Red Cross, South Carolina Region, Columbia, SC
+RECALLED BY:
+The recalling firm notified the consignees located South Carolina in by 
+telephone and by letter on January 26, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+SC
+QUANTITY:
+1 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1821-1, Recovered Plasma, Unit 1693871
+REASON:
+Blood product, collected from a donor taking the drug Accutane, was 
+distributed.
+MANUFACTURER/RECALLING FIRM:
+South Texas Blood and Tissue Center, San Antonio, Texas
+RECALLED BY:
+The recalling firm notified the consignee located in California by fax 
+dated May 1, 2001 who in turn forwarded the notification to the Scottish 
+consignee that received the unit.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+CA and Scotland
+QUANTITY:
+1 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1971-1, Saphenous Vein , Serial numbers 3896463, 3896471
+REASON:
+Tissues for transplant were collected from a donor who had not been 
+properly evaluated.    
+MANUFACTURER/RECALLING FIRM:
+CryoLife, Inc., Kennesaw, GA
+RECALLED BY:
+The recalling firm notified two consignees, located in Ohio and 
+Louisiana, by telephone on July 25, 2001, and by letters dated August 6, 
+2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+OH and LA
+QUANTITY:
+2 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1982-1, Source Plasma, unit numbers 8S9361 and 8S9632
+REASON:
+Blood products, collected from an ineligible donor due to previous 
+incarceration, were distributed.
+MANUFACTURER/RECALLING FIRM:
+Aventis Bio-Services, Inc., Fort Worth, TX
+RECALLED BY:
+The recalling firm notified the consignee, located in Illinois, of the 
+recall by letter dated April 19, 2001
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+IL
+QUANTITY:
+2 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1983-1, Red Blood Cells, unit number 7829805
+B-1984-1, Fresh Frozen Plasma, unit number 7829805
+REASON:
+Blood products, that tested negative for human immunodeficiency virus 
+(HIV), but were collected from a donor who did not answer a donor 
+screening question related to behavior known to increase the risk of 
+infection with HIV, were distributed. 
+MANUFACTURER/RECALLING FIRM:
+Carter BloodCare, Bedford, TX
+RECALLED BY:
+The recalling firm notified the two consignees, located in Texas and 
+Florida, of the recall by letter dated May 25, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+TX and FL
+QUANTITY:
+2 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1985-1, Red Blood Cells, unit number 7586817
+B-1986-1, Fresh Frozen Plasma, unit number 7586817
+REASON:
+Blood products, that tested negative for human immunodeficiency virus 
+(HIV), but were collected from a donor who did not answer a donor 
+screening question related to behavior known to increase the risk of 
+infection with HIV, were distributed. 
+MANUFACTURER/RECALLING FIRM:
+Carter BloodCare, Bedford, TX  
+RECALLED BY:
+The recalling firm notified the two consignees, located in Texas, of the 
+recall by letter dated May 29, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+TX
+QUANTITY:
+2 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1987-1, Red Blood Cells, unit number 7472341
+REASON:
+Blood products, that tested negative for human immunodeficiency virus 
+(HIV), but were collected from a donor who did not answer a donor 
+screening question related to behavior known to increase the risk of 
+infection with HIV, were distributed. 
+MANUFACTURER/RECALLING FIRM:
+Carter BloodCare, Bedford,  TX
+RECALLED BY:
+The recalling firm notified the consignees, located in Texas, of the 
+recall by letters dated June 7, 2001
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+TX 
+QUANTITY:
+1 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1990-1, Red Blood Cells (11 units), unit numbers 55S80206, 55C29112, 
+55C26581, 55C03644, 55R83694, 55C79450, 55C00186, 55C96961, 55C64579, 
+55L80073, and 55L67747
+B-1991-1, Red Blood Cells, Leukocytes Reduced (8 units), unit numbers 
+55FR17412, 55K22123, 55FR13870, 55FR11291, 55FR10554, 55L27539, 
+55FR07873, and 55C14569
+B-1992-1, Platelets (5 units), unit numbers 55C03644, 55C29112, 55C26581, 
+55C64579, and 55L80073
+B-1993-1, Fresh Frozen Plasma (10 units), unit numbers 55FR17412, 
+55K22123, 55FR11291, 55C03644, 55L27539, 55FR07873, 55C29112, 55C26581, 
+55C14569, and 55C79450
+B-1994-1, Recovered Plasma (8 units), unit numbers 55FR13870, 55FR10554, 
+55S80206, 55R83694, 55C96961, 55C64579, 55C93992, and 55L80073
+REASON:
+Blood products, that tested negative for the antibody to human 
+immunodeficiency virus (anti-HIV), but were collected from a donor that 
+previously tested repeatedly reactive for anti-HIV, were distributed.
+MANUFACTURER/RECALLING FIRM:
+The American National Red Cross, Little Rock, AR
+RECALLED BY:
+The recalling firm notified the consignees of the recall by letters on 
+February 16 and 20, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+AR, MO, TN, CA and Switzerland
+QUANTITY:
+42 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1999-1, Red Blood Cells, 	Unit 7559586
+B-2000-1,Fresh Frozen Plasma, Unit 7559586
+REASON:
+Blood products, collected from a donor whose body temperature had not 
+been documented, were distributed.
+MANUFACTURER/RECALLING FIRM:
+Carter BloodCare, Bedford, Texas
+RECALLED BY:
+The recalling firm notified consignees located in Texas by letter dated 
+June 11, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+TX
+QUANTITY:
+2 units
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS III 
+__________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1955-1, Platelets, Leukoreduced, Irradiated, Units, P10567, P10568
+REASON:
+Blood products, which were leukoreduced using expired filters, were 
+distributed.
+MANUFACTURER/RECALLING FIRM:
+Coffee Memorial Blood Center, Inc., Amarillo, Texas
+RECALLED BY:
+The recalling firm notified the consignee located in Texas by letter 
+dated April 17, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+TX
+QUANTITY:
+2 units
+______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1978-1, Mixed Ragweed Injectable Allergenic Extract, lot numbers 
+1B01031, 1B00811, and 1B00791
+REASON:
+Allergenic extracts were distributed labeled with incorrect expiration 
+dates.
+MANUFACTURER/RECALLING FIRM:
+Center Laboratories, Inc., Port Washington, NY
+RECALLED BY:
+The recalling firm notified the consignees of the recall by telephone on 
+April 26, 2001, and by letter dated May 1, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION: 
+MI, NY, IL, KA, CT, KY, MA, OH, PA, TX
+QUANTITY:
+3 lots
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1979-1, Red Blood Cells, Pheresis, Leukocytes Reduced (4 units), unit 
+numbers 18224-2359 and 18225-0038 (both units distributed as two split 
+units)
+REASON:
+Blood products, collected on an apheresis machine where there was no 
+documentation of evaluation of the filter assemblies as required, were 
+distributed.
+MANUFACTURER/RECALLING FIRM:
+Blood Systems, Inc., Cheyenne, WY
+RECALLED BY:
+Blood Systems, Inc., Scottsdale, AZ, notified consignees, located in 
+Wyoming and Texas, of the recall by letter dated May 7, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+WY and TX
+QUANTITY:
+4 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1980-1, Reagent Red Blood Cells, Gamma Panel 15?, lot number 0410267
+B-1981-1, Reagent Red Blood Cells, Gamma Panel 15? (0.8%),  lot number 
+0410268
+REASON:
+Reagent Red Blood Cells were distributed with incorrect documentation of 
+antigen types.
+MANUFACTURER/RECALLING FIRM:
+Gamma Biologicals, Inc., Houston, TX
+RECALLED BY:
+The recalling firm notified the consignees of the recall by letter dated 
+April 27, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Nationwide and internationally
+QUANTITY:
+2 lots
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1988-1, Recovered Plasma, unit number 7472341
+REASON:
+Blood products, that tested negative for human immunodeficiency virus 
+(HIV), but were collected from a donor who did not answer a donor 
+screening question related to behavior known to increase the risk of 
+infection with HIV, were distributed. 
+MANUFACTURER/RECALLING FIRM:
+Carter BloodCare, Bedford, TX
+RECALLED BY:
+The recalling firm notified the consignees, located in Switzerland, of 
+the recall by letters dated June 8, 2001
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Switzerland
+QUANTITY:
+1 unit
+_____________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1989-1, Source Plasma (32 units), unit numbers 3Z0345, 3Z8806, 
+7RM589, 7RN050, 7RN278, 7RN805, 7RV468, 7RV956, 8BN149, 8BO024, 
+8BS660, 8BT373, 8BT546, 3Z7856, 3Z0019, 3Y1058, 3Y1253, 3Y1348, 
+3Y2454, 3Y2617, 3Y2848, 3Y3061, 3Y3275, 3Y3457, 3Y3639, 64G140, 
+64G252, 7RJ535, 7RJ830, 7RK062, 7RK875, and 7RL133
+REASON:
+Blood products, that tested negative for viral markers, but were 
+collected from donors who were improperly screened prior to donation, 
+were distributed.
+MANUFACTURER/RECALLING FIRM:
+Aventis Bio-Services, Inc.,Lexington, KY
+RECALLED BY:
+Aventis Central Testing Laboratory, Knoxville, TN, notified the 
+consignee, located in North Carolina, of the recall by facsimile on July 
+19, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+NC
+QUANTITY:
+32 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1996-1, Red Blood Cells,	Unit 7444384           
+B-1997-1, Platelets, Unit 7444384
+B-1998-1, Recovered Plasma, Unit 7444384
+REASON:
+Blood products, which were collected from a donor with an elevated body 
+temperature, were distributed.  
+MANUFACTURER/RECALLING FIRM:
+Carter BloodCare, Bedford, Texas
+RECALLED BY:
+The recalling firm notified three consignees located in Texas and 
+Switzerland by letter dated June 10, 2001 or June 11, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+TX and Switzerland
+QUANTITY:
+3 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-2001-1, Red Blood Cells, Leukoreduced, Unit 7472214
+B-2002-1, Platelets, Pheresis, Leukoreduced, Unit	7587173
+B-2003-1, Recovered Plasma, Units	7586983, 7472214
+REASON:
+Blood products, collected from a donor whose arm inspection was not 
+documented, were distributed.
+MANUFACTURER/RECALLING FIRM:
+Carter BloodCare, Bedford, Texas
+RECALLED BY:
+The recalling firm notified consignees located in Texas and Switzerland 
+by letter dated May 30,2001, June 10, 2001 or June 11, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+TX and Switzerland
+QUANTITY:
+4 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-2004-1, Red Blood Cells, Unit V00958
+REASON:
+Blood product, collected from a donor whose arm inspection was not 
+documented, was distributed.
+MANUFACTURER/RECALLING FIRM:
+Community Blood Center of Greater Kansas City, Topeka, KS
+RECALLED BY:
+The recalling firm notified the consignee located in Kansas by telephone 
+on March 16, 1998.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+KA
+QUANTITY:
+1 unit
+
+RECALLS AND FIELD CORRECTIONS: VETMED -- CLASS III
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+V-408-1, "ResiHIST***LEAVE ON CONDITIONER***for dogs and cats***ACTIVE 
+INGREDIENTS:  Diphenhydramine Hydrochloride 2%" 16 oz. Code: Lot Number 
+W9159A   NDC 51311-073-16
+REASON:
+The product has 100 times overage of EDTA, a preservative.
+MANUFACTURER/RECALLING FIRM:
+Virbac, Inc., Fort Worth, Texas
+RECALLED BY:
+The recalling firm sent a letter dated March 19, 2000, to their 
+consignees instructing them to return all product in stock
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Nationwide and Puerto Rico
+QUANTITY:
+A total of 492 units were distributed between June 30, 1999, and October 
+8, 1999, to domestic consignees.  
+
+
+  
+    END OF ENFORCEMENT REPORT FOR October 3, 2001.
+
+
+  
+  ####
+
+
+
+FDA News Page 
+    |   FDA Home Page 
+
+Office of Public Affairs 
+  Hypertext uploaded by tg 2001-10-04.

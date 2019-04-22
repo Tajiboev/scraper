@@ -1,0 +1,929 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      43 captures
+	      24 Jul 2001 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA 
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration, Department of Health and Human Services. 
+It contains information on actions  taken in connection with agency
+Regulatory activities.
+
+
+
+
+July 11, 2001                                              01-27
+
+
+RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS II
+
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+D-239-1, Phenytoin Sodium 100mg, Prompt Release Capsules, Zenith 
+Goldline, Label, 100 count bottles, NDC#0172-2057-60, ANDA# -- 80-259, 
+Product code is #2057, Lot Number is 268  Exp. 2/01
+REASON:
+DISSOLUTION FAILURE (18 MONTH STABILITY)
+MANUFACTURER/RECALLING FIRM:
+Zenith Goldline Pharmaceuticals Northvale, NJ 
+RECALL BY:
+The recalling firm sent recall letter dated 1/10/01 to all direct 
+accounts.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide
+QUANTITY
+18,963 bottles
+
+RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS III 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+D-242-1.  Methocarbamol and Aspirin Tablets 400mg/325mg; Rx Zenith 
+Goldline, NDC#0172-2813-60
+Lot Numbers: 	2813-098-- 6/2001
+		2813--99V--5/2002
+		2813-100V--6/2002
+REASON:
+SUPER-POTENCY-(ASPIRIN COMPONE NT)
+MANUFACTURER/RECALLING FIRM:
+Zenith Goldline Pharmaceuticals Northvale, NJ 
+RECALLED BY:
+The recalling firm sent a product Recall Letter dated 1/10/01 was mailed 
+to all direct accounts. 
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide
+QUANTITY:
+9235 x 100 tablet bottles
+______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+D-243-1.  Capzasin-HP Lotion, 2 fl oz (59.1 mL), containing the active 
+ingredient-Capsaicin, 0.075%, NDC No. 41167-6505-6.  The product is 
+packaged with a touch free applicator and sold (OTC) boxed as individual 
+units.
+Lot 00D403, EXP 04/02
+REASON:
+SUB-POTENCY (STABILITY FAILURE AT 12 MONTHS)
+MANUFACTURER/RECALLING FIRM:
+Chattem, Inc., Chattanooga, TN 
+RECALLED BY:
+Firm sent recall letters to all of the �bill to� addresses on June 14, 
+2001.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide
+QUANTITY:
+11,064
+______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+D-244-1.  Aspirin Tablets, Film Coated, 325 mg. (5 gr); an OTC analgesic; 
+Packaged in Robot Ready blister packages of 25 and unit dose blister 
+packages of 100, 200 and 500. 
+Lots 0H624, 0P219, 1C014, 0H616, 0K043, 0P237, 1C991, 1C044
+lots 0F530, 0K971, 1C982, 0F524, 0K963, 1C974
+REASON:
+FAILED DISSOLUTION SPECIFICATIONS (AT STABILITY TESTING
+MANUFACTURER:
+LNK International, Inc., Hauppage, NY 
+RECALLED BY:
+UDL Laboratories, Inc., Rockford, IL, sent recall letters dated 6/15/01 
+to the 174 direct accounts on 6/14/01 via first class mail to the 
+attention of the Pharmacist/Inventory Control Manager. 
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide
+QUANTITY:
+16,196,325 tablets
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS II 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1123-1, Red Blood Cells, Units 38FC51064, 38FC49042, 38FC45179, 
+38FC41705, 38FC37268, 38FC28609, 38FC26219, 38FC24456, 38FC22309, 
+38FC11373, 38FC09302, 38FC05504, 38FF55345, 38FC20100, 38FC15758, and 
+38FC13668.  
+
+
+B-1124-1, Platelets, Units 38FC51064, 38FC28609, 38FC24456, 38FC22309, 
+38FC11373, 38FC09302, 38FC05504, 38FC03172, 38FF55345, 38FC15758, and 
+38FC37268
+
+B-1125-1, Cryoprecipitate, Units 38FC05504, 38FC03172, and 38FC13668.
+ 
+
+B-1126-1, Fresh Frozen Plasma, Units 38FC51064, 38FC49042, 38FC37268, 
+38FC28609, 38FC26219,  38FC22309, 38FC11373, 38FF55345 and 38FC15758.  
+
+B-1127-1,  Recovered Plasma, Units 38FC45179, 38FC41705, 38FC24456, 
+38FC09302, 38FC05504, 38FC03172, 38FC20100 and 38FC13668
+REASON:
+Blood products, collected from a donor whose family member answered the 
+donor screening questions for them, were distributed.
+MANUFACTURER/RECALLING FIRM:
+American Red Cross Blood Services,	Fort Wayne, IN
+RECALLED BY:
+The recalling firm notified consignees located in California, Indiana, 
+New York and Switzerland by letters dated between November 22, 1999 and 
+December 7, 1999.  Follow-up notification letters were dated February 29, 
+2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+CA, IN, NY, and Switzerland
+QUANTITY:
+46
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1145-1, Source Plasma, Unit 19888736
+REASON:
+Blood product, with a two times elevated ALT level, was distributed for 
+further manufacture.
+MANUFACTURER/RECALLING FIRM:
+Sera-Tec Biologicals Limited Partnership, Denton, Texas
+RECALLED BY:
+The recalling firm notified the consignee located in California by letter 
+dated February 14, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+CA
+QUANTITY:
+1 unit 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1172-1, Red Blood Cells, Unit  3808353
+REASON:
+Blood product that was not quarantined after receiving information 
+concerning a post donation illness was distributed.
+MANUFACTURER/RECALLING FIRM:
+Oklahoma Blood Institute, Sylvan N. Goldman Institute, Oklahoma City, OK
+RECALLED BY:
+The recalling firm notified a Texas consignee by facsimile on February 
+17, 1999.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+TX
+QUANTITY:
+1 unit
+______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1457-1, Red Blood Cells Units L04250, L02615, M84346, T52350, 
+T033222,T031302, T028101, T025140, T012049, T007397
+B-1458-1, Platelets, Pheresis, Units T038725, T035305, T034495
+B-1459-1, Platelets Units T031302, T012049, T007397
+B-1460-1, Fresh Frozen Plasma Units L04250 (divided into 4 aliquots), 
+L02615,T52350
+REASON:
+Blood components were not tested for antibodies, due to a computer 
+software error, were distributed.
+MANUFACTURER/RECALLING FIRM:
+Community Blood Center of Greater Kansas City, Topeka, KS
+RECALLED BY:
+The recalling firm notified consignees located in Kansas, California, 
+Missouri, and Alabama, by letters, dated October 9, 1998.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+KA, CA, MO, AL
+QUANTITY:
+22 units
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+________________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-644-1, Suction Unit-Optional Accessory Wall Bracket DC Version
+Model 78 22 00.
+REASON:
+Charging function of the wall bracket is not adequately being delivered 
+to the suction pump.
+MANUFACTURER/RECALLING FIRM:
+Laerdal Medical Corp., Wappingers Falls, NY
+RECALLED BY:
+Telephone calls made by customer service reps some time between October 
+2000 and January 2001. This was followed by a memo dated 1/9/01 with a 
+replacement bracket.  Non responders were sent a letter on May 17, 2001. 
+FIRM INITIATED RECALL:
+Ongoing.
+DISTRIBUTION:
+CA, CT, FL, IA, MA, MN, NH, NY, and TX.
+QUANTITY
+28
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-645-1 - Integra Oxygen Concentrator, Model No. 6323;
+Z-646-1 - Integra Oxygen Concentrator, Model No. 6323OM.
+REASON:
+Restricted air flow can cause the device to overheat, leading to 
+emanation of an odor, excessive noise, and possibly to shutoff of device 
+operation.
+MANUFACTURER/RECALLING FIRM:
+SeQual Technologies, Inc., San Diego, CA
+RECALLED BY:
+Manufacturer, by letter on June 28, 2000.
+FIRM INITIATED RECALL:
+Ongoing.
+DISTRIBUTION:
+Nationwide, and Germany, India, Thailand, Vietnam, Singapore, Hong Kong, 
+Guatemala, Palau, Korea, New Zealand, Israel, and Taiwan.
+QUANTITY
+3199 units
+________________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-606-1, Mavig Portegra Ceiling Suspension System Used with Personnel 
+Protective Shields and Injectors, Code: All serial numbers beginning 
+with: "0299" thru "0201". NOTE: The first 4 digits of the s/n represent a 
+date code. "0299" = February 1999. i.e. s/ns beginning with: 0299, 0399, 
+0499, 0599 through 0201. 
+REASON:
+Personnel protective shield can spontaneously separate from the ceiling 
+suspension and fall between the patient and operator.
+MANUFACTURER/RECALLING FIRM:
+Mavig GmbH, Munich Germany
+RECALLED BY:
+Mavig Inc. c/o Protec of New York, Inc. Pittsford, NY.  By letter on 
+April 10, 2001. 
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide and Canada
+QUANTITY
+1284
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0629-1, Multi-Therapy Ambulatory Infusion Pumps sold under the 
+following labels 
+a) Sabratek 6060 Homerun Infusion Pump, product codes 606000-40 
+(English), 606000-40L (loaner pump) and 606000-40I (International) 
+b) Baxter 6060 Multi-Therapy Ambulatory Infusion Pump, product code 
+2M9832 
+REASON:
+Potential overinfusion in the Auto-Ramp mode with software ver. 3.00 or 
+higher 
+MANUFACTURER:
+Sabratek Corp. Skokie, IL 
+RECALLED BY:
+Baxter Healthcare Corp., I.V. Systems Div. Round Lake, IL by letter on 
+February 20, 2001.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide, United Kingdom, France, Germany, Portugal, Canada, Ireland, 
+Brazil, Japan, Argentina, Sweden, Austria, New Zealand and Chile
+QUANTITY
+15,000
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0630-1
+Seven Day Infusor 0.5 ml/h, Portable Elastomeric Infusion System
+Product code 2C1082KJ; a single-use disposable elastomeric infusion pump 
+indicated for patients requiring slow, continuous intravenous, intra-
+arterial, subcutaneous or epidural administration of medications at a 
+constant flow rate; Manufactured by Baxter Healthcare Corporation, 
+Deerfield, IL 60015; 4 units per case
+REASON:
+Incorrect flow restrictor allows overinfusion.
+MANUFACTURER/RECALLING FIRM:
+Baxter Healthcare Corporation Irvine, CA 
+RECALLED BY:
+Baxter Healthcare Corp., I.V. Systems Division Round Lake, IL by letter 
+on February 21, 2001.
+FIRM INITIATED RECALL:
+Ongoing.
+DISTRIBUTION:
+Nationwide and Puerto Rico, Japan, United Kingdom, Germany, France, 
+Italy, Belgium, Spain, Portugal, Sweden, Switzerland, Singapore, Mexico, 
+Australia and Canada  
+QUANTITY:
+11420 units
+________________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-621-1, HumaPen Ergo, Model MS8335 (Teal color pen)
+Z-622-1, HumaPen Ergo, Model MS8343 (Burgundy color pen)
+All Lot Nos.
+REASON:
+Cartridge holder engagement tabs may break off possibly causing delivery 
+of less insulin than intended.
+MANUFACTURER/RECALLING FIRM:
+Eli Lilly and Company, Indianapolis, IN
+RECALL BY:
+Upgrade program begun in October 2000.  Letters to wholesalers and 
+doctors only in Japan.
+FIRM INITIATED RECALL:
+Terminated.
+DISTRIBUTION:
+Worldwide.  Not distributed in United States.
+QUANTITY:
+Approx. 1,333,000 devices with opaque cartridge holders.
+________________________________
+RECALL NUMBER, PRODUCT AND CODE: 
+ZyzaTech Portable Reverse Osmosis Machines to generate water for use in 
+hemodialysis treatments. 
+Z-649-1    -	S-700 Series, Model No. 14524;
+Z-650-1    -	S-750 Althin, Model No. 13200;
+Z-651-1    -	F-801 Fresenius, Model No. 12340;
+Z-652-1    -	Millenium, Model No. 14714;
+Z-653-1    -	SOLO II, Model No. 14914. 
+REASON:
+The product may not be properly grounded and may cause an electrical 
+shock.
+MANUFACTURER/RECALLING FIRM:
+Osmonics, Inc., Kent WA
+RECALL BY:
+Manufacturer, by letter on September 28, 2000.
+FIRM INITIATED RECALL:
+Ongoing.
+DISTRIBUTION:
+Nationwide and Cyprus.
+QUANTITY:
+424 motors - 360 machines, 64 replacement parts
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-672-1, Wrought Vitallium Orthopaedic Wire .040 x 18", Catalog No. 6704-
+1-018, Lot Nos. BZHIOA, BZHIOB, and CAPMR    
+REASON:
+Wire was not annealed, so the Ultimate Tensile Strength is greater and 
+the Elongation (%) is less than designed.
+MANUFACTURER/RECALLING FIRM:
+Howmedica Osteonics Corp., Rutherford, NJ
+RECALL BY:
+Manufacturer, by letter on April 3, 2001.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide, Japan and Germany.
+QUANTITY
+180/tube of 6 
+_________________________________
+PRODUCT, RECALL NUMBER AND MODELS:
+Easy Dial Oxygen Regulator 
+Z-673-1 - Model No. 168704DLB;
+Z-674-1 - Model No. 168708DB;
+Z-675-1 - Model No. 168708DLB;
+Z-676-1 - Model No. 168725DB;
+Z-677-1 - Model No. 168715DB;
+Z-678-1 - Model No. 168715DLB, Lot Nos. 0999 through 0401; 
+Z-679-1 - Canadian Model Nos. 010R7800 and 010R7900-1.
+REASON:
+The yoke on the regulator is too wide and a nitrogen cylinder may be 
+connected rather than an oxygen cylinder.
+MANUFACTURER/RECALLING FIRM:
+Precision Medical, Inc., Northampton, PA 
+RECALL BY:
+Recalling firm issued recall letter on April 19, 2001.
+FIRM INITIATED RECALL:
+Ongoing.
+DISTRIBUTION:
+Nationwide, Denmark and Canada.
+QUANTITY:
+3626 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-680-1, Save-A-Tooth, The Emergency Tooth Preserving System,         
+Lot No. 512844, serial nos. 32-393.
+REASON:
+The seal under lid, the sterile barrier leaks.
+MANUFACTURER/RECALLING FIRM:
+Polysciences, Inc. Warrington, PA 
+RECALL BY:
+Smarthealth, Inc., Phoenix, AZ.  By letter on May 16, 2001.
+FIRM INITIATED RECALL:
+Ongoing.
+DISTRIBUTION:
+Nationwide and Canada
+QUANTITY
+9076
+________________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-681-1, Abbott Aeroset Carbon Dioxide Test Reagent, Lot Nos. 43617HW00, 
+43618HW00, 41458HW00, 46048HW00, 46072HW00, 50032HW00, 53071HW00, 
+55081HW00, 57094HW00, 58013HW00, 61005HW00, 60010HW00, 63030HW00, 
+63089HW00, 66007HW00, 69009HW00, and 73046HW00
+REASON:
+There are shifts in values, which can result in low or high 
+bicarbonate/carbon dioxide values.
+MANUFACTURER/RECALLING FIRM:
+Abbott Laboratories, Inc., South Pasadena, CA
+RECALL BY:
+A recall letter with revised product labeling was sent to 
+consignees on June 8, 2001.
+FIRM INITIATED RECALL:
+Ongoing.
+DISTRIBUTION:
+Nationwide and Mexico, Venezuela, Columbia, Brazil, Canada, Germany, 
+Great Britain, Singapore, Hong Kong, Australia.
+QUANTITY:
+3404
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-684-1, PatientNet� Central Monitoring Station, Part No.056250,Central 
+Station software version 1.01.38B, CD-ROM         
+Serial No. 01117-001
+REASON:
+Software anomaly with the PatientNet Central Station software part number 
+056250, revision 1.01.38B.  This anomaly only affects  the Wireless 
+Medical Telemetry Service (WMTS) configuration.
+MANUFACTURER/RECALLING FIRM:
+VitalCom, Inc., Tustin, CA
+RECALL BY:
+Datascope was contacted by phone and by email on May 24, 2001 to report 
+the anomaly. VitalCom then mailed a notification letter that stated the 
+reason for the recall and a workaround solution. 
+FIRM INITIATED RECALL:
+Ongoing.
+DISTRIBUTION:
+Only to Datascope Corporation, patient Monitoring Division, Mahwah, NJ 
+QUANTITY:
+1
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-685-1, COLLAMER? Ultraviolet-Absorbing Posterior Chamber 3-Piece 
+Intraocular Lens, Model No. CQ2005V, All Lot Numbers 
+Manufactured from October 1, 2000 to February 1, 2001.
+REASON:
+The pouch seals can weaken and cause the packages to open, which may 
+compromise the sterility of the lenses.
+MANUFACTURER/RECALLING FIRM:
+STAAR Surgical Company, Monrovia, CA
+RECALL BY:
+By telephone on June 8 and 11, 2001. And Fedex letter to arrive June 11, 
+2001.
+FIRM INITIATED RECALL:
+Ongoing.
+DISTRIBUTION:
+Nationwide
+QUANTITY:
+3611
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0628-1, Medline Sterile Premium Wet Skin Prep Tray, a Latex-free 
+Product; a sterile Rx kit used to prepare the patient's skin at the 
+operative site prior to surgery, Catalog #DYND70660, lot 0J1267, exp. 
+date 08-02
+REASON:
+Devices labeled as Latex Free and found to contain latex. Some of the 
+kits were assembled with latex gloves instead of the labeled vinyl 
+gloves. 
+MANUFACTURER/RECALLING FIRM:
+IMDS, Inc., Pompano Beach, FL 
+RECALL BY:
+Medline Industries, Inc., Mundelein, IL, sent recall letters dated 2/7/01 
+to the 206 customers who may have received the lot in question. 
+FIRM INITIATED RECALL:
+Completed.
+DISTRIBUTION:
+Nationwide
+QUANTITY: 
+1800 kits
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0655-01
+Abiomed BVS 5000 Bi-Ventricular Support System 10 mm Arterial Cannula 
+with Hemashield Graft Catalog Number: 0506-0010 HAR
+Lot Numbers:
+99LPM0280, 99LPM0440, 99LPM0880, 99LPM1110, 99LPM3290, 00APM0530, 
+00APM0560
+00BPM0480, OODPM2550, OODPM2670, OODPM3660, OODPM3880, OOEPM1340
+OOFPM2740, OOFPM2750, OOFPM5200
+REASON:
+The graft of the 10 mm Arterial cannula separated from the cannula shaft.
+MANUFACTURER/RECALLING FIRM:
+Abiomed, Inc., Danvers, MA 
+RECALL BY:
+Recalling firm sent fax on 4/5/01 to the Perfusionist and Surgeon at each 
+site.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide, Canada, Australia, Mexico
+QUANTITY
+288
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0657-01, Agilent or Hewlett Packard  40488A , 12V 2.3 Ah Sealed Lead-
+Acid Battery. Manufacturing Date Codes: 990901 through 991231 and 
+000101through 000131. Batteries manufactured between Sept.1,1999 and Jan. 
+31, 2000.
+Used in:
+-Agilent V24/26CT Component Monitoring System 
+ (Model M1205A); and 
+-Hewlett Packard Component Transport System 
+ (Model M1275A) 
+REASON:
+Patient Monitor may shut down as batteries may provide a shorter 
+operating time
+MANUFACTURER/RECALLING FIRM:
+Agilent Technologies Inc., Andover, MA 
+RECALL BY:
+Agilent Technologies reported corrective action by telephone on 4/26/01 
+and followed by overnight mail Correction and Removal Report.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide
+QUANTITY
+M1205A= 9318 and M1275A=7886 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0660-1 to Z-0661-1 
+Exam Gloves, Beaded, Powdered, Medium Size, Natural Rubber Latex, Non-
+Sterile (Style 332 IF) and Sterile (Style 332) Pairs, Ambidextrous.
+
+Glove Style 332 IF, Non-Sterile, Catalogue #5760502, Lot Numbers:  
+0006372007, 0006371007, 0006370907, 0006371207, 0006371107, and 
+0006371407;  
+
+Glove Style 332, Sterile, Catalogue #57611402, Lot Number: 0006393807.
+REASON:
+A total of 25 non-sterile, bulk gloves out of 294 gloves examined by FDA 
+were found to contain defects/holes. 
+MANUFACTURER:
+Ansell Perry, Inc., Juarez Chih, Mexico
+RECALLED BY:
+Ansell Healthcare Products, Inc., Massillon, OH, notified their affected 
+customers by telephone on 7/14/2000 and 7/17/2000. 
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Nationwide.
+QUANTITY:
+279 cases of Style 332 (non-sterile); and 100 cases of Style 332 
+(sterile).
+________________________________
+RECALL NUMBER, PRODUCT AND CODES:
+Z-0662-1 to Z-0664-1
+Rochester Medical Personal Catheters identified as follows: 
+Product Reference Number 63312
+12Fr. Male Length Personal Catheter
+
+Product Reference Number 63314
+14Fr. Male Length Personal Catheter
+
+Product Reference Number 63316
+16Fr. Male Length Personal Catheter
+
+12Fr. Male Length Personal Catheter Lot # 54100604 Lot # 54100898 Lot # 
+54101025 Lot # 54101114 Catalog #63316 16Fr. 
+
+Male Length Personal Catheter Lot # 54100409 Catalog #63314 
+
+14Fr. Male Length Personal Catheter Lot # 54100406 Lot # 54100605 Lot # 
+54100899 Lot # 54101026 Lot # 54101115 Lot # 54100606 Lot # 54100900 Lot 
+# 54101027 Lot # 54101116 
+REASON:
+There is a possibility of a void or unsealed segment in the sterile Tyvek 
+package seal of some packages. 
+MANUFACTURER/RECALLING FIRM:
+Rochester Medical Corp., Stewartville, MN 
+RECALLED BY:
+On 8/23/00, the firm telephoned each direct account to inform them of the 
+recall.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Nationwide, Egypt, UAE
+QUANTITY:
+41,484 catheters 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0667-1
+Brand Name: ProSys Leg Bag Comfort Straps Common Name: Urine collector 
+and accessories, Catalog Number 650162, Lot 327092
+REASON:
+Lacks latex warning label on product
+MANUFACTURER/RECALLING FIRM:
+Convatec, a Bristol-Myers Squibb Co., Skillman, NJ 
+RECALLED BY:
+The recalling firm hand delivered recall letters between June 7 and 29, 
+2001. 
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide
+QUANTITY:
+44 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0668-1.
+Surgical Procedure Pack, containing e.g., basins, towels, cups, and 
+gowns.
+Sterile Packs 6581D, 120425A, 102433B
+Lot numbers 97510, 97728, 97732
+REASON:
+Failure of firm's internal process control, which specifies that 
+sterilizer chamber and that of the load's reference temperature probe 
+cannot vary more than +/- 1 degree C. 
+MANUFACTURER/RECALLING FIRM:
+SRI/Surgical Express, Elk Ridge, MD 
+RECALLED BY:
+Recalling firm notified consignees verbally on 6/7/2001 and by letter 
+6/8/2001.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+MD, DE
+QUANTITY:
+87
+________________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0669-1, Microvasive LeVeen Inflator with Pressure Gauge 20 ml (cc)   
+Catalog #710-112
+
+Z-0670-1, Medi-Tech LeVeen Inflator with Pressure Gauge 20 ml (cc)  
+Catalog #115-102
+
+Z-0671-1, Microvasive Balloon Dilatation Catheter Kits containing the 
+Microvasive LeVeen Inflator with Pressure Gauge 20 ml (cc),Catalog #710-
+112
+
+Catalog # Product Description UPN/Material # 15-102 LeVeen Inflator with 
+M001151021 Pressure Gauge 20 ml (cc) LOTS: 1805204 1821794 1869054 
+1902757 1930165 1963108 1977916 1995661 2201182 2201184 2233023 2259540 
+2306911 3032718 3086007 3354380 3368043 3384515 3400904 3475869 
+
+Product distributed by Microvasive Urology 
+Catalog # Product Description UPN/Material # 710-112 LeVeen Inflator 
+M0067101121 with Pressure Gauge 20 ml (cc) 1705906 1751033 1751034 
+1779335 1805211 1821808 1838195 1856696 1856697 1887343 1917484 1930157 
+1930169 1930171 1949285 1949338 1949341 1963111 1963112 1977928 1977930 
+2000552 2012784 2012785 2029899 2029900 2065775 2107081 2110148 2126574 
+2136146 2452312 2538541 2579460 2635009 2646478 2646479 2661794 2758915 
+2761816 2780327 2792016 2808346 2840951 2891101 2916051 2930710 2938364 
+2965594 2978125 2984172 3018878 3019972 3063328 3076511 3108638 3119579 
+3133634 3153775 3170491 3246928 3246930 3449342 3455545 3489009 3545481 
+3559236 3577101 3589270 365845 3660706 3660708 3678137 3699616 3707044 
+3739702 3739706 
+
+Product Distributed by: Microvasive Urology 
+Balloon Dilatation Catheter Kits containing (1) LeVeen Inflator with 
+Pressure Gauge 20 ml (cc) Catalog # Product Description UPN/Material # 
+LeVeen Refer to the specific lots of the LeVeen Inflator, Catalog #710-
+112 and UPN# M0067101121 that are included in this recall. 210-151 
+Tandem� Thin-Shaft M0062101510 210-153 Tandem� Thin-Shaft M0062101530 
+210-155 Tandem� Thin-Shaft M0062101550 216-140 Carson Zero Tip 
+M0062161400 216-141 Carson Zero Tip M0062161410 216-143 Carson Zero Tip 
+M0062161430 216-144 Carson Zero Tip M0062161440 219-140 UroMax� 20 
+M0062191400 219-141 UroMax� 20 M0062191410 219-142 UroMax� 20 M0062191420 
+219-143 UroMax� 20 M0062191430 219-144 UroMax� 20 M0062191440 219-145 
+UroMax� 20 M0062191450 219-146 UroMax� 20 M0062191460 219-147 UroMax� 20 
+M0062191470 219-148 UroMax� 20 M0062191480 219-151 UroMax� 20 M0062191510 
+219-155 UroMax� 20 M0062191550 219-156 UroMax� 20 M0062191560 219-157 
+UroMax� 20 M0062191570 219-170 UroMax� 20 M0062191700 219-171 UroMax� 20 
+M0062191710 219-172 UroMax� 20 M0062191720 219-174 UroMax� 20 M0062191740 
+219-180 UroMax� 20 M0062191800 221-220 Trilogy� M0062212200 221-221 
+Trilogy� M0062212210 221-222 Trilogy� M0062212220 221-223 Trilogy� 
+M0062212230 221-225 Trilogy� M0062212250 Note: only the specific catalog 
+numbers and lots detailed above are affected. 
+REASON:
+During in-house testing of the LeVeen Inflator for tray package 
+integrity, a hole in the Tyvek lid was discovered in a small quantity of 
+trays in one lot of tray material. 
+MANUFACTURER:
+Microvasive Urology Div./ Boston Scientific Corp., Watertown, MA 
+RECALLED BY:
+Boston Scientific Corp Natick, MA notified direct accounts between 
+6/8/01-6/11/01 by letter. 
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide
+QUANTITY:
+13,823 units
+
+RECALLS AND FIELD CORRECTIONS: DEVICES -- CLASS III
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0654-1, D.O. Weaver & Co., Ten20 Conductive Paste, 4 oz jar, Catalog # 
+10-20-4, Batch # 535, MAR 2004 07.
+REASON:
+Incorrect expiration date is on label of product.
+MANUFACTURER/RECALLING FIRM:
+D.O. Weaver Co., Aurora, CO 
+RECALLED BY:
+The recalling firm telephoned all customers who had been shipped the 
+affected product on April 18, 2001. This was followed up with Fax or mail 
+documentation. 
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+CO, IA, MA, MO, MT, NY, OH, PA and TX 
+Foreign distribution to Canada and UK 
+QUANTITY
+515
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0565-01, Daig Angio-Seal Vascular Closure Device, 8 French, Product 
+Number 
+610097, Lot number 00DP59
+REASON:
+Boxes of the product from lot 00DP59 contain incorrect Instructions for 
+Use (IFUs). 
+MANUFACTURER/RECALLING FIRM:
+St. Jude Medical, Inc., Daig Division, Minnetonka, MN 
+RECALLED BY:
+The recalling firm sales representatives visited all customers to make 
+the correction starting April 10, 2001. A consignee in Hawaii was 
+contacted by telephone and facsimile. 
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Nationwide
+QUANTITY:
+3,220 vascular closure devices (644 boxes of 5 devices each)
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0659-1
+1/4 X 1/2 X 1/2 Clear PAY with Luer Lock.  10 pouched/labeled units per 
+box. 
+REASON:
+Non-sterile product labeled non-sterile contained a sterile catalog 
+number and should have been sterile.
+MANUFACTURER/RECALLING FIRM:
+Lifestream International, Inc., The Woodlands, TX 
+RECALLED BY:
+The sales representative received the unused inventory from the customer 
+on 7/17/00. A confirmatory letter, combining the recall notification and 
+an effectiveness check was sent to the account by overnight mail on 
+7/25/00. 
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+St. Louis, MO
+QUANTITY:
+70 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+User and Service Manuals for the ddR (direct digital radiography) 
+Multi-System X-Ray Units, a stationary radiographic system for 
+diagnostic imaging.
+Z-648-1, ddRMulti-System User Manual and Service Manual
+Model No. 6.1030,0002,3.
+REASON:
+The user and service manuals did not adequately identify the 
+manufacturer's recommended automatic exposure control (AEC) settings and 
+cautions regarding changes to these settings.
+MANUFACTURER/RECALLING FIRM:
+Swissray America, Inc., Elmsford, NY
+RECALLED BY:
+Manufacturer, by letter on March 23, 2001.
+FIRM INITIATED RECALL:
+Terminated
+DISTRIBUTION:
+NY, AL, AZ, MD, PA, CA and TX. There were also seven (7) US 
+Goverment/military accounts: 1.) David Grant Medical Center, Travis AFB, 
+CA; 2.) PHS/INS Medical Facility, El Centro, CA; 3.) PHS/INS Medical 
+Facility, Florence, AZ; 4.) PHS, New York, NY; 5.) INS Medical Referral 
+Facility, El Paso, TX; 6.) VA Hudson Valley, Montrose, NY; 7.) VA 
+Martinsburg, Martinsburg, WV. 
+QUANTITY
+16 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-605-1, Immulite 2000 TBG, Catalog No. LKTB2, Lot No. 107
+REASON:
+During routine stability monitoring performed at EURO/DPC, it was 
+identified the potential for a diminished performance in the Immulite 
+TBGT lot 209 and Immulite TBG control.
+MANUFACTURER:
+Diagnostic Products Corp, Los Angeles, CA
+RECALLED BY:
+Manufacturer, by Technical Service representative on April 25, 2001.
+FIRM INITIATED RECALL:
+Ongoing.
+DISTRIBUTION:
+AL, CA, OR, MD, MI, PA, NJ, UT. Gov't received product at National 
+Institute of Health, Bethesda MD. Also to Australia, Brazil, Germany, 
+Greece, Netherlands, Italy, Spain, Sweden, Turkey and UK. 
+QUANTITY:
+72
+RECALLS AND FIELD CORRECTIONS: VEWTMED -- CLASS II
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+V-371-1, Tender Lean/Shelled Corn Cattle Feed Mix, a custom
+animal feed mix, packed in 80 LB bags. CODES:  None.  The bags are 
+unlabeled. The feed was manufactured on 5/14/2001.
+REASON:
+The cattle feed (for ruminant animals)may contain protein derived from 
+mammalian tissues.
+MANUFACTURER/RECALLING FIRM:
+Champaign Landmark, Inc., Urbana, Ohio
+RECALLED BY:
+On 5/24/2001, the firm's Feed Manager personally visited the sole 
+farmer/consignee, at which time, he hand-delivered the firm's recall 
+letter.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Ohio
+QUANTITY:
+2,000 LBS
+
+END OF ENFORCEMENT REPORT FOR July 11, 2001.
+
+####
+
+
+
+
+FDA News Page   
+  |   FDA Home Page 
+
+
+Office of Public Affairs
+  Hypertext uploaded by tg 2001-JUL-11 .

@@ -1,0 +1,1417 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Sep
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  06
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      29 captures
+	      06 Oct 2002 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA 
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration, Department of Health and Human Services. 
+It contains information on actions  taken in connection with agency
+Regulatory activities.
+
+October 2, 2002
+  02-39
+
+RECALLS AND FIELD CORRECTIONS: 
+  FOODS -- CLASS II
+_______________________
+PRODUCT
+Imported Irish Belleek(tm) food service items consisting of:
+a) Belleek Teapot, item #H22701.  Recall # F-804-2;
+b) Nadine 8" Fruit Bowl, item #H24994.  Recall # F-805-2;
+c) Belleek Creamer-Sugar Set, item #H27935.  Recall # F-806-2;
+d) Dalraida Shamrock Fruit Bowl, item #H42984.  Recall # F-807-2;
+e) Belleek Shell Bowl, item #H44648.  Recall # F-808-2;
+f) Belleek Milk Pitcher, item #H48303.  Recall # F-809-2;
+g) Belleek Neptune Cup & Saucer Set, item #H48308. 
+   Recall # F-810-2;
+h) Neptune Seashell Teapot, item #H48307.  Recall # F-811-2;
+i) Neptune Seashell Sugar/Creamer Set, item #H48309. 
+   Recall # F-812-2;
+j) Shamrock Tea Kettle, item #H48310.  Recall # F-813-2;
+k) Belleek Finner Cup & Saucer Set, item #H49760. 
+   Recall # F-814-2;
+l) Belleek Coffee Pot, item #H50126.  Recall # F-815-2;
+m) Kylemore Fruit Bowl, item #H74685.  Recall # F-816-2.
+CODE
+Individual pottery products are not coded.  A product watermark can be found on the bottom of items.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  QVC, Inc., West Chester, PA, by letter on January 15, 2001.
+Manufacturer:  Belleek Pottery Limited Belleek, County Fermanaugh, IE.  Firm initiated recall is complete.
+REASON
+Food service pottery items may be contaminated with lead.
+VOLUME OF PRODUCT IN COMMERCE
+1503 items.
+DISTRIBUTION
+Nationwide.
+_______________________
+PRODUCT
+Segarra brand Lime flavor syrup (Sirop de Lima-Limon), packaged in 700 ml/23.70 oz glass bottles.  Recall  # F-818-2.
+CODE
+RU-93.
+RECALLING FIRM/MANUFACTURER
+Caribe Tropical Corp., San Sebastian, Puerto Rico, by letter dated June 24, 2002.  Firm initiated recall is ongoing.
+REASON
+The product contained undeclared FD& C Yellow  No. 5 and FD&C Blue No. 1.
+VOLUME OF PRODUCT IN COMMERCE
+21 boxes/12 bottles/23.70 fl. oz.
+DISTRIBUTION
+Puerto Rico.
+_______________________
+PRODUCT
+Item #/Product Description
+a) FA0665  Hot & Spicy Batter (1 lot).  Recall # F-819-2;
+b) FA0853  Wendy's H&S Filet Batter (1 lot).  Recall # F-820-2;
+c) FA0854  Wendy's Chicken Nugget (1 lot).  Recall # F-821-2;
+d) FA1097  Chicken Batter (1 lot).  Recall # F-822-2;
+e) FA2032  Chicken Batter (1 lot).  Recall # F-823-2;
+f) FA2033  Chicken Breader (1 lot).  Recall # F-824-2;
+g) FA2250  Chicken Fritter Breader (2 lots).  Recall # F-825-2;
+h) FA2359  McD Flt Bttr w/Btrmillk (2 lots).  Recall # F-826-2;
+i) FA2360  McD Flt Bttr w/C&B (2 lots).  Recall # F-827-2;
+j) FA2503  KFC OR Sandwich Batter (2 lots).  Recall # F-828-2;
+k) FA2836  Wendy's Nugget Batter (1 lot).  Recall # F-829-2;
+l) FA3357  Chicken Fillet Predust (1 lot).  Recall # F-830-2;
+m) FA3545  KFC FTF Popcorn Batter (1 lot).  Recall # F-831-2;
+n) F15768  Wendy's Chicken Nugget Batter (1 lots). 
+   Recall # F-832-2;
+o) F16306  Wendy's Filet Batter (1 lot).  Recall # F-833-2;
+p) F18902  Chicken Wing Batter (1 lots).  Recall # F-834-2;
+q) F18903  Chicken Wing Breader (2 lots).  Recall # F-835-2;
+r) F19816  Wendy's Chicken Predust (1 lots).  Recall # F-836-2;
+s) F70705  Wendy's Filet Breader H&S (3 lots).  Recall # F-837-2;
+t) F71191  Chicken Batter (1 lot).  Recall # F-838-2;
+u) F73942  Wendy's Filet Batter H&S (1 lots).  Recall # F-839-2;
+v) F74517  Chicken Breader (1 lot).  Recall # F-840-2;
+w) F75006  Chicken Liver Batter (1 lot).  Recall # F-841-2;
+x) F75707  Chicken Batter (1 lot).  Recall # F-842-2;
+y) F76282  Chicken Batter (3 lots).  Recall # F-843-2;
+z) F76283  Chicken Breader (5 lots).  Recall # F-844-2;
+aa) F76484  KFC Crispy Strip Breader (2 lots).  Recall # F-845-2;
+bb) F76487  KFC Crispy Strip Batter (2 lots).  Recall # F-846-2;
+cc) F76744  MRB Breader (1 lot).  Recall # F-847-2;
+dd) F79270  KFC OR Sandwich Predust (2 lots).  Recall # F-848-2.
+CODE
+Item #  Lot #    Product Description
+FA0665  01L0993  Hot & Spicy Batter
+FA0853  01L1174  Wendy's H&S Filet Batter
+FA0854  01L1175  Wendy's Chicken Nugget
+FA1097  01L0886  Chicken Batter
+FA2032  01L1009  Chicken Batter
+FA2033  01L1010  Chicken Breader
+FA2250  01L0879  Chicken Fritter Breader
+        01L0900  Chicken Fritter Breader
+FA2359  01L0956  McD Flt Bttr w/Btrmillk
+        01L0959  McD Flt Bttr w/Btrmillk
+FA2360  01L0957  McD Flt Bttr w/C&B
+        01L0964  McD Flt Bttr w/C&B
+FA2503  01L0800  KFC OR Sandwich Batter
+        01L1187  KFC OR Sandwich Batter
+FA2836  01L1216  Wendy's Nugget Batter
+FA3357  02A1520  Chicken Fillet Predust
+FA3545  01L1208  KFC FTF Popcorn Batter
+F15768  01L0922  Wendy's Chicken Nugget Batter
+F16306  01L1211  Wendy's Filet Batter
+F18902  01L1132  Chicken Wing Batter
+F18903  01L0987  Chicken Wing Breader
+        01L1294  Chicken WIng Breader
+F19816  01L0914  Wendy's Chicken Predust
+F70705  01K0484  Wendy's Filet Breader H&S
+        01L1262  Wendy's Filet Breader H&S
+        01L1286  Wendy's Filet Breader H&S
+F71191  01L1020  Chicken Batter
+F73942  01L1103  Wendy's Filet Batter H&S
+F74517  01L1375  Chicken Breader
+F75006  01L0975  Chicken Liver Batter
+F75707  01L0981  Chicken Batter
+F76282  01K0469  Chicken Batter
+        01K0613  Chicken Batter
+        01L0906  Chicken Batter
+F76283  01K0625  Chicken Breader
+        01K0626  Chicken Breader
+        01L0908  Chicken Breader
+        01L0910  Chicken Breader
+        01L1254  Chicken Breader
+F76484  01L0791  KFC Crispy Strip Breader
+        01L1026  KFC Crispy Strip Breader
+F76487  01L0943  KFC Crispy Strip Batter
+        01L1105  KFC Crispy Strip Batter
+F76744  01L1016  MRB Breader
+F79270  01L0992  KFC OR Sandwich Predust
+        01L1213  KFC OR Sandwich Predust
+
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  McCormick and Company, Sparks, MD, by fax and letter on February 25, 2002.
+Manufacturer:  McCormick and Company, Irving, TX.  Firm initiated recall is complete.
+REASON
+The products were manufactured using flour that ADM Milling Co., Overland Park, KS recalled due to Salmonella contamination.
+VOLUME OF PRODUCT IN COMMERCE
+1,865,200 pounds.
+DISTRIBUTION
+Nationwide and Canada.
+_______________________
+PRODUCT
+Fraternity brand Banh Men Gai Coconut Cookies, packed in rigid plastic containers, Net Weight: 8.8 oz. (250 grs).  Product of Vietnam. Firms on label - Packed by: Vina Hung.  Recall # F-860-2.
+CODE
+Barcode # 935005 305619 and no other coding.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Ho's Trading, Inc., Brooklyn, NY, by letters on November 24, 2001.
+Manufacturer:  Vina Hung Ho, Chi Minh City, Vietnam.  State initiated recall is complete.
+REASON
+The product contained an unidentified blue color and undeclared tartrazine (certifiable as FD&C Yellow #5).
+VOLUME OF PRODUCT IN COMMERCE
+44 cases (24 - 8.8 oz. containers per case) were distributed.
+DISTRIBUTION
+Asian retail markets in NY, OH, MD, VA, IL, NC, GA and FL.
+_______________________
+PRODUCT
+HAITAI Sunny10 GRAPE SOFT DRINK (PODO), packaged in a plastic bottle, NET WT. 52.91 FL. OZ. (1.5 L).  PRODUCT OF KOREA. 
+Recall # F-861-2.
+CODE
+F3 15:16 2000 12:01
+Barcode # 801105 003512.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  C. Kenneth Imports Co., Inc., Bronx, NY, by letter on April 24, 2001.
+Manufacturer:  Unknown.  State initiated recall is complete.
+REASON
+The product contained an unidentified red color & brilliant blue FCF (certifiable as FD&C Blue #1).
+VOLUME OF PRODUCT IN COMMERCE
+25 cases (12 bottles per case) were distributed and 20 cases were voluntarily held by the importer.
+DISTRIBUTION
+NY and NJ.
+_______________________
+PRODUCT
+Frozen Ready to Bake Desserts -
+a) Sysco Imperial 1041086 10" Old Fashion Ready-to-Bake IQF 
+   Apple.  Recall # F-862-2;
+b) Mrs. Smith's 37 oz. 9" Ready-to-Bake Retail Cherry. 
+   Recall # F-863-2;
+c) Mrs. Smith's 37 oz. 9" Retail Dutch Apple. Recall # F-864-2;
+d) Mrs. Smith's 37 oz. 9" ISB Old Fashion IQF No Sugar Added 
+   Peach. Recall # F-865-2;
+e) Mrs. Smith's 37 oz. 9" ISB Old Fashion IQF No Sugar Added 
+   Apple. Recall # F-866-2;
+f) Mrs. Smith's 37 oz. 9" ISB Old Fashion IQF No Sugar Added 
+   Cherry. Recall # F-867-2;
+g) Mrs. Smith's 37 oz. 9" ISB Old Fashion IQF Cherry. 
+   Recall # F-868-2;
+h) Mrs. Smith's 37 oz. 9" Retail Ready-to-Bake Peach. 
+   Recall # F-869-2;
+i) Mrs. Smith's 37 oz. 9" Retail Ready-to-Bake Blueberry. 
+   Recall # F-870-2;
+j) Temptables 755348 49 oz. 10" Fruit of the Forest. 
+   Recall # F-871-2;
+k) Mrs. Smith's 46 oz. 10" Retail Deepdish Apple Crumb. 
+   Recall # F-872-2;
+l) Mrs. Smith's Bakeries 42 oz. 9" Deepdish Peach Full Top.         Recall # F-873-2.
+CODE
+Products contain one of the following codes:
+320 0041 2
+320 0051 2
+320 0061 2
+320 0071 2
+320 0081 2
+320 0091 2.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm: Mrs. Smith's Bakeries, Inc., Suwanee, GA, by fax on January 15, 2002.
+Manufacturer: Mrs. Smith's Bakery of Stilwell, LLC, Stilwell, OK.
+Firm initiated recall is ongoing.
+REASON
+The products were manufactured using flour that ADM Milling Co., Overland Park, KS recalled due to Salmonella contamination.
+VOLUME OF PRODUCT IN COMMERCE
+55,788 cases of the various products.
+DISTRIBUTION
+Nationwide.
+_______________________
+PRODUCT
+a) Untreated soft wheat flour in bulk or packaged in 50-lb. bags    labeled as Pastry Flour or 100-lb. bags labeled as Soft Wheat    Flour.  Recall # F-874-2;
+b) Enriched soft wheat flour in bulk or packaged in 50-lb. bags     labeled as Biscuit Flour, 50-lb. bags and 100-lb. bags labeled    as Soft Wheat Flour, or 100-lb. bags labeled as McKee Cookie     Flour. Recall # F-875-2;
+c) Enriched and chlorinated soft wheat flour in bulk and 100-lb.    bags labeled as McKee Cake Flr or Chlorinated Flour.             Recall # F-876-2;
+d) Soft bleached flour in 100-lb. bags labeled as KS.  Dia. 
+   Bleached Flour (KS. Dia. = Kansas Diamond). Recall # F-877-2.
+CODE
+Product received by the customer between 12/13/01-1/8/02 and 
+1/21/02-1/29/02.
+RECALLING FIRM/MANUFACTURER
+ADM Milling Co., Overland Park, KS, by telephone on January 14, 2002.  Firm initiated recall is ongoing.
+REASON
+The products were contaminated with Salmonella.
+VOLUME OF PRODUCT IN COMMERCE
+Untreated bulk-3,107,800 lbs., 
+untreated bagged-6,300/50-lb.&5,927/100-lb.; 
+enriched bulk-1,210,380 lbs.; 
+enriched bagged-620/50-lb&672/100-lb.; 
+enriched & chlorinated bulk-1,963,680 lbs. bagged-1,680/100-lb.; bleached-912/100-lb. bags 
+DISTRIBUTION
+TX, AR, and OK.
+
+RECALLS AND FIELD CORRECTIONS: 
+  FOODS -- CLASS III
+_______________________
+PRODUCT
+Blue Ridge Farms brand Blue Cheese Potato Salad in a rigid plastic, bulk container, net wt. 10 lbs.  Recall # F-817-2.
+CODE
+All codes on the market at the time of recall initiation.
+RECALLING FIRM/MANUFACTURER
+Blue Ridge Farms Inc., Brooklyn, NY, by fax, e-mail and letter dated July 19, 2001.  State initiated recall is complete.
+REASON
+The product contained the undeclared preservative, potassium sorbate.
+VOLUME OF PRODUCT IN COMMERCE
+74 cases (10 - 10 lb. containers per case).
+DISTRIBUTION
+NY.
+_______________________
+PRODUCT
+Arla Mediterra Danish Feta in Oil and Spices, packaged in a 300g (10.5oz)glass jar. Recall # F-878-2.
+CODE
+Order Number 44642
+Produced between 3/11/2002 to 6/29/2002 (case info)
+Best before date 10/11/2002 to 1/29/2003 (unit info).
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Arla Foods Inc., Union, NJ, by fax on July 15, 2002.
+Manufacturer:  Arla Foods, Amba  Videaek, Denmark.  Firm initiated recall is ongoing.
+REASON
+The product was contaminated with glass fragments.
+VOLUME OF PRODUCT IN COMMERCE
+4158 cases (24948 jars).
+DISTRIBUTION
+Nationwide.
+_______________________
+PRODUCT
+The products are drink boxes, each box is 6.75 fl oz and pasteurized, packed either 30 or 40 to a case as noted below:
+a) Hi-C 10-pak: each case contains 4 x 10-paks (40 units total)     of Hi-C Orange Lavaburst. Recall # F-879-2.
+b) Hi-C 10-pak: each case contains 4 x 10-paks (40 units total)     of Hi-C Fruit Punch. Recall # F-880-2;
+c) Hi-C Variety Pak: each case contains 3 x 10-paks, each a         different flavor,(30 units total), Hi-C Orange/Fruit
+   Punch/Boppin Berry. Recall # F-881-2;
+d) Minute Maid Variety Pak: each case contains 3 x 10-paks, each    a different flavor,(30 units total), Orange/Apple/Grape.         Recall # F-882-2.
+CODE
+XX:XX is military time
+Hi-C 10-pak:	
+Hi-C Orange Lavaburst: DEC0902 TI XX:XX; DEC0902 TJ XX:XX
+Hi-C Fruit Punch: JAN0903 TI XX:XX; JAN0903 TJ XX:XX
+Hi-C Variety Pak: 
+Hi-C Orange/Fruit Punch/Boppin Berry: DEC0902 T77641A 00139; 
+DEC1402 T77642A 00139; DEC0902 T77646A 00139; DEC0902 T77649A 00139; 
+DEC1402 T77650A 00139; DEC0902 T77812D 00139; DEC0402 T78005A 00139;
+Minute Maid Variety Pack:
+Minute Maid Orange/Apple/Grape: OCT1002 T77236G 00203; 
+OCT0502 T77648E 00203; OCT2302 T77806B	00203; 
+OCT2402 T77807C 00203; OCT0502 T77936D	00203; 
+OCT0502 T77943E 00203.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  The Minute Maid Company, Houston, TX, by letter on May 3, 2002.
+Manufacturer:  The Minute Maid Company, Paw Paw, MI.
+Firm initiated recall is complete.
+REASON
+The products were spoiled due to yeast contamination.
+VOLUME OF PRODUCT IN COMMERCE
+84,305 cases.
+DISTRIBUTION
+Nationwide.
+
+RECALLS AND 
+  FIELD CORRECTIONS: DRUGS -- CLASS 
+  II
+_______________________
+PRODUCT
+MS Contin Tablets (morphine sulfate) controlled-release, 15 mg, 25 count blister packs, 100 and 500 count bottles.  
+Recall # D-412-2.
+CODE
+5H31 (500's)Exp 7/04
+5H32 (25's) Exp 7/02
+5H33 (25's) Exp 7/02
+5H34 (25's) Exp 7/02
+5H35 (25's) Exp 7/02
+5H36 (100's) Exp 7/04.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  The Purdue Frederick Co., Norwalk, CT, by letters on August 15, 2002.
+Manufacturer:  The P.F. Laboratories, Inc., Totowa, NJ.  Firm initiated recall is complete.
+REASON
+Tablet mixup; 30 mg tablets may be in bottles and/or blister packs labeled as containing 15 mg tablets.
+VOLUME OF PRODUCT IN COMMERCE
+4,571 bottles of 500's; 4,968 bottles of 100's; and 26,455 blisters of 25's.
+DISTRIBUTION
+Nationwide and the Dominican Republic.
+_______________________
+PRODUCT
+Quinine Sulfate Tablets, USP, 260 mg, 100 count bottle, Rx only. Recall # D-413-2.
+CODE
+Lot No.            Exp. date
+3001-105631A       Apr/04.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Ivax Pharmaceuticals, Inc., Miami, FL, by letter on August 29, 2002.
+Manufacturer:  Ivax Pharmaceutical Caribe, Inc., Cidra, Puerto Rico.  Firm initiated recall is ongoing.
+REASON
+Tablet mixup; a bottle labeled as containing Quinine Sulfate tablets was found to contain Quinine Sulfate tablets and one tablet of Labetalol 100 mg, an antihypertensive.
+VOLUME OF PRODUCT IN COMMERCE
+12,000 bottles. 
+DISTRIBUTION
+Nationwide.
+_____________________
+PRODUCT
+Benadryl Allergy/Sinus Headache Caplets co-packaged with a Bonus 4 mL bottle of Visine Tears (Diphenhydramine Hydrochloride 
+12.5 mg, Pseudoephedrine Hydrochloride 30 mg, Acetaminophen 500 mg), 24 count package.  Recall # D-415-2.
+CODES
+Codes:            Lot Numbers:
+01222CD01         Exp Date:  4/2003
+01222CM01         "
+01322CD01         "
+01322CM01         "
+01422CN01         "
+01522CD01         "
+01522CN01         "
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Pfizer Consumer Healthcare R&D Morris Plains, NJ., by letter on June 11, 2002. 
+Manufacturer:  Pfizer, Inc., Vega Baja, PR.  Firm initiated recall ongoing.
+REASON
+Mispackaged; promotional packages labeled as containing Benadryl Allergy/Sinus Headache Caplets co-packaged with a bonus 4mL sample of Visine Tears may actually contain Benadryl Severe Allergy/Sinus Headache Caplets. 
+VOLUME OF PRODUCT IN COMMERCE
+2270 boxes of 24 caplets.
+DISTRIBUTION
+AR
+
+RECALLS AND FIELD CORRECTIONS: 
+  DRUGS -- CLASS III
+_______________________
+PRODUCT
+a) HALLS Sugar Free Cough Drops (Menthol 5.8 mg) 25 DROPS per       bag, Mountain Menthol.  Recall # D-420-2;
+b) HALLS Sugar Free Cough Drops (Menthol 5 mg) 25 DROPS per bag,    Black Cherry.  Recall # D-421-2.
+CODE
+a) Lot # 0722E, Exp. 2/7/2004;
+b) Lot #00832E, Exp. 3/8/2004.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Adams USA (Div. of Warner Lambert, a Subsidiary of Pfizer, Inc.), Parsippany, NJ, by letter on April 18, 2002.
+Manufacturer:  Parke Davis & Co. Limited, Manchester M26 2QT, England.  Firm initiated recall is ongoing.
+REASON
+Product may contain metal particles.
+VOLUME OF PRODUCT IN COMMERCE
+a) 1053 cases; 
+b) 189 cases.
+DISTRIBUTION
+Nationwide.
+_______________________
+PRODUCT
+a) Listerine Essential Care Gel Toothpaste, 0.9 oz tube             (Eucalyptol 0.738%, Menthol 0.340%, Methyl salicylate 0.480%,    Thymol 0.511%, Sodium monofluorophosphate 0.76% (0.13%           Fluoride Ion).  Recall # D-422-2;
+b) Listerine Essential Care Tartar Control Gel Toothpaste, 0.9 oz    tube, (Eucalyptol 0.738%, Menthol 0.340%, Methyl salicylate      0.480%, Thymol 0.511%, Sodium monofluorophosphate 0.76% (0.13%    Fluoride Ion).  Recall # D-423-2.
+CODE
+All Lots packaged as follows:
+Professional Samples -- Not for Retail Sale
+Trial Size Tartar Control Gel Case UPC 1 03 12547 43450 5
+Case containing 72/0.9 ounce tubes
+Trial Size Gel
+Case UPC 1 03 12547 43470 3
+Case containing 72/0.9 ounce tubes.
+  Promotional Items as an on-pack with 
+  Listerine 1.0 L and 1.5 L (Gold, 
+  CoolMint, Fresh Burst, Tartar Control, 
+  Mixed Displays)
+Bottles.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Pfizer, Consumer Healthcare Group, Morris Plains, NJ, by letters on May 22, 2002.
+Manufacturer:  Accupac, Inc., Mainland, PA.  Firm initiated recall is ongoing.
+REASON
+Subpotent; active ingredient Methyl salicylate (stability).
+VOLUME OF PRODUCT IN COMMERCE
+12,649,365 tubes.
+DISTRIBUTION
+Nationwide and Puerto Rico.
+_______________________
+PRODUCT
+Oxygen, USP, High Pressure Cylinders, Compressed.  
+Recall #D-414-2.
+CODE
+Lot OP895 and Lot OP901.
+RECALLING FIRM/MANUFACTURER
+Oxygen Support Systems, Riverside, NJ, by telephone on November 5, 2001.  Firm initiated recall is complete.
+REASON
+Subpotent.
+VOLUME OF PRODUCT IN COMMERCE
+12.
+DISTRIBUTION
+NJ and PA.
+
+RECALLS AND FIELD CORRECTIONS: 
+  BIOLOGICS -- CLASS II
+_______________________
+PRODUCT
+Source Plasma, Recall # B-1924-2.
+CODE
+Unit G48509-076.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:	 Alpha Therapeutic Corporation, Los Angeles, CA, by fax on December 20, 2000.
+Manufacturer:  Alpha Therapeutic Corporation, Fayetteville, NC.
+Firm initiated recall is complete.
+REASON
+Blood product, collected under conditions in which sterility may have been compromised, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+NC.
+_______________________
+PRODUCT
+a) Red Blood Cells, Recall # B-1937-2;
+b) Platelets, Recall # B-1938-2;
+c) Fresh Frozen Plasma, Recall # B-1939-2;
+d) Recovered Plasma, Recall # B-1940-2.
+CODE
+a) Units 1396250, 1396251, 1396252, 1396253, 1396254, 1396255, 1396256, 1396258, 1396260, 1396261, 1396262, 1396263, 1396264, 1396266, 1396267, 1396268, 1396269, 1396270, 1396272, 1396273, 1396274, 1396275, 1396276, 1396277, 1396278, 1396279, 1396280, 1396281, 1396282, 1396283, 1396286, 1396287, 1396288, 1396289, 1396290, 1396291, 1396295, 1396296, 1396297, 1396299, 1396300, 1396301, 5108316, 5108317, 5108318, 5108319, 5108320, 5108321, 5108322, 5108323, 5108324, 5108325, 5108326, 5108327, 5108328, 5108329, 5108330, 5108331, 5108332, 5108333, 5108334, 5108335, 5108336, 5108337, 5108338, 5108339, 5108340, 5108341, 5108342, 5108343, 5108344, 5108345, 5108346, 5108347, 5108348, 5108349, 5108350, 5108351, 5108352, 5108354, 5108355, 5108356, 5108357, 5108358, 5108359, 5108360, 5108361, 5108362, 5108363, 5108364, 5108365, 5108366, 5108367, 5108368;
+
+b) Units 5108320, 5108323, 5108324, 5108326, 5108328, 5108331, 5108336, 5108340, 5108342, 5108344, 5108348, 5108363, 5108365;
+
+c) Units 5108316, 5108317, 5108319, 5108320, 5108321, 5108324, 5108326, 5108328, 5108329, 5108330, 5108331, 5108332, 5108333, 5108335, 5108336, 5108338, 5108340, 5108342, 5108344, 5108345, 5108347, 5108348, 5108349, 5108350, 5108351, 5108352, 5108354, 5108355, 5108357, 5108359, 5108361, 5108362, 5108363, 5108364, 5108365, 5108366, 5108367, 5108368, 5108334;
+
+d) Units 1396250,  1396251, 1396252, 1396253, 1396254, 1396255, 1396256, 1396258, 1396259, 1396260, 1396261, 1396262, 1396263, 1396264, 1396266, 1396267, 1396268, 1396269, 1396270, 1396272, 1396273, 1396274, 1396275, 1396276, 1396277, 1396278, 1396279, 1396280, 1396281, 1396282, 1396283, 1396285, 1396286, 1396288, 1396289, 1396290, 1396291, 1396295, 1396296, 1396297, 1396299, 1396300, 1396301, 5108323, 5108339, 5108343, 5108346, 5108360.
+RECALLING FIRM/MANUFACTURER
+Central Texas Regional Blood and Tissue Center, Austin, TX, by letter dated September 1, 1999.  Firm initiated recall is complete.
+REASON
+Blood products, incorrectly tested for antibody to the human immunodeficiency virus (anti-HIV-1/2), were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+a) 94 units;
+b) 13 units;
+c) 39 units;
+d) 48 units.
+DISTRIBUTION
+TX, IL, FL and NY.
+_______________________
+PRODUCT
+a) Red Blood Cells.  Recall # B-1989-2;
+b) Platelets.  Recall # B-1990-2;
+c) Fresh Frozen Plasma.  Recall # B-1991-2;	
+CODE
+a) and c) Unit 22LY41039, 22LW28926, 22LJ25952, 22FQ25666;
+b) Units 22LJ25952, 22FQ25666.
+RECALLING FIRM/MANUFACTURER
+American Red Cross, Penn-Jersey Region, Philadelphia, PA, by letter dated November 23, 2001 or December 21, 2001.
+Firm initiated recall is ongoing.
+REASON
+Blood products, collected from a donor who provided post donation information regarding having tested positive for hepatitis, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+10 units.
+DISTRIBUTION
+PA and NJ.
+_______________________
+PRODUCT
+a) Red Blood Cells.  Recall # B-2000-2;
+b) Red Blood Cells Leukocytes Removed.  Recall # B-2001-2;
+c) Fresh Frozen Plasma.  Recall # B-2002-2;
+d) Plasma.  Recall # B-2003-2;
+e) Cryoprecipitated AHF.  Recall # B-2004-2;
+f) Recovered Plasma.  Recall # B-2005-2;
+CODE
+a) and c) Unit 30GG94854;
+b) Units 30GH75705, 30GN42595, 30GN33180, 30GW08370, and 
+   30GH61013;
+d) unit 30GN42595;
+e) units 30GH75707, 30GN42595, 30GN33180, and 30GW08370;
+f) units 30GH75705, 30GN37242, 30GN33180, 30GW08370, and   
+   30GH61013.
+RECALLING FIRM/MANUFACTURER
+American Red Cross Blood Services,	Northeastern Pennsylvania Region, Ashley, PA, by telephone on October 24, 2001 and by letter dated October 26, 2001.  Firm initiated recall is complete.
+REASON
+Blood products, which were collected from a donor who had taken the medication Proscar, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+17 units.
+DISTRIBUTION
+PA, NY, MA and Switzerland.
+_______________________
+PRODUCT
+Source Plasma, Recall # B-2006-2.
+CODE
+Unit 71FPBBXM.
+RECALLING FIRM/MANUFACTURER
+Aventis Bio-Services, Inc., Greenville, SC, by letter dated March 3, 2002.  Firm initiated recall is complete.
+REASON
+Blood product, collected from a donor whose arm preparation was not documented, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+NC.
+_______________________
+PRODUCT
+Source Plasma.  Recall # B-2007-2.
+CODE
+Unit (1 unit) 71 96D669.
+RECALLING FIRM/MANUFACTURER
+Aventis Bio-Services, Inc., Greenville, SC, by letter dated March 3, 2002.  Firm initiated recall is complete.
+REASON
+Blood product, collected from a donor whose arm preparation was not documented, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+NC.
+_______________________
+PRODUCT
+Source Plasma.  Recall # B-2008-2.
+CODE
+Unit 71 FPCBYT.
+RECALLING FIRM/MANUFACTURER
+Aventis Bio-Services, Inc., Greenville, SC, by letter dated March 3, 2002.  Firm initiated recall is complete.
+REASON
+Blood product, collected from a donor whose arm preparation was 
+not documented, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+Germany.
+_______________________
+PRODUCT
+Source Plasma.  Recall # B-2010-2.
+CODE
+Unit 71 FPCBQF.
+RECALLING FIRM/MANUFACTURER
+Aventis Bio-Services, Inc., Greenville, SC, by letter dated March 5, 2002.  Firm initiated recall is complete.
+REASON
+Blood product, which was not tested for syphilis, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+Germany.
+_______________________
+PRODUCT
+Source Plasma.  Recall # B-2011-2.
+CODE
+Units 71 96D210, 71 96D173, 71 96D005, 71 96C982.
+RECALLING FIRM/MANUFACTURER
+Aventis Bio-Services, Inc., Greenville, SC, by letter dated March 3, 2002.  Firm initiated recall is complete.
+REASON
+Blood products, which were not tested for syphilis, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+4 units.
+DISTRIBUTION
+Switzerland.
+_______________________
+PRODUCT
+Source Plasma.  Recall # B-2012-2.
+CODE
+Units 71 FPBGFR, 71 FPBGCR, 71 FPBGBB, 71 FPBFYC, 71 FPBFXB.
+RECALLING FIRM/MANUFACTURER
+Aventis Bio-Services, Inc., Greenville, SC, by letter dated March 3, 2002.  Firm initiated recall is complete.
+REASON
+Blood products, which were not tested for syphilis, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+5 units.
+DISTRIBUTION
+Germany.
+_______________________
+PRODUCT
+Source Plasma.  Recall # B-2014-2.
+CODE
+Unit 71 FPBMVS.
+RECALLING FIRM/MANUFACTURER
+Aventis Bio-Services, Inc., Greenville, SC, by letter dated March 3, 2002.  Firm initiated recall is complete.
+REASON
+Blood product, collected from a donor whose arm preparation was not documented, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+Germany.
+_______________________
+PRODUCT
+Corneas.  Recall # B-2035-2.
+CODE
+Tissue numbers 02-0968 OD and 02-0968 OS.
+RECALLING FIRM/MANUFACTURER
+Northwest Lions Eye Bank, Seattle, WA, by telephone on August 23, 2002 and by letter on August 27, 2002.  Firm initiated recall is complete.
+REASON
+Human tissue for transplantation, that tested repeatedly reactive for antibodies to hepatitis B core antigen (anti-HBc), was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+2 tissues.
+DISTRIBUTION
+Japan.
+_______________________
+PRODUCT
+Source Plasma.  Recall # B-2040-2.
+CODE
+Unit numbers 71FPCGQJ, 71FPCGCF, 71FPCFYF, 71FPCFSH, 71FPCFMV, 71FPCFJS, 71FPCFBY, 71FPCDLT, 71FPCDFX, 71FPCCZG, 71FPCCNN, 71FPCCJH, 71FPCCCB, 71FPCBWZ, 71FPCBLZ, 71FPCBJK, 7196G664, and 7197F760. 
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Aventis Bio-Services, Inc., King of Prussia, PA, by letter on March 21, 2002.  
+Manufacturer:	 Aventis Bio-Services, Inc., Greenville, SC.
+Firm initiated recall is complete.
+REASON
+Blood products, that tested negative for viral markers, but were collected from a donor who disclosed a risk factor for increased incidence of infection with human immunodeficiency virus (HIV), were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+18 units.
+DISTRIBUTION
+IL, NC, MA and Germany.
+_______________________
+PRODUCT
+Source Plasma.  Recall # B-2041-2.
+CODE
+Unit numbers 71FPBHKR, 71FPBHHQ, 71FPBHFL, 71FPBHCZ, 71FPBHBR, 71FPBGZC, 71FPBGVJ, 71FPBGRK, 71FPBGPJ, 71FPBGMT, 71FPBGKY, 71FPBGJM, 71FPBGCW, 71FPBGCC, 71FPBFYP, 71FPBFXH, 71FPBFVW, 71FPBFVC, 7196J034, 7196J080, 7196J211, 7196J291, 7196J344, 7196J356, 7196J457, 7196J493, 7196J505, 7196J884, 7196J966, 7196J536, 7196J549, 7196J580, 7196J596, 7196J638, 7196J650, 7196J676, 7196J690, 7186J724, 7196J741, 7196J777, 7196J791, 7196J825, 7196J838, 7196J875, 7196J912, 7196J934, 7196J983, 7196K012, 7196K026, 7196K052, 7196K069, 7196K101, 7196K114, 71FPBFLV, 71FPBFMX, 71FPBFPP, 71FPBFQH, and 71FPBFRV.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Aventis Bio-Services, Inc., King of Prussia, PA, by letter on March 3, 2002.  
+Manufacturer:	 Aventis Bio-Services, Inc., Greenville, SC.
+Firm initiated recall is complete.
+REASON
+Blood products, that tested negative for viral markers, but were collected from an ineligible donor due to illegal drug use, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+58 units.
+DISTRIBUTION
+IL, NC, Switzerland and Germany.
+_______________________
+PRODUCT
+Source Plasma.  Recall # B-2042-2.
+CODE
+Unit numbers G51468-178, G51263-178, G50939-178, G50755-178, G50203-178, G49124-178, G48693-178, G48493-178, G42443-178, G41953-178, G41752-178, G40158-178, G39770-178, G39555-178, G38986-178, G37271-178, G37066-178, G36700-178, G36486-178, G36109-178, G35738-178, G35284-178, G34529-178, G34243-178, G34028-178, G33719-178, G33426-178, G32971-178, G32778-178, G31798-178, G31529-178, G31236-178, G30955-178, G30663-178, G30394-178, G30162-178, G29817-178, G28736-178, G28636-178, G27783-178, G27449-178, G27265-178, G26655-178, G26846-178, G26104-178, G25947-178, G25592-178, G25422-178, G25055-178, G24834-178, G24493-178, G24359-178, G23904-178, G23744-178, G23392-178, G23214-178, G22852-178, G22659-178, G21514-178, G21394-178, G21011-178, G20842-178, N-06491-178, and N-06476-178.
+RECALLING FIRM/MANUFACTURER
+Aventis Bio-Services, Inc., Melrose Park, IL, by fax on April 10, 2002.  Firm initiated recall is complete.
+REASON
+Blood products, that tested negative for viral markers, but were collected from an ineligible donor due to illegal drug use, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+64 units.
+DISTRIBUTION
+CA.
+_______________________
+PRODUCT
+Source Plasma.  Recall # B-2043-2.
+CODE
+Unit numbers DDCLYK-A, DDCLST-A, DDCLMS-A, DDCLHT-A, DDCKRN-A, DDCKNH-A, DDCKDG-A, DDCJZQ-A, DDBMCG-A, DDBLRD-A, DDBLNC-A, DDBLGT-A, DDBKZX-A, DDBKSQ-A, DDBKNF-A, DDBKGY-A, DDBKCX-A, DDBJVL-A, DDBJRZ-A, DDBJMC-A, DDBJKB-A, DDBDYG-A, DDBDVC-A, DDBDNW-A, and DDBDLG-A.
+RECALLING FIRM/MANUFACTURER
+Aventis Bio-Services, Inc., Melrose Park, IL, by fax on April 11, 2002.  Firm initiated recall is complete.
+REASON
+Blood products, that tested negative for viral markers, but were collected from an ineligible donor due to illegal drug use, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+25 units.
+DISTRIBUTION
+IL.
+_______________________
+PRODUCT
+Red Blood Cells.  Recall # B-2045-2.
+CODE
+Unit number KC06511.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Blood Systems, Inc., Scottsdale, AZ, by telephone on June 13, 2002 and by letter dated July 12, 2002.
+Manufacturer:  Tri-Counties Blood Bank, Santa Barbara, CA.
+Firm initiated recall is complete.
+REASON
+Blood product, collected from a donor that did not have a hematocrit or hemoglobin test during the donor screening process, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+CA.
+_______________________
+PRODUCT
+Platelets Pheresis, Leukocytes Reduced.  Recall # B-2049-2.
+CODE
+Unit numbers 10732-0373, 10732-0396, and 10732-0411.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Blood Systems, Inc., Scottsdale, AZ, by telephone on June 7, 2002.  Firm initiated recall is complete.
+REASON
+Blood products, that were not tested for pH or platelet count as required by the firm's standard operating procedures (SOPs), were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+3 units.
+DISTRIBUTION
+AZ.
+_______________________
+PRODUCT
+Platelets Pheresis.  Recall # B-2050-2.
+CODE
+Unit number 07FP14357.
+RECALLING FIRM/MANUFACTURER
+The American National Red Cross, Arizona Region, Tucson, AZ, by telephone on June 16, 2002.  Firm initiated recall is complete.
+REASON
+Platelets with an elevated platelet count were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+AZ.
+
+RECALLS AND FIELD CORRECTIONS: 
+  BIOLOGICS -- CLASS III
+
+______________________
+PRODUCT
+Platelets, Leukoreduced.  Recall # B-1992-2.
+CODE
+Unit 22LJ49273.
+RECALLING FIRM/MANUFACTURER
+American Red Cross, Penn-Jersey Region, Philadelphia, PA, by telephone on November 11, 2001.  Firm initiated recall is complete.
+REASON
+Blood product, which was not properly quarantined after the donor of the product reported a post donation illness, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+PA.
+_______________________
+PRODUCT
+Source Plasma.  Recall # B-2036-2.
+CODE
+Unit number 71FPBMQM.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Aventis Bio-Services, Inc., King of Prussia, PA, by letter on March 26, 2002.
+Manufacturer:  Aventis Bio-Services, Inc., Greenville, SC.
+Firm initiated recall is complete.
+REASON
+Blood product, collected from a donor whose health history screening was not performed correctly, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+Germany.
+_______________________
+PRODUCT
+Source Plasma.  Recall # B-2037-2.
+CODE
+Unit  number 71FPBMNZ.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Aventis Bio-Services, Inc., King of Prussia, PA, by letter on March 27, 2002.		
+Manufacturer: 	Aventis Bio-Services, Inc., Greenville, SC.
+Firm initiated recall is complete.
+REASON
+Blood product, collected from a donor whose health history screening was not performed correctly, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+Germany.
+_______________________
+PRODUCT
+Source Plasma.  Recall # B-2038-2.
+CODE
+Unit number 71FPCCHJ.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Aventis Bio-Services, Inc., King of Prussia, PA, by letter on March 26, 2002.
+Manufacturer:  Aventis Bio-Services, Inc., Greenville, SC.
+Firm initiated recall is complete.
+REASON
+Blood product, collected from a donor whose health history screening was not performed correctly, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+Germany.
+_______________________
+PRODUCT
+Source Plasma.  Recall # B-2039-2.
+CODE
+Unit number 71FPBMWB.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Aventis Bio-Services, Inc., King of Prussia, PA, by letter on March 26, 2002.
+Manufacturer:  Aventis Bio-Services, Inc., Greenville, SC.
+Firm initiated recall is complete.
+REASON
+Blood product, collected from a donor whose health history screening was not performed correctly, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+Germany.
+_______________________
+PRODUCT
+Source Plasma.  Recall # B-2044-2.
+CODE
+Unit number G-92240-046.
+RECALLING FIRM/MANUFACTURER
+Pyramid Biological Corporation, Van Nuys, CA, by letter on March 21, 2002.  Firm initiated recall is complete.
+REASON
+Blood product, collected from a donor whose arm inspection was not documented, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+CA.
+_______________________
+PRODUCT
+Red Blood Cells, Leukocytes Reduced.  Recall # B-2046-2.
+CODE
+Unit numbers 10728-7559 and 10728-4792.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm: Blood Systems, Inc., Scottsdale, AZ, by telephone on May 6, 2002.  Firm initiated recall is complete.
+REASON
+Blood products possibly exposed to unacceptable shipping temperatures were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+2 units.
+DISTRIBUTION
+AZ.
+_______________________
+PRODUCT
+Red Blood Cells, Leukocytes Reduced.  Recall # B-2047-2.
+CODE
+Unit numbers 10729-7307; 10729-7318; 10729-7319; 10729-7343; 10730-1518; 10730-1991; 10730-1992; 10730-2512; 10730-3037; 10730-3336; 10730-3338; 10730-3451; 10730-3925; 10730-3931; 10730-4959; 10730-5556.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm: Blood Systems, Inc., Scottsdale, AZ, by telephone on May 12, 2002.  Firm initiated recall is complete.
+REASON
+Blood products possibly exposed to unacceptable shipping temperatures were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+16 units.
+DISTRIBUTION
+AZ.
+_______________________
+PRODUCT
+Red Blood Cells, Leukocytes Reduced, Recall # B-2048-2.
+CODE
+Unit number 10731-5872.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Blood Systems, Inc., Scottsdale, AZ, by letter on July 18, 2002.  Firm initiated recall is complete.
+REASON
+Blood product, collected from a donor whose body temperature was improperly recorded, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+AZ.
+_______________________
+PRODUCT
+a) Red Blood Cells, Leukocytes Reduced Irradiated. 
+   Recall # B-2051-2.
+b) Platelets Pheresis, Irradiated.  Recall # B-2052-2.
+CODE
+a) Unit numbers 07FV09363, 07FN23715, and 07FF94964;
+b) Unit number 20R13450.
+RECALLING FIRM/MANUFACTURER
+The American National Red Cross, Arizona Region, Tucson, AZ, by letter on April 1, 2002.  Firm initiated recall is complete.
+REASON
+Blood products that were subjected to irradiation twice were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+4 units.
+DISTRIBUTION
+AZ.
+RECALLS AND 
+  FIELD CORRECTIONS: DEVICES -- CLASS 
+  II
+_______________________
+PRODUCT
+Automated differential cell counters:
+a) Coulter LH 700 Series Hematology Analyzers.  
+   Recall # Z-1322-2;
+b) Coulter GEN S Hematology Analyzers.  Recall # Z-1323-2.
+CODE
+Lot numbers do not apply.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Beckman Coulter, Inc., Brea, CA, by letters on June 4, 2002.
+Manufacturer:  Coulter Corp., Hialeah, FL.  Firm initiated recall is ongoing. 
+REASON
+Incorrectly gates Neutrophil population in patient samples.
+VOLUME OF PRODUCT IN COMMERCE
+1268.
+DISTRIBUTION
+Nationwide and Canada.
+_______________________
+PRODUCT
+a) P645 Specialite Patient Light.  Recall # Z-1346-2;
+b) P696IL Integris 1000 Patient Light.  Recall # Z-1347-2;
+c) P2003B Integris B Patient Lite Rail.  Recall # Z-1348-2. 
+d) P780D Deep Impression Light for use with the Impression 
+   Series Headwall.  Recall # Z-1349-2.
+CODE
+All units distributed between May 24, 2002 and June 21, 2002.
+RECALLING FIRM/MANUFACTURER
+Hill-Rom Co. Inc., Batesville, IN, by letter dated August 16, 2002.  Firm initiated recall is ongoing.
+REASON
+Switch fails to function as intended due to incorrect amp size switch.
+VOLUME OF PRODUCT IN COMMERCE
+843.
+DISTRIBUTION
+Nationwide and Canada.
+_______________________
+PRODUCT
+Disetronic D-TRON Insulin Infusion Pump, Models 8100001 D-TRON (blue) and 8100005 D-TRON (anthracite).  Recall # Z-1350-2.
+CODE
+All Serial numbers.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Disetronic Medical Systems, Inc., St. Paul, MN, by letter dated June 17, 2002.
+Manufacturer:  Disetronic Medical Systems AG, Burgdorf, Switzerland.  Firm initiated recall is ongoing.
+REASON
+Some pumps started programming a bolus that was not initiated by the pump user, and the delivery of an unintended bolus was made unless interrupted by the device user. 
+VOLUME OF PRODUCT IN COMMERCE
+3357 insulin infusion pumps in the U.S.
+DISTRIBUTION
+Nationwide.
+_______________________
+PRODUCT
+Aeroset Software Version 1.01ER000.  Recall # Z-1352-2.
+CODE
+Catalog number 2-94815-01, The AEROSET Software is not controlled by lot or control numbers.
+RECALLING FIRM/MANUFACTURER
+Abbott Laboratories, Inc., Irving, TX, by telephone on July 16, 2002.  Firm initiated recall is complete.
+REASON
+Sample results may be skewed by failure to properly 'blank' the sample.
+VOLUME OF PRODUCT IN COMMERCE
+1.
+DISTRIBUTION
+FL.
+_______________________
+PRODUCT
+a) Hill-Rom brand Advanta 1600 series hospital beds as follows:     Model P1600B; full featured general hospital bed. 
+   Recall # Z-1353-2;
+b) Model P1603B; semi-de-featured general hospital bed. 
+   Recall # Z-1354-2;
+c) Model P1604B; de-featured general hospital bed. 
+   Recall # Z-1355-2.
+CODE
+All units distributed prior to July 24, 2002.
+RECALLING FIRM/MANUFACTURER
+Hill-Rom, Inc., Batesville, IN, by letter dated August 15, 2002.
+Firm initiated recall is ongoing.
+REASON
+Unintentional movement of the bed.
+VOLUME OF PRODUCT IN COMMERCE
+50,000.
+DISTRIBUTION
+Nationwide and Internationally.
+_______________________
+PRODUCT
+Sterile 4" x 4", 16-ply gauze sponges packaged 10 sponges per formed plastic tray with tyvek lid, 
+The following gauze products are being recalled:
+a) Medline Accu-Sorb X-Ray Detectable USP Type VII Gauze. 
+   Recall # Z-1357-2;
+b) Medline Gauze Sponge USP Type VII Gauze.  Recall # Z-1358-2.
+CODE
+a) Product number NON21430LF, lot numbers 02EA0473, 02FA0432;
+b) Product number NON21428, lot numbers 02EA0297, 02FA0317, 
+   02FA0431.
+RECALLING FIRM/MANUFACTURER
+Medline Industries, Inc., Mundelein, IL, by letters dated August 16, 2002.  Firm initiated recall is ongoing.
+REASON
+Compromised packaging integrity - questionable sterility.
+VOLUME OF PRODUCT IN COMMERCE
+809 cases.
+DISTRIBUTION
+Nationwide.
+_______________________
+PRODUCT
+Defibrillator/ Pacer
+Medical Research Laboratories external adult defibrillator paddle set- used with Medical Data Electronics Escort defibrillator pacer models 20201 and 20202.  Recall # Z-1360-2.
+CODE
+Serial Numbers 10392 thru 10540.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Medical Data Electronics, Inc., Arleta, CA, by letter on August 1, 2002.
+Manufacturer:  Medical Research Laboratories, Arleta, CA.
+Firm initiated recall is ongoing.
+REASON
+Intermittent operation of the paddles.
+VOLUME OF PRODUCT IN COMMERCE
+54 sets of two paddles each.
+DISTRIBUTION
+Nationwide and Pakistan and Mexico.
+_______________________
+PRODUCT
+Parallax Medical brand EZFlow Cement Delivery System
+Catalog #s: 
+a) CDS-110;
+b) CDS-122;
+c) CDS-132; 
+d) CDS-2210;
+e) CDS-2212. Recall # Z-1361-2.
+CODE
+a) Lot #  021202  (Part # 40001);
+b) Lot #s 082701 (Part # 40004), 021302 (Part # 40004), 
+   021302A (Part # 40004);
+c) Lot # 030102 (Part # 40032);
+d) Lot #s  083101 (Part # 40008), 082301 (Part # 40008), 
+   082301A (Part # 40008), 103001, (Part # 40008), 
+   103001A (Part # 40008), 103101 (Part # 40008), 
+   103101A (Part # 40008);
+e) Lot #s 100401, (Part # 40009), 103001, (Part # 40009), 
+   103001A (Part # 40009), 040202 (Part # 40009), 
+   021402 (Part # 40009).
+RECALLING FIRM/MANUFACTURER
+Parallax Medical, Inc., Scotts Valley, CA, by letters, telephone and visits beginning on July 19, 2002.  Firm initiated recall is ongoing.
+REASON
+Firm has identified a number of units which may have breaches in the pouch seal.
+VOLUME OF PRODUCT IN COMMERCE
+3626 units.
+DISTRIBUTION
+Nationwide and Internationally.
+_______________________
+PRODUCT
+MDE Escort Prisim SE
+A portable patient monitor.  Recall # Z-1362-2.
+CODE
+Too numerous to detail. 
+RECALLING FIRM/MANUFACTURER
+Medical Data Electronics, Inc., Arleta, CA, by letter beginning August 2002.  Firm initiated recall is ongoing.
+REASON
+Printed circuit board flaw might allow cuff to overinflate.
+VOLUME OF PRODUCT IN COMMERCE
+3,569.
+DISTRIBUTION
+Nationwide and Internationally.
+_______________________
+PRODUCT
+a) REF 220039, MicroJect 30 Pump, continuous low flow. 
+   Recall # Z-1363-2;
+b) REF 220041, MicroJect 200 Pump, intermittent or continuous
+   flow.  Recall # Z-1364-2.
+CODE
+All MicroJect Ambulatory Infusion Pump, Model #30 and #200, manufactured from 5/1/2000 through 11/19/2001.
+Model #30 serial numbers in the range 37037 thru 64215.
+Model #200 serial numbers in the range 40069 thru 64008.
+RECALLING FIRM/MANUFACTURER
+Sorenson Medical, Inc., West Jordan, UT, by letter on August 23, 2002.  Firm initiated recall is ongoing.
+REASON
+Reports of under-infusion and pump housing separation.
+VOLUME OF PRODUCT IN COMMERCE
+4,725.
+DISTRIBUTION
+Nationwide and Internationally.
+_______________________
+PRODUCT
+a) Balanced Knee System, PS Tibial Insert Size 6 16mm;
+b) Balanced Knee System, PS Tibial Insert Size 4 20mm.
+Each insert is a component of the Balanced Knee System, packaged individually. Recall # Z-1365-2.
+CODE
+a) Catalog Number 163-1616, Lot Number W012563;
+b) Catalog Number 163-1420, Lot Number W012536.
+RECALLING FIRM/MANUFACTURER
+Ortho Development Corp., Draper, UT, by telephone and letters on May 28, 2002.  Firm initiated recall is complete.
+REASON
+Outer box product label showed incorrect size.
+VOLUME OF PRODUCT IN COMMERCE
+39 units.
+DISTRIBUTION
+Nationwide.
+_______________________
+PRODUCT
+Somatom Smile
+Computed tomography system, Diagnostic Imaging -- Model #7053502. Recall # Z-1366-2.
+CODE
+4 units under the Siemens part # SMILE 7053502 Serial Numbers:
+20041
+20035
+20031
+20032.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Siemens Medical Systems, Inc., Iselin, NJ, by letter on or about May 2002.
+Manufacturer:  Siemens Shanghai, Medical Equipment, Ltd., Shanghai, China 200090.  Firm initiated recall is complete.
+REASON
+Errors can occur when performing gantry tilt examinations.
+VOLUME OF PRODUCT IN COMMERCE
+3.
+DISTRIBUTION
+Nationwide and Internationally.
+_______________________
+PRODUCT
+Vitek GNS-204, product #V4526, gram negative susceptibility cards individually wrapped in a mylar pouch, 20 cards per box, for use in the antimicrobial susceptibility testing of rapidly growing aerobic and/or facultatively anaerobic, gram-negative bacilli. Recall # Z-1370-2.
+CODE
+S51B, Exp. 6/11/03.
+RECALLING FIRM/MANUFACTURER
+bioMerieux, Inc., Hazelwood, MO, by telephone on August 5, 2002.
+Firm initiated recall is ongoing.
+REASON
+Mislabeled. This results in an incorrect susceptible/resistant result for the AST's included in the GNS 204 card.  
+VOLUME OF PRODUCT IN COMMERCE
+2,572/20-card boxes.
+DISTRIBUTION
+Nationwide.
+_______________________
+PRODUCT
+Proteus XR/a Stationary X-ray System, Model Numbers: 2244165, 2259976, 2212259, 2259973 and 2268970. Recall # Z-1371-2.
+CODE
+All serial numbers of units in distribution prior to the start of the field correction in January 2001 are affected.
+RECALLING FIRM/MANUFACTURER
+General Electric Medical Systems, Waukesha, WI, by field engineer visits beginning January 2001.  Firm initiated recall is ongoing.
+REASON
+Screws that mount the collimator interface plate may loosen and fall out allowing the collimator to fall.
+VOLUME OF PRODUCT IN COMMERCE
+73 units.
+DISTRIBUTION
+Nationwide and Internationally.
+_______________________
+PRODUCT
+Thoratec TLC-II Portable VAD Driver System
+Driver Model numbers: 20010-0000-081, 20010-0000-132. 
+Recall # Z-1373-2.
+CODE
+Controller Board Lot # 2001-36, 2002-17.
+RECALLING FIRM/MANUFACTURER
+Thoratec Corp., Pleasant, CA, by letter and fax on August 14, 2002.  Firm initiated recall is ongoing.
+REASON
+Component defects that can cause TLC-II driver to abruptly stop functioning.
+VOLUME OF PRODUCT IN COMMERCE
+34 units.
+DISTRIBUTION
+Nationwide and Australia, Canada and Singapore.
+
+
+_______________________
+PRODUCT
+Ti Cann Troch Fixation Nail. The generic name is Trochanteric Fixation Nail. Recall # 1374-2/Z-1376-2.
+CODE
+These devices expired in 5/2011.
+Part number 456.318S Lot number 4417099
+Part number 456.322S Lot numbers 4417109, 4417111, and 
+4417112
+Part number 456.416S Lot number 4417280.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm: Synthes (USA), Paoli, PA, by letters on August 2, 2002.
+Manufacturer: Synthes (USA), Monument, CO.  Firm initiated recall is ongoing.
+REASON
+Manufactured outside design specifications The medial side of the oblique hole may be oval instead of round. 
+VOLUME OF PRODUCT IN COMMERCE
+66 units.
+DISTRIBUTION
+Nationwide.
+_______________________
+PRODUCT
+Misys Laboratory.  Recall # Z-1377-2.
+CODE
+Version 5.3.
+RECALLING FIRM/MANUFACTURER
+Misys Healthcare Systems, Inc., Tucson, AZ, by fax on August 16, 2002.  Firm initiated recall is ongoing.
+REASON
+Software anomaly.  Footnotes are incomplete and do not print on reports.
+VOLUME OF PRODUCT IN COMMERCE
+458.
+DISTRIBUTION
+Nationwide and Internationally.
+_______________________
+PRODUCT
+Misys Laboratory.  Recall # Z-1378-2.
+CODE
+Versions 5.2, 5.23, 5.3.
+RECALLING FIRM/MANUFACTURER
+Misys Healthcare Systems, Inc., Tucson, AZ, by fax July 5, 2002.
+Firm initiated recall is ongoing.
+REASON
+Software anomaly.  When original results were modified or deleted in function MEH, original/unmodified results were saved.
+VOLUME OF PRODUCT IN COMMERCE
+477.
+DISTRIBUTION
+Nationwide and Internationally.
+_______________________
+PRODUCT
+Genuine ONE TOUCH *** Test Strips *** Lot No. *** Exp. Date *** 
+LIFESCAN INC a Johnson & Johnson company Milpitas, California. Recall # Z-1379-2;
+***".
+UNI-CHECK Test Strips *** Catalog No.1702720 *** QTY: 24 Packages of 50 Strips/Package *** Lot No.: *** Expires: ***". Recall # Z-1380-2.
+CODE
+Johnson and Johnson One Touch, Lots 170814A, 170815A, 170892A and any other lots purchased from Medsource.  Johnson and Johnson Uni-check, Lots 12115A7W and any other lots purchased from Medsource. 
+RECALLING FIRM/MANUFACTURER
+Farnes Enterprises dba MedSource Direct, Woods Cross, UT, by letter on August 17, 2002.  FDA initiated recall is complete.
+REASON
+Blood glucose test strips were not approved for sale in the U.S. and Canada. 
+VOLUME OF PRODUCT IN COMMERCE
+2,198 units. 
+DISTRIBUTION
+Nationwide.
+_______________________
+PRODUCT
+Caleo Infant Warming System.  The product is an incubator. 
+Recall # Z-1381-2.
+CODE
+Catalog Numbers: 4117025-006, 4117025-007, 4117025-008, 4117025-009, and 4117025-018.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm: Drager Medical, Telford, PA, by telephone on September 13, 2002.  Firm initiated recall is complete.
+REASON
+Temperature measurement error.
+VOLUME OF PRODUCT IN COMMERCE
+66 units.
+DISTRIBUTION
+CA, FL, GA, NC, NE, OH, PA and Canada.
+___________
+PRODUCT
+Microject 30 Pump, Ref 220039.  Packaged individually or in cases of 10. Recall # Z-1382-2.
+CODE
+Lots 201139 and 202070.
+RECALLING FIRM/MANUFACTURER
+Sorenson Medical, Inc., West Jordan, UT, by letter on September 5, 2002.  Firm initiated recall is complete.
+REASON
+Pumps were released after failing established AQL acceptance levels.
+VOLUME OF PRODUCT IN COMMERCE
+178 units.
+DISTRIBUTION
+CA, CO, GA, IL, MO, NY, TX, and Canada, France, Singapore and Venezuela.
+_______________________
+PRODUCT
+Solan Trephine Blade, 9 mm and also the 10mm sizes (different products), packed one unit per box.  Corneal Trephine, 
+Recall # Z-1384-02/
+CODE
+Catalog Number 00-09717, lot 25209500 and Catalog Number 00-09721, lot number 23214300.
+RECALLING FIRM/MANUFACTURER
+Xomed, Inc., Jacksonville, FL, by letter on July 19, 2002.
+Firm initiated recall is complete. 
+REASON
+Outer box mislabeled as 9mm when product is 10mm.
+VOLUME OF PRODUCT IN COMMERCE
+8.
+DISTRIBUTION
+MO, TX, IL KY and MI.
+
+RECALLS AND FIELD CORRECTIONS: 
+  DEVICES -- CLASS III
+_______________________
+PRODUCT
+Freshlook Color Enhancers (phemfilcon A) Contact Lenses; the soft contact lenses are individually packaged in sterile foil-sealed plastic packages, 6 packs per box. Recall # Z-1351-2.
+CODE
+Lot 024909, exp. 2006-07, Blue, base curve: median, diameter: 14.5, sphere: -2.25.
+RECALLING FIRM/MANUFACTURER
+Wesley Jessen Corp., Des Plaines, IL, by letters dated March 5, 2002.  Firm initiated recall is complete.
+REASON
+Mislabeled for corrective power.
+VOLUME OF PRODUCT IN COMMERCE
+560 6-packs.
+DISTRIBUTION
+Nationwide and Canada.
+_______________________
+PRODUCT
+MeriFluor CMV IgM IFA/IFT, packaged under the Gull label. 
+Recall # Z-1356-2.
+CODE
+Lot Number: CM150.022, Exp. 20 DEC 02
+Lot Number: CM150.023, Exp. 20 DEC 02
+Lot Number: CM150.024, Exp. 20 DEC 02
+Lot Number: CM150.025, Exp. 05 JAN 03.
+RECALLING FIRM/MANUFACTURER
+Meridian Bioscience, Inc., Cincinnati, OH, by letters dated August 27, 2002.  Firm initiated recall is ongoing.
+REASON
+The Negative Control does not meet labeled specifications. 
+VOLUME OF PRODUCT IN COMMERCE
+189 kits.
+DISTRIBUTION
+Nationwide and Canada, Belgium, Italy and Australia.
+_______________________
+PRODUCT
+BD 5 ml preservative Urine Culture and Sensitivity (C&S) Tube). Recall # Z-1359-2.
+CODE
+Catalog #364976 -- Lot 1026345.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Becton Dickinson & Co., Franklin Lakes, NJ, by letters on July 17, 2002.
+Manufacturer:  Becton Dickinson Vacutainer Systems, Broken Bow, NE.  Firm initiated recall is ongoing.
+REASON
+Label placement on urine tube is incorrect which could cause filling below specs.
+VOLUME OF PRODUCT IN COMMERCE
+60,000.
+DISTRIBUTION
+Nationwide.
+_______________________
+PRODUCT
+BD Unopette Brand Capillary Pipettes for use with Unopette Blood Diluting Pipette System.  Recall # Z-1367-2.
+CODE
+Lot Code: 1G107 Exp 9/20/2002.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm: Becton Dickinson & Co., Franklin Lakes, NJ, by letter on April 5, 2002.
+Manufacturer: Becton Dickinson Caribe Ltd., San Lorenzo, Puerto Rico.  Firm initiated recall is ongoing.
+REASON
+Mispackaging of 20uL pipettes in 10uL containers.
+VOLUME OF PRODUCT IN COMMERCE
+9,000 units.
+DISTRIBUTION
+Nationwide and Japan.
+_______________________
+PRODUCT
+Digene Corporation's Hybrid Capture(tm)2 High Risk Human Papillomavirus (HPV) In-vitro diagnostic test kit, containing one vial of High Risk HPV Calibrator.  Recall # Z-1368-2.
+CODE
+HPV Kit Lot 832, containing Calibrator, lot #35, Exp 8/15/2003.
+RECALLING FIRM/MANUFACTURER
+Digene Corp., Gaithersburg, MD, by telephone and fax on August 13, 2002.  Firm initiated recall is ongoing.
+REASON
+Human Papilloma Virus IVD Test kit contains incorrect calibrator.
+VOLUME OF PRODUCT IN COMMERCE
+361 kits.
+DISTRIBUTION
+Nationwide and Canada.
+_______________________
+PRODUCT
+VITAMIN B12 CALIBRATORS; For in vitro diagnostic use only. Catalog #154 0525. Recall # Z-1369-2.
+CODE
+Lot Numbers:
+231, Exp. 8/28/02
+750, Exp. 10/27/02
+751, Exp. 11/1/02.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Ortho-Clinical Diagnostics, Inc., Rochester, NY, by letter on August 19, 2002.
+Manufacturer:  Ortho-Clinical Diagnostics, Inc., Cardiff, Wales. Firm initiated recall is ongoing.
+REASON
+Calibration Failures when restricted limits used.
+VOLUME OF PRODUCT IN COMMERCE
+603 units.
+DISTRIBUTION
+Nationwide and Internationally.
+END OF ENFORCEMENT REPORT FOR OCTOBER 2, 2002
+
+####
+
+ Enforcement Report Index 
+    | FDA News Page   |   FDA 
+  Home Page 
+
+ Office of Public Affairs
+  Hypertext uploaded by clb 
+  2002-OCT-02.
