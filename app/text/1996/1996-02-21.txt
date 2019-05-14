@@ -1,0 +1,569 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  1997
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      32 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+02/21/1996
+
+ ENFORCEMENT REPORT FOR 02/21/96 
+
+
+February 21, 1996                                 96-08
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II ===========
+_______________
+PRODUCT        Dilantin, extended Phenytoin Sodium Capsules,
+               USP), Kapseals, 100 mg, antiepileptic drug, in
+               bottles of 100.  Recall #D-086-6.
+CODE           Lot #09054FA EXP 5/96.
+MANUFACTURER   Warner Lambert Company, Fajardo, Puerto Rico.
+RECALLED BY    Parke Davis, Division of Warner Lambert,
+               Morris Plain, New Jersey, by letter December
+               12, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       39,846 bottles were distributed.
+REASON         Product may not meet dissolution
+               specifications through expiration date.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III ==========
+_______________
+PRODUCT        Panama Jack brand Dark Tanning Lotion,
+               waterproof, 4 SPF, in 3 fluid ounce plastic
+               bottles.  Recall #D-085-6.
+CODE           5M01A.
+MANUFACTURER   Creative Cosmetics, Rockledge, Florida.
+RECALLED BY    Manufacturer, by letter April 3, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       7,344 units were distributed.
+REASON         Product does not meet manufacturer's microbial
+               specifications.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II =========
+_______________
+PRODUCT        Multinex, a breath-by breath gas analyzer that
+               uses microprocessor technology to calculate
+               and display:  End-Tidal CO2, Inspired CO2,
+               Inspired and Expired N2O, Inspired 02,
+               Inspired and Expired Anesthetic Agents,
+               Respiration Rate, Sa)2, and Pulse Rate:  (a)
+               Multinex Plus, Model Number 0998-00-0071-13,
+               14, 15, 16; (b) Multinex Plus w/ID, Model
+               0998-00-0071-17, 18, 19, 20; (c) Multinex,
+               Model Number 0998-00-0071-01, 02, 03, 04; (d)
+               Multinex ID, Model 0998-00-0071-09, 10, 11,
+               12.  Recall #Z-326/329-6.
+CODE           All Products contain the 4610 Gas Analyzer
+               Board and the 4640 Gas Identification Board.
+MANUFACTURER   Datascope Corp., Paramus, New Jersey.
+RECALLED BY    Manufacturer, by letter sent beginning August
+               31, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       1,248 units were distributed.
+REASON         The 4610 Gas Analyzer Board and the 4640 Gas
+               Identification Board have been found to have
+               defects which may cause a random and
+               intermittent failure message along with either
+               a temporary loss of gas monitoring or a
+               disabling of the Anesthesia Identification
+               function.  Units with anesthesia agent
+               identification also have the potential to
+               mis-identify an agent.
+
+_______________
+PRODUCT        Monogram Instrument Tibial Baseplate
+               Impactor/Extractor, used to install and remove
+               the tibial baseplate.  Recall #Z-341-6.
+CODE           Catalog #6633-7-575.
+MANUFACTURER   Howmedica, Inc., Rutherford, New Jersey.
+RECALLED BY    Manufacturer, by letter dated March 14, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       408 units were distributed.
+REASON         The product's threaded shaft was breaking
+               during impaction.
+
+                             -2-_______________
+PRODUCT        (a) Alta Tibial Rod Driver Locking Bolt (bolt
+               only), used for the insertion of the Alta
+               tibial rod; (b) Alta Tibial Rod Driver and
+               Bolt (driver/bolt assembly) meant to absorb
+               the impact of the blows from the mallet during
+               insertion of the tibial rod.  Recall #Z-
+               344/345-6.
+CODE           Catalog numbers:  (a) 5255-2-697; 
+               (b) 5255-2-690.
+MANUFACTURER   Howmedica, Inc., Rutherford, New Jersey.
+RECALLED BY    Manufacturer, by letter dated July 29, 1994. 
+               Firm-initiated complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       709 units were distributed; firm estimates
+               none remains on the market.
+REASON         The locking bolt was breaking near the
+               threaded end - smooth shaft interface during
+               surgical procedures.
+
+_______________
+PRODUCT        Barrier Vu-Thru Cardiovascular Pack:
+               (a) Sterile BARRIER Vu-Thru Cardiovascular
+               Pack containing in part a C-V Split Sheet,
+               Product (Reorder) Number 127; 
+               (b) Sterile BARRIER Vu-Thru Cardiovascular
+               Pack II containing in part a C-V Split Sheet,
+               Product (Reorder) Number 0173, (
+               (c) Bulk non-sterile BARRIER Vu-Thru C-V/Split
+               Sheet, Product (Reorder) Number 9573.
+               Recall #Z-374/376-6.
+CODE           Lot numbers:  (a) S01620 through S01713
+               (b) S00170 through S00193
+               (c) S00440 through S00471.
+MANUFACTURER   Johnson & Johnson Medical, Inc., El Paso,
+               Texas.
+RECALLED BY    Johnson & Johnson Medical (J&J;), Inc.,
+               Arlington, Texas, by letters dated December 8,
+               1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       569 cases (2,770 units) were distributed.
+REASON         The fabric of the clipping tabs are subject to
+               tearing, presenting potential harm to patient.
+               
+
+_______________
+PRODUCT        (a) Gesco brand 3.5 Fr. Umbili-Cath, a
+               sterile, single-use, prescription PVC
+               umbilical vessel catheter; (b) Umbili-Cath
+               Tray, a procedural tray for the insertion of
+               umbilical vessel catheters.
+               Recall #Z-379/380-6.
+
+                             -3-CODE           (a) Catalog No. UC 9823, Lot No.  06-112396;
+               (b) Catalog No. UCT 9823, Lot No. 26-024296.
+MANUFACTURER   Gesco International, Inc., subsidiary of
+               MedChem Products, Inc., San Antonio, Texas.
+RECALLED BY    MedChem Products, Inc., Woburn, Massachusetts,
+               by letters dated May 19, 1995.  FDA-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 900 units; (b) 700 units were distributed;
+               firm estimates none remains on market.
+REASON         The catheter was manufactured without a
+               radiopaque stripe, thus precluding
+               radiographic confirmation. 
+
+_______________
+PRODUCT        Rite-Angle Disposable Prophy Angle with Soft
+               Cup, used in performing dental prophylaxis.
+               Recall #Z-408-6.
+CODE           Lot numbers:  950108-1, 950110-2, 950118-1,
+               950119-1, 950119-2.
+MANUFACTURER   Team Technologies, Inc., Morristown,
+               Tennessee.
+RECALLED BY    Dentsply International, York, Pennsylvania, by
+               letter April 26, 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       112,320 were distributed.
+REASON         In some cases the device has demonstrated a
+               propensity for stalling, stopping, falling
+               apart, vibrating, freezing-up, and over-
+               heating during usage.
+
+_______________
+PRODUCT        Power Sonic brand Battery Packs used in Uro-
+               View or UroView Model 2000 X-ray Imaging
+               Systems.  Recall #Z-409-6.
+CODE           All Power Sonic brand batteries received
+               during 1995 and shipped to the field as
+               replacements.
+MANUFACTURER   OEC Medical Systems, Inc., Salt Lake City,
+               Utah.
+RECALLED BY    Manufacturer, by letter on December 14, 1995. 
+               All of the affected batteries were replaced
+               between 12/15/95 and 12/28/95.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Florida, Illinois, Kentucky, North Carolina,
+               New York, Ohio, Virginia, Washington, D.C.
+QUANTITY       8 units.
+REASON         The replacement battery pack could have been
+               damaged during shipment which could possibly
+               lead to premature failure, and in the worst
+               case, a change of a battery fire.
+
+                             -4-_______________
+PRODUCT        Dextrolyte Peritoneal Dialysis 5-prong Cycler
+               Set.  Recall #Z-411-6.
+CODE           Catalog #48-1110-5, Lot R5A516.
+MANUFACTURER   National Medical Care - Reynosa, Reynosa,
+               Mexico.
+RECALLED BY    National Medical Care, Rockleigh, New Jersey,
+               by letter May 26, 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       2,990 sets were distributed.
+REASON         The connector lines are misassembled.
+
+_______________
+PRODUCT        Baxter Arterial Bloodline, used for dialysis. 
+               Recall #Z-412-6.
+CODE           Catalog #5M4253N, Lot #R4H604.
+MANUFACTURER   National Medical Care - Reynosa, Reynosa,
+               Mexico.
+RECALLED BY    National Medical Care, Rockleigh, New Jersey,
+               by letter June 2, 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       725 cases were distributed.
+REASON         The arterial bloodlines were packaged in
+               cartons labeled as venous bloodlines.
+
+_______________
+PRODUCT        (a) Stryker Universal Cement Restrictor with
+               Inserter, Part #206-701, intended to be
+               implanted during total joint or joint revision
+               arthroplasty; (b) Stryker Sterile, disposable
+               Cement Sculps, Part #206-716, intended to be
+               used in joint or joint revision arthroplasty
+               to remove excess bone cement from around the
+               prosthesis.  Recall #Z-429/430-6.
+CODE           Lot numbers:  (a) 95071402S; (b) 95071382S.
+MANUFACTURER   BioMedical Devices, Irvine, California.
+RECALLED BY    Stryker Instruments, Division of Stryker
+               Corporation, Kalamazoo, Michigan, by letter
+               dated August 24, 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 60 boxes (6 units per box); (b) 32 boxes
+               (6 units per box) were distributed.
+REASON         The sterility of the product cannot be
+               guaranteed because the packaging may be
+               compromised.
+
+_______________
+PRODUCT        Belmont Acuray 071A Dental Periapical X-Ray
+               System.  Recall #Z-433-6.
+CODE           Serial numbers:  M007051R to 007150R.
+                             -5-MANUFACTURER   Takara Medical Company, Kobe, Japan.
+RECALLED BY    Belmont Equipment Corporation, Somerset, New
+               Jersey, by letters of September 20, 1995, and
+               October 27, 1995.  Firm-initiated field
+               correction ongoing.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       3,851 units were distributed.
+REASON         The horizontal arm of the device may separate
+               from its wall mount bracket and fall.  In
+               addition, the horizontal arm may rise
+               vertically in its wall mount bracket, but did
+               not disengage.
+
+_______________
+PRODUCT        Radiographic Intensifying Screens, intended to
+               expose medical radiographic film:
+               (a) Model Trimax T2; (b) Model Trimax T6; (c)
+               Model Trimax T12; (d) Model Trimax T4; (e)
+               Model Trimax T8; (f) Model Trimax T6/12.
+               Recall #Z-435/440-6.
+CODE           All serial numbers.
+MANUFACTURER   3M Italia SPA, Viale Della Liberta, Italy.
+RECALLED BY    3M Medical Imaging Systems Division, St. Paul,
+               Minnesota, by letter sent on November 17,
+               1995, and by electronic mail message November
+               21, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       39,150 screens were distributed.
+REASON         The intensifying screens will chemically react
+               with radiographic film and become heavily
+               discolored.  The discolored screens will
+               result in decreasing the film speed and
+               increasing patient exposure to ionizing
+               radiation during a radiographic patient
+               exposure to ionizing radiation during a
+               radiographic examination.
+
+_______________
+PRODUCT        ProSpecT(tm) Entamoeba Histolytic Microplate
+               Assay Kit, used for detection of Entamoeba
+               Histolytica specific antigens.
+               Recall #Z-443-6.
+CODE           Catalog #560-96, Lot numbers 940491 and
+               950023.
+MANUFACTURER   Alekon Biomedical, Inc., Sunnyvale,
+               California.
+RECALLED BY    Manufacturer, by fax on or about March 23,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       281 kits were distributed.
+REASON         The test could provide a false positive result
+               for Entamoeba histolytic in pediatric samples.
+
+                             -6-RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III ========
+_______________
+PRODUCT        ATI EO Gas Disposable Test Pack with ATI-Test
+               Biological Indicator, a disposable test pack
+               with a self-contained biological indicator
+               used to monitor ethylene oxide sterilization
+               cycles: (a) Catalog #00234/00234BX;
+               (b) Catalog #23404/23404BX.
+               Recall #Z-385/386-6.
+CODE           Lot numbers:  (a) 9501940702, 9501940703,
+               9504931002, 9504940101, 9505940301,
+               9505940102, 9510940501, 9510940601,
+               9510940701, 9510940788, 9512940702,
+               9512940703, 9601940901, 9601940902,
+               9602941001, 9602941002, 9602941003,
+               9606950101, 9606950102, 9606950103,
+               9606950201, 9606950202, 9607950203,
+               9607950204, 9607950205, 9607950301;
+               (b) 9505940301, 9510940601, 9601940901,
+               9602941001, 9607950301.
+MANUFACTURER   PyMaH Corporation, North Hollywood,
+               California.
+RECALLED BY    PyMaH Corporation, Flemington, New Jersey, by
+               letter sent March 27, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide, Canada, Germany, Spain, Ireland,
+               Poland, Turkey.
+QUANTITY       677.25 cases; firm estimated that 200 cases
+               (64 packages per case) remained on market at
+               time of recall initiation.
+REASON         Devices were found not to meet labeling claims
+               of an 18-month shelf life.
+
+_______________
+PRODUCT        Ektachem Clinical Chemistry Slides Digoxin
+               (DGXN), for in-vitro diagnostic use to
+               quantitatively measure the drug digoxin in
+               serum and plasma.  Recall #Z-410-6.
+CODE           All codes with expiration date of 1/1/96 or
+               earlier.
+MANUFACTURER   Johnson & Johnson Clinical Diagnostics, Inc.,
+               Rochester, New York.
+RECALLED BY    Manufacturer, by telephone July 17 and 18,
+               1995, followed by letters of July 17, 1995 and
+               August 10, 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       14,904 cartridges were distributed.
+REASON         The digoxin slides may exhibit a positive bias
+               overtime on the first slide from each
+               cartridge.
+
+                             -7-_______________
+PRODUCT        Caulk Friction Grip Carbide Super Burs, used
+               for cutting teeth.  Recall #Z-434-6.
+CODE           Lot numbers 941201 through 950228.
+MANUFACTURER   Dentsply International Caulk Division, York,
+               Pennsylvania.
+RECALLED BY    Manufacturer, by letter March 28, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       537,000 were distributed.
+REASON         The device is subject to dulling of the
+               cutting edges or the bur tip, and possible
+               breakage in use at the weld location.
+
+_______________
+PRODUCT        Ektachem Clinical Chemistry Slides for
+               Cholesterol (CHOL), for in-vitro diagnostic
+               use to quantitatively measure cholesterol in
+               serum plasma.  Recall #Z-444-6.
+CODE           Catalog #168-8290, lot numbers all with an
+               expiration date of 7/96 or before.
+MANUFACTURER   Johnson & Johnson Clinical Diagnostics, Inc.,
+               formerly Eastman Kodak Co., Clinical
+               Diagnostics Division, Rochester, New York.
+RECALLED BY    Johnson & Johnson Clinical Diagnostics, Inc.,
+               Rochester, New York, by letter sent on
+               November 29, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       1,336,000 cartridges were distributed.
+REASON         There was a drift in cholesterol results
+               within the same day caused by slide
+               temperature and humidity.
+
+_______________
+PRODUCT        Kodak Ektachem Clinical Chemistry Slides
+               (TRIG), for in-vitro diagnostic use, for the
+               quantitative measurement of triglycerides
+               concentration in serum or plasma.  
+               Recall #Z-445-6.
+CODE           Catalog #1648088; all lot numbers with an
+               expiration date of 11/96 or earlier.
+MANUFACTURER   Johnson & Johnson Clinical Diagnostics,
+               formerly Eastman Kodak Company, Clinical
+               Diagnostics Division, Rochester, New York.
+RECALLED BY    Johnson & Johnson Clinical Diagnostics, Inc.,
+               Rochester, New York, by letter sent May 18,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 760,000 cartridges were
+               distributed.
+
+                             -8-REASON         Triglyceride slides on-analyzer stability did
+               not support a four week expiration claim.
+
+_______________
+PRODUCT        OPUS Total B-hCG Test Modules for in-vitro
+               diagnostic use for the quantitative
+               measurement of intact and free beta subunits
+               of human chorionic gonadotropin (hCG) in
+               serum, plasma, and urine.  
+               Recall #Z-446-6.
+CODE           Catalog #304-050, Lot #BGFO EXP 5/18/96.
+MANUFACTURER   Behring Diagnostics, Inc., Westwood,
+               Massachusetts.
+RECALLED BY    Manufacturer, by telephone on January 30,
+               1996, followed by letter.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       409 boxes (50 units per box) were distributed.
+REASON         Insufficient conjugate in the wells may cause
+               false negatives or lower than expected
+               results.
+
+_______________
+PRODUCT        ILab IL Test (tm) Albumin Reagent, intended
+               for the quantitative in-vitro diagnostic
+               determination of serum albumin using the ILab
+               Chemistry Systems.  Recall #Z-447-6.
+CODE           Catalog #182500, Lot #N1133691 (kit), Lot
+               #N0833100 (reagent).
+MANUFACTURER   Instrumentation Laboratory Company,
+               Orangeburg, New York (responsible firm).
+RECALLED BY    Instrumentation Laboratory Company, (ILC),
+               Lexington, Massachusetts, by letter dated
+               January 14, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Canada.
+QUANTITY       2 kits were distributed.
+REASON         The Albumin reagent had mold growth and
+               reagent deterioration.
+
+_______________
+PRODUCT        Monarch IL Test Albumin Reagent, for the
+               quantitative in-vitro diagnostic determination
+               of serum albumin using the IL monarch (r)
+               Chemistry Systems.  Recall #Z-448-6.
+CODE           Catalog #35191, Lot #N0932200 EXP 11/94.
+MANUFACTURER   Instrumentation Laboratory Company, ILC),
+               Orangeburg, New York (responsible firm).
+RECALLED BY    Instrumentation Laboratory Company, Lexington,
+               Massachusetts, by letter sent during January
+               1994.  Firm-initiated recall complete.
+
+                             -9-DISTRIBUTION   Florida, Oregon, Texas, Kansas, Louisiana,
+               Wisconsin, Missouri, Pennsylvania, Ohio,
+               Kentucky, Michigan, Arkansas.
+QUANTITY       704 kits were distributed.
+REASON         The Albumin reagent had mold growth and
+               reagent deterioration.
+
+                            -10-
+
+
+END OF ENFORCEMENT REPORT FOR FEBRUARY 21, 1996.  BLANK PAGES MAY
+FOLLOW.
+
+                                   ####

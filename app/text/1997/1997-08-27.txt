@@ -1,0 +1,1106 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      23 captures
+	      19 Aug 2000 - 15 Nov 2014
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+  August 27, 1997                                       97-35
+  
+  RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I ============
+  _______________
+  PRODUCT      The Sandwich Makers Sandwiches:  a) Steak &
+               Cheese Sub, 7 ounces; b) Ham & Cheese Sub, 7.5
+               ounces; c) Submarine, 8 ounces.  
+               Recall #F-681/683-7.
+  CODE         7161.  All products have a 7 day self life.
+  MANUFACTURER Americas Foods, Inc., Norfolk, Virginia.
+  RECALLED BY  Manufacturer, by fax on June 24, 1997.  
+  Firm-initiated recall complete.
+  DISTRIBUTION a) Arizona, Texas, South Carolina, Illinois,
+               Mississippi, Kentucky, Florida
+               b&c) Virginia, North Carolina, South Carolina.
+  QUANTITY     a) 1,230 sandwiches; b) 332 sandwiches; c) 260
+               sandwiches were distributed.
+  REASON       Products are contaminated with Listeria
+               monocytogenes.
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II ===========
+  _______________
+  PRODUCT      Bluebird Pineapple Juice from concentrate, in
+               6 ounce tin cans.   Recall #F-680-7.
+  CODE         EHEAT.
+  MANUFACTURER Citrus World, Inc., Lake Wales, Florida.
+  RECALLED BY  Manufacturer, by telephone beginning on April
+               17, 1997, followed by press release on April
+               23, 1997, and letter dated April 22, 1997. 
+               Firm-initiated recall ongoing.
+  DISTRIBUTION Nationwide.
+  QUANTITY     35,924 cases
+  REASON       Product contains high levels of tin.
+  
+  
+ RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS
+II ==========
+  _______________
+  PRODUCT      Sea-Clens Wound Cleanser, (Sodium Chloride),
+               in 6 fluid ounce bottles. (Note:  The product
+               is labeled with the company name of Sween
+               Corporation, N. Mankato, Minnesota.)
+               Recall #D-249-7.
+  CODE         Lot #1G6AB EXP 7/98.
+  MANUFACTURER Coloplast Corporation, North Mankato,
+               Minnesota.
+  RECALLED BY  Manufacturer, by letter on August 12, 1997. 
+               Firm-initiated recall ongoing.
+  DISTRIBUTION Nationwide.
+  QUANTITY     740 cases (6 bottles per case) were
+               distributed; firm estimated that 10 percent of
+               product remained on market at time of recall
+               initiated.
+  REASON       Pseudomonas Aeruginosa contamination.
+  
+  
+  RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III ==========
+  _______________
+  PRODUCT      ACTH (Corticotropin for Injection, USP), 40
+               units, in 10 ml vials. Rx, a preparation of
+               pituitary adrenocorticotropin hormone derived
+               from the anterior lob of hog pituitary. 
+               Recall #D-248-7.
+  CODE         Lot numbers:  01156P, EXP 8/97; 01256P, EXP
+               9/97; and 01356P, EXP 9/97.
+  MANUFACTURER Warner-Lambert Company, Parke-Davis Sterile
+               Products Division, Rochester, Michigan.
+  RECALLED BY  The Parke-Davis Division of Warner-Lambert
+               Co., Morris Plains, New Jersey, by letter on
+               July 28, 1997.  Firm-initiated recall ongoing.
+  DISTRIBUTION Nationwide.
+  QUANTITY     The amount of product shipped was as follows: 
+               34,176 units of lot 01156P between 9/04/96 and
+               08/01/96.  800 units of lot 01256P between
+               7/31/96 and 5/07/97.  10,323 units of lot
+               01356P between 10/31/96 and 5/07/97.  
+  REASON       Variability in assay results (stability).
+  
+  _______________
+  PRODUCT      Fluocinolone Acetonide Cream, USP 0.01%, Rx
+               sold in tubes of 15 g, used as an anti-
+               inflammatory and anti-pruritic agent.
+               Recall #D-250-7.
+  CODE         Lot #5143-1 EXP 6/97.
+  MANUFACTURER G & W Laboratories, South Plainfield, New
+               Jersey.
+  RECALLED BY  Manufacturer, by letter on May 2, 1997.       
+Firm-initiated recall complete.
+  DISTRIBUTION Nationwide and Puerto Rico.
+  QUANTITY     1,930 tubes were distributed.
+  REASON       Inconsistent assays during stability testing.
+  
+  _______________
+  PRODUCT      Vasosulf Ophthalmic Solution (Sulfacetamide
+               Sodium 15% phenylephrine Hydrochloride
+               0.125%), 5 ml and 15 ml sizes.  
+               Recall #D-251-7.
+  CODE         Lot numbers: VE3433 and VE3459.
+  MANUFACTURER OMJ Pharmaceuticals, San German, Puerto Rico.
+  RECALLED BY  CIBA Vision Ophthalmics, Duluth, Georgia, by
+               letter August 8, 1997.  Firm-initiated recall
+               ongoing.
+  DISTRIBUTION Nationwide
+  QUANTITY     12,552 units for lot VE3433; 6,588 fo lot
+               VE3459 were distributed.
+  REASON       Labeling error -- Phenylephrine HCL content on
+               insert reads 25 mg/ml and carton reads 125
+               mg/ml.  The correct amount is 1.25 mg/ml,
+               which is correctly listed on the container and
+               carton display panel.
+  
+  
+  RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II =======
+  _______________
+  PRODUCT      Red Blood Cells.  Recall #B-1141-7.
+  CODE         Unit #49FF26362.
+  MANUFACTURER American Red Cross Blood Services, Tulsa,
+               Oklahoma.
+  RECALLED BY  Manufacturer, by telephone on April 9, 1997,
+               and by letter on April 17, 1997. 
+               Firm-initiated recall complete.
+  DISTRIBUTION Oklahoma.
+  QUANTITY     1 unit was distributed.
+  REASON       Blood product was collected from a donor whose
+               body temperature had not been documented.
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Platelets; c)
+               Platelets, Pheresis; d) Platelets, for further
+               manufacture; e) Fresh Frozen Plasma.
+               Recall #B-1158/1162-7.
+  CODE         Unit numbers:  a) 2004852, 2004853, 2004855,
+               2004871, 2004872, 2004875, 2025381, 5044803,
+               5044805, 5044816, 5044827, 5044839, 5050383,
+               5050386, 5050387, 5050394, 5050414
+               b) 2004853, 2004855, 5050383, 5050386,
+               5050387, 5050390, 5050414
+               c) 5043389, 5043395, 5043396, 5043400,
+               5043401, 5043404
+               d) 2004852, 5043399, 5043403, 5050394  
+               e) 2004852, 2004853, 2004872, 2004875,
+               2025381, 5044810, 5044816, 5044825,
+               5044827, 5044839, 5050414.
+  MANUFACTURER LifeShare, Inc., also known as Lorain County
+               Blood Bank, Inc., Elyria, Ohio. 
+  RECALLED BY Manufacturer, by telephone on May 28, 1996,
+               followed by letters dated June 10, 1996. 
+               Firm-initiated recall complete.
+  DISTRIBUTION Ohio and Florida. 
+  QUANTITY     a) 17 units; b) 7 units; c) 6 units; d) 4
+               units; e) 11 units were distributed.
+  REASON       Blood products were incorrectly tested for         
+               the antibody to the hepatitis B core antigen
+               (anti-HBc). 
+  
+  _______________
+  PRODUCT      Source Plasma.  Recall #B-1192-7.
+  CODE         Unit numbers:  79350334, 79028837, 79027199,
+               79025263.
+  MANUFACTURER Bio-Blood Components, Inc., Gary, Indiana.
+  RECALLED BY  Manufacturer, by fax on April 9, 1997.             
+    Firm-initiated recall complete.
+  DISTRIBUTION California.
+  QUANTITY     4 units were distributed.
+  REASON       Blood product were collected from a donor who
+               received a tattoo within twelve months of
+               donation. 
+  
+  _______________
+  PRODUCT      Abbott HCV EIA 2.0 Diagnostic Kit, Hepatitis C 
+               Virus Encoded Antigen.  Recall #B-1208-7.
+  CODE         Lot Number: 29807M100 EXP 29 Oct 97.
+  MANUFACTURER Abbott Laboratories, Diagnostics Division,
+               Abbott Park, Illinois. 
+  RECALLED BY  Manufacturer, by telephone on July 25 and 28,
+               1997, followed by letter dated July 30, 1997. 
+               Firm-initiated recall ongoing.
+  DISTRIBUTION Florida, Illinois, Michigan, Tennessee, Texas,
+               Washington state.
+  QUANTITY     69 - 5000 test kits of HCV EIA were
+               distributed; firm estimated that 20% of the
+               HCV EIA kits remained on the market at time of
+               recall initiation. 
+  REASON       HCV EIA kits may contain a small number of
+               ungrounded coated beads. 
+  
+  _______________
+  PRODUCT      Abbott HIVAG-1 Monoclonal EIA Diagnostic Kit  
+               Antibody to Human Immunodeficiency Virus Type
+               1 (HIV-1).  Recall #B-1210-7.
+  CODE         Lot Number: 28087M201, EXP 17 Sep 97.
+  MANUFACTURER Abbott Laboratories, Diagnostics Division,
+               Abbott Park, Illinois.
+  RECALLED BY  Manufacturer, by telephone on July 25 and 28,
+               1997, followed by letter dated July 30, 1997. 
+               Firm-initiated recall ongoing.
+  DISTRIBUTION California, Florida, Illinois, Iowa,
+               Louisiana, Massachusetts, Michigan, South
+               Carolina, Tennessee, Texas.
+  QUANTITY     269 - 1000 test kits were distributed, with
+               the firm estimating that 3% of the kits    
+               remain on the market. 
+  REASON       HIVAG-1 EIA kits may contain a small number of
+               ungrounded coated beads. 
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Red Blood Cells,
+                 Leukocytes Removed; c) Platelets; d)
+                 Cryoprecipitate; e) Fresh Frozen Plasma; f)
+                 Recovered Plasma.  Recall #B-1212/1217-7.
+  CODE         a) 19037-1569   19034-6451  19039-2788
+                  19035-9984   19033-9393  19033-1129
+                  19032-5963   19038-5359  19029-0570
+                  19027-4568   19029-5428  19026-8142
+               b) 19031-7300
+               c) 19029-0570   19028-5359
+               d) 19026-8142   19031-7300  19039-2788
+                  19035-9984
+               e) 19037-1569
+               f) 19026-8142   19031-7300  19035-9984
+                  19039-2788   19034-6451  19029-0570
+                  19027-4568   19029-5428  19033-1129
+                  19032-5963   19028-5359.
+  MANUFACTURER United Blood Services, Reno, Nevada.
+  RECALLED BY  Blood Systems Inc., Scottsdale, Arizona, by
+               letter on February 18, 1997.  Firm-initiated
+               recall ongoing.
+  DISTRIBUTION Alabama, California, Florida, Louisiana, North
+               Carolina, Nevada, South Dakota, Tennessee,
+               Texas, Switzerland.
+  QUANTITY     a) 12 units; b) 1 unit; c) 2 units; d) 4
+               units; e) 1 unit; f) 11 units were
+               distributed.
+  REASON       Blood products tested negative for the
+               antibody to the human immunodeficiency virus
+               type 1 (anti-HIV-1), but were collected from a
+               donor who previously tested repeatedly      
+               reactive for anti-HIV-1, Western blot
+               negative. 
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Recovered Plasma.
+               Recall #B-1219/1220-7
+  CODE         Unit 12060-0552.
+  MANUFACTURER United Blood Services, Albuquerque, New
+               Mexico.
+  RECALLED BY  Blood Systems Inc., Scottsdale, Arizona, by
+               letter on February 4, 1997.  Firm-initiated
+               recall complete.
+  DISTRIBUTION Nevada and Switzerland.
+  QUANTITY     1 unit of each component was distributed.
+  REASON       Blood products were drawn from an unsuitable
+               donor.
+  
+  _______________
+  PRODUCT      a) Platelets; b) Recovered Plasma.
+               Recall #B-1221/1222-7.
+  CODE         Unit #20037-7281.
+  MANUFACTURER United Blood Services, Lafayette, Louisiana.
+  RECALLED BY  Blood Systems Inc., Scottsdale, Arizona, by
+               letters on March 19, 1997, April 9, 1997, and
+               July 7, 1997.  Firm-initiated recall complete.
+  DISTRIBUTION Louisiana and North Carolina.
+  QUANTITY     1 unit of each component was distributed.
+  REASON       Blood products were drawn from an unsuitable
+               donor.
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Recovered Plasma.
+               Recall #B-1223/1224-7.
+  CODE         Unit  #20019-5651.
+  MANUFACTURER United Blood Services, Lafayette, Louisiana.
+  RECALLED BY  Blood Systems Inc., Scottsdale, Arizona, by
+               letter on February 18, 1997, and April 9,
+               1997.  Firm-initiated recall complete.
+  DISTRIBUTION Louisiana and Switzerland.
+  QUANTITY     1 unit of each component was distributed.
+  REASON       Blood products, which tested negative for the
+               antibody to the human immunodeficiency virus
+               type 1 (anti-HIV-1), but were collected from a
+               donor who previously tested repeatedly
+               reactive for anti-HIV-1, Western blot
+               negative, were distributed.
+  
+  _______________
+  PRODUCT      Baxter Gammagard Solvent/Detergent Treated
+               Immunoglobulin G (Immune Globulin Intravenous  
+               (Human): a) Baxter's Gammagard S/D 5G;
+               b) Baxter's Gammagard S/D 10G.
+               Recall #B-1225/1226-7.
+  CODE         Lot # 2620M010AB, 2620M011AA, 2620M012AA.
+  MANUFACTURER Baxter Healthcare Corporation, Hyland
+               Division, Glendale, California.
+  RECALLED BY  Manufacturer, by letter dated April 24, 1997. 
+               Firm-initiated recall ongoing.
+  DISTRIBUTION Nationwide and international.
+  QUANTITY     10,173 vials were distributed.
+  REASON       Baxter's IGIV solvent/detergent vials are
+               misbranded in that they incorrectly list the
+               reconstitution volume as 10 ml. 
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Platelets; c) Recovered
+                 Plasma.  Recall #B-1227/1229-7.
+  CODE         Unit #12093-5239. 
+  MANUFACTURER United Blood Services, Albuquerque, New
+               Mexico.
+  RECALLED BY  Blood Systems Inc., Scottsdale, Arizona, by
+               letter on March 19, 1997.  Firm-initiated
+               recall complete.
+  DISTRIBUTION New Mexico and North Carolina.
+  QUANTITY     1 unit of each component was distributed.
+  REASON       Blood products were collected from a donor
+               with a medical history of hepatitis.
+  
+  ______________
+  PRODUCT      a) Red Blood Cells; b) Cryoprecipitated AHF;
+               c) Platelets; d) Recovered Plasma.  
+               Recall #B-1230/1233-7. 
+  CODE         Unit numbers:  a) 10499-7432, 10496-0963,
+               10490-4257; b) 10499-7432, 10496-0963; c)
+               10490-4257; d) 10499-7432, 10496-0963.
+  MANUFACTURER United Blood Services, Scottsdale, Arizona.
+  RECALLED BY  Blood Systems Inc., Scottsdale, Arizona, by
+               letter on May 24, 1997. Firm-initiated recall
+               complete.
+  DISTRIBUTION Alabama, Montana, Nevada, Switzerland.
+  QUANTITY     a) 3 units; b) 2 units; c) 1 unit; d) 2 units
+               were distributed.
+  REASON       Blood products were collected from a donor
+               with a history of cancer. 
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Platelets; c) Fresh
+                 Frozen Plasma.  Recall #B-1234/1236-7.
+  CODE         Unit numbers: a) 29083-5722;  b) 29083-5722,
+                 29085-5309; c) 29083-5722.
+  MANUFACTURER United Blood Services, Chicago, Illinois.
+  RECALLED BY  Blood Systems Inc., Scottsdale, Arizona, by
+               letters on February 5, 1997, and May 2, 1997. 
+               Firm-initiated recall complete.
+  DISTRIBUTION Illinois and Mississippi.
+  QUANTITY     a) 1 unit; b) 2 units; c) 1 unit was
+                 distributed.
+  REASON       Blood products tested negative for the
+               antibody to the human immunodeficiency virus
+               type 1 (anti-HIV-1), but were collected from a
+               donor who previously tested repeatedly  
+               reactive for anti-HIV-1, Western blot
+               negative. 
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Platelets; c) Fresh
+                 Frozen Plasma; d) Recovered Plasma.
+               Recall #B-1238/1241-7.
+  CODE         Unit numbers:  a) 12415-9782, 12414-7079,
+               12412-7323, 12409-7504, 12078-6408,
+               12408-2436, 12090-2683, 12088-9992,       
+               12093-2339, 12080-5112
+            b) 12412-7323, 12088-9992, 12090-2683,
+               12409-7504
+            c) 12078-6408, 12415-9782, 2414-7079 
+            d) 12093-2339, 12408-2436, 12409-7504,
+               12412-7323, 12090-2683, 12088-9992,         
+               12080-5112.
+  MANUFACTURER United Blood Services, Albuquerque, New
+               Mexico.
+  RECALLED BY  Blood Systems Inc., Scottsdale, Arizona, by
+               letters on March 11, 1997, and July 7, 1997. 
+               Firm-initiated recall ongoing.
+  DISTRIBUTION Colorado, North Carolina, New Mexico, Texas,
+               Switzerland.
+  QUANTITY     a) 10 units; b) 4 units; c) 3 units; d) 7
+               units were distributed.
+  REASON       Blood products tested negative for the
+               antibody to the  human immunodeficiency virus
+               type 1 (anti-HIV-1), but were collected from a
+               donor who previously tested repeatedly  
+               reactive for anti-HIV-1, Western blot
+               negative.
+  
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Fresh Frozen Plasma;
+               c) Recovered Plasma.  Recall #B-1242/1244-7.
+  CODE         Unit numbers: a) 22055-1442 and 22061-2904
+               b) 22061-2904; c) 22055-1442.
+  MANUFACTURER United Blood Service, Las Vegas, Nevada.
+  RECALLED BY  Blood Systems, Inc., Scottsdale, Arizona, by
+               letter dated March 11, 1997.  Firm-initiated
+               recall complete. 
+  DISTRIBUTION Nevada and North Carolina.
+  QUANTITY     a) 2 units; b) 1 unit; c) 1 unit was
+               distributed.
+  REASON       Blood products were collected from a donor who
+               was previously deferred for high risk
+               behavior.
+  
+  _______________
+  PRODUCT      Recovered Plasma.  Recall #B-1245-7.
+  CODE         Unit #14001-8286.
+  MANUFACTURER United Blood Services, Lafayette, Louisiana.
+  RECALLED BY  Blood Systems, Inc., Scottsdale, Arizona, by
+               letter dated March 19, 1997.  Firm-initiated
+               recall complete.
+  DISTRIBUTION Florida.
+  QUANTITY     1 unit was distributed.
+  REASON       Blood product was collected from a donor who
+                 was previously deferred. 
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Recovered Plasma.
+               Recall #B-1246/1247-7.
+  CODE         Unit #20035-3643.
+  MANUFACTURER United Blood Services, Lafayette, Louisiana.
+  RECALLED BY  Blood Systems, Inc., Scottsdale, Arizona, by
+               letters dated March 19, 1997 and April 9,
+               1997.  Firm-initiated recall complete.
+  DISTRIBUTION Louisiana and North Carolina.
+  QUANTITY     1 unit of each component was distributed.
+  REASON       Blood products were collected from a donor who
+               was previously deferred for a history of
+               intravenous (IV) drug use.
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Recovered Plasma.
+               Recall #B-1248/1249-7.
+  CODE         Unit  numbers:  19224-1747 and 19038-9200.
+  MANUFACTURER United Blood Services, Reno, Nevada.
+  RECALLED BY  Blood Systems, Inc., Scottsdale, Arizona, by
+               letter dated February 18, 1997.  Firm-initiated
+recall complete.
+  DISTRIBUTION Nevada and Switzerland.
+  QUANTITY     2 units of each component was distributed.
+  REASON       Blood products were collected from a donor who
+               previously made a therapeutic donation, were
+               distributed.
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Plasma.
+               Recall #B-1250/1251-7.
+  CODE         Unit #29GY02968.
+  MANUFACTURER American Red Cross Blood Services, Norfolk,
+               Virginia.
+  RECALLED BY  Manufacturer, by letters dated April 28, 1997,
+               and June 6, 1997.  Firm-initiated recall
+               complete.
+  DISTRIBUTION North Carolina.
+  QUANTITY     1 unit of each component was distributed.
+  REASON       Blood products were collected from a donor
+               with Amyopathic dermatomyositis. 
+   
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Recovered Plasma.
+               Recall #B-1252/1253-7.
+  CODE         Unit #24KE10855.
+  MANUFACTURER American Red Cross Blood Service, Louisville,
+               Kentucky.
+  RECALLED BY  Manufacturer, by letters dated April 23 and
+               18, 19997.  Firm-initiated recall complete.
+  DISTRIBUTION Puerto Rico and California.
+  QUANTITY     1 unit of each component was distributed.
+  REASON       Blood products were collected from a donor who
+                 received a hepatitis B booster vaccine.
+   
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Platelets.
+               Recall #B-1254/1255-7.
+  CODE         Unit #22KQ07215.
+  MANUFACTURER American Red Cross, Philadelphia,
+               Pennsylvania.
+  RECALLED BY  Manufacturer, by telephone and by letter dated
+               January 24, 1997.  Firm-initiated recall
+               complete.
+  DISTRIBUTION Pennsylvania and New Jersey.
+  QUANTITY     1 unit of each component was distributed.
+  REASON       Blood products were collected from a donor who
+               reported travel to an area designated as 
+               endemic for malaria.
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Platelets.
+               Recall #B-1256/1257-7.
+  CODE         Unit #22GP69729.
+  MANUFACTURER American Red Cross, Philadelphia,
+               Pennsylvania.
+  RECALLED BY  Manufacturer, by telephone and by letter dated
+               November 5, 1996.  Firm-initiated recall
+               complete.
+  DISTRIBUTION Pennsylvania.
+  QUANTITY     1 unit of each component was distributed.
+  REASON       Blood products were collected from a donor who
+               reported travel to an area designated as 
+               endemic for malaria.
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Platelets; c)
+               Cryoprecipitate; d) Recovered Plasma.
+               Recall #B-1259/1262-7.
+  CODE         Unit numbers:  a) 22052-0182; b) 22044-5302;
+               c) 22052-0182; d) 22052-0182, 22044-5302.
+  MANUFACTURER United Blood Services, Las Vegas, Nevada.
+  RECALLED BY  Blood Systems Inc., Scottsdale, Arizona, by
+               letter on July 7, 1997.  Firm-initiated recall
+               complete.
+  DISTRIBUTION Nevada and Switzerland.
+  QUANTITY     a) 1 unit; b) 1 unit; c) 1 unit; d) 2 units
+               were distributed.
+  REASON       Blood products were collected from a donor
+               with a history of hepatitis. 
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Fresh Frozen Plasma; 
+               c) Recovered Plasma.  Recall #B-1263/1265-7.
+  CODE         a) 10211-4613, 10204-5931, 10154-3691; b) 
+                 10211-4613, 10204-5931; c) 10154-3691.
+  MANUFACTURER United Blood Services, Scottsdale, Arizona.
+  RECALLED BY  Blood Systems Inc., Scottsdale, Arizona, by
+               letter on July 7, 1997.  Firm-initiated recall
+               complete.
+  DISTRIBUTION Arizona and Switzerland.
+  QUANTITY     a) 3 units; b) 2 units; c) 1 unit was
+               distributed.
+  REASON       Blood products were drawn from an unsuitable
+               donor. 
+  
+  
+  RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III ======
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Platelets; c)
+               Platelets, Pheresis; d) Platelets, for further
+               manufacture; e) Fresh Frozen Plasma.
+               Recall #B-1163/1167-7.
+  CODE         Unit numbers:  a) 2004854, 2004856, 2004857,
+               2004858, 2004859, 2004861, 2004862, 2004864,
+               2004865, 2004866, 2004867, 2004868, 2004869,
+               2004870, 2004874, 2021800, 2021801, 2021802,
+               2021804, 2021805, 2021806, 2025371, 2025372,
+               2025373, 2025374, 2025375, 2025376, 2025377,
+               2025379, 2025383, 2025385, 2025386, 2025387,
+               2025388, 2025389, 2025390, 2025391, 2025392,
+               2025394, 2025395, 2025397, 2025398, 2025399,
+               2025979, 2025980, 2025981, 5044789, 5044790,
+               5044791, 5044793, 5044794, 5044795, 5044797,
+               5044798, 5044799, 5044800, 5044801, 5044802,
+               5044806, 5044807, 5044808, 5044809, 5044811,
+               5044812, 5044813, 5044815, 5044817, 5044818,
+               5044819, 5044820, 5044821, 5044822, 5044824,
+               5044828, 5044829, 5044830, 5044831, 5044832,
+               5044833, 5044834, 5044836, 5044837, 5044838,
+               5050385, 5050389, 5050391, 5050392, 5050393,
+               5050395, 5050396, 5050397, 5050399, 5050400,
+               5050401, 5050402, 5050403, 5050404, 5050405,
+               5050406, 5050407, 5050408, 5050409, 5050410,
+               5050411, 5050415
+            b) 2004856, 2004857, 2004858, 2004859,
+               2025371, 2025372, 2025373, 2025374, 2025375,
+               2025377, 5044791, 5044792, 5044793, 5044798,
+               5044799, 5050389, 5050391, 5050392, 5050395,
+               5050397, 5050398, 5050399, 5050400, 5050401,
+               5050403, 5050404, 5050405, 5050406, 5050408,
+               5050410, 5050412, 5050415
+            c) 5043390, 5043391, 5043392, 5043393, 5043394
+            d) 2004854, 2025376, 5044789, 5044795,
+               5050385, 5050402, 5050407, 5050409, 5050411,
+               5050412
+            e) 2004858, 2004868, 2004874, 2025376,
+               2025981, 5044789, 5044792, 5044820, 5044829,
+               5044830, 5050398, 5050403, 5050404, 5050411.
+  MANUFACTURER LifeShare, Inc., also known as Lorain County
+               Blood Bank, Inc., Elyria, Ohio.
+  RECALLED BY  Manufacturer, by telephone on May 28, 1996,
+               followed by letter dated June 10, 1996.    
+               Firm-initiated recall complete.
+  DISTRIBUTION Ohio and Florida.
+  QUANTITY     a) 105 units; b) 32 units; c) 5 units; d) 10
+               units; e) 14 units were distributed.
+  REASON       Blood products were incorrectly tested for the
+               antibody to the hepatitis B core antigen
+               (anti-HBc). 
+  
+  ________________
+  PRODUCT      Platelets, Pheresis.  Recall #B-1168-7.
+  CODE         Unit numbers:  1207386, 1207412, 1207427,
+               1207432.
+  MANUFACTURER Houchin Community Blood Bank,                      
+               Bakersfield, California.
+  RECALLED BY  Manufacturer, by telephone on August 14, 1996. 
+               Firm-initiated recall complete.
+  DISTRIBUTION California.
+  QUANTITY     4 units were distributed.
+  REASON       Blood products were not tested for the HIV-1
+               p24 antigen. 
+  
+  
+  
+ RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS
+II =========
+  _______________
+  PRODUCT      SURGIKOS Latex Surgical Gloves, Sterile. 
+               Recall #Z-754/761-7.
+  CODE         Model Numbers   Lot Numbers
+               6455 95100001 through 97020001
+               6460 95100011 through 97030103 
+               6465 95100103 through 97030209
+               6470 95080726 through 97020508
+               6475 95081504 through 97031002
+               6480 95082296 through 97021603
+               6485 95071653 through 97021805
+               6490 95071695 through 97021901.
+  MANUFACTURER Fime-Darby Latex Products Seramban,Malaysia
+  RECALLED BY  Johnson & Johnson Medical, Inc., Arlington,
+               Texas, by letter, July 1, 1997.  Firm-initiated
+recall ongoing.
+  DISTRIBUTION Nationwide and Canada.
+  QUANTITY     417,000 pairs were distributed.
+  REASON       Open seals were found, thereby compromising
+               the sterility of the medical devices.
+  
+  _______________
+  PRODUCT      Kilit Ampules, are used to monitor
+               steam-under-pressure sterilization cycles,
+               labeled under the brand names Cotrell Limited
+               and SPS Medical:
+               a) Kilit Ampules, Catalog Number 4312018
+               b) Kilit Ampules, Catalog Number 4312019
+               c) Kilit Ampules, Catalog  Number 4399511
+               (manufactured for Cottrell, Ltd.);
+               d) Kilit Ampules, Catalog Number 4399155
+               (manufactured for SPS Medical).           
+               Recall #Z-764/767-7.
+  CODE         All lots of the above Catalog Numbers are
+               subject to recall. 
+  MANUFACTURER Becton Dickinson Microbiology Systems,
+               Cockeysville, Maryland. 
+  RECALLED BY  Becton Dickinson Microbiology Systems, Sparks,
+               Maryland, by letter in May 1997.  Firm-initiated
+recall ongoing.
+  DISTRIBUTION Nationwide and international.
+  QUANTITY     Firm estimates none remains on the market.
+  REASON       Devices do not meet labeled D-values and some
+               are outside the label claim for spore count. 
+               This could produce incorrect result when
+               applied to the standard  microbiological
+               sterilization cycle.
+  
+  _______________
+  PRODUCT      Electric Powered Moist Heating Pad with
+               momentary switch:
+               a) Roberts Hydro Thero Pad Model 1327-1,
+               Pro-Temp MHP Model 1327-1
+               b) Roberts Hydro Thero pad Model 1313-1.  
+               Recall #Z-796/797-7.
+  CODE         a) Control numbers 971247, 971260 through
+               971324, 971349 through 971362, 971397 through
+               971431, 971482 through 971561, 970541 through
+               970660  
+               b) control numbers 970889 through 970911,
+               970924 through 971025, 971081 through 971200,
+               971212, 971144 through 971147. 
+  MANUFACTURER Roberts Manufacturing Company, Inc.,
+               Baltimore, Maryland.
+  RECALLED BY  Manufacturer, by telephone on May 23, 1997. 
+               Firm-initiated recall ongoing.
+  DISTRIBUTION Nationwide.
+  QUANTITY     a) 315 units; b) 246 units were distributed.
+  REASON       During assembly of the product it was
+               discovered that splitting the electric power
+               cord caused copper wires to become exposed.
+  
+  _______________
+  PRODUCT      Heartstart Battery Charger, Catalog #902850,
+               intended to charge the following batteries:
+               90 11 00 Heartstart Battery
+               90 43 00 Heartstart Battery
+               90 11-90 Heartstart 3000 Training Battery
+               90 41 00 Heartstart 1000 Training Battery.
+               Recall #Z-802-7.
+  CODE         Lot Nos. 97182A, 97212A.
+  MANUFACTURER Ault, Inc., Minneapolis, Minnesota (battery
+               supplier/responsible firm).
+  RECALLED BY  Laerdal Medical Corp., Wappingers Falls, New
+               York, by letter dated June 27, 1997. 
+Firm-initiated recall ongoing.
+  DISTRIBUTION Nationwide.
+  QUANTITY     301 battery charges are affected.
+  REASON       The two lots of battery chargers were missing
+               a resistor that controls the lights and
+               charging activity in the battery charger.
+  
+  _______________
+  PRODUCT      Contour Mammography System, Model M-CTR-1 and
+               M-CTR-2 dedicated for mammographic imaging
+               using X-ray.   Recall #Z-859/860-7.
+  CODE         Units with Serial Numbers in 29000 series are
+               Contour 2 models and all others are Contour 1
+               (425 Serial #s): 
+               BMC-27503, BMC-27504, BMC-27505, BMC-27506,
+               BMC-27509, BMC-27510, BMC-27512, BMC-27513,
+               BMC-27514, BMC-27516, BMC-27520, BMC-27522,
+               BMC-27523, BMC-27524, BMC-27526, BMC-27527,
+               BMC-27528, BMC-27578, BMC-27579, BMC-27580,    
+               BMC-27581, BMC-27582, BMC-27583, BMC-27584,
+               BMC-27586, BMC-27587, BMC-27596, BMC-27597,
+               BMC-27598, BMC-27599, BMC-27600, BMC-27602,
+               BMC-27603, BMC-27604, BMC-27605, BMC-27606,
+               BMC-27607, BMC-27608, BMC-27609, BMC-27610,    
+               BMC-27611, BMC-27612, BMC-27613, BMC-27614,
+               BMC-27615, BMC-27634, BMC-27635, BMC-27636,
+               BMC-27637, BMC-27638, BMC-27639, BMC-27641,
+               BMC-27642, BMC-27643, BMC-27644, BMC-27646,
+               BMC-27647, BMC-27648, BMC-27649, BMC-27650,    
+               BMC-27652, BMC-27654, BMC-27655, BMC-27656,
+               BMC-27658, BMC-27701, BMC-27702, BMC-27703,
+               BMC-27705, BMC-27706, BMC-27707, BMC-27708,
+               BMC-27710, BMC-27711, BMC-27712, BMC-27713,
+               BMC-27714, BMC-27715, BMC-27716, BMC-27717,  
+               BMC-27718, BMC-27719, BMC-27720, BMC-27721,
+               BMC-27722, BMC-27723, BMC-27724, BMC-27725,
+               BMC-27726, BMC-27727, BMC-27729, BMC-27730,
+               BMC-27731, BMC-27732, BMC-27733, BMC-27734,
+               BMC-27735, BMC-27737, BMC-27738, BMC-27739,    
+               BMC-27740, BMC-27741, BMC-27742, BMC-27743,
+               BMC-27745, BMC-27746, BMC-27753, BMC-27754,
+               BMC-27755, BMC-27756, BMC-27757, BMC-27758,
+               BMC-27759, BMC-27760, BMC-27761, BMC-27762,
+               BMC-27763, BMC-27764, BMC-27765, BMC-27766,    
+               BMC-27767, BMC-27768, BMC-27770, BMC-27771,
+               BMC-27772, BMC-27773, BMC-27774, BMC-27775,
+               BMC-27777, BMC-27778, BMC-27779, BMC-27780,
+               BMC-27780, BMC-27781, BMC-27783, BMC-27784,
+               BMC-27801, BMC-27802, BMC-27803, BMC-27804,    
+               BMC-27805, BMC-27806, BMC-27807, BMC-27808,
+               BMC-27809, BMC-27812, BMC-27813, BMC-27814,
+               BMC-27815, BMC-27816, BMC-27817, BMC-27818,
+               BMC-27820, BMC-27821, BMC-27822, BMC-27823,
+               BMC-27824, BMC-27828, BMC-27829, BMC-27831,    
+               BMC-27832, BMC-27833, BMC-27834, BMC-27835,
+               BMC-27836, BMC-27837, BMC-27838, BMC-27840,
+               BMC-7841,  BMC-27842, BMC-27844, BMC-27845,
+               BMC-27846, BMC-27848, BMC-27849, BMC-27850,
+               BMC-27851, BMC-27852, BMC-27853, BMC-27855,    
+               BMC-27858, BMC-27859, BMC-27860, BMC-27861,
+               BMC-27865, BMC-27866, BMC-27867, BMC-27868,
+               BMC-27869, BMC-27870, BMC-27871, BMC-27872,
+               BMC-27873, BMC-27874, BMC-27875, BMC-27876,
+               BMC-27877, BMC-27888, BMC-27889, BMC-27890,   
+               BMC-27891, BMC-27892, BMC-27893, BMC-27895,
+               BMC-27896, BMC-27897, BMC-27898, BMC-27900,
+               BMC-27901, BMC-27902, BMC-27903, BMC-27904,
+               BMC-27905, BMC-27906, BMC-27907, BMC-27908,
+               BMC-27909, BMC-27910, BMC-27911, BMC-27912,    
+               BMC-27913, BMC-27914, BMC-27915, BMC-27916,
+               BMC-27919, BMC-27920, BMC-27922, BMC-27923,
+               BMC-27924, BMC-27925, BMC-27926, BMC-27927,
+               BMC-27928, BMC-27929, BMC-27930, BMC-27931,
+               BMC-27932, BMC-27935, BMC-27936, BMC-27938,    
+               BMC-27939, BMC-27940, BMC-27942, BMC-27943,
+               BMC-27945, BMC-27946, BMC-27956, BMC-27957,
+               BMC-27959, BMC-27960, BMC-27961, BMC-27962,
+               BMC-27965, BMC-27966, BMC-27968, BMC-27969,
+               BMC-27971, BMC-27972, BMC-27973, BMC-27974,    
+               BMC-27975, BMC-27976, BMC-27979, BMC-27981,
+               BMC-27982, BMC-27985, BMC-27986, BMC-27989,
+               BMC-27990, BMC-27993, BMC-27994, BMC-27995,
+               BMC-27997, BMC-27998, BMC-27999, BMC-28001,
+               BMC-28002, BMC-28003, BMC-28004, BMC-28005,    
+               BMC-28015, BMC-28016, BMC-28017, BMC-28018,
+               BMC-28019, BMC-28020, BMC-28021, BMC-28022,
+               BMC-28024, BMC-28025, BMC-28026, BMC-28027,
+               BMC-28032, BMC-28043, BMC-28044, BMC-28045,
+               BMC-28047, BMC-28048, BMC-28050, BMC-28052,    
+               BMC-28053, BMC-28054, BMC-28056, BMC-28057,
+               BMC-28059, BMC-28061, BMC-28062, BMC-28063,
+               BMC-28064, BMC-28065, BMC-28066, BMC-28067,
+               BMC-28069, BMC-28071, BMC-28072, BMC-28074,
+               BMC-28075, BMC-28076, BMC-28096, BMC-28097,    
+               BMC-28098, BMC-28099, BMC-28103, BMC-28104,
+               BMC-28105, BMC-28109, BMC-28110, BMC-28111,
+               BMC-28112, BMC-28113, BMC-28114, BMC-28116,
+               BMC-28117, BMC-28118, BMC-28119, BMC-28120,
+               BMC-28122, BMC-28125, BMC-28126, BMC-28127,
+               BMC-28128, BMC-28129, BMC-28130, BMC-28133,
+               BMC-28134, BMC-28135, BMC-28136, BMC-28139,
+               BMC-28140, BMC-28141, BMC-28142, BMC-28143,
+               BMC-28144, BMC-28151, BMC-28152, BMC-28154,
+               BMC-28155, BMC-28157, BMC-28158, BMC-28167,    
+               BMC-28168, BMC-28171, BMC-28174, BMC-28175,
+               BMC-28176, BMC-28182, BMC-28183, BMC-28185,
+               BMC-28186, BMC-28187, BMC-28188, BMC-28195,
+               BMC-28217, BMC-28219, BMC-28223, BMC-28224,
+               BMC-28225, BMC-28230, BMC-28252, BMC-28253,    
+               BMC-28257, BMC-29000, BMC-29001, BMC-29002,
+               BMC-29003, BMC-29004, BMC-29005, BMC-29006,
+               BMC-29007, BMC-29008, BMC-29009, BMC-29010,
+               BMC-29014, BMC-29015, BMC-29016, BMC-29017,
+               BMC-29022, BMC-29023, BMC-29024, BMC-29026,
+               BMC-29027, BMC-29028, BMC-29045, BMC-29046,
+               BMC-29047, BMC-29048, BMC-29049, BMC-29051,
+               BMC-29052, BMC-29053, BMC-29054, BMC-29055,
+               BMC-29056, BMC-29057, BMC-29059, BMC-29060,
+               BMC-29061, BMC-29062, BMC-29063, BMC-29066,    
+               BMC-29068, BMC-29069, BMC-29072, BMC-29073 &
+               BMC-29076. 
+               The following serial numbers are for the 58
+               units which the firm had shipped retrofit kits
+               between 9/95 and 2/97: (Bennett still needs to
+               verify that these retrofits were performed by
+               dealers' servicemen):
+               BMC-27830, BMC-29129, BMC-29196, BMC-29081,
+               BMC-28042, BMC-29021, BMC-27941, BMC-29019,
+               BMC-27856, BMC-29177, BMC-28051, BMC-27616,
+               BMC-27610, BMC-27944, BMC-27987, BMC-27996,
+               BMC-27517, BMC-29168, BMC-29067, BMC-27970,
+               BMC-27967, BMC-27769, BMC-28023, BMC-27937,
+               BMC-27525, BMC-27507, BMC-28172, BMC-27508,
+               BMC-29011, BMC-29013, BMC-29020, BMC-27827,
+               BMC-27988, BMC-29287, BMC-29018, BMC-28026,
+               BMC-27847, BMC-29025, BMC-29139, BMC-27843,    
+               BMC-29112, BMC-27826, BMC-27958, BMC-28046,
+               BMC-28156, BMC-29249, BMC-29121, BMC-29003,
+               BMC-28058, BMC-27744, BMC-27501, BMC-27653,
+               BMC-29012, BMC-27857, BMC-28121, BMC-27640,
+               BMC-29074 and BMC-27977. 
+  MANUFACTURER Bennett X-Ray Technologies, subsidiary of Trex
+               Medical Corporation, Copiague, New York.
+  RECALLED BY  Manufacturer, by letter dated March 5, 1997. 
+               Firm-initiated field correction ongoing.
+  DISTRIBUTION Nationwide and international.
+  QUANTITY     483 units subject to retrofit.
+  REASON       This diagnostic x-ray device was found to be
+               in non-compliance with the Federal Performance
+               Standard for Diagnostic X-ray Systems and
+               their Major Components.  The 150 watt bulb may
+               cause overheating in the collimator gears. 
+  
+  _______________
+  PRODUCT      Multigas Analyzer, simultaneously monitors gas
+               concentrations and alerts clinical personnel
+               when the concentration of anesthetic agents,
+               oxygen, carbon dioxide or nitrous oxide falls
+               outside the defined limits.  Recall #Z-862-7.
+  CODE         Serial Number Range 518-000001 through 
+               518-000551 (non inclusive), Software Versions
+               less than 1.00.26
+  MANUFACTURER Spacelabs Medical, Inc., Redmond, Washington.
+  RECALLED BY  Manufacturer, by letter on May 15, 1997. 
+               Firm-initiated field correction ongoing.
+  DISTRIBUTION Nationwide and international.
+  QUANTITY     303 devices were distributed.
+  REASON       The multigas analyzer may display an incorrect
+               agent identification.
+  
+  _______________
+  PRODUCT      Narkomed Anesthesia Machines, intended to
+               deliver anesthetic gases and oxygen and may be
+               used to ventilate patients.  Recall #Z-863-7.
+  CODE         Product Manufactured Between December 5, 1996,
+               and March 21, 1997.
+  MANUFACTURER North American Drager, Telford, Pennsylvania.
+  RECALLED BY  Manufacturer, by letter dated June 6, 1997.
+               Firm-initiated recall ongoing.
+  DISTRIBUTION Nationwide and international.
+  QUANTITY     281 units were distributed.
+  REASON       The oxygen flush button on some of these
+               machines may stick in the open position.
+  
+  _______________
+  PRODUCT      3100A Flexible Patient Circuit Body, Part
+               #769960, Used With Model 3100 HFOV, for
+               ventilatory support and treatment of
+               respiratory failure.  Recall #Z-864-7.
+  CODE         Lot #042297.
+  MANUFACTURER Sensormedics, Inc., Yorba Linda, California.
+  RECALLED BY  Surgical Technologies, Inc., Brea, California,
+               by telephone on July 2, 1997.  Firm-initiated
+               recall ongoing.
+  DISTRIBUTION Illinois, Pennsylvania, The Netherlands,
+               Canada, Argentina.
+  QUANTITY     54 boxes were distributed.
+  REASON       The dump valve and temperature port
+               subassembly near the patient end of the
+               circuit body was reversed due to an assembly
+               error.
+  
+  _______________
+  PRODUCT      Epstein-Barr Virus-Viral Capsid Antigen IgG
+               Enzyme-linked Immunosorbent Assay, Product No.
+               2325700 (International), 425700 (Domestic),
+               Lot No. 2325700-120 (International),
+               425700-120 (Domestic), for in-vitro diagnostic
+               use.  Recall #Z-865-7.
+  CODE         Lot #120 EXP 11/97.
+  MANUFACTURER Trinity Biotech (formerly Clark Laboratories),
+               Jamestown, New York.
+  RECALLED BY  Manufacturer, by letter dated July 25, 1997. 
+               Firm-initiated recall ongoing.
+  DISTRIBUTION New Jersey and international.
+  QUANTITY     960 kits were distributed.
+  REASON       The absorbance of the kit calibrator has
+               dropped below the acceptable optical density
+               range of 0.250.
+  
+  _______________
+  PRODUCT      Oxygen Pressure Regulator with Constant Flow:
+               a) Regulator Model No. L270-020 for the
+               following kits: L151JD, L175-010, L175-010D,
+               L175-010JD, L175-011D, L175-011JD, L175-014,
+               L175-01R, L175-030, L175-030D, L175-030JD,
+               L175-03R, L175-140, L444, L444-010, L515,
+               L515-010, L515D, L515JD, L520, L520-010, L521,
+               L523, L523-100, L524, L525, L526, L541-020,
+               L541-040, L542-020, L542-040, L561, L561-010,
+               L561-020, L567, L574, L594, L902001, L902002,
+               L902003, L520-100
+               b) Regulator Model No. L270-050 for the
+               following kits:  L228 and L228-030.
+               Recall #Z-866/867-7.
+  CODE         All regulators distributed prior to 4/11/97.
+  MANUFACTURER Allied Healthcare Products, Inc., St. Louis,
+               Missouri.
+  RECALLED BY  Manufacturer, by letter dated May 20, 1997,
+               and by telephone on May 23, 1997.                  
+               Firm-initiated recall ongoing.
+  DISTRIBUTION Nationwide.
+  QUANTITY     Approximately 150,000 regulators were
+               distributed.
+  REASON       The device was involved in fires which
+               occurred as a result of  contamination
+               introduced into the oxygen regulators during
+               maintenance or use.
+  
+  _______________
+  PRODUCT      Consensus Knee Femoral Component, Nonporous
+               CoCr, Size 5 Right, for joint replacement. 
+               Recall #Z-868-7.
+  CODE         Lot No. 230224A.
+  MANUFACTURER US Medical Products, Inc., Austin, Texas.
+  RECALLED BY  Manufacturer, by telephone on May 22, 1997. 
+               Firm-initiated recall complete.
+  DISTRIBUTION Florida.
+  QUANTITY     2 units were distributed.
+  REASON       The labeling stated product was a right knee
+               component, but the component in the package
+               was a left knee component.
+  
+  RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III ========
+  _______________
+  PRODUCT      Dual Lumen 7Fr. Catheter (DLC-7D), Urodynamics
+               Catheterization Trays (TCL-7) that include
+               DLC-7D Catheters.  Recall #Z-762/763-7.
+  CODE         Lot numbers:  a) 4617701; b) 2617802.
+  MANUFACTURER Life-Tech, Inc., Houston, Texas.
+  RECALLED BY  Manufacturer, by letter,on or about dated June
+               30, 1997 
+               Firm-initiated recall ongoing.
+  DISTRIBUTION Nationwide
+  QUANTITY     360/30 cartons were distributed.
+  REASON       The catheters were shipped with a partially
+               occluded pressure lumen.
+  
+  RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS
+III ===
+  _______________
+  PRODUCT      OptiCare Opti-Pak containing Aureo SP-250
+              (medicated swine feed premix containing
+               chlortetracycline, sulfamethazine and
+               penicillin.  Recall #V-041-7.
+  CODE         Lots 611055D, 611056D, 6120312D, 6120313D,
+                   7040666D, 7040667D.
+  MANUFACTURER Hubbard Milling Company, Mankato, Minnesota.
+  RECALLED BY  Manufacturer, by telephone on June 19, 1997.
+               Firm-initiated recall complete.
+  DISTRIBUTION Illinois, Indiana, Iowa, North Dakota, 
+               Ohio, and South Dakota.
+  QUANTITY     1284 20-pound bags were distributed. 
+  REASON       Incorrect withdrawal time of 7 days printed on
+               the labeling instead of the required 15 days
+               and misidentification of sulfamethazine as
+               sulfathiazine.
+  
+  
+  END OF ENFORCEMENT REPORT FOR AUGUST 27, 1997.  BLANK PAGES MAY
+FOLLOW.
+
+
+
+
+
+  
+ End of Enforcement Report for

@@ -1,0 +1,1010 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  DEC
+		  Mar
+		
+		
+		
+		  
+		  28
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      30 captures
+	      05 May 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DO
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+April 23, 1997                                       97-17
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II ===========
+_______________
+PRODUCT        Frozen strawberries:
+               13.5 Kg pails, labeled in part:  "frozen
+               sliced strawberries 4+1***ingredients
+               strawberries, sugar***13.5 kg***prepared
+               for***Pacific Coast Fruit Products,
+               Ltd.***Abbotsford, BC***"
+               30 lb pails, labeled in part:  "AW Frozen 
+               sliced strawberries with sugar added net wt.
+               30 lbs. dist. by Andrew & Williamson          
+               Sales Co. San Diego, California***"
+               420 lb barrels, labeled in part: "***frozen
+               whole chandler strawberries 20+1 net wt. 420
+               lbs. Packed by Andrew & Williamson Sales San
+               Diego, CA***"
+               400 lb barrels, labeled in part:  "***frozen
+               juice stock strawberries net wt. 400 lbs.
+               Packed by Andrew & Williamson Sales San Diego
+               CA***"
+               425 lb barrels, labeled in part:  "***frozen
+               whole strawberries 4+1 sugar added net. wt.
+               425 lbs. packed by Andrew & Williamson Sales
+               San Diego, CA***"
+               6 1/2 lb tubs, labeled in part:  "***AW brand
+               frozen sliced strawberries***with sugar added
+               net wt. 6 1/2 lbs.*** packed by Andrew &
+               Williamson Sales Co San Diego, CA***"
+               six tubs are packed per shipping box.
+               Recall #F-371-7.
+CODE           Lot numbers:  4141961, 6541963, 6541964,    
+               7741962, 7741963, 31507612, 3150862, 3150863,
+               31508612, 7750862, 7750863, 7750864, 7750865.
+MANUFACTURER   Andrew & Williamson Sales Company, Inc., San
+               Diego, California.
+RECALLED BY    Manufacturer, by letter on March 29, 1997, and
+               April 1, 1997, and by press release on April
+               1, 1997.  Firm-initiated recall ongoing.  See
+               also FDA statement dated April 3, 1997.
+DISTRIBUTION   California, Colorado, Georgia, Massachusetts,
+               Michigan, New York, Oklahoma, Oregon.
+QUANTITY       Undetermined.
+REASON         The product was associated with a March 1997
+               illness outbreak of hepatitis A in Michigan.
+
+_______________
+PRODUCT        Celebration Fat Free Cookies with rainbow
+               sprinkles in 2 ounce cellophane packages. 
+               Recall #F-378-7.
+CODE           None.
+MANUFACTURER   Slim Waist Foods, Inc., Brooklyn, New York.
+RECALLED BY    Manufacturer, by visit on October 11, 1996. 
+               Completed recall resulted from inspection and
+               follow-up by New York State Department of
+               Agriculture and Markets.
+DISTRIBUTION   New York.
+QUANTITY       10 cases (24 packages per case) were
+               distributed.
+REASON         Product contained undeclared certified colors,
+               Yellow No. 5, Yellow No. 6, Blue No. 1, Red
+               No. 3, and Red No. 40.
+
+_______________
+PRODUCT        Kemps Spumoni Ice Cream in one-half gallon
+               paper cartons.  Recall #F-379-7.
+CODE           35564 (new design label only) and 01774.
+MANUFACTURER   Marigold Foods, Inc., Rochester, Minnesota.
+RECALLED BY    Marigold Foods, Minneapolis, Minnesota, by
+               letter on February 25, 1997.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Minnesota, Wisconsin, Illinois, Iowa, South
+               Dakota, Michigan.
+QUANTITY       4,400 units were distributed.
+REASON         Product contains undeclared almonds.
+
+
+                             -2-RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II ===========
+_______________
+PRODUCT        Infants' Tylenol Acetaminophen Drops USP, 80
+               mg/ml, oral solution in 15 ml bottles, product
+               was labeled in French and English.  Recall #D-
+               154-7.
+CODE           Lot #(L) E362.
+MANUFACTURER   McNeil La Compagnie De Produits, Aux
+               Consommateurs McNeil, Guelph, Canada.  
+RECALLED BY    Edreiss Trading Co., Inc., Bohemia, New York,
+               by letter on March 25, 1997.  Firm-initiated
+               recall ongoing.  
+DISTRIBUTION   New York.
+QUANTITY       4,584 bottles were distributed.
+REASON         Product contains unapproved sweetener, sodium
+               cyclamate.
+
+_______________
+PRODUCT        Gaseous Oxygen USP packed in 415 liter or 628
+               liter aluminum cylinders.  Recall #D-155-7.
+CODE           All units (lot or serial numbers not used).
+MANUFACTURER   Air Care, Inc., McRae, Georgia.
+RECALLED BY    Manufacturer, by telephone on or about January
+               7, 1997.  Firm-initiated recall ongoing.
+DISTRIBUTION   Georgia.
+QUANTITY       32 to 42 cylinders were distributed.
+REASON         Current good manufacturing practice
+               deficiencies.
+
+_______________
+PRODUCT        Clindamycin Phosphate Topical Solution 1% in
+               30 and 60 ml bottles, used in the treatment of
+               acne vulgaris.  Recall #D-160-7.
+CODE           Lot nos. RP4721, RB5079, RA5014, RA5063,
+               RF5259, RJ5411, RN5631, RS5827, RB6051,
+               RD6217, RH6349, RJ6417, RK6521, RL6617,
+               RN6706.
+MANUFACTURER   Alpharma, U.S. Pharmaceuticals Division,
+               formerly Barre-National, Inc., Baltimore,
+               Maryland.
+RECALLED BY    Manufacturer, by letter dated March 26, 1997. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Maryland.
+QUANTITY       247,364 units were produced; firm estimates
+               that 10,541 units remained in commerce at time
+               of recall initiation.
+REASON         Bulk Clindamycin was recalled by Roussel
+               Corporation (parent firm of Biochimica Opos)
+               due to AADA discrepancies regarding the
+               manufacturing process; AADA was withdrawn.
+
+                             -3-_______________
+PRODUCT        Clindamycin Phosphate Topical Solution, USP 1%
+               in 30 ml and 60 ml bottles, under the Copley,
+               Goldline, Major and Qualitest labels.  
+               Recall #D-161-7.
+CODE:                    30 Ml              60 Ml
+               Copley    628P30 Exp 5/97    628P31 Exp 5/97
+                         628D01 Exp 7/97    628P35 Exp 5/97
+                         628D04 Exp 11/97   628D01 Exp 7/97
+                         628D05 Exp 1/98    628D04 Exp 11/97
+                         628D06 Exp 1/98    628D05 Exp 1/98
+                         628D07 Exp 4/98    628D07 Exp 1/98
+               Major     628P29 Exp 5/97    628P33 Exp 5/97
+                         628D06 Exp 1/98    628D01 Exp 7/97
+                         628D07 Exp 4/98    628D06 Exp 1/98
+                                            628D07 Exp 4/98
+               Goldline  628P28 Exp 5/97    628P32 Exp 5/97
+                         628D06 Exp 1/98    628D01 Exp 7/97
+                                            628D06 Exp 1/98
+               Qualitest 628D06 Exp 1/98    628P34 Exp 5/97
+                                            628D06 Exp 1/98.
+MANUFACTURER   Copley Pharmaceutical, Inc., Canton,
+               Massachusetts.
+RECALLED BY    Manufacturer, by letter dated March 26, 1997,
+               followed by fax on April 2, 1997.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Florida, California, Alabama.
+QUANTITY       22,257 30-ml vials and 87,738 60-ml vials were
+               distributed.
+REASON         Bulk Clindamycin was recalled by Roussel
+               Corporation (parent firm of Biochimica Opos)
+               due to AADA discrepancies regarding the
+               manufacturing process; AADA was withdrawn.
+
+_______________
+PRODUCT        Cefaclor Capsules USP, Rx: (a) 250mg Capsules;
+               (b) 500mg Capsules; Cefaclor Oral Suspensions
+               USP, Rx - (c) 125mg/5ml; (d) 187mg/5ml; (e)
+               (250mg/5ml; (f) 375mg/5ml, a semisynthetic
+               cephalosporin antibiotic for oral
+               administration, supplied by Zenith Goldline
+               Pharmaceuticals in 250mg capsules in bottles
+               of 15's, 100's, 500's, and 1000's, 500mg
+               capsules in bottles of 15's, 100's, and 500's. 
+               Oral Suspensions are available in 125mg/5ml
+               and 250mg/5ml bottles, reconstituted to 75ml
+               and 150ml, and also 187mg/5ml and 375mg/5ml
+               bottles, reconstituted to 50ml and 100ml,
+               under the following labels:  Zenith Goldline,
+               Major, Mova, Rugby, Schein, h.l. Moore, Warner
+               Chilcott, URL.   
+               Recall #D-162/167-7. 
+                             -4-CODE           All lots/all sizes.
+MANUFACTURER   Zenith Goldline Pharmaceuticals, Inc.,
+               Northvale, New Jersey.
+RECALLED BY    Manufacturer, by letter February 11, 1997. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Amount Manufactured/Amount Distributed/Amount
+               Quarantined  (bottles)
+               250MG Capsules:      Amount Distributed.  
+               4760-40  15�s        19,418  
+               4760-60  100�s      562,428 
+               4760-70  500�s        5,031 
+               4760-80  1000�s       3,185  
+               500MG Capsules
+               4761-40  15�s         44,086 
+               4761-60  100�s       121,801 
+               4761-70  500�s         3,040 
+               125MG/5ML Supensions
+               4611-22  75ml        160,156 
+               4611-23  150ml       497,442 
+               187MG/5ML Supensions
+               4613-20  50ml        77,165  
+               4613-21  100ml       233,740 
+               250MG/5ml Supensions
+               4610-22  75ml        190,792 
+               4610-23  150ml       798,419 
+                375MG/ml Supensions
+               4612-20  50ml        90,481  
+               4612-21  100ml       436,540. 
+               Dates of Shipments:  From 5/95 to 2/97. 
+               Estimated amount of product remaining on
+               market: Approx. 25%
+REASON         Bulk Cefaclor was recalled by Roussel
+               Corporation (parent firm of Biochimica Opos)
+               due to AADA discrepancies regarding the
+               manufacturing process; AADA was withdrawn.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III ==========
+_______________
+PRODUCT        Bausch and Lomb Muro 128 5% Ophthalmic
+               Ointment (sodium chloride), OTC, in 1/8 ounce
+               tubes, for the temporary relief of corneal
+               edema.  Recall #D-153-7.
+CODE           Lot #853571.
+MANUFACTURER   Bausch and Lomb Pharmaceuticals, Inc., Tampa,
+               Florida.
+RECALLED BY    Manufacturer, by letter dated March 24, 1997. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       18,240 tubes were distributed.
+
+                             -5-REASON         Labeling mix-up -- some tubes may be
+               mislabeled as containing erythromycin
+               ointment; the actual tube contents are Muro
+               128 and the unit carton label is correct.
+
+_______________
+PRODUCT        Nycomed brand Hypaque (Diatrizoate Sodium)
+               Oral Powder and Liquid, and Oral Solution,
+               USP, used as an imaging agent, under the
+               Nycomed and Sanofi Winthrop labels.  
+               Recall #D-156-7.
+CODE           All lots within expiration date.
+MANUFACTURER   Bayer Corporation, Myerstown, Pennsylvania.
+RECALLED BY    Nycomed, Inc., Princeton, New Jersey, by
+               letter dated March 4, 1997.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       1,231,572 bottles were distributed.
+REASON         Product lacks stability (free iodide exceeds
+               upper limit - spec is not more than 0.02% and
+               the product is as high as 0.05% as early as 24
+               months.
+
+_______________
+PRODUCT        Zantac Injection Premixed (Ranitidine HCl), 50
+               mg/50ml, used in the treatment of ulcers.
+               Recall #D-157-7.
+CODE           Lot #20193FJ.
+MANUFACTURER   Glaxo Wellcome, Inc., Zebulon, North Carolina.
+RECALLED BY    Manufacturer, by letter sent on January 27,
+               1997.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       4,126 cases (24 prefilled flexible bags per
+               case) were distributed.
+REASON         Label mix-up (overwrap labeled as "Ciprol I.V.
+               (Ciprofloxacin)" may have been used on some
+               otherwise correctly labeled bags containing
+               Rantidine HCl).
+
+_______________
+PRODUCT        Zaroxolyn Tablets (Metolazone, USP), 2.5 mg,
+               unit dose, Rx diuretic and anti-hypertensive. 
+               Recall #D-158-7.
+CODE           Lot #60751 EXP 12/01.
+MANUFACTURER   Medeva Pharmaceuticals Manufacturing, Inc.,
+               Rochester, New York.
+RECALLED BY    Manufacturer, by telephone during the week of
+               March 31, 1997, and by letter dated April 3,
+               1997.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       956 cartons were distributed.
+
+                             -6-REASON         Unit carton label mix-up - 5 mg strength
+               cartons used in packaging this 2.5 mg lot
+               (immediate foil packaging and shipping cartons
+               bear the correct label).
+
+_______________
+PRODUCT        Baclofen Tablets, 20 mg, USP, in bottles of
+               100, Rx muscle relaxant and antispastic.
+               Recall #D-159-7.
+CODE           Lot numbers:  24060 EXP 6/1/97 and 26221 EXP
+               6/1/98.
+MANUFACTURER   Biocraft Laboratories, Inc., (TEVA
+               Pharmaceuticals USA), Elmwood Park, New
+               Jersey.
+RECALLED BY    TEVA Pharmaceuticals USA, Sellersville,
+               Pennsylvania, by letter on March 28, 1997. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       9,413 bottles of 100 were distributed.
+REASON         Product lacks stability (fails potency assay
+               as early as 19 months -- spec is 90-110%LS;
+               actual is 89%).
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II =======
+_______________
+PRODUCT        Venoglobulin-S 5% Solution Immune Globulin
+               Intravenous (Human): (a) 50 ml (2.5 grams in
+               50 ml); (b) 100 ml (5.0 grams in 100 ml); (c)
+               200 ml (10.0 grams in 200 ml).  
+               Recall #B-560/562-7.
+CODE           Lot #GL7503A EXP1/16/99.
+MANUFACTURER   Alpha Therapeutic Corporation, Los Angeles,
+               California.
+RECALLED BY    Manufacturer, by letter on March 7, 1997. 
+               firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and Thailand.
+QUANTITY       2,189 vials were distributed; firm estimated
+               that on March 17, 1997 1,200 vials remained in
+               commerce.
+REASON         Immune Globulin products with a higher than
+               expected rate of adverse reactions (urticaria)
+               from patients were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells: (b) Platelets; (c) Fresh
+               Frozen Plasma.  Recall #B-571/573-7.
+CODE           (a) 13FC59982, 13Y93652, 13J11389,     
+               13FT30212; (b) 13FC59982, 13Y93652, 13J11389,
+               13FT30212; (c) 13FC59982, 13Y93652, 13J11389.
+MANUFACTURER   American Red Cross Blood Services, Detroit,
+               Michigan.
+
+                             -7-RECALLED BY    Manufacturer, by letter dated June 14, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Michigan.  
+QUANTITY       (a) 4 units; (b) 4 units; (c) 3 units were
+               distributed.
+REASON         Blood products were collected from a donor who
+               reported a history of cancer.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets.
+               Recall #B-583/584-7.
+CODE           Unit #53LX01165.
+MANUFACTURER   American Red Cross Blood Services, Baltimore,
+               Maryland.
+RECALLED BY    Manufacturer, by telephone on September 12,
+               1995, followed by letter dated September 1,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   Maryland and District of Columbia.
+QUANTITY       1 unit of each component was distributed.
+REASON         Blood products were prepared from a unit of
+               whole blood designated as overweight.
+
+_______________
+PRODUCT        Platelets.  Recall #B-589-7.
+CODE           Unit #2862289.
+MANUFACTURER   Central Indiana Regional Blood Center,
+               Indianapolis, Indiana.
+RECALLED BY    Manufacturer, by telephone on July 23, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Indiana.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was not tested for CMV antibody
+               but was labeled as negative for anti-CMV.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma. 
+               Recall #B-587/588-7.
+CODE           Unit #29GY03329.
+MANUFACTURER   American Red Cross Blood Services, Norfolk,
+               Virginia.
+RECALLED BY    Manufacturer, by letter dated July 31, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Virginia and California.
+QUANTITY       1 unit of each component was distributed.
+REASON         Blood products were collected from a donor
+               taking the drug Zovirax.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets.
+               Recall #B-590/591-7.
+CODE           Unit numbers:  (a) 20264-4097, 20264-4100,
+               20264-4839; 
+
+                             -8-               (b) 20264-4095, 20264-4096, 20264-4098, 20264-
+               4102, 20264-4829, 20264-4830, 20264-4832,
+               20264-4834, 20264-4835, 20264-4838, 
+               20264-4839.
+MANUFACTURER   Blood Systems, Inc., Lafayette, Louisiana.
+RECALLED BY    Manufacturer, by telephone on June 18, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Louisiana.
+QUANTITY       (a) 3 units; (b) 11 units were distributed.
+REASON         Blood products were tested using pilot samples
+               that arrived at an unacceptable temperature.
+
+_______________
+PRODUCT        Platelets, Pheresis.  Recall #B-593-7.
+CODE           Unit #17180-3009.
+MANUFACTURER   United Blood Services, McAllen, Texas.
+RECALLED BY    Blood Systems, Inc., Scottsdale, Arizona, by
+               telephone on November 15, 1996.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       1 unit was distributed.
+REASON         Blood product had a platelet yield below the
+               acceptable limit.
+
+_______________
+PRODUCT        Platelets, Pheresis.  Recall #B-594-7.
+CODE           Unit #11314-5383.
+MANUFACTURER   United Blood Services, El Paso, Texas.
+RECALLED BY    Manufacturer, by telephone on November 1,
+               1996, followed by letter dated December 2,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   New Mexico.
+QUANTITY       1 unit was distributed.
+REASON         Blood product had a platelet yield below the
+               acceptable limit.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-595-7.
+CODE           Unit #21GH53169.
+MANUFACTURER   American Red Cross, Pacific Northwest Regional
+               Blood Services, Portland, Oregon.
+RECALLED BY    Manufacturer, by letter dated August 20, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Oregon.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was collected from a donor who
+               traveled to an area designated as endemic for
+               malaria.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-596-7.
+CODE           Unit #11K74574.
+
+                             -9-MANUFACTURER   American Red Cross Blood Services, St. Louis,
+               Missouri.
+RECALLED BY    Manufacturer, by telephone on March 7, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Georgia.
+QUANTITY       1 unit was distributed.
+REASON         Blood product, positive for the S antigen, was
+               labeled as S negative.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-598-7.
+CODE           Unit numbers:  11FZ09724, 11S90102, 11S90120,
+               11Q52983.
+MANUFACTURER   American Red Cross Blood Services, St. Louis,
+               Missouri.
+RECALLED BY    Manufacturer, by telephone on or about August
+               7, 1996, followed by letter dated August 16,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Missouri and Illinois.
+QUANTITY       4 units were distributed.
+REASON         Blood products corresponded to a unit of
+               pooled platelets that was positive for
+               coagulase negative Staphylococcus.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-599-7.
+CODE           Unit numbers:  11R30905, 11J31566, 11R30834,
+               11R30947, 11R30870.
+MANUFACTURER   American Red Cross Blood Services, St. Louis,
+               Missouri.
+RECALLED BY    Manufacturer, by telephone on or about July
+               26, 1996.  Firm-initiated recall complete.
+DISTRIBUTION   Missouri.
+QUANTITY       5 units were distributed.
+REASON         Blood products which corresponded to a unit of
+               pooled platelets that was positive for
+               coagulase negative Staphylococcus.
+
+_______________
+PRODUCT        Platelets.  Recall #B-600-7.
+CODE           Unit #11V13271.
+MANUFACTURER   American Red Cross Blood Services, St. Louis,
+               Missouri.
+RECALLED BY    Manufacturer, by telephone, followed by letter
+               dated October 26, 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Alabama.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was prepared from a unit of
+               whole blood with an extended collection time.
+
+_______________
+PRODUCT        Platelets, Pheresis.  Recall #B-601-7.
+                            -10-CODE           Unit #11LP09178.
+MANUFACTURER   American Red Cross Blood Services, St. Louis,
+               Missouri.
+RECALLED BY    Manufacturer, by telephone, followed by letter
+               dated November 16, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Missouri.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was collected using a defective
+               apheresis collection kit.
+
+_______________
+PRODUCT        Platelets, Pheresis.  Recall #B-602-7.
+CODE           Unit #40P48940.
+MANUFACTURER   American Red Cross Blood Services, Peoria,
+               Illinois.
+RECALLED BY    Manufacturer, by telephone on September 25,
+               1996, followed by letter dated September 26,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       1 unit was distributed.
+REASON         Blood product had a platelet yield above the
+               acceptable limit.
+
+_______________
+PRODUCT        Platelets, Pheresis.  Recall #B-603-7.
+CODE           Unit #40P50047 (split unit).
+MANUFACTURER   American Red Cross Blood Services, Peoria,
+               Illinois
+RECALLED BY    Manufacturer, by telephone on November 21,
+               1996, followed by letter dated November 25,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       1 unit was distributed.
+REASON         Blood product had a platelet yield above the
+               acceptable limit.
+
+_______________
+PRODUCT        Platelets.  Recall #B-605-7.
+CODE           Unit #11G11373.
+MANUFACTURER   American Red Cross Blood Services, St. Louis,
+               Missouri.
+RECALLED BY    Manufacturer, by telephone on December 28,
+               1995, followed by letter dated January 9,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Missouri.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was collected from a donor whose
+               medical history screening was inadequately
+               performed.
+
+
+                            -11-_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets.  
+               Recall #B-606/607-7.
+CODE           Unit #49R74451.
+MANUFACTURER   American National Red Cross, Tulsa, Oklahoma.
+RECALLED BY    Manufacturer, by letter dated January 30,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Texas and Oklahoma.
+QUANTITY       1 unit of each component was distributed.
+REASON         Blood products were collected from a donor who
+               traveled to a malarial endemic area.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets.
+               Recall #B-608/609-7.
+CODE           Unit #42Q47962.
+MANUFACTURER   American Red Cross Blood Services, Cleveland,
+               Ohio.
+RECALLED BY    Manufacturer, by letter dated January 15,
+               1997.  Firm-initiated recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY       1 unit of each component was distributed.
+REASON         Blood products were collected from a donor who
+               traveled to an area endemic for malaria.
+
+_______________
+PRODUCT        Platelets, Pheresis.  Recall #B-610-7.
+CODE           Unit numbers:  10518-4806, 10518-4808, 
+               10518-7836.
+MANUFACTURER   United Blood Services, Scottsdale, Arizona.
+RECALLED BY    Blood Systems, Inc., Scottsdale, Arizona, by
+               telephone on October 4, 1996.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Wyoming.
+QUANTITY       3 units were distributed
+REASON         Blood products were pooled incorrectly.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma.
+               Recall #B-611/612-7.
+CODE           Unit #18Q75951.
+MANUFACTURER   American Red Cross Blood Services, Lansing,
+               Michigan.
+RECALLED BY    Manufacturer, by letter dated October 3, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Michigan.
+QUANTITY       1 unit of each component was distributed.
+REASON         Blood products were collected from a donor who
+               was taking the drug Prednisone.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-614-7.
+CODE           Unit #12GL31066 and 12LJ20505.
+                            -12-MANUFACTURER   American Red Cross Blood Services, Charlotte,
+               North Carolina.
+RECALLED BY    Manufacturer, by telephone on February 10,
+               1997.  Firm-initiated recall complete.
+DISTRIBUTION   North Carolina.
+QUANTITY       2 units were distributed.
+REASON         Blood products were collected from a donor who
+               traveled in an area considered endemic for
+               malaria.
+
+_______________
+PRODUCT        Cryoprecipitated AHF.  Recall #B-616-7. 
+CODE           Unit #03GZ00980.
+MANUFACTURER   American Red Cross Blood Services, Atlanta,
+               Georgia.
+RECALLED BY    Manufacturer, by telephone on November 14,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Georgia.
+QUANTITY       1 unit. 
+REASON         Blood product, corresponding to a unit of Red
+               Blood Cells that was reported as clotted, was
+               distributed.
+
+_______________
+PRODUCT        Platelets.  Recall #B-624-7.
+CODE           Unit numbers:  3292210, 3292211, 3292213,
+               3292214, 1608046, 1608047.
+MANUFACTURER   Central Indiana Regional Blood Center, Inc.,
+               Indianapolis, Indiana.
+RECALLED BY    Manufacturer, by telephone on December 3,
+               1996, followed by letter dated December 18,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Indiana.
+QUANTITY       6 units were distributed.
+REASON         Blood products were prepared from units of
+               whole blood which were shipped at unacceptable
+               temperatures.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III ======
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-574-7.
+CODE           Unit #13FT30212.
+MANUFACTURER   American Red Cross Blood Services, Detroit,
+               Michigan.
+RECALLED BY    Manufacturer, by letter dated June 14, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Michigan.  
+QUANTITY       1 unit was distributed.
+REASON         Blood product was collected from a donor who
+               reported a history of cancer.
+
+                            -13-_______________
+UPDATE         Recall #B-555-7, Gamma Reagent Red Blood
+               Cells, 3-4%, which appeared in the April 9,
+               1997 Enforcement Report was incorrectly
+               lettered.  The product listing should read as
+               follows:
+               (a) Duet Reagent Red Blood Cells
+               (b) Trio 1, 2, and 3 Reagent Red Blood Cells
+               (c) Panel One Reagent Red Blood Cells
+               (d) Panel Two Reagent Red Blood Cells
+               (e) Panel 15 Reagent Red Blood Cells
+               (f) Panel 20 Reagent Red Blood Cells.  
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES --
+CLASS II =========
+_______________
+PRODUCT        HeartStart Rechargeable Lead Acid Battery,
+               used in HeartStart Semi-Automatic External
+               Defibrillators, Model numbers HS 2000, HS 3000
+               QR, HS 3000ATS, and HS 911.
+               Recall #Z-429-7.
+CODE           Battery lot numbers 960212 through 960319.
+MANUFACTURER   Panasonic, Secaucus, New Jersey.
+RECALLED BY    Laerdal Medical Corporation, Wappingers Falls,
+               New York, by letter dated March 11, 1997. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Chile, Brazil, Colombia.
+QUANTITY       885 batteries were distributed.
+REASON         The batteries are subject to pre-mature and
+               undetectable depletion of charge, which can
+               result in failure to deliver defibrillation
+               therapy to sudden cardiac arrest patients
+               power-up can lead to failure to defibrillate
+               the patient.
+
+_______________
+PRODUCT        InstaTrak Straight and Frontal Aspirators:
+               (a) InstaTrak Straight Aspirator, Catalog No.
+               ENT-100AS-01, 
+               (b) InstaTrak Frontal Aspirator, Catalog No.
+               ENT-101AF-01.  Recall #Z-431/432-7.
+CODE           Lot Numbers:  (a) JAZ6263-1; (b) JAZ626-2.
+MANUFACTURER   Visualization Technology, Inc., Woburn,
+               Massachusetts.
+RECALLED BY    Manufacturer, by telephone on January 13,
+               1997, and by issuing a Dear Doctor letter on
+               January 13, 1997.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Alabama, California, Georgia, Illinois,
+               Massachusetts, Minnesota, New York, Ohio,
+               Tennessee.
+QUANTITY       (a) 36 boxes (10 units per box); (b) 35 boxes
+               (10 units per box) were distributed.
+                            -14-REASON         The aspirating instruments may be stressed
+               beyond their design limits when used for
+               prying and dissecting.  The excessive side
+               forces generated by these applications may
+               degrade the devices' accuracy.
+
+_______________
+PRODUCT        RX5000 Software Operating System 2.01.02 and
+               lower for Marathon SR and DR Pacemakers.
+               Recall #Z-433-7.
+CODE           Serial Numbers 01000 through 06093 (not
+               inclusive).
+MANUFACTURER   Sulzer Intermedics, Inc., Angleton, Texas.
+RECALLED BY    Manufacturer, by letter March 13, 1997.  Firm-
+               initiated field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 3,300 units were distributed.
+REASON         A software condition caused the parameters of
+               the two pacemakers to become reversed.  That
+               is, the software cannot distinguish Marathon
+               DR (dual-chamber) from Marathon SR
+               (single-chamber) USER PRESET values; whichever
+               values were most recently stored will be
+               recalled.
+
+_______________
+PRODUCT        Zeus Laser Cutting Systems, used for cutting
+               or engraving material:  (a) Model Z100; 
+               (b) Model Z250.  Recall #Z-438/439-7.
+CODE           Model numbers Z100 and Z250.
+MANUFACTURER   Cad Cam Technology, Inc., U.S.A., Alphretta,
+               Georgia.
+RECALLED BY    Manufacturer.  FDA approved the firm's
+               corrective program on April 14, 1997.  Firm-
+               initiated field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       24 units were distributed.
+REASON         Noncompliance with the following provisions of
+               the Federal laser product performance
+               standard:  identification; protective housing
+               labels; protective housing; and safety
+               interlocks.
+
+_______________
+UPDATE         Recall Z-064/077-7 reported in the 11/13/96
+               Enforcement Report contained incorrect
+               identifications of devices listed.  The
+               correct identifications are as follows:
+               Z-064-7 - Angiographic Catheters bearing the
+               catalog product prefix HNBR4.1;
+               Z-065-7 - Angiographic Catheters bearing the
+               catalog product prefix HNBR5.0;
+
+                            -15-               Z-066-7 - Angiographic Catheters bearing the
+               catalog product prefix HNBR6.0;
+               Z-067-7 - Angiographic Catheters bearing the
+               catalog product prefix HNBR7.0;
+               Z-075-7 - D'AGOSTINO ACCESS SET; Reorder #
+               NPAS-100-D'AGOSTINO-A-050393 and
+               NPAS-100-D'AGOSTINO-B-050393.
+               Recall Z-274/281-7 reported in the 2/26/97
+               Enforcement Report contained a mistyped
+               catalog number and should read:
+               Z-279-7 - COOK BRAND ROYAL FLUSH PLUG
+               ANGIOGRAPHIC SET WITH BEACON TIP 4 FR PIGTAIL. 
+               SET INCLUDES 1/4.0 FRENCH 70CM PIGTAIL
+               CATHETER WITH 10 SIDEPORTS, 1/.035 IN. 145CM
+               TFE COATED WIRE GUIDE WITH 3MM J, 1/19UT GAUGE
+               NEEDLE.  REORDER # HNRS-405-70.PIG-SH-012795;
+               QUICK REORDER # 234728.
+               In addition, the recall included catheters
+               that were sold individually that were
+               inadvertently omitted from the list.           
+               These devices are as followed with their
+               assigned recall numbers:
+               Z-440-7 - ROYAL FLUSH PLUG ANGIOGRAPHIC
+               CATHETERS WITH BEACON ENHANCED RADIOPAQUE
+               TIPS, CATALOG PREFIX HNR4.0;
+               Z-441-7 - ROYAL FLUSH PLUG ANGIOGRAPHIC
+               CATHETERS WITH BEACON ENHANCED RADIOPAQUE
+               TIPS, CATALOG PREFIX HNR5.0.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III ========
+_______________
+PRODUCT        SickleScreen Sickling Hemoglobin Screening
+               Test.  Recall #Z-422-7.
+CODE           Catalog No. 251-050, Lot No. 250A03, Catalog
+               No. 262-375, Lot No. 258A04.
+MANUFACTURER   Pacific Hemostasis, Huntersville, North
+               Carolina.
+RECALLED BY    Manufacturer, by telephone beginning November
+               4, 1996, followed by letter on or about
+               November 6, 1996.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide and Greece.
+QUANTITY       501 kits of lot 250A03 and 208 kits of lot
+               258A04 were distributed.
+REASON         Device can produce false negative results with
+               known positive patient samples and positive
+               controls.
+
+_______________
+PRODUCT        Staphylase Test Kit, a slide identification
+               for Staphyloccus aureus. Recall #Z-434-7.
+CODE           Catalog #DR595A, Lot #102614.
+                            -16-MANUFACTURER   Oxoid, Inc. (formerly Unipath), Basingstoke,
+               England.
+RECALLED BY    Oxoid, Inc., (formerly Unipath), Ogdensburg,
+               New York, by letter issued dated January 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Tennessee.
+QUANTITY       1 kit was distributed.
+REASON         There are stability problems with the
+               sensitized sheep red blood cells used as
+               positive quality controls.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS III ==========
+_______________
+PRODUCT        SmithKline Beecham OXTC-50 brand of
+               Oxytetracycline 50 Type A medicated article
+               packaged in a 50-lb. bag.  Recall #V-034-7.
+CODES          104 premix lot numbers manufactured during the
+               period of 8/10/93 through 7/5/96:
+               025026   116076   092015   391015   002025 
+               447025   448025   616025   617025   618025  
+               619025   620025   621025   622025   623025  
+               624025   625025   506035   500055   016075  
+               417075   147085   387095   430105   533014  
+               534014   535014   536014   537014   080024  
+               081024   082024   083024   084024   085024  
+               129024   130024   131024   132024   323024  
+               220054   221054   222054   239064   266074  
+               267074   268074   269074   270074   337084  
+               338084   339084   340084   341084   342084  
+               343084   344084   345084   346084   347084  
+               483084   484084   485084   486084   487084  
+               488084   489084   490084   491084   492084  
+               552084   717084   718084   719084   720084  
+               721084   722084   723084   190094   191094  
+               192094   127104   128104   538104   167114  
+               114124   276124   187093   188093   189093  
+               305103   306103   382103   383103   486103  
+               487103   488103   741103   815103   816103  
+               829103   074113   075113   378113.
+MANUFACTURER   ADM Animal Health & Nutrition Division, Des
+               Moines, Iowa.
+RECALLED BY    Manufacturer, by letter dated November 6,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Kansas, Iowa, Washington state, Nebraska,
+               South Dakota, Minnesota, Missouri, Vermont,
+               Colorado, Wisconsin, North Dakota, Arizona,
+               California, Illinois.
+QUANTITY       104 lots to 66 animal feed manufacturers were
+               distributed.  The size of each lot is
+               undetermined.
+
+                            -17-REASON         There was a misinterpretation of the procedure
+               approved for calculating the expiration date. 
+               Product could be subpotent.
+
+
+MEDICAL DEVICE SAFETY ALERTS:  ==============================
+_______________
+PRODUCT        InstaTrack Headset, patient headset used with
+               the InstaTrak device.  Safety Alert #N-013-7.
+CODE           Catalog #ENT 400-01, Part #1000408, All Lots.
+MANUFACTURER   Visualization Technology, Inc., Woburn,
+               Massachusetts.
+RECALLED BY    Manufacturer, by telephone, followed by letter
+               dated February 18, 1997.
+DISTRIBUTION   Nationwide.
+QUANTITY       635 headsets were distributed.
+REASON         Inform users that headset is not to be used on
+               patients below the age of 14 years.
+
+                            -18-
+
+END OF ENFORCEMENT REPORT FOR APRIL 23, 1997.  BLANK PAGES MAY FOLLOW.
+  
+                                   ####
+
+
+
+
+
+  
+ End of Enforcement Report for 
+  
+
+  
+  
+    
+  
+

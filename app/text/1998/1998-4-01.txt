@@ -1,0 +1,907 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      23 captures
+	      19 Aug 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+April 1, 1998                                        98-13
+
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS I =============
+_______________
+PRODUCT        Hy-Top White Grape Juice from Concentrate, 64
+               fluid ounce bottles.  Recall #F-188-8.
+CODE           08068 CT133 xxxx, 01199 CT133 xxxx, 02189 CT133
+               xxxx, and 02198 CT133 xxxx (where xxxx = military
+               time).
+MANUFACTURER   Cliffstar Corporation, Joplin, Missouri.
+RECALLED BY    Federated Group, Inc., Arlington Heights,
+               Illinois, by letter and press release dated
+               February 4, 1998.  Firm-initiated recall ongoing.
+DISTRIBUTION   Texas.
+QUANTITY       480 cases (8 bottles per case) were distributed.
+REASON         Product contains undeclared sulfites.
+
+_______________
+PRODUCT        Fisherman's Wharf Wild Alaskan Smoked Salmon
+               Sliced Nova, 3 ounce units.  Recall #F-190-8.
+CODE           717643.
+MANUFACTURER   Port Chatham Smoked Seafood, Everett, Washington.
+RECALLED BY    Manufacturer, by telephone on February 27, 1998,
+               followed by fax and press release.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Florida, North Carolina, South Carolina,
+               Tennessee, Georgia.
+QUANTITY       2,769 pieces (519 pounds) of product were
+               distributed.
+REASON         Product is contaminated with Listeria
+               monocytogenes.
+
+_______________
+PRODUCT        Alfalfa Sprouts, in 4 ounce plastic containers
+               packed by Krisp-Pak Co., Inc., and in unlabeled 5
+               pound flats.  Recall #F-191-8.
+CODE           All lots distributed prior to August 1, 1997.
+MANUFACTURER   Krisp-Pak Company, Inc., Norfolk, Virginia.
+RECALLED BY    Manufacturer, by letter on August 1, 1997, and by
+               telephone on August 4 and 8, 1997.  Virginia
+               Department of Agriculture issued press releases on
+               August 1, 4, and 5, 1997. Firm-initiated recall
+               complete.
+DISTRIBUTION   North Carolina, Maryland, Virginia, District of
+               Columbia.
+QUANTITY       Undetermined.
+REASON         Product may be contaminated with E.coli 0157:H7.
+
+_______________
+PRODUCT        a) Corydalis & Argemone 11 Formula, 8 oz. glass
+               bottle
+               b) Corydalis & Argemone 15 Formula, 8 oz. glass
+               bottle
+               c) Corydalis & Argemone 16 Formula, 8 oz. glass
+               bottle
+               d) Hydratis & Baptisia 12 Formula, 8 oz. glass
+               bottle 
+               e) Eriodyction & Grindelia 9 Formula/Lotion,4 oz.
+               glass bottle
+               f) Mahonia & Viola 10 Formula, 8 oz. glass bottle
+               g) Serrenoa & Pygeum 17 Formula, 4 oz. glass
+               bottle
+               h) Serrenoa & Pygeum 23 Formula, 4 oz. glass
+               bottle.  Recall #F-315/322-8. 
+CODE           a) 12/6/96, 3/14/97, 5/16/97, and 6/19/97
+               b) 12/6/96, 3/14/97, 5/16/97, and 6/19/97
+               c) 12/6/96, 3/14/97, 5/16/97, and 6/19/97
+               d) 1/28/97 and prior lots without lot code dates
+               e) 4/1/97 and prior lots without lot code dates
+               f) 12/6/96, 3/14/97, 5/16/97, and 6/19/97
+               g) 12/11/96 and 2/18/97
+               h) 12/11/96 and 2/18/97.
+MANUFACTURER   KW Botanicals, San Anselmo, California.
+RECALLED BY    Manufacturer, by letter dated July 28, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   California.
+QUANTITY       243 8-ounce bottles and 130 4-ounce bottles were
+               distributed.
+REASON         Products were contaminated with Digitalis
+               glycosides.    
+
+
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS II ============
+_______________
+PRODUCT        Hy-Top White Grape Juice from Concentrate, in 64
+               fluid ounce bottles.  Recall #F-189-8.
+CODE           A7K09, B7K07, B7K26, C7K07, C7K14, C7K17, D7K17,
+               D7K25, E7K01, E7K09, F7K04, F7K27, G7K21, H7K14,
+               J7K01, J7K05, J7K11, K7K01, K7K21, K7K30, L7K05,
+               L7K19, M7K31, A8K22, A8K29, 3507255 CT390, 3507290
+               CT390, 3507377 CT390, 3507344 CT390, and 3507356
+               CT390.
+MANUFACTURER   Speaco Foods, Inc., Kansas City, Missouri; Ozark
+               Valley Products, Springdale, Arkansas.
+RECALLED BY    Federated Group, Inc., Arlington Heights,
+               Illinois, by letter and press release dated
+               February 4, 1998.  Firm-initiated recall ongoing.
+DISTRIBUTION   Texas, Oklahoma, Nevada.
+QUANTITY       4,705 cases (8 bottles per case) were distributed.
+REASON         product is misbranded in that it lists  potassium
+               sulfate as an ingredient when potassium
+               metabisulfite was actually added.
+
+_______________
+PRODUCT        Price Chopper brand Children's Chewable Vitamins
+               with Minerals in bottles of 60 tablets.  Recall
+               #F-314-8.
+CODE           38088-06, 38088-05, 38088-04, 38088-03, 38088-02,
+               38088-01, 37346.
+MANUFACTURER   NBTY, Inc., Bohemia, New York.
+RECALLED BY    Manufacturer, by telephone on or about March 5,
+               1998, and by electronic mail and voice mail dated
+               March 6, 1998.  Firm-initiated recall ongoing.
+DISTRIBUTION   New York, Massachusetts, Pennsylvania, Vermont,
+               Connecticut.
+QUANTITY       Lot        Quantity
+               38088-06:   434 units
+               38088-05:   372 units
+               38088-04:   462 units
+               38088-03:   864 units
+               38088-02:  1296 units
+               38088-01:  3600 units
+               37346   :   982 units were distributed.
+REASON         Product contains undeclared FD&C Yellow No. 6, Red
+               No. 40 and Blue No. 2.
+
+
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS III ===========
+_______________
+PRODUCT        Vitamin D, 3.25%, Homogenized Milk, Grade A,
+               Pasteurized, in one-gallon cartons under the
+               Meijer, Smith's, IGA, and Buehler's labels; one-half gallon (plastic) cartons under the Meijer,
+               Smith's, and Hawkins labels; one-quart cartons
+               under the Smith and Meijer labels; one-pint, half
+               pint, and 5-gallon cartons under the Smith label. 
+               Recall #F-313-8.
+CODE           Use by date: MAR 13.
+MANUFACTURER   Smith Dairy Products, Orrville, Ohio.
+RECALLED BY    Manufacturer, by letters on March 6 and 9, 1998. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY       15,119 gallons were distributed.
+REASON         Product is labeled as "Vitamin D Milk" but
+               consists in part of Chocolate milk.
+
+
+RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS II
+============
+_______________
+UPDATE         Propranolol HCL, Recall #D-100/103-8, which
+               appeared in the March 25, 1998 Enforcement Report
+               should read: Product was distributed under the
+               following labels: Inwood, TEVA, URL, Schein,
+               Parmed, Qualitest, Rugby, Geneva, Moore, Major,
+               and Zenith Goldline.
+
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS II ========
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-649-8.
+CODE           Unit Numbers: 18207-6302, 18208-1466, 
+               18209-2846, 18210-3888, 18207-1756.
+MANUFACTURER   United Blood Services, Cheyenne, Wyoming.
+RECALLED BY    Blood Systems, Inc., Scottsdale, Arizona, letters
+               dated July 30, 1996, and November 12, 1996, and
+               telephone in March 1998.
+DISTRIBUTION   Illinois, Texas, Wyoming.
+QUANTITY       5 units were distributed.
+REASON         Blood products were collected from a donor who
+               reported living an area designated as  endemic for
+               malaria. 
+
+_______________
+PRODUCT        Source Plasma.  Recall #B-723-8.
+CODE           6020055489, 6020055739, 6020056046, 6020056301,
+               6020056620, 6020056914, 6020057250, 6020057518,
+               6020058104, 6020058345, 6020058951, 6020059581,
+               6020059812, 6020061175, 6020061462, 6020061707,
+               6020062066, 6020062316,  6020062626.
+MANUFACTURER   Premier BioResources, Inc., San Antonio, Texas.
+RECALLED BY    North American Biologicals, Inc., Boca Raton,
+               Florida, by letter dated November 16, 1997 and
+               January 21, 1998.  Firm-initiated recall complete.
+DISTRIBUTION   California and Canada.
+QUANTITY       19 units were distributed.
+REASON         Blood products tested negative for the antibody to
+               the human immunodeficiency virus type 1
+               (anti-HIV-1), but were collected from a donor who
+               previously tested repeatedly reactive for
+               anti-HIV-1, Western blot indeterminate.
+
+_______________
+PRODUCT        Platelets, Pheresis.  Recall #B-729-8.
+CODE           Unit #12T16851.
+MANUFACTURER   American Red Cross Blood Services, Charlotte,
+               North Carolina.
+RECALLED BY    Manufacturer, by telephone on March 22, 1997, and
+               by letter on March 25, 1997.  Firm-initiated
+               recall complete.
+DISTRIBUTION   North Carolina.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was mislabeled as CMV antibody
+               negative.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-742-8.
+CODE           Unit numbers:  03GY06816, 03GY06818.
+MANUFACTURER   American Red Cross Blood Services, Atlanta,
+               Georgia.
+RECALLED BY    Manufacturer, by telephone February 9, 1998, and
+               by letter dated February 11, 1998.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Georgia.
+QUANTITY       2 units were distributed.
+REASON         Blood products were prepared from a unit of Whole
+               Blood designated as overweight.
+
+_______________
+PRODUCT        a) Red Blood Cells; b) Cryoprecipitated AHF; 
+               c) Platelets; d) Recovered Plasma.
+               Recall #B-744/747-8.
+CODE           Unit #12Y66788.
+MANUFACTURER   American Red Cross Blood Services, Charlotte,
+               North Carolina.
+RECALLED BY    Manufacturer, by letter dated January 26, 1998. 
+               Firm-initiated recall complete.
+DISTRIBUTION   North Carolina, Tennessee, Georgia, Switzerland.
+QUANTITY       1 unit of each component was distributed.
+REASON         Blood products were collected from a donor with a
+               history of cancer.
+
+_______________
+PRODUCT        Source Plasma.  Recall #B-748-8.
+CODE           Unit numbers: 18927R, 58002T, 58662T.
+MANUFACTURER   Ohio Blood Plasma, Inc., Cincinnati, Ohio.
+RECALLED BY    Manufacturer, by telephone on June 21, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   North Carolina.
+QUANTITY       3 units were distributed.
+REASON         Blood products were drawn from an unsuitable
+               donor.
+
+_______________
+PRODUCT        Platelets, Pheresis.  Recall #B-749-8.
+CODE           Unit #16KF12861.
+MANUFACTURER   American Red Cross, Central Ohio Region, Columbus,
+               Ohio.
+RECALLED BY    Manufacturer, by letter dated December 24, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY       1 unit was distributed.
+REASON         Blood product tested negative for Cytomegalovirus
+               (CMV), but collected from a donor who previously
+               tested repeat reactive for CMV.
+
+_______________
+PRODUCT        a) Red Blood Cells; b) Fresh Frozen Plasma; c)
+               Cryoprecipitated AHF; d) Plasma.
+               Recall #B-750/753-8.
+CODE           Red Blood Cells, Fresh Frozen Plasma, unit
+               KC47440;            Red Blood Cells,
+               Cryoprecipitated AHF, Plasma, unit                KN34421.
+MANUFACTURER   Virginia Blood Services, Richmond, Virginia.
+RECALLED BY    Manufacturer, by letter dated November 4 and 5,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Virginia and Tennessee.
+QUANTITY       1 unit of each component was distributed.
+REASON         Blood products were collected from a donor who
+               reported body piercing within 12 months of
+               donation.
+
+_______________
+PRODUCT        a) Red Blood Cells; b) Platelets; c) Fresh Frozen
+               Plasma.  Recall #B-754/756-8.
+CODE           Unit #KH82588.
+MANUFACTURER   Virginia Blood Services, Richmond, Virginia.
+RECALLED BY    Manufacturer, by letter dated January 27, 1998. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Virginia.
+QUANTITY       1 unit of each component was distributed.
+REASON         Blood products were collected from a donor whose
+               high risk screening was inadequately performed.
+
+_______________
+PRODUCT        a) Red Blood Cells; b) Platelets; c) Fresh Frozen
+               Plasma.  Recall #B-757/759-8.
+CODE           Unit #KH44373.
+MANUFACTURER   Virginia Blood Services, Richmond, Virginia.
+RECALLED BY    Manufacturer, by letter dated January 28, 1998. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Virginia.
+QUANTITY       1 unit of each component was distributed.
+REASON         Blood products tested negative for the antibody to
+               the human immunodeficiency virus type 1
+               (anti-HIV-1), but were collected from a donor who
+               previously tested repeatedly reactive for
+               anti-HIV-1, Western blot                indeterminate.
+
+_______________
+PRODUCT        a) Red Blood Cells; b) Fresh Frozen Plasma.
+               Recall #B-760/761-8.
+CODE           Unit #KH81021.
+MANUFACTURER   Virginia Blood Services, Richmond, Virginia.
+RECALLED BY    Manufacturer, by letter dated January 2, 1998. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Virginia.
+QUANTITY       1 unit of each component was distributed.
+REASON         Blood products were collected from a donor with a
+               history of sarcoidosis.
+
+_______________
+PRODUCT        a) Red Blood Cells; b) Recovered Plasma.
+               Recall #B-762/763-8.
+CODE           Unit #39J73116.
+MANUFACTURER   American Red Cross Blood Services, Huntington,
+               West Virginia.
+RECALLED BY    Manufacturer, by letter dated April 3, 1996, and
+               May 7, 1996.  Firm-initiated recall complete.
+DISTRIBUTION   West Virginia and California.
+QUANTITY       1 unit of each component was distributed.
+REASON         Blood products were collected from a donor taking
+               the drug Methotrexate.
+
+______________
+PRODUCT        Red Blood Cells.  Recall #B-764-8.
+CODE           Unit #29GT88345.
+MANUFACTURER   American Red Cross Blood Services, Norfolk,
+               Virginia.
+RECALLED BY    Manufacturer, by letter dated December 22, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   North Carolina.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was collected from a donor who may
+               have traveled to an area considered endemic for
+               malaria.
+
+_______________
+PRODUCT        Platelets, Pheresis.  Recall #B-768-8.
+CODE           Unit #58411P.
+MANUFACTURER   Lane Memorial Blood Bank, Eugene, Oregon.
+RECALLED BY    Manufacturer, by letter dated December 18, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Oregon.
+QUANTITY       1 unit was distributed.
+REASON         Blood product with a platelet count below the
+               acceptable yield was distributed, not labeled as a
+               low yield product.
+
+_______________
+PRODUCT        a) Red Blood Cells; b) Platelets; c) Recovered
+               Plasma.  Recall #B-770/772-8.
+CODE           Unit #42W65412.
+MANUFACTURER   American Red Cross Blood Services, Cleveland,
+               Ohio.
+RECALLED BY    Manufacturer, by letter dated November 11, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Ohio and California.
+QUANTITY       1 unit of each component was distributed.
+REASON         Blood products tested negative for HBsAg, but were
+               collected from a donor who previously tested
+               repeat reactive with a "nonspecific" confirmatory
+               test for HBsAg.
+
+_______________
+PRODUCT        a) Red Blood Cells; b) Recovered Plasma.
+               Recall #B-773/774-8.
+CODE           Contact FDA, Center for Biologics Evaluation and
+               Research, Office of Compliance (301) 827-6220 for
+               individual unit numbers recalled.
+MANUFACTURER   American Red Cross Blood Services, San Jose,
+               California.
+RECALLED BY    Manufacturer, by letters dated January 26, 1998,
+               and February 23, 1998.  Firm-initiated recall
+               complete.
+DISTRIBUTION   California, Switzerland.
+QUANTITY       a) 32 units; b) 29 units were distributed.
+REASON         Blood products were incorrectly tested for
+               syphilis.
+
+_______________
+PRODUCT        a) Red Blood Cells; b) Platelets; c) Recovered
+               Plasma.  Recall #B-776/778-8.
+CODE           Unit numbers: a) 42R47816, 42G39047, 42G42983; b)
+               42G42983; c) 42R47816, 42G39047, 42G42983.
+MANUFACTURER   American Red Cross, Cleveland, Ohio.
+RECALLED BY    Manufacturer, by letters dated June 7, 1996 and
+               June 5, 1996.  Firm-initiated recall complete.
+DISTRIBUTION   Ohio, California, Switzerland.
+QUANTITY       a) 3 units; b) 1 unit; c) 3 units were
+               distributed.
+REASON         Blood products tested negative for antibody to the
+               human immunodeficiency virus type 1 (anti-HIV-1),
+               but collected from a donor who previously tested
+               repeat reactive for anti-HIV-1, and was
+               incorrectly reentered.
+
+_______________
+PRODUCT        a) Red Blood Cells; b) Platelets; 
+               c) Cryoprecipitated AHF.  Recall #B-779/781-8.
+CODE           Unit #42T43472.
+MANUFACTURER   American Red Cross Blood Services, Cleveland,
+               Ohio.
+RECALLED BY    Manufacturer, by letter dated November 10, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY       1 unit of each component was distributed.
+REASON         Blood products tested repeatedly reactive for the
+               antibody to the Hepatitis B core antigen (anti-HBc), and were subject to additional testing.
+
+_______________
+PRODUCT        a) Red Blood Cells; b) Platelets, Pheresis; c)
+               Platelets; d) Recovered Plasma.  
+               Recall #B-786/789-8.
+CODE           Unit numbers: a) 42FT20586, 42FX14692, 42FQ25904,
+               42J47644; b) 42FR01336, 42FR01524, 42FR01949,
+               42FR02156; c) 42J47644;
+               d) 42FT20586, 42FX14692, 42FQ25904, 42J47644.
+MANUFACTURER   American Red Cross, Cleveland, Ohio.
+RECALLED BY    Manufacturer, by letters dated December 4 and 14,
+               1995, and January 2, 1996.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Ohio and California.
+QUANTITY       a) 4 units; b) 4 units; c) 1 unit; d) 4 units were
+               distributed.
+REASON         Blood products tested negative for antibody to the
+               human immunodeficiency virus type 1 (anti-HIV-1),
+               but collected from donors  who previously tested
+               repeat reactive for anti-HIV-1, with units tested
+               into compliance, and both donors incorrectly
+               reentered.
+
+_______________
+PRODUCT        a) Red Blood Cells; b) Platelets; c) Fresh Frozen
+               Plasma; d) Recovered Plasma.
+               Recall #B-790/793-8.
+CODE           Unit numbers: a) 42L56442, 42Y68097, 42Y72211,
+               42L76564, 42L82687, 42G65958, 42W35017, 42FP02051,
+               42FP26945
+               b) 42L56442, 42Y68097, 42Y72211, 42L76564, 
+               42W35017, 42FP02051; c) 42L56442, 42L76564
+               d) 42Y68097, 42Y72211, 42L82687, 42G65958,
+               42W35017, 42FP02051, 42FP26945.
+MANUFACTURER   American Red Cross, Cleveland, Ohio.
+RECALLED BY    Manufacturer, by letter dated June 24, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Ohio and California.
+QUANTITY       a) 9 units; b) 6 units; c) 2 units; d) 7 units
+               were distributed.
+REASON         Blood products tested negative for antibody to the
+               human immunodeficiency virus type 1 (anti-HIV-1),
+               but collected from a donor who previously tested
+               repeat reactive for anti-HIV-1, Western Blot
+               indeterminate and WB negative, and was incorrectly
+               reentered.
+
+_______________
+PRODUCT        a) Red Blood Cells; b) Platelets; c)
+               Cryoprecipitated AHF; d) Platelets for further
+               manufacturing; e) Recovered Plasma.
+               Recall #B-799/803-8.
+CODE           Contact FDA, Center for Biologics Evaluation and
+               Research, Office of Compliance (301) 827-6220 for
+               individual unit numbers recalled.
+MANUFACTURER   American Red Cross Blood Services, Cleveland,
+               Ohio.
+RECALLED BY    Manufacturer, by letters dated June 10 and 26,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Ohio, Florida, California, Switzerland.
+QUANTITY       a) 26 units; b) 12 units; c) 1 unit; d) 1 unit; e)
+               26 units were distributed.
+REASON         Blood products tested negative for the antibody to
+               the human immunodeficiency virus type 1
+               (anti-HIV-1) but were collected from a donor who
+               previously tested initially reactive for
+               anti-HIV-1 with no repeat testing performed.
+
+_______________
+PRODUCT        a) Whole Blood; b) Red Blood Cells
+               c) Platelets; d) Fresh Frozen Plasma
+               e) Cryoprecipitated AHF; f) Recovered Plasma.
+               Recall #B-804/809-8.
+CODE           Contact FDA, Center for Biologics Evaluation and
+               Research, Office of Compliance (301) 827-6220 for
+               individual unit numbers recalled.
+MANUFACTURER   American Red Cross Blood Services, Cleveland,
+               Ohio.
+RECALLED BY    Manufacturer, by letters dated June 28, 1996, and
+               July 10, 1996.  Firm-initiated recall complete.
+DISTRIBUTION   Ohio and California.
+QUANTITY       a) 1 unit; b) 10 units; c) 5 units; d) 2 units; e)
+               1 unit; f) 8 units were distributed.
+REASON         Blood products tested negative for the antibody to
+               the human immunodeficiency virus type 1
+               (anti-HIV-1), but were collected from  donors who
+               previously tested repeatedly reactive for
+               anti-HIV-1, Western blot negative.
+
+_______________
+PRODUCT        a) Whole Blood; b) Red Blood Cells; c) Platelets;
+               d) Fresh Frozen Plasma; e) Recovered Plasma. 
+               Recall #B-810/814-8.
+CODE           Contact FDA, Center for Biologics Evaluation and
+               Research, Office of Compliance (301) 827-6220 for
+               individual unit numbers recalled.
+MANUFACTURER   American Red Cross Blood Services, Cleveland,
+               Ohio.
+RECALLED BY    Manufacturer, by letters dated June 26, 1996, and
+               July 10, 1996.  Firm-initiated recall complete.
+DISTRIBUTION   Ohio, California, New York, Switzerland.
+QUANTITY       a) 1 unit; b) 44 units; c) 33 units; d) 10 units;
+               e) 33 units were distributed.
+REASON         Blood products, which tested negative for the
+               antibody to the human immunodeficiency virus type
+               1 (anti-HIV-1), but were collected from  donors
+               who previously tested repeatedly reactive for
+               anti-HIV-1, Western blot negative.
+
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS III =======
+_______________
+PRODUCT        Fresh Frozen Plasma Pheresis.  
+               Recall #B-446-8.
+CODE           Contact FDA, Center for Biologics Evaluation and
+               Research, Office of Compliance (301) 827-6220 for
+               individual unit numbers recalled.
+MANUFACTURER   Virginia Blood Services, Richmond, Virginia.
+RECALLED BY    Manufacturer, by letter dated March 12, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Virginia, Maryland, Illinois.
+QUANTITY       248 units were distributed.
+REASON         Fresh Frozen Plasma Pheresis was not frozen within
+               six hours of collection.
+
+_______________
+PRODUCT        a) Plasma, Cryoreduced, Frozen; b) Plasma,
+               Pheresis.  Recall #B-652/653-8.
+CODE           Contact FDA, Center for Biologics Evaluation and
+               Research, Office of Compliance (301) 827-6220 for
+               individual unit numbers recalled.
+MANUFACTURER   American Red Cross Great Lakes Region, Fort Wayne,
+               Indiana.
+RECALLED BY    Manufacturer, by letter dated October 14, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Indiana.
+QUANTITY       a) 59 units; b) 33 units were distributed.
+REASON         Blood products' shipping temperature was not
+               recorded upon receipt.
+
+_______________
+PRODUCT        Red Blood Cells, Irradiated.  Recall #B-701-8.
+CODE           Units 21GC20191, 21GC20198, 21GC20224, 21GC20233,
+               and 21GC20689.
+MANUFACTURER   American Red Cross Blood Services, Portland,
+               Oregon.   
+RECALLED BY    Manufacturer, by telephone on December 4, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Oregon.
+QUANTITY       5 units were distributed.
+REASON         Blood products may have remained at room               temperature for an unacceptable length of time.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-736-8.
+CODE           Unit #03GX06510.
+MANUFACTURER   American Red Cross Blood Services, Atlanta,
+               Georgia.
+RECALLED BY    Manufacturer, by telephone on January 28, 1998,
+               and letter dated February 11, 1998.  Firm-initiated recall complete.
+DISTRIBUTION   Georgia.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was labeled with an extended
+               expiration date.
+
+_______________
+PRODUCT        Platelets, Pheresis, Irradiated.  
+               Recall #B-737-8.
+CODE           Unit numbers:  03P09241, 03P09242, 03P09243,
+               03P09245, 03P09248.
+MANUFACTURER   American Red Cross Blood Services, Atlanta,
+               Georgia.
+RECALLED BY    Manufacturer, by letter dated December 31, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Georgia and Oklahoma.
+QUANTITY       5 units were distributed.
+REASON         Platelets were not stored under continuous             agitation.
+
+_______________
+PRODUCT        Platelets, Pheresis.  Recall #B-743-8.
+CODE           Unit #03FG12703.
+MANUFACTURER   American Red Cross Blood Services, Atlanta,
+               Georgia.
+RECALLED BY    Manufacturer, by telephone on September 29, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Georgia.
+QUANTITY       1 unit was distributed.
+REASON         A unit of Platelets Pheresis, which was
+               incompatible by crossmatch, was labeled as
+               compatible and distributed for transfusion.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-766-8.
+CODE           Unit #40GE26285.
+MANUFACTURER   American Red Cross Blood Services, Peoria,
+               Illinois.
+RECALLED BY    Manufacturer, by telephone on February 3, 1998. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was labeled with an extended
+               expiration date.
+
+_______________
+PRODUCT        Platelets, Pheresis.  Recall #B-769-8.
+CODE           Unit #16KF10466.
+MANUFACTURER   American Red Cross, Columbus, Ohio.
+RECALLED BY    Manufacturer, by letter dated December 17, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY       1 unit was distributed.
+REASON         A unit of Platelets, Pheresis was labeled with the
+               incorrect expiration date.
+
+
+_______________
+PRODUCT        Platelets, Pheresis.  Recall #B-794-8.
+CODE           Double Collection Unit #49FP05175.
+MANUFACTURER   American Red Cross, Waco, Texas.
+RECALLED BY    American Red Cross, Tulsa, Oklahoma, by letter
+               dated February 3, 1998.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Oklahoma.
+QUANTITY       1 unit was distributed.
+REASON         Unlicensed blood products were distributed labeled
+               with the firm's license number.
+
+
+RECALLS AND FIELD CORRECTIONS: DEVICES -- CLASS II
+==========
+_______________
+PRODUCT        Rehabilitation Beds, full electric:
+               a) BCW XL1000 Rehabilitation Bed, full electric,
+               1,000-lb. capacity, Twin - 39 x 80", 3/4 size 48"
+               x 80" 
+               B) BCW XL1000 Rehabilitation Bed, full electric,
+               1,000-lb. capacity, Double - 54" x 80
+               c) BCW XL1000 Rehabilitation Bed, full electric,
+               1,000-lb. capacity, Queen - 60" x 80".  
+               Recall #Z-412/414-8.
+CODE           The following serial numbers are affected by this
+               recall:
+               105148     105661     105798     105905
+               105170     105662     105799     105908
+               105171     105663     105816     105909
+               105637     105664     105817     105933
+               105648     105698     105820     106021
+               105651     105712     105833     106022
+               105652     105713     105834     106023
+               105653     105715     105866     106024
+               105654     105717     105877     106031
+               105655     105740     105878     106032
+               105656     105741     105881     106039
+               105657     105742     105882     106040
+               105658     105744     105891     
+               105659     105750     105896
+               105660     105794     105899.
+MANUFACTURER   Raye's Inc., doing business as Wheelchairs of
+               Kansas, Ellis, Kansas.
+RECALLED BY    Manufacturer, by letter on March 19, 1997.  
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       58 beds were distributed.
+REASON         The devices have ground fault problems which could
+               cause shock to the user.
+
+_______________
+PRODUCT        Laser Rangefinders, used to determine distance
+               between two points using reflected invisible
+               light: a) Superbove 600LRF;
+               b) Superbove 800 LRF.  Recall #Z-416/417-8.
+CODE           None.
+MANUFACTURER   Asia Optical Company, Inc., Taiwan, Republic of
+               China.
+RECALLED BY    Tasco Sales, Inc., Miramar, Florida (importer). 
+               FDA approved the firm's corrective action plan
+               November 10, 1997.  Firm-initiated field
+               correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,205 units were distributed.
+REASON         The laser product failed to comply with the
+               following requirements of the Federal laser
+               product performance standard:  21 CFR  1040.10(c)
+               Classification of laser products, 1040.10(f)
+               Performance requirement, 1040.10(g) Labeling
+               requirements, 1040.10(h) Information requirements,
+               1005.25 Designation of a resident agent.
+
+_______________
+PRODUCT        Nurses Heart Tubing Pack and Open Heart Pack,
+               custom surgical kits.  Recall #Z-419/421-8.
+CODE           Nurses heart tubing pack, Catalog # 10-VAEHJH03HI,
+               LOT NUMBER JUN1397, OPEN HEART PACK, CATALOG #
+               04-IMH03HI, LOT NUMBER SEP0597, OPEN HEART PACK,
+               CATALOG # 05-IMH03HI, LOT NUMBER OCT2897 which
+               contain Bard Vascular Systems recalled Bard
+               William Harvey H-130 Over Pressure Safety Valve
+               (OPS). 
+MANUFACTURER   C.R. Bard, Inc., Haverhill, Massachusetts
+               (component).
+RECALLED BY    Maxxim Medical, doing business as Sterile Design,
+               Clearwater, Florida, by telephone on October 29,
+               1997, followed by letter on November 4, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       68 trays were distributed; firm estimates none
+               remains on the market.
+REASON         Sterile Custom Kits contain recalled (Z-212-8)
+               component Bard William Harvey H-130 Over pressure
+               Safety Valve which is occluded preventing blood
+               flow through it.
+
+
+RECALLS AND FIELD CORRECTIONS: DEVICES --  CLASS III ========
+_______________
+PRODUCT        Incon Therapy, Recon Rx version 3.01 software for
+               the portable Rx component, a component of a
+               neurological biofeedback monitoring system for the
+               treatment of incontinence.
+               Recall #Z-418-8.
+CODE           Serial numbers 1600 to 3326.
+MANUFACTURER   KWM Electronics Corporation, West Jordan, Utah.
+RECALLED BY    NextEra Medical, L.L.C., Columbus, Ohio, by recall
+               field correction August 1997 and by letter on
+               March 17, 1998.  Firm-initiated field correction
+               ongoing.
+DISTRIBUTION   Indiana, West Virginia, Tennessee, Ohio, North
+               Carolina, New York, Nevada, Kentucky, Illinois,
+               Arizona, Florida.
+QUANTITY       1,762 units were distributed.
+REASON         Rx units were not functioning correctly. Obsolete
+               version 3.01 software had been installed in the
+               units.
+
+_______________
+PRODUCT        TI-CHRON Surgical Sutures, Size 2-0 with
+               Cardiopoint Needle, for use in general soft tissue
+               approximation and/or ligation.
+               Recall #Z-422-8.
+CODE           Product Code 28850-51, Lot 951222.
+MANUFACTURER   Sherwood-Davis & Geck, Manati, Puerto Rico.
+RECALLED BY    Sherwood-Davis & Geck, Hazelwood, Missouri, by
+               letter dated February 18, 1998, followed by visit. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Massachusetts, Connecticut, Florida, Kentucky,
+               Ohio, Wisconsin, Missouri, Nebraska, California.
+QUANTITY       21 boxes (3 dozen units per box) were distributed.
+REASON         The device was labeled as containing a "TFE
+               polymer pledget", which is incorrect.
+
+
+RECALLS AND FIELD CORRECTIONS: VETERINARY PRODUCTS -- CLASS II ============
+  _______________
+  PRODUCT      Levothyroxine Sodium Tablets indicated for
+               hypothyroidism in dogs.  Recall #V-020-8.  
+  BRAND NAME:   LABELED FOR         STRENGTH (mg/TAB)    # TABS/BTL
+  THYROZINE    ANPRO             0.1, 0.2, 0.3, 0.4,    1000'S
+               PHARMACEUTICAL    0.5, 0.6, 0.7, 0.8
+  THYROZINE    PHOENIX           0.1, 0.2, 0.3, 0.4,    1000'S
+               PHARMACEUTICAL    0.5, 0.6, 0.8
+  THYROZINE    PHOENIX           0.1, 0.2, 0.3, 0.5,    180'S
+               PHARMACEUTICAL    0.8
+  THYROZINE    WESTERN           0.1, 0.2, 0.3, 0.4,    1000'S
+               VET SUPPLY        0.5, 0.6, 0.7, 0.8
+  THYROSYN     VEDCO             0.1, 0.2, 0.3, 0,4     1000'S
+                                 0.5, 0.6, 0.7, 0.8
+  LEVOTABS     BURNS VET         0.7                    1000'S
+               SUPPLY
+  THYROXINE-L  THE BUTLER        0.1, 0.2, 0.3, 0.4,    1000'S
+               COMPANY           0.5, 0.6, 0.7, 0.8    
+  THYROXINE-L  THE BUTLER        0.1, 0.2, 0.3, 0.6,    180'S
+               COMPANY           0.8
+  CODE           All lots with expiration date of February
+                 1998 through March 1999.
+  MANUFACTURER Anthony Products Company, Arcadia, California.
+  RECALLED BY  Manufacturer, by telephone on February 23,
+                 1998, and by letter dated March 9, 1998. 
+                 Firm-initiated recall ongoing.
+  DISTRIBUTION Arizona, California, Florida, Indiana, Iowa,
+                 Missouri, Mississippi, New York, Ohio, Texas
+                 and Wisconsin.
+  QUANTITY          62,018 bottles were distributed.
+  REASON       Product was 64.3% to 85.7% subpotent.
+  
+  
+  END OF ENFORCEMENT REPORT FOR APRIL 1, 1998.  BLANK PAGES MAY FOLLOW.
+
+                                   ####
+
+
+
+
+  
+ End of Enforcement Report for

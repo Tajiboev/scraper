@@ -1,0 +1,471 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      56 captures
+	      25 Feb 1997 - 23 Jun 2016
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+01/03/1996
+
+ ENFORCEMENT REPORT FOR 01/03/96 
+
+
+January 3, 1996                                              96-01
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Kellogg's Low Fat Pop-Tarts with Smucker's Real Fruit
+               Frosted Strawberry with Natural and Artificial Flavors. 
+               Recall #F-138-6.
+CODE           Retail cartons are imprinted 06055GA1.
+MANUFACTURER   Keebler Company, Grand Rapids, Michigan.
+RECALLED BY    Kellogg Company, Battle Creek, Michigan, by press release on
+               August 4, 1995.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       7,875 cases of 12 cartons each were distributed.
+REASON         The strawberry Pop-Tarts cartons actually contain chocolate
+               fudge pop-tarts.
+
+_______________
+PRODUCT        Frozen Yellow Fin Tuna:  (a) IQF Tuna Pieces; 
+               (b) 4 ounce Tuna Steaks; (c) 6 ounce Tuna Steaks;
+               (d) 8 ounce Tuna Steaks; (e) 4 ounce Tuna Sandwich Cuts.
+               Recall #F-139/143-6.
+CODE           First four digits involved are: 2615, 2265, 2275, and 2285. 
+               Last four digits involved are: 7734 and 7658.
+MANUFACTURER   Tyson Seafood Group, Seattle, Washington.
+RECALLED BY    Tyson Foods, Inc., Springdale, Arkansas, by letter faxed on
+               November 30, 1995.  FDA-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Two raw material lots were commingled to manufacture the     
+               below listed lot totaling 14,640 lbs.
+               Lot 2615SEA03__-7734
+               Product Code   Description              Cs made   Cs dist   
+               98575-895      Sysco 8 oz. stks 1/10#   358       358
+               98574-895      Sysco 6 oz. stks 1/10#   492       384
+               98575-036      8 oz. steaks 1/10#        73        0
+               98573-895      Sysco 4 oz. stks 1/10#   150       149
+               98574-036      6 oz. steaks 1/10#        76        76
+               98573-036      4 oz. steaks 1/10#        83        0
+               98572-538      IQF tuna pieces 1/40#     58        58
+               Two raw material lots were commingled to manufacture the     
+               below listed lots totaling 33,730 lbs.
+               Lots 2265EA03__7658, 2275SEA03__7658, and 2285SEA03__7658
+               Product Code   Description              Cs made   Cs dist
+               98577-036      4 oz. sand. cuts 1/10#   164       149
+               98574-895      Sysco 6 oz. stks 1/10#   800       800
+               98575-895      Sysco 8 oz. stks 1/10#   905       905
+               98575-036      8 oz. steaks 1/10#       170        55
+               98574-036      6 oz. steaks 1/10#       241       241
+               98572-538      IQF tuna pieces 1/40#    144       144
+               98573-895      Sysco 4 oz. stks 1/10#   150       150
+               98573-036      4 oz. stks 1/10#         367       367
+REASON         Product is decomposed and contains hazardous levels of
+               histamines.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        Pope brand Imported Tomato Paste in 6 ounce cans.
+               Recall #F-137-6.
+CODE           Can Code: APE 4 R 048.
+MANUFACTURER   T.E.C., Pompeii, Italy.
+RECALLED BY    Pope Foods, Inc., Oradell, New Jersey, by telephone followed
+               by fax on June 30, 1995, .  Firm-initiated recall complete.
+DISTRIBUTION   New York, New Jersey, Connecticut.
+QUANTITY       10,565 cases (48 cans per carton) were distributed.
+REASON         The label of the product showed "Product of Italy" on the
+               bottom label and "Product of Hungary" on the top label.  The
+               label also had different brand names.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Levothyroxine Sodium Tablets, USP, 0.1 mg, 0.125 mg, 0.15
+               mg, 0.2 mg, and 0.3 mg, Rx oral synthetic thyroid hormone
+               used as replacement or supplemental therapy in patients with
+               hypothyroidism; Packaged by Allscrips Pharmaceuticals Labs.,
+               Inc.:
+               (a) 0.1 mg tablets, in 30 and 100 tablet bottles
+               (b) 0.125 mg tablets, in 30 tablet bottles
+               (c) 0.15 mg tablets, in 30 and 100 tablet bottles
+
+                                    -2-               (d) 0.2 mg tablets, in 30, 100 and 1000 tablet bottles
+               (e) 0.3 mg tablets, 100 tablet bottles.
+               Recall #D-050/054-6.
+CODE           All lots with expiration dates between and including 3/31/95
+               and 3/31/96.
+MANUFACTURER   Chelsea Laboratories Caribe, Inc., Bayamon, Puerto Rico.
+RECALLED BY    Allscrips Pharmaceuticals Inc., Vernon Hills, Illinois
+               (repacker), by letters dated April 10, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 4,429 bottles of 100 and 1857 bottles of 30; (b) 69
+               bottles of 30; (c) 305 bottles of 100 and 352 bottles of 30;
+               (d) 1 bottle of 1000, 165 bottles of 100 and 154 bottles of
+               30; (e) 65 bottles of 100 were distributed, with the firm
+               estimating that 15% of the product remained on the market at
+               time of recall initiation.
+REASON         Potency not assured through expiration date.
+
+_______________
+PRODUCT        Arthritis Pain Reliever, repacked from bulk into 100 tablet
+               bottles, OTC product intended for relief of pain associated
+               with arthritis.  Recall #D-055-6.
+CODE           Lot numbers:  029545 and 059527.
+MANUFACTURER   Wildflower Pharmacal Corporation, Mineola, New York (bulk).
+RECALLED BY    Professional Formulations, Inc., (PFI), Ronkonkoma, New York
+               (repacker), on or about June 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Virginia.
+QUANTITY       4,800 bottles of each lot were distributed; firm estimates
+               none remains on the market.
+REASON         Analysis disclosed values of 0% and 62% active ingredient
+               respectively for the two referenced lots.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-169-6.
+CODE           Unit numbers:  04T05045, 04T03641, 04LQ08017.
+MANUFACTURER   American Red Cross Blood Services, Dedham, Massachusetts.
+RECALLED BY    Manufacturer, by telephone on November 17, 1994, followed by
+               letter November 25, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Massachusetts.
+QUANTITY       3 units.
+REASON         Blood products, collected from a donor with a history of
+               cancer, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Fresh Frozen Plasma;
+               (d) Recovered Plasma.  Recall #B-153/156-6.
+CODE           Unit numbers:  (a) 8063344, 8211879, 8383561; (b) 8383561;
+               (c) 8063344; (d) 8383561.
+
+                                    -3-MANUFACTURER   The Blood Center for Southeast Louisiana, New Orleans,
+               Louisiana.
+RECALLED BY    Manufacturer, by letter dated April 24-29, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   California, Florida.
+QUANTITY       (a) 3 units; (b) 1 unit; (c) 1 unit; (d) 1 unit.
+REASON         Blood products, which were collected from a donor whose
+               spouse has a history of IV drug use, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Recovered Plasma. 
+               Recall #B-173/175-6.
+CODE           Unit numbers:  (a) 04FK92667, 04FK02125; (b) 04L00363; (c)
+               04L00363, 04FK02125, 04FK92667.
+MANUFACTURER   American Red Cross Blood Services, Dedham, Massachusetts.
+RECALLED BY    Manufacturer, by letters dated October 27, 1994, December
+               22, 1994, and November 3, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Massachusetts, Maine, California.
+QUANTITY       (a) 2 units; (b) 1 units; (c) 3 units.
+REASON         Blood products, which were incorrectly tested for the
+               antibody to the hepatitis C virus encoded antigen (anti-
+               HCV), or were collected from a donor who was previously
+               tested incorrectly for anti-HCV, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma; (c) Red Blood
+               Cells, expired, for further manufacture.  
+               Recall #B-176/178-6.
+CODE           Unit numbers:  04W73098, 04W74248, 04W75003, 04W75963,
+               04GR06518, 04LQ08239, 04C48326.
+MANUFACTURER   American Red Cross Blood Services, Dedham, Massachusetts.
+RECALLED BY    Manufacturer, by letters dated July 25, 1994, July 19, 1994. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Minnesota, Massachusetts, Maine, California.
+QUANTITY       7 units of each component.
+REASON         Blood products, which were incorrectly tested for the
+               antibody to the hepatitis C virus encoded antigen (anti-
+               HCV), or were collected from a donor who was previously
+               tested incorrectly for anti-HCV, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma.  
+               Recall #B-179/180-6.
+CODE           04FK36333, 04KF32412, 04FW01644, 04FN07523, 04FS40177,
+               04FK21580, 04FR57635, 04FK17740, 04FS27264, 04FS24089,
+               04FR45925.
+MANUFACTURER   American Red Cross Blood Services, Dedham, Massachusetts.
+RECALLED BY    Manufacturer, by letters dated December 9, 1994 and November
+               28, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Massachusetts, Maine, California, Switzerland.
+QUANTITY       11 units of each component.
+
+                                    -4-REASON         Blood products, which tested negative for the antibody to
+               the human immunodeficiency virus type 1 (anti-HIV-1), but
+               were collected from a donor who previously tested repeatedly
+               reactive for anti-HIV-1, Western blot indeterminate, were
+               distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-160-6.
+CODE           Unit #8542671.
+MANUFACTURER   The Blood Center for Southeast Louisiana, New Orleans,
+               Louisiana.
+RECALLED BY    Manufacturer, by letter dated March 28, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Louisiana.
+QUANTITY       1 unit.
+REASON         Blood product, which was exposed to improper storage and
+               unacceptable temperatures, was distributed.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-170-6.
+CODE           Unit numbers:  04T05045, 04T03641, 04LQ08017.
+MANUFACTURER   American Red Cross Blood Services, Dedham, Massachusetts.
+RECALLED BY    Manufacturer, by telephone November 17, 1994, followed by
+               letter dated November 25, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Massachusetts.
+QUANTITY       3 units.
+REASON         Blood products, collected from a donor with a history of
+               cancer were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+======================
+_______________
+PRODUCT        Hewlett Packard M0125B Anesthetic Gas Analyzer,
+               simultaneously monitors the inspired and expired
+               concentrations of 02, CO2, NO2, and anesthetic agent
+               (isofuirane, enflurane, halothane, sevoflurane
+               ordesflurane).  At the same time, it also monitors the
+               patients respiration peripheral oxygen saturation and pulse.
+               Recall # Z-243-6.
+CODE           Model M1025B with serial numbers
+               2938D00060    3244D00738    3244D00995    3244D01094
+               3016D00120    3244D00745    3244D00997    3244D01109
+               2016D00199    3244D00777    3244D00998    3244D01141
+               3045D00255    3244D00787    3244D00999    3244D01160
+               3209D00510    3244D00867    3244D01000    3244D01162
+               3209D00578    3244D00877    3244D01011    3244D00171
+               3209D00613    3244D00878    3244D01013
+               and serial numbers 3244D01221 to 3244D01390 (inclusive).   
+MANUFACTURER   Bruel & Kjaer, Denmark for Hewlett Packard GmbH, Medical
+               Products Group, Schickardstr, Germany.
+                                    -5-RECALLED BY    Hewlett Packard Company, Andover, Massachusetts, by letter
+               in October 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Canada, Latin America.
+QUANTITY       81 units.
+REASON         Failure of a component in the analyzer can cause the
+               measured partial pressures of respired gases (CO2, N20, and
+               anesthetic agent) to drift up to 60% from the true value.
+
+_______________
+PRODUCT        (a) Cobe Precision Blood Pump; (b) Cobe Spare Part - Remote
+               Potentiometer.  Recall #Z-257/258-6.
+CODE           (a) Catalog Nos. 043600000, 043600002, 043600004, 04300005,
+               043600006, 043600007, 043600009, 043600090, 043600700,
+               043601-001, 043601-002, 600600-600;
+               Serial Numbers: 1723AB, 2123AH, 2152AH, 2155AH, 2264AH,
+               2265AH, 3010AP, 4524, 4744, 4745, 4749, 4750, 4828, 4830,
+               4865, 4879, 4914, 4918, 4920, 4922, 4939, 5057, 5162, 5168,
+               5170, 5172, 5176, 4180, 5181, 5183, 5188, and 5214 through
+               6330.
+               (b) Catalog Number 600052-001
+               Lot Numbers: 12Y13607, 01Z13640, 02Z13631, 04Z13684,
+               05Z13615, 06Z13643, 10Z13714, 11Z13610, 12Z13640, 01A13645,
+               01A13687, 03A13602, 04A13645, 04A13679, 06A13642, 07A13622,
+               07A13736, 08A13705.
+MANUFACTURER   Cobe Cardiovascular, Inc., Arvada, Colorado.
+RECALLED BY    Manufacturer, by telephone between October 12, 1995 and
+               November 8, 1995, followed by letter on October 12, 1995. 
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   (a) Nationwide and international; (b) California, Florida,
+               Georgia, Illinois, Kansas, Louisiana, Michigan, Missouri,
+               New Jersey, New Mexico, North Carolina, Tennessee, and
+               international.
+QUANTITY       (a) 1,147 pumps; (b) 112 spare parts remote potentiometers
+               were distributed.
+REASON         The pumps may spontaneously increase in speed and/or may
+               prevent the operator from stopping the rotation of the pump
+               head via the Speed Control knob on the pump's front panel.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Propaq Encore Portable Patient Vital Signs Monitor with
+               Software Version 1.10.00.  Recall #Z-254-6.
+CODE           Code nos. involved; DA000716, DA000719, DA000744, DA000977,
+               DA000227, DA000340, DA000371, DA000629, DA000710, DA000804,
+               DA000810, DA000842, DA000948, DA000965, DA000966, DA000462,
+               DA000448, DA000648, DA000460.
+MANUFACTURER   Protocol Systems, Inc., Beaverton, Oregon.
+RECALLED BY    Manufacturer.  As of 11/2/95, the firm had installed the
+               upgraded software on 18 of the 19 affected devices.
+DISTRIBUTION   Oklahoma, Colorado, Texas, Switzerland, Denmark, England.
+QUANTITY       19 units.
+
+                                    -6-REASON         It was determined that if the device is used with old or
+               expired electrodes, one of two things may happen: 1) an
+               error message will be displayed in lieu of an equipment
+               alert message in the 5 lead mode or, 2) no alert message
+               will be displayed in the 5 lead mode when only 3 leads of a
+               5 lead cable are connected to the patient.  The equipment
+               alert message that should occur when old or expired
+               electrodes are used with the device is one that indicates
+               that the leads have failed and that the electrodes should be
+               replaced.
+
+_______________
+PRODUCT        (a) Q-710 Stress Electrocardiograph; (b) Q-4500 Stress Test
+               System.  The Q-4500 and Q-710 are model numbers for the
+               monitoring device interfacing with the treadmills for the
+               purpose of conducting stress tests.  Recall #Z-255/256-6.
+CODE           Serial numbers:  (a) 101 through 181; (b) 2171 through 2284.
+MANUFACTURER   Quinton Instrument Company, Bothell, Washington.
+RECALLED BY    Manufacturer, by telephone between October 11 and 16, 1995. 
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       192 units.
+REASON         The treadmill may increase in speed when the "Stop Exercise"
+               control button is depressed.
+
+_______________
+PRODUCT        DLP brand 32 FR Size Single Stage Venous cannulae, Product
+               #66132.  Recall #Z-259-6.
+CODE           Lot #6950-9007.
+MANUFACTURER   Medtronic, Inc., Grand Rapids, Michigan.
+RECALLED BY    Manufacturer, by telephone on October 12, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   North Carolina, Ohio, Pennsylvania, Florida.
+QUANTITY       61 units were distributed; firm estimates none remains on
+               market.
+REASON         A 28 FR cannula body was used in assembly instead of a 32 FR
+               cannula body.
+
+_______________
+PRODUCT        Growth-Chek Microbial Suspensions, containing Candida
+               albicans derived from ATCC Culture #10231 in plastic screw
+               cap vials.  Recall #Z-266-6.
+CODE           Lot numbers:  100695 EXP 1/6/96, 101395 EXP 1/13/96.
+MANUFACTURER   B.E.C. Laboratories, Inc., Toledo, Ohio.
+RECALLED BY    Manufacturer, by telephone on November 2, 1995, followed by
+               letter dated November 9, 1995.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide, Singapore.
+QUANTITY       Firm estimated that 19 vials of lot 100695 and 9 vials of
+               lot 101395 remained on the market at time of recall
+               initiation.
+
+                                    -7-REASON         The population of Candida albicans in these lots exceeds the
+               certified population for usage.
+
+                                    -8-
+
+
+END OF ENFORCEMENT REPORT FOR JANUARY 3, 1996.  BLANK PAGES MAY
+FOLLOW.
+
+
+                                   ####

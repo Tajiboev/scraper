@@ -1,0 +1,887 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  DEC
+		  Feb
+		
+		
+		
+		  
+		  19
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      38 captures
+	      03 Mar 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DO
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+January 5, 2000                                                 00-01
+ 
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+________
+PRODUCT
+Todd's Sugar Free Taffy, in 6-ounce cartons.
+Recall #F-080-0.
+CODE
+None.
+MANUFACTURER
+McKeesport Candy Company, Inc., doing business as Todd's Candy, 
+McKeesport, Pennsylvania.
+RECALLED BY
+Manufacturer, by telephone, followed by visits on or about 
+November 17, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Pennsylvania and Ohio.
+QUANTITY
+Firm estimated that 200 units remained on market at time of 
+recall initiation.
+REASON
+Taffy contains undeclared FD&C; Yellow No. 6.
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+________
+PRODUCT
+Pacific Friend Water Chestnuts, sliced and whole, in 8-ounce 
+cans.  Recall #F-079-0.
+CODE
+Embossed in can:
+Sliced: L71/96 12 03/8241, L71/96 12 09/8241, L71/96 12 10/8241, 
+L71/96 12 12/8241, L71/96 12 13/8241, L71/96 12 14/8241, L71/96 
+12 16/8241, L71/96 12 18/8241
+Whole: L71/96 12 15/8241, L71/96 12 19/8241.
+L71/96 12 30/8241, L71/97 01 03/8241.
+MANUFACTURER
+Jinhua Canned Food Factory, Jinhua, China.
+RECALLED BY
+Mulsen Trading Company, Seattle, Washington, by telephone, and by 
+fax dated October 18, 1999.  Ongoing recall resulted from sample 
+analysis and follow-up by the Oregon State Department of 
+Agriculture.
+DISTRIBUTION
+Washington state, Montana, Oregon.
+QUANTITY
+4,528 cases (24 8-ounce cans) of sliced and 299 cases of whole 
+water chestnuts were distributed.
+REASON
+Product was contained in swollen and leaking cans.  FDA analyses 
+found the cans have pinholes and are rusted on the inside.
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+________
+PRODUCT
+Acetaminophen Tablets Extra Strength, 500 mg, bottles of 100, OTC 
+pain reliever under the following brand names:
+a) ARBOR brand  NON-ASPIRIN PAIN RELIEF EXTRA STRENGTH. 
+Distributed by Arbor Drugs, Inc., Troy, Michigan. 
+NDC 50165-405-78.
+b) Chateau brand EXTRA STRENGTH Non-Aspirin Tablets,
+Distributed by Preferred Products, Inc., Eden Prairie, MN.  
+[label bears no NDC#].
+c) Drug Guild brand EXTRA STRENGTH NON-ASPIRIN PAIN RELIEF, 
+Distributed by Drug Guild Distributors, Inc., Secaucus, New 
+Jersey.  [label bears no NDC#].
+d) Equate brand extra strength NON-ASPIRIN PAIN & FEVER RELIEF. 
+Manufactured by Perrigo Co., Allegan, MI.
+[Label bears no NDC#].
+e) FOOD LION brand Extra Strength PAIN RELIEVER, Distributed by 
+Food Lion, Inc., Salisbury, NC 28144.
+[Label bears no NDC#].
+f) GOOD SENSE brand EXTRA STRENGTH NON-ASPIRIN PAIN RELIEVER, 
+Perrigo, Allegan, MI.  [Label bears no NDC#]
+g) Kroger brand EXTRA STRENGTH Pain Reliever Acetaminophen, 500 
+mg, Distributed by The Kroger Co., Cincinnati, Ohio.  [label 
+bears no NDC#]. 
+h) Marquee brand EXTRA STRENGTH Non-Aspirin Pain Reliever-Fever 
+Reducer Acetaminophen, 500 mg, Distributed by Fleming Companies, 
+Inc., Oklahoma City, OK 73216.  
+NDC 11205-405-78.
+i) NEX brand EXTRA STRENGTH Pain Reliever Acetaminophen, 500 mg, 
+Distributed by Nexcom, Virginia Beach, Virginia.  [label bears no 
+NDC#].
+j) Shurfine brand EXTRA STRENGTH Non-Aspirin, 500 mg Distributed 
+by Shurfine International, Inc., Northlake, IL 60164-1889.  
+[label bears no NDC#].
+k) spartan brand extra strength pain reliever without aspirin 
+Acetaminophen - Strong Pain & Fever Relief, 500 mg, Distributed 
+by Spartan Stores, Inc., Grand Rapids,
+Michigan. NDC 11213-405-78.
+l) STOP & SHOP brand PAIN RELIEF, 500 mg, Distributed by Stop & 
+Shop Supermarket Co., Boston, Massachusetts.  
+[label bears no NDC#].
+m) TOP CARE brand EXTRA STRENGTH ASPIRIN FREE Pain Relief, 500 
+mg., Distributed by Topco Associates, Inc., Skokie,
+Illinois NDC 36800-405-78.  Recall #D-187-0.
+CODE
+Lot #8EC037.
+MANUFACTURER
+Perrigo Company, Allegan, Michigan.
+RECALLED BY
+Manufacturer, by letter dated November 19, 1999.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+44,736 bottles of 100 were distributed.
+REASON
+Tablet discoloration due to mold (penicillin).
+________
+PRODUCT
+Ammonia Inhalants (Alcohol 35%, Ammonia 15%), in 0.33 mL ampoule, 
+12 units per box, used to prevent or treat fainting via nasal 
+inhalation.  NDC #0839-8080-03.  Recall #D-190-0.
+CODE
+Lot #3398C EXP 3/2003.
+MANUFACTURER
+James Alexander Corporation, Blairstown, New Jersey (contract 
+manufacturer/packager).
+RECALLED BY
+Moore Medical Corporation, New Britain, Connecticut, by letter 
+dated November 19, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Undetermined.
+QUANTITY
+282 packers (40,608 inhalants) were distributed.
+REASON
+Mislabeling - Holding carton incorrectly labeled as amyl nitrite.
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+________
+PRODUCT
+Hydromorphone HCL, USP, Rx bulk active ingredient. 
+Recall #D-159-0.
+CODE
+Lot Numbers:  B1016-980201, B1016-980701, B1016-980802.
+MANUFACTURER
+Johnson Matthey, West Deptford, New Jersey.
+RECALLED BY
+Manufacturer, by telephone and letter on May 6, 1998, July 22, 
+1998, March 3, 1998, and November 17, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Minnesota, Colorado, Texas, Kansas.
+QUANTITY
+Firm estimates none remains on the market.
+REASON
+Black specks in product (graphite).
+________
+PRODUCT
+SeptisolÆ Solution, Handwash, Triclosan 0.25%, in 8-ounce, 1-
+quart, and 1-gallon plastic containers, OTC broad spectrum, fast 
+acting handwash to decrease the level of transient microorganisms 
+on the skin before contact with patients under medical care or 
+treatment. Recall #D-160-0.
+CODE
+217034 EXP 12/31/1999
+217309, EXP 1/31/2000
+218107, EXP 3/31/2000
+218134, EXP 3/31/2000
+218748, EXP 6/30/2000
+219650, EXP 9/31/2000 and EXP 10/31/2000
+220065, EXP 11/30/2000.
+MANUFACTURER
+Steris Corporation, St. Louis, Missouri. 
+RECALLED BY
+Steris Corporation, Mentor, Ohio, by letter dated November 18, 
+1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+481 (48 8-fluid ounce bottle) cases, 2,426 (12 1-quart bottle) 
+cases, and 12,106 (4 1-galllon bottle) cases were distributed.
+REASON
+Subpotency (9-month stability).
+________
+PRODUCT
+Klaron (r) Lotion (Sodium sulfacetamide), 10%, in 2-ounce and 8-
+mL units, Rx indicated for the topical treatment of acne vulgaris 
+in individuals who have sensitive skin.
+Recall #D-161-0.
+CODE
+Lot 85292 EXP 1/00 and Lot 84899 EXP 9/99.
+2 ounce bottles, NDC 0066-7500-02
+8 ml bottles, NDC 0066-7500-11 -physician samples.
+MANUFACTURER
+Rhone-Poulenc Rorer Pharmaceuticals, Collegeville, Pennsylvania.
+RECALLED BY
+Manufacturer, by letter on November 22, 1999.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Nationwide and the Caribbean.
+QUANTITY
+Firm estimated that there were no trade units left on the market 
+and approximately 1000 (12 x 8 ml) units remained in the field at 
+time of recall initiation.
+REASON
+Subpotency at stability 21 months.
+________
+PRODUCT
+NovolinÆ 70/30 PenFillÆ (70% NPH, Human Insulin Isophane 
+suspension 30% Regular, Human Insulin Injection-recombinant DNA 
+origin), 1.5 mL cartridges, 100 units/mL (U-100) in cartons of 5, 
+Rx, intended usage is for individuals diagnosed with diabetes 
+requiring injections of insulin as prescribed by their physician. 
+ NDC #0169-1837-17.
+Recall #D-185-0.
+CODE
+Lot Numbers:  9G14006 EXP 7/01 and 9J14015 EXP 9/01.
+MANUFACTURER
+Novo Nordisk A/S, Bagsvaerd, Denmark.
+RECALLED BY
+Novo Nordisk Pharmaceuticals, Inc., Princeton, New Jersey, by 
+letter dated September 7, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+Approximately 11,816 cartons (5 cartridges/carton) were 
+distributed.
+REASON
+Mislabeling - Label lacks listing of phenol 0.068% as 
+ingredient/preservative.
+________
+PRODUCT
+Acetaminophen Caplets Extra Strength, 500 mg, bottles of 100, OTC 
+pain reliever.  Recall #D-186-0.
+CODE
+Lot #9JE0735 EXP 9/02.
+MANUFACTURER
+Perrigo Company, Allegan, Michigan.
+RECALLED BY
+Manufacturer, by letter dated November 24, 1999.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+71,100 bottles of 100 were distributed.
+REASON
+Mislabeling - Some bottles were incorrectly labeled as containing 
+ibuprofen (200 mg).
+________
+PRODUCT
+Ibuprofen Tablets, 200 mg, bottles of 100, OTC pain reliever.  
+Recall #D-188-0.
+CODE
+Lot #9GE0151.
+MANUFACTURER
+Perrigo Company, Allegan, Michigan.
+RECALLED BY
+Manufacturer, by letter dated September 29, 1999.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+4,200 bottles were distributed.
+REASON
+Superpotency - Some tablets may be oversized.
+________
+PRODUCT
+Muscle MagicÆ Topical Analgesic CrËme (Methyl Salicylate 10%, 
+Menthol 1%), in 16-ounce and 8-pound units, OTC intended for 
+effective temporary relief of minor pain and soreness of muscles 
+and joints.  Recall #D-189-0.
+CODE
+Lot Numbers: 7H39 and 8E53.
+NDC #0178-1105-16 - 16 ounces
+NDC #0178-1105-08 -  8 ounces.
+MANUFACTURER
+Mission Pharmacal Company (MPC), San Antonio, Texas.
+RECALLED BY
+Manufacturer, by letter dated September 27, 1999.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Nevada, New York, Pennsylvania, Texas.
+QUANTITY
+1,532 16-ounce and 408 8-pound containers were distributed.
+REASON
+Stability - Non-uniformity in potency results to support labeled 
+expiration date.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+________
+PRODUCT
+Recovered Plasma.  Recall #B-218-0.
+CODE
+Contact FDA, Center for Biologics Evaluation and Research, Office 
+of Compliance (301) 827-6220 for individual unit numbers recalled.
+MANUFACTURER
+UCLA Medical Center Blood Bank, Los Angeles, California.
+RECALLED BY
+Manufacturer, by telephone on September 1, 1999, and by fax on 
+September 2, 1999, followed by letter dated October 15, 1999.  
+Firm-initiated recall complete.
+DISTRIBUTION
+California.
+QUANTITY
+1,181 units were distributed.
+REASON
+Blood products were not tested for viral markers in accordance 
+with the test kit manufacturer's instructions.
+________
+PRODUCT
+Plasma, Liquid.  Recall #B-247-0.
+CODE
+Unit #04R45293.
+MANUFACTURER
+American Red Cross, Dedham, Massachusetts.
+RECALLED BY
+Manufacturer, by telephone on August 12, 1999, and by letter 
+dated August 22, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Masschusetts.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor with a history of 
+hepatitis.
+________
+PRODUCT
+a) Red Blood Cells; b) Recovered Plasma.  
+Recall #B-264/265-0.
+CODE
+Unit #29FG69942.
+MANUFACTURER
+American Red Cross Blood Services, Norfolk, Virginia.
+RECALLED BY
+Manufacturer, by letter dated June 9, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+North Carolina.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from an unsuitable donor.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-270-0.
+CODE
+Unit #1590828.
+MANUFACTURER
+Central Kentucky Blood Center (CKBC), Lexington, Kentucky.
+RECALLED BY
+Manufacturer, by letter dated September 24, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Kentucky.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor taking the drug Minocin.
+________
+PRODUCT
+Various Human Tissue for Transplant including: Cancellous Chips, 
+Serrated Fibula Wedges, Iliac Crest Wedge, Fibula Shaft, Fascia 
+Lata, Semitendinosis Tendon, Femur Proximal Right, Acetabulum 
+Right, Cortical Cancellous Granules, Cortical Cancellous Chips, 
+Achilles Tendon, Bone Tendon, Humerus Whole Left with Cuff, 
+Humerus Whole Right with Cuff, Putty, Femoral Cross Section with 
+Dowel, Patella Wedge, Femoral Head, Allogenic Bone Matrix, Illium 
+Bicort
+Strip.  Recall #B-277-0.
+CODE
+Donor Numbers: 03610788 (54 tissues), 03606576 (47 tissues), 
+03612141 (12 tissues).
+MANUFACTURER
+Musculoskelatal Transplant Foundaton, Edison, New Jersey.
+RECALLED BY
+Manufacturer, by telephone and letter on March 25, 1999, and 
+letter dated September 28, 1999, followed by telephone.  Firm-
+initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+Donor Numbers: 03610788 (54 tissues), 03606576 (47 tissues), 
+03612141 (12 tissues).
+REASON
+Tissues for transplant, which were incorrectly tested for HBsAg, 
+or anti-HIV-1/2, were distributed.
+_________
+PRODUCT
+Platelets.  Recall #B-286-0.
+CODE
+Unit #1597234.
+MANUFACTURER
+Central Kentucky Blood Center (CKBC), Lexington, Kentucky.
+RECALLED BY
+Manufacturer, by letter dated October 6, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Kentucky.
+QUANTITY
+1 unit was distributed.
+REASON
+A unit of platelets was prepared from a whole blood unit 
+collected from a donor who had taken aspirin within 72 hours of 
+donation.
+________
+PRODUCT
+Platelets, Pheresis, Leukocyte Reduced.  Recall #B-290-0.
+CODE
+Unit #4056616.
+MANUFACTURER
+Community Blood Center, Dayton, Ohio.
+RECALLED BY
+Manufacturer, by telephone on August 26, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Ohio.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product had an inadequate rest time.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Recovered Plasma.
+Recall #B-295/297-0.
+CODE
+Unit #042Y98571.
+MANUFACTURER
+American Red Cross Blood Services, Cleveland, Ohio.
+RECALLED BY
+Manufacturer, by letter dated October 11, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Ohio and California.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products tested negative for anti-HCV but were collected 
+from a donor who previously tested reactive for anti-HCV, RIBA 
+indeterminate.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+________
+PRODUCT
+Red Blood Cells.  Recall #B-275-0.
+CODE
+Unit #049Y57565.
+MANUFACTURER
+American Red Cross Blood Services, Tulsa, Oklahoma.
+RECALLED BY
+Manufacturer, by telephone on January 30, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Oklahoma.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was tagged as crossmatched that had not been 
+crossmatched.
+________
+PRODUCT
+Red Blood Cells, Leukodepleted, Washed.  Recall #B-287-0.
+CODE
+4360420, 1095560, 2278498.
+MANUFACTURER
+New York Blood Services (Center West), A Division of New York 
+Blood Center, Inc., New York, New York.
+RECALLED BY
+Manufacturer, by telephone on September 1, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+New York.
+QUANTITY
+3 units were distributed.
+REASON
+Red Blood Cells, leukoreduced by filtration greater than five 
+days past the time of collection were distributed for 
+transfusion.
+________
+PRODUCT
+Fresh Frozen Plasma, Pheresis.  Recall #B-291-0
+CODE
+Unit #3444193.
+MANUFACTURER
+Gulf Coast Regional Blood Center, Houston, Texas.
+RECALLED BY
+Manufacturer, by fax on August 24, 1998.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+1 unit was distributed.
+REASON
+A pheresis blood product with discrepant collection times was 
+distributed.
+________
+PRODUCT
+a) Red Blood Cells; b) Recovered Plasma.  
+Recall #B-306/307-0.
+CODE
+Unit #22404-2629.
+MANUFACTURER
+Blood Services, Inc., Henderson, Nevada.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by letters dated April 
+22, 1999, and June 8, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Nevada and Switzerland.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor who received a tissue 
+transplant within a year of donation.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+________
+PRODUCT
+Julian Anesthesia Machine.  Recall #Z-226-0.
+CODE
+Catalog #8601110.
+MANUFACTURER
+Drager Medizintechnik GMBH, Luebeck, Germany.
+RECALLED BY
+North American Drager, Telford, Pennsylvania, by letter on 
+October 1, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Pennsylvania and California.
+QUANTITY
+8 units were distributed.
+REASON
+The oxygen can contaminate the air supply line and/or air can 
+contaminate the oxygen supply line under certain conditions.
+________
+PRODUCT
+Nu-TRAKE Emergency Cricotyrotomy Device, Catalog #B10100.
+Recall #Z-250-0.
+CODE
+Lot #754870.
+MANUFACTURER
+Bivona Medical Technologies, Division of UroQuest Medical 
+Corporation, Gary, Indiana.
+RECALLED BY
+Manufacturer, by telephone and letter on August 11, 1999, and by 
+fax.  Firm-initiated recall complete.
+DISTRIBUTION
+Nationwide, Canada, Germany, The Netherlands.
+QUANTITY
+499 units were distributed.
+REASON
+The cannula body may be missing in unopened packages.
+________
+PRODUCT
+Heart Access Plus, a portable, battery-operated, cardiac memory 
+electrocardiogram (ECG) event recorder and a voice diary.  Recall 
+#Z-289-0.
+CODE
+All units shipped between 5/11/98 to 7/15/99 (PLEASE CHECK)
+MANUFACTURER
+Paceart Asscoiates, L.P , Fairfield, New Jersey.
+RECALLED BY
+Manufacturer, by letter on or about July 23, 1999, and by Product 
+Information Bulletin dated July 23, 1999.  Firm-initiated field 
+correction ongoing.
+DISTRIBUTION
+Delaware, Florida, Maryland, New York, Australia, China.
+QUANTITY
+35 units were distributed.
+REASON
+The device fails to comply within performance standard for 
+electrode lead wires and patient cables, 21 CFR 898.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+________
+PRODUCT
+Sterile Drape Bag and Coupler for Endoscopic Camera System.
+Recall #Z-263-0.
+CODE
+Lot Numbers:  08484C1585, 0885C2088, 09215C0297, 09296C0895.
+MANUFACTURER
+Advanced Medical Designs, Marietta, Georgia.
+RECALLED BY
+Manufacturer, by letter on July 7, 1999.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Nationwide, Canada, Australia.
+QUANTITY
+5,540 units were distributed.
+REASON
+The assembled components were inadequately glued resulting in the 
+plastic lens cap separating from the sterile drape bag.
+________
+PRODUCT
+IMMUNOCARD TOXIN A, a rapid enzyme immunoassay for the detection 
+of Clostridium difficile Toxin A in human stool.
+Recall #Z-286-0.
+CODE
+Kit Catalog Number:  711050.
+Kit Lot Numbers:  711050.116, 711050.117, 711050.118, and
+711050.119.  Exp Date:  9/23/2000 (same for all 4 lots).
+MANUFACTURER
+Meridian Diagnostics, Inc., Cincinnati, Ohio.
+RECALLED BY
+Manufacturer, by letter on December 22, 1999.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Nationwide, Canada, Japan, Germany, Italy.
+QUANTITY
+597 kits were distributed.
+REASON
+The substrate reagent exhibits a blue color which may affect 
+final test results.
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS II
+________
+PRODUCT
+Chorionic Gonadotropin for Injection, Rx veterinary medication 
+indicated for parenteral use in cows for the treatment of 
+nymphomania (frequent or consistant "heat") due to cystic 
+ovaries:
+a) Veterinary Chorionic Gonadotropin for Injection, distributed 
+under the labels of Steris Laboratories and The Butler Company 
+(10,000 units per sterile 10 ml multiple dose monovial)
+b) MU-SE brand of Selenium & Vitamin E for Injection, in 100 ml 
+vial; MYOSEL-M brand of Selenium & Vitamin E for Injection, in 
+100 ml vial sold under two labels - Schering -Plough Animal 
+Health and Professional Pharmaceutical Corporation.  Recall #V-
+055/056-0.
+CODE
+a) Steris - 97H670, 97J190, 97J410, 97K710, 98A310, 98B560
+Butler - 97J410 and 97J150
+b) Schering and PPC  - 97H710, 97J241, 97K530, 97L040, 97L040, 
+97L260, 97L820, 97M120 97M130, 97M200, 97M340, 98A980, 98A900, 
+98B010, 98B020, 98B030, 98B040, 98D340, 98D500, 98D690, 98E250, 
+98E320, 98E370, 98E490, 98E550, 98E560, 98E610, 98E670, 98E850.
+MANUFACTURER
+Steris Laboratories, Inc., Phoenix, Arizona.
+RECALLED BY
+Manufacturer, by letter dated October 8, 1999.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+a) LOT #  EXPIRY     FINAL YIELD*    
+97H670    9-99       6,375
+97J190    9-99       5,925
+97J410    9-99       16,077
+97J510    11-99      3,995
+97K710    10-99      10,400
+98A310    1-00       14,995
+98B560    2-00       10,975
+b) LOT #  EXPIRY     FINAL YIELD*  
+97H710    10-99       7,242
+97J241    10-99       6,957
+97K530    11-99       6,982
+97L040    11-99       7,256
+97L260    12-99       7,037
+97L820    12-99       6,983
+97M120    12-99       7,086
+97M130    12-99       7,203
+97M200    12-99       7,211
+97M340    12-99       7,143
+98A980    2-00        7,248
+98A990    2-00        7,309
+98B010    3-00        7,207
+98B020    3-00        6,933
+98B030    4-00        7,211
+98B040    4-00        7,291
+98D340    4-00        7,324
+98D500    5-00        7,194
+98D690    5-00        7,164
+98E250    6-00        7,230
+98E320    5-00        6,981
+98E370    5-00        7,117
+98E490    6-00        7,246
+98E550    6-00        6,896
+98E560    6-00        5,700
+98E610    7-00        6,678
+98E670    7-00        7,067
+98E850    7-00        7,260
+*  = Final Yield Is Quantity Yielded After Inspection, Samples 
+Pulled, And Rejects Discarded.
+REASON
+Products were manufactured under significant deviations from 
+current good manufacturing practice regulations.
+________
+PRODUCT
+Loweís 40% Hog Concentrate - swine feed for mixing grower and 
+finisher rations, in 50-pound bulk bags.
+Recall #V-057-0.
+CODE
+All codes between August 1, 1999 and November 23, 1999.
+MANUFACTURER
+Lowe's Feed & Grain, Inc., Bowling Green, Kentucky.
+RECALLED BY
+Manufacturer, by letter dated November 18, 1999, and by 
+telephone.  Firm-initiated recall complete.
+DISTRIBUTION
+Ohio.
+QUANTITY
+12.46 tons were distributed.
+REASON
+Product contained protein derived from mammalian tissue and 
+according to regulation must bear the statement "Do not feed to 
+cattle or other ruminants" on the label.   This regulation is 
+designed to prevent the establishment and amplification of BSE 
+through feed.   This statement does not appear on the label. 
+________
+PRODUCT
+#1558100 Calf Primer II R30 - Medicated animal feed - bulk.
+Recall #V-058-0.
+CODE
+Uncoded.   All product distributed 7/30/99, 8/6/99 and 8/17/99.
+MANUFACTURER
+Land O'Lakes, Inc., Washington Court House, Ohio.
+RECALLED BY
+Manufacturer, by telephone on August 17, 1999.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Ohio.
+QUANTITY
+11 tons were distributed
+REASON
+Products is superpotent in Rumensin (monensin).
+
+RECALLS AND FIELD CORRECTIONS: VETERINARY PRODUCTS - CLASS III
+________
+PRODUCT
+Synovex Plus, implants for steers and heifers - contains 200-mg 
+trenbolone acetate and 28 mg estradiol benzoate - ten 10-dose 
+cartridges per pouch.  Recall #V-059-0.
+CODE
+Lot # 605108 - EXP Mar 2001.
+MANUFACTURER
+Fort Dodge Animal Health, Fort Dodge, Iowa.
+RECALLED BY
+Manufacturer, by letter dated November 12, 1999.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Nebraska, Missouri, Colorado, Texas, Idaho, Indiana, Iowa, 
+Kansas, Kentucky, Ohio, Pennsylvania and South Dakota.
+QUANTITY
+2,702 pouches were distributed.
+REASON
+Lot failed content uniformity testing.
+________
+PRODUCT
+Nolvasan Antiseptic Ointment - 1% chlorhexidine acetate, in 1-
+ounce tubes, 7-ounce plastic jars, and 16-ounce plastic jars, for 
+use a topical antiseptic ointment for dogs, cats and horses.  
+Recall #V-060-0.
+CODE
+371456, EXP Feb00 - 1-oz. Tube and 7-oz. Jar
+371457, EXP Jan00 - 16-oz. Jar
+371458, EXP Feb00 - 16-oz. Jar
+371459, EXP Feb00 - 16-oz. Jar
+371460, EXP Feb00 - 16-oz. Jar
+371461, EXP Feb00 - 7-oz. Jar
+371462, EXP Sep00 - 16-oz. Jar
+371463, EXP Oct00 - 16-oz. Jar
+371464, EXP Sep00 - 7-oz. Jar
+371465, EXP Nov00 - 16-oz. Jar
+371467, EXP Nov00 - 7-oz. Jar
+371468, EXP Dec00 - 16-oz. Jar
+371469, EXP Dec00 - 16-oz. Jar
+371470, EXP Dec00 - 16-oz. Jar
+371471, EXP Dec00 - 7-oz. Jar
+371472, EXP Dec00 - 7-oz. Jar
+371473, EXP Jan01 - 16-oz. Jar
+371474, EXP Jan01 - 16-oz. Jar
+371475, EXP Feb01 - 16-oz. Jar
+371477, EXP Jun01 - 16-oz. Jar
+371478, EXP Apr01 - 1-oz. Tube and 7-oz. Jar.
+MANUFACTURER
+Fort Dodge Animal Health, Fort Dodge, Iowa.
+RECALLED BY
+Manufacturer, by letter dated October 15, 1999.  Firm-initiated  
+recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+The firm has distributed the following approximate amounts of 
+product:  1-oz. Tubes - 27,074; 7-oz. Jars - 36,199; 
+16-oz. Jars - 36,276.
+REASON
+Product failed stability testing and is subpotent.
+
+END OF ENFORCEMENT REPORT FOR JANUARY 5, 2000.
+
+
+####

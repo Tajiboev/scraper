@@ -1,0 +1,562 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Feb
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      26 captures
+	      25 Feb 1997 - 07 May 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+10/04/1995
+
+ ENFORCEMENT REPORT FOR 10/4/95 
+
+
+October 4, 1995                                                95-40
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+==========================
+_______________
+PRODUCT        Refrigerated and Frozen Unpasteurized Orange Juice, in 8
+               ounce, 32 ounce, 64 ounce, one gallon, and 5 gallon pails
+               (for refrigerated product) and in 87 ounce plastic jugs (for
+               the frozen product).  Recall #F-819-5.
+CODE           All unexpired refrigerated product which at this point is
+               "USE BY 8/17" and USE BY 8/20" and also one shipment of
+               frozen unpasteurized product with code ENENN.
+MANUFACTURER   Florida's Own Juice Company, Winter Haven, Florida.
+RECALLED BY    Manufacturer, by letter August 15, 1995, and by press
+               release issued August 16, 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Tennessee, Massachusetts, Maryland, Nebraska, Illinois,
+               Georgia, Florida.
+QUANTITY       Firm estimated that 3,495 gallons remained on market at time
+               of recall initiation.
+REASON         The product was implicated in a May 1995 outbreak of
+               Salmonella food poisoning in Orlando, Florida, in which
+               Salmonella hartford and/or Salmonella gaminara were isolated
+               from 63 patients.  CDC isolated Salmonella gaminara from
+               samples of the product.  The product was presumably
+               contaminated with Salmonella gaminara and/or Salmonella
+               hartford.
+
+_______________
+PRODUCT        Martha White Chewy Fudge Brownie Mix, net weight 21.6
+               ounces.  Recall #F-820-5.
+CODE           Lot #G5S16C8.
+MANUFACTURER   Gilster Mary Lee, Steelville, Illinois.
+RECALLED BY    The Pillsbury Company, Minneapolis, Minnesota, by electronic
+               mail notice, and by press release dated August 24, 1995.  
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Tennessee, Texas.
+QUANTITY       216 cases (12 per case) were distributed.
+REASON         Product contains undeclared walnuts. 
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Strawberry Cheesecake Homemade Fudge, packaged industry
+               standard plastic containers, 8 ounces.  Recall  F-821-5.
+CODE           Best if eaten by 9/95; Best if eaten by 10/95; Best if eaten
+               by 11/1/95-11/19/95.
+MANUFACTURER   Nancy's Homemade Fudge, Inc., Meadows of Dan, Virginia.
+RECALLED BY    Manufacturer, by telephone on or about August 3, 1995. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Maryland, Tennessee, Virginia, North Carolina, Pennsylvania,
+               Kentucky, Alabama, Delaware.
+QUANTITY       1,419 units were distributed.
+REASON         The product contains Undeclared FD&C; Yellow No. 5.
+
+_______________
+PRODUCT        Campbell's Chunky Ready to Serve Soup New England Clam
+               Chowder, in 10-3/4 ounce cans.  Recall #F-822-5.
+CODE           Can - DEC 96 CH4 CS B8DF with any hour code (last 4
+               numbers);
+               Case - 10885 08 DEC 96.
+MANUFACTURER   Campbell Soup Company, Inc., Sacramento, California.
+RECALLED BY    Campbell Soup Company, Camden, New Jersey, by visit and by
+               letter sent April 26, 1995  Firm-initiated recall complete.
+DISTRIBUTION   Alaska, Arizona, Colorado, California, Idaho, Montana,
+               Nevada, Oregon, Utah, Washington, Hawaii, Japan.
+QUANTITY       158,700 cans were distributed; firm estimated that 5,000
+               cans remained on market at time of recall initiation.
+REASON         Product was contaminated with glass pieces.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        Foodtown Sliced Beets, in 14.5 ounce cans.
+               Recall #F-716-5.
+CODE           1 KERN 82844.
+MANUFACTURER   Comstock Michigan Fruit Division C, Leicester, New York.
+RECALLED BY    Twin County Grocers, Inc., Edison, New Jersey, by letter
+               November 17, 1994.  Firm-initiated recall complete.
+
+                                    -2-DISTRIBUTION   New York and New Jersey.
+QUANTITY       Approximately 20 cases were distributed; firm estimates none
+               remains on the market.
+REASON         Product is labeled and sold as corn but it is actually
+               sliced beets.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Neosar, Cyclophosphamide for Injection, USP, 500 mg, anti-
+               neoplastic, under the Pharmacia or Abbott labels.  
+               Recall #D-249-5.
+CODE           Lot #APC015 (Pharmacia) or 82005T4 (Abbott).
+MANUFACTURER   ASTA Medica AG, Kunsebeck, Germany.
+RECALLED BY    Pharmacia, Inc., Columbus, Ohio, by letter September 21,
+               1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       42,744 vials were distributed; firm estimated that very
+               little product remained on market at time of recall
+               initiation.
+REASON         Stability testing disclosed potential for subpotency.
+
+_______________
+PRODUCT        Guaifenesin 600 mg and Pseudoephedrine HCl 120 mg Tablets,
+               in bottles of 100, Rx combination, expectorant and
+               decongestant, under the URL label.  Recall #D-250-5.
+CODE           Lot numbers:  L2694254 EXP 3/97, L2694255 EXP 3/97, D1695049
+               EXP 5/97.
+MANUFACTURER   Lini, Inc., Rahway, New Jersey.
+RECALLED BY    Manufacturer, by letter June 20, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Pennsylvania. 
+QUANTITY       Firm estimated that 5,206 remained on market at time of
+               recall initiation. 
+REASON         Some labels have a typographical error in the dosage
+               statement.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        UltraTag RBC Kit for the preparation of Technetium Tc 99m-
+               Labeled Red Blood Cells, Rx in-vivo diagnostic.  
+               Recall #D-251-5.
+CODE           NO68-5020     NO68-5021     NO68-5023     NO68-5024
+               NO68-5025     NO68-5026     NO68-5027     NO68-5028
+               NO68-5029     NO68-5030.
+               These lot numbers represent the lot number on the kit.  Each
+               of the components bears their own lot numbers..
+MANUFACTURER   Mallinckrodt Medical, Inc., Maryland Heights, Missouri.
+RECALLED BY    Manufacturer, by telephone August 15-16, 1995, followed by
+               letter dated August 15, 1995.  Firm-initiated field
+               correction ongoing.
+
+                                    -3-DISTRIBUTION   Nationwide.
+QUANTITY       6,571 kits were distributed.
+REASON         The reaction vial component incorrectly declares potency as
+               milligram instead of microgram.  Other labeling is correct.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets.  Recall #B-623/624-5.
+CODE           Unit #31KE11728.
+MANUFACTURER   American Red Cross Blood Services, Buffalo, New York.
+RECALLED BY    Manufacturer, by letter dated May 10, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   New York.
+QUANTITY       1 unit of each component.
+REASON         Blood products, which were collected from a donor who had
+               admitted to visiting an area designated as endemic for
+               malaria, were distributed.
+
+_______________
+PRODUCT        (a) Whole Blood; (b) Red Blood Cells; (c) Recovered Plasma. 
+               Recall #B-634/636-5.
+CODE           Unit numbers:  (a) LZ89150, LZ89163; (b) LZ89156, LZ89164;
+               (c) LZ89153, LZ89156, LZ89157, LZ89160, LZ89161, LZ89162,
+               LZ89164, LZ89166.
+MANUFACTURER   Cooley Dickinson Hospital, Northhampton, Massachusetts.
+RECALLED BY    Manufacturer, by letters dated June 22, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Massachusetts, Pennsylvania.
+QUANTITY       (a) 2 units; (b) 2 units; (c) 8 units.
+REASON         Blood products, which were incorrectly tested for antibody
+               to the human immunodeficiency virus types 1 and 2 (anti-HIV-
+               1/2), were distributed.
+
+_______________
+PRODUCT5       (a) Red Blood Cells; (b) Platelets; 
+               (c) Platelets, Pheresis; (d) Granulocytes/Platelets,
+               Pheresis; (e) Source Leukocytes; (f) Recovered Plasma. 
+               Recall #B-638/643-5.
+CODE           Unit numbers:  (a) O1Y06338, 01Y06845; (b) O1P11004,
+               O1P11823, 01P11937, 01P12830, 01P12940, 01P13105, 01P13786,
+               01P15068, 01P15126, 01Y06338, 01YO6845; (c) 01P08059,
+               01P09525, 01P09952, 01P10357, 01P10432, 01P10552, 01P10618,
+               01P10698, 01P10832, 01P10905, 01P11161, 01P11243, 01P11340,
+               01P11541, 01P11745, 01P13048, 01P13593, 01P15507; (d)
+               01P08059, 01P08895, 01P12754, 01P13466; (e) 01P09952,
+               01P10357, 01P10382; (f) 01P10905, 01P11161, 01P11243,
+               01Y06338, 01Y06845.
+MANUFACTURER   American Red Cross Blood Services, Rochester, New York.
+RECALLED BY    Manufacturer, by letters issued in October and November
+               1994.  Firm-initiated recall complete.
+DISTRIBUTION   California and New York.
+
+                                    -4-QUANTITY       (a) 2 units; (b) 11 units; (c) 18 units; (d) 4 units; (e) 2
+               units; (f) 5 units.
+REASON         Blood products, which tested initially reactive for the
+               antibody to the human immunodeficiency virus type 1 (anti-
+               HIV-1), and were not retested in duplicate, or were
+               collected from a donor who previously tested initially
+               reactive for anti-HIV-1 and was not retested in duplicate,
+               were distributed.
+
+_______________
+PRODUCT        Source Plasma.  Recall #B-644-5.
+CODE           PA78959, XA41032, XA46811, PA18487, PA18635, PA91867,
+               PA26688, PA26918, PA31011, PA36820, PA37458, PA37812,
+               PA39888, PA42405, PA42762, PA47526, PA50156, XA66491,    
+               PA88169, PA88295, PA89302, PA60751, PA60936, PA61151,    
+               PA61384, PA68310, PA68409, PA68517, XA68684, XA71514,
+               XA71903, XA72001, XA72163, XA72288, XA72402, XA72511,
+               XA72657, XA72753, XA72902, XA72993, PA72191, PA72360,    
+               PA72717, PA72932, XA76151, XA43586, XA58322, XA69191,   
+               XA69341, XA72349, XA78909, XA60765, XA28308, XA38861,   
+               XA17486, XA17930, XA17701, XA18102, XA18843, XA19308,
+               XA20279, XA20539, XA30130, XA30875, XA59418, XA60081,      
+               XA61275, XA61638, XA62230, XA62680, XA63070, XA63596,      
+               XA64297, XA64457, XA64766, XA65496, XA65821, XA66994.
+MANUFACTURER   Community Bio-Resources, Inc., Birmingham, Alabama.
+RECALLED BY    Manufacturer, by letters dated July 22, 1994, and August 11,
+               1994.  Firm-initiated recall complete.
+DISTRIBUTION   New York, Puerto Rico, Austria.
+QUANTITY       78 units.
+REASON         Source Plasma which:  tested negative for antibody to the
+               human immunodeficiency virus type 1 (anti-HIV-1), but was
+               collected from donors who previously tested repeatedly
+               reactive for anti-HIV-1; tested negative for hepatitis B
+               surface antigen (HBsAg), but was collected from donors who
+               previously tested repeatedly reactive for HBsAg or had a
+               history of hepatitis; or was collected from donors with a
+               history of intravenous (IV) drug use/high risk behavior was
+               distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-637-5.
+CODE           Unit numbers:  LZ89149, LZ89151, LZ89152, LZ89154, LZ89155,
+               LZ89159, LZ89165.
+MANUFACTURER   Cooley Dickinson Hospital, Northhampton, Massachusetts.
+RECALLED BY    Manufacturer, by letters dated June 22, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Massachusetts, Pennsylvania.
+QUANTITY       7 units.
+REASON         Blood products, which were incorrectly tested for antibody
+               to the human immunodeficiency virus types 1 and 2 (anti-HIV-
+               1/2), were distributed.
+                                    -5-_______________
+PRODUCT        Antihemophilic Factor (Recombinant) Recombinate(TM). 
+               Recall #B-633-5.
+CODE           Lot numbers:  2938A112AA, 2938A115AA, 2938A117AA,
+               2938A123AA, 2938A125AA, 2938C005AC, 2938C009AA, 2938C010AA,
+               2938C014AC, 2938C015AE, 2938C016AB, 2938C017AB, 2938C019AA,
+               2938C019AB, 2938C020AA, 2938C020AB, 2938C021AA, 2938C022AA,
+               2938C025AA, 2938C026AA, 2938C027AA, 2938C028AA, 2938C029AA,
+               2938C029AB, 2938C032AA, 2938C033AA, 2938C034AA, 2938C035AA,
+               2938C036AB, 2938C037AA, 2938C038AA, 2938C039AB, 2938C039AC,
+               2938C045AA, 2938C046AA.
+MANUFACTURER   Baxter Healthcare Corporation, Glendale, California.
+RECALLED BY    Manufacturer, by letters dated February 3, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       178,676 kits.
+REASON         Product vials, which contain a transfer needle that can core
+               the rubber stopper, causing fragments to fall into the
+               vials, were distributed.
+
+_______________
+PRODUCT        Platelets.  Recall #B-645-5.
+CODE           Unit numbers: 31KV15232, 31KY07297, 31KY07300, 31KY07313,
+               31KY07319, 31KY07306, 31KY07305, 31KY07296, 31KE15407,
+               31KE15396, 31KC15120, 31KT14795, 31KW11003, 31KW10998,
+               31KE15416, 31KW11005, 31KW11007, 31KT14788, 31KS13194,
+               31KC15117, 31KV15231, 31KV15235, 31KV15223, 31KV15238,
+               31KS13204, 31KS13203, 31KV15247, 31KV15245, 31KE15408,
+               31KY07299, 31KV15240, 31KV15241, 31KY07314, 31KY07310,
+               31KS13206, 31KS13207, 31KC15115, 31KS13202, 31KF05088,
+               31KF05090, 31KT14778, 31KV15277, 31KV15279, 31KV15281,
+               31KC15118, 31KV15249, 31KF05095, 31KV15258, 31KV15269,
+               31KF05093, 31KS13198, 31KF05081, 31KT14781, 31KC15119,
+               31KV15226, 31KV15262, 31KF05087, 31KW10996, 31KS13199,
+               31KF05085, 31KT14797, 31KC15109, 31KT14784, 31KV15275,
+               31KV15266, 31KY07309, 31KY07315, 31KY07318, 31KY07311,
+               31KY07298, 31KY07303, 31KV15244, 31KV15222, 31KV15234,
+               31KY07301, 31KC15114, 31KV15264, 31KF05092, 31KC15116,
+               31KT14790.
+MANUFACTURER   American Red Cross Blood Services, Buffalo, New York.
+RECALLED BY    Manufacturer, by telephone June 8, 1995, followed by letter
+               dated June 12, 1995.  Firm-initiated recall complete.
+DISTRIBUTION   New York, Pennsylvania.
+QUANTITY       80 units.
+REASON         Blood products, which were exposed to unacceptable storage
+               temperatures, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Tomoscan SR 7000 Computed Tomography System with software
+               version 1.1C, for CT applications.  Recall #Z-1090-5.
+CODE           All codes.
+                                    -6-MANUFACTURER   Philips Medical Systems Nederlands, Best Nederlands.
+RECALLED BY    Philips Medical Systems North America Company, Shelton,
+               Connecticut.  Firm-initiated field correction completed
+               under FCO 14 403 014 dated November 1993.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       9 units were subject to field correction.
+REASON         Noncompliance with performance standard for x-ray diagnostic
+               products in that improper software validation during the
+               manufacture of the version 1.1C produced software which
+               would accept an incorrect start position and improperly scan
+               patients.
+
+_______________
+PRODUCT        Sportrol Combination Spore Strip Biological Indicators,
+               containing Bacillus stearothermophilus and Bacillus subtilus
+               var. niger spores for monitoring sterilization processes.  
+               Recall #Z-1206-5.
+CODE           Lot numbers:  X693, X695, X697, X698.
+MANUFACTURER   North American Science Associates, Inc., (NAmSA), Northwood,
+               Ohio.
+RECALLED BY    Manufacturer, by letters dated June 29, 1995.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       22,100 strips were distributed.
+REASON         Stability testing confirmed reduced resistance to
+               sterilization temperatures.
+
+_______________
+PRODUCT        Electrode Lead Wires.  Recall #Z-1207-5.
+CODE           All lead wires with unprotected (exposed pin style)
+               electrode lead wires.
+MANUFACTURER   Lead-Lok, Inc., Sandpoint, Idaho.
+RECALLED BY    Manufacturer, by letter June 7, 1994.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+REASON         Product labeling fails to provide adequate directions for
+               use and devices pose an unwarranted risk of injury to
+               patients, because the products are not labeled to
+               contraindicate use with apnea monitors.
+
+_______________
+PRODUCT        Coated Vicryl (polyglactin 910) Absorbable Sterile Sutures,
+               packaged by B.E.C. Medical Products into four types of kits: 
+               (a) Lap-Chole-Pak; (b) C-Section Pak; (c) C.A.B.G. Custom
+               Pak; (d) Laparoscopy Pak.  Recall #Z-1209/1212-5.
+CODE           B.E.C. Medical products lot nos:  306336, 306192, 306268,
+               306104, 306122, 306450; Ethicon codes:  GD9097, GD9511,
+               GC9993, GD9471, GD9794, GD9101, GC2446.
+MANUFACTURER   Ethicon, Inc., San Antonio, Texas.
+RECALLED BY    B.E.C. Medical Products, Toledo, Ohio, by fax September 16-
+               29, 1994, followed by telephone.  Firm-initiated recall
+               complete.
+                                    -7-DISTRIBUTION   Georgia, Michigan, Ohio, Texas.
+QUANTITY       370 kits were distributed; firm estimates none remains on
+               market.
+REASON         The sterility of the sutures contained in these devices
+               cannot be assured because of possible microorganism
+               contamination during aseptic processing, following
+               sterilization.
+
+_______________
+PRODUCT        LAPRO-CLIP Absorbable Ligating Clip:
+               (a) Product Code 8487-08; (b) Product Code 8487-12;
+               (c) Product Code 8487-13; (d) Product Code 8487-82.
+               Recall #Z-1216/1219-5.
+CODE           All lots distributed from 11/93.
+MANUFACTURER   Davis & Geck, Inc., Danbury, Connecticut.
+RECALLED BY    Manufacturer, by letter August 3, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       10,781 boxes were distributed.
+REASON         Device's foil moisture barrier may be punctured resulting in
+               exposure of the devices to moisture, thereby compromising
+               their sterility. 
+
+_______________
+PRODUCT        INVOS 3100 Cerebral Oximeter and associated SomaSensors.
+               Cerebral Oximeter, is a monitor which when connected to a
+               sensor device, is intended to non-invasively measure the
+               approximate regional oxygen saturation (rS02) of the
+               hemoglobin in the microvasculature of an adult's brain. 
+               Recall #Z-1230/1231-5.
+CODE           All serial numbers.
+MANUFACTURER   Somanetics Corporation, Troy, Michigan.
+RECALLED BY    Manufacturer, by letters of January 28, 1994 and February 1,
+               1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Alabama, California, Michigan, Minnesota, Missouri,
+               Nebraska, New Jersey, New York, Ohio, Utah, Virginia,
+               Wisconsin, Connecticut, Illinois, Kentucky, Massachusetts,
+               New Mexico, Texas, Canada.
+QUANTITY       Approximately 122 INVOS 3100 Cerebral Oximeter units and
+               approximately 369 of the associated sensors remained on
+               market at time of recall initiation.
+REASON         Premarket notification (510(k)) was rescinded based on
+               CDRH's determination that the data supporting the 510(k)
+               were incomplete.
+
+_______________
+PRODUCT        Cordis brand Percutaneous Entry Trays, used for procedures
+               requiring catheter introduction.  Recall #Z-1232/1236-5.
+CODE           Catalog Number          Lot Numbers
+               501-636U                30495608,  30595604
+               501-637U                30495609
+               501-638U                30495606, 30495610, 30595602, 
+                                       30595603
+                                    -8-               Catalog Number          Lot Numbers
+               501-601U                30495605,  30595600
+               501-648U                30495607,  30495611.
+MANUFACTURER   Cordis Corporation, Miami Lakes, Florida.
+RECALLED BY    Manufacturer, by letter dated June 23, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and Latin America.
+QUANTITY       1,000 units were distributed.
+REASON         The sterility may become compromised due to the package
+               seals opening. 
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Actin Activated FSL Activated PTT Reagent, for use in the
+               determination of the activated partial thromboplastin time
+               and related coagulation procedures.  Recall Z-1170-5.
+CODE           Catalog #B4219-2, Lot #FSL-103 EXP 5/27/96.
+MANUFACTURER   Dade International of Puerto Rico, Aguada, Puerto Rico.
+RECALLED BY    Dade International, Inc., Miami, Florida, by letter dated
+               July 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       2,948 units were distributed.
+REASON         This lot may exhibit vial to vial variability resulting in
+               prolonged activated partial thromboplastin times (APTTS).
+
+_______________
+PRODUCT        Diamedix Fluid Sampler Handler (FSH), a fully programmable
+               fluid handling system capable of precise liquid sampling and
+               preparation.  Recall #Z-1237-5.
+CODE           All codes.
+MANUFACTURER   Hyperion, Inc., Miami, Florida.
+RECALLED BY    Diamedix Corporation, Miami, Florida, by letters of June 1
+               and 20, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       299 units were distributed.
+REASON         The performance of the FSH with automated testing equipment
+               can cause unreliable test results.
+
+                                    -9-
+
+END OF ENFORCEMENT REPORT FOR OCTOBER 4, 1995.  BLANK PAGES MAY
+FOLLOW.
+
+
+                                   ####

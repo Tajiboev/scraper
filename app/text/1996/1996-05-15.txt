@@ -1,0 +1,773 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      34 captures
+	      25 Feb 1997 - 18 Jan 2017
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+05/15/1996
+
+ENFORCEMENT REPORT FOR 05/15/1996
+
+May 15, 1996                                       96-20
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I ============
+_______________
+PRODUCT        Animal Crackers and Animal Grahams: 
+               (a) Animal Crackers in 11 oz. boxes (Royal
+               Crest, Funanimals, and Jungle Jammers brands)
+               (b) Animal Grahams in 1 oz. bags
+               (c) Animal Crackers in 15 lb. bulk cases
+               (Danish Delight brand).  Recall #F-524/526-6.
+CODE           Lot numbers:  
+               Royal Crest brand Animal Crackers: 11116P,
+               11126P, 11136P, 11166P, 11686P, 11706P,
+               11716P, 12116P, 12126P, 12516P, 12616P,
+               12806P, 12816P, 12936P
+               Funanimals brand Animal Crackers:  12516P and
+               12616P
+               Jungle Jammers brand Animal Crackers: 
+               17FEB96AP, 18FEB96AP, 24FEB96AP, 25FEB96AP, 
+               18APR96AP, 16APR96AP, 06MAY96AP, 27MAY96AP,   
+               28MAY96AP, 29MAY96AP, 15JUN96AP, 17JUL96AP,
+               05AUG96AP, 06AUG96AP
+               Animal Grahams:  20MAR96AP, 25MAR96AP,
+               28MAR96AP, 29MAR96AP, 01APR96AP, 03APR96AP,
+               04APR96AP, 07APR96AP, 09APR96AP, 10APR96AP,
+               11APR96AP, 14APR96AP, 15APR96AP, 16APR96AP,
+               20AUG96AP, 21AUG96AP, 22AUG96AP, 26AUG96AP,
+               09SEP96AP, 10SEP96AP, 11SEP96AP, 12SEP96AP,
+               19SEP96AP, 20SEP96AP, 22SEP96AP, 23SEP96AP,
+               24SEP96AP
+               Danish Delight brand Animal Crackers:  
+               06JUL96AP, and 27JUL96AP.
+MANUFACTURER   Imperial Baking Company, St. Louis, Missouri.
+RECALLED BY    Consolidated Biscuit Company, McComb, Ohio, by
+               press release issued on March 13, 1996,
+               followed by letter March 14, 1996.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 27,000 cases (12 boxes per case); (b)
+               4,394 cases (150 bags per case); (c) 270 cases
+               were distributed.
+REASON         Products contain undeclared egg whites.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II ===========
+_______________
+PRODUCT        Hydrox Fresh Moment Alcohol Free Mouthwash in
+               2, 4, and 32 fluid ounce bottles:
+               (a) Mouthwash, yellow formulation, under
+               "Hydrox Fresh Moment Alcohol Free" label
+               (b) Mouthwash, blue formulation, under "Hydrox
+               Fresh Moment Alcohol Free" and "Medline
+               Mouthwash (Non-Alcoholic)" labels.  
+               Recall #F-503/504-6.
+CODE           All lots produced between August 31, 1995 and
+               January 26, 1996, lot numbers 10026 through
+               10410.
+MANUFACTURER   Hydrox Chemical Company, Elgin, Illinois.
+RECALLED BY    Manufacturer, by telephone on February 2, 22,
+               23, 1996.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       98,212.5 gallons were distributed; firm
+               estimated that 3,000 gallons remained on
+               market at time of recall initiation.
+REASON         Products are contaminated with Pseudomonas
+               cepacia.
+
+_______________
+PRODUCT        Ceramicware from various manufacturers:
+               (a) Small, green, ribbed compote
+               (b) Pasta bowls, confetti pattern, multi
+               colored
+               (c) Le Cirque ("The Circus") theme dessert
+               plates, six different designs
+
+                             -2-               (d) Olive green, footed bowls, 7" diameter
+               (e) Dit-Dash Cachepot (pitcher).
+               Recall #F-509/513-6. 
+CODE           None.
+MANUFACTURERS  Ceramiche Estensi s.p.a. (doing business as:
+               Este CE), Italy; Susan Eslick Custom Ceramics,
+               San Francisco, California; Manufacture de
+               Luneville, Paris, France; Square One, Tampa,
+               Florida; Jill Rosenwald Ceramic Designs,
+               Somerville, Massachusetts.
+RECALLED BY    Gump's, Inc., San Francisco, California, by
+               letters mailed on or about September 18, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Illinois, California, Florida, Texas,
+               Delaware, Oregon.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Products contained excessive levels of
+               leachable lead.
+
+_______________
+PRODUCT        Various flavored carbonated soft drinks:
+               (a) Orange India in 11.27 fluid ounce aluminum
+               cans and 2.0 Liters, plastic bottles
+               (b) China Sonny in 11.27 fluid ounce aluminum
+               cans; (c) Sunny Isles in 11.27 fluid ounce
+               aluminum cans.  Recall #F-516/518-6.
+CODE           Lot numbers - 50495, 60595, 62295, 80495,
+               91995, 92295, 101395, 110795, 122795, 32595.
+MANUFACTURER   Cerveceria India, Inc., Mayaguez, Puerto Rico.
+RECALLED BY    Manufacturer, by visit.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Puerto Rico.  
+QUANTITY       4,858 cases (24 cans per case) and 11,492
+               cases (6 bottles per case) were distributed.
+REASON         Products contain undeclared FD&C; Yellow No. 5
+               but are labeled as containing FD&C; Yellow 
+               No. 6.
+
+_______________
+PRODUCT        Ice Cream and Sherbet sold in pints, half
+               gallon and 3-gallon tubs:
+               (a) Mint Chocolate Chip; (b) Pistachio; (c)
+               Orange Sherbet; (d) Vanilla; (e) French
+               Vanilla.  Recall #F-519/523-6.
+CODE           There are no lot numbers used on the 1 pint
+               and 1/2 gallon containers.  Three-gallon tubs
+               with lot numbers of C31 or lower are subject
+               to recall.  
+MANUFACTURER   Purity Ice Cream Company, Ithaca, New York.
+RECALLED BY    Manufacturer, by letter dated April 4, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   New York, Vermont.
+
+                             -3-QUANTITY       1,979 3-gallon tubs; 22,641 1/2 gallon
+               containers; 6,832 pint containers were
+               distributed.  All in-house product has been
+               corrected.
+REASON         Product contained undeclared FD&C; Yellow 
+               No. 5.
+
+_______________
+PRODUCT        Wallabeans, peach flavored, jellybean type
+               confection, in 10 ounce boxes.  
+               Recall #F-505-6.
+CODE           None.  All misbranded product.
+MANUFACTURER   Marich Confectionery Company, Watsonville,
+               California.
+RECALLED BY    Manufacturer, by letter dated November 16 and
+               20, 1995.  Firm-initiated recall complete.
+DISTRIBUTION   Georgia, New York, California.
+QUANTITY       6 cases were distributed.
+REASON         Product contained undeclared FD&C; Yellow 
+               No. 5.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III ==========
+_______________
+PRODUCT        Wallabeans, jellybean type confection, in 10
+               ounce boxes:
+               (a) Wild Cherry Flavored; (b) Licorice
+               Flavored.  Recall #F-506/507-6.
+CODE           None.  All misbranded product.
+MANUFACTURER   Marich Confectionery Company, Watsonville,
+               California.
+RECALLED BY    Manufacturer, by letter dated November 16 and
+               20, 1995.  Firm-initiated recall complete.
+DISTRIBUTION   Georgia, New York, California.
+QUANTITY       (a) 20 cases; (b) 9 cases were distributed.
+REASON         The wild cherry flavor contains undeclared
+               FD&C; Red No. 40; and the licorice flavor is
+               labeled with the name and ingredient statement
+               for the peach flavor product.
+
+_______________
+PRODUCT        Processed (cooked) Backfin Crabmeat.  
+               Recall #F-508-6.
+CODE           2/28/96 Backfin.
+MANUFACTURER   NED Enterprises, Inc., doing business as Gulf
+               Crab Company, Des Allemands, Louisiana.
+RECALLED BY    Manufacturer, by telephone and
+               letter/facsimile on March 5, 1996.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Louisiana.
+QUANTITY       120 pounds were distributed.
+REASON         Product is contaminated with E. coli.
+
+                             -4-RECALLS AND FIELD CORRECTIONS:  COSMETICS -- CLASS III ======
+_______________
+PRODUCT        Styling and sculpting gel:
+               (a) White Rain Styling Gel, net weight 5
+               ounces; (b) White Rain Exotics Sculpting Gel,
+               net weight 5 ounces.  Recall #F-514/515-6.
+CODE           (a) Shipper code 8351V; (b) Shipper code
+               5509V.
+MANUFACTURER   The Gillette Company, Andover, Massachusetts.
+RECALLED BY    The Gillette Company, Boston, Massachusetts,
+               by telephone on April 18, 1996, followed by
+               letter.  Firm-initiated recall ongoing.
+DISTRIBUTION   Illinois, New York, North Dakota, Ohio, Iowa,
+               California.
+QUANTITY       (a) 2,000 cases; (b) 34 cases were
+               distributed.
+REASON         The products are packaged in containers with
+               the incorrect ingredient statement.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II ===========
+_______________
+PRODUCT        Medline Epi-Clenz Instant Antiseptic Hand
+               Cleanser, an OTC liquid for handwashing to
+               decrease bacteria on the skin.  
+               Recall #D-136-6.
+CODE           Lot #5354A.
+MANUFACTURER   Polychem Corporation, New Haven, Connecticut.
+RECALLED BY    Medline Industries, Inc., Mundelein, Illinois,
+               by letter dated April 20, 1996.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       297 cases were distributed; firm estimated
+               that 25 percent of product remained on market
+               at time of recall initiation.
+REASON         Some bottles were mislabeled as TLC Mouth
+               Rinse.
+
+_______________
+PRODUCT        CO2 Compressed Gas.  Recall #D-137-6.
+CODE           Lot numbers:   0940031396      1440041596
+               1040032196     0541031596      1040032596
+               0541040296     1240040396      1340040896
+MANUFACTURER   MG Industries, Inc., Malvern, Pennsylvania.
+RECALLED BY    Manufacturer, by letter April 23, 1996.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Pennsylvania, Maryland, West Virginia,
+               Virginia, Tennessee, Kentucky, Georgia, North
+               Carolina, New Jersey, Bermuda.
+QUANTITY       Undetermined.
+REASON         Presence of trace quantities of HCN (hydrogen
+               cyanide).
+
+                             -5-_______________
+PRODUCT        Carbon Dioxide USP, 50 pound and 7 pound
+               cylinder capacity.  Recall #D-138-6.
+CODE           Lot numbers beginning with the prefix "CLT" or
+               "CFX" and have "96" as the fifth and sixth
+               numerals in the numeric portion of the lot
+               number.
+MANUFACTURER   Sunox, Inc., Charlotte, North Carolina
+               (repacker).
+RECALLED BY    Repacker, by letter sent on May 2, 1996. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   North Carolina, Virginia.
+QUANTITY       Approximately 1,200 cylinders (50 pound
+               capacity) and 159 cylinders (7 pound capacity)
+               were produced.
+REASON         Presence of trace quantities of HCN (hydrogen
+               cyanide).
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III ==========
+_______________
+PRODUCT        Cytarabine Injection 20 mg/ml -- 1000mg/50ml;
+               Cytarabine Injection 20 mg/ml -- 100mg/5ml, Rx
+               drug for IV or subcutaneous use.
+               Recall #D-133-6.
+CODE           Lot #         EXP Date.      
+               5201994       07/97 
+               5211994       11/97
+               5201979       07/97
+               5211979       11/97
+               5221979       11/97.
+MANUFACTURER   Faulding Pharmaceutical Company, David Bull
+               Laboratories, Mulgrave, Victoria 3170,
+               Australia.
+RECALLED BY    Faulding Pharmaceutical Company (Purepac),
+               Elizabeth, New Jersey (responsible firm), by
+               letter dated March 8, 1996.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       32,400 bottles were distributed; firm
+               estimated that 50-60 percent of product
+               remained on market at time of recall
+               initiation.
+REASON         Particulate matter formation (Calcium and
+               Silicate).
+
+_______________
+PRODUCT        Barre-National (a) Bromanate Elixir in 4 ounce
+               bottles, OTC decongestant/antihistamine, under
+               the Albertsons and Janet Lee labels; 
+
+                             -6-               (b) Tussex Cough Syrup, in 4 ounce bottles,
+               OTC cough syrup, cough suppressant, nasal
+               decongestant, expectorant, under the Moore and
+               Major labels.  Recall D-134/135-6.
+CODE           (a) Lot VJ3443, EXP 8/22/96 and VF3262, EXP
+               7/21/96; (b) Lot RF4329, EXP 6/13/97 and
+               RP3864, EXP 3/8/97.
+MANUFACTURER   Barre-National, Inc., Baltimore, Maryland.
+RECALLED BY    Manufacturer, by letter sent on April 26,
+               1996.  Firm-initiated recall ongoing.
+DISTRIBUTION   California, Connecticut, Florida, Michigan,
+               Texas.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Product labeling not in accord with OTC
+               monograph (missing warning statement).
+
+_______________
+UPDATE         Recall #D-036-6, SoloPak Sodium Chloride
+               Injection USP, 0.9% which appeared in the
+               December 13, 1995 Enforcement Report has been
+               extended as follows:  5 ml vials: lot numbers
+               950330, 950741, 951033, 950330, 950741,
+               951033; 10 ml vials:  lot numbers 940923,
+               940960, 940973B, 941043, 941143, 950162,
+               950438, 950643, 950646, 950723, 950746,
+               950805, 950805B, 950834, 950917, 951053,
+               951056. 
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II =======
+_______________
+PRODUCT        Platelets.  Recall #B-393-6.
+CODE           Unit #29133-2740.
+MANUFACTURER   United Blood Services, Chicago, Illinois.
+RECALLED BY    Manufacturer, by telephone on February 12,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       1 unit.
+REASON         Blood product, prepared from a unit of Whole
+               Blood designated as a "difficult" collection,
+               was distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III ======
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-366-6.
+CODE           Unit numbers:  29132-9813, 29133-3453.
+MANUFACTURER   United Blood Services, Chicago, Illinois.
+RECALLED BY    Manufacturer, by telephone on February 8,
+               1996, followed by letter dated February 14,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       2 units.
+                             -7-REASON         Red Blood Cells, stored at room temperature
+               for an unknown amount of time, were
+               distributed.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-395-6.
+CODE           Unit #40GH09296.
+MANUFACTURER   American Red Cross Blood Services, Peoria,
+               Illinois.
+RECALLED BY    Manufacturer, by letter dated October 30,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   California.
+QUANTITY       1 unit.
+REASON         Blood product, corresponding to a unit of Red
+               Blood Cells implicated in a febrile
+               transfusion reaction, was distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II =========
+_______________
+PRODUCT        Sterile Intravenous Administration IV Sets
+               with 1.2 Micron Air Eliminating Filter and
+               Injection Sites:  (a) Catalog No. CC1385-
+               Clave Needle Free Extension Set with 1.2
+               Micron Air Eliminating Filter and Clave
+               Injection Site;
+               (b) Catalog No. NF1385- Safeline Extension Set
+               with 1.2 Micron Air Eliminating Filter and
+               Injection Site;
+               (c) Catalog No. NF3155- 15 Drops/ml Safeline
+               Horizon Pump Primary Additive IV Set with 1.2
+               Micron Filter and 3 Injection Sites;
+               (d) Catalog No. V1716- 15 Drops/ml Vented IV 
+               Set with 1.2 Micron Filter and Injection Site;
+               (e) Catalog No. V5812- Add-On Set with 1.2
+               Micron Air Eliminating Filter and Injection
+               Site; (f) Catalog No. V7112- Intelligent Pump
+               Primary Additive IV Set with 1.2 Micron
+               Filter; (g) Catalog No. V7412- 15 Drops/ml
+               Horizon Pump Primary Additive IV Set with 1.2
+               Micron Filter and 3 Injection Sites.  
+               Recall #Z-640/646-6.
+CODE           All lot numbers where the first 2 digits are
+               F3, F4, or F5.
+MANUFACTURER   McGaw of Puerto Rico, Inc., Sabana Grande,
+               Puerto Rico.
+RECALLED BY    McGaw, Inc., Irvine, California, by letter on
+               January 19, 1996; firm estimated that little,
+               if any, product remained on market at time of
+               recall initiation.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide, Puerto Rico, Canada.
+
+                             -8-QUANTITY       21,145 cases (895,324 units) were distributed.
+REASON         An inadequate bond/design may cause
+               tube/filter separation, resulting in leakage.
+
+_______________
+PRODUCT        TanFit 24 Suntanning Bed.  Recall #Z-724-6.
+CODE           Serial Numbers:  00800002-00800009,
+               00800010-00800016, 00800018-00800027,
+               00800032-00800044.
+MANUFACTURER   Puretan International/Asterisk, Inc., Dallas,
+               Texas.
+RECALLED BY    Manufacturer, by letter November 14, 1995. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       38 units.
+REASON         Eighteen (18) gauge wire was used in the
+               timers in lieu of 12 gauge which caused the
+               timers to shut the lamps off prematurely.
+
+_______________
+PRODUCT        Lumin Laparoscopic Uterine Manipulator
+               Injector, Catalog #MIS-100, used for
+               manipulation of the uterus during diagnostic
+               and surgical procedures.  Recall #Z-727-6.
+CODE           Lot numbers 60283-1 and 60283-2.
+MANUFACTURER   Utah Medical Products, Inc., Midvale, Utah.
+RECALLED BY    Manufacturer, by letter on March 25, 1996. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Arizona, California, Indiana, Kansas, Maine,
+               Michigan, Tennessee, Texas, Virginia, and
+               international.
+QUANTITY       305 units were distributed.
+REASON         The sterility of the device may be compromised
+               due to loss of package integrity.
+
+_______________
+PRODUCT        Puritan Bennett 7200 Series Ventilators,
+               indicated for delivery of gas to patients
+               dependent on artificial respiration:
+               (a) Model No. 7200 shipped domestically;
+               (b) Model No. 7200e shipped domestically;
+               (c) Model No. 7200ae shipped domestically;
+               (d) Model No. 7200e shipped internationally
+               (e) Model No. 7200spe shipped internationally.
+               Recall #Z-742/746-6.
+CODE           2,987 ventilators, each with its own unique,
+               non-sequential serial number.
+MANUFACTURER   Nellcor Puritan Bennett (NPB), Carlsbad,
+               California.
+RECALLED BY    Manufacturer, by letter dated October 2, 1995. 
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+
+                             -9-QUANTITY       2,987 units were distributed.
+REASON         Device contains a defective pressure
+               transducer, causing it to stop ventilation at
+               set parameters.
+
+_______________
+PRODUCT        BioStar Strep A OIA Test, intended for in-
+               vitro diagnostic use as an aid in the
+               diagnosis of group A streptococcal
+               pharyngitis:  (a) Catalog No. GAS30 for the 30
+               Test Kits; (b) Catalog No. GAS100 for the 100
+               Test Kits.  Recall #Z-748/749-6.
+CODE           Lot numbers:  (a) 45031, 45198, 46141, 47133,
+               48034, 48105/7, 49229, 49238, 50060/1, 51013,
+               51054; (b) 44097, 45008, 45032, 45065, 46032,
+               46011, 46140, 46230, 47021/9, 48100/4, 48189,
+               48206, 49082/4, 49227/8, 50001, 50058/9,
+               50177, 50259, 51051/3, 51147/8.
+MANUFACTURER   BioStar, Inc., Boulder, Colorado.
+RECALLED BY    Manufacturer, by letter April 18, 1996.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Firm estimates 125,000 test devices or
+               approximately 1,250 100-test kits were
+               distributed.
+REASON         The test kits may produce false positive
+               results when performed at the maximum assay
+               times stated in the package insert.
+
+_______________
+PRODUCT        Action Cat brand Power Scooter, Three-Wheeled
+               Wheel Chair:  (a) Cat Traditional;  (b) Cat
+               Aviation.  Recall #Z-750/751-6.   
+CODE           (a) All Serial Numbers Beginning With 95F-95L;
+               (b) All Serial Numbers Beginning With 96A.
+MANUFACTURER   Invacare Corporation, Elyria, Ohio.
+RECALLED BY    Manufacturer, by letter dated January 19,
+               1996.  Firm-initiated field correction
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       671 scooters were distributed.
+REASON         The brake key (pin) which connects the motor
+               shaft to the scooter brake may slide out of
+               position causing the brake to become non-
+               functional.
+
+_______________
+PRODUCT        Uroview Diagnostic Imaging Systems.  
+               Recall #Z-752/753-6.
+CODE           Uroview Model 2000 and Uroview Model 2500.
+MANUFACTURER   OEC Medical Systems, Salt Lake City, Utah.
+
+                            -10-RECALLED BY    Manufacturer.  FDA approved the firm's
+               corrective action plan November 24, 1993. 
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       61 units.
+REASON         The devices were found to be in noncompliance
+               with 21 CFR 1032(a) and 21 CFR
+               1020.32(b)(2)(I) in that the x-ray system will
+               produce x-rays without a primary protective
+               barrier and the system's x-ray field will
+               exceed the visible area of the image receptor.
+
+_______________
+PRODUCT        Model 9400 Mobile Fluoroscopy Imaging System. 
+               Recall #Z-754-6.
+CODE           None.
+MANUFACTURER   OEC Medical Systems, Salt Lake City, Utah.
+RECALLED BY    Manufacturer.  FDA approved the firm's
+               corrective action plan November 17, 1993. 
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       767 units.
+REASON         The device was found to be in noncompliance
+               with 21 CFR 1032(c) in that wires in the x-ray
+               control may cause an accidental radiation
+               occurrence (ARO) resulting in the x-ray unit.
+
+_______________
+PRODUCT        Aruba Suntanning Bed.  Recall #Z-755-6.
+CODE           Serial numbers 400327 through 400719.
+MANUFACTURER   Puretan International/Asterisk, Inc., Dallas,
+               Texas.
+RECALLED BY    Manufacturer, by sending replacement knobs
+               with instructions on May 16, 1994.  Firm-
+               initiated field correction complete.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       368 units were distributed.
+REASON         The shaft on timer was too short and this
+               caused the knob of the timer to jam when the
+               temperature increased and expanded the plastic
+               canopy of the device.
+
+_______________
+PRODUCT        Ophthalas 532 Laser System, used in ophthalmic
+               surgery.  Recall #Z-756-6.
+CODE           Model 532.
+MANUFACTURER   Alcon Laboratories, Inc., Irvine, California.
+RECALLED BY    Manufacturer.  FDA approved the firm's
+               corrective action plan May 2, 1996.  Firm-
+               initiated field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       848 units.
+
+                            -11-REASON         The device was defective within 21 CFR
+               1003.2(h)(2) in that the system might
+               inadvertently experience a power jump during
+               treatment.
+
+_______________
+PRODUCT        Tri-Rolls brand Power Scooter, a three-wheeled
+               wheelchair.  Recall #Z-757-6.
+CODE           Codes prior to 93K.
+MANUFACTURER   Invacare Corporation, Elyria, Ohio.
+RECALLED BY    Manufacturer, by letter dated February 21,
+               1994.  Firm-initiated correction complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       5,631 scooters were distributed.
+REASON         Under severe use or heavy abuse tiller spring
+               that turns the tiller throttle can break
+               and/or slip off, due to a metal burr, causing
+               the scooter to remain in drive unless the
+               drive control is manually moved into neutral
+               position.
+
+_______________
+PRODUCT        Hydromat Hydrovalve and Tubing Set for
+               laparoscopic suction and irrigation:
+               (a) Hydromat Hydrovalve & Tubing Set, Catalog 
+               #263101-61, Series 1 Set;
+               (b) Hydromat Hydrovalve & Tubing Set, Catalog
+               #263104-61, Series 4 Set.
+               Recall #Z-764/765-6.
+CODE           Lot Numbers:  (a) 1-082695; (b) 4-082695.
+MANUFACTURER   Infinity Extrusion and Engineering, Inc.,
+               Santa Clara, California.
+RECALLED BY    Karl Storz Endoscopy, Culver City, California,
+               by letter sent on January 30, 1996.  Firm-
+               initiated recall complete.
+DISTRIBUTION   California, Colorado, Florida, Georgia,
+               Kentucky, Massachusetts, Maryland, New York,
+               Ohio, Oklahoma, Pennsylvania, South Carolina,
+               Texas, Virginia, Washington state, West
+               Virginia.
+QUANTITY       720 sets were distributed.
+REASON         Device sterility may be compromised due to a
+               defective packaging seal.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III ========
+_______________
+PRODUCT        Sentinel-Seal Autotransfusion Chest Drainage
+               System (CDU), Catalog #8888-571489, a sterile,
+               single use, prescription device.  
+               Recall #Z-581-6.
+CODE           Lot #94C305X, 94C293X, 94D045X.
+
+                            -12-MANUFACTURER   Sherwood Medical Company, Commerce, Texas.
+RECALLED BY    Manufacturer, by visit beginning on October
+               12, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Belgium, France, Greece, Italy, Spain.
+QUANTITY       2,680 units were distributed.
+REASON         Device is subject to air leak which may occur
+               between the patient connection site and the
+               chest drainage system collection chamber.
+
+_______________
+PRODUCT        Baxter Myelogram Tray, containing an 18 gauge
+               x 3-1/2" Spinal Needle with Stylet and Nine-
+               Holed Aspiration Needle, used to obtain spinal
+               fluid samples and removal of oil-based
+               contrast media during myelograms.  
+               Recall #Z-726-6.
+CODE           Catalog #4320, lot #L6B082.
+MANUFACTURER   Baxter Healthcare Corporation, Mannford,
+               Oklahoma.
+RECALLED BY    Baxter Healthcare Corporation, McGaw Park,
+               Illinois, by letter dated April 19, 1996. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       470 cases were distributed; firm estimated
+               that 50 percent of product remained on market
+               at time of recall initiation.
+REASON         The aspiration cannula may not fit inside the
+               spinal needle as intended.
+
+
+MEDICAL DEVICE SAFETY ALERTS:  ==============================
+_______________
+PRODUCT        Schneider Wallstent Esophageal Prosthesis,
+               used to keep the esophagus of a patient open
+               when there are strictures or fistulas
+               resulting from cancer:
+               (a) Model E38-2040-95, 40mm long;
+               (b) Model E38-2060-95, 60mm long;
+               (c) Model E38-2090-95, 90mm long.
+               Safety Alert #N-012/014-6.
+CODE           All lots.
+MANUFACTURER   Schneider (USA), Inc., Minneapolis, Minnesota.
+ALERTED BY     Manufacturer, by letter March 21, 1996.
+DISTRIBUTION   Nationwide, Argentina, Australia, Canada, Hong
+               Kong.
+QUANTITY       4,577 prostheses were distributed.
+
+
+                            -13-REASON         There is a possibility of increased risk of
+               perforation and bleeding in patients who have
+               received or will receive radiation therapy
+               following stent placement, and to those
+               patients with hiatal hernia and/or gastric
+               prolapse into the esophageal area for stents
+               implanted near the gastroesophageal junction.
+
+                            -14-
+
+
+END OF ENFORCEMENT REPORT FOR MAY 15, 1996.  BLANK PAGES MAY FOLLOW.
+
+                                   ####

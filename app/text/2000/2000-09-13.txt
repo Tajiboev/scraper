@@ -1,0 +1,831 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  05
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      36 captures
+	      17 Oct 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA 
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration, Department of Health and Human Services. 
+It contains information on actions  taken in connection with agency
+Regulatory activities.
+
+
+
+ September 13, 2000                                 00-37 
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+________
+PRODUCT
+Flora brand Sun Dried Tomatoes, in 4-ounce plastic bags.
+Recall #F-810-0.
+CODE
+None.
+MANUFACTURER
+Flora Food Disbributors, Inc., Pompano Beach, Florida (repacker).
+RECALLED BY
+Repacker, by telephone on June 26, 2000.  Completed field correction resulted 
+from sample analysis and 
+follow-up by the New York State Department of Agriculture and Markets.
+DISTRIBUTION
+New York.
+QUANTITY
+1,368 bags were distributed.
+REASON
+Product contains undeclared sulfites.
+
+
+________
+PRODUCT
+Asian Boy (EBQ) brand Lotus Rootlet in Brine, in 15-ounce glass jars.  Recall 
+#F-811-0.
+CODE
+None.
+MANUFACTURER
+Mekong Company, Ho Chi Minh City, Vietman.
+RECALLED BY
+BCN Trading Corporation, Brooklyn, New York, by letter and press release on 
+February 18, 2000.  
+Completed recall resulted from sample analysis and follow-up by the New York 
+State Department of 
+Agriculture and Markets.
+DISTRIBUTION
+New York, Pennsylvania, Massachusetts, Connecticut, 
+New Jersey, District of Columbia.
+QUANTITY
+50 cases (24 jars per case) were distributed.
+REASON
+Product contained undeclared sulfites.
+________
+PRODUCT
+a) Safeway Select Rocky Road Ice Cream; b) Safeway Select Healthy Advantage 
+Rocky Road Low Fat Ice 
+Cream.  Both products sold in half- gallon, round, paper containers.
+Recall #F-813/814-0.
+CODE
+Date Codes: a) 01/03/01; b) 01/02/01.
+MANUFACTURER
+Capitol Heights Ice Cream (Safeway Stores, Inc.), Capitol Heights, Maryland.
+RECALLED BY
+Safeway, Inc., Pleasanton, California, by E-mail on July 14, 2000, and by press 
+release on July 14, 2000.  
+Firm-initiated recall ongoing.
+DISTRIBUTION
+District of Columbia, Maryland, Virginia, Texas, Illinois.
+QUANTITY
+6,510 half-gallon cartons were distributed.
+REASON
+Product contains undeclared cashews, Brazil nuts and peanut oil.
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+________
+PRODUCT
+Cheddar Broccoli Rice and Sauce, in 4.5-ounce packages under the Great 
+Value and Piggly Wiggly labels.
+Recall #F-809-0.
+CODE
+Great Value brand: GP020401, GP020701, GP020801, GP020901, GP030801, 
+GP032301, GP032401, GP032701, GP032801, GP040301, GP040401, GP051801, 
+GP051901, GP052201, GP053101, GP060101, GP060501, GP060601, GP061301, 
+GP061401, GP061501, GP062601, GP62701, GP62801, GP080301, GP080401, 
+GP081001'
+Piggly Wiggly brand: T0067 and T0068.
+MANUFACTURER
+Power Packaging, Inc., Grand Prairie, Texas.
+RECALLED BY
+AC Humko, Memphis, Tennessee, by telephone on August 11, 2000, followed 
+by fax and letter.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+Approximately 55,447 cases (12 per case) Great Value brand and 315 cases 
+of Piggly Wiggly brand were distributed.
+REASON
+Product contained undeclared vermicelli, a pasta containing wheat.
+________
+PRODUCT
+Wang Derm brand Sour Bamboo Shoot, in 64 ounce (4-pound) glass jars.  
+Recall #F-812-0.
+CODE
+None.
+MANUFACTURER
+Wang Derm Exporter LP, Bangkok, Thailand.
+RECALLED BY
+Vasinee Food Corporation, Brooklyn, New York, by telephone on January 20, 
+2000.  Completed recall resulted from sample analysis and follow-up by 
+the New York State Department of Agriculture and Markets.
+DISTRIBUTION
+Massachusetts, New York, Rhode Island.
+QUANTITY
+200 cases (6 jars per case) were distributed.
+REASON
+Product contained undeclared sulfites.
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS 
+II
+________
+PRODUCT
+Sodium Bicarbonate Injection, USP, 8.4% (84 mg/mL), for IV use only, in 
+50 mL single dose vial, Rx for correction of metabolic acidosis and other 
+conditions requiring systemic alkalization.  NDC #63323-006-50. Recall 
+#D-448-0.
+CODE
+Lot #190365 EXP 11/00.
+MANUFACTURER
+American Pharmaceutical Partners, Inc., Melrose Park, Illinois.
+RECALLED BY
+MANUFACTURER, by letter dated July 26, 2000.  Firm-
+initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+37,500 vials were distributed; firm estimated that little if any remains 
+on the market.
+REASON
+Lack of assurance of sterility (particle counts exceeding action level).
+________
+PRODUCT
+Synercid(r) I.V. (Quinupristin and Dalfopristin for injection), 500 mg, 
+in 10 mg single dose vial, lyophilized, Rx indicated for the treatment of 
+patients with serious or life-threatening infections associated with 
+vancomycin-resistant Enterococcus faecium (VREF) bacteremia.
+NDC #0075-9051-10.  Recall #D-450-0.
+CODE
+9G1439     9G1471     9H1854     9J2122     0A1297
+9G1440     9G1438     9H1855     9L2562     0A1316
+9G1470     9G1441     9H1853     0A1298     0A1419.
+MANUFACTURER
+Catalytica Pharmaceuticals, Inc., Greenville, North Carolina.
+RECALLED BY
+Aventis Pharmaceuticals, Inc., Kansas City, Missouri, by letter dated 
+July 20, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide, Spain, Canada.
+QUANTITY
+582,130 vials were distributed.
+REASON
+Lack of assurance of sterility (seal integrity).
+________
+PRODUCT
+SangCya(tm) Oral Solution (Cyclosporine Oral Solution, USP Modified), 100 
+mg/mL, Rx indicated for the prophylaxis of 
+organ rejection in kidney, liver, and heart allogeneic 
+transplants; for severe active, rheumatoid arthritis where treatment with 
+methotrexate is not adequate; and for the treatment of adult 
+nonimmunocompromised patients with severe, recalcitrant, plaque psoriasis 
+who have failed to respond to at least one systemic therapy. NDC #62053-
+359-05.  Recall #D-451-0.
+CODE 
+LOT #          EXP DATE
+2MG69M-------- 06/01/99
+1NC30P-------- 01/01/00
+1NG00M-------- 04/01/00
+1NE00N-------- 03/01/00
+2MH05N-------- 05/01/00
+2MH06M-------- 07/01/00
+2MH06MA------  01/01/01
+2MH07M-------- 08/01/00
+2MH07MA------- 02/01/01
+2MH04N-------- 05/01/00
+2MH52M-------- 08/01/00
+2MH52MA------- 02/01/01
+2MH53M-------- 08/01/00
+2MR63N-------- 02/01/01
+2MR64N- ------ 02/01/01
+2ND22M-- ----- 04/01/01
+2ND22MA------- 10/01/01
+2NE50M-------- 04/01/01.
+MANUFACTURER
+Eli Lilly and Company, Indianapolis, Indiana.
+RECALLED BY
+SangStat Medical Corporation, Fremont, California, by fax on July 10, 
+2000, by mail on July 10 and 11, 2000, by press release on July 10, 2000, 
+followed by telephone and fax.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide, United Kingdom, Germany, Hong Kong, Israel.
+QUANTITY
+15,418 bottles were distributed.
+REASON
+Bioequivalence - Product is not bioequivalent when taken with apple juice.
+________
+PRODUCT
+Butyl-P-Aminobenzoate Injection, (Butamben (2.5% (25 mg/mL), in Methocel 
+E-4, 1%, 10 mL amber vials, Rx compounded parenteral drug.  Recall #D-
+452-0.
+CODE
+0400060, 0400052, 0500130.
+MANUFACTURER
+Medical Center Pharmacy, Fort Worth, Texas.
+RECALLED BY
+Manufacturer, by letter July 5, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Texas.
+QUANTITY
+17 bottles were distributed.
+REASON
+Misbranding - Product on withdrawn list for compounding.
+______
+UPDATE
+Neomycin and Polymyxin B Sulfates Solution for Irragation, USP, USP, 1 mL, ampul 
+(Steris Laboratories, 
+Inc., Phoenix, Arizona), Recall #D-124-0, which appeared in the December 15, 
+1999 Enforcement Report, has 
+been extended to include lot #97K040.
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+________
+PRODUCT
+Etoposide Injection, USP, 20 mg/mL, (100mg/mL), 5 mL multiple dose vial, Rx used 
+in the management of 
+refractory testicular tumors and small cell lung cancer, and must be diluted 
+before I.V. infusion.  NDC 
+#63323-104-05.
+Recall #D-449-0.
+CODE
+Lot #100006 EXP 01/02.
+MANUFACTURER
+American Pharmaceutical Partners, Inc., Melrose Park, Illinois.
+RECALLED BY
+Manufacturer, by letter dated July 27, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+12,021 vials were distributed.
+REASON
+Misbranding - Some vial cartons are missing printed text.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+________
+PRODUCT
+a) Red Blood Cells; b) Cryoprecipitated AHF.  
+Recall #B-1135/1136-0.
+CODE
+Unit #9334252.
+MANUFACTURER
+Medic Regional Blood Center, Knoxville, Tennessee.
+RECALLED BY
+Manufacturer, by letters dated October 14, 1997, and May 22, 1998.  Firm-
+initiated recall complete.
+DISTRIBUTION
+Tennessee.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor who previously tested repeatedly 
+reactive for anti HBc on two 
+separate occasions.
+________
+PRODUCT
+a) Red Blood Cells; b) Fresh Frozen Plasma.  
+Recall #B-1137/1138-0.
+CODE
+Unit #7430231.
+MANUFACTURER
+Carter BloodCare, Bedford, Texas.
+RECALLED BY
+Manufacturer, by letter dated January 2, 2000.  Firm-initiated recall complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor whose health history screening was 
+incomplete at the time of 
+donation.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-1139-0.
+CODE
+Unit #0329001.
+MANUFACTURER
+Community Blood Bank of Erie County, Erie, Pennsylvania.
+RECALLED BY
+Manufacturer, by telephone on April 20, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Pennsylvania.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product had an elevated ALT.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Recovered Plasma.
+Recall #B-1142/1144-0.
+CODE
+Unit #GJ43396.
+MANUFACTURER
+Central Blood Bank, Pittsburgh, Pennsylvania.
+RECALLED BY
+Manufacturer, by fax on November 11 and 15, 1999.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Pennsylvania and Switzerland.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor taking the drug Proscar.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-1147-0.
+CODE
+Unit #22405-7444.
+MANUFACTURER
+United Blood Services, Las Vegas, Nevada.
+RECALED BY
+Blood Systems, Inc., Scottsdale, Arizona, by letter dated May 6, 1999.  Firm-
+initiated recall complete.
+DISTRIBUTION
+Nevada.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who traveled to an area considered 
+endemic for malaria.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-1149-0.
+CODE
+Unit #22408-3951.
+MANUFACTURER
+United Blood Services, Las Vegas, Nevada.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by letter dated October 21, 1999.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Nevada.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who traveled to an area considered 
+endemic for malaria.
+________
+PRODUCT
+Platelets.  Recall #B-1150-0.
+CODE
+Unit Numbers: 16348-3042, 16348-3045, and 16348-3046.
+MANUFACTURER
+Blood Systems, Inc., Jackson, Mississippi.
+RECALLED BY
+Manufacturer, by telephone on July 6, 1999, and by letter dated July 19, 
+1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Mississippi.
+QUANTITY
+3 unit were distributed.
+REASON
+Blood products were manufactured from whole blood that was shipped under 
+unacceptable temperatures.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+________
+PRODUCT
+Red Blood Cells.  Recall #B-1134-0.
+CODE
+Unit #9335878.
+MANUFACTURER
+Medic Regional Blood Center, Knoxville, Tennessee.
+RECALLED BY
+Manufacturer, by letter dated May 16, 1997.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Tennessee.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was labeled with an extended expiration date.
+________
+PRODUCT
+Whole Blood, Autologous.  Recall #B-1146-0.
+CODE
+21R55016 and 21R55017.
+MANUFACTURER
+American Red Cross Blood Services, Portland, Oregon.
+RECALLED BY
+Manufacturer, by telephone on June 27, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Oregon.
+QUANTITY
+2 units were distributed.
+REASON
+Blood products were collected in expired blood collection sets.
+________
+PRODUCT
+Fresh Frozen Plasma.  Recall #B-1151-0.
+CODE
+Unit #16345-8646.
+MANUFACTURER
+Blood Systems, Inc., Jackson, Mississippi.
+RECALLED BY
+Manufacturer, by telephone on January 27, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Mississippi.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was prepared from whole blood with an extended collection time.
+
+________
+PRODUCT
+Allergenic extract, Candida albicans.  Recall #B-1152-0.
+CODE
+Lot #F19K4841.
+MANUFACTURER
+Hollister-Stier Laboratories, LLC, Spokane, Washington.
+RECALLED BY
+Manufacturer, by telephone on June 16, 2000, followed by letter dated June 19, 
+2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Indiana, Arkansas, New Jersey, New York, South Carolina.
+QUANTITY
+12 vials were distributed.
+REASON
+Allergenic extract was not labeled with an expiration date.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS 
+II
+________
+PRODUCT
+Troponin I Immunoassay, used in the quantitative determination of cardiac 
+Troponin I in serum or heparinized 
+plasma and as an aid in the diagnosis of acute myocardial infarction using the 
+ACS:180 and ADVIA Centaur 
+Automated Chemiluminescence System:
+ACS: 180 SYSTEMS AND ADVIA CENTAUR TROPONIN I Part # 110631 ACS:180 Troponin I 
+50T 
+KitPart # 110632 ACS:180 Troponin I 300 KitPart # 116993 Advia Centaur Troponin 
+I 100T KitPart # 
+116994 Advia Centaur Troponin I 500 T Kit.
+Recall #Z-886/889-0.
+CODE
+All lots.
+MANUFACTURER
+Bayer Corporation, Medfield, Massachusetts.
+RECALLED BY
+Manufacturer, by notification titled "Advia Centaur and ACS:180 Troponin I 
+(CTN)..." Publication No. 
+TN00397-40 on May 17, 2000.  Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide, Switzerland, Sweden, the Netherlands, Australia, England, France, 
+Belgium, Korea, Hong Kong, 
+Canada, Greece, New Zealand, Italy, Africa, Poland, Germany.
+QUANTITY
+Undetermined.
+REASON
+Revised instruction for use due to false positive results.
+________
+PRODUCT
+IGT  135mm Wireless Probe, (a pointer), an accessory to Carl Zeiss' image guided 
+surgery system.  Recall 
+#Z-907-0.
+CODE
+Part #:146210, Serial Numbers: 403092, 397894, 397933, 398039.
+MANUFACTURER
+Image Guided Technologies, Inc., Boulder, Colorado.
+RECALLED BY
+Carl Zeiss, Inc., Thornwood, New York, by letter on May 15 and 31, 2000.  
+Firm-initiated field correction ongoing.
+DISTRIBUTION
+Louisiana, Iowa, Canada.
+QUANTITY
+4 units were distributed
+REASON
+Trajectory deviation of wireless probe.  The line of sight trajectory for 
+this pointer follows the angle of the bayonet, while the tracking system 
+trajectory follows the line from the LED�s to the tip of the bayonet in a 
+straight line.
+________
+PRODUCT
+Ultramix Mixing Bowl Single Mix CMW, Catalog #5401-59-000, intended for use in 
+mixing bone cement.  
+Recall #Z-911-0.
+CODE
+Lot #UE5AC4.
+MANUFACTURER
+Depuy Orthopaedics, Inc., Warsaw, Indiana.
+RECALLED BY
+Manufacturer, by letter dated May 8, 2000. Firm-initiated recall complete.
+DISTRIBUTION
+England.
+QUANTITY
+120 bowls were distributed.
+REASON
+There is a possible packaging anomaly that may allow for a non-sterile condition 
+within the packaging or on 
+the outside of the mixing bowl.
+________
+PRODUCT
+a) Precision Link Blood Glucose Data Management System Software Version 2.0 and 
+2.1; b) Precision Link 
+Plus Data Management Software Version 1.0.  The program extracts test results 
+from glucose monitors and 
+converts these results into charts, graphs, and reports.  It provides 
+information to monitor diet, exercise, and 
+medication.
+Recall #Z-913/914-0.
+CODE
+a) Software Versions 2.0 and 2.1; b) Software Version 1.0.
+MANUFACTURER
+Abbott Laboratories, Inc., Bedford, Massachusetts.
+RECALLED BY
+Medisense, Inc., Bedford, Massachusetts, by letter on March 13, 2000.  Firm-
+initiated field correction 
+ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+a) 16,179 units; b) 1,113 units were distributed.
+REASON
+Glucose values greater than 600mg/dl are downloaded incorrectly.
+________
+PRODUCT
+Hewlett Packard (HP) M1465A Airway Adapter, accessory to carbon dioxide gas 
+analyzer, intended to 
+provide a breath-through gas sample cell for making CO2 concentration 
+measurements as part of the HP CO2 
+monitoring systems for patients weighing more than 10 kg.  Recall #Z-921-0.
+CODE
+HP lots with first four digits less than 4016.
+MANUFACTURER
+Hewlett-Packard Company, Andover, Massachusetts.
+RECALLED BY
+Agilent Technologies, Inc., Andover, Massachusetts, by letter dated June 2, 
+2000.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Nationwide, Asia pacific, Canada, Latin America and Europe.
+QUANTITY
+70,000 units were distributed.
+REASON
+Airway adapter out of dimensional specification which may result in air leak.
+________
+PRODUCT
+1524, Tumisensor, all sizes, used for the diagnosis and treatment of erectile 
+dysfunction.  Recall #Z-922-0.
+CODE
+All units distributed after May 9, 2000.
+MANUFACTURER
+Life-Tech Intl., Inc., Stafford, Texas.
+RECALLED BY
+Manufacturer, by letter on June 28, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Utah and Minnesota.
+QUANTITY
+24 units were distributed.
+REASON
+Product does not comply with performance standard: Electrode Lead Wires/Patient 
+Cables, in that the 
+connections are exposed.
+________
+PRODUCT
+Insyte AutoGuard IV Catheter, intravascular catheter to be inserted into the 
+patient's vascular system for short 
+term use to sample blood, monitor blood pressure, or administer fluids 
+intravenously: Catalog No's. 
+381412, 381423, 381433, 381434, 381437, 381444, 381447, 381454, 381457, 
+381512, 381523, 381533, 381534, 381544 .  Recall #Z-923/936-0.
+CODE
+Insyte AutoGuard IV Catheter, 
+Cat. No. 
+381412: Lots 909170, 910152, 910171, 911151, 911164, 912160  
+381423: Lots 909166, 909169, 909171, 909172, 909180, 909181
+        910153, 910158, 910163, 910170, 910172, 910175, 
+        910180, 910186, 911157, 911161, 911163, 912165,  
+        911166, 911173, 911177, 912153, 912155, 912158,  
+        912161, 912174, 912180, 912183, 001152, 001157,  
+        001163, 001171.
+381433: 909173, 910151, 910154, 911158, 912151, 912167. 
+381434: 907176, 907177, 908166, 908175, 908176, 909152,
+        909165, 910157, 910173, 910177, 910182, 911153, 
+        911154, 911169, 911172, 911182, 911185, 912156, 
+        912164, 912166, 912171, 912173, 912176, 912182,
+        001151, 001158, 001170.
+381437: 911176 
+381444: 909178, 910155, 910162, 910164, 910174, 910176, 
+        910179, 911156, 911159, 911165, 911178, 911180, 
+        912152, 912159, 912162, 912169, 912177, 001153,
+        001159, 001164, 001172. 
+381447: 910169, 912172 
+381454: 910156 
+381457: 910167 
+381512: 910166, 910178, 911168, 911175, 912168. 
+381523: 908177, 910161, 910183, 911179, 912154, 912185,
+        001162. 
+381533: 910181, 911152, 912157.
+381534: 908172, 909179, 910165, 911155, 911170, 912179,
+        001160.
+381544: 910184, 911171, 912175.
+MANUFACTURER
+Becton Dickinson Infusion Therapy Systems, Inc., Sandy, Utah.
+RECALLED BY
+Manufacturer, by mail and visit on February 23-24, 2000.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+California, Delaware, Florida, Illinois, Indiana, Massachusetts, Michigan, 
+Missouri, North Carolina, South 
+Dakota, Tennessee, Texas, Washington state, West Virginia, Australia, Brazil, 
+Canada, France, Italy, Japan, 
+Mexico, Spain, United Kingdom.
+QUANTITY
+9,511,350 units were distributed.
+REASON
+Localized skin irritation and infection at catheter insertion site.
+________
+PRODUCT
+SpO2 Extension Cables (Part Number 33 68 433 E53OU AND 33 75 834 E53OU) 
+used with Siemens Patient Monitors: SC7000, SC8000, SC9000XL, and 
+SC6002XL AND MIXED MONITORS-SC9000 or SC5000/6000 with SC7000, SC8000, 
+SC900X, OR SC6002XL.
+Cables are connected to spO2 sensors and to either multimed or neomed 
+pods are then connected to monitors.
+Recall #Z-937-0.
+CODE
+Siemens SpO2 Extension Cables (part numbers: 3368433E53OU-1 
+meter and 3375834e53OU- 2 meters) used with Siemens 
+Infinity Patient Monitor Systems: SC9000XL, SC7000, SC8000, 
+AND SC6002XL and mixed monitors SC9000 OR SC5000/6000 WITH SC7000, SC8000, 
+SC900X, OR 
+SC6002XL.
+MANUFACTURER
+Siemens Medical Systems, Inc., Danvers, Massachusetts.
+RECALLED BY
+Manufacturer, by letter on May 26, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+Undetermined.
+REASON
+Older versions of the Sp02 Extension Cables may result in high Sp02 readings.
+________
+PRODUCT
+Strykeflow Suction Irrigator II, Model/Part #250-070-500,
+Intended for use in laparoscopic general surgery, laparoscopic gynecological 
+surgery and nasal surgery.
+Recall #Z-939-0.
+CODE
+Serial Numbers:  00065832 and 0065812.
+MANUFACTURER
+Stryker Puerto Rico, Arroyo, Puerto Rico.
+RECALLED BY
+Stryker Endoscopy, Santa Clara, California, by 
+Letter and telephone on June 28, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+1,452 units were distributed.
+REASON
+Loss of sterility is possible.
+________
+PRODUCT
+Sandhill Scientific Schuster Anorectal Manometry Probe:
+a) Schuster Anorectal Probe (Adult); b), Schuster Anorectal Probe (Pediatric).
+Recall #Z-940/941-0.
+CODE
+a) Catalog # A86-4050; b) Catalog # A86-5050.
+MANUFACTURER
+Sandhill Scientific, Inc., Highlands Ranch, Colorado.
+RECALLED BY
+Manufacturer, by telephone beginning June 26, 2000.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+California, Colorado, Georgia, Iowa, Indiana, Maryland, New Mexico, Oklahoma, 
+Oregon, Pennsylvania, 
+Tennessee, Texas, Washington state, Switzerland.
+QUANTITY
+481 units were distributed.
+REASON
+Labeling for internal and external balloons was reversed.
+
+
+MEDICAL DEVICE SAFETY ALERT================================
+________
+PRODUCT
+COBE BCT brand Trima Automated Blood Component Collection System, a 
+transportable automated system 
+that separates whole blood from a donor into its major components.
+Safety Alert #N-017-0.
+CODE
+Catalog #91700-000, All serial numbers.
+MANUFACTURER
+GAMBRO BCT, Inc., Lakewood, Colorado.
+RECALLED BY
+Manufacturer, by letter on August 4, 2000, and by letter.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Nationwide, Argentina, Australia, Austria, Belgium, Brazil, Canada, Chili, 
+Dominican Republic, Egypt, 
+France, Germany, Ireland, Israel, Italy, Japan, Korea, Netherlands, Norway, 
+Poland, Portugal, Saudi Arabia, 
+Scotland, South Africa, Spain, Sweden, Switzerland, Turkey, United Kingdom and 
+Uruguay.
+QUANTITY
+450 units.
+REASON
+Failure to follow instructions could cause air embolism.
+
+END OF ENFORCEMENT REPORT FOR SEPTEMBER 13, 2000.  BLANK PAGES MAY 
+FOLLOW. 
+
+####
+
+
+
+
+FDA News Page   |   FDA Home Page 
+                                                          
+  
+
+Office of Public Affairs
+Hypertext uploaded by tg 2000-SEP-12.

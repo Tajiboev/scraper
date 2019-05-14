@@ -1,0 +1,646 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2000
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      22 captures
+	      19 Aug 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+
+October 21, 1998                                     
+98-42
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS
+I
+
+PRODUCT
+Refrigerated cookie dough, retail packages are labeled as
+"Pillsbury Chocolate Chip Cookies" and cases are labeled as
+"Pillsbury Chocolate Chip with Walnuts Cookies." Recall
+#F-009-9.
+CODE
+Retail packages are coded with "For best results use before"
+dates of "NOV 18 J" and "NOV 18 K."  Cases are coded "NOV 18."
+MANUFACTURER
+The Pillsbury Company, Denison, Texas.
+RECALLED BY
+The Pillsbury Company, Minneapolis, Minnesota, by electronic mail
+and by press release on September 8, 1998.  Firm-initiated recall
+ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+8,824 cases (12 18-ounce packages per case) were distributed.
+REASON
+Product contains undeclared walnuts.
+
+RECALLS AND FIELD CORRECTIONS: DRUGS
+-- CLASS II
+
+PRODUCT
+Natacyn Sterile Ophthalmic Suspension (Natamycin Ophthalmic
+Suspension, USP), 5% Anti-Fungal Ophthalmic Suspension, in 15 ml
+glass bottles with sterile dropper assemblies, Rx for topical
+ophthalmic administration.  NDC #0065-0645-15.  Recall
+#D-001-9.
+
+CODE
+Lot numbers:  ADM7 EXP 11/30/98, AH36 EXP 5/31/99, AH9D EXP
+8/31/99.
+MANUFACTURER
+Alcon Laboratories, Inc., Fort Worth, Texas.
+
+RECALLED BY
+Manufacturer, by letter dated September 1, 1998.  
+Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+
+QUANTITY
+5,972 units were distributed; FDA estimates very little, if any
+product remains on the market.
+REASON
+Contamination - Some units may contain particles from the lining
+(glass) of a manufacturing vessel.
+
+
+PRODUCT
+Compressed Medical Oxygen, USP, in D, E, and M-6 aluminum and
+steel cylinders.  Recall #D-002-9.
+CODE
+All lot codes.
+MANUFACTURER
+Omega Medical Equipment, Inc., doing business as Mountain Air
+Services, Pennington Gap, Virginia.
+RECALLED BY
+Manufacturer, by visit on September 23, 1998.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Virginia, Kentucky, Tennessee.
+QUANTITY
+Firm estimated that less than 50 cylinders remained on market at
+time of recall initiation.
+REASON
+Current Good Manufacturing Practice deviations, including but not
+limited to failure to assay for potency.
+
+UPDATE
+Inwood Laboratories, Inc. (Inwood, New York), 
+Recall #D-100/103-8 which appeared in the March 15, 
+1998, April 1 and 15, 1998, July 29, 1998, August 26, 
+1998, September 23, 1998 Enforcement Reports has been 
+extended as follows:
+Propranolol HCl 60 mg Extended Release (ER) Capsules, 100 count
+bottles, Lots 7F047, 7H003, 7K017, 8A043.
+Propranolol HCl 80 mg ER Capsules, 100 count bottles, Lot 7F049.
+Propranolol HCl 120 mg ER Capsules, 100 count bottles, None.
+Propranolol HCl 160 mg ER capsules, 100 count bottles, Lot
+7F062.
+
+
+RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS
+III
+                                 
+PRODUCT
+Advanced Formula Zenate Tablets, Rx prenatal multivitamin/mineral
+supplement tablets, film coated in 30-unit dose cartons. 
+Recall #D-003-9.
+CODE
+Lot #88760 EXP 6/99.
+MANUFACTURER
+Leiner Health Products, Garden Grove, California.
+RECALLED BY
+Solvay Pharmaceuticals, Inc., Marietta, Georgia, by letter dated
+September 30, 1998.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+47,930 cartons were distributed.
+REASON
+Subpotency - Riboflavin and Thiamine Mononitrate.
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS
+II
+                                 
+PRODUCT
+Source Plasma For Use in Manufacturing Non-injectable Products.
+Recall #B-014-9.
+CODE
+Unit numbers: TR-16271, TR-16276, TR-16021, TR-16095, TR-16102,
+TR-16124, TR-16132, TR-16176, TR-16179, TR-13871, TR-13913,
+TR-14494, TR-14774, TR-15068, TR-15277, TR-15664, TR-15670.
+MANUFACTURER
+Trimar Hollywood, Inc., Reseda, California.
+RECALLED BY
+Manufacturer, by letter dated August 7, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+California and Texas.
+QUANTITY
+17 units were distributed.
+REASON
+Blood products tested negative for the antibody to the human
+immunodeficiency virus (HIV-1/2), but were collected from a donor
+who on several occasions had previously tested repeatedly
+reactive for the antibody, Western Blot Indeterminate or
+negative.
+
+                                 
+PRODUCT
+a) Red Blood Cells; b) Recovered Plasma.  
+Recall #B-015/016-9.
+
+CODE
+Unit #C02749.
+
+MANUFACTURER
+Blood Centers of the Pacific-Peninsula South Bay, Burlingame,
+California.
+
+RECALLED BY
+Manufacturer, by letter and or fax dated either May 13, 1998 or
+April 20, 1998.  Firm-initiated recall complete.
+
+DISTRIBUTION
+California.
+
+QUANTITY
+1 unit of each component was distributed.
+
+REASON
+Blood products were collected from a donor who had a tattoo
+within 12 months of donation.
+
+PRODUCT
+a) Red Blood Cells; b) Fresh Frozen Plasma; c) Platelets;
+d) Platelets, Pheresis; e) Recovered Plasma.  
+Recall #B-019/023-9.
+CODE
+Unit numbers:  a) 03V78812, 03G27943, 03M44233, 03FC15556,
+03FC20195, 03M61766, 03FT10967, 03FC25483, 03G53472, 03FL37839 
+b) 03M44233, 03M61766, 03FT10967, 03FC25483
+c) 03V78812, 03G27943, 03M44233, 03FC15556, 03FV01385, 03FC20195,
+03M61766, 03FT10967, 03FC25483, 03G53472, 03FL37839
+d) 03P67256, 03P68999, 03P75118, 03P76163, 03P76967, 03P79776
+e) 03V78812, 03G27943, 03FC15556, 03FV01385, 03FC20195, 03G53472,
+03FL37839.
+MANUFACTURER
+American Red Cross Blood Services, Atlanta, Georgia.
+RECALLED BY
+Manufacturer, by letter dated April 25, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Georgia and Massachusetts.
+QUANTITY
+a) 10 units; b) 4 units; c) 11 units; d) 6 units; e) 7 units were
+distributed.
+REASON
+Blood products which tested negative for the antibody to the
+human immunodeficiency virus (HIV-1/2), but were collected from a
+donor who had previously tested repeatedly reactive for the
+antibody, Western Blot indeterminate.
+
+PRODUCT
+Red Blood Cells.  Recall #B-025-9.
+
+CODE
+Unit #18214-4858.
+MANUFACTURER
+United Blood Services, Cheyenne, Wyoming.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by telephone on
+February 6, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Wyoming.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who reported living in
+an area designated as endemic for malaria.
+
+PRODUCT
+Red Blood Cells.  Recall #B-026-8.
+CODE
+Unit #12428-9229.
+MANUFACTURER
+United Blood Services, Albuquerque, New Mexico.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by telephone on April
+6, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+New Mexico.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood products were collected from a donor who reported travel to
+an area designated as endemic for malaria.
+
+PRODUCT
+a) Red Blood Cells; b) Platelets.  Recall #B-027/028-9.
+CODE
+Unit numbers:  a) 01KG29821, 01E24426; b) 01KG29821.
+MANFACTURER
+American Red Cross Blood Services, Rochester, New York.
+RECALLED BY
+Manufacturer, by letter dated December 30, 1997.  Firm-initiated
+recall complete.
+DISTRIBUTION
+New York.
+QUANTITY
+a) 2 units; b) 1 unit.
+REASON
+Blood products were collected from a donor taking the drug
+Purinethol. 
+
+
+PRODUCT
+Platelets, Pheresis.  Recall #B-029-9.
+CODE
+Unit #4170964B.
+MANFACTURER
+Blood Bank of Alaska, Anchorage, Alaska.
+RECALLED BY
+Manufacturer, by telephone and fax on June 3, 1998. 
+Firm-initiated recall complete.
+DISTRIBUTION
+Alaska.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product had an unacceptable platelet count.
+
+
+PRODUCT
+Platelets, Pooled.  Recall #B-030-9.
+CODE
+Unit #P64000.
+MANFACTURER
+Carter Blood Center, doing business as Carter BloodCare, Bedford,
+Texas.
+RECALLED BY
+Manufacturer, by letter dated August 17, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product corresponded to a unit of clotted red blood
+cells.
+
+
+PRODUCT
+Fresh Frozen Plasma.  Recall #B-031-9.
+CODE
+Unit #12412-4424.
+MANFACTURER
+United Blood Services, Albuquerque, New Mexico.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by telephone on July
+18, 1997, followed by letter on July 31, 1997.  Firm-initiated
+recall complete.
+DISTRIBUTION
+New Mexico.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product corresponded to a unit of clotted red blood
+cells.
+
+
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Cryoprecipitate; d) Plasma,
+Cryo Poor; e) Recovered Plasma.  Recall #B-032/036-9.
+CODE
+Unit numbers:  a) KF24046, KF23109, KQ11430, KQ15925, KQ10330;
+b) KF24046, KQ11430; c) KQ15925, KQ10330; d) KQ15925, KQ10330;
+e) KF24046, KF23109, KQ11430.
+MANFACTURER
+Virginia Blood Services, Richmond, Virginia.
+RECALLED BY
+Manufacturer, by letter dated September 7, 1998.  Firm-initiated
+recall ongoing.
+DISTRIBUTION
+California, Virginia, Switzerland.
+QUANTITY
+a) 5 units; b) 2 units; c) 2 units; d) 2 units; e) 3 units were
+distributed.
+REASON
+Blood products were collected from a donor with a history of
+jaundice.
+
+
+PRODUCT
+a) Fresh Frozen Plasma; b) Platelets.  Recall #B-039/040-9.
+CODE
+Unit #01LV11764.
+MANFACTURER
+American Red Cross Blood Services, Buffalo, New York.
+RECALLED BY
+American Red Cross Blood Services, Rochester, New York, by
+telephone on January 2 and 15, 1998, and or by letter dated
+January 15, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+New York.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products corresponded to a unit of clotted red blood
+cells.
+
+
+PRODUCT
+a) Red Blood Cells; b) Platelets.  Recall #B-042/043-9.
+CODE
+Unit #KH87772.
+MANFACTURER
+Virginia Blood Services, Richmond, Virginia.
+RECALLED BY
+Manufacturer, by letter dated September 15, 1998.  
+Firm-initiated recall ongoing.
+DISTRIBUTION
+Virginia.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor with a history of
+cancer.
+
+
+PRODUCT
+Red Blood Cells.  Recall #B-057-9.
+CODE
+Unit numbers:  FF47286, FF44179, and FF41835.
+MANFACTURER
+Blood Centers of the Pacific-Peninsula South Bay, Burlingame,
+California.
+RECALLED BY
+Manufacturer, by telephone on various dates.  Firm-initiated
+recall complete.
+DISTRIBUTION
+California.
+QUANTITY
+3 units were distributed.
+REASON
+Blood products were collected from a donor who traveled to an
+area considered endemic for malaria.
+
+
+PRODUCT
+a) Red Blood Cells; b) Fresh Frozen Plasma.  Recall
+#B-058/059-9.
+CODE
+Unit #FF37263.
+MANFACTURER
+Blood Centers of the Pacific-Peninsula South Bay, Burlingame,
+California.
+RECALLED BY
+Manufacturer, by telephone on December 27, 1996.  Firm-initiated
+recall complete.
+DISTRIBUTION
+California.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor taking the drug,
+Proscar.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS
+III
+
+PRODUCT
+Red Blood Cells.  Recall #B-038-9.
+CODE
+Unit #FF-48918.
+MANFACTURER
+Blood Centers of the Pacific-Peninsula South Bay, Burlingame,
+California.
+RECALLED BY
+Manufacturer, by telephone on June 16, 1997.  Firm-initiated
+recall complete.
+DISTRIBUTION
+California.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was labeled with an extended expiration date.
+
+
+PRODUCT
+Red Blood Cells.  Recall #B-041-9.
+CODE
+Unit #01LV11764.
+MANFACTURER
+American Red Cross Blood Services, Buffalo, New York.
+RECALLED BY
+American Red Cross Blood Services, Rochester, New York, by
+telephone on January 2 and 15, 1998, and or by letter dated
+January 15, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+New York.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood products corresponded to a unit of clotted red blood
+cells.
+
+RECALLS AND FIELD CORRECTIONS: 
+DEVICES -- CLASS III
+
+PRODUCT
+Abbott AxSYM B12 Reagent Pack (Dual Pack), list 3C79-20 a
+microparticle enzyme intrinsic factor assay for the quantitative
+determination of Vitamin B12 in human serum or plasma on the
+AxSYM System.  Recall #Z-056-9.
+CODE
+Kit Lot 39039M400 EXP 5/7/98.
+MANFACTURER
+Abbott Laboratories, Diagnostics Division, Abbott Park,
+Illinois.
+RECALLED BY
+Manufacturer, by telephone on February 27, 1998 - March 4, 1998,
+followed by letter dated February 27, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Arkansas, California, Florida, Georgia, Illinois, Kansas,
+Kentucky, Louisiana, Minnesota, New Jersey, New York, North
+Carolina, Ohio, Pennsylvania, South Carolina, Texas, Vermont,
+Canada.
+QUANTITY
+119 kits were distributed.
+REASON
+The two reagent packs that make up AxSYM B12 Dual Pack have the
+reagents in the wrong orientation.  The reagents that should have
+been in Reagent Pack A are in Reagent Pack B and vice versa.
+
+
+PRODUCT
+Abbott Vision Chem Controls Kit, list 1433-02 used for verifying
+the performance of specific Chemistry tests on the Abbott Vision 
+System.  Recall #Z-057-9.
+CODE
+Kit lot 39716M201 EXP 7/19/98.
+MANFACTURER
+Medical Analysis Systems Inc., Camarillo, California. 
+RECALLED BY
+Abbott Laboratories, Diagnostics Division, Abbott Park, Illinois,
+by "Important Product Information" letters dated 4/13/98.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Nationwide, Japan, Brazil, Australia, Germany and Italy.
+QUANTITY
+779 kits were distributed.
+REASON
+The Chem Control I failed high for the Amylase, Cholesterol,
+Glucose and Triglycerides analytes.
+
+
+RECALLS AND FIELD CORRECTIONS: VETERINARY - CLASS
+I
+
+PRODUCT
+Horse feed products, in 50 pound bags:  a) Farr Better Feeds
+PERFORM; b) Farr Better Feeds DEVELOP.  Recall #V-051/052-8.
+CODE
+Lot #142.
+MANFACTURER
+Cargill, Inc./Nutrena Feeds, Stockton, California.
+RECALLED BY
+Manufacturer, by visit on June 22, 1998.  Firm-initiated recall
+ongoing.
+DISTRIBUTION
+California, Arizona, Nevada, Oregon.
+QUANTITY
+273 bags were distributed.
+REASON
+Feeds contaminated with salinomycin.
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -
+CLASS II
+
+PRODUCT
+Non-medicated feeds for layer hens, 25 and 50 lbs bags:
+a) Blue Seal Layer Pellets; b) Blue Seal Layer Mash.
+Recall #V-001/002-9.
+CODE
+a) Code dates 225N8 thru 246N8; b) Code dates 225N8 thru
+240N8.
+MANFACTURER
+Blue Seal Feeds, Inc., Bow, New Hampshire.
+RECALLED BY
+Manufacturer, by telephone on September 10-11, 1998, followed by
+visits on September 12, 14, and 15, 1998.  Firm-initiated recall
+ongoing.
+DISTRIBUTION
+New Hampshire, Massachusetts, Maine, Rhode Island,
+Connecticut.
+QUANTITY
+a) 162.5 tons; b) 41.0 tons were distributed.
+REASON
+A complaint of lowered egg production due to the protein level of
+10.8% instead of the guaranteed 15% on the feed tag. 
+
+
+END OF ENFORCEMENT REPORT FOR OCTOBER 21, 1998.  BLANK PAGES MAY
+FOLLOW.
+
+####

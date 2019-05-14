@@ -1,0 +1,432 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  May
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      29 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+06/07/1995
+
+ ENFORCEMENT REPORT FOR 06/07/95 
+
+June 7, 1995                                                     95-23
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        Aunt Jemima Original Syrup, made with 5% Real Maple Syrup. 
+               Recall #F-666-5.
+CODE           Bottle code: 4GM14K, 4GM15K; 
+               Case Code:  NOV 14 94 GM, NOV 15 94 GM
+MANUFACTURER   E.D. Smith-Gem, Inc., Byhalia, Mississippi.
+RECALLED BY    The Quaker Oats Company, Chicago, Illinois, by telephone and
+               fax May 5, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Alabama, Georgia, New Jersey, Texas, Oklahoma, Tennessee.
+QUANTITY       2,474 cases (9 bottles per case) were distributed; firm
+               estimated that 50 percent of product remained on market at
+               time of recall initiation.
+REASON         Yeast contamination.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Indomethacin Extended Release Capsules USP 75 mg, Rx anti-
+               inflammatory.  Product lot 4D016 was packaged, labeled and
+               distributed for a single customer bearing customer label. 
+               Lots 4C017 and 4C139 were distributed under the Inwood and 7
+               different customer labels: Rugby, Major, H.L. Moore, Parmed,
+               Schein, Lemmon, Goldline, United Research and Geneva. 
+               Recall #D-176-5.
+CODE           Lot numbers:  4C017, 4C139, 4D016, EXP 11/95.
+MANUFACTURER   Inwood Laboratories, Inwood, New York.
+RECALLED BY    Manufacturer, by letter May 3, 1995.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       16,536 60-capsule bottles of lot 4C139; 37,083 60-capsule
+               bottles of lot 4D106; 9,716 100-capsule bottles of lot
+               4C017; and 7,000 100-capsule bottles of lot 4D016 were
+               distributed.
+REASON         Product does not meet dissolution specifications.
+
+_______________
+PRODUCT        Metoclopramide Tablets, USP 5 mg, in 5 unit dose size
+               blister packs, Rx antiemetic.
+               Recall #D-177-5.
+CODE           Lot number on blister packs 3546-002 EXP 5/96.
+MANUFACTURER   Biocraft Laboratories, Inc., Elmwood Park, New Jersey.
+RECALLED BY    Vangard Labs, Inc., Glasgow, Kentucky, by letter May 9,
+               1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       367 blister packs were distributed.
+REASON         Subpotency.
+
+_______________
+PRODUCT        1000 mg Dobutamine HCl in 5% Dextrose Injection (4000
+               mcg/ml) 250 ml, indicated for the short-term treatment of
+               adults with cardiac decompensation due to depressed
+               contractility.  Recall #D-178-5.
+CODE           Lot #PS026948 EXP 5/31/95.
+MANUFACTURER   Baxter Healthcare Corporation, Jayuya, Puerto Rico.
+RECALLED BY    Manufacturer, by letter May 15, 1995.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       10,350 units were distributed.
+REASON         A viaflex container of 1000 mg strength of Dobutamine and
+               Dextrose was found mislabeled as 500 mg Dobutamine/Dextrose. 
+               The overpouch label was correct.
+
+_______________
+PRODUCT        Oxygen, USP, transfilled into "E" size cylinders, under the
+               following labels:  Exeter Community Medical Supply,
+               Portsmouth Community Medical Supply, and Medicine Shoppe
+               Pharmacy.  Recall #D-180-5.
+CODE           None.  All transfilled cylinders. 
+MANUFACTURER   Wesco, Inc., doing business as Welders Supply Cryosource
+               Specialty Gases, Billerica, Massachusetts.
+RECALLED BY    Portsmouth Community Medical Supply, Exeter, New Hampshire,
+               by visit on or about May 4, 1995, followed by letter May 30,
+               1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   New Hampshire, Massachusetts, Maine.
+QUANTITY       Approximately 50 cylinders were distributed.
+REASON         Current good manufacturing practice deficiencies.
+
+                                    -2-_______________
+PRODUCT        Levothyroxine Sodium USP, (a) 0.1; (b) 0.125; (c) 0.15; (d)
+               0.2; (e) 0.3 mg Tablets, in bottles of 1,000, indicated as
+               replacement or substitution therapy for diminished or absent
+               thyroid function, Rx drug under the Rugby label.  
+               Recall #D-181\185-5.
+CODE           Lot Numbers     EXP Dates    Lot Numbers  EXP Dates
+               0.1 mg   303PR007    3/95         303PR028     4/95
+                        304PR009    5/95         306PR001     6/95
+                        306PR002    7/95         307PR004     8/95
+                        307PR013    8/95         308PR006     8/95
+                        308PR007    9/95         309PR013     10/95
+                        309PR015    10/95        310PR007     10/95
+                        310PR008    11/95        310PR022     11/95
+                        310PR023    11/95        310PR024     11/95
+                        311PR011    12/95        311PR012     12/95
+                        311PR013    12/95        401PR005     2/96
+                        401PR006    2/96         402PR008     2/96
+                        403PR005    3/96
+               0.15 mg  301PR014    2/95         303PR017     3/95
+                        303PR020    4/95         304PR015     4/95
+                        305PR008    6/95         306PR005     6/95
+                        306PR006    6/95         307PR007     8/95
+                        307PR008    8/95         308PR008     9/95
+                        308PR009    9/95         309PR012     10/95
+                        309PR016    10/95        310PR012     11/95
+                        310PR013    11/95        311PR008     11/95
+                        311PR021    12/95        311PR022     12/95
+                        401PR007    1/96         402PR006     3/96
+                        402PR007    3/96         403PR011     4/96
+                        403PR012    4/96         
+               0.2 mg   303PR015    4/95         306PR008     7/95
+                        308PR012    9/95         311PR007     11/95
+                        312PR001    12/95        402PR012     3/96
+               0.3 mg   304PR016    5/95         308PR001     8/95
+                        311PR006    11/95        
+               0.125 mg 304PR001    4/95         308PR002     8/95
+                        311PR009    12/95        401PR014     2/96
+                        402PR013    3/96.
+MANUFACTURER   Chelsea Laboratories Caribe, Inc., Bayamon, Puerto Rico.
+RECALLED BY    Manufacturer, by letter February 22, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Georgia.
+QUANTITY       140,035 units were distributed.
+REASON         Potency not assured through expiration date.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Triamcinolone Acetonide 0.1% Ointment, in 1 pound jars, Rx
+               constituent of a class of primary synthetic steroids used as
+               anti-inflammatory and antipruritic agents under the Rugby
+               label.  Recall #D-179-5.
+                                    -3-CODE           Control number V756 EXP 6/97.
+MANUFACTURER   Clay Park Laboratories, Inc., Bronx, New York.
+RECALLED BY    Manufacturer, by letter May 10, 1995.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Georgia.
+QUANTITY       1,923 jars were distributed.
+REASON         Some units of Triamcinolone Cream 0.1% were mislabeled as
+               Triamcinolone Ointment 0.1%.
+
+_______________
+UPDATE         Estratab (Esterified Estrogens Tablets, USP), 1.25 mg,
+               Recall #D-061-5, manufactured by Solvay Pharmaceuticals,
+               Baudette, Minnesota, which appeared in the February 15, 1995
+               Enforcement Report is being extended to include lot #84371.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Huber Needles and Infusion Sets, with or without Y
+               connectors, with 19", 20" and 22" needle gauges and needle
+               lengths of 1/2", 5/8", 3/4", 1", 1-1/4", or 1-1/2".  Needles
+               are either straight or right angle, color varies, depending
+               on the size of the needle.  Needle assemblies are used to
+               administer continuous and/or bolus infusions of pain control
+               medications, chemotherapeutic agents and parenteral
+               pharmaceuticals under the following labels:  Noncor Port
+               Infusion Set, Non-Coring Needle 90 Bend, Winged Infusion Set
+               with 90 Huber Needle, Non-Coring (Huber) Needle, Winged
+               Infusion.  Several devices are also sold in bulk under the
+               Harmac label.  Recall #Z-780-5.
+CODE           Part numbers:  B191+, B201+, B221+, B223+, IS191, IS191+,
+               IS193, IS193+, IS201, IS201+, IS203, IS203+, IS221, IS221+,
+               IS223, IS223+, IS225+, PIS191, PIS191+, PIS193, PIS193+,
+               PIS201, PIS201+, PIS2015+, PIS203, PIS203+, PIS221. PID221+,
+               PIS223, PIS223+, PIA225+, DT01, DT03, DT04, DT05, DT06,
+               DT07, DT08, DW04, DW05, DW06, DZ01, DZ02, EC03, EC05,
+               H2476001, HE0101, HE0K01, HE1D00, HE4C03, HE4K03, HE8405,
+               HE8C05, HEAC03, HNW1910, HNW1975, HNW2075, HNW2210, HNW2275,
+               IDM1910, IDM1910Y, IDM2275, IDM2010, IDM2010Y, IDM2075,
+               IDM2075Y, IDM2210, IDM2275, IDM2275Y, IPA-1910, IPA-2010,
+               IPA-2075, OKI9205, OKI9405, OKI9C05, OKI9105.
+               Lot Numbers:  6338-06, 6338-07, 6774-03, 6774-06, 6775-01
+               through 6775-05, 6775-07, 6832-04, 7070-01, 7070-02, 7125-
+               01A, 7127-01, 7138-04, 7138-05, 7225-01, 7225-02, 7237-02,
+               7239-01, 7246-01, 7268-01, 7290-01, 7328-01, 7328-02, 7340-
+               01, 7340-02, 7370-01 through 7370-04, H161401, H166405,
+               H174403, H174408, H174410, H202401, H202403, H202404,
+               H202408, H203402, H203403, H203405, H203406, H203411,
+               H203412, H203415, H203416, H223401, H223403, H223404,
+               H223408, H231401, H231402, H231403, H231404, H231408,
+               H231409, H231411, H231413, H231414, H231415, H231416, 
+
+                                    -4-               H231417, H213419, H231420, H231421, H231424, H231425,
+               H231426, H231427, H231428, H231430, H242401, H252401 through
+               H252409, H252412 through H252416, H264401, H264404, H264405,
+               H264406, H264407, H264408, H264409, H264411, H264412,
+               H270401, H270402, H270404, H270405, H270406, H270407,
+               H270408, H277403, H277404, H277408, H277409, H277414,
+               H277417, H278402, H285402, H285403, H285406, H285407,
+               H290403, H290404, H290405, H290407, H290408, H290409,
+               H290410, H290411, H290412, H293402, H298403, H298404,
+               H298405 through H298408, H306401, H306403, H306404, H306405,
+               H306406, H312401, H312402, H312403, H312404, H319401,
+               H319402, H319403, H319404, H326402, H326403, H333402,
+               H333403, H333404, H333405, H333406, H333408, H333409,
+               H334402, H334403, H334404, H334405, H334406, H347401.
+MANUFACTURER   Needle Specialty Products Corporation, Boyle, Mississippi
+               (component).
+RECALLED BY    Harmac Medical Products, Inc., Buffalo, New York, by letters
+               of March 6 and 31, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Florida, Kentucky, Michigan, Pennsylvania, Switzerland,
+               Italy, Germany, France, Japan.
+QUANTITY       399,336 units were distributed.
+REASON         Incidents have been reported of a possible problem due to
+               needle occlusion caused by a manufacturing defect.
+
+_______________
+PRODUCT        Chemspor 2 Chemical and Biological Indicators, a BI for
+               monitoring steam sterilization processes in wet
+               environments: 
+               (a) Chemspor 2 Chemical and Biological Indicator, 100
+               Ampules per box, Reorder #NA230; (b) Chemspor 2 Chemical and
+               Biological Indicator, 25 Ampules per Box, Reorder #NA220;
+               (c) Chemspor 2 Chemical and Biological Indicator, 3 Ampules
+               per box (sampler), Reorder #NA225.  Recall #Z-790/792-5.
+CODE           All lots within expiration.  Lots C20013, C20014, C20015,
+               C20016.
+MANUFACTURER   AMSCO International, Inc., Apex, North Carolina.
+RECALLED BY    American Sterilizer Company, Erie, Pennsylvania, by letters
+               April 18, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       2,111 boxes are subject to recall.
+REASON         The product failed to meet the reduced incubation claim for
+               48 hours and the firm failed to file a 510(k) submission for
+               the reduced incubation time.
+
+_______________
+PRODUCT        Gambro LunDia Alpha 600 Dialyzer.  Recall #Z-796-5.
+CODE           Catalog #N01848004, Lot #5-0505-N.
+MANUFACTURER   Cobe Renal Care, Inc., Newport News, Virginia.
+RECALLED BY    Cobe Renal Care, Inc., Lakewood, Colorado, by telephone May
+               1-2, 1995, followed by letter.  Firm-initiated recall
+               ongoing.
+
+                                    -5-DISTRIBUTION   California, Connecticut, New Jersey, New York, Pennsylvania,
+               Virginia, Washington state, West Virginia, Washington, D.C.
+QUANTITY       331 cases were distributed.
+REASON         The integrity of the sterile barrier may have been
+               compromised due to exposure to adverse weather.
+
+_______________
+PRODUCT        Gambro LunDia Alpha 700 Dialyzer.  Recall #Z-797-5.
+CODE           Catalog #N01849004, Lot #4-0766-N.
+MANUFACTURER   Cobe Renal Care, Inc., Newport News, Virginia.
+RECALLED BY    Cobe Renal Care, Inc., Lakewood, Colorado, by telephone May
+               4-5, 1995, followed by letter.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Delaware, Florida, North Carolina, New Jersey, New York,
+               Pennsylvania, Tennessee, Virginia, Washington, D.C..
+QUANTITY       300 cases were distributed.
+REASON         The seal plugs were manufactured without a bevel resulting
+               in blood and/or dialysate leaks.
+
+_______________
+PRODUCT        Yingling brand facial stimulating probes, used in
+               conjunction with Nerve Integrity Monitor-2 and Nerve
+               Integrity Monitor-2 XL Systems, used to stimulate exposed
+               facial motor nerves in order to identify the nerve's
+               location for the surgeon:
+               (a) Monopolar Stimulating Probe Package, Model 82-25250;
+               (b) Probe Tip Dispenser Box, Model 82-25205.
+               Recall #Z-815/816-5.
+CODE           All serial numbers.
+MANUFACTURER   XOMED Surgical Products, Jacksonville, Florida.
+RECALLED BY    Manufacturer, by letter on or about December 9, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   California, Michigan, Washington State, Hawaii, France,
+               England.
+QUANTITY       53 units were distributed.
+REASON         There may be defects in the products which could cause
+               intermittent functioning of the probe.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        MCCoy's 5A Medium Modified Cell Culture Medium:
+               (a) Catalog #16600-017; (b) Catalog #16600-025.
+               Recall #Z-799/800-5.
+CODE           Lot #16Q9348 EXP 11/30/95.
+MANUFACTURER   Life Technologies, Ltd., Paisley, Scotland.
+RECALLED BY    Life Technologies, Inc., Grand Island, New York, by letter
+               March 28, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       (a) 597 units; (b) 1,418 units.
+REASON         Possible bacterial contamination in the above referenced
+               lot.
+
+                                    -6-_______________
+PRODUCT        Software for the Electra 1000C Automatic Coagulation Timers. 
+               Timers are used to test different chemical clotting factors
+               using human blood plasma:  (a) Software for the Electra
+               Model 1000C, Automated Coagulation Timers; (b) Software for
+               the Electra Model No 1000C Automated Coagulation Timers with
+               Bar Code.  Recall #Z-801/802-5.
+CODE           Software 3.2 and declining numerical versions for any 1000C
+               and 1000C with Bar Code Station models.
+MANUFACTURER   Medical Laboratories Automation Inc. (MLA), Pleasantville,
+               New York.
+RECALLED BY    Manufacturer, by letter March 23, 1993.  Firm-initiated
+               field correction complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       1,415 units were distributed.
+REASON         The calculated values for both assays are incorrectly
+               reported under the area designated for the print out of the
+               results.  The second software bug covers a software error
+               associated with the use of control samples for the Plasma
+               Reagent Rack (PRR).
+
+
+                                    -7-
+
+END OF ENFORCEMENT REPORT FOR JUNE 7, 1995.  BLANK PAGES MAY FOLLOW.
+
+
+                                   ####

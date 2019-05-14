@@ -1,0 +1,637 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      32 captures
+	      05 May 1997 - 18 Oct 2015
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+March 12, 1997                                          97-11
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I ============
+_______________
+PRODUCT        President's Choice brand: (a) Bittersweet
+               Chocolate Bars, 17.6 ounces; (b) Milk
+               Chocolate Bars, 17.6 ounces.  
+               Recall #F-252/253-7.
+CODE           All Lots.
+MANUFACTURER   Societe Alimentaire du Forez, St. Etienne,
+               France.
+RECALLED BY    President's Choice International, Toronto,
+               Ontario, Canada, by E-mail followed by letter
+               dated December 30, 1996. Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Illinois, Massachusetts, New York, Oregon,
+               Texas.
+QUANTITY       (a) 1,277 cases (24 bars per case); (b) 895
+               cases (24 bars per case) were distributed.
+REASON         Some candy bars may contain undeclared
+               hazelnuts or almonds.
+_______________
+PRODUCT        Snow Crab Clusters, frozen, in 20 pound cases. 
+               Recall #F-254-7.
+CODE           Master carton coded JA120796.
+MANUFACTURER   P Janes & Sons Ltd., Hants Harbour,
+               Newfoundland, Canada.
+RECALLED BY    Slade Gorton & Company, Inc., Boston,
+               Massachusetts, by letter issued December 26,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,337 cases were distributed.
+REASON         Product may be contaminated with Listeria
+               monocytogenes.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II ===========
+_______________
+PRODUCT        Glory Foods brand Southern Style String Beans,
+               & Potatoes, pre-seasoned, in 27 ounce cans. 
+               Recall #F-243-7.
+CODE           Lot numbers:  KD16X/KPGL, KD17X/KPGL,
+               KD18X/KPGL. 
+MANUFACTURER   McCall Farms, Inc., Effingham, South Carolina.
+RECALLED BY    Manufacturer, by press release on May 10,
+               1996, and by telephone and letter on or about
+               May 2, 1996.  Firm-initiated recall complete.
+DISTRIBUTION   Georgia, Kentucky, Ohio, Michigan, Tennessee,
+               North Carolina, Maryland, New Jersey.
+QUANTITY       3,678 cases, 24 cans per case were
+               distributed.
+REASON         Product was contained in swollen cans and was
+               underprocessed.
+
+_______________
+PRODUCT        Seagull brand Green Mango Sliced in Brine, in
+               16 ounce glass jars.  Recall #F-244-7.
+CODE           All codes including TG-10.
+MANUFACTURER   Thai World Import & Export Company Ltd.,
+               Yannawa Bangkok, Thailand.
+RECALLED BY    Hong Thai Foods Corporation, Brooklyn, New
+               York (importer), by letter January 10, 1997. 
+               Completed recall resulted from sample analysis
+               and follow-up by the New York State Department
+               of Agriculture and Markets.
+DISTRIBUTION   New York, New Jersey, Illinois, District of
+               Columbia.
+QUANTITY       40 cases (24 jars per case) were distributed.
+REASON         Product contains undeclared sulfites and
+               undeclared FD&C Yellow No. 5.
+
+_______________
+PRODUCT        Crystal Springs Pure Drinking Water, in 1
+               gallon plastic jugs.  Recall #F-245-7.
+CODE           35496, 36696, 00297, 00697, 00797, 00997,
+               01097, 01497, 01597, and 01697.
+MANUFACTURER   Crystal Springs Bottled Water Company, Inc.,
+               Hillsboro, Oregon.
+RECALLED BY    Manufacturer, by telephone beginning on
+               January 10, 1997, followed by fax, and by
+               press release on January 31, 1997.  Firm-
+               initiated recall complete.
+
+                             -2-DISTRIBUTION   Oregon, Washington state, Idaho, Nevada,
+               California.
+QUANTITY       Product Code   Cases Produced
+               35496          4,434
+               36696          4,584
+               00297          2,688
+               00697          2,622
+               00797          4,986
+               00997          2,058
+               01097          300
+               01497          2,952
+               01597          5,436
+               01697          3,660.
+REASON         Product contains excessive levels of chlorine.
+
+_______________
+PRODUCT        Key Lime Sherbet and Tangerine Sherbet
+               packaged in 1 quart size clear plastic
+               containers with labeling on the lid.  
+               Recall #F-255/256-7.
+CODE           None.  All product with undeclared FD&C Yellow
+               No. 5 is under recall.
+MANUFACTURER   Coleman's Ice Cream, Inc., Lancaster,
+               Pennsylvania.
+RECALLED BY    Manufacturer, by relabeling product beginning
+               on or about February 11, 1997.  Firm-initiated
+               field correction ongoing.
+DISTRIBUTION   Pennsylvania.
+QUANTITY       Approximately 25 quarts were distributed.
+REASON         Products contain undeclared FD&C Yellow No. 5.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III ==========
+_______________
+PRODUCT        MW Polar brand Baby Clams, in 10 ounce metal
+               cans.  Recall #F-251-7.
+CODE           Four 3-line codes are involved:
+               H14        H14          H14          H14
+               940615     940616       940617       940618
+               555S       555S         555S         555S.
+MANUFACTURER   State Run, Rongcheng Canning Factory, China.
+RECALLED BY    MW Polar Foods, Inc., doing business as Milky
+               Way Int'l Trading Corporation, Buena Park,
+               California, by letter on November 11, 1994. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Eastern United States.
+QUANTITY       Approximately 3,000 cases were distributed;
+               firm estimates none remains on the market.
+REASON         Product was decomposed and was held in swollen
+               cans.
+
+
+                             -3-RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II =======
+_______________
+PRODUCT        Platelets.  Recall #B-385-7.
+CODE           Unit numbers:  2488424, 2488425, 2488246,
+               2488431, 1802383, 1902931, 1902937, 1902936,
+               1902938, 1902939.
+MANUFACTURER   Central Indiana Regional Blood Center, Inc.,
+               Indianapolis, Indiana.
+RECALLED BY    Manufacturer, by telephone on June 11, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Indiana.
+QUANTITY       10 units were distributed.
+REASON         Blood products were prepared from units of
+               whole blood which were shipped at unacceptable
+               temperatures.
+
+_______________
+PRODUCT        Plasma Apheresis Bowl, Model 00625B, with
+               Ultra-Sonic Weld & Sterile Fluid Path, used
+               with Haemonetics Plasma Collection System.
+               Recall #B-432-7.
+CODE           Lot numbers T96 (starts with T96001), U96,
+               V96, W96 (ends W96069):
+               T96001-T96009; T96012-T96030; T96032-T96038;
+               T96040-T96069; T96071; T96073-T96085;
+               T96088-T96089; T96092-T96095; T96098-T96099;
+               T96102-T96107; T96110; T96112-T96114;
+               T96116-T96119; T96121-T96125; T96129-T96131;
+               T96134; T96136-T96137; T96141; T96143; T96144;
+               T96147-T96149; T96152-T96154; T96158.
+               U96015-U96027; U96029-U96037; U96039-U96042;
+               U96044-U96045; U96048-U96051; U96053-U96062;
+               U96064-U96070; U96072-U96078; U96080-U96082;
+               U96084-U96112.
+               V96001-V96007; V96010-V96012; V96014-V96019;
+               V96021-V96022; V96026-V96028; V96031-V96032;
+               V96034-V96035; V96037-V96039; V96041;
+               V96043-V96050; V96052-V96056; V96058-V96062;
+               V96064-V96065; V96067-V96087; V96091-V96092;
+               V96094; V96096-V96098; V96100-V96106;
+               V96108-V96139; V96141-V96145; V96147-V96153;
+               V96155- V96159; V96163.
+               W96001-W96004; W96007-W96008; W96010;
+               W96012-W96013; W96015; W96017-W96022;
+               W96024-W96030; W96032-W96037; W96039-W96042;
+               W96044-W96045; W96047-W96049; W96051-W96058;
+               W96060-W96080; W96085-W96086; W96088-W96089;
+               W96093-W96094; W96097-W96101; W96105-W96106;
+               W96108-W96110; W96113-W96115; W96117; W96120;
+               W96123; W96138; W96146; W96148; W96151;
+               W96154; W96157; W96160; W96161; W96163;
+               W96164.
+                             -4-MANUFACTURER   Haemonetics Corporation, Leetsdale,
+               Pennsylvania.
+RECALLED BY    Haemonetics Corporation, Braintree,
+               Massachusetts, by fax on February 20, 1997. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   California, Florida, Georgia, Iowa, Indiana,
+               Massachusetts, New York, Oklahoma,
+               Pennsylvania, South Carolina, Tennessee.
+QUANTITY       2,073,099 bowls were distributed.
+REASON         Plasma Apheresis Bowls, determined to have an
+               incomplete seal in the ultrasonic weld joint
+               causing the bowl to leak during normal
+               plasmapheresis operations.
+
+_______________
+PRODUCT        Platelets.  Recall #B-434-7.
+CODE           Unit #20262-0505.
+MANUFACTURER   Blood Systems, Inc., doing business as United
+               Blood Services, Lafayette, Louisiana.
+RECALLED BY    Manufacturer, by telephone on January 22,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Louisiana.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was prepared from a unit which
+               was collected from a donor who had taken
+               aspirin within three days of donation.
+
+_______________
+PRODUCT        Platelets.  Recall #B-435-7.
+CODE           Unit #4515053.
+MANUFACTURER   Central Indiana Regional Blood Center,
+               Indianapolis, Indiana.
+RECALLED BY    Manufacturer, by telephone on January 10,
+               1996, followed by letter dated January 18,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Utah.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was prepared from a unit which
+               was collected from a donor who had taken
+               aspirin within three days of donation.
+
+_______________
+PRODUCT        BayRab brand, Rabies Immune Globulin (Human). 
+               Recall #B-459-7.
+CODE           Lot #618R01A, EXP 21MAR98 (2 ml vials),
+               618R01B, EXP 21MAR98 (10 ml vials). 
+MANUFACTURER   Bayer Corporation, Clayton, North Carolina.
+RECALLED BY    Manufacturer, by letter on December 2, 1996. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 6,000 doses of single dose vials
+               were distributed.
+                             -5-REASON         Product was labeled as preservative free but
+               contained low levels of thimerosal.
+
+_______________
+UPDATE         Fluogen (Influenza Virus Vaccine, Trivalent,
+               Types A & B), an extension of Recall #B-117-7,
+               which appeared in the December 11, 1996
+               Enforcement Report.
+CODE           Syringes:  Lot #00296P.
+               Vials:  Lot numbers: 00376P, 00476P, 00596P,
+               00696P, 01186P, 01286P, 01386P.
+MANUFACTURER   Warner-Lambert Company, Parke-Davis,     
+               Sterile Products Division, Rochester,
+               Michigan. 
+RECALLED BY    The Parke-Davis Division of Warner-Lambert
+               Company,  Morris Plains, New Jersey, letter on
+               February 12, 1997.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 551,000 units were distributed.
+REASON         Parke-Davis Fluogen showed a decrease in
+               potency of one component of the vaccine after
+               distribution.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III ======
+_______________
+PRODUCT        Platelets, Pheresis.  Recall #B-433-7.
+CODE           Unit #53LT50303.
+MANUFACTURER   American Red Cross Blood Services, Baltimore,
+               Maryland.
+RECALLED BY    Manufacturer, by letter dated July 22, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   District of Columbia.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was collected from a donor with
+               an unacceptable health history.
+
+_______________
+PRODUCT        Monoclate-P Antihemophilic Factor (Human),
+               Factor VIII:C Pasteurized, Monoclonal Antibody
+               Purified.  Recall #B-436-7.
+CODE           Lot P68201 EXP 01/18/98.
+MANUFACTURER   Centeon L.L.C., Kankakee Industrial
+               Operations, Kankakee, Illinois.
+RECALLED BY    Centeon L.L.C., A Company of Armour and
+               Behring, King of Prussia, Pennsylvania, by
+               letter dated February 19, 1997.  Firm-
+               initiated recall ongoing.  See also FDA talk
+               paper T96-67, October 4, 1996.
+DISTRIBUTION   Nationwide.
+                             -6-QUANTITY       1,908 vials were distributed; firm estimated
+               that little if any product remained on market
+               at time of recall initiation.
+REASON         Reconstitution difficulties in that vials
+               failed to transfer all of the diluent into a
+               lyophilized product.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES --
+CLASS II =========
+_______________
+PRODUCT        Sensi-Touch Regional Anesthesia Delivery
+               System, Spinal Anesthesia Tray, Catalog #8888-
+               828111, 22 ga plastic hub, diamond point,
+               Marcaine.  Recall #Z-297-7.
+CODE           Lot #801685.
+MANUFACTURER   Kelsar S.A., Tijuana, B.C., Mexico.
+RECALLED BY    Sherwood Davis & Geck, St. Louis, Missouri, by
+               letter on January 31, 1997.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Michigan, Missouri, Connecticut, Texas, New
+               Jersey, Kentucky, Minnesota, Pennsylvania,
+               Massachusetts.
+QUANTITY       400 trays were distributed between 8/25/96 and
+               1/27/97.
+REASON         The tray incorrectly identifies the contents
+               as product/catalog No. 8888-826115 containing
+               Tetracaine, however, it actually contains
+               Marcaine.
+
+_______________
+PRODUCT        Imatron CT Scanner, a component of the patient
+               table potentiometer assembly
+               (Y-potentiometer): (a)  Imatron C100 CT
+               Scanner; (b) Imatron C150 Series Scanners.
+               Recall #Z-298/299-7.
+ CODE          Various model numbers and serial numbers are
+               involved.
+MANUFACTURER   Imatron, Inc., South San Francisco,
+               California.
+RECALLED BY    Manufacturer, by sending an "Advance Letter"
+               in July 1996, and issuing its own Field
+               Modification Instructions, followed by visit. 
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       81 units were distributed.
+REASON         The table would go beyond its limits and could
+               not be driven back due to a blown fuse.
+
+_______________
+PRODUCT        Model CRC Laser Profilometer, used to
+               determine the surface characteristics of
+               paper.  Recall #Z-300-7.
+CODE           None.
+                             -7-MANUFACTURER   International Paper Company, Tuxedo, New York.
+RECALLED BY    Manufacturer.  FDA approved the firm's
+               corrective action plan on March 1, 1997. 
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide. 
+QUANTITY       2 units were distributed.
+REASON         Noncompliance with performance standards for
+               laser products in that the products failed to
+               incorporate required safety interlocks on the
+               operator access door.
+
+_______________
+PRODUCT        EEG Tend Monitor, Model OEE-7102B, intended
+               for long term EEG monitoring and analysis. 
+               Recall #Z-303-7.
+CODE           Serial numbers:  00003, 00004, 00006-00016,
+               00020-00023, 00031, 00033-00035, 00038, and
+               00043.
+ MANUFACTURER  Nihon Kohden Corporation, Shinjuku-Ku, Tokyo,
+               Japan.
+RECALLED BY    Nihon Kohden America, Inc., Irvine,
+               California, by letter dated October 16, 1996. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Arizona, California, Illinois, Kansas,
+               Louisiana, South Dakota, Texas, Utah.
+QUANTITY       23 units were distributed.
+REASON         When the 12V DC power supply conductor is
+               broken, and the main power is turned on, a
+               higher than acceptable current leakage is
+               applied to the monitoring electrodes and a
+               chemical reaction is generated with EEG paste,
+               which can discolor the patient's skin when the
+               electrodes are placed on the patient skin.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III ========
+_______________
+PRODUCT        Neurosign Straight Concentric Bipolar Probe
+               with Touch Proof Connectors, Catalog #7033-
+               0919, an accessory to the Neurosign 100 Motor
+               Nerve Monitor.  Recall #Z-293-7.
+CODE           Serial numbers:  076, 078, 079, 080, 081, 082,
+               083, 084, 085, 087.
+MANUFACTURER   The MAGSTIM Company Ltd., United Kingdom.
+RECALLED BY    Smith & Nephew ENT, Smith & Nephew Richards,
+               Inc., Bartlett, Tennessee, by fax on October
+               16, 1996.  Firm-initiated recall complete.
+DISTRIBUTION   Arizona, Kentucky, New York, Texas, Washington
+               state, Wisconsin.
+QUANTITY       8 units were distributed and are accounted
+               for.
+                             -8-REASON         The device is subject to possible extrusion of
+               silicone from the end of the probe when the
+               device was autoclaved by the manufacturer.
+
+_______________
+PRODUCT        Incstar VCA IgG Clin-ELISA Test Kit, Product
+               #4590, an in-vitro diagnostic test kit for
+               detecting antibodies in human serum to
+               Epstein-Barr Viral Capsid Antigen (VCA). 
+               Recall #Z-294-7.
+CODE           Lot #395406.
+MANUFACTURER   Incstar Corporation, Stillwater, Minnesota.
+RECALLED BY    Manufacturer, by letter on February 3, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   California, New Jersey, New York,
+               international.
+QUANTITY       131 kits were distributed.
+REASON         Some negative samples may yield a positive
+               assay response.
+
+_______________
+PRODUCT        Cytomegalovirus IgM ELISA Test Kit, Product
+               #2325250, used for the qualitative
+               determination of IgM antibody to
+               cytomegalovirus in human serum.
+               Recall #Z-302-7.
+CODE           Lot numbers 108 and 109.
+MANUFACTURER   Clark Laboratories, Inc., Jamestown, New York.
+RECALLED BY    Manufacturer, by letter January 23, 1997. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       495 kits were distributed.
+REASON         The absorbance values for controls and
+               specimens are lower than expected.
+
+_______________
+PRODUCT        C-150XP CT Scanner Installed with Software
+               Version 12.22.  Recall #Z-304-7.
+CODE           All models with 12.22 version software.
+MANUFACTURER   Imatron, Inc., South San Francisco,
+               California.
+RECALLED BY    Manufacturer, by "Software Notice" letter on
+               August 28, 1996.  Firm-initiated field
+               correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       30 units were distributed.
+REASON         The device's software version 12.22 contains
+               an error which prevents it from detecting an
+               unexpected stop in table motion during certain
+               low velocity Continuous Volume Studies (CVS),
+               resulting in unnecessary x-ray radiation
+               exposures to the patient.
+
+                             -9-________________
+PRODUCT        Software Versions 11.53 and 12.13 installed in
+               computed tomography scanners:  
+               (a) Model C-100; (b) Model C-150XP; 
+               (c) Model C-150L.  Recall #Z-305/307-7.
+CODE           Models C100, C150XP, and C150L.
+MANUFACTURER   Imatron, Inc., South San Francisco,
+               California.
+RECALLED BY    Manufacturer, by sending Software Notice #20
+               on or about November 16, 1995.  Firm-initiated
+               field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       37 units were distributed.
+REASON         During reconstruction of images, the Fast
+               Reconstruction System software (FSR) may
+               produce an error condition which the computer
+               may interpret as a warning, causing the
+               computer to display erroneous data for the
+               image.
+
+_______________
+PRODUCT        Nellcor Symphony N-3000 Pulse Oximeter, Model
+               N-3000.  Recall #Z-308-7.
+CODE           111 units with suspect printed circuit boards,
+               each with an individual serial number.
+MANUFACTURER   Nellcor Puritan Bennett, Inc., Chula Vista,
+               California.
+RECALLED BY    Nellcor Puritan Bennett, Inc., Carlsbad,
+               California, by letter on October 23, 1996. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       111 units were distributed.
+REASON         The device may be potentially subject to
+               printed circuit board damage which can result
+               in the monitor reporting Sp02 values slightly
+               outside the normal accuracy range stated in
+               the Operations Manual.
+
+
+MEDICAL DEVICE SAFETY ALERTS:  ==============================
+_______________
+PRODUCT        Sherpa Vector and Sherpa Vector X Coronary
+               Guiding Catheters, designed to provide a
+               pathway through which therapeutic devices are
+               introduced:  
+               (a) Vector 6F, Catalog numbers PA5xx;
+               (b) Vector 7F, Catalog numbers AS7xxx;
+               (c) Vector 8F, Catalog numbers AS8xxx;
+               (d) Vector X 6F, Catalog numbers S26xxx;
+               (e) Vector X 7F, Catalog numbers S27xxx;
+               (f) Vector X 8F, Catalog numbers S28xxx. 
+               Safety Alert #N-007/012-7.
+
+                            -10-CODE           All lots. 
+MANUFACTURER   Medtronic Interventional Vascular Inc.,
+               Danvers, Massachusetts.
+ALERTED BY     Manufacturer, by letter on November 25, 1996.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 38,796 units were distributed.
+REASON         Resistance may be experienced while passing
+               interventional devices through the lumen of
+               the guiding catheter, which may result in the
+               inability to move the interventional device
+               within the lumen of the guiding catheter.
+
+                            -11-
+
+END OF ENFORCEMENT REPORT FOR MARCH 12, 1997.  BLANK PAGES MAY FOLLOW.
+
+                                   ####
+
+
+
+
+  
+ End of Enforcement Report for 
+  
+
+  
+  
+    
+  
+

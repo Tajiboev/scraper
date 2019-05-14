@@ -1,0 +1,516 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  DEC
+		  Mar
+		
+		
+		
+		  
+		  28
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      35 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DO
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+01/10/1996
+
+ ENFORCEMENT REPORT FOR 01/10/96 
+
+
+January 10, 1996                                    96-02
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III ==========
+_______________
+PRODUCT        Dotty's Donuts Cherry Donut Cake Mix, packaged
+               in 25 pound bags.  Recall #F-104-6.
+CODE           Product manufactured between April and
+               September 1995.
+MANUFACTURER   Iowa Donut Supply Company, Des Moines, Iowa.
+RECALLED BY    Manufacturer, by telephone between October 24
+               and 27, 1995.  FDA-initiated recall complete.
+DISTRIBUTION   Nebraska, Iowa, Illinois.
+QUANTITY       2,375 pounds were distributed.
+REASON         Product contained FD&C; Red #3 which was
+               canceled from the provisional listing as of
+               January 29, 1990.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II ===========
+_______________
+PRODUCT        Metronidazole, Rx oral synthetic antiprotozoal
+               and antibacterial agent, under the Zenith and
+               Goldline labels: (a) 250 mg in bottles of 100,
+               250, and 500; (b) 500 mg in bottles of 50 and
+               100.  Recall #D-063/064-6.
+CODE           Lot numbers:  (a) 2971-837 EXP B01/97, 2971-
+               833 EXP C10/96, 3528-706 EXP D10/96, 3528-706
+               EXP E10/96; (b) 3007-820V EXP A09/96, 3007-
+               820V EXP A09/96, 3007-824 EXP A11/96.
+MANUFACTURER   Zenith Laboratories, Inc., Cidra, Puerto Rico.
+RECALLED BY    Manufacturer, by letter.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Lot       #Configuration       Amount Dosage
+               2971-833  bottles of 100'S     8731   250 mg
+               2971-837  bottles of 250'S     1217   250 mg
+               3528-706  bottles of 250'S     1404   250 mg
+               3528-706  bottles of 500'S     469    250 mg
+               3007-820V bottles of 50'S      394    500 mg
+               3007-820V bottles of 100'S     6000   500 mg
+               3007-824  bottles of 100'S     4859   500 mg.
+               Firm estimated that 2000 units of all lots
+               remained on market at time of recall
+               initiation.
+REASON         Superpotency.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III ==========
+_______________
+PRODUCT        Cardizem CD (diltiazem HCl), packaged in  the
+               following strengths and sizes: (a) 120 mg.
+               (90-capsule bottles); (b) 180 mg.(90-capsule
+               bottles); (c) 240 mg. (5,000-capsule bottles);
+               (d) 300 mg. (90-capsule bottles), used in the
+               treatment of hypertension.  
+               Recall #D-056/059-6.
+CODES          Lot numbers and EXP dates:  (a) P90160 8/97,
+               P90163, 8/97;
+               (b) P30528  7/97, P30529  7/97, P30530  8/97,
+               P30531  8/97, P30537 8/97, P30538 8/97;
+               (c) P40596 8/97, P40610  9/97; (d) P70264
+               8/97.
+MANUFACTURER   Hoechst Marion Roussel, Inc., Kansas City,
+               Missouri.
+RECALLED BY    Manufacturer, by telephone on November 2-3,
+               1995, followed by letter dated November 2,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       105,522/90-capsule bottles and
+               295/5,000-capsule containers were distributed. 
+               REASONSeveral capsules may contain metal particles.
+
+_______________
+PRODUCT        Bulk Magnesium Sulfate Anhydrous, in 200 pound
+               fiber drums, for drug use.  Recall #D-060-6.
+CODE           SPH030 and SPH031.
+MANUFACTURER   Mallinckrodt Chemical, Inc., St. Louis,
+               Missouri.
+RECALLED BY    Manufacturer, by letter dated November 16,
+               1995.  Firm-initiated recall complete.
+
+                             -2-DISTRIBUTION   Illinois, Missouri, Florida, New Jersey,
+               Indiana, Ohio, Georgia, Delaware, Puerto Rico,
+               Holland.
+QUANTITY       61 drums were distributed.
+REASON         Product does not meet heavy metal
+               specifications.
+
+_______________
+PRODUCT        Carbamide Peroxide 6.5% Ear Drops, 1/2 fluid
+               ounce plastic bottle, an OTC product used as
+               an aid to soften, loosen and remove excessive
+               earwax, distributed under the manufacturer's 
+               (Clay-Park) and the following private labels:
+               Consumer Value Stores (CVS) [18 mo. & 24 mo.]
+               Goldline Laboratories       [18 mo. & 24 mo.]
+               Thrifty Companies           [18 mo. & 24 mo.]
+               Big B Discount Drugs        [18 mo. & 24 mo.]
+               K & B Inc.                  [18 mo. & 24 mo.]
+               Rite Aid Dist.              [24 month only]
+               American Drug Stores        [18 mo. & 24 mo.]
+                 (Osco label)
+               McKesson Drug Co.           [18 mo. & 24 mo.]
+                 (Valu-Rite label)
+               Hooks Drugs Inc.            [24 month only]
+               H. L. Moore Drug Exchange   [18 mo. & 24 mo.]
+                 (Valumed label) 
+               Thrift Drug Co.             [18 mo. & 24 mo.]
+                 (Treasury label)
+               Pay Less Drug Stores        [18 mo. & 24 mo.]
+               Arbor Drug Inc.             [18 mo. & 24 mo.]
+               Family Independent Pharmacy [18 mo. & 24 mo.]
+               Fay's Drug Stores           [18 mo. & 24 mo.]
+               Pfeiffer Pharmaceuticals    [18 mo. & 24 mo.]
+               Revco D.S. Inc.             [18 mo. & 24 mo.] 
+               Medicine Shoppe Int'l       [18 mo. & 24 mo.]
+               Longs Drug Stores, Inc.     [18 mo. & 24 mo.]
+               Brooks Drugs                [18 month only]
+               Eckerd Drug Company         [18 month only]
+               Kinney Drugs                [18 month only]
+               Rugby Laboratories          [18 month only]
+               Moore Medical               [18 month only]
+               Recall #D-061-6.
+CODES          All lots with the 18 month and 24 month
+               expiration periods. 
+               Lot #s (Exp. Date) for 24 month:
+               U302 (Nov 95), U429 (Dec 95), U895 (Feb 96),
+               V091 (Mar 96), V098 (Mar 96), V586 (May 96),
+               V744 (Jun 96), V754 (Jun 96), V937 (Jul 96),
+               W126 (Aug 96), W237 (Aug 96), W366 (Sep 96),
+               W722 (Oct 96), W730 (Oct 96), W954 (Nov 96),
+               X078 (Dec 96).
+                             -3-               Lot #s (Exp. Date) for 18 month:
+               AB007 (10/96), AB008 (10/96), AB009 (10/96),
+               AB027 (10/96), AB045 (11/96), AC230 (3/97),
+               AC294 (3/97), AC361 (3/97).
+MANUFACTURER   Clay-Park Labs, Inc., Bronx, New York. 
+RECALLED BY    Manufacturer, by letters mailed on December 6
+               and 27, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Puerto Rico, South America, West
+               Indies.
+QUANTITY       519,330 bottles of the lots with the 24 month
+               expiry period, and 536,739 bottles with the 18
+               month expiry period.
+REASON         Subpotency.
+
+_______________
+PRODUCT        Fujisawa Cytarabine Injection, 20 mg/ml, Rx
+               antineoplastic sterile lyophilized powder for
+               reconstitution and intravenous powder used in
+               combination with other approved anticancer
+               drugs.  Recall #D-062-6.
+CODE           Lot #4011979 EXP 7/96.
+MANUFACTURER   F.H. Faulding & Company, Ltd., Mulgrave, North
+               Victoria 3170, Australia.
+RECALLED BY    Fujisawa USA, Inc., Deerfield, Illinois, by
+               letter dated December 29, 1995.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       10,263 vials were distributed; firm estimated
+               that less than 400 vials remained on the
+               market at time of recall initiation.
+REASON         Presence of visual silicone particulates.
+
+_______________
+PRODUCT        (a) Cetacaine Topical Anesthetic Liquid, in 56
+               gram bottles, Rx, indicated for use to control
+               pain; (b) Cetacaine Topical Anesthetic
+               Ointment, in 37 gram jars, Rx, indicated for
+               use to control pain.  Recall #D-065/066-6.
+CODE           Batch numbers:  (a) 408 EXP 6/95, 409 EXP
+               12/95. (b) 641 EXP 6/95, 642 EXP 1/96.
+MANUFACTURER   Cetylite Industries, Inc., Pennsauken, New
+               Jersey.
+RECALLED BY    Manufacturer, by letters dated April 14, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 1,900 bottles of batch 408 and 1,982
+               bottles of batch 409; (b) 2,586 jars of batch
+               641 and 2,529 jars of batch 642 were
+               distributed; (a) firm estimated that 26
+
+                             -4-               bottles from batch 408 and 94 bottles from
+               batch 409; (b) 48 jars from batch 641 and 281
+               jars from batch 642 remained on market at time
+               of recall initiation.
+REASON         Products do not meet stability specifications.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II =========
+_______________
+PRODUCT        ASM Mattress and PSM Mattress:
+               (a) Alternating Pressure Mattress, ASM-
+               776/780; (b) Powered Low Air Loss Mattress,
+               PSM-176/180.  Recall #Z-207/208-6.
+CODE           All serial numbers beginning with A5-, B5-,
+               C5-, D5-, and E5-.  Serial numbers are located
+               on cell itself.  Dates between January 1995
+               and approximately May 31, 1995 on under
+               penalty of law tag.
+MANUFACTURER   Gaymar Industries, Inc., Orchard Park, New
+               York.
+RECALLED BY    Manufacturer, by telephone between July 18,
+               1995 and August 11, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 1,880 units; (b) 38 units.
+REASON         Some of the lower cells of the mattress
+               systems exhibited internal separation of
+               button welds resulting in an observable
+               bulging effect of the mattress.
+
+_______________
+PRODUCT        Sof.Care Bed Cushions, used for pressure ulcer
+               prevention and treatment:  (a) Model SC-440;
+               (b) Model SC-460; (c) Model SC-427 when used
+               in conjunction with Continuous Inflation Pumps
+               Models SCM-3, CP-100, CP-200, and CP-300.
+               Recall #Z-261/263-6.
+CODE           (a & b) All lots; (c) Lots E1____ through
+               D5____.
+MANUFACTURER   Gaymar Industries, Inc., Orchard Park, New
+               York.
+RECALLED BY    Manufacturer, by letter dated July 7, 1995,
+               and b voice mail message sent July 6, 1995. 
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       (a) 49,930 units; (b) 36,598 units; (c) 5,000
+               units were distributed.
+REASON         The bed cushions may "balloon" or "expand"
+               beyond the cushions' normal dimensions if a
+               button weld failure were to occur and when
+               used with the SCN-or CP-300 continuous
+               inflation pump.
+                             -5-_______________
+PRODUCT        3M AVI Burette IV Administration Sets, Models: 
+               8C1230, 8C2650, 8C1630, AJ2304; (b) IV Burette
+               Administration Set with interlink Injection
+               Ports, Models CJ4304, CK4303, CK2304.  
+               Recall #Z-264/265-6.
+CODE           (a) Models 8C1230, 8C1630, 8C2650, AJ2304: 
+               Recalled now:  manufacturing dates of FEB95
+               and earlier in codes (for example, lot
+               MAR94K06 is recalled now).
+               Considered recalled one year after
+               manufacturing:  all lots not recalled now (for
+               example lot MAR95T04 is recalled at the end of
+               February, 96); 
+               (b) Manufacturing dates of NOV94 and earlier.
+MANUFACTURER   Korea Green Cross Corporation, Seoul, South
+               Korea.
+RECALLED BY    3M Infusion Therapy, Arden Hills, Minnesota,
+               by letter December 8, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       (a) 500,000 sets; (b) 150,000 sets were
+               distributed.
+REASON         The sets leak at connections of the lower
+               piece of tubing to the y-piece and connections
+               of the lower piece of tubing to the luer
+               locks.
+
+_______________
+PRODUCT        Horizon I.V. Administration Sets used with the
+               Horizon Modular Infusion System:
+               Catalog Numbers:    CC3110;   CC3115;  CC3120;
+               CC3130;    CC3131;  CC3150;   CC3152;  CC3166;
+               CC3169;    CC3180;  NF3106;   NF3110;  NF3115;
+               NF3116;    NF3120;  NF3121;   NF3140;  NF3141;
+               NF3150;    NF3152;  NF3155;   NF3160;  NF3169;
+               NF3190;    NF3191;  V7400;    V7401;   V7405;
+               V7406;     V7407;   V7410;    V7410-10;  
+               V7410-SP01;  V7410-SP02;      V7412;   V7413;
+               V7415;     V7420;   V7421;    V7423;   V7425; 
+               V7430;     V7430-SP01;        V7435;   V7440;
+               V7450;     V7455;   V7456;    V7460;   V7473;
+               V7483;     V7490;   V7495.  
+               Recall #Z-267/319-6.
+CODE           All lot numbers.
+MANUFACTURER   McGaw of Puerto Rico, Inc., Sabana Grande,
+               Puerto.
+RECALLED BY    McGaw, Inc., Irvine, California, by letters
+               sent September 26, 1995.  Firm-initiated
+               recall ongoing.
+
+                             -6-DISTRIBUTION   Nationwide and international.
+QUANTITY       35,152 cases were distributed.
+REASON         The set tubing is being cut by the pump tube
+               pincher mechanism, and as a result, leakage of
+               medication or air entering the I.V. line can
+               occur.
+
+_______________
+PRODUCT        Olympus brand Disinfectant Solution, for use
+               with Olympus Automated Blood Typing and
+               Clinical Chemistry Analyzers.  
+               Recall #Z-320-6.
+CODE           Catalog #OPA2002, Lot numbers:  061295 EXP
+               12/95, 072495 EXP 1/96, 082095 EXP 2/96.
+MANUFACTURER   Decon Laboratories, Inc., Bryn Mawr,
+               Pennsylvania.
+RECALLED BY    Olympus America, Inc., (OAI), Melville, New
+               York, by letter sent on November 27, 1995. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Canada.
+QUANTITY       86 units were distributed.
+REASON         The disinfecting solution bottles are
+               ballooning and distended, and contain a dark
+               colored sediment. 
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III ========
+_______________
+PRODUCT        Trakstar 18 PTCA Dilatation Catheter with SLX
+               Coating, Catalog #535-020, a balloon catheter
+               used to widen arteries during cardiac
+               catherization procedures.  Recall #Z-260-6.
+CODE           Lot #40895302 only.
+MANUFACTURER   Cordis Corporation, Miami Lakes, Florida.
+RECALLED BY    Manufacturer, by visit beginning November 20,
+               1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Indiana, Michigan, California, Arizona,
+               Massachusetts, Florida, Illinois.
+QUANTITY       14 units were distributed.
+REASON         The incorrect dimensions are listed on the
+               side panel of the device's shelf packaging. 
+               The front box label and the inner pouch are
+               labeled with the correct balloon dimensions of
+               2.0 mm (inflated balloon width) x 20 mm
+               (inflated balloon length).  The mislabeled
+               side panel indicated dimensions of 3.0 mm x 30
+               mm.
+
+                             -7-_______________
+UPDATE         Recall #Z-255/256-6, Quinton Instrument Q-710
+               Stress Electrocardiograph and Q-4500 Stress
+               Test System, which appeared in the January 3,
+               1996 Enforcement Report should read:
+               CODE:  Serial numbers:  (a) 101 through 181;
+               (b) 2171 through 2284 (serial numbers are non-
+               consecutive).
+
+
+RECALLS AND FIELD CORRECTIONS: VETERINARY PRODUCTS -- CLASS II ======
+_______________
+PRODUCT        Hubbard poultry feeds, in 50 pound bags:  (a)
+               23% Broiler Starter AM.0125 Granules Medicated
+               (Amprolium), (b) 20% Chick Starter AM.0125
+               (Amprolium).  Recall #V-006/007-6.
+CODE           Lot Nos:  (a) 10324806055; (b) 10124806055.
+MANUFACTURER   Hubbard Milling Company, Shipshewana, Indiana.
+RECALLED BY    Manufacturer, by telephone on June 7, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Indiana.
+QUANTITY       (a) 63 bags; (b) 77 bags were distributed.
+REASON         Products were mistakenly manufactured with
+               Apralan 75 (75 gm/lb) instead of Amprolium 25%
+               (11.25 gm/lb).
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS III ======
+_______________
+PRODUCT        Baciferm 50 Medicated Bacitracin Zinc Premix,
+               Type A Medicated Article, in 50 pound bags,
+               for use in poultry and livestock feeds.
+               Recall #V-006-6.
+CODE           Lot numbers:  E523-1, E523-2, E530-1, E531-1,
+               E531-2.
+MANUFACTURER   Fort Dodge Laboratories, Fort Dodge, Iowa.
+RECALLED BY    Manufacturer, by letter on November 22, 1995. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Tennessee, Delaware, Arkansas, Alabama,
+               Minnesota, North Carolina.
+QUANTITY       121,000 pounds were distributed.
+REASON         The active ingredient, bacitracin zinc was
+               contaminated with salinomycin.
+
+
+MEDICAL DEVICE SAFETY ALERTS:  ==============================
+_______________
+PRODUCT        Baxter " Single Use Only" 12 Foot Extension
+               Set, Product Code 5C4464, disposable supplies
+               for the HomeChoice Automated PD (Peritoneal
+               Dialysis) System.  Safety Alert #N-006-6.
+                             -8-CODE           All lots.
+MANUFACTURER   Baxter Healthcare Corporation, Mountain Home
+               Arizona.
+ALERTED BY     Baxter Healthcare Corporation, McGaw Park,
+               Illinois, by letter December 12, 1995.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 1,750,000 sets were distributed;
+               firm estimated that 150,000 remained on market
+               at initiation of safety alert.
+REASON         Reuse of the "Single Use Only" 12 foot drain
+               line, and other disposable supplies for the
+               Automated Peritoneal Dialysis System, could
+               result in peritonitis.
+
+                             -9-
+
+
+
+END OF ENFORCEMENT REPORT FOR JANUARY 10, 1995.  BLANK PAGES MAY
+FOLLOW.
+
+                                   ####

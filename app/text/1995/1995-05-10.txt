@@ -1,0 +1,570 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Jul
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      28 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+05/10/1995
+
+ENFORCEMENT REPORT FOR 05 10 95
+
+                                                     95-19 
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        (a) Disopyramide Phosphate Capsules, USP, 100 mg, in bottles
+               of 100, Rx anti-arrhythmic under the following labels: 
+               Biocraft, URL, Goldline, Qualitest;
+               (b) Nystatin Oral Suspension USP, 100,000 units/ml, in pint
+               containers, Rx for the treatment of oral candidiasis, under
+               the Biocraft and Goldline labels.
+               Recall #D-140/141-5.
+CODE           Lot numbers:  (a) 20533 EXP 2/1/97; (b) 20834 EXP 1/1/96.
+MANUFACTURER   (3 satellite locations one or more applicable to each
+               product:  Biocraft Laboratories, Paterson, New Jersey;
+               Biocraft Laboratories, Elmwood Park, New Jersey; Biocraft
+               Laboratories, Fairfield, New Jersey.
+RECALLED BY    Biocraft Laboratories, Inc., Fair Lawn, New Jersey, by
+               letter August 8, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 5,766 bottles were distributed; firm estimated that 10
+               percent of product remained on market at time of recall
+               initiation;
+               (b) 1,997 bottles were distributed; firm estimated that 10
+               percent of product remained on market at time of recall
+               initiation.
+REASON         Current good manufacturing practice deficiencies.
+
+_______________
+PRODUCT        Nystatin Oral Suspension USP, 100,000 units per ml, in 60 ml
+               bottles, an antifungal antibiotic. 
+               Recall #D-151-5.
+CODE           Lot #20662 EXP 11/1/95.
+MANUFACTURER   Biocraft Laboratories, Paterson, New Jersey.
+RECALLED BY    Biocraft Laboratories, Fair Lawn, New Jersey, by telephone
+               and by letter February 3, 1995.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       15,208 bottles were distributed.
+REASON         Possible microbiological contamination.
+
+_______________
+PRODUCT        Medirex brand (a) Chlorpheniramine Maleate Tablets, 4 mg, 
+               100 tablets in 10 10-unit dose blister packs, OTC
+               antihistamine; (b) Diphenhydramine Hydrochloride Capsules,
+               USP, 25 mg, 100 tablets in 10 10-unit dose blister packs, Rx
+               antihistamine.  Recall #D-153/154-5.
+CODE           Lot numbers:  (a) 118-014 EXP 7/96; (b) 321-054 EXP 7/96.
+MANUFACTURER   Medirex, Inc., Pine Brook, New Jersey (repacker/responsible
+               firm).
+RECALLED BY    Repacker, by letter November 2, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 420,000 tablets; (b) 457,000 capsules were distributed;
+               firm estimated that 329,500 tablets of Chlorpheniramine
+               Maleate and 393,200 capsules of Diphenhydramine
+               Hydrochloride remained on market at time of recall
+               initiation.
+REASON         Unit dose blister packages of Chlorpheniramine Tablets 4 mg
+               may be miscartoned as Diphenhydramine Capsules.  Blister
+               packs are correctly labeled.
+
+_______________
+PRODUCT        Aredia 60 ml vials Pamidronate Disodium for Injection for
+               intravenous infusion, Rx indicated for the treatment of
+               patients with moderate to severe Paget's disease of bone,
+               and also can be used for the treatment of moderate or severe 
+               hypercalcemia associated with malignancy.  Recall #D-156-5.
+CODE           Lot #1000200 EXP 3/96.
+MANUFACTURER   Ciba-Geigy Ltd., Basle Switzerland.
+RECALLED BY    Ciba-Geigy Pharmaceutical Division, Ciba-Geigy Corporation,
+               Summit, New Jersey, by letter February 3, 1995.  Firm-
+               initiated real complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,726 vials were distributed.
+REASON         Some units do not declare the strength on the vial label.
+
+_______________
+PRODUCT        Medical Oxygen (USP) in D size aluminum cylinders.  
+               Recall #D-159-5.
+
+                                    
+CODE           Serial numbers:  D199446, D206758, D173073, D205326,
+               D206778, D214138, D203281, D192955, D193841, D205279,
+               D214385, D184197, D184460, D214423, D204208, D171601,
+               D191491, D194987, D214418, D202857, D190186, D195937,
+               D203236, D195259, D173044, D203708, D171661, D204370,
+               D205303, D173049, D195574, D195463, D184516, D195506,
+               D205328, D173046, D206828, D184488, D194957, D194967,
+               D203290, D203676, D203259, D199168, D214120, D202885,
+               D193841, D214429, D192931, D205322, D185083, D185157,
+               D214411, D173038, D173046, D214750, D173071, D207347,
+               D173050, D203380, D213944, D203280, D171535, D214413,
+               D192884, D193817, D195465, D184249, D199446, D202869,
+               D184470, D202849, D195268, D192915, D184535, D203284,
+               D199097, D195974, D194253, D195647, D194988, D173058,
+               D205289, D195529, D214415, D214414, D199461.
+MANUFACTURER   Health Training Educational Services, Inc., doing business
+               as Life Support Systems, Boston, Massachusetts
+               (repacker/responsible firm).
+RECALLED BY    Repacker, by letter and visit on or about April 20, 1994. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Massachusetts, New Hampshire, Connecticut.
+QUANTITY       105 cylinders were distributed.
+REASON         Current good manufacturing practice deficiencies.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Various drug products:
+               (a) Amiloride Hydrochloride and Hydrochlorothiazide Tablets
+               USP, 5 mg/50 mg, in bottles of 100, 500, and 1,000, Rx
+               diuretic under the following labels:  Biocraft, Aligen,
+               Rugby, Geneva, H.L. Moore, Warner Chilcott, Harber, Mason,
+               Schein; (b) Amoxicillin for Oral Suspension USP,125 mg/5 ml
+               and 250 mg/5 ml, in 80 ml and 150 ml containers, Rx
+               antibiotic, under the Biocraft label;
+               (c) Amoxicillin Chewable Tablets USP, 250 mg, Rx antibiotic,
+               under the Biocraft label;
+               (d) Ampicillin for Oral Suspension USP, 125 mg/5 ml and 250
+               mg/5 ml, in 100 ml and 200 ml containers, Rx antibiotic,
+               under the following labels:  Biocraft, Aligen, Major, Rugby,
+               Harber, Goldline, IDE Star, H.L. Moore, Qualitest, URL, and
+               Schein; (e) Cephalexin for Oral Suspension USP, 125 mg/5 ml
+               and 250/5 ml, in 100 ml and 200 ml containers, Rx single
+               ingredient cephalosporin, under the following labels: 
+               Biocraft, Aligen, Biocef, Schein, Major, Rugby, Goldline,
+               Carlisle, Geneva, H.L. Moore, Qualitest;
+               (f) Sulfamethoxazole and Trimethoprim Tablets USP, 800
+               mg/160 mg, in bottles of 100 and 500, Rx antibacterial
+               tablet, under the Biocraft and Major labels.
+               Recall #D-142/150-5.
+
+                                    
+CODE           Lot numbers:   (a) All in-date lots; (b) 29000 EXP 11/01/95,
+               31212 EXP 12/01/96, 31337 EXP 02/01/97, 31340 EXP 02/01/97,
+               31954 EXP 08/01/97, 33343 EXP 12/01/97, 33351 EXP 12/01/97,
+               33674 EXP 03/01/98; (c) 33269; (d) All in-date lots;
+               (e) 52918 EXP 02/01/96, 52923 EXP 02/01/96; 52964 EXP
+               03/01/96, 53047 EXP 05/01/96; (f) 18030 EXP 02/01/96, 18104
+               EXP 03/01/96.
+MANUFACTURER   (3 satellite locations one or more applicable to each
+               product:  Biocraft Laboratories, Paterson, New Jersey;
+               Biocraft Laboratories, Elmwood Park, New Jersey; Biocraft
+               Laboratories, Fairfield, New Jersey.
+RECALLED BY    Biocraft Laboratories, Fair Lawn, New Jersey, by letter
+               August 15, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and Puerto Rico.
+QUANTITY       Firm estimated that less than 10% of product remained on
+               market at time of recall initiation.
+REASON         Current good manufacturing practice deficiencies.
+
+_______________
+PRODUCT        Stool Softener Plus Laxative Softgels, OTC useful in the
+               management of chronic or temporary constipation, under the
+               following labels:  Arbor Drugs, 60 Softgels per bottle;
+               Discount Drug Mart, 100 Softgels per bottle; Osco, 100
+               softgels per bottles; Drug Emporium, 110 softgels per
+               bottles.  Recall #D-152-5.
+CODE           Lot numbers and EXP dates:  139-1692 10/96, 139-1806 10/96,
+               139-2118 8/96, 139-2224 6/97.
+MANUFACTURER   Chase Laboratories, Inc., Newark, New Jersey.
+RECALLED BY    Guardian Drug Company, Trenton, New Jersey
+               (repacker/responsible firm), by letter March 30, 1995. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       273 cases of lot 139-1806, 171 cases of lot 139-1692, 44
+               cases of lot 139-2118, 248 cases of lot 139-2224 were
+               distributed.
+REASON         Leaking softgels.
+
+_______________
+PRODUCT        Sulfamethoxazole and Trimethoprim double strength tablets,
+               Rx antibacterial, USP double strength, in bottles of 500,
+               under the URL and Biocraft labels. Recall #D-155-5.
+CODE           Lot numbers:  18485 EXP 9/1/95 (URL label only); 18806 EXP
+               1/1/97 (Biocraft label only).
+MANUFACTURER   Biocraft Laboratories, Inc., Paterson, New Jersey.
+RECALLED BY    Biocraft Laboratories, Inc., Fair Lawn, New Jersey, by
+               telephone on January 13, 1995, and February 3, 1995,
+               followed by letters of January 20, 1995 and February 3,
+               1995.   Firm-initiated recall ongoing.
+DISTRIBUTION   Undetermined.
+QUANTITY       2,385 bottles were distributed; firm estimated that less
+               than 10% of product remained on market at time of recall
+               initiation.
+
+                                    
+REASON         Product does not meet content uniformity specification for
+               the Trimethoprim ingredient.
+
+_______________
+PRODUCT        (a) Mellaril Tablets (Sandoz brand name) / Thioridazine
+               Tablets (Creighton label) - Thioridazine HCL USP 200 mg
+               Tablets, packaged in 1000's and in 100's (unit dose packs),
+               Rx tranquilizer; (b) Cafergot Tablets - Ergotamine Tartrate
+               USP 1 mg, and Caffeine USP 100 mg Tablets, packaged in 90's
+               and 250's, Rx analgesic.  Recall #D-157/158-5.
+CODE           All in-date product lots.
+MANUFACTURER   Sandoz Pharmaceuticals, East Hanover, New Jersey.
+RECALLED BY    (a) Sandoz Pharmaceuticals, East Hanover, New Jersey by
+               letters (fax) November 23, 1994, December 19, 1994, and
+               January 18, 1995; (b) Creighton Products, East Hanover, New
+               Jersey, by letter (fax) January 18, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide
+QUANTITY       Firm estimated that less than 10% of product remained on the
+               market at time of recall initiation.
+REASON         (a) Lack of assurance of dissolution specifications.
+               (b) Potential for subpotency.
+
+_______________
+UPDATE         D-125-5,Ultra Strength Muscle Rub, which appeared in the
+               April 26, 1995 Enforcement Report is being updated to
+               include the following labels:  Legend, Eckerd, Kinney, and
+               OSCO.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Fresh Frozen Plasma.  
+               Recall #B-307/308-5.
+CODE           Unit #29121-9302.
+MANUFACTURER   United Blood Services, Chicago, Illinois.
+RECALLED BY    Manufacturer, by telephone December 21, 1994, followed by
+               letter December 28, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       1 unit of each component.
+REASON         Blood products which were collected from a donor who had a
+               history of cancer were distributed.
+
+_______________
+PRODUCT        (a) Whole Blood; (b) Red Blood Cells; (c) Platelets; (d)
+               Recovered Plasma.  Recall #B-310/313-5.
+CODE           Unit numbers:  (a) 1073615, 4030907; (b) 4019164, 1067342,
+               5020196, 4040709, 2054407, C20312; (c) 4019164, 1067342,
+               5020196, 4040709, C20312; (d) 4019164, 1067342, 5020196,
+               4040709, 2054407.
+MANUFACTURER   Community Blood Center of Greater Kansas City, Kansas City,
+               Missouri.
+
+                                    
+RECALLED BY    Manufacturer, by letter May 12 or 13, 1994 (transfusable
+               products); Consignees of the Recovered Plasma and were
+               notified by letters dated January 16, 1995 and February 16,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   Kansas, Missouri, New York, Nebraska, Arizona.
+QUANTITY       (a) 2 units; (b) 6 units; (c) 5 units; (d) 5 units.
+REASON         Blood products, which tested negative for antibody to the
+               human immunodeficiency virus type 1 (anti-HIV-1), but were
+               collected from donors who previously tested repeatedly
+               reactive for anti-HIV-1, were distributed.
+
+_______________
+PRODUCT        Source Plasma.  Recall #B-314-5.
+CODE           Unit numbers:  PG50847, PG51014, PG66678, XG79023.
+MANUFACTURER   Community Bio-Resources, Inc., Columbus, Georgia.
+RECALLED BY    Manufacturer, by letter August 11, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Austria.
+QUANTITY       4 units.
+REASON         Blood products which were collected from donors with a
+               history of intravenous (IV) use were distributed.
+
+_______________
+PRODUCT        Single Donor Plasma.  Recall #B-315-5.
+CODE           Unit #53M36070.
+MANUFACTURER   American National Red Cross (ARC), The Greater Chesapeake
+               and Potomac Region, Baltimore, Maryland.
+RECALLED BY    Manufacturer, by letter April 28, 1994,  Firm-initiated
+               recall complete.
+DISTRIBUTION   Maryland.
+QUANTITY       1 unit.
+REASON         Blood product, which tested positive for an alloantibody  on
+               a screening test but was labeled as negative for unexpected
+               alloantibodies, was distributed.
+
+_______________
+UPDATE         Please disregard and delete recall numbers B-234/235-5 from
+               the Enforcement Report dated April 26, 1995.  These numbers
+               were issued in error to the respective Red Blood Cells and
+               Platelets.  Red Blood Cells, unit 13FT60183 and Platelets,
+               unit 13FT60183, should have been assigned to recall numbers
+               B-237-5 and B-238-5, respectively which also appeared in the
+               April 26, 1995 Enforcement Report.  
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+______________
+PRODUCT        Dade Reverse-Cyte Reagent Red Blood Cells Groups A1, B and
+               Groups A1, A2, B.  Recall #B-289-5.
+CODE           Catalog #B4953-1, lot RC-765 EXP 1/21/95, Catalog #B4953-2,
+               lot RCZ-765 EXP 1/21/95.
+MANUFACTURER   Baxter Diagnostics, Inc., Miami, Florida.
+
+                                    
+RECALLED BY    Manufacturer, by letter December 15, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       1,501 kits were distributed; firm estimates none remains on
+               the market.
+REASON         Reagent Red Blood Cells, which were found to be hemolyzed,
+               were distributed.
+
+_______________
+PRODUCT        Platelets, Pheresis.  Recall #B-234-5.
+CODE           Unit numbers:  03P69975 and 03P70004.
+MANUFACTURER   American National Red Cross (ARC), Atlanta, Georgia.
+RECALLED BY    Manufacturer, by letter April 20, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Georgia.
+QUANTITY       2 units.
+REASON         Blood products which were not stored under continuous
+               agitation were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Roentgenography Sets, clear vinyl tubing with luer-lock
+               adapter, sterile single use flexible low pressure 20inch
+               (475 PSI) Tubing, Rx device used externally to aid in the
+               delivery of dyes to the body for x-ray analysis.
+               Recall #Z-697-5.
+CODE           Catalog #407286, lot #3D002 EXP 4/95.
+MANUFACTURER   Manufacturer, by telephone followed by letter November 23,
+               1993.  Firm-initiated recall complete.
+DISTRIBUTION   California, Florida, Georgia, Illinois, Louisiana,
+               Massachusetts, Michigan, Minnesota, Nebraska, New Jersey,
+               New York, Ohio, Pennsylvania, Tennessee, Texas, Virginia,
+               Wisconsin, West Virginia, and international.
+QUANTITY       7,800 units were distributed; firm estimates none remains on
+               the market.
+REASON         Incorrect assembly of the device will result in leakage of
+               contrast media which may compromise product sterility.
+
+_______________
+PRODUCT        Femoral Venous cannulae: (a) French size 17; 
+               (b) French size 21.  Recall #Z-718/719-5.
+CODE           Lot numbers: (a) 69311008 and 69401001; (b) 69306005,
+               69307003, 69310003, 69311002, 69305003, 69306004, 69307004,
+               69310001, 69311002, 69312008, 69309006, 69310004, 69311008,
+               69306005, 69306006, 69307004, 69307008, 69310007, 69310002,
+               69401008, 69307002, 69311005, 69307005, 69306005, 69306009,
+               69310003, 69310003, 69311008.
+MANUFACTURER   Adam Spence Corporation, Wall, New Jersey.
+RECALLED BY    DLP, Inc., Grand Rapids, Michigan, by letter February 18,
+               1994.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+
+                                    
+QUANTITY       964 units were distributed.
+REASON         The dilator does not traverse unrestricted through the
+               venous cannula.
+
+
+_______________
+PRODUCT        CodeMaster XL+ Defibrillator/Monitor User's Guide:
+               (a) Model M1722A; (b) Model M1722B.  Z-735/736-5.
+CODE           None.
+MANUFACTURER   Hewlett-Packard Corporation, McMinnville, Oregon.
+RECALLED BY    Manufacturer, by letter January 1995.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Undetermined.
+REASON         The firm had revised the "Troubleshooting the Pacer" section
+               of the User's Guide to include instructions to check the
+               electrode/pacing pads and pads adaptor cable connection,
+               reset the unit and restart the pacer.  If the "PACER
+               FAILURE" MESSAGE reappears, the user is instructed to use a
+               back-up pacer and call for service.
+
+_______________
+PRODUCT        Midmark Chick Ultralux Lo-Profile Birthing Room Lights,
+               Models 77000 and 77016.  Recall #Z-738-5.
+CODE           Serial numbers ranging from TBS-1000 through TBS-1499.
+MANUFACTURER   Midmark Corporation, Versailles, Ohio.
+RECALLED BY    Manufacturer, by letter on or about February 10, 1995. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       500 units were distributed.
+REASON         The operation manual did not contain adequate directions for
+               the.  The manual did not provide directions stating that the
+               user is not to undock the lighthead before the light reaches
+               its full stop, or fully open position.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Cardioplegia Cannula, Double Lumen 12 gauge, 3.25: length,
+               an aortic root cannula with vent line for injection
+               cardioplegia solution and/or aspirating air:
+               (a) Cardioplegia Cannula Product #30401;
+               (b) Cardioplegia Cannula Product #30402;
+               (c) Product #30401LK - Non-Sterile Cardioplegia Cannula
+               Double lumen, 50 per carton; 
+               (d) Product #9900206 Customer Kit containing Cardioplegia
+               Cannula, Double Lumen, 1 per kit.  Recall #Z-711/714-5.
+CODE           Lot numbers:  (a) 6930-9006, 6930-8008; (b) 6931-0005, 6930-
+               8004; (c) 6931-0185, 6930-9138, 6930-8260.
+MANUFACTURER   Kendall Med-West, Salt Lake City, Utah (component).
+
+                                    
+RECALLED BY    DLP, Inc., Grand Rapids, Michigan, by telephone December 2,
+               3, 6, 1993, followed by letter December 9, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       (a) 815 units; (b) 455 units; (c) 600 units; (d) 50 kits
+               were distributed.
+REASON         Leakage of the introducer needle at the  hub or handle end
+               of the needle.
+
+_______________
+PRODUCT        Baxter ImmunoSCAN Staph Latex Kit, used as an aid in the
+               identification of S. aureus colonies from laboratory culture
+               media.  Recall #Z-715-5.
+CODE           Catalog #B1045-1A, lot #095K01 EXP 8/30/96.
+MANUFACTURER   Wampole Labs, Cranbury, New Jersey (kit); J&S; Medical
+               Associates, Inc., Natick, Massachusetts (latex reagent).
+RECALLED BY    Baxter Healthcare Corporation, McGaw Park, Illinois, by
+               letter April 13, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       102 kits were distributed; firm estimated that 50% of
+               product remained on market at time of recall initiation. 
+REASON         Autoagglutination of the latex may cause false positive test
+               results.
+
+_______________
+PRODUCT        Act II (Automated Coagulation Timer II).  Recall #Z-716-5.
+CODE           Lot numbers:  8001101, 8001102, 8001103, 8001104, 8001105,
+               8001106, 8001107, 8001108, 8001109, 8001110, 8001111,
+               8001112, 8001113, 8001114, 8001115, 8001116, 8001117,
+               8001118, 8001119, 8001120, 8001121, 8001122, 8001123,
+               8001124, 8001125, 8001126, 8001127, 8001128, 8001129,
+               8001130, 8001131, 8001132, 8001133, 8001137, 8001138,
+               8001139, 8001140, 8001142, 8001143, 8001146, 8001148,
+               8001152, 8001163, 8001181, 8001191, 8001001-8001010,
+               8001014, 8001016, 8001017, 8001022, 8001024, 8001030,
+               8001032, 8001039, 8001040, 8001051, 8001052, 8001055,
+               8001056, 8001057, 8001058, 8001059, 8001060, 8001061 -
+               8001077, 8001078, 8001091, 8001092, 8001093, 8001094,
+               8001095, 8001096, 8001097, 8001098, 8001099, 8001100.
+MANUFACTURER   Medtronic, Inc., Blood Management Division, Electromedics
+               and HemoTec, Parker, Colorado.
+RECALLED BY    Manufacturer, by letters January 27, 1995, and April 1995. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Ohio, Texas, Nebraska, Minnesota, West Virginia, Florida,
+               Iowa, Illinois, Georgia, Virginia, North Dakota, California,
+               New Jersey, international.
+QUANTITY       250 units were distributed
+REASON         The door of the device may open following completion of the
+               test which may cause the display to clear and the unit to
+               reset.
+                                    -9-
+
+END OF ENFORCEMENT REPORT FOR MAY 10, 1995.  BLANK PAGES MAY FOLLOW.
+                                   ####

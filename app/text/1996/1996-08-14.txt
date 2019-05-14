@@ -1,0 +1,484 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      68 captures
+	      25 Feb 1997 - 12 Mar 2017
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+ 
+FDA             
+Enforcement Report 
+The FDA Enforcement Report is published weekly by the Food and Drug 
+Administration, 
+U.S. Public Health Service, Department of Health and Human Services.  It contain 
+s 
+information 
+on actions  taken in connection with agency regulatory activities. 
+ 
+ ENFORCE 
+08/14/1996
+
+ ENFORCEMENT REPORT FOR 08/14/96 
+
+August 14, 1996                                     96-33
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II ===========
+_______________
+PRODUCT        Vlasic Sweet Relish, in 10 fluid ounce glass
+               jars.  Recall #F-641-6.
+CODE           Lot numbers:  Jun 97 6T5 printed on side edge
+               of cap, Lot #Jun 97 6T5 VC3 ---- (followed by
+               hour code; Packing flat coded 20JUN97C.
+MANUFACTURER   Vlasic Foods, Inc., Imlay City, Michigan.
+RECALLED BY    Vlasic Foods, Inc., a subsidiary of Campbell
+               Soup, Inc., Camden, New Jersey, by letter and
+               telephone on April 12, 1996.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Illinois, Indiana, Kentucky, Michigan,
+               Mississippi, New York, Ohio, Pennsylvania,
+               Tennessee, Texas, Virginia.
+QUANTITY       1,728 cases (12 jars per case) were
+               distributed; firm estimated that less than 100
+               cases remained on market at time of recall
+               initiation.
+REASON         Product is adulterated due to the presence of
+               glass pieces.
+
+_______________
+PRODUCT        Baladna Lupini Beans, in 8 ounce, 16 ounce and
+               1 quart Ball Mason glass jars, distributed by
+               Eden International.  Recall #F-643-6.
+CODE           None.  All Baladna labeled product, all sizes. 
+               Labels were preprinted with "Expiry Date: 
+               12/1996."
+MANUFACTURER   R.B. Gourmet Products, Inc., Blue Island,
+               Illinois.
+RECALLED BY    Eden International, Inc., Blue Island,
+               Illinois, by telephone after May 23, 1996, and
+               by letter sent on May 28, 1996.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Illinois, Michigan, Minnesota, Missouri, New
+               Jersey, New York, Ohio, Oklahoma,
+               Pennsylvania, Tennessee, Virginia, Colombia.
+QUANTITY       85 cases were distributed.
+REASON         The Baladna Lupini Beans were prepared, packed
+               or held under conditions whereby it may have
+               been rendered injurious to health because FDA
+               analysis of the product indicates that the pH,
+               salt content, water activity, and processing
+               method of the product is insufficient to
+               protect the public health.  Additionally, the
+               product is unfit for food because the food is
+               contained in swollen containers. 
+
+ 
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III ==========
+_______________
+PRODUCT        Pepsi-Cola in 2 liter bottles and 12 ounce
+               cans.  Recall #F-640-6.
+CODE           2 liter bottles - expiration date "APR 15 96"
+               - product lot code range from 06:00HJ01156
+               through 06:00HJ01226 / 12 ounce cans -
+               expiration date "OCT 21 96" product lot codes
+               range from 23:00HJ01186 through 11:00HJ1196.
+MANUFACTURER   Pepsi Cola and National Brand Beverages Ltd.,
+               Pennsauken, New Jersey.
+RECALLED BY    Manufacturer, by telephone on January 27,
+               1996, followed by visit, by press release on
+               January 26, 1996, and by letter dated February
+               2, 1996.  Firm-initiated recall complete.
+DISTRIBUTION   New Jersey.
+QUANTITY       Approximately 25,100 cases (8 2-liter bottles
+               per case) and 2,500 cases (24 12-ounce cans
+               per case) were distributed.
+REASON         The product has an off-odor and taste.
+
+_______________
+PRODUCT        Welch's Sparkling Grape Soda, in 2 liter clear
+               plastic bottles with white cap.  
+               Recall #F-642-6.
+CODE           Date of production "019-6" - product lot code
+               "HJ01196".
+MANUFACTURER   Pepsi Cola and National Brand Beverages Ltd.,
+               Pennsauken, New Jersey.
+                             -2-RECALLED BY    Canada Dry Delaware Valley Bottling Company,
+               Pennsauken, New Jersey, by visit on February
+               1-2, 1996.  Firm-initiated recall complete.
+DISTRIBUTION   New Jersey, Pennsylvania, Delaware.
+QUANTITY       Approximately 2,426 cases (8 2-liter bottles
+               per case) were distributed.
+REASON         The product has an off-odor and taste.
+
+_______________
+PRODUCT        Various canned food products put up in 8 oz.,
+               16 oz. and 1 qt. Ball Mason glass jars, 12
+               jars per case (Note: the pickled turnips were
+               also shipped in 18 lb. pails): 
+               (a) Baladna Hot Vegetable Mix
+               (b) Baladna Pickled Hot Peppers & Carrots 
+               (c) Baladna Eggplant (Stuffed) [also known as
+               Magdoose]
+               (d) Baladna Pickled Turnips 
+               (e) Baladna Pickled Beets 
+               (f) Baladna Shatta (crushed peppers)
+               (g) Baladna Lebni
+               (h) Baladna Lebni with Shatta
+               (i) Baladna Lebni with Mint
+               (j) Baladna Pure Butter.  Recall #F-644/653-6.
+CODE           All Baladna labeled product, all sizes.  There
+               are no lot numbers on the jars.  The labels
+               were preprinted with "Expiry Date: 12/1996".
+MANUFACTURER   R.B. Gourmet Products, Inc., Blue Island,
+               Illinois.
+RECALLED BY    Eden  International, Blue Island, Illinois
+               (distributor), by telephone after may 23, 1996
+               followed by letter dated May 28, 1996.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Illinois, Michigan, Minnesota, Missouri, New
+               Jersey, Pennsylvania, Tennessee, Virginia, New
+               York, Ohio, Oklahoma, Colombia.
+QUANTITY       170 cases of Hot Vegetables Mixed, 82 cases of
+               Lebni, 1 case of Lebni with Shatta, 113 cases
+               of Eggplant (Magdoose), 167 cases and 94 pails
+               of Pickled Turnips, 36 cases of Shatta, and 20
+               cases of Pure Butter were distributed between
+               October, 1995 and May, 1996, with the firm
+               estimating that very little remains on the
+               market.  An unknown small amount of Pickled
+               Hot Peppers & Carrots, Lebni with Mint and
+               Pickled Beets were distributed and the firm
+               believes none to remain on the market.
+
+                             -3-REASON         Products (a) (b) (c) (d) (e) and (f) are
+               acidified foods that were manufactured under
+               no manufacturing controls or scheduled
+               processes.  In addition, products (a) (b) and
+               (d) were found to be unfit for food because
+               these foods were contained in swollen
+               containers.   Products (g) (h) (i) and (j) are
+               misbranded in that they fail to bear
+               nutritional labeling and the firm has not
+               filed for an exemption.  In addition, the
+               butter product is labeled "Pure Butter"  when
+               it in fact has added spices and preservatives.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II =======
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Fresh
+               Frozen Plasma; (d) Recovered Plasma. 
+               Recall #B-578/581-6.
+CODE           Unit numbers:  962051, 974308, 984120; (b)
+               962051; (c) 962051; (d) 984120.
+MANUFACTURER   Central Kentucky Blood Center, Lexington,
+               Kentucky.
+RECALLED BY    Manufacturer, by letters dated April 26, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Kentucky, Massachusetts, Maryland.
+QUANTITY       (a) 3 units; (b) 1 unit; (c) 1 unit; (d) 1
+               unit.
+REASON         Blood products were collected from a donor
+               with a history of jaundice.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma. 
+               Recall #B-582/583-6.
+CODE           Unit #40GL08359.
+MANUFACTURER   American Red Cross Blood Services, Peoria,
+               Illinois.
+RECALLED BY    Manufacturer, by letter dated April 19, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Illinois, California.
+QUANTITY       1 unit of each component.
+REASON         Blood products, tested repeatedly reactive for
+               antibody to the human immunodeficiency virus
+               type 1 (anti-HIV-1), and were subjected to
+               additional retesting, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma.
+               Recall #B-591/592-6.
+CODE           Unit #FY58361.
+MANUFACTURER   INOVA Health Systems, Annandale, Virginia.
+
+                             -4-RECALLED BY    Manufacturer, by letter dated June 17, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Virginia, New Jersey.
+QUANTITY       1 unit of each component.
+REASON         Blood products, from a donor who had an
+               accidental needlestick within the previous 12
+               months, were distributed.
+
+_______________
+UPDATE         Recall numbers B-467-6 Red Blood Cells; B-468-
+               6 Recovered Plasma; B-470-6 Red Blood Cells;
+               B-471-6 Platelets, Expired; B-472-6 Recovered
+               Plasma; B-495-6 Red Blood Cells; B-496-6
+               Platelets; B-497-6 Platelets, Expired; and B-
+               498-6 Recovered Plasma, which appeared in the
+               July 10, 1996 Enforcement Report were
+               manufactured and recalled by Permian Basin
+               Regional Blood Center, Midland, Texas, and NOT
+               by Permian Basin Blood Institute.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II =========
+_______________
+PRODUCT        3/8" Proximal Barb T-Connector, Part #20688
+               found in the following Fem-Flex Femoral
+               Arterial Cannulae.  Catalog numbers: 
+               TF-A-020-25, TF-A-022-25, TF-A-024-25,
+               TF-A-024-25-H, FEM II-016-A, FEM II-018-A, FEM
+               II-020-A, DII-FEM II-020-A, ARL-2011-90TA,
+               ARL-2211-90TA, ARL-2411-90TA, AL-2011-90TA,
+               AL-2211-90TA, AL-2411-90TA, ARL-2011-STA,
+               ARL-2211-STA, ARL-2411-STA, AA-020-TFTA,
+               AA-022-TFTA, AA-024-TFTA, ARS-020-CSTA,
+               ARS-022-CSTA,  ARS-024-CSTA, DII-AL-2211-90TA,
+               SPC1023-24, SPC1037 SPC2008-24, SPC2067-22,
+               SPC2086-22, SPC2099, SPC653, SPC675,
+               SPC732-22, SPC732-24, SPC946, SPC2145, FEM
+               II-1618 KIT, FEM II-1820 KIT, FEM II-2020 KIT,
+               FEM II-2024 KIT, FEM II-2028 KIT, KIT-036. 
+               Devices are used to provide access for surgeon
+               during cardiopulmonary procedures.
+               Recall #Z-988-6.
+CODE           All products contain part #20688, 3/8"
+               Proximal Barb T-Connector, Lot #9509152.
+MANUFACTURER   Research Medical, Inc., Midvale, Utah.
+RECALLED BY    Manufacturer, by fax on July 3-5, 1996, and by
+               letter on July 8, 1996.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       19,428 units were distributed.
+REASON         The t-connectors are leaking and cracking.
+
+                             -5-_______________
+PRODUCT        Prolog Cardiac Pulse Generator, Model 688,
+               indicated for sensing/pacing in the ventricle
+               and atrium.  Recall #Z-1004-6.
+CODE           Serial numbers:  628884967, 628887028,
+               638805002, 68805010.
+MANUFACTURER   Pacesetter, AB (formerly Siemens-Elema),
+               Solna, Sweden.
+RECALLED BY    Pacesetter, Inc., Sylmar, California, by
+               letter on June 21, 1996.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   California, Pennsylvania, New York.
+QUANTITY       4 units were distributed.
+REASON         The pacemaker may exhibit a sudden loss of
+               output due to a corrosion bridge that forms
+               across the feedthrough inside the            
+               battery.
+
+_______________
+PRODUCT        DMS-250 Dual Monitor Chemical Indicator Strip,
+               for use in steam or EO gas sterilization. 
+               Recall #Z-1013-6.
+CODE           Lot numbers:  9402 and 9403.
+MANUFACTURER   SPS Medical Supply Corporation, Rush, New York
+               (device); Tempil Division, Air Liquide America
+               Corporation, South Plainfield, New Jersey
+               (ink).
+RECALLED BY    SPS Medical Supply Corporation, Rush, New
+               York, by telephone on or about April 29, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       380 cases of lot 9403 and 96 cases of lot 9402
+               were distributed.
+REASON         The indicator turns yellow (instead of orange)
+               when processed in EO gas.
+
+_______________
+PRODUCT        Ni-Med Suction Catheter Kits:
+               (a)  6 Fr., Catalog #19-6000
+               (b)  6 Fr., Catalog #SAM02019605-19C
+               (c)  8 Fr., Catalog #19-8000
+               (d)  8 Fr., Catalog #SAM02019604-19C
+               (e)  10 Fr., Catalog #19-1000
+               (f)  14 Fr., Catalog #19-1400.
+               Recall #Z-1014/1019-6.
+CODES          Lot #168-V, Exp. 3/98,  Lot #273-C, Exp. 12/97
+               Lot #218-C, Exp. 5/97,  Lot #278-C, Exp. 1/98
+               Lot #258-C, Exp. 10/97, Lot #279-C, Exp. 1/98
+               Lot #259-C, Exp. 10/97, Lot #285-C, Exp. 1/98
+               Lot #260-C, Exp. 10/97, Lot #297-C, Exp. 3/98
+               Lot #266-C, Exp. 11/97, Lot #299-C, Exp. 3/98
+               Lot #272-C, Exp. 12/97.
+
+                             -6-MANUFACTURER   Ni-Med, Inc., Park Hills, Missouri.
+RECALLED BY    Manufacturer, by telephone on April 8, 1996. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Missouri, Illinois.
+QUANTITY       The following amounts were distributed: 
+               6 Fr. - 8,600 units distributed, 1,811 units  
+                       recovered
+               8 Fr. - 39,800 units distributed, 15,325 units
+                       recovered
+               10 Fr. - 10,900 units distributed, 2,708 units
+                        recovered
+               14 Fr. - 2,250 units distributed, 544 units
+                        recovered.
+REASON         Products were marketed without an approved
+               510(k).
+
+_______________
+PRODUCT        Percutaneous Stoma Measuring Device (PSMD)
+               Tray, used to measure the stoma or opening
+               created for direct patient feeding.  
+               Recall #Z-1020-6.
+CODE           All codes manufactured since 1993.
+MANUFACTURER   Plastofilm Industries, Inc., Wheaton,
+               Illinois.
+RECALLED BY    Applied Medical Technology, Independence,
+               Ohio, by letters dated June 27, 1996 and July
+               1, 1996.  Firm-initiated recall ongoing.
+DISTRIBUTION   Massachusetts, Wisconsin, Japan, France,
+               Israel, England, Portugal, Sweden, Belgium.
+QUANTITY       6,200 kits were distributed; firm estimated
+               that approximately 4,199 kits may still have
+               been in use at time of recall initiation.
+REASON         A rough spot or burr in the PSMD tray could
+               potentially cause a hole in the tray, thus
+               compromising the sterility of the device.
+
+_______________
+PRODUCT        Manuals for VAX-D Therapeutic Table.  
+               Recall #Z-1021-6.
+CODE           All tables from US sales (sales started 1991
+               to 4/96) are included in the recall.  The
+               VAX-D Therapeutic Tables consist of a table
+               and console unit.  Each console and table have
+               a unique serial number.
+MANUFACTURER   VAT-TECH Inc., Palm Harbor, Florida.
+RECALLED BY    Manufacturer, by letter mailed beginning on
+               May 15, 1996.  Firm-initiated field correction
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+
+                             -7-REASON         The firm marketed the device without an
+               approved 510(k) for the new intended use of
+               decompression of the intervertebral disc
+               identified in the device users manual.
+
+_______________
+UPDATE         Graham Field White Finger Cots, 
+               Recall #Z-1006/1009-6 which appeared in the
+               August 7, 1996 Enforcement Report listed an
+               incorrect catalog number for item (b).  The
+               correct number is 88-3910L.
+
+
+MEDICAL DEVICE SAFETY ALERTS:  ==============================
+_______________
+PRODUCT        Monoplace Hyperbaric System, Model 2500B, used
+               for hyperbaric oxygen therapy to treat
+               ailments caused by insufficient oxygen supply. 
+               Safety Alert #N-024-6.
+CODE           2500B-002 through 2500B-663.
+MANUFACTURER   Sechrist Industries, Inc., Anaheim,
+               California.
+ALERTED BY     Manufacturer, by letters of February 22 and
+               26, 1996. 
+DISTRIBUTION   Nationwide and international.
+QUANTITY       662 chambers were distributed.
+REASON         Failure to follow labeled safety procedures
+               resulted in an explosion with fatalities. 
+               Letters urged users to review the safety and
+               emergency procedures outlined in the
+               operations manual.
+
+                             -8-
+
+END OF ENFORCEMENT REPORT FOR AUGUST 14, 1996.  BLANK PAGES MAY FOLLOW.
+
+                                   ####

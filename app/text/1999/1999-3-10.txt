@@ -1,0 +1,1092 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  22
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      28 captures
+	      15 Apr 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+
+March 10, 1999                                        
+99-10
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS
+II
+________
+PRODUCT
+Turnip Pickle, distributed in unlabeled white plastic pails. 
+Recall #F-218-9.
+CODE
+Not coded.  All products.
+MANUFACTURER
+5 Star Distributors, Dearborn, Michigan.
+RECALLED BY
+Manufacturer, by visit on or about November 12, 1998.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Michigan.
+QUANTITY
+Less than 25 pounds were distributed.
+REASON
+Product contained an unapproved color additive.
+________
+PRODUCT
+Reduced Fat Chocolate Chip Cookie Dough, in 18 ounce chub
+containers, under the following labels:  Superbrand, Kroger, and
+Weis.  Recall #F-220-9.
+CODE
+Expiration dates of 09MAY99 or earlier for the Kroger and Weis
+brands and expiration date of 06DEC98 for the Superbrand
+label.
+MANUFACTURER
+Earth Grains Refrigerated Dough Products, Inc., Carrollton,
+Texas.
+RECALLED BY
+Earth Grains Refrigerated Dough Products, Inc., St. Louis,
+Missouri, by letter faxed on January 26 & 27, 1999.  
+Firm-initiated recall ongoing.
+DISTRIBUTION
+Tennessee, Kentucky, Pennsylvania, Virginia, Ohio, California.
+QUANTITY
+4,608 cases were distributed.
+REASON
+Product contains undeclared dairy ingredients.
+________
+PRODUCT
+Shaw's Cinnamon Apple Sauce, in 25 ounce glass jars.
+Recall #F-221-9.
+CODE
+11471/WJL13 (additional letters A-Z follows the number 3).
+MANUFACTURER
+Knouse Foods, Inc., Chambersburg, Pennsylvania.
+RECALLED BY
+Shaw's Supermarket, Inc., East Bridgewater, Massachusetts, by 
+E-mail and by press release on February 4, 1999.  Firm-initiated
+recall ongoing.
+DISTRIBUTION
+Connecticut, Massachusetts, Rhode Island, New Hampshire, Maine,
+Vermont.
+QUANTITY
+148 cases (5 jars per case) were distributed.
+REASON
+Product may contain small pieces of glass.
+________
+PRODUCT
+Chamon Smoked Salmon Cheese Spread, packaged in 5 pound plastic
+containers.  Recall #F-222-9.
+CODE
+Production codes from December 24, 1998 to February 4, 1999.
+836008, 836503, 900804, 901403, 902505, 902804.
+MANUFACTURER
+JP Spreads, Inc., Winthrop, Maine.
+RECALLED BY
+Manufacturer, by telephone and by letter on February 4, 1999. 
+Firm-initiated recall ongoing.
+DISTRIBUTION
+Massachusetts, New York, New Jersey, Pennsylvania, Virginia,
+North Carolina.
+QUANTITY
+Firm estimated that less than 1,330 pounds of product remained on
+market at time of recall initiation.
+REASON
+Product contains undeclared FD&C Yellow No. 5.
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS
+III
+________
+PRODUCT
+Idaho Spud Candy Bars, chocolate covered coconut/center, 1.5
+ounces.  Recall #F-219-9.
+CODE904029, 929019, 921019, 915019, 928128, 917128, 916128,
+910128, 909128, 908128, 902128, 901128, 927118, 925118,
+920118, 918118, 912118, 911118, 906118, 905118, 904118,
+903118, 930108, 929108, 928108, 921108, 908108, 907108,
+906108, 902108, 901108, 930098, 929098, 924098, 923098,
+922098, 918098, 917098, 916098, 910098, 909098, 927088,
+920088, 919088, 918088, 914088, 913088, 911088, 906088,
+905088.
+MANUFACTURER
+Idaho Candy Company, Boise, Idaho.
+RECALLED BY
+Manufacturer, by letter dated February 22, 1999.  Firm-initiated
+recall ongoing.
+DISTRIBUTION
+Idaho, Washington state, Oregon, North Carolina, Nevada, Utah,
+Wyoming, Montana, North Dakota, Arkansas and Colorado.
+QUANTITY
+Approximately 774,840 bars were distributed.
+REASON
+Product is unfit for food due to containing small pieces of
+wood.
+________
+PRODUCT
+Low Moisture Part Skim Mozzarella Cheese, in approximate 6 pound
+loaf.  Recall #F-223-9.
+CODE
+"06 44 11 08 1998G" (on loaves) and "208312" (on cases).
+MANUFACTURER
+Beatrice Cheese, Inc., Gustine, California.
+RECALLED BY
+Beatrice Cheese, Inc., Waukesha, Wisconsin, by verbal
+communication on December 16, 1998, and by letter.  
+Firm-initiated recall ongoing.
+DISTRIBUTION
+California.
+QUANTITY
+143,660 pounds were distributed.
+REASON
+Product is unfit for food due to containing small pieces of
+metal.
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS
+-- CLASS II
+________
+PRODUCTOxygen, USP, Rx, compressed, in high pressure cylinders, E, D,
+and A size; 
+Oxygen, USP, Rx, liquefied, in GP-4500 and GP-5500 vessels; 
+Medical Air, USP, Rx, compressed, in high pressure cylinders,
+Size 233.  Recall #D-129/131-9.
+CODEMedical Air USP:      18L981     18L982   01M981    02M981
+Medical Oxygen USP:   05L981     05L982   05L983    06L981
+                      18L981     18L982   01M981    02M981
+                      02M982    04M981    04M982    07M981
+                      07M982    07M983    07M984    07M985
+                      07M986    08M981    08M982.
+MANUFACTURER
+Red Ball Oxygen Co., Inc., Shreveport, Louisiana.
+RECALLED BY
+Manufacturer, by fax followed by letter dated December 18, 1998,
+and telephone.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Arkansas, Louisiana, Texas.
+QUANTITY
+a) 1,008 cylinders; b) 6 cylinders; c) 2 cylinders were
+distributed.
+REASON
+Current good manufacturing practice deviations including but not
+limited to: Lack of documented assay results for purity and
+identity and Lack of equipment calibration records.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS
+II
+________
+PRODUCT
+Platelets, Pheresis, Leukocytes Reduced.  Recall #B-543-9.
+CODE
+Unit Numbers:  17184-0167, 17185-3384, 17185-6919-01,
+17185-6919-02, 17185-8528-01.
+MANUFACTURER
+United Blood Services, McAllen, Texas.
+RECALLED BY
+Manufacturer, by telephone on January 6, 1999, and by letter on
+January 22, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+5 units were distributed.
+REASON
+Blood products had high platelet counts.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-544-9.
+CODE
+Unit #5066686.
+MANUFACTURER
+BloodCare, Dallas, Texas.
+RECALLED BY
+Blood Care, Bedford, Texas, by letter dated October 8, 1998. 
+Firm-initiated recall complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor whose arm had not been
+adequately prepared prior to venipuncture.
+________
+PRODUCT
+a) Red Blood Cells; b) Recovered Plasma.  Recall #B-557/558-9.
+CODE
+Unit #5079884.
+MANUFACTURER
+BloodCare, Dallas, Texas.
+RECALLED BY
+Manufacturer, by telephone and fax on July 26, 1998, and by
+letters dated August 14, 1998, and November 20, 1998.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Texas and Switzerland.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor who reported
+previously testing positive for hepatitis B.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-559-9.
+CODE
+Unit #9037768.
+MANUFACTURER
+Oklahoma Blood Institute, Oklahoma City, Oklahoma.
+RECALLED BY
+Manufacturer, by fax on May 30, 1997.  Firm-initiated recall
+complete.
+DISTRIBUTION
+Oklahoma.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was labeled with an extended expiration date.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-560-9.
+CODE
+Unit #9589271.
+MANUFACTURER
+Oklahoma Blood Institute, Oklahoma City, Oklahoma.
+RECALLED BY
+Manufacturer, by telephone on June 24, 1997, or by fax on
+September 29, 1997.  Firm-initiated recall complete.
+DISTRIBUTION
+Oklahoma.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was labeled with an extended expiration date.
+_______
+PRODUCT
+Platelets.  Recall #B-566-9.
+CODE
+Unit #411571.
+MANUFACTURER
+Memorial Blood Centers of Minnesota, Minneapolis, Minnesota.
+RECALLED BY
+Manufacturer, by telephone on July 17, 1996.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Minnesota.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product corresponded to a unit of Red Blood Cells that was
+positive for Serratia liquifaciens.
+_________
+PRODUCT
+Red Blood Cells.  Recall #B-567-9.
+CODE
+Unit numbers:  3218643, 5535507, 5535526, 9025398, and
+9531766.
+MANUFACTURER
+Oklahoma Blood Institute, Oklahoma City, Oklahoma.
+RECALLED BY
+Manufacturer, by telephone on December 3, 1996, by fax on January
+24, 1997, and October 30, 1998.  Firm-initiated recall
+complete.
+DISTRIBUTION
+Oklahoma, Arkansas, Texas.
+QUANTITY
+5 units were distributed.
+REASON
+Blood products corresponded to a unit of single donor platelets
+which was positive for Staphylococcus auricularis, or a unit of
+pooled platelets which was positive for Enterococcus faecalis.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS
+III
+________
+PRODUCT
+Recovered Plasma.  Recall #B-470-9.
+CODE
+Unit #19GJ31326.
+MANUFACTURER
+American Red Cross Blood Services, Nashville, Tennessee.
+RECALLED BY
+Manufacturer, by fax on August 22, 1996.  Firm-initiated recall
+complete.
+DISTRIBUTION
+Switzerland.
+QUANTITY
+1 unit was distributed.
+REASON
+Unit of red blood cells, implicated in a transfusion reaction was
+found to be contaminated with Serratia marcescens.  Corresponding
+blood product was distributed.
+________
+PRODUCT
+a) Red Blood Cells; b) Red Blood Cells, Leukocytes Removed; 
+c) Cryoprecipitate; d) Fresh Frozen Plasma; e) Platelet
+Concentrate; f) Recovered Plasma.  Recall #B-537/542-9.
+CODEUnit numbers:  a) R88058, R88067, R88072, W76310, W76314, W76318,
+L88758, W76326, R88065, R88070, R88075, R88078, R88093, W76257,
+H95335, H95339, H95617, H95619, L88753, L88761, H95625, W76288;
+b) W76292, W76298, W76299, W76302, H95327, H95332;
+c) W76299, L88758, R88093, H95335, H95339;
+d) R88058, W76314, W76318, W76326, R88065, R88075, R88078,
+L88756;
+e) R88058, R88072, W76310, W76314, W76318, R88075, W76326,
+R88065, R88070, R88078, H95617, L88753, L88756, L88761, W76288,
+W76292, H95625;
+f) W76298, R88067, W76299, R88072, W76302, W76310, L88758,
+R88070, R88093, W76257, H95327, H95332, H95335, H95339, H95617,
+H95619, L88753, L88761, W76288, W76292, H95625.
+MANUFACTURER
+Healthcare Provider Services, Inc., Providence, Rhode Island.
+RECALLED BY
+Manufacturer, by letters dated November 5, 1998, and December 17,
+1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Massachusetts, Rhode Island, Switzerland.
+QUANTITY
+a) 22 units; b) 6 units; c) 5 units; d) 8 units; e) 17 units; 
+f) 21 units were distributed.
+REASON
+Blood products were incorrectly tested for the anti-HIV-1
+Antigen.
+
+________
+PRODUCT
+Autologous Peripheral Blood Stem Cells.  Recall #B-555-9.
+CODE
+Unit #5012743.
+MANUFACTURER
+BloodCare, Dallas, Texas.
+RECALLED BY
+Manufacturer, by letter dated October 22, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+1 unit was distributed.
+REASON
+Autologous blood product tested repeatedly reactive for 
+anti-HTLV-1/2 Western blot indeterminate was distributed without
+a "Biohazard" label.
+________
+PRODUCT
+Platelets.  Recall #B-556-9.
+CODE
+Unit #10515-6735.
+MANUFACTURER
+United Blood Services, Scottsdale, Arizona.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by telephone on August
+15, 1996.  Firm-initiated recall complete.
+DISTRIBUTION
+North Dakota.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was prepared from a unit of whole blood designated
+as a difficult collection.
+________
+PRODUCT
+Platelets, Pheresis.  Recall #B-561-9.
+CODE
+Unit numbers:  7357373-AP, 7357373-AP2, 7357373-AP3 (split
+product).
+MANUFACTURER
+Oklahoma Blood Institute, Oklahoma City, Oklahoma.
+RECALLED BY
+Manufacturer, by fax on September 16, 1997.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Oklahoma.
+QUANTITY
+3 units were distributed.
+REASON
+Blood products were distributed after the donor reported a post
+donation illness.
+
+RECALLS AND FIELD CORRECTIONS: 
+DEVICES -- CLASS II
+________
+PRODUCT
+Corometrics Infant (Apnea) Monitors: Models:  500, 500E, 500EXL,
+501, 502, 510, 511.  Recall #Z-623/633-9.
+CODECatalog Number and Serial Number:
+Z-623-9 Catalog Number:  0500CAH
+Serial Numbers:  13000072 through 13000079
+Z-624-9 Catalog Number:   0500CEH
+Serial Numbers:  13000727 through 13000735
+Z-625-9 Catalog Number:  0500EAA
+Serial Numbers: 01008733, 01313153, 01413992, 02008925, 02401891,
+03313332, 0382141, 04009140, 04906080, 05414166, 06009449,
+06414255, 07313548, 0782589, 0782643, 08111351, 08313729, 
+08313748, 08401467, 08414373, 08414377, 0882788, 0882825, 
+0882915, 09212832, 09414386, 09414418, 0983105, 0983125, 
+10212900, 10313792, 10414489, 11212995, 1183710, 11907344,
+12010360, 12010412, 12111764, 12111770, 12111778
+Z-626-9 Catalog Number: 0500FAA
+Serial Numbers: 13000520, 13000521,  13000523, 13000524,
+13000527,13000528
+Z-627-9 Catalog Number:0500FEH
+Serial Numbers:  13000215 through 13000226, 13000230, 13000231
+13000233 through 13000237 
+Z-628-9 Catalog Number:  0501AAY
+Serial Number:  13000027
+Z-629-9 Catalog Number:  0502AAA
+Serial Numbers:  06901691, 13000258 through 13000263
+Z-630-9 Catalog Number:  0502ALH
+Serial Numbers:  13000140,13000145,13000146
+Z-631-9  Catalog Number:  051OAAT
+Serial Number:  13000022
+Z-632-9 Catalog Number:  0511BAT
+Serial Numbers:  13000373 through 13000381, 
+13000384, 13000386, 13000387
+Z-633-9 Catalog Number:  0511BDT
+Serial Number:  13000054,13000055,13000056.
+MANUFACTURER
+Corometrics Medical Systems, Inc., Wallingford, Connecticut.
+RECALLED BY
+Manufacturer, by telephone on January 18, 1999, and by letter on
+January 21, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+California, Connecticut, Florida, Georgia, Louisiana,
+Massachusetts, Maryland, Minnesota, Mississippi, Kansas,
+Nebraska, New York, Ohio, Tennessee, Texas, Virginia, Washington,
+international.
+QUANTITY
+106 units were distributed.
+REASON
+The audio alarm may fail to sound.
+________
+PRODUCT
+Model 3000 Nuclear Cameras:  a) Model Prism 3000XP; 
+b) Model Prism 3000  S'.  Recall #Z-641/642-9.
+CODE
+All serial numbers.
+MANUFACTURER
+Picker International, Inc., Highland Heights, Ohio.
+RECALLED BY
+Manufacturer, by Mandatory Service Letter #403, dated November
+18, 1998.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+325 units were distributed.
+REASON
+Unintended motion of gantry during set up.
+________
+PRODUCTPrism XPVT Nuclear Medicine Imaging System:
+a) AXIS Catalog # 210714; b) AXIS Catalog # 210880;
+c) AXIS Catalog # 211037; d) AXIS Catalog # 211039;
+e) IRIX Catalog # 210857; f) IRIX Catalog # 210881;
+g) IRIX Catalog # 211036; h) IRIX Catalog # 211040. 
+Recall #Z-643/650-9.
+CODESerial numbers:  a) 101 - 171, 173 - 175, 177, 180;
+b) 101 - 171, 173 - 175, 177;
+c) 172, 176, 181 - 245, 252, 253, 255;
+d) 172, 176, 181 - 245, 252, 253, 255; 
+e) 101 - 171, 173 - 175, 177 - 180;
+f) 101 - 171, 173 - 175, 177 - 180;
+g) 172, 176, 181 - 234, 252, 253, 255;
+h) 172, 176, 181 - 245, 252, 253, 255.
+MANUFACTURER
+Picker International., Inc., Highland Heights, Ohio.
+RECALLED BY
+Manufacturer, by letter dated December 15, 1998.  Firm-initiated
+recall ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+63 units were distributed.
+REASON
+Unexpected camera movement which requires the operator to power
+down and reboot with delay in diagnosis.
+________
+PRODUCT
+Nuclear Medical Imaging Systems:  a) Prism 1000; b) Prism 1500;
+c) Prism 2000; d) Prism 3000.  Recall #Z-651/654-9.
+CODE
+Serial Numbers:  a) Prism 1000s - All
+Prism 1000XP - All up to and including S/N 973;
+b) Prism 1500XP - All up to and including S/N 135;
+c) Prism 2000S - All
+Prism 2000XP - All up to and including S/N 973; 
+d) Prism 3000XP, systems S/N 273-424. 
+MANUFACTURER
+Picker International., Inc., Highland Heights, Ohio.
+RECALLED BY
+Manufacturer, by Mandatory Service Letter #384, dated May 12,
+1997.  Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+158 units were distributed.
+REASON
+Software error may result in loss of data requiring patient 
+re-scan and possible delay in diagnosis.
+________
+PRODUCT
+Nuclear Medical Imaging Systems w/FX and FX 800 Series Computers
+and Version 8.3.11 software.  Recall #Z-655/656-9.
+CODE
+All serial numbers.
+MANUFACTURER
+Picker International, Inc., Highland Heights, Ohio.
+RECALLED BY
+Manufacturer, by Mandatory Service Letter #404, dated November
+17, 1998.  Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+70 units were distributed.
+REASON
+Software error may result in patient misdiagnosis.
+_______
+PRODUCT
+Prism 1500 Nuclear Medical Imaging System, Model 1500XP.
+Recall #Z-657-9.
+CODE
+Serial Numbers:  099, 101 - 151.
+MANUFACTURER
+Picker International., Inc., Highland Heights, Ohio. 
+RECALLED BY
+Manufacturer, by Mandatory Service Letter #398, dated July 14,
+1998.  Firm-initiated field correction complete.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+32 units were distributed.
+REASON
+Uncommanded, unexpected, linear gantry movement due to
+electro- static discharge.
+________
+PRODUCT
+Model 3000 Nuclear Imaging System Cameras:  a) Prism 3000XP; 
+b) 3000S.  Recall #Z-658/659-9.
+CODE
+All serial numbers.
+MANUFACTURER
+Picker International., Inc., Highland Heights, Ohio.
+RECALLED BY
+Manufacturer, by Mandatory Service Letter #379, dated February
+19, 1997.  Firm-initiated field correction complete.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+70 units were distributed.
+REASON
+Incorrect head movement and message display due to software
+errors.
+________
+PRODUCT
+Edge System Pelvic Array Coil, an accessory to the MRI.
+Recall #Z-660-9.
+CODE
+All serial numbers.
+MANUFACTURER
+Picker International, Inc., Highland Heights, Ohio.
+RECALLED BY
+Manufacturer, by Mandatory Service Letter #388, dated October 20,
+1997.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+71 units were distributed.
+REASON
+Excessive patient heating during examination in the Pelvic Array
+Coil.
+________
+PRODUCT
+LIFEPAK 12 defibrillator/monitor: designed for both
+out-of-hospital and hospital users, automated external
+defibrillator (AED) and manual defibrillation therapy, diagnostic
+monitoring and extensive data storage capability, Part Numbers:
+VLP12-02-000021-24,26,27,29,31,34,35,39,40,42,44,46,50,53,55,57,58,59,62,63,64,65,67,68,69 and 000116.  Recall #Z-671-9.
+CODE
+Selected serial numbers between 11030322 and 11269906.
+MANUFACTURER
+Medtronic Physio-Control, Redmond, Washington.
+RECALLED BY
+Manufacturer, by visit beginning on January 13, 1999, and by
+letter.  Firm-initiated field correction complete.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+649 units were distributed.
+REASON
+The placement of incorrect circuit board into the
+device resulted in the failure of the device to perform as
+intended.
+________
+PRODUCT
+a) Precitrol-A Control Serum and Diluent, Catalog No.
+620211/917211,; b) Precitrol-N Control Serum and Diluent, Catalog
+No. 620212/917212; c) Precical Calibrator Serum and Diluent,
+Catalog No. 620213/917213, d) Bilirubin, Total and Direct,
+Catalog No. 123919.  Recall #Z-672/675-9. 
+CODE
+Lot Numbers: a) 121033, EXP 09/23/99; b) 121034 EXP 07/25/99;
+c) 108615 EXP 02/28/99; 121035 EXP 07/11/99; 253410 EXP 02/06/00;
+298017, EXP 05/21/00; 750001, EXP 11/20/00; and 75002, EXP
+12/01/00; d)679951, EXP 5/99; and 693365, EXP 8/00.
+MANUFACTURER
+Roche Diagnostics/Boehringer Mannheim Corporation, Indianapolis,
+Indiana; Boehringer Mannheim GmbH, Mannheim, Germany (Catalog
+#123919 only).
+RECALLED BY
+Roche Diagnostics/Boehringer Mannheim Corporation, Indianapolis,
+Indiana, by letter on December 7, 1998.  Firm-initiated recall
+ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+Approximately 233,000 kits.
+REASON
+The method for calibration of total bilirubin/DPD results in a
++16% analytical bias compared to the Doumas method.
+________
+PRODUCT
+Lithotripsy System Software EPROMS: a) Software Version LSH V
+3.0; b) Software Version V 1.2.  Recall #Z-680/681.
+CODE
+Model: LithoTron System, software versions LSH V 3.0 and LITHO V
+1.2 for operation of the following LithoTron instruments: S/N
+002, 004, 012, 014, 020, 021, 022, 026, 028, 030, 031, 034, 0045,
+046, 047, 048, 050.
+MANUFACTURER
+HMT High Medical Technologies AG, CH-8280 Kreuzlingen,
+Switzerland.
+RECALLED BY
+HealthTronics, Marietta, Georgia, by software upgrade on November
+24, 1998, and by letter dated January 13, 1999.  Firm-initiated
+field correction ongoing.
+DISTRIBUTION
+Nebraska, Missouri, Texas, Washington state, Indiana,
+Pennsylvania, Florida, Connecticut, California, Tennessee,
+Georgia.
+QUANTITY
+17 LithoTran systems were distributed.
+REASON
+Software upgrade yielding error messages and complete lock-up of
+instrument.
+________
+PRODUCT
+Port-A-Cath P.A.S. Port II Implantable Venous Access, used for
+the delivery of drugs, fluids, and nutritional solutions by
+infusion or syringe.  Recall #Z-682-9.
+CODE
+All lots.
+MANUFACTURER 
+Sims Deltec, Inc., St. Paul, Minnesota.
+RECALLED BY
+Manufacturer, by letter on February 16, 1999.  Firm-initiated
+field correction ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+13,235 units were distributed.
+REASON
+The portal housings of some of the devices became cracked and
+some of the septums in the devices became dislodged.
+________
+PRODUCT
+Olympic Mini Bili-lite, Models 77 & 78.  Recall #Z-683/684-9.
+CODE
+Catalog Numbers:  51477 and 51478, Serial Numbers 1191, 1192,
+10052 though 10188 (non-continuous).
+MANUFACTURER
+Olympic Medical Corp., Seattle, Washington.
+RECALLED BY
+Manufacturer, by fax on November 19, 1998.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+138 units were distributed.
+REASON
+Support springs in Bili-Lites may break causing arm to fall.
+________
+PRODUCT
+Bubble Suction Tubing.  Recall #Z-685-9.
+CODE
+Lot #41AJCM16 EXP 2004-01.
+MANUFACTURER
+ConMed Corporation, El Paso, Texas.
+RECALLED BY
+Manufacturer, by fax on February 19, 1999, and by letter dated
+February 22, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+North Carolina and Florida.
+QUANTITY
+12 cases (50 units per case) were distributed.
+REASON
+Non-sterility.
+________
+PRODUCT
+Beta 90/50 Mobile Imaging Table.  Recall #Z-686-9.
+CODE
+Serial numbers:  2958 and 2965.
+MANUFACTURER
+Stille Beta, Inc., Akron, Ohio.
+RECALLED BY
+Manufacturer, by telephone on or about September 15, 1998.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Ohio and Florida.
+QUANTITY
+2 units were distributed.
+REASON
+Tables were shipped and sold without properly designed final
+modifications.
+________
+PRODUCT
+8mm Straight Ratchet Clips, indicated for surgical clamping
+during cardiovascular peripheral vascular, and general surgery:
+a) Model No. G-8050; b) - Model No. AVD-8000.  
+Recall Z-687/688-9. 
+CODE
+Lot numbers:  a) 96B067, 98B118, C8E032, C8F003; b) E5N013,
+96A007, 96C182, 96B065, 96E130 - 96E132, 96G316, 96H446, 97F286,
+97K067, 97M206, 98B052, 98C074, C8E012. 
+MANUFACTURER
+Applied Medical Resources, Laguna Hills, California.
+RECALLED BY
+Manufacturer, by telephone or fax beginning August 6, 1998. 
+Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+411 units were distributed.
+REASON
+A non-radiused corner on the ratchet clip could perforate the
+pouches, thereby, compromising the sterility of the devices.
+________
+PRODUCT
+Verdict Cocaine Test and Verdict THC/Cocaine Test, intended for
+use in the detection of cocaine and/or cocaine metabolites in
+human urine:  a) Verdict Cocaine 50-Test Pack, Catalog No.
+600230, b) Verdict THC/Cocaine 50-Two-Test Pack, Catalog No.
+600213.  Recall #Z-689/690-9.
+CODE
+Lot numbers:  a) VCOPE-04-7, EXP 5/31/99; 
+b) VTCPE-02-7, EXP 5/31/97.  
+MANUFACTURER
+MedTox Diagnostics, Burlington, North Carolina.
+RECALLED BY
+Manufacturer, by letter, followed by telephone on October 16,
+1997.  Firm-initiated recall complete.
+DISTRIBUTION
+Alabama, Arizona, California, Florida, Georgia, Iowa, Kentucky,
+Louisiana, New York, North Carolina, Ohio, Oklahoma,
+Pennsylvania, South Carolina, Texas, Tennessee, Virginia,
+Wisconsin, Puerto Rico.
+QUANTITY
+288 kits were distributed.
+REASON
+The product can produce false positive cocaine test results.
+________
+PRODUCT
+Kendall Sher-I-Bronch Endobronchial Tubes and VHA Plus
+Sher-I-Bronch Endobronchial Tubes, Left and Right Sided, intended
+for use in thoracic surgery, bronchospirometry, administration of
+endobronchial anesthesia, etc.  The tube is indicated for main
+stem brochus intubation and allows for selective inflation or
+deflation of either lung.  Model:  Kendall Sher-I-Bronch -10
+Catalog Numbers; VHA Plus Sher-I-Bronch- 4 Catalog Numbers. See
+Code Information.  Recall #Z-699/712-9.
+CODEKendall's Sher-I-Bronch Endobronchial: 
+CATALOG   LOT NO.  Description
+5-16028   067903   Left Sided, 28 Fr
+          O68551   
+          069429   
+5-16035   067691   Left Sided, 35 Fr
+          068385   
+          069422   
+          069431   
+          069865   
+          070339   
+          070749   
+5-16037   067625   Left Sided, 37 Fr
+          067685   
+          067688   
+          068387    
+          068555   
+          068586   
+          069003   
+          069005   
+          069860   
+          069861   
+          069867   
+          070341   
+          070869   
+5-16039   067168   Left Sided, 39 Fr
+          067174   
+          067684   
+          067687   
+          068548
+          068553
+          069423
+          069424
+          069862
+          070338
+          070340
+          070343
+5-16041   067622   Left Sided, 41 Fr
+          068550
+          069006
+          069859
+          070346
+          070867  
+5-16128   067904  Right Sided, 28 Fr
+          068386
+          069194
+          069426
+5-16135   067692  Right Sided, 35 Fr
+          068388
+          069425
+          069431
+5-16137   067172  Right Sided, 37 Fr
+          069004
+          069427
+          069433
+5-16139   067173  Right Sided, 39 Fr
+          069863
+5-16141   067621  Right Sided, 41 Fr
+          069428
+          070345
+VHA Plus Label:
+V5-16035 069421 Left Sided, 35 Fr
+V5-16037 069002 Left Sided, 37 Fr
+         070342
+         070870
+V5-16039 067686 Left Sided, 39 Fr
+         070344
+V5-16041 068549 Left Sided, 41 Fr 
+         070868.
+MANUFACTURER
+Kendall Company, Argyle, New York.
+RECALLED BY
+Kendall Healthcare, Mansfield, Massachusetts, by letter on
+February 5, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+15,731 Kendall units and 895 VHA Plus units were distributed.
+REASON
+Improper assembly (gap in bonding) of endobronchial tubes may
+cause leaking of air/gas.
+________
+PRODUCT
+CaverMap Surgical Aid Disposables Kit (Sterile).  Part No. 8300.
+The UroMed CaverMap Surgical is indicated for use in the
+stimulation of the cavernosal nerves, during open prostatectomy
+surgical procedures. The kit contains: probe tip, return lead,
+and tumescence sensor.  Model: CaverMap Surgical Aid Disposables
+Kit (sterile).  Recall #Z-716-9.
+CODE
+Part #8300, Lot #JBH9014, EXP 7/14/99.
+MANUFACTURER
+Uromed Corporation, Norwood, Massachusetts.
+RECALLED BY
+Manufacturer, by fax on February 11, 1999, followed by telephone
+on February 12, 15, 16, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+California, Colorado, New York, Florida, Illinois, Missouri,
+Washington state, Tennessee, Canada.
+QUANTITY
+123 units were distributed.
+REASON
+Sterility of device is compromised due to tears in the Mylar
+Pouch.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS
+III
+________
+PRODUCT
+Sicklequik, an in-vitro diagnostic used as a differential
+solubility test for Hemoglobin S for diagnosis of sickle cell
+anemia.  Recall #Z-670-9.
+CODE
+Lot numbers:  5732 and 5738.
+MANUFACTURER
+Biopool International, Westchester, Pennsylvania.
+RECALLED BY
+Organon Teknika Corporation, Durham, North Carolina, by letter on
+September 18, 1998.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide, The Netherlands, Canada.
+QUANTITY
+271 kits containing 25 vials or 100 vials were released for
+distribution.
+REASON
+The test interpretations with these products have proven to be
+difficult.
+________
+PRODUCTICON Fx hCG Serum-Urine and Urine Test Kits, designed to detect
+human chorionic gonadotropin (hCG) in urine or serum, as an aid
+in the early detection of pregnancy:
+a) Product No. 40005, ICON Fx hCG Serum-Urine - 5 Tests; 
+b) Product No. 40025, ICON Fx hCG Serum-Urine - 25 Tests;
+c) Product No. 40050, ICON Fx hCG Serum-Urine - 50 Tests;
+d) Product No. 41025, ICON Fx hCG Urine - 25 Tests. 
+Recall #Z-676/679-9.
+CODE
+All lots of the above test kits.
+MANUFACTURER
+Beckman Coulter, Inc., (formerly Smith Kline Diagnostics), Palo
+Alto, California.
+RECALLED BY
+Beckman Coulter, Inc., Brea, California, by letter on January 27,
+1999.   Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and Puerto Rico.
+QUANTITY
+8,338 kits were distributed.
+REASON
+Device gives false negative results in urine samples.
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS 
+-- CLASS II
+________
+PRODUCT
+ACCO Beef Maker 28% 250 BOV (AT) Medicated Feed, in 33.3 pound
+blocks of feed medicated with Lasalocid (125 mg per pound).
+Recall #V-038-9.
+CODE
+Lot Number    B-18 EXP 8/18/97, C-30 EXP 6/30/98, 
+T-19 EXP T7-98 (July 1998).
+MANUFACTURER
+Cargill Inc., Abilene, Texas.
+RECALLED BY
+ACCO Feeds, Inc.  Minneapolis, Minnesota, by telephone on July
+31, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Texas and New Mexico.
+QUANTITY
+Firm estimates none remains on the market.
+REASON
+Lot B-18 contained protein derived from mammalian tissue and was
+distributed after the effective date of the regulation and after
+its expiration date.  Lots C-30 and T-19 were distributed after
+their expiry date.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -
+CLASS III
+________
+PRODUCT
+Garagen Topical Spray, gentamicin sulfate veterinary with
+betamethasone valerate, For the treatment of infected superficial
+lesions in dogs.  Recall #V-037-9.
+CODE
+Lot No.  8-CFY-5051 - Expiration June 2001.
+MANUFACTURER
+Schering Plough Animal Health Corporation, Elkhorn, Nebraska.
+RECALLED BY
+Schering Plough Animal Health Corporation, Union, New Jersey, by
+telephone on November 5-6, 1998, and by letter dated November 13,
+1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Texas, Iowa, Wisconsin, Indiana, California, New York, Nebraska,
+Michigan.
+QUANTITY
+225 units of 12 bottles were distributed.
+REASON
+Insert had incorrect statement that the product is for use in
+dogs and cats.  The product is only approved for use in dogs.  
+Also the wrong NADA number was printed on the insert.  Correct
+NADA number 132-338.
+
+END OF ENFORCEMENT REPORT FOR MARCH 10, 1999.
+
+####

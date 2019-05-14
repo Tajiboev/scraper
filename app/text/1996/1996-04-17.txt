@@ -1,0 +1,640 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      31 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+04/17/1996
+
+ ENFORCEMENT REPORT FOR 04/17/96 
+
+
+April 17, 1996                                      96-16
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I ============
+_______________
+PRODUCT        Various sandwich products :
+               1.  Egg Salad Sandwich
+               2.  Luncheon Meat & Cheese Sandwich
+               3.  Luncheon Meat & Pickle Sandwich
+               4.  Luncheon Meat & Potato Salad Sandwich
+               5.  Tuna Salad Sandwich
+               6.  Chicken Salad Sandwich
+               7.  Ham Sandwich
+               8.  Ham & American Cheese Sandwich
+               9.  Ham & Swiss Cheese Sandwich
+               10. Ham & Sliced Egg
+               11. Ham with Lettuce & Pickle
+               12. Turkey with Lettuce & Pickle
+               13. Roast Beef Sandwich
+               14. Club Sandwich
+               15. Muffuletta Sandwich
+               16. Ham & American Cheese, Long Bun
+               17. Roast Beef Sandwich, Long Bun
+               18. Super Sub Long Bun
+               19. Super Triple Sandwich
+               20. Ham & American Cheese Sandwich, French 
+                   Bread
+               21. Roast Beef with Gravy on French Bread
+               22. Ham & American Cheese Dressed, French
+                   Bread
+               23. Roast Beef Dressed, French Bread
+               24. Plain Hot Dog
+               25. Small Hamburger
+               26. Chili Dog
+               27. Chili & Cheese Dog
+               28. Small Cheeseburger
+               29. Lil BBQ
+               30. Twin Hot Dog
+               31. Small Hot Sausage Sandwich
+               32. Grilled Cheese Sandwich
+               33. Sausage & Egg on Toast
+               34. Large Cheeseburger
+               35. Large Steak Sandwich
+               36. Large BBQ Beef Sandwich
+               37. Large Ham & American Cheese Sandwich
+               38. Large Lot-A-Burger
+               39. All Beef Burger
+               40. All Beef with Cheese Sandwich
+               41. Hot Cajun Sausage (patty) Sandwich
+               42. Double Cheeseburger
+               43. Meatball with Cheese Sandwich (steak bun)
+               44. Ham & Cheese Sandwich (steak bun)
+               45. Long Dog
+               46. Hot Sausage, long bun
+               47. BBQ Sausage, long bun.  
+               Recall #F-394/440-6.
+CODE           Expiration date on or before "2 10".
+MANUFACTURER   Finest Foods, Inc. doing business as Mrs.
+               Drake's Sandwiches, New Orleans, Louisiana
+RECALLED BY    Manufacturer, on February 16, 1996.  Route
+               drivers were instructed to pull recalled
+               product from retail.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Louisiana.
+QUANTITY       20,000 to 25,000 sandwiches distributed per
+               week. Firm estimates none remains on the
+               market.
+REASON         The products are contaminated with Listeria
+               monocytogenes.
+
+_______________
+PRODUCT        Creamy Gorgonzola Cheese, in approximately 20
+               pound wheels and 5 pound pieces.  
+               Recall #F-441-6.
+CODE           PROD. DATE 92695 and PROD. DATE 92795 on
+               product labels.
+MANUFACTURER   BelGioioso Cheese, Inc., (formerly Auricchio
+               Cheese Company, Denmark, Wisconsin.
+
+                             -2-RECALLED BY    Manufacturer, by letters on January 18, 1996,
+               and February 2, 1996.  Firm-initiated recall
+               complete.
+DISTRIBUTION   California, Colorado, Florida, Georgia,
+               Illinois, Minnesota, New Jersey, New York,
+               North Carolina, Pennsylvania, Tennessee,
+               Washington state, Wisconsin.
+QUANTITY       4,500 pounds were distributed.
+REASON         Product is contaminated with Listeria
+               monocytogenes.
+
+_______________
+UPDATE         Recall #F-374/379-6, Various Ice Cream, which
+               appeared in the April 10, 1996 Enforcement
+               Report should read:
+               REASON: Products are or may be contaminated
+               with Listeria monocytogenes.
+
+
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS III ===========
+_______________
+PRODUCT        Various juice products containing apple juice:
+               (a) Red Cheek Apple Juice, 64 ounces; 
+               (b) Mott's Apple Juice, 64 ounces and 10
+               ounces;
+               (c) Mini Mott's Apple Juice, 4.23 ounces; 
+               (d) Mott's Fruit Punch, 8.45 fluid ounces;
+               (e) Mott's Tropical Punch, 8.45 fluid ounces;
+               (f) Mott's Apple/Grape Juice, 10 ounces; 
+               (g) Mott's Juice Pak, 8.45 fluid ounces. 
+               Recall #F-384/390-6.
+CODE           Product produced between 8/15/95 - 9/13/96. 
+               Lot numbers: (a) A50821-A50823; (b) A50815-
+               A50818, A50821-A50831, A50905-A50908, A50912-
+               A50913 (64 ounces); A50829-A50831 (10 ounces);
+               (c) A50822, A50828-A50830; (d) A50823, A50824,
+               A50826; (e) A50829; (f) A50901; (g) A50824-
+               A50826, A50906.
+MANUFACTURER   Binder Gmbt1, Germany; Barasch, Switzerland
+               (apple juice concentrate suppliers).
+RECALLED BY    Mott�s North America, Stamford, Connecticut,
+               by letter dated March 4, 1996.  Firm-initiated
+               recall complete. See also FDA talk paper T96-
+               14, February 26, 1996.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 536,000 total cases were
+               distributed.
+REASON         Hydrolyzed inulin syrup has been substituted
+               in part for apple juice in these products.
+
+                             -3-_______________
+PRODUCT        Various juice products containing apple juice: 
+               (a) Apple Juice, packaged as follows:
+               Glass bottles:  1 quart 1 pint (48 fluid
+               ounce) 1.42 liters, 2 quart (64 fluid ounce)
+               1.89 liters, 1  quart (32 fluid ounce) 946 ml;
+               Plastic bottles: 1 gallon (3.79 L), 64 fluid
+               ounce (2QT) 1.89 Liters;
+               Aseptic cardboard containers: net 250 mL (8.45
+               fluid ounces), contains nine 250 mL (8.45
+               fluid ounce) boxes;
+               (b) Apple Juice, Frozen Concentrate, in     
+               Paperboard cans: 16 fluid ounce 473 mL, "48
+               fluid ounce (1.42 L);
+               (c) Apple Cider, packaged in 1 gallon (3.89L)
+               64 fluid ounce (2 quart) 1.89 liter plastic
+               bottles.  Recall #F-391/393-6.
+ CODE          Various codes.  Product was packed between
+               7/95 and 2/96.
+MANUFACTURER   Barschash, Poland (supplier of inulin
+               containing concentrate).
+RECALLED BY    Tree Top, Inc., Selah, Washington, by
+               telephone and by fax February 28, 1996.  Firm-
+               initiated recall complete. See also FDA talk
+               paper T96-14, February 26, 1996.
+DISTRIBUTION   Nationwide.
+QUANTITY       375,206 cases were distributed.
+REASON         Hydrolyzed inulin syrup has been substituted
+               in part for apple juice in these products.
+
+
+RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS II ============
+_______________
+PRODUCT        Children's Cherry Flavored Acetaminophen
+               Suspension Liquid, in 4 ounce bottles, under
+               the following brand names:  American Fare,
+               Brooks, Chateau, CVS, Food Lion, Goldline,
+               Good Sense, Health Life, Homebest, Kroger,
+               Marquee, The Medicine Shoppe, Meijer, NEX,
+               Osco, Pathmark, The Pharxm, Phar-Mor, REVCO,
+               Smiths, Thrifty, Topcare, Walgreens. 
+               Recall #D-117-6.
+CODE           Lot #5ZA141 EXP 12/98.
+MANUFACTURER   Perrigo Company, Allegan, Michigan.
+RECALLED BY    Manufacturer, by letter sent between February
+               21 and 23, 1996.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       3,979 dozen bottles were distributed.
+REASON         Precipitate of active ingredient which may
+               result in non-uniform dosage.
+
+                             -4-RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS III ===========
+_______________
+PRODUCT        Gelusil Liquid Antacid Anti-Gas Peppermint
+               Flavor 355 ml, in 12 fluid ounce bottles. 
+               Recall #D-116-6.
+CODE           Lot #        EXP Date
+               05413B       1/96
+               05513B       1/96
+               01523B       2/96
+               03242B       4/96
+               02253B       5/96
+               00173B       8/96
+               02124B       2/97
+               02024B       2/97
+               01034B       3/97
+               01334B       3/97
+               00274B       7/97
+               02284B       8/97
+               02384B       8/97 
+               01994B       9/97
+               02494B       9/97
+               04604B       10/97
+               011N4B       11/97
+               00815B       1/98
+               01725B       4/98
+               03645B       4/98
+               03745B       4/98
+               10165B       7/98
+               (Per the recalling firms "recall" letter, they
+               stated "all lot numbers" were included in
+               their actions).
+MANUFACTURER   Warner Lambert Company, Brockville, Ontario,
+               Canada.
+RECALLED BY    Warner Lambert Company, Morris Plains, New
+               Jersey, by letter dated December 11, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       293,046 bottles were distributed; firm
+               estimated that 290,000 bottles remained on
+               market at time of recall initiation.
+REASON         Some units exhibited off-odor, off-taste and
+               presence of a Bacillus species.
+
+_______________
+PRODUCT        Sterile Triamcinolone Diacetate Suspension,
+               USP, 40 mg/ml, injectable Rx drug for
+               intramuscular, intra-articular or soft tissue
+               use, for endocrine and rheumatic disorders. 
+               Under the following labels: Schein, Legere,
+               Besse, TTLOORE.  Recall #D-118-6.
+CODE           Lot numbers: 95G460 and 95G800.
+
+                             -5-MANUFACTURER   The Upjohn Company, Kalamazoo, Michigan (raw
+               material); Steris Laboratories, Inc., Phoenix,
+               Arizona. (dosage form).
+Recalled by    Steris Laboratories, Inc., Phoenix, Arizona,
+               by letter on November 17, 1995. Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 14,500 units were distributed;
+               firm estimated that little, if any, product
+               remained on market at time of recall
+               initiation.
+REASON         Product contains trace quantities of
+               decabromdiphenylether resulting from synthesis
+               reagent used to manufacture raw material.
+
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS III =======
+_______________
+PRODUCT        (a) Platelets; (b) Fresh Frozen Plasma; (c)
+               Cryoprecipitated AHF.  Recall #B-363/365-6.
+CODE           Contact FDA, Center for Biologics Evaluation
+               and Research, Office of Compliance (301) 594-
+               1191 for individual unit numbers recalled.
+MANUFACTURER   Flushing Hospital Medical Center, Flushing,
+               New York.
+RECALLED BY    Manufacturer, by letter dated January 26,
+               1996.  FDA-initiated recall complete.
+DISTRIBUTION   Pennsylvania.
+QUANTITY       66 units; (b) 459 units; (c) 10 units.
+REASON         Blood products which were misbranded, were
+               distributed for further manufacture.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS I ==========
+_______________
+PRODUCT        Siemens 3-Gas Model 962 Anesthesia Mixer, Part
+               #906588, designed for use with the Siemens
+               Servo Ventilator and may be used for mixing 02
+               (oxygen) with either N20 (nitrous oxide) or
+               air.  Recall #Z-562-6.
+CODE           Serial Nos. 200789, 200825, 200784, 200824,
+               200783, 200239, 200798, 200166, 200816,
+               200794, 200258, 200225, 200169, 200266, 200235
+               THESE NUMBERS WERE IN THE 3/19/96
+               RECOMMENDATION FROM S. LINER).
+MANUFACTURER   Servo Ventilator, Siemens-Elma, Germany
+               (mixer).
+RECALLED BY    Siemens Medical Systems, Danvers,
+               Massachusetts, by telephone on March 11, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   California, Washington, D.C., Indiana,
+               Maryland, Michigan, Nebraska, New York, South
+               Carolina, Tennessee, Texas.
+                             -6-QUANTITY       15 units were distributed.
+REASON         A manufacturing process error in which the
+               oxygen hose was connected to the nitrous oxide
+               outlet and vice versa.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II =========
+_______________
+PRODUCT        Hunter High Performance Air Purifiers, Model
+               #30300, for home and business use.
+               Recall #Z-560-6.
+CODE           All serial numbers.
+MANUFACTURER   Hunter Fan Company, Memphis, Tennessee.
+RECALLED BY    Manufacturer, by letter beginning on January
+               30, 1996.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and Puerto Rico.
+QUANTITY       42,283 units were distributed; firm estimated
+               that 39,146 units remained on market at time
+               of recall initiation.
+REASON         There is a potential fire hazard due to high
+               voltage arcing.
+
+_______________
+PRODUCT        IVAC I.V. Solution Administration Sets, Model
+               numbers 28075 and 28273, indicated for use
+               with the IVAC "Medsystem III" Multi-Channel
+               Infusion Pump.  Recall #Z-561-6.
+CODE           Lot numbers:  411648, 503635, 505631.
+MANUFACTURER   Ensembles Medicos, S.A. de C.V., Tijuana,
+               B.C., Mexico.
+RECALLED BY    IVAC Corporation, San Diego, California, by
+               letter on October 17, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       475 cases were distributed; firm estimates
+               none remains on the market.
+REASON         The device is labeled as containing 60
+               drops/ml sets, whereas it contains 20 drops/ml
+               sets.
+
+_______________
+PRODUCT        Nuclear Imaging Systems, used in organ and
+               whole body scans:  (a) BIAD, two head detector
+               SPECT system; (b) MONAD, single head detector
+               SPECT system.  Recall #Z-568/569-6.
+CODE           Serial numbers:  (a) 102 - 186; (b) 119 - 182.
+MANUFACTURER   Trionix Research Laboratory, Twinsburg, Ohio.
+RECALLED BY    Manufacturer, by letter on April 3, 1995. 
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide, Korea, Australia, Egypt,
+               Switzerland.
+
+                             -7-QUANTITY       80 BIAD units were distributed.  Six (6) BIAD
+               units and five (5) MONAD units are still in
+               stock.
+REASON         The detector head may drop on a patient or
+               healthcare provider because of metal fatigue
+               at the device's ball screw assembly.
+
+_______________
+PRODUCT        P300 Power Wheelchair with airless solid
+               casters and P300 Power Wheelchair with
+               pneumatic casters using LaBac Specialized
+               Seating System.  Recall #Z-582-6.
+CODE           Any model P300 power wheelchair with serial
+               numbers P3-1000 through P3-9468.
+MANUFACTURER   Quickie Designs, Inc., Fresno, California.
+RECALLED BY    Manufacturer, by letter dated December 6,
+               1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       3,762 units.
+REASON         The forks holding the front caster assemblies
+               in place may be subject to cracking which
+               could cause the caster assembly to collapse  
+               and the user to potentially fall out of the
+               wheelchair.
+
+_______________
+PRODUCT        Medline Custom Procedural Trays which contain
+               Johnson & Johnson Barrier Vu-Thru
+               Cardiovascular Split Sheets:
+               (a) Cardiovascular Packs
+               1) Catalog No. DYNJC1016B, CV Pack A&B-PK; A &
+                  PKB;
+               2) Catalog #DYNJC1622B, CV Pack;
+               3) Catalog #DYNJC2202, CV Pack A & B;
+               4) Catalog #DYNJC2202A, CV Pack-PK A & PK B;
+               (b) Trauma/Abdominal Aneurysm Pack, Catalog
+               No. DYNJC1267A;
+               (c) Coronary Drape Pack, Catalog #DYNJC1657A;
+               (d) Heart Packs
+               1) Catalog No. DYNJC1910, Murbach Heart Pack;
+               2) Catalog No. DYNJC1959, Heart Pack Murbach;
+               3) Catalog No. DYNJC1960, Heart Pack J
+                  Campbell;
+               4) Catalog No. DYNJC1961, Heart Pack Spoto;
+               5) Catalog No. DYNJ08823D, Heart Pack I. 
+               Recall #Z-588/591-6.
+CODE           All lots shipped between 10/1/95 and 11/28/95.
+MANUFACTURER   Medline Industrues, Waukegan, Illinois (kit);
+               Johnson & Johnson Medical, Inc., El Paso,
+               Texas (split sheet).
+RECALLED BY    Medline Industries, Inc., Mundelein, Illinois,
+               by letter on January 4, 1996.  Firm-initiated
+               recall complete.
+                             -8-DISTRIBUTION   Florida, Georgia, Kansas, Kentucky,
+               Pennsylvania, South Carolina, Texas, Utah,
+               Virginia.
+QUANTITY       Firm estimates none remains on the market.
+REASON         The fabric of the clipping tabs are subject to
+               tearing, presenting potential harm to patient.
+
+_______________
+PRODUCT        Nezhat-Dorsey SmokEvac Trumpet Valve for Pump
+               II, a laparoscopic suction/irrigation system
+               with metered smoke evacuation mechanism:  (a)  
+               Nezhat-Dorsey SmokEvac Trumpet Valve and Pump
+               II Cartridge, Catalog No. 2027P2;
+               (b) Nezhat-Dorsey SmokEvac Trumpet Valve and
+               Pump II Cartridge and 33 cm Probe Tip, Catalog
+               No. 2027P2A.  Recall #Z-592/593-6.
+CODE           All sterilization lots with catalog numbers
+               2027P2 and 2027P2A.
+MANUFACTURER   Prent Thermoforming Janesville, Wisconsin
+               (component).
+RECALLED BY    Davol, Inc., Division of C.R. Bard
+               Corporation, Cranston, Rhode Island, by letter
+               on June 13, 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       (a) 7,112 units; (b) 1,134 units were
+               distributed.
+REASON         The sterility of the device may be compromised
+               due to loss of package integrity, caused by
+               cracks.  
+
+_______________
+PRODUCT        Television Projectors Incorporated in the
+               Moving Target Simulators (MTS), used to
+               project target images on a screen.
+               Recall #Z-594-6.
+CODE           None.
+MANUFACTURER   AAI Corporation, Cockeysville, Maryland.
+RECALLED BY    Manufacturer.  FDA approved the firm's
+               corrective action plan April 1, 1996.  Firm-
+               initiated field correction ongoing.
+DISTRIBUTION   Nationwide and Germany.
+QUANTITY       16 units.
+REASON         The television projectors incorporated in the
+               Moving Target Simulators failed to comply with
+               the x-radiation emission limit of the Federal
+               Performance Standard for Television Receivers,
+               21 CFR 1020.10. 
+
+_______________
+PRODUCT        Model WS 2200 Laser System, used in metal
+               cutting.  Recall #Z-595-6.
+CODE           Model WS 2200.
+                             -9-MANUFACTURER   Convergent Energy, Sturbridge, Massachusetts.
+RECALLED BY    Manufacturer.  FDA approved the firm's
+               corrective action plan April 1, 1996.  Firm-
+               initiated filed correction ongoing.
+DISTRIBUTION   Mississippi.
+QUANTITY       1 unit.
+REASON         The product was found to be noncompliance with
+               the Federal performance standard for laser
+               products 21 CFR 1040.10(f)(2)(v) in that the
+               safety interlock electrical circuit
+               incorporated a bypass circuit, rendering the
+               system ineffective and permitted the laser
+               system to be returned to a fully operational
+               configuration with the interlock circuit
+               remaining overridden.
+
+_______________
+PRODUCT        Cordis Trakstar 18, Long Balloon Catheters,
+               Catalog #535-303.  Recall #Z-596-6.
+CODE           Lot #40895311.
+MANUFACTURER   Cordis Corporation, Miami, Florida.
+RECALLED BY    Manufacturer, by letter dated January 15,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       50 units were distributed.
+REASON         Small axially oriented abrasions present on
+               some balloons could cause a burst pressure
+               below that of the rated one. 
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III ========
+_______________
+PRODUCT        Stratus Cardiac Troponin-I Fluorometric Enzyme
+               Immunoassay Kit, Catalog #B5700-64, used in an
+               automated procedure for the quantitative
+               determination of Troponin-I levels in serum
+               and heparinized-plasma.  Recall #Z-583-6.
+CODE           Lot #KXTN-231 EXP 3/21/96.
+MANUFACTURER   Dade International, Inc., Miami, Florida.
+RECALLED BY    Manufacturer, by telephone on January 10-11,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Texas, California, Florida, Georgia, Kentucky,
+               Louisiana, Michigan, Minnesota, Missouri, New
+               York, Ohio, Pennsylvania, South Carolina,
+               Wisconsin, and international.
+QUANTITY       118 kits were distributed.
+REASON         Calibrator lot XTN-215 was incorrectly shipped
+               to be used with kit lot No. KXTN-231, the
+               correct calibrator lot should have been lot
+               No. XTN-216Z.
+
+                            -10-_______________
+PRODUCT        S/P Boiling Water Bath used for all laboratory
+               procedures requiring 100 degree C incubation. 
+               Recall #Z-584-6.
+CODE           Catalog #W3022, Serial numbers 4897 through
+               5021.
+MANUFACTURER   Dade International, Inc., Miami, Florida.
+RECALLED BY    Manufacturer, by letter dated February 1996. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Illinois.
+QUANTITY       109 units.
+REASON         The water bath has water leakage in the rear
+               of the unit which could cause a fire or
+               electrical shock hazard.
+
+
+MEDICAL DEVICE SAFETY ALERTS:  ==============================
+_______________
+PRODUCT        Medtronic CardioRhythm Atakr Ablation System,
+               Model 0610, intended primarily for use in
+               intracardiac radiofrequency ablation
+               procedures.  Safety Alert #N-010-6.
+CODE           All units.
+MANUFACTURER   Medtronic CardioRhythm, San Jose, California.
+ALERTED BY     Manufacturer, by letter on January 4, 1996. 
+DISTRIBUTION   Nationwide and international.
+QUANTITY       430 units were distributed.
+REASON         Device does not turn off when the foot is
+               released from the foot pedal.
+
+                            -11-
+
+END OF ENFORCEMENT REPORT FOR APRIL 17, 1996.  BLANK PAGES MAY
+FOLLOW.
+
+                                   ####

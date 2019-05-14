@@ -1,0 +1,527 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Mar
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      46 captures
+	      25 Feb 1997 - 26 Jul 2015
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+10/11/1995
+
+ ENFORCEMENT REPORT FOR 10/11/95 
+
+
+October 11, 1995                                                 95-41
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+==========================
+_______________
+PRODUCT        Savory Foods, Inc Savory Select San'wich brand Ready-to-eat
+               deli sandwiches:
+               (a) Egg Salad Sandwiches; (b) Chunky Chicken Sandwiches;
+               (c) Ham Salad Sandwiches; (d) Ham and Cheese Sandwiches;
+               (e) Turkey and Cheese Sandwiches; (f) Tuna Sandwiches.
+               Recall #F-001/006-6.
+CODE           All sandwiches produced by the firm with an expiration date,
+               "Enjoy by", up to and including 12 September 1995 with
+               julian date code of 237 or earlier.
+MANUFACTURER   Savory Foods, Inc., Grand Rapids, Michigan.
+RECALLED BY    Manufacturer, by visit on or about September 8, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Michigan, Indiana, Ohio, Illinois, Wisconsin.
+QUANTITY       20,563 sandwiches  were distributed.
+REASON         The product was contaminated with Listeria monocytogenes.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Classic brand Green Kale in 25 pound cartons.  
+               Recall #F-772-5.
+CODE           Lot #A9003.
+MANUFACTURER   Gabilon View Farms, Salinas, California (grower).
+RECALLED BY    Mills Distributing Company, Salinas, California, by
+               telephone.  Firm-initiated recall complete as of July 31,
+               1995.
+DISTRIBUTION   California and Nevada.
+QUANTITY       28 cartons were distributed; firm estimates none remains on
+               the market.
+REASON         There is no tolerance for permethrin in kale.
+
+_______________
+PRODUCT        (a) Endive, in 25 cartons, 1 or two dozen per carton; (b)
+               Kale in 25 pound cartons, one or two dozen per carton. 
+               Recall #F-816/817-5.
+CODE           Lot numbers:  (a) SG-24E3 and Storm 8D+E; (b) Fanoe Home 45.
+MANUFACTURER   (a) Top Quality, Gonzales, California; John Tamagni,
+               Salinas, California (growers); (b) Fanoe Brothers, Gonzales,
+               California (grower).
+RECALLED BY    Fresh Western Marketing, Inc., Salinas, California, by
+               telephone.  Firm-initiated recall completed as of August 18,
+               1995.
+DISTRIBUTION   California, Mississippi, Texas.
+QUANTITY       Firm estimates none remains on the market.
+REASON         There is no tolerance for permethrin in kale or acephate in
+               endive.
+
+_______________
+PRODUCT        Mor Green Endive in cardboard cartons.  Recall #F-818-5.
+CODE           Lot numbers 4501 and 4114.
+MANUFACTURER   J.T. Mission, Salinas, California; Top Quality, Salinas,
+               California (growers).
+RECALLED BY    Fresh Choice Produce, Salinas, California, by telephone. 
+               Firm-initiated recall completed as of August 9, 1995.  
+DISTRIBUTION   Arizona, California, Florida, Georgia, Illinois, Iowa,
+               Kansas, Louisiana, Michigan, Missouri, Montana,
+               Pennsylvania, Tennessee, Texas, Washington state, Wisconsin,
+               Canada.
+QUANTITY       705 cartons were distributed.
+REASON         There is no tolerance for acephate in endive.
+
+_______________
+PRODUCT        Orchids of Hawaii Strawberry Daiquiri Cocktail Mix packaged
+               in 1 gallon (128 fluid ounce) plastic bottles or in 1 pint
+               9.4 ounce (25.4 ounce) glass bottles.  Recall #F-007-6.
+CODE           None.
+MANUFACTURER   Three Vee Food and Syrup Products, Inc., Brooklyn, New York.
+RECALLED BY    Orchids of Hawaii International, Inc., Bronx, New York, by
+               letter sent on August 9, 1995.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   New York, New Jersey, Massachusetts, Maine, Alabama, North
+               Carolina, Iowa, Virginia, Wisconsin.
+QUANTITY       29 4-gallon cases were distributed; firm estimates none
+               remains on the market.
+REASON         Product contains undeclared FD&C; Yellow No. 5.
+
+                                    -2-RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        Calcium and magnesium chelate rice bran chelate, each
+               capsule contains 180 mg calcium (a rice bran chelate) and
+               90-mg magnesium (a rice bran chelate), packaged in 100- and
+               250-capsule bottles.  Recall #F-008-6. 
+CODE           100's - 4087, 8356, 8358, 8441G, and 8553/ 250's- 4087 and
+               9487.
+MANUFACTURER   General Therapeutic Company, St. Louis, Missouri.
+RECALLED BY    The Key Company, St. Louis, Missouri, by letter dated
+               September 5, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Undetermined.
+QUANTITY       Approximately 417,900 capsules were distributed.
+REASON         Product is subpotent in magnesium content.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Multi-Symptom Tylenol Cold Non-Drowsy Gelcaps, packaged in
+               blister packs, 2 cards of 12 gelcaps each per box, OTC used
+               for nasal congestion, coughing, sore throat and headache. 
+               Recall #D-001-6.
+CODE           Lot numbers:  PFM 015 EXP 3/97, PFM 016 EXP 6/97,
+               PFM 072 EXP 6/97, PFM 073 EXP 6/97, PFM 319 EXP 6/97.
+MANUFACTURER   McNeil Consumer Products Company, Fort Washington,
+               Pennsylvania.
+RECALLED BY    Manufacturer, by letter September 7, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Firm estimated that 3,906 x 48 cartons remained on market at
+               time of recall initiation.
+REASON         The active ingredients are listed as 325 mg acetaminophen,
+               30 mg Pseudoephedrine HCl 10 mg Dextromethorphan and
+               Guaifenesin 100 mg.  The correct listing should be as
+               follows:  325 mg Acetaminophen, 30 mg Pseudoephedrine HCl,
+               and 15 mg Dextromethorphan.
+
+_______________
+PRODUCT        Rolaids Tablets (calcium rich) Original Flavor, in 75 tablet
+               bottles, OTC antacid.  Recall #D-002-6.
+CODE           Lot #33694V EXP 8/96.
+MANUFACTURER   Warner Lambert Company, Vega Baja, Puerto Rico.
+RECALLED BY    Warner Lambert Company, Morris Plains, New Jersey, by letter
+               August 8, 1995.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       12,500 bottles of 75 tablets were distributed; firm
+               estimates none remains on the market.
+REASON         Flavoring inadvertently omitted from the formulation.
+
+                                    -3-_______________
+PRODUCT        Isuprel Mistometer brand of Isoproterenol Hydrochloride
+               Inhalation Aerosol, 0.25%, 15 ml/vial, complete units.,
+               indicated for the relief of bronchospasm.
+               Recall #D-003-6.
+CODE           Lot #B425NC EXP 3/97 (imprinted on label -9/97).
+MANUFACTURER   NYCOMED, Inc., Baraceloneta, Puerto Rico.
+RECALLED BY    Sanofi Winthrop Pharmaceuticals, Inc., New York, New York,
+               by telephone between September 18 and 20, 1995.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       2,242 complete units to wholesalers and 108 to NYCOMED for
+               testing and no refill units were distributed.
+REASON         Label bears an expiration date not currently in effect.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        Red Blood Cells. Recall #B-408-5.
+CODE           Unit #53FX28584.
+MANUFACTURER   American National Red Cross, Baltimore, Maryland.
+RECALLED BY    Manufacturer, by letter dated April 1 and 4, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Maryland and Switzerland.
+QUANTITY       1 unit.
+REASON         Blood products, which were collected from a donor with a
+               medical history of cancer, were distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-410-5.
+CODE           Unit #53M29160.
+MANUFACTURER   The American Red Cross Blood Services, Baltimore, Maryland.
+RECALLED BY    Manufacturer, by letter dated November 1, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Maryland.
+QUANTITY       1 unit.
+REASON         Blood product, collected from a donor living in a malarial
+               endemic area, was distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-411-5.
+CODE           Unit numbers:  V99789, V98989, V98117, V96257.
+MANUFACTURER   Central California Blood Center, Fresno, California.
+RECALLED BY    Manufacturer, by letter dated December 15, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   New Jersey, California.
+QUANTITY       4 units.
+REASON         Blood products, which were collected from a donor with a
+               medical history of cancer, were distributed.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-548-5.
+CODE           Unit #03X26872.
+                                    -4-MANUFACTURER   American Red Cross Blood Services, Atlanta, Georgia.
+RECALLED BY    Manufacturer, by letter January 6, 1992.  Firm-initiated
+               recall complete.
+DISTRIBUTION   The Netherlands.
+QUANTITY       1 unit.
+REASON         Blood product, which tested repeatedly reactive for antibody
+               to the human immunodeficiency virus type 1 (anti-HIV-1), was
+               distributed.
+
+_______________
+PRODUCT        Platelets.  Recall #B-648-5.
+CODE           Unit #33LS21946.
+MANUFACTURER   American National Red Cross Blood Services, Farmington,
+               Connecticut.
+RECALLED BY    Manufacturer, by telephone on June 28, 1995, followed by
+               letter dated June 29, 1995.  Firm-initiated recall complete.
+DISTRIBUTION   Connecticut.
+QUANTITY       1 unit.
+REASON         Blood product, which tested positive for anti-Yta but was
+               labeled as negative for unexpected antibodies, was
+               distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Recovered Plasma. 
+               Recall #B-002/004-6.
+CODE           Unit #22LV18945.
+MANUFACTURER   American Red Cross, Philadelphia, Pennsylvania.
+RECALLED BY    Manufacturer, by letters dated May 15, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Pennsylvania, New Jersey, California.
+QUANTITY       1 unit of each component.
+REASON         Blood products, which were collected from a donor with a
+               medical history of hepatitis, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Recovered Plasma. 
+               Recall #B-005/007-6.
+CODE           Unit #2N-4262.
+MANUFACTURER   Puget Sound Blood Center, Seattle, Washington.
+RECALLED BY    Manufacturer, (a) by telephone on June 20, 1995; (b) by
+               letter dated July 6, 1995; (c) by letter dated June 21,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   Washington, California. 
+QUANTITY       1 unit of each component.
+REASON         Blood products, which were collected from a donor with a
+               medical history of jaundice, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+===================
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-409-5.
+CODE           Unit #53FX28584.
+MANUFACTURER   American National Red Cross, Baltimore, Maryland.
+                                    -5-RECALLED BY    Manufacturer, by letters dated April 1 and 4, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Switzerland.
+QUANTITY       1 unit.
+REASON         Blood products, which were collected from a donor with a
+               medical history of cancer, were distributed.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-412-5.
+CODE           Unit numbers:  V99789, V98989, V96257.
+MANUFACTURER   Central California Blood Center, Fresno, California.
+RECALLED BY    Manufacturer, by letters dated December 15, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   New Jersey, California.
+QUANTITY       3 units.
+REASON         Blood products, which were collected from a donor with a
+               medical history of cancer, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma. 
+               Recall #B-646/647-5.
+CODE           Unit numbers:  47G91341, 47C47079.
+MANUFACTURER   American Red Cross Blood Services, Galesburg, Illinois.
+RECALLED BY    American Red Cross Blood Services, Peoria, Illinois, by
+               letters dated May 3 and 31, 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Illinois, Iowa, California.
+QUANTITY       2 units of each component.
+REASON         Blood products, which tested initially reactive for the
+               hepatitis B surface antigen (HbsAg), with only a single
+               repeat test, were distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-001-6.
+CODE           Unit #66294.
+MANUFACTURER   Blood Bank of Hawaii, Honolulu, Hawaii.
+RECALLED BY    Manufacturer, by telephone on July 28, 1992.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Hawaii.
+QUANTITY       1 unit.
+REASON         Blood product, which was labeled with an incorrect
+               expiration date, was distributed.
+
+_______________
+PRODUCT        Fresh Frozen Plasma.  Recall #B-008-6.
+CODE           22GG66052, 22GG66191, 22GG66245, 22GG74288, 22GG74668.
+MANUFACTURER   American Red Cross, Philadelphia, Pennsylvania.
+RECALLED BY    Manufacturer, by telephone on October 20, 1994, and by
+               letter dated October 24, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Pennsylvania, New Jersey.
+QUANTITY       5 units.
+
+                                    -6-REASON         Fresh Frozen Plasma which was not frozen within six hours of
+               whole blood collection, was distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Denver Ascites Shunt System Percutaneous Access Kit, Model
+               42-5000.Recall #Z-1108-5.
+CODE           Lot numbers:  BM907, BM911, CM913, CM914.
+MANUFACTURER   Denver Biomaterials, Inc., Evergreen, Colorado.
+RECALLED BY    Manufacturer, by letter August 8, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide, Germany, Australia, Netherlands, Sweden.
+QUANTITY       83 kits were distributed.
+REASON         The barium stripe in the venous catheter may not be
+               sufficiently radiopaque which could lead to difficulty or
+               inability to visualize the catheter during fluoroscopy.
+
+_______________
+PRODUCT        Infant Radiant Warmers.  Recall #Z-1175/1183-5.
+CODE           (a) Infant Radiant Warmer, Code/Lot Number /7810
+               (b) Infant Radiant Warmer, Code/Lot Number /7820
+               (c) Infant Radiant Warmer, Code/Lot Number /7821
+               (d) Infant Radiant Warmer, Code/Lot Number /7830 
+               (e) Infant Radiant Warmer, Code/Lot Number /7840  
+               (f) Infant Radiant Warmer, Code/Lot Number /7860
+               (g) Infant Radiant Warmer, Code/Lot Number /7861
+               (h) Infant Radiant Warmer, Code/Lot Number /7865
+               (i) Infant Radiant Warmer, Code/Lot Number /7880.
+               Recall #Z-1175/1183-5.
+MANUFACTURER   Air Shields, Inc., Hatboro, Pennsylvania.
+RECALLED BY    Manufacturer, by letter/memorandum August 1, 1995.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       24,000 units.
+REASON         The design does not provide enough strain relief for the AC
+               Power Cord which may result in heat damage to itself and
+               connector.  
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        12 mm Femoral Stem Template, used to aid physicians in the
+               alignment of the femoral head and neck prior to hip
+               replacement surgery.  Recall #Z-933-5.
+CODE           Part #1101-0400-01-12.
+MANUFACTURER   Endotec, Inc., Bloomfield, New Jersey.
+RECALLED BY    Endotec, Inc., South Orange, New Jersey, by telephone
+               beginning April 12, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       13 units were distributed.
+
+                                    -7-REASON         The 1/8" hole diameter in the shaft of the temporal stem
+               plate was too small to fit the locator pin.
+
+_______________
+PRODUCT        Software version 1.2, used with the Ektachem 950IRC
+               Analyzer.  Recall #Z-1203-5.
+CODE           None.
+MANUFACTURER   Johnson & Johnson Clinical Diagnostics, Rochester, New York.
+RECALLED BY    Manufacturer, by telephone July 28, 1995, followed by
+               letter.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       85 analyzers were distributed.
+REASON         Loss of slide rotor control could be accompanied by
+               misidentification of electrolyte results if a certain
+               sequence of events occur, due to software indexing error.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS II
+===========
+_______________
+PRODUCT        Nature's Recipe Pet Food (dry) in 5, 20, and 40 pound paper
+               bags (canine) and 4, 8, and 20 paper bags (feline), in the
+               following varieties:
+               (a) Maintenance Lamb Meal and Rice Canine Diet
+               (b) Puppy/Performance Lactation Lamb Meal and Rice
+               Canine Diet
+               (c) Senior/Pension Lamb and Rice Canine Diet
+               (d) Maintenance Lamb Meal Rice and Barley Canine Diet
+               (e) Chicken Meal Rice and Barley Canine Diet
+               (f) Maintenance Feline Diet
+               (g) Lite/Senior Feline Diet.  Recall #V-043/049-5.
+CODE           "170595" through "200795" 17(day)05 (month)95(year) through
+               20(day)07(month)95(year).
+MANUFACTURER   Southwest Pet Products Inc., Phoenix, Arizona. 
+RECALLED BY    Nature's Recipe Pet Foods, Corona, California, letters of
+               July 10 and 27, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       3,557,493 lbs. of dry dog food and 921,035 lbs. of dry cat
+               food were distributed. 
+REASON         Products are adulterated with the micotoxin vomitoxin, which
+               may cause dogs and cats to become ill (vomiting and/or
+               diarrhea). 
+
+
+MEDICAL DEVICE SAFETY ALERTS
+==============================================
+_______________
+PRODUCT        Air Shield Neonatal Incubators:  
+               TI100 Transport Incubators; (b) C300 Neonatal Transport
+               Incubators.  Safety Alert #N-047/048-5.
+CODE           All serial numbers.
+MANUFACTURER   Air Shields, Inc., Hatboro, Pennsylvania.
+ALERTED BY     Manufacturer, by letter dated September 4, 1995.
+DISTRIBUTION   Nationwide and international.
+
+                                    -8-QUANTITY       Firm estimated that 3,270 units remained in commerce at time
+               the alert was initiated.
+REASON         A potential for heat related failure of the battery charger
+               connector, when batteries other than those specifically sold
+               by Air-Shields, or batteries that have been supplied by Air-
+               Shields and exceeded their useful life expectancy are used
+               in the battery tray of the incubators.
+
+                                    -9-
+
+END OF ENFORCEMENT REPORT FOR OCTOBER 11, 1995.  BLANK PAGES MAY
+FOLLOW.
+
+                                   ####

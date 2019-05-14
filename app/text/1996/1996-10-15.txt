@@ -1,0 +1,606 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Sep
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      35 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+ 
+FDA             
+Enforcement Report 
+The FDA Enforcement Report is published weekly by the Food and Drug 
+Administration, 
+U.S. Public Health Service, Department of Health and Human Services.  It contain 
+
+s 
+information 
+on actions  taken in connection with agency regulatory activities. 
+ 
+ENFORCE
+10/15/1996
+
+ ENFORCEMENT REPORT FOR 10/16/96 
+
+October 16, 1996
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II ===========
+_______________
+PRODUCT        Creamette brand Macaroni and Cheese Dinners,
+               packed in 7.25 ounce cardboard cartons. 
+               Recall #F-009-7.
+CODE           Lot numbers P6165B1N and P6165C1N.
+MANUFACTURER   The Creamette Division, Borden Foods
+               Corporation, New Hope, Minnesota.
+RECALLED BY    Borden Foods Corporation, Columbus, Ohio, by
+               press release issued on September 27, 1996,
+               and by fax recall notices.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Indiana, Wisconsin, Illinois, Minnesota, Ohio,
+               Michigan, Nebraska, Washington state,
+               Colorado.
+QUANTITY       1,079 cases of lot P6165B1N and 695 cases of
+               lot P6165C1N were distributed.
+REASON         Product contains metal pieces.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III ==========
+_______________
+PRODUCT        Mother's Natural Plain Rice Cakes, sodium
+               free, in 4.5 ounce plastic sleeve containing
+               14 cakes.  Recall #F-008-7.
+CODE           Package lot:  OCT 19 96 U1B - case lot:  APR
+               22 96 UB.
+MANUFACTURER   The Quaker Oats Company, Putney, Vermont.   
+RECALLED BY    The Quaker Oats Company, Chicago, Illinois, by
+               telephone on June 25, 1996.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Indiana, Tennessee, Connecticut, Georgia, New
+               York.
+QUANTITY       125 cases (12 sleeves per case) were
+               distributed.
+REASON         The rice cakes are salted and do not qualify
+               for the "sodium free" claim on the label.
+
+_______________
+UPDATE         Recall #F-616/617-6 which appeared in the
+               September 25, 1996 Enforcement Report should
+               be replaced with the following:
+_______________
+PRODUCT        Buena Vida Queso Blanco White Cheese and Queso
+               Para Freir White Cheese in approximately 2 1/2
+               and 5-pound plastic wrapped pieces: 
+               (a) Buena Vida Queso Blanco White Frying
+               Cheese
+               (b) Tut's Spanish Cheese
+               (c) Gold Star Village Cheese
+               (d) Goya Queso Blanco Del Pais White Cheese
+               (e) Blue Cock Queso Blanco Gayo Azul Finest
+               White Cheese
+               (f) Buena Vida Queso Blanco White Cheese       
+               (g) Buena Vida Queso Para Freir White Cheese.
+               Recall #F-001/007-7.
+CODE           All lots still in distribution. 
+MANUFACTURER   Avonmore Cheese, Inc., Kent, Illinois.
+RECALLED BY    Avonmore Cheese, Inc., Monroe, Wisconsin, by
+               retrieving product during the week of June 17,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   New York, New Jersey.
+QUANTITY       Approximately 36,100 pounds were on the market
+               at time of recall initiation.
+REASON         Products were unfit for food due to swollen
+               packages resulting from gas formation.
+
+
+RECALLS AND FIELD CORRECTIONS:  COSMETICS -- CLASS II =======
+_______________
+PRODUCT        Wet'n'Wild brand Matte Finish Liquid Makeup, 
+               Ivory Bisque Shade, Item 841A, packaged in 1
+               fluid ounce/29 ml glass bottles.
+               Recall #F-636-6.
+CODE           68091.
+MANUFACTURER   Tri-Tech Laboratories, Lynchburg, Virginia.
+
+                             -2-RECALLED BY    Pavion Limited, Nyack-on Hudson, New York, by
+               telephone beginning on June 26, 1996, followed
+               by letter July 9, 1996.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       8,966 bottles were distributed.
+REASON         Product is contaminated with Pseudomonas
+               aeruginosa.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS I ============
+_______________
+PRODUCT        Phyne Pharmaceuticals brand Adrenal Cortex
+               Extract Injectable in 30 ml multi-dose vials,
+               Rx. Recall #D-254-6.
+CODE           All Codes.
+MANUFACTURER   Undetermined.
+RECALLED BY    Phyne Pharmaceuticals, Scottsdale, Arizona,
+               (distributor), by letter September 17, 1996. 
+               Firm-initiated recall ongoing.  See also FDA
+               press release P96-13, August 30, 1996.
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+REASON         Mycobacterium abscessus contamination of
+               unopened vial of Hallmark Labs' labeled
+               product distributed by Phyne Pharmaceuticals
+               and epidemiological data collected by CDC
+               correlating the use of this product with
+               Mycobacterium abscesses at the site of
+               injection. 
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II ===========
+_______________
+PRODUCT        SoloPak Gentamicin Sulfate Injection USP, 40
+               mg/ml, in 2 ml and 20 ml vials, Rx
+               aminoglycoside antibiotic.  Recall #D-007-7.
+CODE           Catalog #01402, Lot #951150; Catalog #01420,
+               Lot #950957.
+MANUFACTURER   SoloPak Pharmaceuticals, Inc., Elk Grove
+               Village, Illinois.
+RECALLED BY    Manufacturer, by letter dated September 26,
+               1996.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       256,050 vials were distributed; firm estimated
+               that 13 percent of the product remained on the
+               market at time of recall.
+REASON         Product may contain endotoxins.
+
+                             -3-_______________
+PRODUCT        SoloPak Heparin Lock Flush Solution, USP, Rx,
+               preservative free, 100 USP units/ml, in 1 ml
+               pre-filled syringes, for maintenance of
+               patency of indwelling therapy or blood
+               sampling, and not to be used for anticoagulant
+               therapy.  Recall #D-008-7.
+CODE           Catalog #10781, Lot #96D026F; Catalog #11871,
+               Lot 96D026B; Catalog #03702, Lot #96D026C.
+MANUFACTURER   SoloPak Medical Products, Inc., Franklin Park,
+               Illinois.
+RECALLED BY    SoloPak Medical Products, Inc., Elk Grove
+               Village, Illinois, by letter dated September
+               26, 1996.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       41,240 syringes were distributed; firm
+               estimated that 12 percent of the syringes
+               remained on market at time of recall
+               initiation.
+REASON         Lack of adequate assurance of sterility.
+
+_______________
+PRODUCT        Kanamycin Sulfate Injection USP, Rx, 250
+               mg/ml, in 2 ml single dose vials, Rx
+               aminoglycoside antibiotic for I.V. or
+               intramuscular injection.  Recall #D-009-7.
+CODE           Lot #950429.
+MANUFACTURER   SoloPak Pharmaceuticals, Inc., Elk Grove
+               Village, Illinois.
+RECALLED BY    Manufacturer, by letter dated September 26,
+               1996.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       18,360 vials were distributed; firm estimated
+               that 10 percent of the product remained on
+               market at time of recall initiation.
+REASON         Lack of adequate assurance of sterility.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III ==========
+_______________
+PRODUCT        Levothroid Tablets (Levothyroxine sodium) USP,
+               75 mcg, in bottles of 100, prescribed as a
+               thyroid replacement therapy.  
+               Recall #D-005-7.
+CODE           Lot #69515 EXP 1/97.
+MANUFACTURER   Forest Pharmaceuticals, Inc., Cincinnati,
+               Ohio.
+RECALLED BY    Forest Pharmaceuticals, Inc., St. Louis,
+               Missouri (distributor), by telephone on or
+               about April 18, 1996, followed by letter (if
+               requested) dated April 23, 1996.  Firm-
+               initiated recall complete.
+
+                             -4-DISTRIBUTION   Nationwide.
+QUANTITY       13,768 bottles were distributed.
+REASON         50 mcg tablets may have been packaged into
+               bottles labeled as 75 mcg.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II =======
+_______________
+PRODUCT        Platelets.  Recall #B-335-6.
+CODE           Unit numbers: 50F11463, 50F11465, 50F11467,
+               50F11468, 50F11470, 50F11482, 50F11485,
+               50F11495, 50F11496, 50F11497, 50F11498,
+               50F11499, 50F11501, 50F11506, 50G77082,
+               50G77085, 50G77086, 50G77087, 50G77088,
+               50G77089, 50G77092, 50G77093, 50G77095,
+               50G77096, 50G77097, 50G77098, 50G77099,
+               50G77100, 50G77101, 50G77103, 50G77104,
+               50G77105, 50G77106, 50G77109, 50G77113,
+               50G77114, 50G77115, 50G77116, 50G77117,
+               50G77120, 50G77147, 50G77149, 50G77154,
+               50G77156, 50G77157, 50G77158, 50G77159,
+               50G77163, 50G77164, 50G77165, 50G77166,
+               50G77170, 50G77173, 50G77178, 50G77186,
+               50G77187, 80G77188, 50G77189, 50G77190,
+               50G77191, 50G77193, 50G77197, 50G77199,
+               50G77215, 50G77216, 50G77217, 50G77220,
+               50G77222, 50G77225, 50G77227, 50G77229,
+               50G77242, 50G77244, 50G77249, 50G77257,
+               50G77258, 50G77259, 50G77261, 50G77264,
+               50G77265, 50G77266, 50G76926, 50G76964,
+               50G77004, 50G77027.
+MANUFACTURER   American Red Cross, Toledo, Ohio.
+RECALLED BY    Manufacturer, by telephone on November 21,
+               1994, and by letter dated December 1, 1994. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Idaho and Ohio.
+QUANTITY       85 units were distributed.
+REASON         Blood products were labeled as CP2D platelets
+               instead of CPD platelets.
+
+_______________
+PRODUCT        (a) Red blood Cells; (b) Platelets; (c) Fresh
+               Frozen Plasma.  Recall #B-665/667-6.
+CODE           Unit numbers:  (a) 136367, 138291, BB139962,
+               BB142162; (b) 136367, BB142162; (c) 138291.
+MANUFACTURER   Blood Bank of Alaska.  Anchorage, Alaska.
+RECALLED BY    Manufacturer, by letter dated September 7,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   Alaska, California.
+
+                             -5-QUANTITY       (a) 4 units; (b) 2 units; (c) 1 unit was
+               distributed.
+REASON         Blood products were collected from a donor
+               with a history of cancer.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Cryoprecipitated AHF;
+               (c) Recovered Plasma.  Recall #B-672/674-6.
+CODE           Unit #06GE90589.
+MANUFACTURER   American Red Cross Blood Services, Los
+               Angeles, California.
+RECALLED BY    Manufacturer, (a&b;) by letter dated August 14,
+               1986; (c) by letter dated December 10, 1992. 
+               Firm-initiated recall complete.
+DISTRIBUTION   California and New York.
+QUANTITY       1 unit of each component was distributed.
+REASON         Blood products tested negative for the
+               hepatitis B surface antigen (HBsAg), but were
+               collected from a donor who previously reported
+               a history of hepatitis.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets.
+               Recall #B-682/683-6.
+CODE           Unit numbers:  (a) 53FH51353; (b) 53FH45685.
+MANUFACTURER   American Red Cross Blood Services, Baltimore,
+               Maryland.
+RECALLED BY    Manufacturer, by letters dated February 28,
+               1996 and March 20, 1996.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Maryland.
+QUANTITY       1 unit of each component was distributed.
+REASON         Blood products were collected from a donor who
+               traveled to an area designated as endemic for
+               malaria.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-684-6.
+CODE           Unit #17KK06994.
+MANUFACTURER   North Central Blood Services, St. Paul,
+               Minnesota.
+RECALLED BY    Manufacturer, by letter dated January 26,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was collected from a donor who
+               reported a history of cancer.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-686-6.
+CODE           Unit #17KL01266.
+MANUFACTURER   North Central Blood Services, St. Paul,
+               Minnesota.
+                             -6-RECALLED BY    Manufacturer, by letter dated January 17,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Minnesota.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was collected from a donor who
+               reported a history of cancer.
+
+_______________
+PRODUCT        Platelets, Pheresis.  Recall #B-697-6.
+CODE           Unit #0006381.
+MANUFACTURER   The Community Blood Center, Inc., Appleton,
+               Wisconsin.
+RECALLED BY    letter dated July 28, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Wisconsin.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was collected from a donor who
+               traveled to an area designated as endemic for
+               malaria.
+
+_______________
+PRODUCT        Cryoprecipitated AHF.  Recall #B-698-6.
+CODE           Unit #6078862.
+MANUFACTURER   The Community Blood Center, Inc., Appleton,
+               Wisconsin.
+RECALLED BY    Manufacturer, by telephone on May 3, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Wisconsin.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was prepared from a unit of
+               Whole Blood with an extended collection time.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III ======
+_______________
+PRODUCT        Red Blood Cells, Leukocytes Removed by
+               Filtration.  Recall #B-451-6.
+CODE           Unit #29133-8643.
+MANUFACTURER   United Blood Services, Chicago, Illinois.
+RECALLED BY    Manufacturer, by telephone on March 1, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was stored at an unacceptable
+               temperature.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-668-6.
+CODE           Unit numbers:  136367, BB139962, BB142162.
+MANUFACTURER   Blood Bank of Alaska, Anchorage, Alaska.
+RECALLED BY    Manufacturer, by letter dated September 7,
+               1995.  Firm-initiated recall complete.
+
+                             -7-DISTRIBUTION   Alaska and California.
+QUANTITY       3 units were distributed.
+REASON         Blood products were collected from a donor
+               with a history of cancer.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-685-6.
+CODE           Unit #17KK06994.
+MANUFACTURER   North Central Blood Services, St. Paul,
+               Minnesota.
+RECALLED BY    Manufacturer, by telephone January 23, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   California.
+QUANTITY       1 unit.
+REASON         Blood product was collected from a donor who
+               reported a history of cancer.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-687-6.
+CODE           Unit #17KL01266.
+MANUFACTURER   North Central Blood Services, St. Paul,
+               Minnesota.
+RECALLED BY    Manufacturer, by telephone on January 11,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   California.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was collected from a donor who
+               reported a history of cancer.
+
+_______________
+PRODUCT        Irradiated Red Blood Cells.  Recall #B-695-6.
+CODE           Unit numbers:  6076076, 6076092, 6076101.
+MANUFACTURER   The Community Blood Center, Inc., Appleton,
+               Wisconsin.
+RECALLED BY    Manufacturer, by telephone on February 12,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Wisconsin.
+QUANTITY       3 units were distributed.
+REASON         Blood products were labeled with an extended
+               expiration date.
+
+_______________
+PRODUCT        Irradiated Red Blood Cells.  Recall #B-696-6.
+CODE           Unit #6073417.
+MANUFACTURER   The Community Blood Center, Inc., Appleton,
+               Wisconsin.
+RECALLED BY    Manufacturer, by telephone on November 6,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   Wisconsin.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was labeled with an extended
+               expiration date.
+
+                             -8-RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II =========
+_______________
+PRODUCT        Beam Limiting Device Type Number 9896 010
+               00011, diagnostic x-ray system.  
+               Recall #Z-1163-6.
+CODE           None.
+MANUFACTURER   Philips Medical Systems, Shelton, Connecticut.
+RECALLED BY    Manufacturer.  FDA approved the firm's
+               corrective action plan September 30, 1996. 
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       4 units were distributed.
+REASON         Noncompliance with the federal performance
+               standard for diagnostic x-ray systems and
+               their major components in that these products
+               are uncertified and intended only for use
+               outside the United States.
+
+_______________
+PRODUCT        Genesis Dual Display Patient Monitors.  
+               Recall #Z-002/004-7.
+CODE           (a) M2350A Component Central Monitor,
+               Monochrome:  Option A10 - 10 wave capability
+               Option A12 - 12 wave capability
+               Option H75 - 14" monochrome display with 6 bed
+               keys
+               Option H76 - 14" monochrome display with 8 bed
+               keys
+               (b) M2360A Component Central Monitor, Color:
+               Option A10 - 10 wave capability
+               Option A12 - 12 wave capability
+               Option H75 - 14" color display with 6 bed keys
+               Option H76 - 14" color display with 8 bed keys
+               (c) M2305AU Upgrade Kits:  
+               Option H84 - 14" color display and interface
+               with 8 bed keys
+               Option H85 - 14" color display and interface
+               with 6 bed keys
+               Option H86 - 14" monochrome display and
+               interface with 8 bed keys
+               Option H87 - 14" color display and interface
+               with 6 bed keys.
+MANUFACTURER   Hewlett Packard Company, Medical Products
+               Group, Andover, Massachusetts.
+RECALLED BY    Manufacturer, by letter July 19, 1996,
+               followed by visit.  Firm-initiated field
+               correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       1,890 units were distributed; 385 units were
+               recovered/corrected at time of field
+               correction initiation.
+
+                             -9-REASON         The devices did not alarm at the central
+               station, due to a system lockup which caused a
+               loss of keyboard input and audible alarm.
+
+_______________
+PRODUCT        Permobil Powered Wheelchair Model Chairman
+               Corpus Backrest Hinges.  Recall #Z-005-7.
+CODE           Serial numbers 40111 through 42572.
+MANUFACTURER   Permobil, AB, Timra, Sweden.
+RECALLED BY    Permobil, Inc., Woburn, Massachusetts, by
+               telephone in February 1996.  Firm-initiated
+               field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       635 wheelchairs were imported; 58 had been
+               corrected at time of field correction
+               initiation.
+REASON         The backrest welds were subject to failures
+               and cracks.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III ========
+_______________
+PRODUCT        Vitros Na+ Slides, Catalog No. 162 7504, for
+               use with the Vitros Chemistry Systems to
+               quantitatively measure sodium in serum, plasma
+               and urine.  Recall #Z-006-7. 
+CODE           Lot Numbers 42XX-0272-XXXX, the number 42 is
+               the chemistry identification number for
+               sodium. The  coating number is the middle 4
+               digits of the 12 digit lot  number.  The
+               affected products are coatings 0272 and higher
+               with expiration dates on or after 31 August
+               1996.
+MANUFACTURER   Johnson & Johnson Clinical Diagnostics,
+               Rochester, New York.
+RECALLED BY    Manufacturer, by letter dated August 16, 1996. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       2,845,782 slide cartridges were distributed;
+               firm estimated that 500,000 cartridges
+               remained on the market at time of recall
+               initiation.
+REASON         The sodium results drift out of specifications
+               when the slides are stored on the analyzer
+               longer than 10 days.
+
+                            -10-
+
+END OF ENFORCEMENT REPORT FOR OCTOBER 16, 1996.  BLANK PAGES MAY FOLLOW.
+
+                                   ####
+
+

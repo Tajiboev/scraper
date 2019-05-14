@@ -1,0 +1,941 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Apr
+		  DEC
+		  Feb
+		
+		
+		
+		  
+		  19
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      35 captures
+	      18 Oct 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DO
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA 
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration, Department of Health and Human Services. 
+It contains information on actions  taken in connection with agency
+Regulatory activities.
+
+
+
+ August 30, 2000                                         00-35
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+________
+PRODUCT
+Liu Ma Kee brand Wet Bean Curd, in 16-ounce glass jars.
+Recall #F-782-0.
+CODE
+None.
+MANUFACTURER
+Shenzhen Constructive Equipment & Materials, Shenzhen, China.
+RECALLED BY
+Tai Wing Hong Importer, Inc., Brooklyn, New York, by letter dated 
+December 15, 1999.  Completed recall resulted from sample analysis and 
+follow-up by the New York State Department of Agriculture and Markets.
+DISTRIBUTION
+Florida, New York, New Jersey, Pennsylvania, Massachusetts, Ohio, 
+Missouri, Maryland, Texas, District of Columbia. 
+QUANTITY
+350 cases (24 jars per case) were distributed.
+REASON
+Product is an unregistered low acid canned food which may not have 
+received appropriate heat treatment to preclude the outgrowth and toxin 
+formation by Staphylococcus aureus.
+
+
+________
+PRODUCT
+D&G; Genuine Jamaican Grape Flavored Soda, in 12-fluid ounce bottles.  
+Recall #F-784-0.
+CODE
+None.
+MANUFACTURER
+Brooklyn Bottling Company of Milton, New York, Inc., Milton, New York.
+RECALLED BY
+Manufacturer, by telephone followed by letter dated June 28, 2000.  Firm-
+initiated recall ongoing.
+DISTRIBUTION
+New York and Florida.
+QUANTITY
+16,791 bottles were distributed.
+REASON
+Product contains the undeclared and uncertified color additive tartrazine 
+(certifiable as FD&C; Yellow No. 5) and it contains the unapproved color 
+additive amaranth (formerly certifiable as FD&C; Red No. 2).
+________
+PRODUCT
+Haitai Health Power Beverage in 10.58-fluid ounce plastic bottles, 
+product of Korea.  Recall #F-787-0.
+CODE
+2000.06.10.
+MANUFACTURER
+Undetermined.
+RECALLED BY
+C. Kenneth Imports Company, Inc., Bronx, New York, by letter dated July 
+8, 2000.  Completed recall resulted from sample analysis and follow-up by 
+the New York State Department of Agriculture and Markets.
+DISTRIBUTION
+New York, New Jersey, Pennsylvania, Virginia, Maryland.
+QUANTITY
+47 cases (24 bottles per case) were distributed.
+REASON
+Product contained tartrazine, an uncertified color (certifiable as FD&C; 
+Yellow No. 5) and amaranth, an unapproved color (formerly certifiable as 
+FD&C; Red No. 2.)
+________
+PRODUCT
+Cafatex brand Fresh Quick Frozen Raw, Headless Black Tiger Shrimp, size 
+21/25, packed in 4-pound frozen blocks.  Recall #F-788-0.
+CODE
+2281299, 2241299, 1281299, 2251299, 1251299, 1271299, 1241299, 1211299.
+MANUFACTURER
+Catafex, Cantho, Vietnam.
+RECALLED BY
+Suram Trading Company, Coral Gables, Florida, by letter mailed beginning 
+April 14, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Florida and Grand Cayman Island.
+QUANTITY
+781 cases (6/4 frozen blocks per case) were distributed.
+REASON
+Product may be contaminated with Salmonella.  In addition, the product 
+was associated with a salmonellosis and enterotoxigenic E. coli outbreak.
+________
+PRODUCT
+Celebrity Chunk Light Tuna in Water, in 66.5-ounce cans.
+Recall #F-789-0.
+CODE
+JZXDH C2LVA.
+MANUFACTURER
+MAR Fishing Company, Recordo Zamboanga City, Phillipines.
+RECALLED BY
+Atlanta Corporation, Elizabeth, New Jersey, by telephone on August 1-3, 
+2000, and letter on August 3, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Western United States.
+QUANTITY
+1,450 cases (6 cans per case) were distributed.
+REASON
+Product was associated with scombroid poisoning illness.
+________
+PRODUCT
+White Wave Silk brand Chocolate Soy Beverage, in 946-ml tetra pak boxes.  
+Recall #F-790-0.
+CODE
+UPC 0 25293 60074 4, Date Codes 7/26 and 8/16.
+MANUFACTURER
+Western Quality Food Procesors, Cedar City, Utah.
+RECALLED BY
+White Wave, Inc., Boulder, Colorado, by Fax on July 19, 2000.  Firm-
+initiated recall ongoing.
+DISTRIBUTION
+Canada.
+QUANTITY
+20,700 quarts were distributed.
+REASON
+Product may be contaminated with milk residue (an allergen not declared 
+on the label) due to poor manufacturing practices.
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+________
+PRODUCT
+RO*TEL brand Diced Tomatoes and Green Chilies, in 10-ounce cans.  Recall 
+#F-783-0.
+CODE
+Top line can code: 9_RTX289A1
+Case Code: 28243X289AXA1
+Label Code: 6414428243.
+MANUFACTURER
+Pacific Coast Producers, Inc., Lodi, California.
+RECALLED BY
+International Home Foods, Inc., Parsippany, New Jersey, by letter on July 
+24, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+1,177, 848 units were distributed.
+REASON
+A can of the product was reported to contain a large metal fragment.
+________
+PRODUCT
+Canned Tiny Shrimp, in 4-ounce metal cans under the following brand 
+names: Bumble Bee, Orleans, Libby, and Polar.  Recall #F-785-0.
+CODE
+V098T and V099T (Bumble Bee, Orleans and Libby);
+V099T (Polar).
+MANUFACTURER
+Bumble Bee Seafoods, Violet, Louisiana.
+RECALLED BY
+Bumble Bee Seafoods, Inc., San Diego, California, by fax on May 23, 2000.  
+Firm-initiated recall ongoing.
+DISTRIBUTION
+California, Mississippi, Colorado, Indiana, Iowa, Michigan, Pennsylvania, 
+Maryland, New York, Missouri, Texas, North Dakota, Tennessee, Minnesota, 
+New Jersey, Vermont, Florida.
+QUANTITY
+356 cartons (12 per carton) of lot V098T and 3,019 cartons of lot V099T 
+were distributed.
+REASON
+Some cans have metal plate flaws in the can end that could result in 
+perforation and leaking of the can, leading to spoiled product.
+________
+PRODUCT
+Hsiang Yiang brand Deer's Tail Extract for Tea, in 1/3-fluid ounce (10 
+ml) glass vials.  Recall #F-791-0.
+CODE
+None.
+MANUFACTURER
+Chang Chun Chinese Medicines & Drugs Manufactory, China.
+RECALLED BY
+Murray International Trading Company, Inc. (also known as Maxi Int'l), 
+Brooklyn, New York, by telephone on March 17, 1999. Completed recall 
+resulted from visits by the New York State Department of Agriculture and 
+Markets.
+DISTRIBUTION
+New York, Florida, Maryland.
+QUANTITY
+30 cases (60 boxes per case) were distributed.
+REASON
+Product's label does not list alcohol as an ingredient.
+
+RECALLS AND FIELD CORRECTIONS:  COSMETICS -- CLASS II
+________
+PRODUCT
+Visible Solutions Bust and Neck Firming Gel, in 4.2 fluid ounce plastic 
+bottles.  Recall #F-786-0.
+CODE
+9G052 and 0B086.
+MANUFACTURER
+LeGroupe Sollab - Cobourg, Inc., Quebec, Canada.
+RECALLED BY
+Delgar Division Belcam, Inc., Rouses Point, New York, by letter dated 
+July 25, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+480 units were distributed.
+REASON
+Product is contaminated with Pseudomonas aeruginosa.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+________
+PRODUCT
+Granulocytes-Platelets Pheresis.  Recall #B-1050-0.
+CODE
+Unit Numbers: 49P45679, 49P45682, 49P45696, 49P45699, 49P45703.
+MANUFACTURER
+American Red Cross Blood Services, Tulsa, Oklahoma.
+RECALLED BY
+Manufacturer, by letter dated September 13, 1999.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Oklahoma.
+QUANTITY
+1 unit was distributed.
+REASON
+Granulocytes, Pheresis, were distributed, labeled as Granulocytes-
+Platelets, Pheresis.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-1055-0.
+Unit Numbers: 12FF96806 and 12GT10633.
+MANUFACTURER
+American Red Cross Blood Services, Charlotte, 
+North Carolina.
+RECALLED BY
+Manufacturer, by letter dated March 10, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+North Carolina.
+QUANTITY
+2 units were distributed.
+REASON
+Blood products were collected from a donor with a history of aplastic 
+anemia.
+________
+PRODUCT
+a) Fresh Frozen Plasma; b) Plasma, Cryoreduced;
+c) Cryoprecipitated AHF; d) Recovered Plasma.  
+Recall #B-1057/1060-0.
+CODE
+Unit Numbers: a) 049LJ41613; b) 049LJ42617; c) 049LJ42617; d) 049LJ40738.
+MANUFACTURER
+American Red Cross Blood Services, Waco, Texas.
+RECALLED BY
+Manufacturer, by letter dated December 7, 1999.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Texas and California.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor with a history of Multiple 
+Sclerosis.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-1061-0.
+CODE
+Unit #6675607.
+MANUFACTURER
+LifeShare Blood Centers, Alexandria, Louisiana.
+RECALLED BY
+Manufacturer, by telephone on August 10, 1999, and by letter dated August 
+18, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Louisiana.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who reported travel to an area 
+designated as endemic for malaria.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets.  Recall #B-1062/1063-0.
+CODE
+Unit Numbers: a) 42K20999, 42R53134, 42FY06461;
+b) 42K20999, 42FY06461.
+MANUFACTURER
+American Red Cross Blood Services, Cleveland, Ohio.
+RECALLED BY
+Manufacturer, by letter dated April 28, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Ohio.
+QUANTITY
+a) 3 units; b) 2 units were distributed.
+REASON
+Blood products were collected from a donor who reported travel to an area 
+designated as endemic for malaria.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-1065-0.
+CODE
+Unit Numbers: 49FF39275, 49FF39278, 49FF39279, 49LH43975, 49LH43976, 
+49LH43982, 49LH43983.
+MANUFACTURER
+American Red Cross Blood Services, Waco, Texas.
+RECALLED BY
+Manufacturer, by telephone on January 12, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+7 units were distributed.
+REASON
+Blood products were mislabeled as CMV antibody negative.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-1068-0.
+CODE
+Unit Numbers:  18216-8943 and 18218-2386.
+MANUFACTURER
+United Blood Services, Cheyenne, Wyoming.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by letter dated February 3, 
+1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Wyoming and Texas.
+QUANTITY
+2 units were distributed.
+REASON
+Blood products were collected from a donor who reported travel to an area 
+designated as endemic for malaria.
+________
+PRODUCT
+Red Blood Cells, Leukocytes Reduced.  Recall #B-1069-0.
+CODE
+Unit #12441-4823.
+MANUFACTURER
+United Blood Services, Albuquerque, New Mexico.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by letter dated May 10, 2000.  
+Firm-initiated recall ongoing.
+DISTRIBUTION
+New Mexico.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who reported travel to an area 
+designated as endemic for malaria.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets.  Recall #B-1070/1071-0.
+CODE
+Unit #20278-1994.
+MANUFACTURER
+Blood Systems, Inc., Lafayette, Louisiana.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by letters dated February 29, 
+2000, and April 14, 2000.  Firm-initiated recall complete.
+DISTRIBUTION
+Tennessee and Mississippi.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor who reported travel to an area 
+designated as endemic for malaria.
+________
+PRODUCT
+Red Blood Cells, Leukocytes Reduced.  Recall #B-1074-0.
+CODE
+Unit #20279-4222 and 20281-2856.
+MANUFACTURER
+Blood Systems, Inc., Lafayette, Louisiana.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by letter dated April 25, 2000.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Louisiana.
+QUANTITY
+2 units were distributed.
+REASON
+Blood products were collected from a donor who reported travel to an area 
+designated as endemic for malaria.
+________
+PRODUCT
+Platelets.  Recall #B-1075-0.
+CODE
+Unit #20279-8852.
+MANUFACTURER
+Blood Systems, Inc., Lafayette, Louisiana.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by telephone on February 25, 
+2000.  Firm-initiated recall complete.
+DISTRIBUTION
+Louisiana.
+QUANTITY
+1 unit was distributed.
+REASON
+Platelets were prepared from a unit collected from a donor who had taken 
+aspirin within three days of donation.
+________
+PRODUCT
+a) Platelets; b) Source Leukocytes.  Recall #B-1081/1082-0.
+CODE
+Unit #3587130.
+MANUFACTURER
+Gulf Coast Regional Blood Center, Houston, Texas.
+RECALLED BY
+Manufacturer, by telephone and fax on May 20, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Texas and New Jersey.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor whose recorded body 
+temperature was questionable.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-1083-0.
+CODE
+Unit #FJ27348.
+MANUFACTURER
+Healthcare Provider Services, Inc., doing business as Rhode Island Blood 
+Center, Providence, Rhode Island.
+RECALLED BY
+Manufacturer, by telephone on August 8, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Rhode Island.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor whose hemoglobin had not been 
+documented.
+________
+PRODUCT
+Platelets, Pheresis.  Recall #B-1084-0.
+CODE
+Unit #7484645.
+MANUFACTURER
+Carter Blood Center, Bedford, Texas.
+RECALLED BY
+Manufacturer, by letter dated February 24, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected in a manner that may have compromised the 
+sterility of the unit.
+________
+PRODUCT
+a) Red Blood Cells; b) Red Blood Cells, Pheresis; c) Cryoprecipitated 
+AHF; d) Fresh Frozen Plasma; e) Recovered Plasma.  Recall #B-1086/1090-0.
+CODE
+Unit Numbers: a) 15005-8329; b) 15007-5146 (two split units); c) 15005-
+8329; d) 15005-4631; e) 15005-8329.
+MANUFACTURER
+Blood Systems, Inc., Midland, Texas.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by letter dated March 16, 2000, 
+and by telephone on March 1, 2000.  Firm-initiated recall complete.
+DISTRIBUTION
+Texas and California.
+QUANTITY
+a) 1 unit; b) 2 split units; c) 1 unit; d) 1 unit; 
+e) 1 unit.
+REASON
+Blood products were collected from a donor with a history of having 
+tested positive for hepatitis.
+________
+PRODUCT
+a) Red Blood Cells; b) Cryoprecipitated AHF; c) Recovered Plasma.  Recall 
+#B-1091/1093-0.
+CODE
+Unit Numbers: a) 15005-4368, 15006-6847; b) 15005-4368;
+c) 15005-4368.
+MANUFACTURER
+Blood Systems, Inc., Midland, Texas.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by telephone on December 21, 
+1999, and by letter dated January 2, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Texas and California.
+QUANTITY
+a) 2 units; b) 1 unit; c) 1 unit distributed.
+REASON
+Blood products were collected from a donor with a history of having 
+tested positive for hepatitis.
+________
+PRODUCT
+Components and Distribution Information System (CDIS) Stand Alone Blood 
+Bank Software.   Recall #B-1094-0.
+CODE
+All versions up to and including version 1.1.1.
+MANUFACTURER
+Information Data Management, Inc., Rosemont, Illinois.
+RECALLED BY
+Manufacturer, by telephone on July 5 and 6, 2000, and by letters dated 
+July 7, 11, and 17, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+South Carolina, Hawaii, Ohio, Indiana, New Jersey, Missouri, Illinois, 
+Tennessee, Hong Kong, and the United Kingdom.
+QUANTITY
+Installed in 10 centers.
+REASON
+Blood bank software contains a defect that results in not all products 
+produced from a donation receiving the special donation properties that 
+are applicable to donation.
+________
+PRODUCT
+Recovered Plasma.  Recall #B-1095-0.
+CODE
+Unit #4449701.
+MANUFACTURER
+Suncoast Communities Blood Bank, Inc., (Sarasota Community Blood Blood 
+Bank, Inc., Sarasota, Florida.
+RECALLED BY
+Manufacturer, by telephone and letter on January 4, 1996.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Florida.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who had a tattoo within 12 
+months of donation.
+________
+PRODUCT
+Platelets.  Recall #B-1096-0.
+CODE
+Unit #4455230.
+MANUFACTURER
+Suncoast Communities Blood Bank, Inc., (Sarasota Community  Blood Bank, 
+Inc.), Sarasota, Florida.
+RECALLED BY
+Manufacturer, by letter dated January 13, 1997.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Florida.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who reported travel to an area 
+designated as endemic for malaria.
+________
+PRODUCT
+Red Blood Cells, Apheresis (Bag 1). Recall #B-1101-0.
+CODE
+Unit #4474320.
+MANUFACTURER
+Suncoast Communities Blood Bank, Inc., Sarasota Community Blood Bank, 
+Inc.), Sarasota, Florida.
+RECALLED BY
+Manufacturer, by telephone on February 11, 1999.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Florida.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product had a hematocrit that was below the acceptable level.
+_______
+UPDATE
+Recall #B-865/867-0, Red Blood Cells; Platelets; and Recovered Plasma 
+(American Red Cross Blood Services, Nashville, Tennessee) which appeared 
+in the July 12, 2000 Enforcement Report should read:  
+CODE:  Unit #19GF72679.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+________
+PRODUCT
+a) Cocklebur Allergenic Extract; b) Rough Pigweed Allergenic Extract; c) 
+Yellow Dock Allergenic Extract; d) Lambs Quarter Allergenic Extract. 
+Recall #B-1051/1054-0.
+CODE
+Lot Numbers:  a) A907091A; b) A906111A; c) A003242A; 
+d) A805072B. 
+MANUFACTURER
+Allergy Laboratories of Ohio, Inc., Columbus, Ohio.
+RECALLED BY
+Manufacturer, by telephone and fax on June 16, 2000.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+New York.
+QUANTITY
+1 30-ml vial of each component was distributed. 
+REASON
+Expiration dates were omitted from the labeling of four allergenic 
+extracts. 
+________
+PRODUCT
+Source Plasma.  Recall #B-1056-0.
+CODE
+Unit Numbers: 1941V045A and 1941V140A.
+MANUFACTURER
+Centeon Bio-Services, Inc., Fort Worth, Texas.
+RECALLED BY
+Manufacturer, by letter dated April 6, 1999.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Germany.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood products were collected from a donor who had previously been 
+deferred for a history of Lupus.
+________
+PRODUCT
+Red Blood Cells, Leukocytes Reduced.  Recall #B-1066-0.
+CODE
+Unit Numbers: 11324-7452, 11324-7478, 11324-7488, 
+11324-7821, 11324-7828, 11324-7810.
+MANUFACTURER
+Blood Systems, Inc., El Paso, Texas.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by, telephone on February 29, 
+2000, and by letters dated March 29, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Texas and New Mexico.
+QUANTITY
+6 units were distributed.
+REASON
+Blood products were stored at unacceptable temperatures.
+________
+PRODUCT
+Platelets.  Recall #B-1067-0.
+CODE
+Unit #11323-3909.
+MANUFACTURER
+Blood Systems, Inc., El Paso, Texas.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by telephone on November 17, 
+1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was prepared from a whole blood unit that had discrepant 
+start and end times documented.
+________
+PRODUCT
+Platelets.  Recall #B-1072-0.
+CODE
+Unit #7719234.
+MANUFACTURER
+Carter Blood Center, Bedford, Texas.
+RECALLED BY
+Manufacturer, by letter dated February 29, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was prepared from a whole blood unit that had discrepant 
+start and end times documented.
+________
+PRODUCT
+Platelets.  Recall #B-1073-0.
+CODE
+Unit #7727484.
+MANUFACTURER
+Carter Blood Center, Bedford, Texas.
+RECALLED BY
+Manufacturer, by letter dated March 14, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was prepared from a whole blood unit that had discrepant 
+start and end times documented.
+_________
+PRODUCT
+Red Blood Cells, Leukoreduced.  Recall #B-1076-0.
+CODE
+Unit #11323-5196.
+MANUFACTURER
+United Blood Services, El Paso, Texas.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by telephone on November 17, 
+1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product failed the criteria for red blood cell recovery after 
+leukoreduction.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-1077-0.
+CODE
+Unit #49J80373.
+MANUFACTURER
+American Red Cross Blood Services, Tulsa, Oklahoma.
+RECALLED BY
+Manufacturer, by telephone on August 23, 1999.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Oklahoma.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor whose arm inspection was not 
+documented as being performed.
+________
+PRODUCT
+Platelets.  Recall #B-1078-0.
+CODE
+Unit #D98-03178.
+MANUFACTURER
+Beth Israel Deaconess Hospital, Boston, Massachusetts.
+RECALLED BY
+Manufacturer, by letter dated June 1, 1999.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Massachusetts.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product tested repeatedly reactive for HBsAg, confirmatory 
+negative, and negative for anti-HBc.
+________
+PRODUCT
+Platelets.  Recall #B-1079-0.
+CODE
+Unit #7694303.
+MANUFACTURER
+Carter Blood Center, Bedford, Texas.
+RECALLED BY
+Manufacturer, by letter dated February 7, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was prepared from a whole blood unit that had discrepant 
+start and end times documented.
+________
+PRODUCT
+Platelets.  Recall #B-1080-0.
+CODE
+Unit #7738904.
+MANUFACTURER
+Carter Blood Center, Bedford, Texas.
+RECALLED BY
+Manufacturer, by letter dated May 2, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was prepared from a whole blood unit that had discrepant 
+start and end times documented.
+________
+PRODUCT
+Red Blood Cells, Leukocytes Reduced.  Recall #B-1097-0.
+CODE
+Unit #12438-6614.
+MANUFACTURER
+United Blood Services, Albuquerque, New Mexico.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by telephone on July 9, 1999.  
+Firm-initiated recall complete.
+DISTRIBUTION
+New Mexico.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was labeled with an extended expiration date.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS 
+II
+________
+UPDATE
+Recall #Z-842/845-0, Medtronic Midas Rex Dissecting Tool:
+M-1, AM-3, S4-350, and S8-3500, which appeared in the July 5, 2000 
+Enforcement Report has been changed to a Class II recall.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+________
+PRODUCT
+DMA Bilirubin Calibrator, in-vitro diagnostic used as a standard for in-
+vitro assays of serum total and direct bilirubin: a) Level 1, Catalog 
+#241-151; b) Level 2, Catalog #241-152.  Recall #Z-908/909-0.
+CODE
+a) Lot #RC22 EXP 10/30/00; b) Lot #RC96 EXP 08/30/00.
+MANUFACTURER
+Data Medical Associates, Inc., Arlington, Texas.
+RECALLED BY
+Manufacturer, by letters dated May 16 and 23, 2000.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Kentucky, Ohio, Tennessee, Missouri, Florida, Louisiana, California, 
+Mexico, Poland, Sri Lanka, India, Venezuela, Panama.
+QUANTITY
+a) 327 vials; b) 131 vials were distributed.
+REASON
+Some vials of product were producing out of range assay results.
+
+RECALLS AND FIELD CORRECTIONS: VETERINARY PRODUCTS -
+- CLASS II
+________
+PRODUCT
+Vedco brand NFZ Puffer (contains nitrofurazone), in 1.50-ounce bottle.  
+Recall #V-102-0.
+CODE
+Lot Numbers: 06975, 07257, 07468, 07469, and 07517.
+MANUFACTURER
+Hess & Clark, Inc., Ashland, Ohio.
+RECALLED BY
+Manufacturer, by letter dated February 23, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Missouri.
+QUANTITY
+899 cases (12 bottles per case) were distributed.
+REASON
+Product is approved only for use on dogs, cats and horses.   NADA 11-154.  
+Product is labeled for pink eye in cattle , sheep and goats.
+
+END OF ENFORCEMENT REPORT FOR AUGUST 30, 
+2000. 
+####
+
+
+
+
+FDA News Page   |   FDA Home Page 
+                                                          
+  
+
+Office of Public Affairs
+Hypertext uploaded by tg 2000-AUG-30.

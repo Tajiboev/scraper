@@ -1,0 +1,734 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Feb
+		  DEC
+		  Feb
+		
+		
+		
+		  
+		  28
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      26 captures
+	      19 Aug 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DO
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains information
+on actions  taken in connection with agency regulatory activities.
+
+
+October 8, 1997                                                                                                 97-41
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I ============
+_______________
+PRODUCT   Surimi Crab Spread (2 flavors), imitation crab, in 8 ounce containers:  (a) Silver
+          Creek brand Surimi Crab Spread; (b) Silver Creek brand Surimi Crab Spread with
+          Jalapeno.  Recall #F-001/002-8.
+CODE 9/07/97.
+MANUFACTURER   Silver Creek Farms, Twin Falls, Idaho.
+RECALLED BY    Manufacturer, by telephone on August 25, 1997, by press release on
+               August 29, 1997, by fax on September 4, 1997, and by letter mailed on
+               September 5, 1997.  Firm-initiated recall complete.
+DISTRIBUTION   New Jersey, Utah, Idaho, Tennessee, Arkansas, Mississippi, Kentucky,
+               Alabama.
+QUANTITY  (a) 158 pounds; (b) 134 pounds were distributed.
+REASON    The product contains an undeclared egg based ingredient, undeclared wheat based
+          ingredients, and undeclared fish which can pose a hazard to individuals sensitive to
+          eggs, wheat or fish.
+
+_______________
+PRODUCT   Master Choice Dark Bittersweet Chocolate Bar.
+     Recall #F-003-8.
+CODE All codes between production date and code of 8-27-96, code L3240 through 4-8-97,
+     code L3598 UPC 1114-00315.
+MANUFACTURER   Wissoll Exporting Company, Germany.
+RECALLED BY    The Great Atlantic & Pacific Tea Company, Inc., Montvale, New Jersey,
+               by fax on June 26, 1997.  Firm-initiated recall ongoing.
+DISTRIBUTION   Eastern half of the United States
+QUANTITY  Undetermined.
+REASON    Product contained undeclared nuts which may be either peanuts or tree nuts.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II ===========
+_______________
+PRODUCT   "Cock" Brand Chinese Noodles in plastic bags, net weight 16 ounces (454 g), 50
+          bags per carton.  Recall #F-836-7.
+CODE None.
+MANUFACTURER   Hong Thai Foods Corporation, Brooklyn, New York.
+RECALLED BY    Manufacturer, by letter April 30, 1997.  Ongoing recall resulted from
+               sample analysis and followup by the New York State Department of
+               Agriculture Markets.
+DISTRIBUTION   New York, Massachusetts, New Jersey.
+QUANTITY  48 cartons were distributed.
+REASON    Product contains undeclared FD&C Yellow No. 5.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III ==========
+_______________
+PRODUCT   Dietary Supplements:  (a) Dietary Supplement in a white plastic bottle labeled in
+          part; "Herbal Drops Energy 1/9 fluid ounce/3 CC***"   DOC 97-413-020
+     (b) Dietary Supplement in a white plastic bottle labeled in part: "Herbal Drops fat
+     burner***" DOC 97-713-349.
+     Recall #F-830/831-7.
+CODE Lot numbers:  0729962 EXP 2/97, 4794 EXP 7/98.
+MANUFACTURER   EFS-Herbal Drops, San Diego, California.
+RECALLED BY    Manufacturer, by letter during the period of September 6-9, 1996, and
+               September 18-20, 1996.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY  a) 5,747 bottles; b) 5,225 bottles were distributed.
+REASON    The labels are illegible.
+
+                               -2-_______________
+PRODUCT   Ice Milk Mixes:  (a) KAN-PAK Vanilla Softserve Mix in 64 fluid ounce
+          polyethylene pouches
+     (b) CHICK-FIL-A IceDream Mix packaged in 64 ounce polyethylene pouches.  
+     Recall #F-833/834-7. 
+CODE (a) 7D01C; (b) 7D01B.
+MANUFACTURER   Kansas Food Packers, Inc., Arkansas City, Kansas.
+RECALLED BY    Manufacturer, by telephone on April 8, 1997.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Texas.
+QUANTITY  (a) 100 cases; (b) 759 cases were distributed.
+REASON    The products are unfit for food due to swollen and leaking pouches.
+
+_______________
+PRODUCT   Country Sorghum Cane Molasses.  
+     Recall #F-835-7.
+CODE Uncoded.
+MANUFACTURER   Rachel Syrup Farm, Dekalb, Mississippi.
+RECALLED BY    Kenneth Hawks Produce, Cana, Virginia, by telephone during the week of
+               August 24, 1997.  Ongoing recall resulted from sample analysis and
+               followup by the North Carolina Department of Agriculture.
+DISTRIBUTION   North Carolina.
+QUANTITY  15 cases were distributed.
+REASON    The product, falsely labeled as "Country Sorghum Cane Molasses", is misbranded
+          as it was found to contain maltose, which is associated with corn syrup and not
+          molasses.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+===========
+_______________
+PRODUCT   Clonazepam Tablets, USP, 0.5 mg, in bottles of 100, used in the treatment of
+          seizures, under the Lemmon label.  Recall #D-189-7.
+CODE Lot numbers:  357016 EXP 7/98, 357017 EXP 7/98, 357018 EXP 7/98, 357020 EXP
+     7/98.
+MANUFACTURER   TEVA Pharmaceutical Industries, Ltd., Jerusalem.
+RECALLED BY    TEVA Pharmaceuticals USA, Inc., (Lemmon Company), Sellersville,
+               Pennsylvania, by letters on May 12, 1997.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY  Firm estimated that little if any product remained on market at time of recall
+          initiation.
+REASON    Product failed dissolution specifications.
+
+                               -3-______________
+PRODUCT   Medical Oxygen, USP, in 31 and 41 liter cryogenic home units (vessels).
+     Recall #D-280-7.
+CODE All lot numbers manufactured prior to 6/28/97.
+MANUFACTURER   Redeemer Nazareth Medical Supply, Inc., Philadelphia, Pennsylvania.
+RECALLED BY    Manufacturer, by visit completed on July 17, 1997.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Pennsylvania.
+QUANTITY  Firm estimates none remains on the market.
+REASON    Failure to assay product.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III ==========
+_______________
+PRODUCT   Clemastine Fumarate syrup, 0.5mg/5ml, in 4 fluid ounce and 16 fluid ounce
+          bottles, indicated for the relief of symptoms associated with allergic rhinitis.  
+     Recall #D-279-7.
+CODE Lot No.  Size  EXP Date  
+     268D203  16 oz. May 1998 
+     268D205  16 oz. May 1998 
+     268D213  4 oz.  Aug. 1998. 
+MANUFACTURER   Copley Pharmaceutical Inc., Canton, Massachusetts.  
+RECALLED BY    Manufacturer, by letter dated September 3, 1997.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY  Lot 268D203 - 3274 Units
+     Lot 268D205 - 3532 Units
+     Lot 268D213 - 13,174 Units were distributed.
+REASON    Subpotent.
+
+_______________
+PRODUCT   Viaquin Forte Cream, 4% Hydroquinone, USP, packed in 1 ounce aluminum
+          tubes, Rx drug for topical application used for the gradual bleaching of
+          hyperpigmented skin conditions.
+     Recall #D-281-7.
+CODE All lot numbers within expiration date (27).
+MANUFACTURER   ICN Pharmaceuticals, Inc., Bryan, Ohio.
+RECALLED BY    Manufacturer, by fax on September 17, 1997, followed by mail.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY  80,651 tubes were distributed; firm estimated that 14,085 remained on market at
+          time of recall initiation.
+REASON    The tubes may exhibit leaking at the crimp end.
+
+                               -4-_______________
+PRODUCT   Oxygen USP, packaged in D & E High Pressure Cylinders.  Recall #D-282-7.
+CODE All cylinders filled from July 25, 1996 through June 3, 1997, and on June 7, June 15, July
+     21, and July 25, 1997.
+MANUFACTURER   American Homepatient, doing business as Shugarman Surgical Supplies,
+               Maumee, Ohio.
+RECALLED BY    Manufacturer, by memorandum on August 18, 1997, followed by visit. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Ohio and Michigan.
+QUANTITY  225 cylinders were distributed.
+REASON    Current good manufacturing practice deviations.
+
+_______________
+PRODUCT   Aristocort Suspension Intralesional (Triamcinolone Diacetate), 5 mg/ml, 5 ml per
+          vial, used for the treatment of rheumatoid arthritis.  Recall #D-002-8.
+CODE Lot #391-800.
+MANUFACTURER   Lederle Parenterals, Carolina, Puerto Rico.
+RECALLED BY    Manufacturer, by letter dated July 31, 1997.  Firm-initiated recall ongoing.
+DISTRIBUTION   Illinois and South Africa.
+QUANTITY  5,666 vials were distributed.
+REASON    Superpotency (stability-nine months).
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II =======
+_______________
+PRODUCT   a) Red Blood Cells; b) Recovered Plasma.  Recall #B-1123/1124-7.
+CODE Unit 50X05716.
+MANUFACTURER   American Red Cross Blood Services, Toledo, Ohio.
+RECALLED BY    Manufacturer, by telephone on July 14, 1997 and by letter dated July 18,
+               1997.  Firm-initiated recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY  1 unit of each component was distributed.
+REASON    Blood products were collected from a donor whose arm inspection and skin
+          disease status had not been documented.
+
+_______________
+PRODUCT   Red Blood Cells.  Recall #B-1125-7.
+CODE Unit #40GT10864.
+MANUFACTURER   American Red Cross Blood Services, Peoria, Illinois.
+
+                               -5-RECALLED BY    Manufacturer, by telephone on September 5, 1997.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Illinois.
+QUANTITY  1 unit was distributed.
+REASON    Blood product was collected from a donor who reported            travel
+          to an area designated as  endemic for malaria.
+
+_______________
+PRODUCT   a) Red Blood Cells; b) Recovered Plasma.  Recall #B-1126/1127-7.
+CODE Unit #49LJ17159.
+MANUFACTURER   American Red Cross Blood Services, Tulsa, Oklahoma.
+RECALLED BY    Manufacturer, by letter dated August 4, 1997.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Texas and California.
+QUANTITY  1 unit of each component was distributed.
+REASON    Blood products were collected from a donor taking the drug methotrexate.
+
+_______________
+PRODUCT   a) Platelets For Further Manufacturer; b) Red Blood Cells; c) Red Blood Cells,
+          Leukocytes Removed; d) Fresh Frozen Plasma; e) Platelets; f) Cryoprecipitated
+          AHF; g) Recovered Plasma .
+     Recall #B-1237-7 & B-1422/1427-7.
+CODE Red Blood Cells Units:  0426549, 0428667, 0433762, 0437685, 0440720, 0446247,
+     0449855, 0451333, 0530508, 0532024, 0536178, 0537187, 0537425, 0538984, 0539778,
+     0540575, 0542083, 0542769, 0543644, 0543849, 0544447, 0545074, 0555156, 0633134,
+     0633847, 0634130, 0635343, 0638093, 0639659, 0640812, 0642266, 0647263, 0648363,
+     0649449, 0650555, 0655795, 0718444, 0800248, 0807332, 0813338, 0815577
+     Red Blood Cells, Leukocytes Removed Units:  0444405 and 0541417
+     Fresh Frozen Plasma Units:   0426549, 0428667, 0433762, 0440720, 0444405, 0449855,
+     0451333, 0530508, 0532024, 0536178, 0537187, 0537425, 0538984, 0539778, 0540575,
+     0541417, 0542769, 0543644, 0543849, 0544447, 0633134, 0633847, 0634130, 0635343,
+     0638093, 0639659, 0640812, 0643049, 0802266, 0807332 
+     Platelets Units:  0433762, 0437685, 0444405, 0449855, 0532024, 0536178, 0537187,
+     0537425, 0538984, 0540575, 0544447, 0555156, 0633847, 0634130, 0635343, 0638093,
+     0640812, 0642266, 0647263, 0649449, 0655795, 0807332
+     Platelets For Further Manufacture Units:   0440720, 0446247, 0451333, 0539778,
+     0542769, 0543644, 0543849, 0639659.
+                               -6-     Cryoprecipitated AHF, Units 0545074 and 0800248 
+     Recovered Plasma Units:   0437685, 0446247, 0484137, 0545074, 0555156, 0638878, 
+     0642266, 0647263, 0648363, 0649449, 0650555, 0655795, 0718444, 0800248, 0815577,
+     0813338.
+MANUFACTURER   Coffee Memorial Blood Center, Inc., Amarillo, Texas.
+RECALLED BY    Manufacturer, by letter on either February 19, 1997, March 4, 1997, April
+               1, 1997, April 14, 1997, and September 11, 1997.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Alaska, California, Colorado, Indiana, Kentucky, Massachusetts, Michigan,
+               New York, Pennsylvania, Tennessee, Texas.
+QUANTITY  a) 8 units; b) 41 units; c) 2 units; d) 30 units; e) 22 units; f) 2 units; g) 16 units
+          were distributed.
+REASON    Blood products were collected from donors with a history of cancer.
+
+_______________
+PRODUCT   PathNet HNA Clinical Systems Software, release 306.  Recall #B-1462-7.
+CODE HNA release 306.
+MANUFACTURER   Cerner Corporation, Kansas City, Missouri.
+RECALLED BY    Manufacturer, by letter dated June 6, 1997.  firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY  Approximately 275 software units were distributed.
+REASON    Computer software, containing a design defect which              could
+          result in the assignment of incorrect ABO and Rh            groups. 
+
+_______________
+PRODUCT   PathNet HNA Clinical Systems Software         Applications:   Blood Bank
+          Transfusion, releases 302, 303, 304, 305, 306 Worksystem Transfusion, releases
+          302, 303, 304, 305, 306   Blood Bank Donor, releases 303, 304, 305, 306 Blood
+          Center, releases 303, 304, 305, 306.
+     Recall #B-1463-7.
+CODE HNA release 303, 304, 305, and 306 for all above applications.
+     HNA release 302 for the Blood Bank Transfusion and Worksystems Transfusion
+     applications.
+MANUFACTURER   Cerner Corporation, Kansas City, Missouri.
+RECALLED BY    Manufacturer, by letters dated May 16, 1997, and in June and July 1997. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+                               -7-QUANTITY  Approximately 275 software units were distributed.
+REASON    Computer software, that contains programming error which (1) could potentially
+          result in the release of unsuitable blood products, (2) improperly update donor and
+          unit information files, and (3) could result in the assignment of incorrect ABO/Rh
+          types in donor files.
+
+_______________
+PRODUCT   Source Plasma.  Recall #B-1464-7.
+CODE Unit #66622369.
+MANUFACTURER   NABI BioMedical Center, Wichita, Kansas.
+RECALLED BY    Manufacturer, by telephone on June 11, 1997.  Firm-initiated recall
+               complete.
+DISTRIBUTION   California.
+QUANTITY  1 unit was distributed.
+REASON    Blood product tested repeatedly reactive for the antibody to the hepatitis C virus
+          encoded antigen (anti-HCV).
+
+_______________
+PRODUCT   Platelets.  Recall #B-1466-7.
+CODE Unit #56148.
+MANUFACTURER   Lane Memorial Blood Bank, Eugene, Oregon.
+RECALLED BY    Manufacturer, by visit on July 31, 1997.  Firm-initiated recall complete.
+DISTRIBUTION   Oregon.
+QUANTITY  1 unit was distributed.
+REASON    Blood product tested repeatedly reactive for the antibody to the Hepatitis B core
+          antigen (anti-HBc). 
+
+_______________
+PRODUCT   Platelet Pheresis.  Recall #B-1467-7.
+CODE Split unit #29445-1528 (02).
+MANUFACTURER   United Blood Services, Chicago, Illinois. 
+RECALLED BY    Manufacturer, by telephone on June 2, 1997, and by letter dated July 9,
+               1997.  Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY  1 unit was distributed.
+REASON    Blood product had an unacceptable platelet count.
+
+_______________
+PRODUCT   a) Red Blood Cells; b) Cryoprecipitated AHF, Pooled; c) Recovered Plasma.  
+     Recall #B-1469/1471-7.
+CODE Unit numbers: a) 4668095, 4707426; b)   4664705; c) 4668095, 4707426.
+MANUFACTURER   BloodCare, Dallas, Texas.
+
+                               -8-RECALLED BY    Manufacturer, by letter dated September 10, 1996.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Virginia, Texas, Switzerland.
+QUANTITY  a) 2 units; b) 1 unit; c) 2 units were distributed.
+REASON    Blood products, collected from a donor with a history of cancer.
+
+_______________
+PRODUCT   Red Blood Cells.  Recall #B-1476-7.
+CODE Unit #40GF13003.
+MANUFACTURER   American Red Cross Blood Services, Peoria, Illinois.
+RECALLED BY    Manufacturer, by telephone on July 4, 1997, and by letter on July 11, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY  1 unit was distributed.
+REASON    Blood product was collected from a donor who reported travel to an area
+          designated as endemic for malaria.
+
+_______________
+PRODUCT   a) Red Blood Cells; b) Platelets.  
+     Recall #B-1481/1482-7.
+CODE Unit numbers:  a) 40FE39461, 40FE33621, 40FE25205, 40LZ00880; b) 40FE25205,
+     40LZ00880.
+MANUFACTURER   American Red Cross Blood Services, Peoria, Illinois.
+RECALLED BY    Manufacturer, by telephone on July 14, 1997, and by letter dated July 23 or
+               24, 1997, and by additional notices on August 14 and 25, 1997, and
+               September 4, 1997.  Firm-initiated recall complete.
+DISTRIBUTION   Missouri, California, Alabama, Illinois.
+QUANTITY  a) 4 units; b) 2 units were distributed.
+REASON    Blood products were collected from a donor who reported travel to an area
+          designated as  endemic for malaria.
+
+_______________
+PRODUCT   Human Tissues for Transplant: Corneal Human Tissue.  Recall #B-1483-7.
+CODE Donor # 95-143, 95-144.
+MANUFACTURER   Lions Hi-Plains Eye Bank, Amarillo, Texas.
+RECALLED BY    Manufacturer, by letter dated February 1, 1997.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Pennsylvania and Indiana.
+QUANTITY  2 units.
+REASON    Human Tissues for Transplant, in which proper documentation and donor
+          screening was performed improperly, were distributed.
+
+                               -9-_______________
+PRODUCT   a) Allergenic Extracts: Epidermal Mix;
+     b) Allergenic Extracts: Weed Mix.
+     Recall #B-1485/1486-7.
+CODE Epidermal Mix  Lot # L87E2818
+               Weed Mix       Lot # F77D1070.
+MANUFACTURER   Bayer Corporation, Bayer Pharmaceutical Division, Allergy Products,
+               Spokane, Washington.
+RECALLED BY    Manufacturer, by letter on August 29, 1997.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Alabama, California, Connecticut, Georgia, Massachusetts, Maryland,
+               Michigan, Minnesota, Missouri, New Jersey, Ohio, Pennsylvania, Texas.
+QUANTITY  (a) 16 vials; (b) 6 vials were distributed.
+REASON    Allergenic extract products were mislabeled due to missing components from the
+          combined product. 
+
+_______________
+PRODUCT   a) Red Blood Cells; b) Platelets; c) Recovered Plasma.  Recall #B-1489/1491-7.   
+CODE Unit numbers:  a) M47941, M46733; b) M47941,    c) M47941, M46733.
+MANUFACTURER   Lane Memorial Blood Bank, Eugene, Oregon.
+RECALLED BY    Manufacturer, by letter September 11, 1997.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Oregon.
+QUANTITY  a) 2 units; b) 1 unit; c) 2 units were distributed.
+REASON    Blood products were collected from a donor who received ear piercing within
+          twelve months of donation.
+
+_______________
+PRODUCT   Source Plasma.  Recall #B-1499-7.
+CODE Unit numbers:  80308966, 81060399, 81061471.
+MANUFACTURER   Bio-Blood Components, Inc., Hammond, Indiana.
+RECALLED BY    Manufacturer, by fax on May 21, 1997.  Firm-initiated recall complete.
+DISTRIBUTION   California.
+QUANTITY  3 units were distributed.
+REASON    Blood product, which was collected from a donor with a history of body piercing
+          within twelve months of donation.
+
+_______________
+PRODUCT   Platelets.  Recall #B-1503-7.
+CODE Unit 10520-2235.
+MANUFACTURER   United Blood Services, Scottsdale, Arizona.
+
+                               -10-RECALLED BY    Blood Systems, Inc., Scottsdale, Arizona, by letter on December 2, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Arizona.
+QUANTITY  1 unit was distributed.
+REASON    Blood product, collected from a donor whose body temperature had not been
+          documented.
+
+_______________
+PRODUCT   a) Red Blood Cells; b) Platelets; c) Recovered Plasma.  Recall #B-1504/1506-7.
+CODE Unit numbers:  a) 28026-7909, 28027-9189, 28022-5865, 28023-9440; b) 28023-9440,
+     28026-7909, 28027-9189; c) 28027-9189, 28022-5865, 28023-9440, 28026-7909.
+MANUFACTURER   United Blood Services, San Angelo, Texas.
+RECALLED BY    Blood Systems, Inc., Scottsdale, Arizona, by letter dated July 10, 1997. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Texas, Tennessee, Massachusetts, Florida, North Carolina.
+QUANTITY  a) 4 units; b) 3 units; c) 4 units were distributed.
+REASON    Blood products tested negative for the hepatitis B surface antigen (HBsAg), but
+          were collected from a donor who was previously deferred for a history of liver
+          disease, hepatitis, or a positive test for hepatitis.
+
+_______________
+PRODUCT   a) Red Blood Cells; b) Platelets; c) Recovered Plasma.  Recall #B-1511/1513-7.
+CODE Unit #11048-8484.
+MANUFACTURER   United Blood Services, El Paso, Texas.
+RECALLED BY    Blood Systems, Inc., Scottsdale, Arizona, by letters dated June 18, 1997,
+               and July 10, 1997.  Firm-initiated recall ongoing.
+DISTRIBUTION   Texas and North Carolina.
+QUANTITY  1 unit of each component was distributed.
+REASON    Blood products were collected from a donor who was previously deferred for high
+          risk behavior.
+
+_______________
+PRODUCT   a) Red Blood Cells; b) Fresh Frozen Plasma.
+     Recall #B-1516/1517-7.
+CODE Unit #10487-7640.
+MANUFACTURER   United Blood Services, Scottsdale, Arizona.
+RECALLED BY    Blood Systems, Inc., Scottsdale, Arizona, by letter dated July 30, 1997. 
+               Firm-initiated recall ongoing.
+
+                               -11-DISTRIBUTION   Arizona and Illinois.
+QUANTITY  1 unit was distributed.
+REASON    Blood products were collected from a donor who was deferred for receiving a
+          tattoo within 12 months of donation.
+
+_______________
+PRODUCT   a) Red Blood Cells; b) Recovered Plasma.  Recall #B-1518/1519-7.
+CODE Unit #10485-8755.
+MANUFACTURER   United Blood Services, Scottsdale, Arizona.
+RECALLED BY    Blood Systems, Inc., Scottsdale, Arizona, by letter dated August 25, 1997. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Arizona and Switzerland.
+QUANTITY  1 unit of each component was distributed.
+REASON    Blood products, which were collected from a donor who was deferred for ear
+          piercing within 12 months of  donation.
+
+________________
+UPDATE    Recall #B-1112/1115-7, blood products recalled by LifeSource, Glenview, Illinois,
+          which appeared in the August 6, 1997, Enforcement Report has been extended to
+          include unit numbers 1800905 and 1820061 for Red Blood Cells, and Unit
+          #4002374 for Recovered Plasma.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III ======
+_______________
+PRODUCT   a) Red Blood Cells; b) Recovered Plasma.
+     Recall #B-1393/1394-7.
+CODE Unit #16035-3068.
+MANUFACTURER   United Blood Services, Meridian, Mississippi.
+RECALLED BY    Blood Systems, Inc., Scottsdale, Arizona, by letter dated March 13, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Mississippi and North Carolina.
+QUANTITY  1 unit of each component was distributed.
+REASON    Blood products tested negative for syphilis, but were collected from a donor who
+          previously tested reactive for syphilis on two separate occasions.
+
+_______________
+PRODUCT   a) Red Blood Cells; b) Platelets; c) Recovered Plasma.  Recall #B-1395/1397-7.
+CODE Unit numbers: a) 20027-1512 and 20261-6869; 
+     b) 20261-6869; c) 20027-1512, 20042-6425, 20261-6869.
+MANUFACTURER   United Blood Services, Lafayette, Louisiana. 
+
+                               -12-RECALLED BY    Blood Systems, Inc., Scottsdale, Arizona, by letter dated March 19, 1997
+               or April 9, 1997, and July 7, 1997.  Firm-initiated recall complete.
+DISTRIBUTION   Louisiana, Illinois, North Carolina, Switzerland.
+QUANTITY  a) 2 units; b) 1 unit; c) 3 units were distributed.
+REASON    Blood products tested negative for syphilis, but were collected from a donor 
+               who previously tested reactive for syphilis. 
+
+_______________
+PRODUCT         Source Plasma.  Recall #B-1484-7.
+CODE Unit Numbers:  X11680, X11423, X11161, X10660, X10425, X10226, X10002,          X09734.
+MANUFACTURER   Flint Plasma Company, Flint, Michigan.
+RECALLED BY    Manufacturer, by fax dated April 17, 1997. 
+                Firm-initiated recall complete.
+DISTRIBUTION   North Carolina.
+QUANTITY       8 units were distributed.
+REASON         Blood product was untested for syphilis. 
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-1498-7.
+CODE Unit       #10515-4457, 10515-2740.
+MANUFACTURER   United Blood Services, Scottsdale, Arizona.
+RECALLED BY    Blood Systems, Inc., Scottsdale, Arizona, by letter on September 24, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Arizona.
+QUANTITY       2 units were distributed.
+REASON         Blood Products had been tested for hemoglobin S from segments
+                which were more than 14 days old.
+
+_______________
+PRODUCT               a) Whole Blood; b) Red Blood Cells; c) Fresh Frozen Plasma;
+                                   d) Recovered Plasma.   Recall #B-1507/1510-7.
+CODE Unit numbers:  a) 15021-0644;  b) 15033-0854, 15022-9534,                         
+                            15029-2174, 15028-3270, 15019-4770; c) 15028-3270;
+                                   d)15019-4770, 15033-0854, 15029-2174.
+MANUFACTURER   United Blood Services, Lubbock, Texas,
+RECALLED BY    Blood Systems, Inc.,     Scottsdale, Arizona, by letter dated June 18, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       a) 1 unit; b) 5 units; c) 1 unit; d) 3 units were distributed.
+
+                               -13-REASON    Blood products, which tested negative for the hepatitis B surface antigen
+          (HBsAg), but were collected from a      donor who previously tested repeatedly
+          reactive for HBsAg.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=========
+_______________
+PRODUCT   a) Precision Electrometer/Dosemeter, Model 530; b) Precision
+          Electrometer/Dosemeter, Model 530SI.  Recall #Z-906/907-7. 
+CODE a) Serial Nos. 101-250; b) Serial Nos. 101-128.
+MANUFACTURER   Victoreen, Inc., Cleveland, Ohio.
+RECALLED BY    Manufacturer, by letter dated April 10, 1997.  
+                                   Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY             149 units were distributed.
+REASON               A crack in the ceramic resistor network could divert the signal and 
+                                  cause the device to read the wrong calibration factor.
+
+_______________
+PRODUCT              HDI-1000 Ultrasound System.  Recall #Z-942-7.
+CODE                        All units with software version below 20.3.
+MANUFACTURER   Advanced Technology Laboratories, Inc., Bothell, Washington.
+RECALLED BY    Manufacturer, by letter dated August 27, 1997.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY  110 units were distributed.
+REASON    There is a potential mismatch of scaling and image information when used under
+          certain conditions.
+
+_______________
+PRODUCT   Shielded disposable obturator and trocars, used in conjunction with either
+          disposable or reusable trocar cannula for laparoscopic surgical procedures:
+     a)  Model No. CO701, 11mm Safety shielded Obturator; 
+     b) Model No. CO702, 12mm Safety Shielded Obturator;  
+     c) Model No. CON01, Convertible Trocar Procedure Pack;  
+          d) Model No. CON02, Convertible Trocar Procedure Pack; 
+     e)    Model No. CON03, Convertible Trocar Procedure Pack. Recall #Z-001/005-8.
+CODE All lots with lot number prefixes as follows:  95, R5, E4, R6B, E5, 96B. E6C.
+
+                               -14-MANUFACTURER   Applied Medical Resources, Laguna Hills, California.
+RECALLED BY    Manufacturer, by telephone and fax or letter on or before March 27, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY  Approximately 100 boxes of 20 each are estimated to be in distribution channels.
+REASON    Sterility may be compromised because of a micropoint puncture which may
+                       occur at the package fold under certain shipping conditions.
+
+_______________
+UPDATE    Recall #Z-912/914-7, Lead Aprons, Collars and Gonadal Shields, 
+                       and Recall #Z-915/941-7, Ultra-Flex Adult Anesthesia Breathing Circuits, 
+                       which appeared in the October 1, 1997 Enforcement Report are 
+                       Class II recalls. 
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III ========
+_______________
+PRODUCT   CSI Clarity (Crofilcon A) Toric Contact Lens.  Recall #Z-911-7.
+CODE Lot #CGXJJ.
+MANUFACTURER   PBH/Wesley Jessen (Barnes-Hind), San Diego, California.
+RECALLED BY    Manufacturer, by telephone on July 22, 1997.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide, Hong Kong, Mexico, Australia, Canada.
+QUANTITY  28 lenses were distributed; firm estimated that 12 remain in the marketplace
+                        as of July 30, 1997.
+REASON    Some Contact Lenses were labeled with incorrect diopter values that did not
+          reflect the measured value of the product.
+
+_______________
+PRODUCT   Bartels Herpes Simplex Virus 1 IgM Enzyme Immunoassay, 
+                       Catalog No. B1029-345.  
+               Recall #Z-006-8.
+CODE Lot No. 2097. 
+MANUFACTURER   Bartels, Inc., Issaquah, Washington.
+RECALLED BY    Manufacturer, by letter dated September 4, 1997.  
+                                   Firm-initiated recall ongoing.
+DISTRIBUTION   California, Kentucky, Mississippi, Ohio, Australia, Puerto Rico.
+QUANTITY  16 vials were distributed.
+
+                               -15-REASON    The conjugate is losing stability resulting in absorbance values for the positive
+          control that are lower than the limits in the product insert.  
+
+_______________
+PRODUCT   Bartels Herpes Simplex Virus Type-Specific Fluorescent Monoclonal 
+                       Antibody Test and Herpes Simplex Virus Typing Control Slides, 
+                       in-vitro diagnostic products used by health care personnel:
+            a) B1029-44 Herpes Simplex Virus Typing Kit,  
+            b) B1029-44C Herpes  Simplex Virus Typing Control Slides. 
+                       Recall #Z-007/008-8. 
+CODE Lot Numbers:  a) 7E363; b) 7E364.
+MANUFACTURER   Bartels, Inc., The Diagnostics Division of Intracel Corporation, 
+                                   Issaquah, Washington.
+RECALLED BY    Manufacturer, by  letter on August 12, 1997, and by fax. 
+                                   Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY  a) 66 kits; b) 63 kits were distributed.
+REASON    The Herpes Simplex Virus-2 control slide contained non-infected cells in the
+          negative control well instead of infected cells.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS III =========
+  ________________
+  PRODUCT Formula V Products CliniCare Feline Liquid Diet.  Recall #V-046-7.
+  CODE    Lot #6K8C EXP 11/98.
+  MANUFACTURER Pet Ag, Inc., Hampshire, Illinois.
+  RECALLED BY  Manufacturer, by letter dated March 26, 1997. 
+                                    Firm-initiated recall complete.
+  DISTRIBUTION Nationwide and international.
+  QUANTITY     1,853 cases were distributed.
+  REASON  Suspension failure - fat separation which would not go back 
+                         into suspension after shaking.
+  
+                             -16-
+  
+  END OF ENFORCEMENT REPORT FOR OCTOBER 8, 1997.  BLANK PAGES MAY FOLLOW.
+
+                                   ####
+
+
+
+  
+ End of Enforcement Report for

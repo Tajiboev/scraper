@@ -1,0 +1,400 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Feb
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      30 captures
+	      25 Feb 1997 - 05 Jun 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+11/15/1995
+
+ ENFORCEMENT REPORT FOR 11/14/95 
+
+
+November 15, 1995                                                  95-46
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        KC Strawberry Candy, individually wrapped hard candy in 16
+               ounce plastic bags.  Recall #F-043-6.
+CODE           9581/TMRG stamped on the back panel of each bag.
+MANUFACTURER   KC Confectionery Ltd., Trinidad & Tobago, W.I.
+RECALLED BY    Bills Dollar Stores, Inc., Jackson, Mississippi, by letter
+               issued on October 3, 1995.  FDA-initiated recall ongoing.
+DISTRIBUTION   South, Southeast, and Midwestern United States.
+QUANTITY       24,000 bags were distributed.
+REASON         The label is misleading because the nutrient facts on the
+               bag indicated "zero grams" of sugar, however, the ingredient
+               statement listed cane sugar and corn syrup.
+
+_______________
+PRODUCT        Kennedy Gourmet Honey, Lemon and Mint Flavored Tea-Sickles,
+               tea spoons with confection coating on the end of the spoons
+               for flavoring tea and other beverages.
+               Recall #F-046-6.
+CODE           All lots.
+MANUFACTURER   Kennedy Candy Company, Inc., Kilgore, Texas.
+RECALLED BY    Manufacturer, by letter dated August 23, 1995.  FDA-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       34,000 units were distributed.
+REASON         The product contains undeclared FD&C; Yellow No. 5.
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        Eddyleon Milk Chocolate Peanut Butter Cups Packaged in 4.5
+               ounce boxes, 3 boxes to a gift box.  Recall #F-045-6.
+CODE           Lot #A3274.
+MANUFACTURER   Eddyleon Chocolate Company, Inc., Moosic, Pennsylvania.
+RECALLED BY    Manufacturer, by letter August 7, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   New York.
+QUANTITY       792 boxes were distributed; firm estimates none remains on
+               market.
+REASON         Sugar Free Peanut Butter Cups were packaged in containers
+               labeled as Milk Chocolate Peanut Butter Cups.
+
+_______________
+PRODUCT        Standard White Salad Dressing, in individual plastic
+               packets.  Recall #F-047-6.
+CODE           03025, 03085, 03105, 03165.
+MANUFACTURER   Portion Pac, Inc., Mason, Ohio.
+RECALLED BY    Manufacturer, by telephone during the last week in March
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+REASON         Product is unfit for food due to swollen packages.
+
+_______________
+PRODUCT        Rising Sun Farm brand Salad Vinaigrette and marinades in
+               12.5 fluid ounce glass jars:
+               (a) Oil free fresh pesto sun dried tomato salad vinaigrette
+               & marinade fat free
+               (b) Oil free italian lovers salad vinaigrette and marinade
+               (c) Oil free roasted sweet red pepper and sun dried tomato
+               salad vinaigrette and marinade
+               (d) Fresh pesto sun dried tomato vinaigrette and marinade. 
+               Recall #F-048/051-6.
+CODE           Use by dates:  (a-c) 1/7/96 - 9/20/96; (d) 7/3/96.
+MANUFACTURER   Rising Sun Farms, Inc., Phoenix, Oregon.
+RECALLED BY    Manufacturer, by letter and fax on May 27, 1995.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 35,131/12.7 fluid ounce bottles (5,855.17 cases;  
+               (b) 19,418/12.7 fluid ounce bottles (3236.33 cases); 
+               (c) 31,511/12.7 fluid ounce bottles (4812.67 cases;
+               (d) 35,131/12.7 fluid ounce bottles (5855.17 cases). 
+REASON         The product is unfit for food due to fermentation caused by
+               lactobacillus .
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Children's APAP Acetaminophen Elixir, OTC analgesic, in 4
+               fluid ounce bottles under the Mason distributors, and
+               Genovese Drug Stores labels.  Recall #D-013-6.
+                                    -2-CODE           Lot #405099 EXP 1/97.
+MANUFACTURER   Hi-Tech Pharmacal Company, Inc., Amityville, New York.
+RECALLED BY    Manufacturer, by telephone in February/March 1995, followed
+               by letter October 26, 1995.  Firm-initiated recall complete.
+DISTRIBUTION   New Jersey, Florida, California, New York.
+QUANTITY       11,400 bottles were distributed.
+REASON         Superpotency.
+
+_______________
+PRODUCT        Oxygen Cylinders with post valves coded 160995:
+               Emergency Portable Unit-Model 477-27-6; Filled aluminum
+               cylinders with Erie Post valve 870-models 488-60, 407-150,
+               407-127, 488-12; Post valve assemblies-models 480-3, 480-3-
+               16, 488-42, and 488-53.  Recall #D-014-6.
+CODE           Cylinders with post valves coded 160995.
+MANUFACTURER   Erie Medical, Division of Erie Manufacturing Company,
+               Milwaukee, Wisconsin.
+RECALLED BY    Manufacturer, by letter on or about October 6, 1995.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Colorado, Iowa, Illinois, Maryland, Michigan, Minnesota, New
+               York, Pennsylvania, Texas, Wisconsin, Portugal.
+QUANTITY       513 cylinders were distributed.
+REASON         Improper assembly of temperature sensitive safety plug.
+
+_______________
+PRODUCT        Oxygen USP in portable aluminum cylinders in the following
+               sizes:  "E", 682 liters; "D", 425 liters, "M-9", 245 liters,
+               and "M-6" 165 liters.  Recall #D-016-6.
+CODE           All codes distributed to patient accounts between April 1995
+               and September 1995.
+MANUFACTURER   Southeast Home Medical Equipment, Milwaukee, Wisconsin.
+RECALLED BY    Manufacturer, by telephone between September 11 and 22,
+               1995.  FDA-initiated recall ongoing.
+DISTRIBUTION   Wisconsin.
+QUANTITY       Undetermined.
+REASON         Current good manufacturing practice deficiencies.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Dexamethasone Tablets, USP, 0.75 mg Dosepack Tablets, 12
+               Oral Tablets per dosepack, Rx corticosteroid.
+               Recall #D-015-6.
+CODE           Lot #099501 EXP 9/96.
+MANUFACTURER   Par Pharmaceuticals, Inc., Spring Valley, New York.
+RECALLED BY    Horizon Pharmaceutical, Inc., Louisville, Kentucky, by
+               letter dated October 2, 1995.  FDA-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined. 
+REASON         Usage instructions are printed upside down on a portion of
+               the lots.
+
+                                    -3-RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-023-6.
+CODE           Unit #35R72.
+MANUFACTURER   Mayo Foundation, Division of Transfusion Medicine,
+               Rochester, Minnesota.
+RECALLED BY    Manufacturer, by telephone on August 31, 1994, and by
+               follow-up letter on September 1, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Florida, New York, Italy.
+QUANTITY       1 unit.
+REASON         Blood product, which initially tested reactive for antibody
+               to the hepatitis C virus encoded antigen (anti-HCV) and was
+               not retested in duplicate, was distributed.
+
+_______________
+PRODUCT        Source Plasma.  Recall #B-039-6.
+CODE           Unit #0180681543.
+MANUFACTURER   NABI Bio-Medical Center, Columbus, Ohio.
+RECALLED BY    Manufacturer. Unit was destroyed on March 9, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Michigan.
+QUANTITY       1 unit.
+REASON         Blood product, which was tested HCV repeat reactive, was
+               distributed.
+
+_______________
+PRODUCT        Platelets.  Recall #B-044-6.
+CODE           Unit #03GL08130.
+MANUFACTURER   American Red Cross, Atlanta, Georgia.
+RECALLED BY    Manufacturer, by telephone on February 1, 1995, followed by
+               letter on February 7, 1995.  Firm-initiated recall complete.
+DISTRIBUTION   Georgia.
+QUANTITY       1 unit.
+REASON         Blood product, which was collected from a donor with a
+               medical history of hepatitis, was distributed.
+
+_______________
+PRODUCT        Platelets, Pheresis.  Recall #B-045-6.
+CODE           Unit numbers:  03P79224, 03P64491, 03P58046.
+MANUFACTURER   American Red Cross Blood Services, Atlanta, Georgia.
+RECALLED BY    Manufacturer, by letter dated February 24, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Georgia and Tennessee.
+QUANTITY       3 units.
+REASON         Blood products, which were collected from a donor who had
+               traveled to an area designated as endemic for malaria, were
+               distributed.
+
+                                    -4-_______________
+PRODUCT        Baxter Fenwal Closed System Apheresis Kit with Double Return
+               Line Needle and PL 3014 Plastic Platelet Storage Containers,
+               designed for use with the CS-3000 Plus Blood Cell Separator
+               for the simultaneous collection of platelet concentrate and
+               plasma.  Recall #B-049-6.
+CODE           Lot #H95F07016GM.
+MANUFACTURER   Baxter Healthcare Corporation, Mountain Home, Arkansas.
+RECALLED BY    Baxter Healthcare Corporation, Deerfield, Illinois, by
+               telephone on July 28, 1995, followed by letter dated July
+               31, 1995.  Firm-initiated recall complete.
+DISTRIBUTION   North Carolina.
+QUANTITY       66 kits were distributed. 
+REASON         Baxter's Apheresis Kits, which were manufactured in a manner
+               that compromised the sterility of the collection system,
+               were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma.  
+               Recall #B-050/051-6.
+CODE           Unit #L40555.
+MANUFACTURER   South Bend Medical Foundation, Inc., South Bend, Indiana.
+RECALLED BY    Manufacturer, by telephone on October 6, 1994, followed by
+               letter and fax on October 11, 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Indiana, Pennsylvania, California.
+QUANTITY       1 unit of each component.
+REASON         Blood products, which tested repeatedly reactive for
+               hepatitis B surface antigen (HBsAg), were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma.  
+               Recall #B-052/053-6.
+CODE           Unit #53GL48776.
+MANUFACTURER   American Red Cross Blood Services, Baltimore, Maryland.
+RECALLED BY    Manufacturer, by letters dated December 15, 1993, March 15,
+               1995, May 1, 1995, and December 22, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Maryland.
+QUANTITY       1 unit of each component.
+REASON         Blood products, which tested negative for antibody to the
+               hepatitis C virus encoded antigen (anti-HCV), but were
+               collected from a donor who previously tested repeatedly
+               reactive for anti-HCV on three separate occasions, were
+               distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Gesco brand 3.5 Fr. Umbili-Cath, a sterile, single-use,
+               prescription PVC umbilical vessel catheter.  
+               Recall #Z-114-6.
+
+                                    -5-CODE           Catalog #9823, Lot #06-032897.
+MANUFACTURER   Gesco International, Inc., subsidiary of MedChem Products,
+               Inc., San Antonio, Texas.
+RECALLED BY    MedChem Products, Inc., Woburn, Massachusetts, by letter
+               dated May 19, 1995.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide, Canada.
+QUANTITY       1,140 units were distributed.
+REASON         The device was manufactured without a radiopaque stripe,
+               thus precluding radiographic confirmation.
+
+_______________
+PRODUCT        Tabletops Installed with Tomoscan SR 6000 and SR 7000
+               Computed Tomography (CT) X-Ray Scanners:
+               (a) Tabletop 4520-540-01611 used with Tomoscan SR 6000 
+               (b) Tabletop 4520-540-01711 used with Tomoscan SR 7000. 
+               Recall #Z-129/130-6.
+CODE           Serial numbers: (a) 5001-5020; (b) 6001-6049.
+MANUFACTURER   Hitachi Medical Systems, Tokyo, Japan.
+RECALLED BY    Philips Medical Systems, Shelton, Connecticut, by issuing a
+               User Notification letter dated September 22, 1995.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 57 units; (b) 5 units.
+REASON         The method of applying the adhesive which bonds the carbon
+               fiber to core material may allow the eventual separation of
+               the carbon fiber from the core, weakening the tabletop, and
+               causing it to break or bend.
+
+
+SEIZURE ACTIONS: 
+=========================================================
+_______________
+PRODUCT        Frozen Shrimp (95-681-946).
+CHARGES        Adulterated - The article consists in part of a decomposed
+               substance by reason of the presence therein of decomposed
+               shrimp.
+LOCATION       Americold Cold Storage, Tampa, Florida.
+FILED          September 26, 1995; U.S. District Court for the Middle
+               District of Florida; Civil #95-1575-CIV-T-24B; FDC #67101.
+SEIZED         October 26, 1995 - goods valued at approximately $25,000.
+
+                                    -6-
+
+
+END OF ENFORCEMENT REPORT FOR NOVEMBER 15, 1995.  BLANK PAGES MAY
+FOLLOW.
+
+
+                                   ####

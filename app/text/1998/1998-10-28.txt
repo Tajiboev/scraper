@@ -1,0 +1,945 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  DEC
+		  Aug
+		
+		
+		
+		  
+		  28
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      23 captures
+	      19 Aug 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DO
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+October 28, 1998                  98-43
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS
+I
+
+PRODUCT
+Butterfield Foods brand a) Beef-N-Onion Dip in 5 pound tubs; b)
+Beef-N-Onion Cheeseball Mix, in 10 pound tubs.
+Recall #F-016/017-9.
+CODE
+All lots.
+MANUFACTURER
+Butterfield Foods, Pennville, Indiana.
+RECALLED BY
+Manufacturer, by press release on August 28, 1998, and by
+telephone and fax on August 29, 1998.  Firm-initiated recall
+complete.
+DISTRIBUTION
+States east of the Mississippi River.
+QUANTITY
+a) 2,400 tubs; b) 550 tubs were distributed.
+REASON
+Products are contaminated with Listeria monocytogenes.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS
+II
+
+PRODUCT
+Mott's Apple Juice in 64 fluid ounce plastic containers:  a)
+Mott's 100% Apple Juice from Concentrate; b) Mott's Natural 100%
+Apple Juice Unsweetened.  Recall #F-006/007-9.
+CODE
+Aspers Plant Code:  A80302, A80304-A80306, A80313, A80315,
+A80317,A80318, A80320-A80325
+Williamson Plant Code:  WP80331, WP80401, WP80403, WP80404,
+WP80409, WP80411, WP80413, WP80414, WP80506, WP80507-WP80511.
+MANUFACTURER
+Manufacturing Plants:  Mott's Inc. Williamson, New York and
+Mott's Inc., Aspers Pennsylvania.
+RECALLED BY
+Mott's North America, Stamford, Connecticut, by E-mail on August
+7, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+376,406 cases were distributed.
+REASON
+Products contain Candida parapsilosis.
+
+
+PRODUCT
+Frozen Rock Lobster Tails in 10 pound cardboard boxes.
+Recall #F-008-9.
+CODE
+None.
+MANUFACTURER
+Interamerican Trading and Products Corporation, Medley,
+Florida.
+RECALLED BY
+Manufacturer, by letter on June 15, 1998.  Firm-initiated recall
+complete.
+DISTRIBUTION
+Florida, Michigan, Kansas, South Carolina, Massachusetts,
+Georgia, Ohio, Tennessee, Illinois, California, Arizona,
+Wisconsin, Nevada, New York, Maryland, Washington state.
+QUANTITY
+Approximately 44,000 pounds were distributed.
+REASON
+Product contains undeclared sulfites.
+
+
+PRODUCT
+Mango Anchar in 12 ounce glass jars.  Recall #F-010-9.
+CODE
+None.
+MANUFACTURER
+Maharaj Argo Products Inc., Trinidad.
+RECALLED BY
+Kwack Trading Company, Inc., Bronx, New York (importer), by
+placing a placard at the check out counter on May 2, 1997. 
+Completed recall resulted from sample analysis and follow-up by
+the New York State Department of Agriculture and Markets.
+DISTRIBUTION
+Undetermined.
+QUANTITY
+Undetermined.
+REASON
+Product contains an unapproved food additive namely mustard seed
+oil.
+
+
+PRODUCT
+Chief brand Kuchela West Indian Pickles, in 12 ounce glass jars. 
+Recall #F-011-9.
+CODE
+None.
+MANUFACTURER
+Chief Brand Products, Trinidad.
+RECALLED BY
+Kwack Trading Company, Inc., Bronx, New York (importer), by
+placing a placard on the check-out counter on May 27, 1997. 
+Completed recall resulted from sample analysis and follow-up by
+the New York State Department of Agriculture and Markets.
+DISTRIBUTION
+Undetermined.
+QUANTITY
+Undetermined.
+REASON
+Product contained an unapproved food additive namely mustard seed
+oil.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS
+-- CLASS II
+
+PRODUCT
+Nystatin Tablets, USP, Oral, 500,000 units, in 100 and 500 tablet
+bottles, Rx, intended for the treatment of non-esophageal mucus
+membrane gastrointestinal candidiasis, under the Par, Qualitest,
+Major, and H.L. Moore labels.  NDC # 49884-119-01 and 49884-119
+-05 (Par); 0603-4830-21 (Qualitest); 0904-0672-60 (Major); 0839
+-6282-06 (H.L. Moore).  Recall #D-005-9.
+CODEBulk Lot #    EXP Date    Lot Numbers
+
+003740        1/99        004519, 004520, 004521, 004522
+003754        2/99        005282, 005283, 005284, 005285
+004744        3/99        005374, 005375, 005810, 005820
+005571        4/99        006967, 006968, 006969, 006970
+006018        5/99        007024, 007025, 007026, 007495
+                          007852, 007866, 007101, 011097
+007032        9/99        008521, 008656, 008657, 008963
+                          009206
+007042        8/99        009859, 009860, 009861
+009891       10/99        011098, 011100, 011101.
+MANUFACTURER
+Par Pharmaceutical, Inc., Spring Valley, New York.
+RECALLED BY
+Manufacturer, by letter on October 5, 1998.  Firm-initiated
+recall ongoing.
+DISTRIBUTION
+Nationwide and Puerto Rico.
+QUANTITY
+77,000 bottles of 100s and 206 bottles of 500s were
+distributed.
+REASON
+Subpotent.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS
+III
+
+PRODUCT
+Knol brand Extra Strength Acetaminophen Tablets, 500 mg, in
+bottles of 100.  Recall #D-004-9.
+CODE
+Lot #4JA308 EXP 9/97.
+MANUFACTURER
+Perrigo Company, Allegan, Michigan.
+RECALLED BY
+Manufacturer, by letter dated May 15, 1995.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Nationwide and Canada.
+QUANTITY
+10,044 bottles were distributed in October 1994.
+REASON
+Tablet discoloration and mold.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS
+II
+
+PRODUCT
+Mountain Cedar, Mountain Cedar, 5 mL, 10 mL, 30 mL, 50 mL vials
+as well as in dripper vials.  Recall #B-037-9.
+CODE
+Lot G83-53B-2A3.
+MANUFACTURER
+Greer Laboratories, Inc., Lenoir, North Carolina.
+RECALLED BY
+Manufacturer, by telephone and letter on August 14, 1998.  
+Firm-initiated recall ongoing.
+DISTRIBUTION
+Alaska, California, Ohio, Texas.
+QUANTITY
+20 vials were distributed.
+REASON
+Allergenic extract labeled as Mountain Cedar contains Red
+Cedar.  
+
+
+PRODUCT
+a) Red Blood Cells; b) Fresh Frozen Plasma; c) Single Donor
+Plasma; d) Platelets; e) Platelets Pooled, Platelets Expired;
+f) Platelets, Pheresis; g) Cryoprecipitated AHF;
+h) Cryoprecipitated AHF, Pooled; I) Source Leukocytes;
+j) Recovered Plasma.  Recall #B-044/053-9. 
+CODE  Unit numbers: 
+Red Blood Cells  Units:   9766814, 9780722, 9790017, 9802473,
+9803338, 9843139, 9847315, 9790170, 9796748, 9802442, 9793096,
+9842332, 9800686, 9801072, 9852942, 9801657, 9842292, 9800610,
+9769934, 9842601, 9846495;
+Fresh Frozen Plasma Units:  9766814, 9780722, 9790017, 9798765,
+9802473, 9803338, 9843139, 9790170, 9796748, 9793096, 9800686,
+9852942, 9778045, 9799817, 9801657, 9800610, 9801093, 9842601;
+Single Donor Plasma Units 9842332, 9842292 9842241;
+Platelets Units  9766814, 8789460, 9802473, 9802442, 9842332,
+9800686, 9799817, 9801657, 9842601;
+Platelets Pooled Units 57950, 58657, 57592, 57352;
+Platelets Expired Units 9801093, 9846495;
+Platelets, Pheresis Unit 9771578;
+Cryoprecipitated AHF Unit 9790483;
+Cryoprecipitated AHF, Pooled Unit 59926
+Leukocytes Units 9780722, 9790017, 9802473, 9800686;
+Recovered Plasma Units 9789460, 9790483, 9803338, 9788435,
+9771578, 9769934.
+MANUFACTURER
+Hoxworth Blood Center, University of Cincinnati Medical Center,
+Cincinnati, Ohio.
+RECALLED BY
+Manufacturer, by letter on July 31, 1998.  Firm-initiated recall
+complete.
+DISTRIBUTION
+California, Florida, Ohio, Kentucky.
+QUANTITY
+70 units of the various components were distributed.
+REASON
+Blood products were collected from donors whose donor history
+screening was incomplete.
+
+
+PRODUCT
+Allergenic Extract, Mosquito, Coffea Arabica, 5 ml Scratch-Prick
+Testing Vial.  Recall #B-054-9.
+CODE
+Lot F703128A.
+MANUFACTURER
+Allergy Laboratories of Ohio, Inc., Columbus, Ohio.
+RECALLED BY
+Manufacturer, by letter dated September 24, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+New Jersey and Ohio.
+QUANTITY
+2 vials were distributed.
+REASON
+Allergenic extract labeled as Mosquito, Coffea Arabica should
+have been labeled  Mosquito, Culex sp.  
+
+
+PRODUCT
+a) Red Blood Cells; b) Recovered Plasma.  Recall #B-055/056-9.
+CODE
+Unit #29FC46209.
+MANUFACTURER
+American Red Cross Blood Services, Norfolk, Virginia.
+RECALLED BY
+Manufacturer, by letter dated August 13, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Virginia.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor with a history of
+hepatitis.
+
+
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Source Leukocytes; d)
+Recovered Plasma.  Recall #B-060/063-9.
+CODE
+Unit #01KF30834.
+MANUFACTURER
+American Red Cross Blood Services, Rochester, New York.
+RECALLED BY
+Manufacturer, by telephone on May 20, 1998, and by letter dated
+May 27, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+New York and New Jersey.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor whose spouse had been
+diagnosed with hepatitis C.
+
+
+PRODUCT
+Source Leukocytes for Manufacturing.  Recall #B-064-8.
+CODE
+Unit #01KH22591.
+MANUFACTURER
+American Red Cross Blood Services, Rochester, New York.
+RECALLED BY
+Manufacturer, by telephone on December 3, 1997, and by letter
+dated December 23, 1997.  Firm-initiated recall complete.
+DISTRIBUTION
+New Jersey.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a unsuitable donor.
+
+
+PRODUCT
+Red Blood Cells.  Recall #B-065-9.
+CODE
+Unit #10584-2488.
+MANUFACTURER
+United Blood Services, Phoenix, Arizona.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by telephone on June
+23, 1998, and by letter dated July 16, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Arizona.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product tested negative for HBsAg, but was collected from a
+donor who previously tested reactive for HBsAg.
+
+
+PRODUCT
+Red Blood Cells.  Recall #B-068-9.
+CODE
+Unit #20267-8917.
+MANUFACTURER
+Blood Systems, Inc., Lafayette, Louisiana.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by telephone on May 29,
+1997, and by letter dated June 23, 1997.  Firm-initiated recall
+complete.
+DISTRIBUTION
+Louisiana.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was mislabeled as CMV antibody negative.
+
+
+PRODUCT
+Red Blood Cells.  Recall #B-072-9.
+CODE
+Unit #18215-1322.
+MANUFACTURER
+United Blood Services, Cheyenne, Wyoming.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by telephone on October
+31, 1997.  Firm-initiated recall complete.
+DISTRIBUTION
+Wyoming.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected in a manner that compromises the
+sterility of the product.
+
+
+PRODUCT
+Platelets.  Recall #B-073-9.
+CODE
+Unit #39G00043.
+MANUFACTURER
+American Red Cross, Huntington, West Virginia.
+RECALLED BY
+Manufacturer, by letter dated July 29, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+West Virginia.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was prepared using an unvalidated centrifuge.
+
+
+PRODUCT
+Red Blood Cells.  Recall #B-078-9.
+CODE04R33500         04R33501         04R33502
+04R33503         04R33504         04R33505
+04R33506         04R33507         04R33508
+04R33509         04R33510         04R33511
+04R33513         04R33514         04R33515
+04R33516         04R33517         04R33518
+04R33519         04R33520         04R33521
+04R33522         04R33523         04R33528
+04R33529         04R33530         04R33531
+04R33532         04R33533         04R33534
+04R33535         04R33536         04R33537.
+MANUFACTURER
+American Red Cross - National Testing Laboratory, Dedham,
+Massachusetts (testing lab).
+RECALLED BY
+American Red Cross, Dedham, Massachusetts, by telephone on
+January 14, 1998, and by letter dated January 16, 1998.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Massachusetts.
+QUANTITY
+33 units were distributed.
+REASON
+Blood products were incorrectly tested for syphilis.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS
+III
+
+PRODUCT
+Red Blood Cells.  Recall #B-066-9.
+CODE
+Unit #20268-2901.
+MANUFACTURER
+Blood Systems, Inc., Lafayette, Louisiana.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by letter dated August
+22, 1997.  Firm-initiated recall complete.
+DISTRIBUTION
+Louisiana.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who exceeded the
+donation acceptance criteria for body temperature.
+
+
+PRODUCT
+Platelets.  Recall #B-069-9.
+CODE
+Unit #10586-0150.
+MANUFACTURER
+United Blood Services, Scottsdale, Arizona.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by telephone on July 7,
+1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Nevada.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was prepared from a unit of whole blood with an
+extended collection time.
+
+
+PRODUCT
+Platelets.  Recall #B-070-9.
+CODE
+Unit #20265-4557.
+MANUFACTURER
+Blood Systems, Inc., Lafayette, Louisiana.
+RECALLED BY
+Manufacturer, by telephone on November 22, 1996.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Louisiana.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was prepared from a unit of whole blood with an
+extended collection time.
+
+
+PRODUCT
+Platelets.  Recall #B-071-9.
+CODE
+Unit #20267-6650.
+MANUFACTURER
+Blood Systems, Inc., Lafayette, Louisiana.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by letter dated July 2,
+1997.  Firm-initiated recall complete.
+DISTRIBUTION
+Louisiana.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was prepared from a unit of whole blood with an
+extended collection time.
+
+
+PRODUCT
+Platelets, Pheresis.  Recall #B-074-9.
+CODE
+Unit numbers:  12431-7251, 12431-3380-01, 12431-3380-02.
+MANUFACTURER
+United Blood Services, Albuquerque, New Mexico.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by telephone on July
+20, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Colorado, Illinois, New Mexico.
+QUANTITY
+3 units were distributed.
+REASON
+Unlicensed blood products was distributed in intra and interstate
+commerce without obliteration of the firm's license.  
+
+
+PRODUCT
+Red Blood Cells.  Recall #B-075-9.
+CODE
+Units 12425-8386 and 12424-8417.
+MANUFACTURER
+United Blood Services, Albuquerque, New Mexico.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by telephone on August
+13, 1997, and by letter dated September 17, 1997.  Firm-initiated
+recall complete.
+DISTRIBUTION
+New Mexico.
+QUANTITY
+2 units were distributed.
+REASON
+Blood products were stored at unacceptable temperatures.
+
+
+PRODUCT
+Red Blood Cells.  Recall #B-076-9.
+CODE
+Unit numbers:  12427-7422, 12427-7430.
+MANUFACTURER
+United Blood Services, Albuquerque, New Mexico.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by telephone on
+November 24, 1997, and by letter dated December 9, 1998.  
+Firm-initiated recall complete.
+DISTRIBUTION
+New Mexico.
+QUANTITY
+2 units were distributed.
+REASON
+Blood products were stored at unacceptable temperatures.
+ 
+RECALLS AND FIELD CORRECTIONS:  DEVICES --
+CLASS II
+
+PRODUCT
+IMED Gemini PC-4 Volumetric Infusion Pump/Controller.  
+Recall #Z-036-9.
+CODE
+All PC-4 pumps distributed to date.
+MANUFACTURER
+Alaris Medical Systems, Inc., San Diego, California.
+RECALLED BY
+Alaris Medical Systems, San Diego, California, by letter on
+September 9, 1998.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+7,380 units were distributed.
+REASON
+The devices have a software problem that causes the entire device
+to shut down when the system controller detects either an actual
+motor stall event, or a timing event that may be a motor
+stall.
+
+
+PRODUCT
+CPI Model No. 2881 Software Application, Version 1.3 for CPI
+Model Nos. 2901 and 2950 Programmer/Recorder/Monitors (PRM's)
+used to program Delta and Vista Multiprogrammable Pulse
+Generators.  Recall #Z-062-9.
+CODE
+All Model 2881, Version 1.3 software.
+MANUFACTURER
+Guidant Corporation, St. Paul, Minnesota.
+RECALLED BY
+Manufacturer, by telephone, followed by letter dated September
+18, 1998.  Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+500-600 programmers have the model 2881 software.
+REASON
+There is the potential for an inaccurate magnet rate value to be
+displayed when using the version 1.3 Software Application which
+can lead to an incorrect estimation of the device's actual
+battery status.
+
+
+PRODUCT
+Manan SUPER-CORE BIOPSY NEEDLE 18 ga X 15 cm, 20 ga X 15 cm, 18
+ga X 9 cm, 16 ga X 20 cm, 16 ga X 15 cm, 14 ga X 9 cm, 20 ga X 20
+cm and 18 ga X 20 cm, used to obtain soft tissue biopsies, such
+as from the liver, kidney, prostate, breast, thyroid, pancreas,
+spleen and lungs.  Recall #Z-063-9.
+CODE
+All catalog numbers "VLT 14/9X" through "VLT 20/20X" and Lot
+Numbers 81391208 through 82182261 are involved in this field
+correction.
+MANUFACTURER
+Medical Device Technologies (MD Tech), Gainsville, Florida.
+RECALLED BY
+Manufacturer, by letter on September 11, 1998 and October 14,
+1998.  Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+798 devices were distributed.
+REASON
+The clear plastic film of some of the device's pouch packaging
+may exhibit cuts thereby compromising the sterile barrier.
+
+
+
+PRODUCT
+NIR ON Ranger with SOX Premounted System, a sheath covered (SOX)
+coronary stent, premounted on a balloon catheter used as part of
+a delivery system:a) Product No. H7491826916251, 16mm NIR on Ranger with Sox 2.5;
+b) Product No. H7491826916301, 16mm NIR on Ranger with Sox 3.0;
+c) Product No. H7491826916351, 16mm NIR on Ranger with Sox 3.5;
+d) Product No. H7491826916401, 16mm NIR on Ranger with Sox 4.0;
+e) Product No. H7491826925251, 25mm NIR on Ranger with Sox 2.5;
+d) Product No. H7491826925301, 25mm NIR on Ranger with Sox 3.0;
+f) Product No. H7491826925351, 25mm NIR on Ranger with Sox 3.5;
+g) Product No. H7491826925401, 25mm NIR on Ranger with Sox 4.0;
+h) Product No. H7491826932251, 32mm NIR on Ranger with Sox 2.5;
+I) Product No. H7491826932301, 32mm NIR on Ranger with Sox 3.0;
+j) Product No. H7491826932351, 32mm NIR on Ranger with Sox 3.5;
+k) Product No. H7491826932251, 32mm NIR on Ranger with Sox 4.0.
+Recall #Z-100/111-9.
+CODE
+All NIR ON Ranger with SOX. NOTE: The NIR ON Ranger without SOX
+is not involved in this recall.
+MANUFACTURER
+Boston Scientific/Scimed, Maple Grove, Minnesota.
+RECALLED BY
+Manufacturer, by press release on October 5, 1998, and by letter
+on October 9, 1998.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and Puerto Rico.
+QUANTITY
+The estimated amount shipped is between 33,000 and 36,000.
+REASON
+There are pinhole leaks in the balloon which results in the
+balloon not deploying and failing at 3-4 atm which is below the
+rated burst pressure.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS
+III
+
+PRODUCT
+Vacutainer brand Sodium Citrate Tube with HEMOGARD Closure, a
+sterile 1.8mL glass partial draw citrate tube used for
+determining clotting time in coagulation studies.
+Recall #Z-824-8.
+CODE
+Catalog (or Reorder Number) #369711
+Lot Numbers: 6G856, Expiration Date: January '98
+6H878, Expiration Date: February '98.
+MANUFACTURER
+Becton Dickinson Vacutainer Systems, Broken Bow, Nebraska.
+RECALLED BY
+Becton Dickinson Vacutainer Systems, Franklin Lakes, New Jersey,
+by telephone/fax on October 6, 1997, and by letters mailed on
+November 13, 1997.  Firm-initiated recall complete.
+DISTRIBUTION
+Nationwide, Japan, Singapore, Canada.
+QUANTITY
+98,000 units of lot 6G856 and601,000 units of lot 6H878 were
+distributed.
+REASON
+The device has a contaminant which inactivates the citrate
+causing an increased rate of clotting of blood specimens.
+
+
+PRODUCT
+Abbott TestPack RSV, list 2027-16 (20 test kit) and 2027-25 (20
+test kit with positive control) ,an Enzyme Immunoassay for the
+Rapid Detection of Respiratory Syncytial Virus from
+nasopharyngeal aspirates, washes and swabs of young children with
+lower respiratory tract illnesses.  Recall #Z-058/059-9.
+CODE
+Lot 43243M102, EXP 12/12/98.
+MANUFACTURER
+Abbott Laboratories, North Chicago, Illinois.
+RECALLED BY
+Abbott Laboratories, Diagnostics Division, Abbott Park, Illinois,
+by letter dated August 12, 1998.  Firm-initiated recall
+ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+111 kits were distributed; firm estimated that 50% remained on
+market at time of recall initiation.
+REASON
+Kits were packaged with incorrect specimen treatment cups.
+
+
+PRODUCT
+Abbott Vision Urea Nitrogen Test Pack list 1416-10, 10 tests per
+pack ,an in vitro diagnostic used with the Abbott Vision System
+for the quantitative determination of urea in anticoagulated
+whole blood, plasma or serum, used in the diagnosis and treatment
+of certain renal and metabolic diseases.  Recall #Z-060-9.
+CODE
+Lots 36758M300, 37121M200 and 37120M200 EXP 9/1/98.
+MANUFACTURER
+Abbott Laboratories, North Chicago, Illinois.
+RECALLED BY
+Abbott Laboratories, Diagnostics Division, Abbott Park, Illinois,
+by letter dated April 30, 1998.  Firm-initiated recall
+ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+3,950 packs were distributed; firm estimates none remains on the
+market.
+REASON
+The urea nitrogen calibrations failed for the Y-Intercept out of
+range.
+
+
+PRODUCT
+Bartels Cytomegalovirus (CMV) Immediate Early Antigen (IEA),
+Indirect Fluorescent Antibody Kit.  Recall #Z-061-9.
+CODE
+Kit Lot #8H645.
+MANUFACTURER
+Intracel Corporation, Issaquah, Washington.
+RECALLED BY
+Manufacturer, by letter September 2, 1998.  Firm-initiated recall
+complete.
+DISTRIBUTION
+Oregon, Missouri, Texas.
+QUANTITY
+6 kits were distributed.
+REASON
+The antibody reagent is mislabeled as the conjugate, and may lead
+to potential delay in diagnosis.
+
+
+PRODUCT
+Para-Pak Trichrome Stain, packed in plastic bottles, 
+500 ml per bottle, a microbiological product used
+for staining intestinal parasites in stool specimens:
+Catalog/Product Numbers are: 400101 (individual bottles) and
+400112 (case of 12 bottles).  Recall #Z-093/094-9.
+CODE
+Lot # 39.549, Expiration Date: 9/99.
+MANUFACTURER
+Meridian Diagnostics, inc., Cincinnati, Ohio.
+RECALLED BY
+Manufacturer, by telephone on August 27, 1998, followed by
+letter.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+512 bottles were distributed.
+REASON
+The stain was incorrectly formulated, resulting in poor
+background contrast which makes it difficult for the user to
+differentiate the parasites and may lead to inaccurate test
+results.
+
+
+PRODUCT
+Abbott AxSYM CMV IgG Reagent Pack, list 4B47-22, a microparticle
+enzyme immunoassay for the qualitative detection of immunological
+experience, and can be used semi-quantitatively with paired sera
+or plasma as an indication of past or current infection with
+Cytomegalovirus on the AxSYM System.  Recall #Z-096-9.
+CODE
+kit lot 38519M201 EXP 3/11/99
+MANUFACTURER
+Abbott Laboratories, Diagnostics Division, Abbott Park,
+Illinois. 
+RECALLED BY
+Manufacturer, by telephone on April 1-3, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+California, Florida, Louisiana, Massachusetts, Minnesota, New
+Jersey, New York, Oklahoma, South Dakota.
+QUANTITY
+44 kits were distributed.
+REASON
+The Master Calibration Barcode packaged with the lot was
+erroneously coded to read Assay Number 743, which is the list
+number 4B47-20 Assay Number in the AxSYM software protocol.  The
+lot should have been coded with Assay Number 742.  The AxSYM
+System for U.S. customers will not recognize the Master
+Calibration Barcode and cannot run the reagents by a Master
+Calibration.
+
+
+PRODUCT
+Abbott Cell-Dyn 16 Tri-Level Whole Blood Reference Control, list
+99109-01 (12 tubes) and 99105-01 (Half Pack - 6 tubes) an
+in-vitro diagnostic reagent tri-level whole blood quality control
+material used to monitor CBC and differential values obtained on
+the Cell-Dyn 300-800, 610, 900, 1300, 1400, 1500, 1600 and 1700
+Systems.  Recall #Z-097/098-9.
+CODE
+Kit Lot 16511 EXP 7/6/98.
+MANUFACTURER
+Abbott Laboratories, Diagnostics, Division, Santa Clara,
+California.
+RECALLED BY
+Abbott Laboratories, Diagnostics Division, Abbott Park, Illinois,
+by letter dated March 24, 1998.  Firm-initiated recall
+complete.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+11,310 kits were distributed.
+REASON
+The low-level control material recovered out of range low for the
+HCT, MCV and MCHC parameters.
+
+
+PRODUCT
+Abbott Cell-Dyn 26 Hematology Control, list 01H71-01 an in-vitro
+diagnostic reagent tri-level hematology reference control used to
+monitor results obtained on the Cell-Dyn 4000 Hematology System. 
+Recall #Z-099-9.
+CODE
+Kit Lot CD038 EXP 4/30/98.
+MANUFACTURER
+R&D Systems, Inc., Minneapolis, Minnesota.
+RECALLED BY
+Abbott Laboratories, Diagnostics Division, Abbott Park, Illinois,
+by letter dated March 13, 1998.  Firm-initiated recall
+complete.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+1,061 kits were distributed.
+REASON
+The high-level control material recovered out of range low for
+NRBC and NRBS/100 WBC parameters.
+
+
+
+####
+
+
+  
+ End of Enforcement Report for Oct. 28, 1998

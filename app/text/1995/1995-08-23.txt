@@ -1,0 +1,476 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  DEC
+		  Mar
+		
+		
+		
+		  
+		  28
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      27 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DO
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+08/22/1995
+
+ENFORCEMENT REPORT FOR 08/23/1995
+
+
+August 23, 1995
+
+
+_______________
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Tegretol 200 mg (carbamazepine USP), packaged in 100 and
+               1000 tablet bottles, an Rx drug, used as an anticonvulsant
+               for patients with epilepsy, and in the treatment of pain
+               associated with trigeminal neuralgia, Recall #D-236-5.
+CODE           Lot #s 1T170092 (exp. 6/99), 1T176204 (exp. 7/99) - 100
+               tablets; Lot #s 1T176199 (exp. 6/99), 1T176205 (exp. 7/99),
+               1T176213 (exp. 8/99) - 1000 tablets.
+MANUFACTURER   Ciba Pharmaceuticals Division, Suffern, New York.
+RECALLED BY    Manufacturer, by letters dated July 21, and August 15, 1995. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       86,130 units were distributed.
+REASON         Product does not meet dissolution specifications.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+=======================
+_______________
+PRODUCT        Lescol (fluvastatin sodium) Capsules, 20 mg bottles/100/30
+               tablets and 40 mg bottles/100/30 tablets, an Rx drug, Recall
+               #D-233/234-5. 
+
+CODE           Lot numbers: 040W8823, 042W8823, 043W8823, 048W7028,
+               040W7028, 051W7310, 052W7505, 054X7505, 068X7505, 057X7595.
+               060X7660, 081X7732, 082X7732; 023W6212, 032W6475, 058X7308;
+               003U6184, 010W6642, 012W6680, 013W6680, 014W6680, 020X7607,
+               021X7353, 022X7507; D02U5088, D02U5087. 014W6332, 018W6332,
+               025X7813.
+MANUFACTURER   Sandoz Pharmaceuticals Corporation, East Hanover, New
+               Jersey.
+RECALLED BY    Manufacturer, by letter May 24, 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide, Hawaii, Alaska, Puerto Rico.
+QUANTITY       Firm estimates none remain on market.
+REASON         Product does not meet dissolution specifications.
+
+
+_______________
+PRODUCT        Sterile Cefazolin USP, packaged in 100 ml glass vials,
+               Recall #D-235-5.
+CODE           Control #4F60532, exp. date 06/96.
+MANUFACTURER   Marsam Pharmaceuticals, Inc., Cherry Hill, New Jersey.
+RECALLED BY    Manufacturer, by letter August 1, 1994 and telephone July
+               29, 1995.  Firm-initiated field correction action complete.
+DISTRIBUTION   Ohio, Tennessee, Kentucky, New Jersey, California, New York,
+               Massachusetts, Alabama, Oklahoma, Pennsylvania, Illinois,
+               Minnesota, Wisconsin.
+QUANTITY       10,368 vials were distributed.
+REASON         A small number of vials were mis-packaged in 10-pack trays
+               labeled 10 grams.  The vials are correctly labeled.
+
+
+_______________
+PRODUCT        Thorazine Concentrate (brand of Chlorpromazine
+               Hydrochloride), 100 mg/ml, in 8 fluid ounce bottles, an 
+               tranquilizer, Recall #D-237-5.
+CODE           Lot #X111T49, Exp. date Oct 31, 1995.
+MANUFACTURER   SmithKline Beecham Pharmaceuticals, Cidra, Puerto Rico.
+RECALLED BY    Manufacturer, by letter July 21, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       2,010 bottles were distributed.
+REASON         Incorrect dosage information on primary carton.  Label
+               instructions are correct.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+====================
+
+______________
+PRODUCT        Source Plasma, Recall #B-550-5.
+CODE           Contact FDA, Center for Biologics Evaluation and Research,
+               Office of Compliance (301) 594-1070 for individual unit
+               numbers recalled.
+MANUFACTURER   Community Bio-Resources, Inc., (in 3 states) Orlando,
+               Clearwater, Tampa, Florida.
+RECALLED BY    Community Bio-Resources, Inc., Birmingham, Alabama, by
+               letter August 11, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Michigan, New Jersey, Austria.
+QUANTITY       582 units were distributed.
+REASON         Blood products which: 1) tested negative for antibody to the
+               human immunodeficiency virus type 1 (anti-HIV), but were
+               collected from donors who previously tested repeatedly
+               reactive for anti-HIV-1; 2) tested negative for hepatitis B
+               surface antigen (HBsAg), but were collected from donors who
+               previously tested repeatedly reactive for HBsAg or had a
+               history of hepatitis; or 3) were collected from donors with
+               a history of intravenous (IV) drug use/high risk behavior.
+
+
+_______________
+PRODUCT        Source Plasma, Recall #B-551-5.
+CODE           Unit #XR50182.
+MANUFACTURER   Community Bio-Resources, Inc., Fargo, North Dakota.
+RECALLED BY    Manufacturer, by letters beginning August 11, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Austria.
+QUANTITY       1 unit was distributed.
+REASON         Blood product, which tested negative for the hepatitis B
+               surface antigen (HBsAg) but was collected from a donor who
+               previously tested repeatedly reactive for HBsAg, was
+               distributed.
+
+_______________
+PRODUCT        Platelet Concentrate; Platelets, Pheresis, Recall #B-
+               544/545-5.
+CODE           Contact FDA, Center for Biologics Evaluation and Research, 
+               Office of Compliance (301) 594-1070 for individual unit
+               numbers recalled.
+MANUFACTURER   American Red Cross Blood Service, Madison, Wisconsin.
+RECALLED BY    Manufacturer, by letter November 9, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Wisconsin.
+QUANTITY       29 units were distributed.
+REASON         Blood products, for which syphillis test results were
+               misinterpreted as negative, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+
+_______________
+PRODUCT        Fluoricon 300 Generators, Recall #Z-1028/1030-5.
+CODE           Model numbers 46-164164G1, G2, G3.
+MANUFACTURER   General Electric Medical Systems, Milwaukee, Wisconsin.
+RECALLED BY    Manufacturer, by letter February 22, 1995.  Firm-initiated
+               corrective action plan ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       140 units were distributed.
+REASON         The diagnostic x-ray device was found to be in noncompliance
+               with 21 CFR 1020.32 (d), the Federal Performance Standard
+               for Diagnostic X-ray Systems and their major components.  If
+               the fuse controlling the +24 VDC supply opens, the radiation
+               will be continuous rather than pulsed.  
+
+
+_______________
+PRODUCT        Centrysystem 3 Cartridge Blood Tubing Sets, Recall #Z-
+               1077/1085-5.
+CODE           Lot #s 04Axxxxx; 05Axxxxx; 06Axxxxx.  All sets manufactured
+               during April 1, 1995 to June 15, 1995.
+MANUFACTURER   Cobe Renal Care, Inc., Lakewood, Colorado.
+RECALLED BY    Cobe Renal Care, Inc., Tijuana, BCN, Mexico, by letter June
+               16, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, (except Washington, D.C., Vermont, Maine,
+               Arkansas, and Arizona), Puerto Rico, Taiwan, Canada,
+               Belgium, Australia, Korea, Hong Kong.
+QUANTITY       31,000 units were distributed.
+REASON         The saline administration line could have an occlusion due
+               to plastic molding flashing which may not be detected during
+               the prime or recirculation modes.
+
+
+_______________
+PRODUCT        Guardian Sharps Collectors:
+               (a) Preassembled Side Entry, Catalog #300475, 305425;
+               (b) Preassembled Horizontal Entry, Catalog #300476, 305428,
+               305427, 305426;
+               (c) Nestable Side Entry, Catalog #5449, 300559, 305444,
+               305443, 300482;
+               (d) Nestable Horizontal Entry, Catalog #305450, 305452,
+               305446, 305445, Recall #Z-1091/1094.
+CODE           Lot numbers beginning with the first two digits of 4F, 4G,
+               4H, 4J, 4K, 4M.
+MANUFACTURER   MedSafe, Oceanside, California
+RECALLED BY    Becton Dickinson, Franklin Lakes, New Jersey by letter July
+               14 and 17, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Canada, Sinapore, Europe, Australia, New
+               Zealand.
+
+QUANTITY       659,232 units were distributed.
+REASON         The wall thickness fell below the specification level.
+
+
+_______________
+PRODUCT        3M Administration Sets, Model numbers 4236, 4270, 8C195,
+               8C201, 8C220, 8C230, 8C230-US, 8C290, 8C390, 8C630, 8C1230,
+               8C1630, 8C2012, 8C4201, 8C4209, 8C4220, 8C4220-US, 8C4222,
+               8C4240, 8C4292, AC2029, AC2308, AJ2304, CC1201, CC1301,
+               CC1501, CC2102, CC2204, CC2308, CC3217, CC4203, CF4203,
+               CJ1301, CJ3316, CJ3323, CJ4028, CJ4303, CK2304, CK4207, and
+               CK4303, Recall #Z-1109-5.
+CODE           JAN95, FEB95, MAR95, APR95, MAY95, JUN95, JUL95.
+MANUFACTURER   Thai Kawasumi, Bangkok, Thailand.
+RECALLED BY    3M Infusion Therapy, Arden Hills, Minnesota by "Safety
+               Alert" of July 31, 1995 which provided additional safety
+               instructions and offered customers the addition of a slide
+               clamp at the customers request.   Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide
+QUANTITY       762,840 sets were distributed.
+REASON         Some roller clamps of the IV Administration allow leakage of
+               fluid within the sets.
+
+
+______________
+PRODUCT        MicroScan Dried Gram-Negative Urine Combo Type 6 Panels,
+               Recall #Z-1110-5.
+CODE           Lot #14APR96; Catalog No. B1017-78.
+MANUFACTURER   Dade International MicroScan, Inc., West Sacramento,
+               California.
+RECALLED BY    Manufacturer, by telephone on or about June 14, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Arizona, California, Colorado, Georgia, Idaho, Illinois,
+               Kentucky, Michigan, New York, South Carolina, Tennessee,
+               Wisconsin.
+QUANTITY       674 boxes were distributed.
+REASON         "Out-of-range quality control results" had been obtained and
+               that an "unusual" color had been observed in some of the
+               wells in the identification part of the panel.
+
+_______________
+PRODUCT        Innofluor Theophylline Assay System Reagents, Recall #Z-
+               1111-5, an in-vitro diagnostic for the determination of
+               theophylline in human serum.
+
+
+CODE           Lot #s 24704A, exp. date 10-01-94; 2470AG, exp. dat 04-01-
+               95; 24651A, exp. date 01-01-95.
+MANUFACTURER   Oxis International, Inc., Portland Oregon.
+RECALLED BY    Manufacturer, by replacement to those customers that
+               contacted the firm with this problem.  Firm initiated recall
+               complete.
+DISTRIBUTION   Connecticut, California, New York, Nebraska, Missouri,
+               Virginia, Oklahoma, North Carolina, Alabama, Belgium,
+               France, Canada, Hong Kong, Germany, Poland, Australia,
+               India, Switzerland, United Kingdom.
+QUANTITY       591 kits were distributed.
+REASON         Device was subject to decrease in Net P values, potentially
+               due to trace instability.
+
+
+_______________
+PRODUCT        Abbott Vision Phenytoin, List number 1448-10, an in-vitro
+               diagnostic test, for the quantititive measurement of
+               phenytoin in anticoagulated whole blood, plasma or serum,
+               phenytoin measurements used in the diagnosis and treatment
+               of phenytoin overdose or in monitoring levels of phenytoin
+               to ensure appropriate therapy; Recall #Z-1115-5.
+CODE           Lot number 05417M100.
+MANUFACTURER   Abbott Laboratories, Diagnostic Division, Abbott Park,
+               Illinois.
+RECALLED BY    Manufacturer, by telephone and letter August 4, 1995.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   South Dakato, Kansas, Germany.
+QUANTITY       497/10 packs were distributed.
+REASON         Device is subject to calibration and/or control failures.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+
+_______________
+PRODUCT        Claiborne Branded Sunglasses (Plano), Recall #Z-1076-5
+CODE           Style #76530320.
+MANUFACTURER   Houkushin Corporation, Osaka, Japan.
+RECALLED BY    Outlook Eyewear Company, Broomfield, Colorado by letter July
+               17, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, international.
+QUANTITY       15,407 units were distributed.
+REASON         The products are labelled "Intended for General Use", but
+               the LT (Luminous Transmittance) value is well below ANSI
+               standards.
+
+_______________
+PRODUCT        Innofluor Vancomycin Calibrators, an in-vitro diagnostic
+               intended for use in the calibration of the INNOFLUOR
+               Vancomycin Assay System, Recall #Z-1103-5.
+
+
+
+CODE           Lot #24223A, expiration date 01 Aug 1994.
+MANUFACTURER   Oxis International, Inc., Portland, Oregon
+RECALLED BY    Manufacturer, by letter August 19, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide, Belgium, Canada, France, Poland, United Kingdom.
+QUANTITY       308 sets were distributed.
+REASON         Post release quality control real time testing of vancomycin
+               calibrators at four weeks refrigerated storage indicated the
+               device was subject to degradation which is noted by an
+               upward shift in control values.
+
+
+_______________
+PRODUCT        Innofluor Theophylline Assay System Reagents, an in-vitro
+               diagnostic for the determination of theophylline in human
+               serum, Recall #Z-1112-5.
+CODE           Lot #s 24179A, exp. date 07-01-94; 24179A, exp. date 07-01-
+               94; 2417AGQ, exp. date 07-01-94; 24536, exp. date 01-01-95.
+MANUFACTURER   Oxis International, Inc., Portland, Oregon.
+RECALLED BY    Manufacturer, by telephone January 4, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide, international.
+QUANTITY       980 kits were distributed.
+REASON         Device is subject to stability problems.
+
+
+_______________
+PRODUCT        (a) Abbott Vision Cholesterol Test Pack, List No. 1415-10; 
+               for the quantitative determination of cholesterol in
+               anticoagulated whole blood, plasma or serum, cholesterol
+               measurements are used in the diagnosis and treatment of
+               disorders involving excess cholesterol in the blood and
+               lipid and lipoprotein metabolism disorders; 
+               (b) Abbott Vision HDL Cholesterol Test Pack, List No. 1446-
+               16, for the quantitative determination of HDL cholesterol in
+               plasma or serum, HDL cholesterol measurements are used in
+               the diagnosis and treatment of disorders involving excess
+               cholesterol in the blood and lipid and lipoprotein
+               metabolism disorders; Recall #Z-1113/1114-5.
+CODE           (a) Lot #s 0609M200, 06070M200, 06071M200, 06075M200,
+               06076M200; (b) 0682M100, 06073M200, 06610M300.
+MANUFACTURER   Abbott Laboratories Diagnostic Division, Abbott Park,
+               Illinois.
+RECALLED BY    Manufacturer, by letter July 31, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide, Italy, japan, Hong Kong, Taiwan, Germany,
+               Brazil, Dominican Republic, Singapore.
+
+
+QUANTITY       10,923 packs were distributed.
+REASON         Test results have not been able to be obtained with some
+               test packs and an error code "Endpoint Not Reached" provided
+               instead.
+
+_______________
+CORRECTION:    Recall #Z-1096-5, which appeared in the August 16, 1995,
+               Enforcement Report.  91 additional serial numbers were
+               inadvertently omitted from this list.  They are as follows:
+
+PRODUCT        Digital Ultrasound Systems, Model EUB-515 Plus:
+CODE           SE15018109   SE15018105  SE15018106  SE15018107  SE15018108
+               SE15018114   SE15018110  SE15018111  SE15018112  SE15018113
+               SE15115101   SE15018115  SE15018116  SE15018117  SE15018118
+               SE15117101   SE15115102  SE15115103  SE15115104  SE15115105
+               SE15193101   SE15117102  SE15117103  SE15117104  SE15117105
+               SE15193106   SE15193102  SE15193103  SE15193104  SE15193105
+               SE15310101   SE15193107  SE15193108  SE15193109  SE15193110
+               SE15310106   SE15310102  SE15310103  SE15310104  SE15310105
+               SE15373101   SE15310107  SE15310108  SE15310109  SE15310110
+               SE15485101   SE15373102  SE15373103  SE15373104  SE15373105
+               SE15485106   SE15485102  SE15485103  SE15485104  SE15485105
+               SE15551102   SE15485107  SE15485108  SE15485109  SE15551101
+               SE15551107   SE15551103  SE15551104  SE15551105  SE15551106
+               SE15574102   SE15551108  SE15551109  SE15551110  SE15574101
+               SE15652102   SE15574103  SE15574104  SE15574105  SE15652101
+               SE15655102   SE15652103  SE15652104  SE15652105  SE15655101
+               SE15752102   SE15655103  SE15655104  SE15655105  SE15752101
+               SE15752102   SE15655103  SE15655104  SE15655105  SE15752101
+               SE15752107   SE15752103  SE15752104  SE15752105  SE15752106
+               SE15752108
+MANUFACTURER   Hitachi Medical Corporation, Tokyo, Japan
+RECALLED BY    Hitachi Medical Corporation of America, Tarrytown, New York.
+
+                                   ####
+
+
+END OF ENFORCEMENT REPORT FOR AUGUST 23, 1995.  BLANK PAGES MAY
+FOLLOW.

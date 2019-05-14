@@ -1,0 +1,801 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  SEP
+		  Dec
+		
+		
+		
+		  
+		  26
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      32 captures
+	      27 Nov 1999 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dm
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+
+June 2, 1999                                          99-22
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+________
+PRODUCT
+Rich Flower brand Dried Sweet Potato, in 7 ounce rigid plastic 
+bags, product of China.  Recall #F-437-9.
+CODE
+None.
+MANUFACTURER
+Garden Food (Shenzhen) Company, Ltd., China (packer).
+RECALLED BY
+CL Import Company, Inc., Brooklyn, New York (importer), by 
+telephone on October 19, 1998.  Completed field correction 
+(relabeling) resulted from sample analysis and follow-up by the 
+New York State Department of Agriculture and Markets.
+DISTRIBUTION
+New York.
+QUANTITY
+2 cases were distributed.
+REASON
+Product contained undeclared sulfites.
+________
+PRODUCT
+Italian Sun Dried Tomatoes, in 16 ounce cryovac, plastic bags.  
+Recall #F-440-9.
+CODE
+None.
+MANUFACTURER
+Undetermined.
+RECALLED BY
+Mrs. Mazzula's Food Products, Inc., Edison, New Jersey 
+(repacker), by press release on April 1, 1999, and by letter on 
+April 9, 1999. Ongoing field correction (relabeling) resulted 
+from sample analysis and follow-up by the New York State 
+Department of Agriculture and Markets.
+DISTRIBUTION
+New Jersey.
+QUANTITY
+110 cartons (12 bags per case) were distributed.
+REASON
+Product contains undeclared sulfites.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+________
+PRODUCT
+a) Red Blood Cells; b) Fresh Frozen Plasma; c) Recovered Plasma. 
+Recall #B-719/721-9.
+CODE
+Unit numbers:  a) 28LN13640, 28LQ15071; b) 28LQ15071; 
+c) 28LN13640, 28LX04404.
+MANUFACTURER
+American Red Cross Blood Services, Charelston, South Carolina.
+RECALLED BY
+American Red Cross Blood Services, Savannah, Georgia, by letter 
+or fax on either February 17 or 18, 1998, or by telephone on 
+February 16, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Georgia, South Carolina, Puerto Rico, California, Switzerland.
+QUANTITY
+a) 2 units; b) 1 unit; c) 2 units were distributed.
+REASON
+Blood products were collected from a donor with a history of 
+hepatitis.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-793-9.
+CODE
+Unit #41LX27263.
+MANUFACTURER
+The American National Red Cross, Birmingham, Alabama.
+RECALLED BY
+Manufactaurer, by letter dated September 2, 1998. 
+ Firm-initiated recall complete. 
+DISTRIBUTION
+Alabama.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who reported travel to 
+an area designated as endemic for malaria.
+
+________
+PRODUCT
+Red Blood Cells.  Recall #B-794-9.
+CODE
+Unit #41FQ57714.
+MANUFACTURER
+The American National Red Cross, Birmingham, Alabama.
+RECALLED BY
+Manufacturer, by letter dated October 5, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Alabama.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who reported travel to 
+an area designated as endemic for malaria.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Fresh Frozen Plasma.
+Recall #B-798/800-9.
+CODE
+Unit Numbers: a) 11-147280; b) 11-147280, 11-159274; 
+c) 11-147280, 11-159274.
+MANUFACTURER
+United Blood Services, El Paso, Texas.
+RECALLED BY
+Manufacturer, by letter dated February 3, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Texas and New York.
+QUANTITY
+a) 1 unit; b) 2 units; c) 2 units were distributed.
+REASON
+Blood products tested negative for HBsAg, but were collected from 
+a donor who previously tested repeatedly reactive for HbsAg.
+________
+PRODUCT
+Platelets Pheresis.  Recall #B-801-9.
+CODE
+Unit numbers:  	049FP06220, 049FP06493, 049FP06508, 
+049GP00525, 049GP00671, 049GP00713.
+MANUFACTURER
+American Red Cross Blood Services, Waco, Texas.
+RECALLED BY
+American Red Cross Blood Services, Tulsa, Oklahoma, by letters 
+dated January 20, 1999, and February 19, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+6 units were distributed.
+REASON
+Blood products had unacceptable platelet counts.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets.  Recall #B-803/804-9.
+CODE
+Unit numbers: 5102179 and 5084896.
+MANUFACTURER
+BloodCare, doing business as Carter BloodCare, Dallas, Texas.
+RECALLED BY
+Manufacturer, by letter dated December 10, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+2 units of each component were distributed.
+REASON
+Blood products were collected from a donor who reported travel to 
+an area designated as endemic for malaria.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets.  Recall #B-805/806-9.
+CODE
+Unit numbers:  a) 11315-1160, 11316-4855, 11317-0095,
+11317-6777 b) 11315-1160, 11316-4855.
+MANUFACTURER
+United Blood Services, El Paso, Texas.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by letter dated January 
+26, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+New Mexico and Texas.
+QUANTITY
+a) 4 units; b) 2 units were distributed.
+REASON
+Blood products were collected from a donor who reported travel to 
+an area designated as endemic for malaria.
+________
+PRODUCT
+Platelets, Pheresis.  Recall #B-809-9.
+CODE
+Unit #49P42789.
+MANUFACTURER
+American Red Cross Blood Services, Tulsa, Oklahoma.
+RECALLED BY
+Manufacturer, by telephone on January 31, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Oklahoma.
+QUANTITY
+1 unit was distributed.
+REASON
+The first half of a split Platelets, Pheresis unit, implicated in 
+a transfusion reaction, was found to be contaminated with 
+Staphylococcus aureus.  The second half of the unit was 
+distributed.
+________
+PRODUCT
+Source Plasma.  Recall #B-810-9.
+CODE
+Unit 98YARC7412  (Donor Id. A00576590).
+MANUFACTURER
+Community Bio-Resources, Inc., Fayetteville, Arkansas.
+RECALLED BY
+Community Bio-Resources, Inc., Hoover, Alabama, by fax dated 
+December 4, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Austria.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who had received an MMR 
+vaccination within four weeks of donation.
+_______
+PRODUCT
+a) Red Blood Cells; b) Platelets, Pheresis.
+Recall #B-811/812-9.
+CODE
+Unit numbers:  a) 55R15127; b) 55FQ00336.
+MANUFACTURER
+American Red Cross Blood Services, Little Rock, Arkansas.
+RECALLED BY
+Manufacturer, by letter dated April 8, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Arkansas.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor who had sexual contact 
+with someone who had lived in an HIV Group O risk area.
+________
+PRODUCT
+a) Red Blood Cells; b) Fresh Frozen Plasma.
+Recall #B-813/814-9.
+CODE
+Unit #5064631.
+MANUFACTURER
+BloodCare, doing business as Carter BloodCare, Dallas, Texas.
+RECALLED BY
+Manufacturer, by fax on November 3, 1998, and by letter dated 
+November 16, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor who reported exposure 
+to the Human Immunodeficiency Virus (HIV) and a diagnosis of 
+gonorrhea.
+________
+PRODUCT
+Platelets, Pheresis.  Recall #B-824-9.
+CODE
+Unit numbers: 020GE01167A, 020GE01167B, 020GE01170.
+MANUFACTURER
+American Red Cross, Missoula, Montana.
+RECALLED BY
+American Red Cross, Boise, Idaho, by telephone on or about June 
+15, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Montana.
+QUANTITY
+3 units were distributed.
+REASON
+Platelets were not stored under continuous agitation, and at 
+unmonitored temperatures.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+________
+PRODUCT
+Red Blood Cells.  Recall #B-795-9.
+CODE
+Unit numbers: 26KM06849, 26KM06829, 26KG16035, 26KH42282, 
+26KM07605, 26FQ10019, 26KM06833, 26FM41708, 26FM41662, 26FS12649, 
+26FF19780, 26KM08572, 26KM08574, 26FN05156, 26FN05157.
+MANUFACTURER
+The American National Red Cross, Mobile, Alabama.
+RECALLED BY
+Manufacturer, by letter dated January 28, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Mississippi, Alabama, Florida.
+QUANTITY
+15 units were distributed.
+REASON
+Blood products were labeled with extended expiration dates.
+________
+PRODUCT
+Fresh Frozen Plasma.  Recall #B-796-9.
+CODE
+Unit numbers:  41GG09184, 41GG09187, 41GG09193, 41GG09195, 
+41LW67431, 41LW67476, 41FL73908, 41FN37849, 41FQ52478, 41FR38544, 
+41FY88316, 41GE29173, 41FE12427, 41FE12444, 41FE12445, 41FE12461, 
+41FE12498, 41FE12504.
+MANUFACTURER
+The American National Red Cross, Mobile, Alabama.
+RECALLED BY
+Manufacturer, by telephone and letter on April 7, 1998.  Firm-
+initiated recall complete.
+DISTRIBUTION
+Florida.
+QUANTITY
+18 units were distributed.
+REASON
+Blood products for which temperature after shipment was not 
+recorded upon receipt was distributed.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-797-9.
+CODE
+Unit #21GL27310.
+MANUFACTURER
+The American National Red Cross, Mobile, Alabama.
+RECALLED BY
+Manufacturer, by letter dated February 16, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Alabama.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product for which temperature after shipment was not 
+recorded upon receipt was distributed.
+________
+PRODUCT
+Fresh Frozen Plasma.  Recall #B-802-9.
+CODE
+Unit numbers: 11FF44971, 11FM29589, 11FN66110, 11FN68771, 
+11FN68787, 11G27530, 11G27535, 11G28487, 11L82736, 11L84277, 
+11L84283, 11L84333, 11M79345, 11M79366, 11Q63435, 11Q65065, 
+11R36716, 11V18277, 11V18854, 11W42422.
+MANUFACTURER
+The American National Red Cross, Mobile, Alabama.
+RECALLED BY
+Manufacturer, by telephone on February 11, 1998, followed by 
+letter dated February 16, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Alabama.
+QUANTITY
+20 units were distributed.
+REASON
+Blood products for which temperature after shipment was not 
+recorded upon receipt were distributed.
+________
+PRODUCT
+a) Whole Blood; b) Red Blood Cells.  Recall #B-807/808-9.
+CODE
+Unit numbers:  a) 0499840; b) 0499861.
+MANUFACTURER
+Coffee Memorial Blood Center, Inc., Amarillo, Texas.
+RECALLED BY
+Manufacturer, by letter dated March 2, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products may have been stored at unacceptable temperatures.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-815-9.
+CODE
+Unit #26FJ22302.
+MANUFACTURER
+American Red Cross Blood Services, Mobile, Alabama.
+
+RECALLED BY
+Manufacturer, by telephone on April 8, 1998, followed by letter 
+dated April 13, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Alabama.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was labeled with an extended expiration date.
+________
+PRODUCT
+Red Blood Cells, Irradiated.  Recall #B-817-9.
+CODE
+Unit numbers: 26FJ22855, 26FJ22841, 26FF22763, 26FJ22866.
+MANUFACTURER
+American Red Cross Blood Services, Mobile, Alabama.
+RECALLED BY
+Manufacturer, by telephone on April 16, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Alabama.
+QUANTITY
+4 units were distributed.
+REASON
+Blood products were labeled with extended expiration dates.
+________
+PRODUCT
+Red Blood Cells, Irradiated.  Recall #B-819-9.
+CODE
+Unit #26KM11000.
+MANUFACTURER
+American Red Cross Blood Services, Mobile, Alabama.
+RECALLED BY
+Manufacturer, by telephone on October 12, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Alabama.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was labeled with an extended expiration date.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-820-9.
+CODE
+Unit #26KM03068.
+MANUFACTURER
+American Red Cross Blood Services, Mobile, Alabama.
+RECALLED BY
+Manufacturer, by telephone on September 27, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Alabama.
+
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was shipped at an unacceptable temperature.
+________
+PRODUCT
+Fresh Frozen Plasma.  Recall #B-821-9.
+CODE
+Unit numbers: 26FS14337, 26FM51203, 26FM51207, 26FP44904.
+MANUFACTURER
+American Red Cross Blood Services, Mobile, Alabama.
+RECALLED BY
+Manufacturer, by telephone on August 20, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Alabama.
+QUANTITY
+4 units were distributed.
+REASON
+Blood products were stored at an unacceptable temperature.
+________
+PRODUCT
+Red Blood Cells, Irradiated.  Recall #B-822-9.
+CODE
+Unit numbers: 26FF23540 and 26FL07437.
+MANUFACTURER
+American Red Cross Blood Services, Mobile, Alabama.
+RECALLED BY
+Manufacturer, by telephone on June 8 and 9, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Alabama.
+QUANTITY
+2 units were distributed.
+REASON
+Blood products were labeled with extended expiration dates.
+________
+PRODUCT
+Red Blood Cells, Irradiated.  Recall #B-823-9.
+CODE
+Unit #26KM09880.
+MANUFACTURER
+American Red Cross Blood Services, Mobile, Alabama.
+RECALLED BY
+Manufacturer, by letter dated March 18, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Alabama.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was labeled with an extended expiration date.
+________
+PRODUCT
+Recovered Plasma.  Recall #B-825-9.
+CODE
+Unit #16LY52966.
+MANUFACTURER
+American Red Cross Blood Services, Columbus, Ohio.
+RECALLED BY
+Manufacturer, by fax on December 4, 1998.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+New York.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product corresponded to a unit of Platelets which was 
+positive for Enterobacter aerogenes and implicated in a 
+transfusion reaction.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- 
+CLASS II
+________
+PRODUCT
+Scimed Ranger 20 mm Percutaneous Transluminal Coronary 
+angioplasty (PTCA) Dilatation Balloon Catheter.
+Recall #Z-923-9.
+CODE
+Model: H74914361251, Lot numbers:  2293535 and 2293538.
+MANUFACTURER
+Boston Scientific Corporation, Ireland, Ltd., Galway, Ireland.
+RECALLED BY
+Boston Scientific /Scimed, Maple Grove, Minnesota, on April 30, 
+1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+54 catheters were distributed.
+REASON
+The wrong/unvalidated sterilization process was used for the two 
+recalled lots.
+________
+PRODUCT
+Innovative Implants and Cover Screws.  Recall #Z-926-9.
+CODE
+Catalog #OSS610, Lot #77963.
+MANUFACTURER
+Implant Innovations, Inc., Palm Beach Gardens, Florida.
+RECALLED BY
+Manufacturer, by telephone on April 30, 1999, and by letter faxed 
+on May 11, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+New York, Illinois, Germany, Japan.
+QUANTITY
+25 implants.
+REASON
+Product was mislabeled as 6.0mm when it was actually 5.0mm.
+________
+PRODUCT
+Model Visulas Laser System, used in ophthalmology:
+a) Model No. 532; b) Model No. 532 Combi; c) Model No. 690s;
+d) Model No. 732S; e) Model Yag II Plus. 
+Recall #Z-929/933-9.
+CODE
+a) Model No. 532; b) Model No. 532 Combi; c) Model No. 690s;
+d) Model No. 732S; e) Model Yag II Plus.
+MANUFACTURER
+Carl Zeiss, Inc., Thornwood, New York.
+RECALLED BY
+Manufacturer.  FDA approved the firm's corrective action plan on 
+May 19, 1999.  Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+a) 20; b) 15; c) 15; d) 1; e) 35 units were distributed.
+REASON
+Device failed to comply with 21 CFR 1040.11(a)(2) in that the 
+operator's manual lacked calibration procedures.
+________
+PRODUCT
+Model CVX-300 Excimer Laser, used in cardiology.
+Recall #Z-934-9.
+CODE
+Model CVX-300. (ANY SERIAL NUMBERS?)
+MANUFACTURER
+Spectranetics Corporation, Colorado Springs, Colorado.
+RECALLED BY
+Manufacturer.  FDA approved the firm's corrective action plan on 
+May 20, 1999.  Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+128 units were distributed.
+REASON
+The device failed to comply with 21 CFR 1040.10(f)(1) in that the 
+protective housing had a narrow gap allowing direct line-of-sight 
+access to the Class IV beam.
+________
+PRODUCT
+Model E2000 Ruby Laser System.  Recall #Z-935-9.
+CODE
+Model E2000.
+MANUFACTURER
+Palomar Medical Products, Inc., Lexington, Massachusetts.
+RECALLED BY
+Manufacturer.  FDA approved the firm's corrective action plan on 
+May 20, 1999.  Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+7 units were distributed.
+REASON
+The device failed to comply with 21 CFR 1040.11(a)(2) in that the 
+operator's manual lacked calibration procedures.
+________
+PRODUCT
+Eagle 3000 Floorloader Steam Sterilizer.  Recall #Z-936-9.
+CODE
+Various serial numbers.
+
+MANUFACTURER
+Steris Corporation, Erie Pennsylvania.
+RECALLED BY
+Steris Corporation, Mentor, Ohio, by Customer Notifications on 
+March 10, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide, Canada, Korea, Hong Kong, Taiwan.
+QUANTITY
+67 units were distributed.
+REASON
+There is an error in the control system software, which causes 
+the chamber temperatures to exceed the upper limit.
+________
+PRODUCT
+Tissue Suture Anchors, used to reattach soft tissue to bone 
+during surgery:  a) Part No. PAE5K - OBL RC5 R.0 mm Suture 
+Anchor; b) Part No. PAS2K - PeBA S 2.8 mm Suture Anchor. Recall 
+#Z-937/938-9.
+CODE
+Lot numbers:  a) A1305B, A1205B, A1405B, A1505B, A0906B, A1006B, 
+A1106B, A0708B, A0807BM, A1007B, A1507B, A2907B, A0211B, A0311B, 
+A1612B, A1712B, A2701C, A2801C,  A2901C, A3101C; b) A0406B, 
+A1505B, A1905B, A0206B, A0806B, A1106B, A1806B, A1906B, A0607B, 
+A0907B, A1607B, A0608B.
+MANUFACTURER
+Southmedic, Inc., Ontario, Canada (assembler/packager).
+RECALLED BY
+Orthopaedic Biosystems, Ltd., Inc., (OBL), Scottsdale, Arizona 
+(specification developer/responsible firm), by letters dated 
+January 27, 1999, February 12 and 17, 1999.  Firm-initiated 
+recall ongoing.
+DISTRIBUTUTION
+Nationwide.
+QUANTITY
+15,162 units were distributed.
+REASON
+The sterility of the lots cannot be assured due to a packaging 
+defect that occurred during the heat sealing process.
+________
+PRODUCT
+Portable Oxygen Generator:  a) Model 5LX02; 
+b) Model 6LX02.  Recall #Z-939/940-9.
+CODE
+All codes manufactured between August 1998 through March 31, 
+1999.
+MANUFACTURER
+Invacare Corporation, Sanford, Florida.
+RECALLED BY
+Invacare Corporation, Elyria, Ohio., by letter on May 21, 1999.  
+Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+29,106 units were distributed.
+REASON
+Oxygen concentrators had a high incidence of reported circuit 
+board failures.
+________
+PRODUCT
+Patient Scale, Model RSC600.  Recall #Z-941-9.
+CODE
+All units manufactured between October 1, 1998 and March 31, 
+1999.
+MANUFACTURER
+Invacare Corporation, Elyria, Ohio.
+RECALLED BY
+Manufacturer, by letter dated April 30, 1999.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+188 units were distributed.
+REASON
+Screw, which secures scale, may become disengaged, causing 
+patient/occupant to fall from scale.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+________
+PRODUCT
+a) Cobe Renalyte Rx Acid Concentrate For Bicarbonate Dialysate, 
+2-K and 2.5 Ca, Product Number 012-116-004; b) Cobe Renalyte Rx 
+Acid Concentrate for Bicarbonate Dialysate, 2-K, product number 
+012-111-004.  Recall #Z-927/928-9.
+CODE
+Lot G8H074.
+MANUFACTURER
+DiChem Concentrates, Inc., Lewisberry, Pennsylvania.
+RECALLED BY
+Gambro Healthcare, Deland, Florida, by telephone on November 5, 
+1998, followed by letter dated November 17, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Massachusetts, Illinois, New Jersey, West Virginia, Pennsylvania, 
+Connecticut, New York, South Carolina, Ohio, Delaware, Missouri, 
+Virgin Islands.
+QUANTITY
+1,095 cases (4 one-gallon bottles per case) were distributed.
+REASON
+Some product was mislabeled as product code 012-111-004 
+bicarbonate dialysate.
+________
+UPDATE
+Coxial Biopsy System, manufactured by Allegiance Healthcare 
+Corporation, Clearwater, Florida, which appeared in the May 19, 
+1999 Enforcement Report is a Class III recall.
+
+END OF ENFORCEMENT REPORT FOR JUNE 2, 1999.

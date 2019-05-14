@@ -1,0 +1,727 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  DEC
+		  Mar
+		
+		
+		
+		  
+		  28
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      32 captures
+	      25 Feb 1997 - 19 Jun 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DO
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+03/20/1996
+
+ ENFORCEMENT REPORT FOR 03/20/96 
+
+
+March 20, 1996                                    96-12
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II ===========
+_______________
+PRODUCT        Various flavored bouillon:
+               (a) Bouillon, Chicken, 12/5/2 shells
+               (b) Bouillon, Chicken, 6/24/10 shells
+               (c) Bouillon, Beef, 4/24/10 shells
+               (d) Bouillon, Beef, 10/24/6 shells
+               (e) Bouillon, Chicken & Tomato, 4/24/6 shells
+               (f) Bouillon, Ham, 10/24/6, shells
+               (g) Bouillon, Chicken, 6/24/6 shells
+               (h) Bouillon, Beef, 6/24/6 shells
+               (i) Bouillon, Fish, 6/24/6 shells.
+               Recall #F-327/335-6.
+CODE           Puerto Rico:
+               Lot #  Exp Date Lot #  Exp Date
+               B507  12/7/96   B578  12/8/96
+               B510  12/10/96  B511  12/11/96
+               B512  12/12/96  B513  12/13/96
+               B514  12/14/96  B515  12/15/96
+               0525  10/25/96  0526  10/26/96
+               0529  10/29/96  A526  11/26/96
+               A527  11/27/96  A528  11/28/96
+               A529  11/29/96  A530  11/30/96
+               B501  12/1/96   B503  12/3/96
+               B504  12/4/96   B505  12/5/96
+               0526  10/26/96  A516  11/16/96
+               A513  11/13/96  A514  11/14/96
+               A515  11/15/96  A516  11/16/96
+               A526  11/26/96  A527  11/27/96
+               United States:
+               A513  11/13/96  A514  11/14/96
+               A515  11/15/96  A517  11/17/96
+               A521  11/21/96  A522  11/22/96
+               A527  11/27/96  B510  12/10/96
+               5B12  12/12/96  B517  12/17/96
+               B518  12/18/96  B519  12/18/96
+               B520  12/20/96  B521  12/21/96
+               0526  10/26/96  0523  10/23/96
+               0524  10/24/96  0525  10/25/96
+               B503  12/3/96   B504  12/4/96
+               B505  12/5/96   B506  12/6/96
+               B507  12/7/96.
+MANUFACTURER   Best Foods Caribbean Inc., Arecibo, Puerto
+               Rico.
+RECALLED BY    CPC International, Inc., Englewood Cliff, New
+               Jersey, by letter dated December 26, 1996. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and Puerto Rico.
+QUANTITY       2,681 cases were distributed; firm estimates
+               none remains on the market.
+REASON         Products contain small pieces of metal wire.
+
+_______________
+PRODUCT        Raw Sunflower Seeds, in 50 pound bags:  (a)
+               Sunflower Seeds in Shell; (b) Sunflower
+               Kernals.  Recall #F-338/339-6.
+CODE           Lot numbers:  (a) 0I5F11; (b) 8I5F11.
+MANUFACTURER   Dahlgren & Company, Inc., Fargo, North Dakota.
+RECALLED BY    Dahlgren & Company, Inc., Crookston,
+               Minnesota, by telephone on September 13, 1995,
+               followed by letter on September 14, 1995.
+               Firm-initiated recall complete.
+DISTRIBUTION   Minnesota, North Dakota, Ohio.
+QUANTITY       (a) 10 bags; (b) 282 bags were distributed.
+REASON         Products contain illegal residues of
+               chloropicrin.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III ==========
+_______________
+PRODUCT        Balsams Spring Baby Water with fluoride, in
+               clear gallon PVC containers.  Recall #F-324-6.
+CODE           All codes.
+MANUFACTURER   Balsams Spring Water Company, Berlin, New
+               Hampshire.
+
+                             -2-RECALLED BY    Veryfine Products, Inc., Westford,
+               Massachusetts, by issuing press release on
+               January 12, 1996, and by letter followed by
+               verbal notification.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Massachusetts, Maine, Rhode Island, New York,
+               New Jersey, Vermont, Virginia.
+QUANTITY       5,121 cases (6 gallons per case) were
+               distributed.
+REASON         Product is unfit for food due to seal micro
+               leakage and contamination with extraneous
+               material.
+
+_______________
+PRODUCT        Garlic & Pepper Seasoning in 8 ounce jars,
+               labeled to contain "Salt, Garlic, and Pepper". 
+               Recall #F-326-6.
+CODE           Product code 50573, UPC code 8093325700 - All
+               Lots.
+MANUFACTURER   Texas Spice Company (TSP), Houston, Texas.
+RECALLED BY    Manufacturer, by letter dated October 19,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       287 cases (24 jars per case) were distributed.
+REASON         Product fails to bear an appropriate identity. 
+               The product should be identified as "Garlic &
+               Pepper Flavored Salt."
+
+_______________
+PRODUCT        Canned Anchovies with Capers, in 2 ounce cans. 
+               Recall #F-336-6.
+CODE           TS253J and TS246J.
+MANUFACTURER   Conserver La Girond, Morocco.
+RECALLED BY    World Finer Foods, Inc., Bloomfield, New
+               Jersey, by letter June 9, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,425 cases were distributed.
+REASON         Product is unfit for food due to swollen cans.
+
+_______________
+PRODUCT        Cream of Potato Condensed Soup, in 10.5 ounce
+               cans.  Recall #F-337-6.
+CODE           02434 VM 3990 and 02444 VM 3990.
+MANUFACTURER   Venice Maid Company, Inc., Vineland, New
+               Jersey.
+RECALLED BY    Manufacturer, by telephone March 10, 1994. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Pennsylvania.
+QUANTITY       1,451 cases were distributed.
+REASON         Product is unfit for food due to swollen and
+               exploding cans.
+
+                             -3-_______________
+PRODUCT        Fruit flavored cereal:
+               (a) Malt-O-meal Tootie Fruities Sweetened
+               Fruit Flavored Cereal, in 15 ounce plastic
+               bags; (b) Kroger Fruit & Frosted O's Pre-
+               Sweetened Cereal, in 15 ounce boxes.
+               Recall #F-340/341-6.
+CODE           (a) IJAN2697 and KJAN2597; (b) IJAN2697.
+MANUFACTURER   Malt-O-Meal Company, Northfield, Minnesota.
+RECALLED BY    Manufacturer, by telephone on February 21,
+               1996, followed by letter on February 28, 1996. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Idaho, Michigan, Minnesota, New Jersey, Ohio,
+               Texas, Washington state, Wisconsin.
+QUANTITY       742 cases (12 bags/boxes per case) were
+               distributed.
+REASON         Product contains small metal shavings.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III ==========
+_______________
+PRODUCT        Akne-Mycin 2% Ointment (2% erythromycin), in
+               7.5 gram tubes, Rx for topical use for the
+               treatment of acne.  Recall #D-094-6.
+CODE           Lot #44462/1 EXP 10/96.
+MANUFACTURER   Hermal Kurt Herrmann, Federal Republic of
+               Germany.
+RECALLED BY    Center Laboratories, Hermal Dermatology Group,
+               Delmar, New York, by letter issued on or about
+               March 1, 1996.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and Puerto Rico.
+QUANTITY       53,200 units were distributed.
+REASON         Superpotency.
+
+
+HUMAN TISSUE MANDATORY RECALLS ==============================
+_______________
+PRODUCT        Human Tissues for Transplant.  
+               Recall #B-321-6.
+CODE           Cornea Human Tissue Donor Numbers:  93-685,
+               94-001, 94-002, 94-005, 94-013, 94-014, 
+               95-006; Sclera Human Tissue, Donor Numbers: 
+               94-005, 94-006, 94-013, 94-014.
+MANUFACTURER   Lions Organ and Eye Bank, Fort Worth, Texas. 
+RECALLED BY    Manufacturer, by letter dated August 23, 1995,
+               and sent on September 4, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   New Mexico, Texas.
+QUANTITY       11 donors.
+REASON         Human tissues, not tested for HIV-2, was
+               distributed.
+
+
+                             -4-RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II =======
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-255-6.
+CODE           Unit #3189319.
+MANUFACTURER   Central Texas Regional Blood Center, Austin,
+               Texas.
+RECALLED BY    Manufacturer, by telephone and by letter dated
+               October 25, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Tennessee.
+QUANTITY       1 unit.
+REASON         Blood product, which was collected from a
+               donor who had unprotected promiscuous sex, was
+               distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-256-6.
+CODE           Unit #M78288.
+MANUFACTURER   Topeka Blood Bank, Inc., Topeka, Kansas.
+RECALLED BY    Manufacturer, by telephone on April 25, 1995,
+               followed by letter dated May 1, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Kansas.
+QUANTITY       1 unit.
+REASON         Blood product, which was collected from a
+               donor who had a history of malaria, was
+               distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c)
+               Platelets, Pooled; (d) Fresh Frozen Plasma;
+               (e) Recovered Plasma.  Recall #B-269/273-6.
+CODE           Unit numbers:  (a) 1188429, 1188476, 1208137,
+               1209663, 3120980, 7162124; (b) 1188429,
+               1208137; (c) P38470, P40681, P42464, P50575,
+               P51896; (d) 1209663; (e) 1188429, 1185002,
+               1188476, 1208137, 3120980, 7162124.
+MANUFACTURER   Carter Blood Center, Fort Worth, Texas.
+RECALLED BY    Manufacturer, by letters dated December 8 and
+               11, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Texas, California.
+QUANTITY       (a) 6 units; (b) 2 units; (c) 5 units; (d) 1
+               unit; (e) 6 units.
+REASON         Blood products, collected from donors who were
+               exposed to blood through skin punctures or
+               mucous membranes, were distributed.
+
+_______________
+PRODUCT        (a) Platelets, Pheresis; (b) Fresh Frozen
+               Plasma.  Recall #B-281/282-6.
+CODE           Unit #9510532.
+MANUFACTURER   Lorain County Blood Bank, Elyria, Ohio.
+
+                             -5-RECALLED BY    Manufacturer, by letter and by telephone on
+               February 6, 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Ohio.
+QUANTITY       1 unit.
+REASON         Blood products, labeled with an extended
+               expiration date, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma.
+               Recall #B-299/300-6.
+CODE           Unit numbers:  18207-7073 and 18209-0615.
+MANUFACTURER   Blood Systems, Inc., doing business as United
+               Blood Services, Cheyenne, Wyoming.
+RECALLED BY    Manufacturer, by telephone followed by letter
+               dated December 8, 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Illinois and Switzerland.
+QUANTITY       2 units of each component.
+REASON         Blood products, which were collected from a
+               donor with a history of body piercing within
+               twelve months of donation, was distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-301-6.
+CODE           Unit #39KG37011.
+MANUFACTURER   American Red Cross Blood Services, Huntington,
+               West Virginia.
+RECALLED BY    Manufacturer, by telephone on December 13,
+               1994.  Firm-initiated recall complete.
+DISTRIBUTION   West virginia.
+QUANTITY       1 unit.
+REASON         Blood product, corresponding to a unit of
+               Fresh Frozen Plasma which was positive for
+               Enterobacter cloacae, was distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Fresh Frozen Plasma. 
+               Recall #B-302/303-6.
+CODE           Unit #29CG40022.
+MANUFACTURER   American Red Cross Blood Services, Norfolk,
+               Virginia.
+RECALLED BY    Manufacturer, by letter dated February 16,
+               1994, and March 4, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Virginia, North Carolina.
+QUANTITY       1 unit of each component.
+REASON         Blood products, collected from a donor with a
+               history of cancer, were distributed.
+
+                             -6-_______________
+PRODUCT        (a) Whole Blood; (b) Red Blood Cells; (c)
+               Platelets; (d) Single Donor Plasma.  
+               Recall #B-311/314-6.
+CODE           Contact FDA, Center for Biologics Evaluation
+               and Research, Office of Compliance (301) 594-
+               1070 for individual unit numbers recalled.
+MANUFACTURER   American Red Cross Blood Services, Norfolk,
+               Virginia.
+RECALLED BY    Manufacturer, by telephone and fax on or about
+               December 2, 1994, followed by letter dated
+               December 9, 1994.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Virginia, North Carolina, Missouri, Illinois,
+               California, Puerto Rico, Switzerland.
+QUANTITY       920 blood products.
+REASON         Blood products, collected from donors whose
+               health history screening was inadequately
+               performed, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Fresh
+               Frozen Plasma; (d) Recovered Plasma.  
+               Recall #B-317/320-6.
+CODE           Unit numbers:  (a & b) 8415607, 8451393; (c)
+               8415607; (d) 8451393.
+MANUFACTURER   The Blood Center for Southeast Louisiana, New
+               Orleans, Louisiana.
+RECALLED BY    Manufacturer, by letter dated November 9,
+               1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Louisiana, Florida, California.
+QUANTITY       (a) 2 units; (b) 2 units; (c) 1 unit; (d) 1
+               unit.
+REASON         Blood products, which were collected from a
+               donor whose spouse tested positive for HCV-Ab,
+               were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Fresh
+               Frozen Plasma; (d) Cryoprecipitated AHF; (e)
+               Recovered Plasma.  Recall #B-322/326-6.
+CODE           Unit numbers:  (a) 1380982, 1425743, 1433142,
+               1443902, 1460000, 1469368, 1462103, 1480505;
+               (b) 1462103, 1480505; (c) 1462103; (d)
+               1443902; (e) 1443902, 1469368, 1480505.
+MANUFACTURER   Mississippi Blood Services, Inc., Jackson,
+               Mississippi.
+RECALLED BY    Manufacturer, by letter between October 2,
+               1995 and January 25, 1996.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Mississippi, California, New York.
+QUANTITY       (a) 8 units; (b) 2 units; (c) 1 unit; (d) 1
+               unit; (e) 3 units.
+                             -7-REASON         Blood products, collected from donors who
+               tested positive for syphilis within 12 months
+               of donation were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III ======
+_______________
+PRODUCT        (a) Red Blood Cells, Expired; (b) Recovered
+               Plasma.  Recall #B-315/316-6.
+CODE           Contact FDA, Center for Biologics Evaluation
+               and Research, Office of Compliance (301) 594-
+               1070 for individual unit numbers recalled.
+MANUFACTURER   American Red Cross Blood Services, Norfolk,
+               Virginia.
+RECALLED BY    Manufacturer, by telephone and fax on or about
+               December 2, 1994, followed by letter dated
+               December 9, 1994.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Virginia, North Carolina, Missouri, Illinois,
+               California, Puerto Rico, Switzerland.
+QUANTITY       920 blood products
+REASON         Blood products, collected from donors whose
+               health history screening was inadequately
+               performed, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c)
+               Platelets, Pheresis; (d) Fresh Frozen Plasma;
+               (e) Cryoprecipitated AHF; (f) Recovered
+               Plasma.  Recall #B-304/309-6.
+CODE           Contact FDA, Center for Biologics Evaluation
+               and Research, Office of Compliance (301) 594-
+               1070 for individual unit numbers recalled.
+MANUFACTURER   American Red Cross Blood Services, Charlotte,
+               North Carolina.
+RECALLED BY    Manufacturer, by telephone on August 30 and
+               31, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   North Carolina, South Carolina, Georgia,
+               Tennessee, Virginia, Florida, California.
+QUANTITY       Approximately 4,500 units.
+REASON         Blood products, which were incorrectly tested
+               for antibodies to the human immunodeficiency
+               virus types 1 and 2 (anti-HIV-1/2) were
+               distributed.
+
+_______________
+PRODUCT        Cryoprecipitated AHF.  Recall #B-310-6.
+CODE           Unit numbers:  102233-7126, 102233-7127,
+               102233-7128.
+MANUFACTURER   Blood Systems, Inc., Scottsdale, Arizona.
+RECALLED BY    Manufacturer, by letters dated September 11,
+               1995.  Firm-initiated recall complete.
+
+                             -8-DISTRIBUTION   Arizona.
+QUANTITY       3 units.
+REASON         Cryoprecipitated AHF, prepared from plasma
+               which was not frozen within eight hours of
+               phlebotomy, was distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II =========
+_______________
+PRODUCT        Laser Targeting Systems:
+               (a) Model AM 5000 Advanced Miles Transmitter,
+               used to test Miles transmitters and target
+               vests; (b) Model Miles ATS-101 Aerial Target
+               System, used to target fighter aircraft in
+               air-to-ground and ground-to-ground combat. 
+               Recall #Z-377/378-6.
+CODE           None.
+MANUFACTURER   Schwartz Electro-Optics, Inc., Orlando,
+               Florida.
+RECALLED BY    Manufacturer.  FDA approved the firm's
+               corrective action plan (a) August 11, 1995;
+               (b) December 1, 1995.  Firm-initiated filed
+               correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 4 units; (b) 29 units.
+REASON         The laser products failed to comply with the
+               Federal laser product performance standard
+               protective housing requirements, 21 CFR
+               1040.10(f)(1).  
+
+_______________
+PRODUCT        Niks Night Vision Monocular with Laser
+               Illuminator, night vision scope with laser
+               illuminator.  Recall #Z-331-6.
+CODE           None.
+MANUFACTURER   International Sourcing, Inc., Fort Wayne,
+               Indiana.
+RECALLED BY    Manufacturer.  FDA approved the firm's
+               corrective action plan January 5, 1996.  Firm-
+               initiated field corrections ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Nationwide.
+REASON         The laser product failed to comply with the
+               Federal laser product performance standard, 21
+               CFR 1010.2, 21 CFR 1010.3, 21 CFR
+               1040.10(f)(3), 21 1040.10(f)(4), 21 CFR
+               1040.10(f)(5)ii, 21 CFR 1040.10(f)(6), 21 CFR
+               1040.10(g)(2)(iii), 21 CFR 1040.10(g)(5), 21
+               CFR 1040.10(h)(1)(iii).  These are violations
+               of the labeling and performance requirements
+               of the laser standard.  Also the Niks Nights 
+
+                             -9-               Vision Monocular is defective under 21 CFR
+               1003.2, in that it emits 13-20 kev x-rays at a
+               rate of 3.5 mR/hr, which are not required to
+               accomplish its intended purpose.
+
+_______________
+PRODUCT        Medi-Trace 200, Medi-Trace 200-30 ECG
+               Conductive Adhesive Electrodes.  
+               Recall #Z-426/427-6.
+CODE           All lots.
+MANUFACTURER   Graphic Controls Corporation, Gananoque,
+               Ontario.
+RECALLED BY    Graphic Controls Corporation, Buffalo, New
+               York, by letters dated February 6, 1996. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Firm estimated that 1,121,000 electrodes
+               remained on the market at time of recall
+               initiation.
+REASON         The product lacks a 510(k).  The labeling does
+               not provide adequate directions for use and
+               does not include all necessary precaution
+               statements.
+
+_______________
+PRODUCT        AbTox Plazlyte Sterilization System, a low
+               temperature gas plasma sterilization system
+               used to sterilize surgical steel devices. 
+               Recall #Z-472-6.
+CODE           All lots distributed between January and June
+               1995.
+MANUFACTURER   AbTox, Inc., Mundelein, Illinois.
+RECALLED BY    Manufacturer, via letter of August 17, 1995,
+               which provided revised instructions for use. 
+               Firm-initiated field correction has been
+               completed.
+DISTRIBUTION   North Carolina, Washington, D.C., Kentucky,
+               Michigan, Texas, Wisconsin, California,
+               Georgia, Arkansas, Illinois, Minnesota, Ohio,
+               New York, Rhode Island, South Dakota.
+QUANTITY       23 units were distributed.
+REASON         Labeling for the device promoted uses
+               unapproved in the United States.
+
+_______________
+PRODUCT        Clinipad Sterile CV Pack 29028B.  
+               Recall #Z-492-6.
+CODE           Kit #29028B, Lot #515823N.
+MANUFACTURER   Johnson & Johnson Medical, Inc., Arlington
+               Texas.
+RECALLED BY    Clinipad Corporation, Guilford, Connecticut
+               (kit assembler), by telephone on February 7,
+               1996.  Firm-initiated recall ongoing.
+                            -10-DISTRIBUTION   New Jersey.
+QUANTITY       80 kits were distributed.
+REASON         The clipping tabs on each side of the sheet
+               used to secure instrument lines tear when
+               weight is placed on them.
+
+_______________
+PRODUCT        USCI Probe III Balloon-On-Wire Dilation
+               Catheter System, sterile.  
+               Recall #Z-502/504-6.
+CODE           Catalog numbers:  004859, 004860, 004861, 196
+               Lots packaged from January 1994 to February
+               1996.
+MANUFACTURER   USCI Division, C. R. Bard, Inc., Billerica,
+               Massachusetts.
+RECALLED BY    Manufacturer, by letter dated February 16,
+               1996.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       8,897 units packaged from February 1994
+               through February 1996.
+REASON         Small holes were found in the sterile barrier
+               of Probe III test samples.  USCI states that
+               testing was initiated to provide packaging
+               performance data after exposure to worst case
+               radiation sterilization.  Holes could
+               compromise the sterility of the device.
+
+ 
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III ========
+_______________
+PRODUCT        Alko 6.8 pH/Electrolyte Calibrator for Corning
+               200 Series Blood Gas Analyzers.  
+               Recall #Z-192-6.
+CODE           Catalog #A478-856, Lot #30719 EXP 7/97.
+MANUFACTURER   Alko Diagnostic Corporation, Holliston,
+               Massachusetts.
+RECALLED BY    Manufacturer, by letter mailed November 2,
+               1994.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       159 units were distributed.
+REASON         Bacterial contamination caused the pH value of
+               the lot to be outside the label-declared
+               value, which may cause measured pH values to
+               be falsely depressed.
+
+_______________
+PRODUCT        IL Test ReferrIL B Calibrator for the Monarch
+               Chemistry and for the calibration of TCO 2 in
+               the ILab Chemistry Systems.  Recall #Z-477-6.
+CODE           Catalog No. 35262, Lot numbers N1041015 and
+               N0153605.
+
+                            -11-MANUFACTURER   Instrumentation Laboratory Company,
+               Orangeburg, New York.
+RECALLED BY    Instrumentation Laboratory Company (ILC),
+               Lexington, Massachusetts, by letter dated
+               August 7, 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       3,285 packages were distributed.
+REASON         The Monarch chloride values were reassigned
+               due to a -3MMOL bias found when using the
+               Monarch analyzer.
+
+_______________
+PRODUCT        Stryker Sterile, Disposable Excel Medium Cone
+               Shield, designed for use with the Excel Pulsed
+               Irrigation/Suction System.  Recall #Z-495-6.
+CODE           Lot #95091452.
+MANUFACTURER   Stryker Puerto Rico, Arroyo, Puerto Rico.
+RECALLED BY    Stryker Instruments, Division of Stryker
+               Corporation, Kalamazoo, Michigan, by letter
+               January 10, 1996.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Virginia, Illinois, Pennsylvania, Hong Kong.
+QUANTITY       8 boxes (12 units per box) were distributed.
+REASON         The device package actually contains Stryker
+               Part Number 200-8, Disc Splash Guard, instead
+               of Part Number 207-210, the Excel Medium Cone
+               Shield.  The Excel Cone Shield is designed for
+               use with the Excel Pulsed Irrigation/Suction
+               System.  The Disc Splash Guard cannot be used
+               with this system.  
+
+
+MEDICAL DEVICE SAFETY ALERTS:  ==============================
+_______________
+PRODUCT        3M Fletcher-Suit-Delclos (FSD) Applicators
+               (brachytherapy afterloading applicators for
+               radioactive cesium-137 sources used in
+               intracavity treatment of cervical and/or
+               uterine cancer) and Tandems:
+               (a) - Catalog No. 6586, 3M FSD with Standard
+               Tandems;
+               (b) Catalog No. 6587, 3M FSD with
+               Mini-Tandems;
+               (c) Catalog No. 6588, 3M FSD only.  
+               Safety Alert #N-007/009-6.
+CODE           All serial numbers.
+MANUFACTURER   Basic Industries, New Brighton, Minnesota.
+ALERTED BY     Manufacturer, by letter dated January 8, 1996.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,023 units were distributed.
+
+                            -12-REASON         Possible failures resulting from long term
+               exposure to cleaning and sterilizing
+               solutions.  The possible failures include
+               tungsten shielding jamming and preventing
+               after loading of the sources, the loss of the
+               internal tungsten shielding from the top
+               ovoid, and the possible detachment of the tip
+               of the tandem inside of a patient.
+
+                            -13-
+
+END OF ENFORCEMENT REPORT FOR MARCH 20, 1996.  BLANK PAGES MAY
+FOLLOW.
+
+                                   ####

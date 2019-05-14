@@ -1,0 +1,717 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      37 captures
+	      25 Feb 1997 - 26 Mar 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+07/18/1995
+
+ ENFORCEMENT REPORT FOR 07/19/95 
+
+
+July 19, 1995                                                    95-29
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Pyridoxine HCl, 100 mg (Vitamin B-6), in bottles of 210, a
+               dietary supplement, under the Great Earth label.  
+               Recall #F-683-5.
+CODE           DEC/97-55594.
+MANUFACTURER   Phoenix Laboratories, Inc., Hicksville, New York.
+RECALLED BY    Manufacturer, by letter sent March 24, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   California.
+QUANTITY       237 bottles were distributed; firm estimates none remains on
+               the market.
+REASON         Niacin tablets were mislabeled as Vitamin B6 Tablets.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Dilantin Kapseals 100 mg (extended Phenytoin Sodium
+               capsules, USP) in bottles of 100, an anti-epileptic.  
+               Recall #D-210-5.
+CODE           Lot #064N4FA EXP 10/96.
+MANUFACTURER   Warner Lambert Company, Fajardo, Puerto Rico.
+RECALLED BY    Parke Davis, Division of Warner Lambert Company, Morris
+               Plain, New Jersey, by letters mailed between June 23 and 26,
+               1995.  Firm-initiated recall ongoing.
+
+DISTRIBUTION   Nationwide.
+QUANTITY       39,510 bottles were distributed.
+REASON         Product does not meet dissolution specifications.
+
+_______________
+PRODUCT        Quinidine Sulfate, 200 mg, Immediate Release Tablets, in
+               bottles of 100, typically prescribed for initial loading
+               dosage of Quinidine prior to maintenance therapy with
+               Quinidine Gluconate.  Recall #D-211-5.
+CODE           Lot #30373 EXP 3/97.
+MANUFACTURER   Mutual Pharmaceutical Company, Philadelphia, Pennsylvania.
+RECALLED BY    Manufacturer, by letter dated June 19, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,961 bottles wee distributed.
+REASON         Product does not meet content uniformity specifications.
+
+_______________
+PRODUCT        Palgic D Tablets in plastic bottles of 100 with screw on
+               plastic caps, an antihistamine/decongestant.
+               Recall #D-212-5.
+CODE           Lot #SH402CP EXP 8/96.
+MANUFACTURER   Sage Pharmaceuticals, Inc., Shreveport, Louisiana.
+RECALLED BY    Manufacturer, by letter June 26, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Louisiana.
+QUANTITY       887,400 tablets were distributed.
+REASON         Product does not meet time release specifications for
+               pseudoephedrine, HCl ingredient.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Histenol Forte Tablet, an OTC multisymptom cold product,
+               distributed in bulk containers, and repacked into individual
+               2 tablet packets.  The packets are packaged into cartons
+               containing 100, 180, 250, or 1,000 packets.  
+               Recall #D-209-5.
+CODE           Lot numbers:  P57 and P58.
+MANUFACTURER   J.B. Laboratories, Holland, Michigan.
+RECALLED BY    Manufacturer, by letter May 26, 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       Firm estimated that 200,000 tablets remained on market at
+               time of recall initiation.
+REASON         Presence of small amounts of Ephedrine HCl in the
+               pseudoephedrine HCl raw material.
+
+
+                                    -2-
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma.  
+               Recall #B-199/200-5.
+CODE           Unit numbers:  1194301, 1194304, 1194307, 5215275, 7152323.
+MANUFACTURER   Carter Blood Center, Fort Worth, Texas.
+RECALLED BY    Manufacturer, by letters dated September 3, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Texas, Missouri.
+QUANTITY       5 units of each component.
+REASON         Corresponding blood product was contaminated with bacillus
+               species
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma.  
+               Recall #B-462/463-5.
+CODE           Unit #47G90945.
+MANUFACTURER   American Red Cross Blood Services, Peoria, Illinois.
+RECALLED BY    Manufacturer, by letter dated March 15 and 21, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Illinois, California
+QUANTITY       1 unit of each component.
+REASON         Blood products for which initial reactive test results for
+               antibody to human immunodeficiency virus type 1 (anti-HIV-1)
+               were not repeated in duplicate, were distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #468-5.
+CODE           Unit #09J82762.
+MANUFACTURER   American Red Cross Blood Services, Omaha, Nebraska.
+RECALLED BY    Manufacturer, by telephone July 11, 1994, followed by letter
+               dated July 28, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Iowa.
+QUANTITY       1 unit.
+REASON         Blood product, corresponding to a unit of platelets
+               contaminated with coagulase negative Staphylococcus, was
+               distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-461-5.
+CODE           Unit numbers:  13FF20519, 13FF20523, 13FF20589, 13FF20331.
+MANUFACTURER   American Red Cross Blood Services, Detroit, Michigan.
+RECALLED BY    Manufacturer, by letters dated February 8, 1995, and March
+               2, 1995.  Firm-initiated recall complete.
+DISTRIBUTION   Michigan.
+QUANTITY       4 units.
+REASON         Blood components, which were collected in expired blood
+               collection bags, were distributed.
+
+                                    -3-
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets.  Recall #B-464/465-5.
+CODE           Unit numbers:  (a) 287539, 485734, 486644, 983458; 
+               (b) 486644.
+MANUFACTURER   W.E. and Lela I. Stewart Blood Center, Inc., Tyler, Texas.
+RECALLED BY    Manufacturer, by telephone July 26, 1994 or October 5, 1994,
+               or by letters dated July 27, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Texas.
+QUANTITY       (a) 4 units; (b) 1 unit.
+REASON         Blood products, which tested reactive for syphilis by the
+               Rapid Plasma Reagin assay (RPR), were distributed.
+
+_______________
+PRODUCT        Platelets.  Recall #B-466-5.
+CODE           Unit #575366.
+MANUFACTURER   W.E. and Lela I. Stewart Blood Center, Inc., Tyler, Texas.
+RECALLED BY    Manufacturer, by telephone September 16, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       1 unit.
+REASON         Blood product, which tested initially reactive for the
+               antibody to the hepatitis B core antigen (anti-HBc), were
+               distributed.
+
+_______________
+PRODUCT        Anti-Lewisa Blood Grouping Reagent.  Recall #B-467-5.
+CODE           Lot numbers:  2347, 2348, 2349.
+MANUFACTURER   Organon Teknika Corporation, West Chester, Pennsylvania.
+RECALLED BY    Organon Teknika Corporation, Durham, North Carolina, by
+               letters dated February 6 and 10, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       340 units of lot 2347, 1,390 units of lot 2348, 408 units of
+               lot 2349 were distributed. 
+REASON         Anti-Lewisa (anti-Lea) Blood Grouping Reagent, which was
+               packaged with a product insert containing an incorrect
+               procedure for use, was distributed.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Devices labeled as Selector Catheters, 100 cm, 5 French,
+               Left Coronary Bypass, Catalog #445.0-062.  Recall #Z-759-5.
+CODE           Lot numbers:  14058, 14274.
+MANUFACTURER   NAMIC Caribe, Inc., Aguadilla, Puerto Rico.
+RECALLED BY    NAMIC U.S.A. Corporation, Glens Falls, New York, by
+               telephone April 18 & 19, 1995, followed by letter dated
+               April 18, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   California, Florida, Iowa, Illinois, Maryland, Missouri,
+               Michigan Nebraska, New York, Washington State, Ireland.
+QUANTITY       118 units were distributed
+
+                                    -4-
+REASON         Mislabeled.  Packages labeled as Selector Catheters, 100 cm,
+               5 French, Left Coronary Bypass, contains an Amplatz Left 1.5
+               catheter.
+
+_______________
+PRODUCT        Baxter Flow-Through Injectable Housing, Sterile, Model 93-
+               505, when used in conjunction with a Baxter temperature
+               probe, is a flow-through housing which allows direct
+               temperature measurement of the thermal indicator at the
+               proximal lumen infusion site.  Recall #Z-848-5.
+CODE           Lot numbers:  4V07F-3960, 4W07F-0037.
+MANUFACTURER   Baxter Healthcare Corporation of Puerto Rico, Anasco, Puerto
+               Rico.
+RECALLED BY    Baxter Healthcare Corporation, Irvine, California, by
+               letters dated March 16 and 17, 1995.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Arkansas, California, Colorado, Florida, Hawaii, Idaho,
+               Kansas, Massachusetts, Maryland, Minnesota, North Carolina,
+               North Dakota, New York, Pennsylvania, Virginia, Wisconsin,
+               and international.
+QUANTITY       3,072 units were distributed.
+REASON         The lots were found to have inadequate package seals which
+               may compromise the sterility of the device.
+
+_______________
+PRODUCT        USCI 5F Envision Angiographic Catheters, intravascular
+               diagnostic catheters used to record intracardiac pressures
+               to sample blood and to introduce substances into the heart
+               and vessels.  Recall #Z-857-5.
+CODE           All units manufactured through 12/16/95.  Item numbers: 
+               Item No.                Description
+               051000                   Straight Pigtail
+               051001                   145 degree Pigtail
+               051002                   155 degree Pigtail
+               051003                   JL 3.5
+               051004                   JL 4.0
+               051005                   JL 5.0
+               051006                   JL 6.0
+               051007                   No Torque Right
+               051008                   JR 3.5
+               051009                   JR 4.0
+               051010                   JR 5.0
+               051011                   JR 6.0
+               051012                   Champ 0.5
+               051013                   Champ 1.0
+               051015                   Amplatz Right 1
+               051016                   Amplatz Right 2
+               051017                   Amplatz Left 1
+               051018                   Amplatz Left 2
+               051019                   Amplatz Left 3
+               051020                   Multipurpose A-1
+               051021                   Multipurpose A-2
+
+                                    -5-
+               051022                   Multipurpose B-1
+               051023                   Multipurpose B-2
+               051024                   Coronary Bypass
+               051025                   Coronary Bypass
+               051026                   Internal mammary
+               051027                   Sones A
+               051028                   Sones B
+               051029                   Sones C
+               051030                   Brachial 3.5
+               051031                   Brachial 4.0
+               051032                   Brachial 4.5
+               051033                   155 degree Pigtail
+               051034                   Tight Radius Straight Pigtail
+               051035                   Tight Radius 145 degree Angle
+               051037                   Champ 3.0
+               051038                   Champ 3.5
+               051043                   Modified JR 4.0
+               355050                   EZ Pak w/.035"wire and Straight
+                                        Pigtail
+               355051                   EZ Pak w/.035" wire and 145 degree
+                                        angle Pigtail
+               355052                   EZ Pak w/.035" wire and 155 degree
+                                        angle Pigtail
+               385050                   EZ Pak w/.038" wire and Straight
+                                        Pigtail
+               385051                   EZ Pak w/.035" wire and 145 degree
+                                        angle Pigtail
+               385052                   EZ Pak w/.038" wire and 155 degree
+                                        angle Pigtail
+               551050                   Angio Kit with Straight Pigtail
+               551051                   Angio Kit with 145 degree Angle
+                                        Pigtail
+               551052                   Angio Kit with 155 degree Angle
+                                        Pigtail.
+MANUFACTURER   USCI Manufacturing Facility, Billerica, Massachusetts.
+RECALLED BY    USCI Division, C.R. Bard, Inc., Billerica, Massachusetts, by
+               letter January 6, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       15,020 units were distributed.
+REASON         The tip segment separates from the proximal shaft.
+
+_______________
+PRODUCT        USCI 5F Envision Angiographic Catheters, intravascular
+               diagnostic catheters used to record intracardiac pressures
+               to sample blood and to introduce substances into the heart
+               and vessels.  Recall #Z-858-5.
+CODE           All units manufactured from 12/16/94 - 5/12/95.  
+               Item No.                Description
+               051000                   Straight Pigtail
+               051001                   145 degree Pigtail
+               051002                   155 degree Pigtail
+               051003                   JL 3.5
+
+                                    -6-
+               051004                   JL 4.0
+               051005                   JL 5.0
+               051006                   JL 6.0
+               051007                   No Torque Right
+               051008                   JR 3.5
+               051009                   JR 4.0
+               051010                   JR 5.0
+               051011                   JR 6.0
+               051012                   Champ 0.5
+               051013                   Champ 1.0
+               051015                   Amplatz Right 1
+               051016                   Amplatz Right 2
+               051017                   Amplatz Left 1
+               051018                   Amplatz Left 2
+               051019                   Amplatz Left 3
+               051020                   Multipurpose A-1
+               051021                   Multipurpose A-2
+               051022                   Multipurpose B-1
+               051023                   Multipurpose B-2
+               051024                   Coronary Bypass
+               051025                   Coronary Bypass
+               051026                   Internal mammary
+               051027                   Sones A
+               051028                   Sones B
+               051029                   Sones C
+               051030                   Brachial 3.5
+               051031                   Brachial 4.0
+               051032                   Brachial 4.5
+               051033                   155 degree Pigtail
+               051034                   Tight Radius Straight Pigtail
+               051035                   Tight Radius 145 degree Angle
+               051037                   Champ 3.0
+               051038                   Champ 3.5
+               051043                   Modified JR 4.0
+               355050                   EZ Pak w/.035"wire and Straight
+                                        Pigtail
+               355051                   EZ Pak w/.035" wire and 145 degree
+                                        angle Pigtail
+               355052                   EZ Pak w/.035" wire and 155 degree
+                                        angle Pigtail
+               385050                   EZ Pak w/.038" wire and Straight
+                                        Pigtail
+               385051                   EZ Pak w/.035" wire and 145 degree
+                                        angle Pigtail
+               385052                   EZ Pak w/.038" wire and 155 degree
+                                        angle Pigtail
+               551050                   Angio Kit with Straight Pigtail
+               551051                   Angio Kit with 145 degree Angle
+                                        Pigtail
+               551052                   Angio Kit with 155 degree Angle
+                                        Pigtail.
+
+                                    -7-
+MANUFACTURER   USCI Manufacturing Facility, Billerica, Massachusetts.
+RECALLED BY    USCI Division, C.R. Bard, Inc., Billerica, Massachusetts, by
+               letter May 23, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       7,140 units were distributed.
+REASON         Pinhole defects were found in the pigtail catheters.
+
+_______________
+PRODUCT        Orthodontic wire distal-end mini cutter used by
+               dentists/orthodontists, to cut different sizes of dental
+               braces wire material inside the patient's mouth:
+               (a) Model AEZ Part #803-0510, Ezcurra Distal Cutter with
+               hold long handle; (b) Model AEZ Part 803-0511, Ezcurra
+               Distal End Cutter with hold short handle.
+               Recall #Z-868/869-5.
+CODE           Batch numbers:  2xxx, 3xxx, 4Axx, 4Bxx, 4Cxx, 4Dxx, 4Exx,
+               4Fxx, 4Gxx, 4Hxx (where the x represents any letter or
+               number).  There are no serial numbers or expiration/use-by
+               dates.
+MANUFACTURER   ORMCO Corporation, Glendora, California.
+RECALLED BY    Manufacturer, by letters dated May 5 and 11, 1995.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 5,700 cutters were distributed.
+REASON         The device's tip could break in patient's mouth.
+
+_______________
+PRODUCT        Nuclear Imaging Systems:  (a) Model 1000S; (b) Model 2000S;
+               (c) Model 1000XP; (d) Mode 2000XP.  Recall #Z-939/942-5.
+CODE           All serial numbers.
+MANUFACTURER   Ohio Imaging Nuclear Medicine Division, Picker
+               International, Bedford Heights, Ohio.
+RECALLED BY    Manufacturer, by letter February 1, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       252 units were distributed.
+REASON         The camera's detector head may drift beyond acceptable
+               limits which will result in a high force being placed
+               against the patient's head or body.
+
+_______________
+PRODUCT        Endoscope Reprocessor (Ultrasonic Washer):  
+               (a) System 83; (b) System 83 Plus.  Recall #Z-958/959-5.
+CODE           All product manufactured before 1/92 when a design change
+               was introduced.  All units with serial numbers in which the
+               last two digits are lower than 92.
+MANUFACTURER   Custom Ultrasonics, Inc., Ivyland, Pennsylvania.
+RECALLED BY    Manufacturer, by memorandum dated April 7, 1994.  Firm-
+               initiated field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 1,200 units were distributed.
+
+                                    -8-
+REASON         Device failed to adequately clean the inner channels of the
+               reprocessed endoscope, resulting in contaminated endoscopes.
+
+_______________
+PRODUCT        Sterile Non-Latex Surgical Gloves, indicated for use by
+               surgeons as infection barriers during surgical procedures:
+               (a) Tactyl 1, Catalog #41070; (b) Tactyl 2, Catalog #51070;
+               (c) Tactylon, Catalog #51175.  Recall #Z-960/962-5.
+CODE           Lot numbers:  (a) 5024-0005; (b) 5024-0003; (c) 5054-0002,
+               5024-0002.
+MANUFACTURER   Tactyl Technologies, Inc., Vista, California.
+RECALLED BY    Manufacturer, by letter March 21, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Arizona, France, Sweden.
+QUANTITY       292 shipping cases were distributed; firm estimated that on
+               April 14, 1995 35 shipping cases remained on the market.
+REASON         The gloves did not receive the full irradiation dose,
+               thereby compromising the sterility of the gloves.
+
+_______________
+PRODUCT        Green Maxon Absorbable Sutures, Size 01 (sterile), indicated
+               for use in all types of soft tissue approximation, but not
+               in cardiovascular, ophthalmic or microsurgery and not in
+               neural tissue.  Recall #Z-963-5.
+CODE           Product #6315-72, Lot numbers:  878309 EXP 9/95, 878308 EXP
+               10/95.
+MANUFACTURER   Davis & Geck, Manati, Puerto Rico.
+RECALLED BY    Davis & Geck, Danbury, Connecticut, by letter June 8, 1995. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Canada.
+QUANTITY       183 boxes (24 units per box) were distributed; firm
+               estimates none remains on the market.
+REASON         The sutures exhibit low out of package tensile strength.
+
+_______________
+PRODUCT        Davis & Geck LAPRO-CLIP Ligating Clip Remover (non-sterile). 
+               Recall #Z-964-5.
+CODE           Product #8487-99, lot numbers:  891890, 892262, 892381,
+               893528.
+MANUFACTURER   Mediscope Manufacturing, Inc., North Bergen, New Jersey
+               (contract manufacturer).
+RECALLED BY    Davis & Geck, Danbury, Connecticut, by letters sent June 2,
+               1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   California, Georgia, Illinois, North Carolina, Louisiana,
+               Massachusetts.
+QUANTITY       26 units were distributed; firm estimated that 20 devices
+               remained in the field at time of recall initiation.
+REASON         The grasping hook of the device may break and become
+               detached from the device.
+
+                                    -9-
+_______________
+PRODUCT        Philips Medical Systems SL Series Multi Energy Radiotherapy
+               Systems.  Recall #Z-987-5.
+CODE           Serial numbers 5001 to 5280.
+MANUFACTURER   Philips Medical Systems Radiotherapy, West Sussex, England.
+RECALLED BY    Philips Medical Systems North America Company, Shelton,
+               Connecticut, by visit after February 1994.  Firm-initiated
+               field correction complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       82 systems were distributed.
+REASON         There is a potential for a 10 second delay in the "No Dose
+               Interlock" mode if the ion chamber -300 volt supply fails,
+               which could continue radiation for an extra 10 seconds.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Lithium Serum Flame Standard for Flame Photometer. 
+               Recall #Z-965-5.
+CODE           Lot #DB-1.
+MANUFACTURER   Radiometer Copenhagen, Copenhagen, Denmark.
+RECALLED BY    Radiometer America, Westlake, Ohio, by telephone on or about
+               December 7, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Maine, Illinois, Oregon.
+QUANTITY       8 bottles were distributed.
+REASON         The standard has a lithium content that is lower than the
+               specified nominal value.  This can cause the lithium reading
+               to be higher than the nominal variation allowed.
+
+_______________
+PRODUCT        Qualicheck 3 Quality Control Material for ABL-520, control
+               system designed to monitor the accuracy of pH, blood gas,
+               and oximetry measurements in the analyzer.  Recall #Z-966-5.
+CODE           Lot #44.
+MANUFACTURER   Radiometer A/S EmdruppvJ 72, Copenhagen NV, Denmark.
+RECALLED BY    Radiometer America, Westlake, Ohio, by letter October 28,
+               1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       156 boxes were distributed; firm estimates none remains on
+               the market.
+REASON         The MetHb (Methemoglobin) value for the material was outside
+               the stated control range.  The actual value was higher than
+               the stated value.
+
+_______________
+PRODUCT        Qualicheck 4 Material for ABL-505, a quality control
+               standard for pH, blood gases, and electrolytes.  
+               Recall #Z-967-5.
+CODE           Lot #27.
+MANUFACTURER   Radiometer A/S Emdruppvej 72, Copenhagen NV, Denmark.
+RECALLED BY    Radiometer America, Westlake, Ohio, by letter August 6,
+               1993.  Firm-initiated recall complete.
+
+                                   -10-
+DISTRIBUTION   California and Texas.
+QUANTITY       13 boxes were distributed; firm estimates none remains on
+               the market.
+REASON         The potassium value is lower than labeled.
+
+_______________
+PRODUCT        Dader Thromboplastin-IS (TPS), in-vitro diagnostic product
+               for use in prothrombin time (PT) determination and
+               prothrombin time based assays.  Recall #Z-968/973-5.
+CODE           Catalog No. B4213-20, Lot Nos. TPS-75, TPS-80, TPS-82;
+               Catalog No. B4213-50, Lot Nos. TPS-77, TPS-79,  TPS-79Z,
+                                              TPS-81,TPS-86;
+               Catalog No. B4213-100, Lot No. TPS-74;
+               Catalog No. 281052, Lot Nos.   TPS-82, TPS-87;
+               Catalog No. 281053, Lot Nos.   TPS-75, TPS-77, TPS-79,
+                                              TPS-81, TPS-86;
+               Catalog No. 281054, Lot No.    TPS-74.
+MANUFACTURER   Dade International of Puerto Rico, Aguada, Puerto Rico.
+RECALLED BY    Dade International, Inc., Miami, Florida, by letter dated
+               May 1995, and by Fax to international distributors.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       44,161 packages.
+REASON         The device fails to meet the labeled stability claim after
+               reconstitution when incubated.
+
+_______________
+PRODUCT        Dade Thromboplastin-IS (TPS), in-vitro diagnostic product
+               for use in prothrombin time (PT) determination and
+               prothrombin time based assays.  Recall #Z-974/979-5.
+CODE           Catalog No. B4213-100, Lot No. TPS-64;
+               Catalog No. 281054, Lot Nos. TPS-64, TPS-68, TPS-73, TPS-78;
+               Catalog No. B4213-50, Lot No. TPS-67;
+               Catalog No. 281053, Lot No. TPS-67;
+               Catalog No. 281052, Lot No. TPS-70;
+               Catalog No. B4213-20, Lot No. TPS-84.
+MANUFACTURER   Dade International of Puerto Rico, Aguada, Puerto Rico.
+RECALLED BY    Dade International, Inc., Miami, Florida, by letter dated
+               June 1995, and by fax to international distributors.
+DISTRIBUTION   Nationwide, Canada, Mexico, Costa Rica, Chile, Colombia,
+               Japan.
+QUANTITY       23,576 packages were distributed.
+REASON         The device fails to meet the labeled stability claim after
+               reconstitution when incubated.
+_______________
+PRODUCT        Olympic EVIS Video Endoscopes, used for endoscopic diagnosis
+               and treatment within the lower digestive tract (colon and
+               rectum):  (a) Model PCF-130I; (b) Model PCF-130L.
+               Recall #Z-988/989-5.
+CODE           Lot numbers D & G.
+MANUFACTURER   Olympus Optical Company, Ltd., Tokyo, Japan.
+RECALLED BY    Olympus America, Inc., Melville, New York, by letter May 24,
+               1995.  Firm-initiated recall ongoing.
+                                   -11-
+DISTRIBUTION   Nationwide and Puerto Rico.
+QUANTITY       37 were distributed.
+REASON         The video endoscopes are more susceptible to surges of
+               electrical current due to a manufacturing defect in the
+               charged coupled device (CCD) chip which will cause the video
+               endoscopes to lose their images.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS II
+===========
+_______________
+PRODUCT        Vitamin K Injectable, 100 ml.  Recall #V-034-5.
+CODE           Lot numbers:  3400, 3480, 3558, 3584.
+MANUFACTURER   GEN/Rx (formerly AVP), Fort Collins, Colorado.
+RECALLED BY    manufacturer, by letter mailed June 15, 1995.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   California, Colorado, Florida, Iowa, Kansas, Missouri,
+               Nebraska, New Jersey, New York, Ohio, Oklahoma, Texas, South
+               Carolina, Puerto Rico.
+QUANTITY       5,625 units of lot 3400; 3,459 units of lot 3480; 3,601
+               units of lot 3,558; 3,036 units of lot 3584 were
+               distributed.
+REASON         Product failed stability testing, falling below
+               specifications.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS III
+==========
+_______________
+PRODUCT        Coop Lamb Creep Feed Medicated packaged in 50 pound bags. 
+               Recall #V-033-5.
+CODE           G12234 and L17644.
+MANUFACTURER   Farmland Industries, Inc., Kansas City, Kansas.
+RECALLED BY    Manufacturer, by telephone January 30-31, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Oklahoma, Missouri, Kansas.
+QUANTITY       328 bags were distributed.
+REASON         Superpotent.
+
+                                   -12-
+
+
+END OF ENFORCEMENT REPORT FOR JULY 19, 1995.  BLANK PAGES MAY FOLLOW.
+
+                                   ####

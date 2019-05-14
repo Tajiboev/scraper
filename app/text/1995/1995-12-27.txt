@@ -1,0 +1,535 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  May
+		  DEC
+		  Mar
+		
+		
+		
+		  
+		  28
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      31 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DO
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ DATEREG
+12/27/1995
+
+ ENFORCEMENT REPORT FOR 12/27/95 
+
+
+December 27, 1995                                           95-52
+
+RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS II
+==========================
+_______________
+UPDATE         Recall #D-035-6, Piroxicam Capsules, USP 20 mg, 
+               manufactured by Mutual Pharmaceutical Company, Inc.,
+               Philadelphia, Pennsylvania, which appeared in the December
+               13, 1995 Enforcement Report has been extended to include the
+               following lot numbers:
+               24936 EXP 2/96, 27639 EXP 2/96, 27641 EXP 2/96, 28536 EXP
+               6/96, 28538 EXP 7/96, 29551 EXP 11/96, 30071 EXP 1/97, 30073
+               EXP 1/97, 30075 EXP 2/97, 30902 EXP 5/97, 30904 EXP 5/97, 
+               31386 EXP 7/97, 31777 EXP 8/97, 31779 EXP 8/97, 27638 EXP
+               2/96, 27640 EXP 2/96, 28535 EXP 6/96, 28537 EXP 6/96, 29550
+               EXP 11/96, 29552 EXP 11/96, 30072 EXP 1/97, 30074 EXP 1/97,
+               30076 EXP 2/97, 30903 EXP 5/97, 31385 EXP 7/97, 31387 EXP
+               7/97, 31778 EXP 11/96, 31780 EXP 8/97.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+=======================
+_______________
+PRODUCT        Hemorrhoidal HC 25 mg Suppositories (Hydrocortisone Acetate
+               25 mg).  Recall #D-043-6.
+CODE           Lot #A001.
+MANUFACTURER   Vintage Pharmaceuticals, Inc., Charlotte, North Carolina.
+RECALLED BY    Manufacturer, by letter on December 6, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Alabama.
+QUANTITY       4,845 boxes (12 units per box) were distributed.
+REASON         Potency not assured through expiration date.
+
+_______________
+PRODUCT        Miochol brand of Acetylcholine Chloride Intraocular Solution
+               1:100 and Miochol-E brand of Acetylcholine Chloride
+               Intraocular solution with Electrolyte Diluent, Rx products
+               used to obtain miosis of the eye:  (a) Miochol Univials;
+               (b) Miochol with Steri-Tags; (c) Miochol System Pack; 
+               (d) Miochol System Pack Plus; (e) Miochol E with Steri-Tags;
+               (f) Miochol E System Pack.  Recall #D-044/049-6.
+CODE           Lot numbers and EXP dates:  (a) S5082D 11/96, S5093D 9/96,
+               T3202D 9/96, T3217D 10/96; (b) S5081D 6/96, S5080D 6/96,
+               S5084D 6/96, S5085E 8/96, S5091D 8/96, S5092D 8/96, T3201D
+               9/96, T3206D 9/96, T3208D 9/96, T3207D 9/96, T3211D 10/96;
+               (c) S5083D 6/96, S5089D 8/96, S5090D 8/96, T3200D 9/96,
+               T3203E 9/96, T3204D 9/96, T3210D 9/96, T3213D 10/96; (d)
+               SL4924 4/96, TA4600 5/96, TB4601 6/96, TB4602 6/96, TC4604
+               8/96, TC4603 8/96, TD4605 8/96, TE4607 9/96, TE4609 9/96;
+               (e) S4864D 6/96, S4865D 6/96, S4870D 10/96, T3100D 11/96,
+               T3101D 11/96, T3102D 11/96, T3104D 11/96, T3106D 12/96; (f)
+               S4860D 5/96, S4866D 6/96, S4869D 6/96, S4872D 10/96, T3103D
+               11/96.  (Note:  Additionally, all lots with expiration dates
+               prior to 9/96 are also included in this recall.)
+MANUFACTURER   OMJ Pharmaceuticals, Inc., San German, Puerto Rico.
+RECALLED BY    Ciba Vision Ophthalmics, Division of Ciba Vision
+               Corporation, Duluth, Georgia, by letter followed by
+               telephone.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 45,000 units of the lots of Miochol and
+               100,000 units of the lots of Miochol-E remained on market at
+               time of recall initiation.
+REASON         Products do not meet pH specifications.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        Platelets, Pooled.  Recall #B-126-6.
+CODE           Unit #051795-1.
+MANUFACTURER   Community Blood Center, Dayton, Ohio.
+RECALLED BY    Manufacturer, by telephone on May 18, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY       1 unit.
+REASON         Blood product, which was labeled with an extended expiration
+               date, was distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells. Recall #B-130-6.
+CODE           Unit #K04183.
+MANUFACTURER   Central California Blood Center, Fresno, California.
+RECALLED BY    Manufacturer, by letter dated July 27, 1995.  Firm-initiated
+               recall complete.
+                                    -2-DISTRIBUTION   California.
+QUANTITY       1 unit.
+REASON         Blood product, which was collected from a donor with a
+               history of ear and nose piercing within 12 months of
+               donation, was distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma.  
+               Recall #B-133/134-6.
+CODE           Unit #7743231.
+MANUFACTURER   BloodCare, Dallas, Texas.
+RECALLED BY    Manufacturer, by letters dated August 23, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Texas, New Jersey.
+QUANTITY       1 unit of each component.
+REASON         Blood products, collected from a donor who had sexual
+               contact with an intravenous (IV) drug user, were
+               distributed.
+
+_______________
+PRODUCT        Platelets, Pooled.  Recall #B-135-6.
+CODE           Unit #P52692 - contains Platelets, Unit #9219754.
+MANUFACTURER   Carter Blood Center, Fort Worth, Texas.
+RECALLED BY    Manufacturer, by telephone on June 29, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       1 pooled unit.
+REASON         Blood product, which tested negative for the antibody to the
+               hepatitis C virus encoded antigen (anti-HCV), but was
+               collected from a donor who previously tested repeatedly
+               reactive for anti-HCV, was distributed.
+
+_______________
+PRODUCT        (a) Whole Blood; (b) Red Blood Cells; (c) Platelets. 
+               Recall #B-136/138-6.
+CODE           Code numbers:  (a) 100, 103; (b) 200, 210, 218, 230, 240,
+               260, 268, 269, 270; (c) 350 (Pooled 353).
+MANUFACTURER   Blood Systems, Inc., doing business as United Blood
+               Services, Meridian, Mississippi.
+RECALLED BY    Manufacturer, by letters dated July 17, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       10,481 units collectively.
+REASON         Blood products, collected from donors with an abbreviated
+               health history interview, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Fresh Frozen Plasma;
+               (d) Recovered Plasma.  Recall #B-140/143-6.
+CODE           Unit numbers:  (a) 14G99483, 14G02712, 14G10978; (b)
+               14G02712, 14G10978; (c) 14G02712; (d) 14G99483, 14G10978.
+MANUFACTURER   American Red Cross, Yakima, Washington.
+
+                                    -3-RECALLED BY    Manufacturer, by letters dated December 19, 1994, and
+               January 5, 1995.  Firm-initiated recall complete.
+DISTRIBUTION   Washington, Alabama, California, Florida.
+QUANTITY       (a) 3 units; (b) 2 units; (c) 1 unit; (d) 2 units.
+REASON         Blood products collected from a donor who previously tested
+               HCV repeat reactive, was distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-144-6.
+CODE           Unit #56H00385.
+MANUFACTURER   American Red Cross Blood Services, Syracuse, New York.
+RECALLED BY    Manufacturer, by letter dated October 5, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   New York.
+QUANTITY       1 unit.
+REASON         Blood product, which tested negative for the antibody to the
+               human immunodeficiency virus type 1 (anti-HIV-1), but was
+               collected from a donor who previously tested repeatedly
+               reactive for anti-HIV-1, was distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-145-6.
+CODE           Unit #21GF21158.
+MANUFACTURER   American Red Cross Blood Services, Portland, Oregon.
+RECALLED BY    Manufacturer, by letter dated September 7, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Oregon.
+QUANTITY       1 unit.
+REASON         Blood product, collected from a donor who had traveled to an
+               area designated as endemic for malaria, was distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-127-6.
+CODE           Unit #639954.
+MANUFACTURER   Community Blood Center, Dayton, Ohio.
+RECALLED BY    Manufacturer, by telephone on March 28, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY       1 unit.
+REASON         Blood product, which was irradiated and labeled with an
+               extended expiration date, was distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-128-6.
+CODE           Unit numbers 652053 and 652039.
+MANUFACTURER   Community Blood Center, Dayton, Ohio.
+RECALLED BY    Manufacturer, by telephone on or about March 13, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY       2 units.
+                                    -4-REASON         Blood products, which were irradiated and labeled with
+               extended expiration dates, were distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-129-6.
+CODE           Unit numbers:  625560 and 624468.
+MANUFACTURER   Community Blood Center, Dayton, Ohio.
+RECALLED BY    Manufacturer, by telephone on or about November 11, 1994. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY       2 units.
+REASON         Blood products, which were irradiated and labeled with
+               extended expiration dates, were distributed.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-131-6.
+CODE           Unit #K04183.
+MANUFACTURER   Central California Blood Center, Fresno, California.
+RECALLED BY    Manufacturer, by letter dated July 27, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   California.
+QUANTITY       1 unit.
+REASON         Blood product, which was collected from a donor with a
+               history of ear and nose piercing within 12 months of
+               donation, was distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-132-6.
+CODE           Unit numbers:  0426159, 0426172, 0426173, 0426175, 0426177,
+               0426218.
+MANUFACTURER   Bergen Community Regional Blood Center, Paramus, New Jersey.
+RECALLED BY    Manufacturer, by telephone on November 2, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   New Jersey.
+QUANTITY       6 units.
+REASON         Blood products, which were irradiated and labeled with an
+               extended expiration date, were distributed.
+
+_______________
+PRODUCT        Plasma (FFP, Recovered).  Recall #B-139-6.
+CODE           Unit numbers:  510, 520, 530, 540.
+MANUFACTURER   Blood Systems, Inc., doing business as United Blood
+               Services, Meridian, Mississippi.
+RECALLED BY    Manufacturer, by letters dated July 17, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       10,481 units collectively.
+               Blood products, collected from donors with an abbreviated
+               health history interview, were distributed.
+
+_______________
+PRODUCT        (a) Platelets (Pooled); (b) Fresh Frozen Plasma.
+               Recall #B-148/149-6.
+                                    -5-CODE           Unit numbers:  (a) P43822; (b) 6176424.
+MANUFACTURER   Carter Blood Center, Fort Worth, Texas.
+RECALLED BY    Manufacturer, by letter dated October 5 and 20, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Texas, California.
+QUANTITY       1 unit of each component.
+REASON         Blood products, corresponding to Red Blood Cells which were
+               contaminated with a gram positive rods cultured to be
+               Propionibacterium acnes, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Modular Patient System (MPS-3000) Acute Care Bed.  
+               Recall #Z-245-6.
+CODE           Beds affected were manufactured during the month of December
+               1993.  Serial numbers include the following ranges 93121501-
+               93121741, 93121768-93121837, 93121843-93121852, 94021641-
+               94021643.
+MANUFACTURER   Stryker Patient Care, Kalamazoo, Michigan.
+RECALLED BY    Manufacturer.  All involved beds were corrected by 1/11/95.  
+               Firm-initiated field correction complete.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       314 units were distributed.
+REASON         Exposed clips could lacerate patient's skin.
+
+_______________
+PRODUCT        Lifestyles Spermicidally Lubricated Condoms, 12 individually
+               wrapped condoms per box.  Recall #Z-246-6.
+CODE           Product #1812, Lot #310018300 EXP 9/96.
+MANUFACTURER   Ansell, Inc., Troy, Alabama.
+RECALLED BY    Ansell, Inc., Dothan, Alabama, by letter dated November 20,
+               1995, and by press release issued in the State of Hawaii. 
+               Firm-initiated recall complete.
+DISTRIBUTION   California, Colorado, Hawaii, Illinois, Maryland, Michigan,
+               Minnesota, New Jersey, New York, Ohio, Pennsylvania,
+               Tennessee, Utah.
+QUANTITY       4,608 boxes of 12 condoms were distributed.
+REASON         Product failed the FDA water leak test.
+
+_______________
+PRODUCT        Lifestyles Assorted Color Condoms with Spermicidal
+               Lubricant, strips of 1000.  Recall #Z-247-6.
+CODE           503002200, 503004800, 50403900.
+MANUFACTURER   Ansell, Inc., Dothan, Alabama.
+RECALLED BY    Manufacturer, by telephone June 6, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   California, Connecticut, Louisiana, Maine, Massachusetts,
+               Michigan, New York, Ohio, Oklahoma, Pennsylvania,
+               Washington, Wisconsin.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Products failed the firm's water leak test.
+
+                                    -6-_______________
+PRODUCT        MicroScan Dried Overnight (Positive and Negative Panels),
+               used for aerobic bacterial identification and antimicrobial
+               susceptibility testing and Rapid Chromogenic Identification
+               Panels:
+               (a) Conventional Dried Negative; (b) Conventional Dried
+               Positive; (c) Rapid Chromogenic Panels; (d) Custom Panels
+               (Conventional Dried Negative or Positive, as per Customer);
+               (e) International Conventional Dried (Positive and/or
+               Negative, Specific to needs to Nationality of Customer). 
+               Recall #Z-249/253-6.
+CODE           Lot numbers:  
+               (a)  B1017-102      25AUG96;
+                    B1017-27       28JUN96, 18JUL96;
+                    B1017-30       28APR96, 23JUN96, 06JUL96,
+                                   18AUG96;
+                    B1017-50       21APR96, 06MAY96, 16MAY96,
+                                   22MAY96, 26JUN96, 30JUN96,
+                                   28JUL96, 17AUG96, 08SEP96;
+                    B1017-55       14JUN96;
+                    B1017-72       22MAY96, 22JUN96, 11JUL96,
+                                   12JUL96, 11AUG96;
+                    B1017-74       09JUN96, 20JUN96, 25JUL96;
+                    B1017-75       28APR96, 08MAY96, 12MAY96,
+                                   01JUN96, 14JUL96, 03AUG96;
+                    B1017-76       18AUG96;
+                    B1017-78       17APR96, 18MAY96, 30MAY96,
+                                   22JUN96, 27JUN96, 28JUN96,
+                                   11JUL96, 13JUL96, 17JUL96,
+                                   24JUL96, 26JUL96, 02AUG96,
+                                   03AUG96, 09AGU96, 16AUG96,
+                                   21AUG96, 26AGU96, 30AUG96,
+                                   31AUG96, 01SEP96;
+                    B1017-80       30MAY96, 30JUN96, 17AUG96;
+                    B1017-82       28APR96, 02MAY96, 10MAY96,
+                                   15MAY96, 17MAY96, 20MAY96,
+                                   01JUN96, 16JUN96, 21JUN96,
+                                   11JUL96, 01AUG96, 30AUG96,
+                                   28AUG96, 29AUG96, 05SEP96;
+                    B1071-87       17APR96, 25APR96, 27APR96,
+                                   26MAY96, 09JUN96, 15JUN96,
+                                   27JUN96, 12JUL96, 20JUL96,
+                                   10AUG96, 21AUG96;
+                    B1017-88       27APR96, 26MAY96, 05JUN96,
+                                   09JUN96, 15JUN96, 29JUN96;
+                    B1017-89       18APR96, 17MAY96, 14JUN96,
+                                   25AUG96, 07SEP96;
+               (b)  B1017-60       18APR96, 26APR96, 27APR96,
+                                   09MAY96, 17MAY96, 23MAY96,
+                                   24MAY96, 30MAY96, 19JUN96,
+                                   21JUN96, 27JUN96, 17JUL96,
+                                   18JUL96, 20JUL96, 02AUG96,
+
+                                    -7-                                   21AUG96, 22AUG96, 25AUG96,
+                                   26AUG96, 28AUG96, 30AUG96,
+                                   01SEP96;
+                    B1017-61       17APR96, 08MAY96, 16MAY96,
+                                   23MAY96, 31MAY96, 12JUN96,
+                                   13JUN96, 19JUN96, 29JUN96,
+                                   20JUL96, 17AUG96, 19AUG96,
+                                   22AUG96, 26AUG96, 30AUG96,
+                                   31AUG96, 01SEP96;
+                    B1017-62       14APR96, 18APR96, 26APR96,
+                                   10MAY96, 13JUL96, 14JUL96,
+                                   20JUL96, 01AUG96, 29AUG96;
+                    B1017-90       06JUL96, 01APR96;
+                    B1017-94       06JUL96;
+                    B1012-10B      01APR96;
+               (c)  B1012-10B      10APR96, 14APR96, 09JUN96;
+                    B1017-02       10FEB96;
+               (d)  B1017-47DL     17MAY96, 08AUG96;
+                    B1017-47DLU    17MAY96;
+                    B1019-17SV     19MAY96;
+                    B1019-4VA      17APR96;
+                    B1019-16CHC    05SEP96;
+               (e)  B1016-21A      14JUL96, 24AUG96;
+                    B1016-22A      19JUN96, 18JUL96, 01AUG96;
+                    B1016-23A      07SEP96;
+                    B1016-26A      25MAY96, 21JUN96, 26AUG96;
+                    B1016-29A      28JUL96;
+                    B1016-42A      04AUG96;
+                    B1016-46A      30AUG96;
+                    B1016-48A      31AUG96;
+                    J1016-23A      22AUG96;
+                    J1016-25A      07SEP96;
+                    J1016-26A      06JUL96;
+                    J1016-27A      12JUN96, 10JUL96, 26JUL96,
+                                   02SEP96;
+                    J1016-29A      24APR96, 28AUG96;
+                    J1016-30A      18APR96, 19APR96, 20APR96 
+                                   19MAY96, 08JUN96, 05SEP96;
+                    J1016-31A      24APR96;
+                    J1016-41C      23JUN96.
+MANUFACTURER   Dade International, MicroScan, Inc., West Sacramento,
+               California.
+RECALLED BY    Manufacturer, by letter dated September 22, 1995.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 334,000 panels were produced between April 12
+               and September 8, 1995. 
+REASON         The locator well on some panels made with cavity 8 plastic
+               appear to be warped and were not being recognized by the
+               autoScan -4 instrument, causing an "unrecognized panel error
+               message", or potential misreads with the biochemical and MIC
+               results.
+
+                                    -8-RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Diamedix VZV IgG Microassay, Catalog order #783-380, used
+               for the detection and quantitation of Varicella-Zoster virus
+               (VZV) specific IgG antibody in human serum to aid in the
+               determination of immu status and diagnosis of VZV infection. 
+               Recall #Z-248-6.
+CODE           Lot numbers:  T1804A, T1804B, T18004C.
+MANUFACTURER   Diamedix Corporation, Miami, Florida.
+RECALLED BY    Manufacturer, by letter July 31, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       671 tests were distributed.
+REASON         The VZV test wells were incorrectly labeled as HS1.
+
+                                    -9-
+
+END OF ENFORCEMENT REPORT FOR DECEMBER 27, 1995.  BLANK PAGES MAY
+FOLLOW.
+
+                                   ####

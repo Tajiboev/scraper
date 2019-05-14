@@ -1,0 +1,557 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      35 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+03/01/1995
+
+Recalls and Field Corrections:  Foods -- Class III -- 03/01/1995
+
+March 1, 1995                                                    95-9
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        Oral Water Nursette 3 ounce glass bottles.  Recall #F-476-5.
+CODE           MHD35 List #087-0268-45 EXP 3/1/96.
+MANUFACTURER   Bristol-Myers Squibb, Evansville, Indiana.
+RECALLED BY    Manufacturer, by letter or telephone November 23, 1994, and
+               by memorandum November 29, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,711 cases (48 bottles per case) were distributed.
+REASON         Product is contaminated with chlorine.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Medical Gas, in cylinder labeled in part helium USP 80%
+               Oxygen USP 20%.  Recall #D-078-5.
+CODE           95 032 Lot # CUFT EXP 2 2000.
+MANUFACTURER   Cascade Airgas, Inc., doing business as Welders Supply
+               Company, Seattle, Washington.
+RECALLED BY    Manufacturer, by telephone on or about February 2, 1995.  
+               Firm-initiated recall complete.
+DISTRIBUTION   Washington state.
+QUANTITY       20 cylinders.
+REASON         Current good manufacturing practice deficiencies.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Oxygen USP, a compressed medical gas, in size E cylinders. 
+               Recall #D-069-5.
+CODE           Lot #173A520 EXP 20 JAN 2000.
+MANUFACTURER   Keen Compressed Gas, New Castle, Delaware.
+RECALLED BY    Manufacturer, by letter January 26, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Delaware, Pennsylvania.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Some cylinders were underfilled.
+
+_______________
+PRODUCT        Cardizem-SR (diltiazem HCl) 90 mg Sustained Release
+               Capsules, 100 capsules per bottle, Rx for the treatment of
+               hypertension.  Recall #D-070-5.
+CODE           Lot #P10264 EXP 9/9/95.
+MANUFACTURER   Elan Corporation. Plc., Athlone, County Westmeath, Ireland.
+RECALLED BY    Marion Merrell Dow, Inc., Kansas City, Missouri, by letter
+               February 8, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide(?).
+QUANTITY       19,529 bottles were distributed.
+REASON         Product is marginally below the dissolution specification at
+               the 3 hour test.
+
+_______________
+PRODUCT        Betamethasone Valerate USP 0.1 Ointment, in 15 and 45 gram
+               tubes, a topical corticosteroid with anti-inflammatory,
+               anti-pruritic and vasoconstrictive actions, under the
+               following labels:  NMC, Goldline, Rugby, Major Quality,
+               Schein, H.L. Moore.  Recall #D-071-5.
+CODE           Lot #2H806 EXP 2/95 (NMC, Goldline) 
+               Lot #2L969 EXP 6/95 (NMC, Goldline, Major Quality, Schein) 
+               Lot #3B101 EXP 8/95 (NMC, Goldline, Major Quality) 
+               Lot #3C170 EXP 9/95 (NMC, H. L. Moore, Major Quality,
+               Rugby, Goldline, Schein)
+               Lot #3D237 EXP 10/95 (Goldline, Schein, NMC, Major
+               Quality) 
+               Lot #3E288 EXP 11/95 (NMC, Goldline, Rugby, H. L.
+               Moore, Schein)
+               Lot #3F369 EXP 12/95 (NMC, Rugby, Goldline, Major Quality) 
+               Lot #3F374 EXP 12/95 (NMC, Rugby, Major Quality, Schein) 
+               Lot #3G441 exp. date 1/96 (NMC, Rugby, Major Quality, H. L.
+               Moore, Schein)
+               Lot #3J368 EXP 4/96 (NMC, H. L. Moore, Goldline Labs. 
+MANUFACTURER   NMC Laboratories, Inc., Glendale, New York.
+RECALLED BY    Manufacturer, by letter February 9, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       215,112 45-gram tubes and 95,660 15-gram tubes were
+               distributed.
+REASON         Potency not assured through expiration date.
+
+                                    -2-_______________
+PRODUCT        PanMist S (Pseudoephedrine HCl, 45 mg, and Guaifenesin, 200
+               mg), an OTC decongestant, in 16 ounce and 15 ml bottles,
+               under the Pan American Laboratories label.   
+               Recall #D-072-5.
+CODE           SG403SU, SG404SU, SG405SU, SG406SU, SI407SU, SI408SU,
+               SI409SU.
+MANUFACTURER   Sage Pharmaceuticals, Inc., Shreveport, Louisiana.
+RECALLED BY    Manufacturer, letter February 6, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Louisiana.
+QUANTITY       42,055 bottles were returned.
+REASON         Precipitation of the Guaifenesin ingredient.
+
+_______________
+PRODUCT        Baker Norton brand Verapamil Tablets, 180 mg, in bottles of
+               100, a coronary vasodilator.  Recall #D-073-5.
+CODE           Lot #4K07321.
+MANUFACTURER   Baker Norton Pharmaceuticals, Miami, Florida.
+RECALLED BY    Manufacturer, by telephone followed by letter December 30,
+               1994.  Firm-initiated field correction complete.
+DISTRIBUTION   Georgia, California, Arkansas, Maryland, Indiana, Tennessee.
+QUANTITY       16,432 bottles or 759 shipper cases were distributed; firm
+               estimates none remains on the market.
+REASON         Some shipping cases were mislabeled as 240 mg strength
+               instead of 180 mg.  The bottles are labeled correctly.
+
+_______________
+PRODUCT        Top Care Isopropyl Rubbing Alcohol 70% USP, in 16 fluid
+               ounce bottles.  Recall #D-074-5.
+CODE           Lot #2481 EXP 8/97.
+MANUFACTURER   Diamond Products, Seffner, Florida.
+RECALLED BY    Manufacturer, by letter November 8, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Texas, Colorado, Alabama.
+QUANTITY       972 cases of 12 bottles each were distributed.
+REASON         An undetermined number of Hydrogen Peroxide 3% solution
+               bottles were mislabeled as Isopropyl Rubbing Alcohol.
+
+_______________
+PRODUCT        Martec brand Hydroxyzine Hydrochloride Tablets, USP, 25 mg,
+               in bottles of 100, used for neuroses, emotional stress, and
+               depression.  Recall #D-075-5.
+CODE           Lot LG-1235.
+MANUFACTURER   Royce Labs, Miami, Florida.
+RECALLED BY    Manufacturer, by letter November 9, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Missouri.
+QUANTITY       824 bottles were distributed.
+REASON         Side panel of label incorrectly declares 10 mg strength. 
+               Main panel correctly declares 25 mg.
+
+                                    -3-_______________
+PRODUCT        Ortho-Cyclen 28-Day Regimen (norgestimate/ethinyl
+               estradiol), Rx oral contraceptive.  Recall #D-076-5.
+CODE           Lot #24K908 EXP 4/97.
+MANUFACTURER   Ortho-McNeil Pharamceuticals Corporation, Manati, Puerto
+               Rico.
+RECALLED BY    Ortho-McNeil Pharmaceutical Corporation, Raritan, New
+               Jersey, by letter November 28, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       16,027 units were distributed.
+REASON         Error in declaration of the generic name on the foil-ring.
+
+_______________
+PRODUCT        Gas Gone Simethicone 80 mg Anti-Gas/Anti-Flatulent Chewable
+               Tablets, in cartons containing 36 individual blister
+               packaged tablets, OTC item intended for the fast relief of
+               gas pain and pressure, labeled as Osco brand and Relief Plus
+               brand.  Recall #D-077-5.
+CODE           Lot #156-1947 EXP 10/97.
+MANUFACTURER   Guardian Drug Company, Trenton, New Jersey.
+RECALLED BY    Manufacturer, by letter January 4, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       398 cases were distributed.
+REASON         Lack of stability data to support expiration date.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        HIV-1 & 2 Elisa Peptide Test for HIV-1 and/or HIV-2
+               Antibody, 2 well, 48 well and 96 well test kits.  
+               Recall #B-110-5.
+CODE           ITK2 48F15, 96F15, 96L45.
+MANUFACTURER   Sero-Immuno Diagnostics, Inc., Tucker, Georgia.
+RECALLED BY    Manufacturer, by letter February 2, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       213 to 320 kits were distributed.
+REASON         Unlicensed product intended as a diagnostic test to screen
+               for antibodies to Human Immunodeficiency Virus Types 1 and 2
+               (anti-HIV 1/2) was distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells For Further Manufacture;
+               (b) Platelets; (c) Recovered Plasma.  Recall #B-166/168-5.
+CODE           Unit #5116804.
+MANUFACTURER   Carter Blood Center, Fort Worth, Texas.
+RECALLED BY    Manufacturer, (a) by letter June 29, 1994; (b&c;) by letters
+               dated June 28 or 29, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   (a) Illinois; (b&c;) Texas, Florida. 
+
+                                    -4-QUANTITY       1 unit of each component.
+REASON         Blood products, in which the sterility of the collection
+               system was compromised, was distributed.
+
+_______________
+PRODUCT        (a) Platelets; (b) Fresh Frozen Plasma.  
+               Recall #B-169/170-5.
+CODE           Unit numbers:  (a) 2214737, 3155822; (b) 3168938, 3172931.
+MANUFACTURER   Central Texas Regional Blood Center, Austin, Texas.
+RECALLED BY    Manufacturer, by letters dated August 2 and 4, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       2 units of each component.
+REASON         Blood products containing anti-D or anti-E antibodies,
+               incorrectly labeled as negative for unexpected antibodies,
+               were distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-172-5
+CODE           Unit #921766.
+MANUFACTURER   Mary Greeley Medical Center, Ames, Iowa.
+RECALLED BY    Manufacturer, by telephone July 10, 1992.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Iowa.
+QUANTITY       1 unit.
+REASON         Blood product, which tested repeatedly reactive for the
+               antibody to the human immunodeficiency virus (anti-HIV), was
+               distributed.
+
+_______________
+PRODUCT        Source Plasma.  Recall #B-173-5.
+CODE           Unit numbers:  XH26864, XH27851, XH28022, XH28676, XH28900,
+               XH29362, XH29710, XH29810, XH30638, XH30854, XH31223,
+               XH33061, XH33786, XH34010, XH34345, XH34817, XH38456,
+               XH39638, XH41949, XH42322, XH45469, XH46450, XH47012,
+               XH48642, XH50602, XH56534, XH57839, XH60876, XH66533,
+               XH68359, XH69577, XH70131, XH70650, XH71741.
+MANUFACTURER   Community Bio-Resources, Inc., Atlanta, Georgia.
+RECALLED BY    Community Bio-Resources, Inc., Birmingham, Alabama, by
+               letter dated May 27, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Michigan and Austria.
+QUANTITY       34 units.
+REASON         Blood products, collected from a donor who previously
+               provided a history of intravenous (IV) drug use, were
+               distributed.
+
+
+                                    -5-RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT &      Blood products distributed from units collected between
+CODE           May 3, 1993, and May 27, 1994, and corresponding to the
+               following inclusive whole blood numbers:  
+               25C48710 - 25C53535, 25E92659 - 25E99943, 
+               25L17964 - 25L19325, 25P23121 - 25P25733, 
+               25P59366 - 25P62730, 25S02800 - 25S03059, 
+               25S51064 - 25S51402, 25V31999 - 25V38402, 
+               25FG23243 - 25GF40157, 25FR37735 - 25FR53669, 
+               25FS00001 - 25FS04057, 25GE15037 - 25GE19971, 
+               25GG09201 - 25GG10472, 25GH28292 - 25GH42599, 
+               25GP22046 - 25GP28644, 25GT10666 - 25GT13883, 
+               25GW30196 - 25GW42249, 25GX12370 - 25GX16648, 
+               25GZ30790 - 25GZ40682, 25LM35697 - 25LM52104.  
+               Recall #B-163-5.
+MANUFACTURER   American National Red Cross, Syracuse, New York.
+RECALLED BY    Manufacturer, by letters dated October 10 or 31, 1994. 
+               Firm-initiated recall complete.  See also FDA talk paper
+               T94-52, November 3, 1994.
+DISTRIBUTION   New York, Connecticut, Georgia, Kansas, Maryland, Minnesota,
+               Maine, Oklahoma, Pennsylvania, Vermont.
+QUANTITY       79,351 units.
+REASON         Blood products, which may have tested weakly reactive in the
+               Macro-Vue Rapid Plasma Reagin (RPR) Test, and interpreted as
+               non-reactive, contrary to the manufacturer's directions,
+               were distributed.
+
+_______________
+PRODUCT        (a) Whole Blood CPD; (b) Red Blood Cells.  
+               Recall #B-164/165-5.
+CODE           Unit numbers:  (a) 5004205, 5004217, 5004230; (b) 0134321,
+               2236370, 0326893, 4590873, 5003417, 7759081.
+MANUFACTURER   North Jersey Blood Center, East Orange, New Jersey.
+RECALLED BY    Manufacturer, by telephone January 7 and 12, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   New Jersey.
+QUANTITY       (a) 3 units; (b) 6 units.
+REASON         Blood products which were labeled with an incorrect
+               expiration date were distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-171-5.
+CODE           Unit numbers:  6139659, 6139678.
+MANUFACTURER   Blood Center of Southeast Texas, Inc., Beaumont, Texas.
+RECALLED BY    Manufacturer, by telephone May 26, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       2 units.
+REASON         Blood products which were labeled with an incorrect
+               expiration date were distributed.
+
+
+                                    -6-RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Vortran Medical Technology MiniHeartTM Nebulizer (MiniNEB),
+               low volume medication nebulizer.  Recall #Z-424-5.
+CODE           Lot numbers:  9201-5000, 9302-5000, 9304-5000, 93001, 94004
+               (Vortran); 080192, 021593 (BCB).
+MANUFACTURER   Vortran Medical Technology, Inc., Sacramento, California.
+RECALLED BY    Manufacturer, by letters dated June 27 and 30, 1994.  Firm-
+               initiated field correction ongoing.
+DISTRIBUTION   Arkansas, California, Connecticut, Georgia, Indiana,
+               Louisiana, Massachusetts, Michigan, Minnesota, Missouri,
+               Pennsylvania, Rhode Island, Tennessee, Texas, Washington
+               State, Italy, Taiwan.
+QUANTITY       24,840 were distributed. 
+REASON         The nebulizer flow rates are lower than the rates reported
+               on the labeling.
+
+_______________
+PRODUCT        Proof Biological Indicators, for use in monitoring ethylene
+               oxide sterilization procedures:
+               (a) Proof Ethylene Oxide Biological Indicator;
+               (b) Proof Steam Biological Indicator.  Recall #Z-451/452-5.
+CODE           Lot numbers:  (a) PG074A; (b) PS094A.
+MANUFACTURER   American Sterilizer Company, Erie, Pennsylvania.
+RECALLED BY    Manufacturer, by letter January 13, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Minnesota.
+QUANTITY       1 case containing 100 indicators was distributed.
+REASON         The firm was distributing product without 510(k) clearance.
+
+_______________
+PRODUCT        Force GSU Argon Enhanced Electrosurgical Systems:
+               (a) Catalog Number Force GSU-20;
+               (b) Catalog Number Force GSU-22. Recall #Z-459/460-5.
+CODE           All serial numbers.
+MANUFACTURER   Valleylab, Inc., Boulder, Colorado.
+RECALLED BY    Manufacturer, by letter April 21, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       840 units.
+REASON         Certain component failures in the software control system
+               could cause the argon gas flow rate to increase to
+               potentially hazardous levels.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Triad Visible Light Cure (VLC) Denture Base Material Sheets,
+               used to make molds to form dentures:
+               (a) Item 89781 - Regular Pint Unfibered (RPU);
+               (b) Item 9574201 - Light Pink Fibered (LPF)
+               (c) Item 9574202 - Regular Pink Fibered (RPF).
+               Recall #Z-166/168-5.
+                                    -7-CODE           Lot numbers:  (a) 931228B; (b) 931230B; (c) 931231B.
+MANUFACTURER   Dentsply International/York Division, York, Pennsylvania.
+RECALLED BY    Manufacturer, by letter February 25, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       (a) 7 cases (150 units per case); (b) 411 cases (6 units per
+               case); (c) 26 cases (6 units per case) were distributed.
+REASON         Denture base material was not curing properly.
+
+_______________
+PRODUCT        Microtainer brand Tube with EDTA(K2), intended for the
+               collection, transport and processing of skin puncture or
+               capillary blood.  Recall #Z-453-5.
+CODE           Catalog #365974; lot #3M556.
+MANUFACTURER   Becton Dickinson, Vacutainer Systems Micropette, Inc., San
+               Lorenzo, Puerto Rico.
+RECALLED BY    Becton Dickinson Vacutainer Systems, Franklin Lakes, New
+               Jersey, by letter dated August 15, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Arizona, California, Washington State.
+QUANTITY       24,200 units were distributed; firm estimated that 13,400
+               units remained on market at time of recall initiation.
+REASON         Labeling error.  The case cartons were labeled with
+               "Experimental Use Only" label which should have been removed
+               before shipping.
+
+_______________
+PRODUCT        Vacutainer brand Plus Evacuated Blood Collection with
+               Lithium Heparin, used for the collection and transport of
+               venous blood.  Recall #Z-444-5.
+CODE           Catalog #367889, lot #3Q075.
+MANUFACTURER   Becton Dickinson Vacutainer Systems, Plymouth, England.
+RECALLED BY    Becton Dickinson Vacutainer Systems, Franklin Lakes, New
+               Jersey (responsible firm), by letter July 15, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   California, Georgia, Illinois, Maryland, Minnesota, New
+               Jersey, Oklahoma, and Texas.
+QUANTITY       33,600 units were distributed; firm estimates none remains
+               on the market.
+REASON         Shelf cartons were labeled with the incorrect expiration
+               date of September 15, 1994 rather than the correct date of
+               February 15, 1994.  The use of the collection tube after the
+               correct expiration could result in a loss of vacuum which
+               would result in less than expected volume of blood
+               collection and a higher anticoagulant blood ratio.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- Class II
+===========
+_______________
+PRODUCT        Bulk Geno-Phase sold under the brand name 58 LY Supplement,
+               a swine feed medicated with tylosin.  Recall #V-019-5.
+CODE           Lot numbers:  20062 and 20063 manufactured 3/17/94.
+
+                                    -8-MANUFACTURER   NuMac, Inc., Walker, Iowa.
+RECALLED BY    Manufacturer, by telephone March 21, 1994, followed by
+               letter March 28, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Nebraska.
+QUANTITY       2 1-ton batches were distributed.
+REASON         Possible contamination with sulfamethazine due to inadequate
+               clean out procedures.
+
+
+SEIZURES:
+=================================================================
+_______________
+PRODUCT        Nystatin Oral Suspension, USP, and Carbamazepine
+               Suspension, USP (95-741-386).
+CHARGES        Adulterated - The methods used in, and the facilities and
+               controls used for, the articles' manufacture, processing,
+               packing, and holding do not conform to and are not operated
+               and administered in conformity with current good
+               manufacturing practice requirements.
+LOCATION       Xactdose, Inc., South Beloit, Illinois.
+FILED          February 9, 1995; U.S. District Court for the Northern
+               District of Illinois, Western Division; Civ. #95C 50041;
+               FDC #67058.
+SEIZED         February 13, 1995 - goods valued at approximately $294,735.
+
+_______________
+PRODUCT        Canned Mushrooms (95-786-249).
+CHARGES        Adulterated - The article contains an added poisonous and
+               deleterious substance, staphylococcal enterotoxin, which may
+               render it injurious to health; and it has been prepared and
+               packed under conditions whereby it may have been rendered
+               injurious to health.  Misbranded - The article's labeling is
+               false and misleading because it represents and suggests that
+               the article was packed in Hong Kong, which is contrary to
+               fact.
+LOCATION       Asia Foods, Philadelphia, Pennsylvania.
+FILED          January 27, 1995; U.S. District Court for the Eastern
+               District of Pennsylvania; Civ. #95-483; FDC #67056.
+SEIZED         February 3, 1995 - goods valued at approximately $2,128.
+
+                                    -9-
+
+END OF ENFORCEMENT REPORT FOR MARCH 1, 1995.  BLANK PAGES MAY
+FOLLOW.
+
+
+
+                                   ####

@@ -1,0 +1,553 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      32 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+ 
+FDA             
+Enforcement Report 
+The FDA Enforcement Report is published weekly by the Food and 
+Drug Administration, 
+U.S. Public Health Service, Department of Health and Human 
+Services.  It contains information 
+on actions  taken in connection with agency regulatory 
+activities. 
+ 
+ENFORCE
+11/13/1996
+
+ Enforcement Report for 11/13/1996 
+
+
+
+
+November 13, 1996                                      96-46
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II ===========
+_______________
+PRODUCT        Prune juice from concentrate, in 4 ounce
+               plastic single serve containers, under the
+               Fruit Bud and Harvest Value labels.  
+               Recall #F-036-7.
+CODE           All product produced this year.  Cases coded
+               00261 through 24363.
+MANUFACTURER   Quality Kitchen Corporation, Wyoming,
+               Delaware.
+RECALLED BY    Quality Kitchen, Inc., Danbury, Connecticut,
+               by fax on October 10, 1996.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Delaware, Illinois, Maryland, New Jersey, New
+               York, Pennsylvania.
+QUANTITY       Firm estimates little product remains on the
+               market.
+REASON         Product contains lead in excess of the level
+               of concern of 80 ppb (parts per billion).
+
+_______________
+PRODUCT        Candied Chick Peas, in 16 ounce clear plastic
+               bags.  Recall #F-037-7.
+CODE           None.  All misbranded product is under recall.
+MANUFACTURER   Domian Roasting Company, Beirut, Lebanon.
+RECALLED BY    Baroody Imports, Clifton, New Jersey, by
+               notifying customers during its regular
+               distribution schedule.  Firm-initiated recall
+               complete.
+DISTRIBUTION   New Jersey, New York, Pennsylvania,
+               Connecticut, Rhode Island, Massachusetts,
+               Maryland.
+QUANTITY       1,500 pounds were distributed.
+REASON         The product contains undeclared FD&C; Yellow
+               No. 6, FD&C; Blue No. 1, and an unidentified
+               red color.
+
+_______________
+PRODUCT        Bubble Gum Ice Cream, in 3 gallon cardboard
+               boxes.  Recall #F-040-7.
+CODE           All misbranded product.
+MANUFACTURER   Gifford's Dairy, Inc., Skowhegan, Maine.
+RECALLED BY    Manufacturer, by telephone on October 21,
+               1996, followed by visit on October 23, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Maine, Connecticut.
+QUANTITY       Undetermined.
+REASON         The product bears a partial ingredient
+               statement and contains undeclared FD&C; Yellow
+               No. 5.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III ==========
+_______________
+PRODUCT        Citrus Delight Florida Style Orange Beverage,
+               in 64 ounce, 8 ounce, 16 ounce and 1-gallon
+               containers.  Recall #F-038-7.
+CODE           Item #       Size           Exp. Dates
+               56759        8/64 oz    7/29 through 12/18/96  
+               56751        6/8-8 oz   7/29 through 12/18/96 
+               56763        6/1 gal    7/29 through 12/18/96 
+               56755        24/16 oz   7/29 through 12/18/96
+               56749        48/8 oz    7/29 through 12/18/96
+               56760-24     24/8 oz    7/29 through 12/18/96
+               56755-12     12/16 oz   7/29 through 12/18/96.
+MANUFACTURER   Heritage Family Specialty Foods, Inc.,      
+               Grand Prairie, Texas.
+RECALLED BY    Manufacturer, by letter on July 15, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Texas, Oklahoma, Mississippi, Louisiana,
+               Kansas, Illinois, Missouri, Georgia.
+QUANTITY       Product shipped from January 4, 1996 to 
+               July 5, 1996:
+               Size         Total Cases  
+               8 / 64 oz        18546.5
+               6 /8-8 oz         1093
+               6 /  1 gal        1666
+               24 / 16 oz           14
+                             -2-               12 / 16 oz          110
+               48 /  8 oz           28.5.
+ REASON        Product contains less than the labeled 100%
+               RDA Vitamin C.
+
+_______________
+PRODUCT        Swordfish Loins, no label, wrapped in plastic
+               and butcher paper.  Recall #F-039-7.
+CODE           None.
+MANUFACTURER   Tropic Fish & Vegetable Center, Inc.,
+               Honolulu, Hawaii.
+RECALLED BY    Manufacturer, by telephone September 25, 1996,
+               followed by letter September 27, 1996.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Hawaii.
+QUANTITY       76.6 pounds were distributed.
+REASON         Product is decomposed.
+
+_______________
+PRODUCT        Frisch's brand Tarter Sauce packaged in 16
+               fluid ounce retail glass jars.  
+               Recall #F-041-7.
+CODE           FEB-12-97 and FEB-13-97.
+MANUFACTURER   Food Specialties Company, Cincinnati, Ohio.
+RECALLED BY    Manufacturer, by telephone on September 30,
+               1996, followed by visit.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,722 cases (12 jars per case) were
+               distributed; firm estimates none remains on
+               the market.
+REASON         Product is contaminated with mold and/or
+               yeast.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II =======
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Single
+               Donor Plasma; (d) Recovered Plasma; (e) Red
+               Blood Cells for further manufacture.
+               Recall #B-041/045-7.
+CODE           Unit numbers: (a-c) 53Y44151; (d&e;) 53R31414.
+MANUFACTURER   American Red Cross Blood Services, Baltimore,
+               Maryland.
+RECALLED BY    Manufacturer, by letter dated February 19,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Maryland, New Jersey, California, District of
+               Columbia.
+QUANTITY       2 units were distributed.
+
+                             -3-REASON         Blood products were collected from a donor who
+               reported a history of testing positive for
+               antibody to the human immunodeficiency virus
+               type 1 (anti-HIV-1).
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Fresh
+               Frozen Plasma; (d) Recovered Plasma; (e)
+               Platelets, for further manufacture.
+               Recall #B-051/055-7.
+CODE           Unit numbers: (a) 9200590, 9201468, 9302776,
+               9304340, 9316793, 9416652, 9422240, 9427415,
+               9508380, 9506839, 9505867, 9215295, 9216574,
+               9526768; (b) 9200590, 9201468, 9302776,
+               9304340, 9316793, 9416652, 9422240, 9427415,
+               9508380, 9506839, 9505867, 9526768; 
+               (c) 9216574, 9427415, 9508380, 9505867; 
+               (d) 9200590, 9201468, 9215295, 9302776,
+               9304340, 9316793, 9416652, 9422240, 9506839,
+               9526768; (e) 9215295, 9216574.
+MANUFACTURER   Lorain County Blood Bank, Elyria, Ohio.
+RECALLED BY    Manufacturer, by letter dated December 22,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   Ohio, Florida.
+QUANTITY       (a) 14 units; (b) 12 units; (c) 4 units; (d)
+               10 units; (e) 2 units were distributed.
+REASON         Blood products tested negative for antibody to
+               the human immunodeficiency virus type 1 (anti-
+               HIV-1), but were collected from a donor who
+               previously tested repeatedly reactive for
+               anti-HIV-1 Western blot negative.
+
+_______________
+PRODUCT        Platelets.  Recall #B-056-7.
+CODE           Unit #1604434.
+MANUFACTURER   Evans Army Community Hospital Blood Bank, Fort
+               Carson, Colorado.
+RECALLED BY    Manufacturer, by telephone on September 29,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   Colorado.
+QUANTITY       1 unit was distributed.
+REASON         Blood product tested repeatedly reactive for
+               antibody to the hepatitis B core antigen
+               (anti-HBc).
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III ======
+_______________
+PRODUCT        Platelets, Pheresis.  Recall #B-031-7.
+CODE           Unit #00 06383.
+MANUFACTURER   Community Blood Center, Inc., Appleton,
+               Wisconsin.
+
+                             -4-RECALLED BY    Manufacturer, by letter dated June 2, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was collected from a donor who
+               provided incomplete medical history.
+
+_______________
+PRODUCT        (a) Red Blood Cells: (b) Platelets; (c) Fresh
+               Frozen Plasma; (d) Cryoprecipitated AHF; (e)
+               Plasma, Cryo-Poor.  Recall #B-036/040-7.
+CODE           Unit numbers:  KC42660, KC42826, KC43177,
+               KC43377, KC43696, KC43950, KC44181, KC44348,
+               KC44514, KC44694, KC44852.
+MANUFACTURER   Virginia Blood Services, Richmond, Virginia.
+RECALLED BY    Manufacturer, by letter dated May 29, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Virginia, Maryland, Illinois.
+QUANTITY       (a) 11 units; (b) 9 units; (c) 9 units; (d) 2
+               units; (e) 2 units.
+REASON         Blood products, collected from a donor with
+               hemochromatosis, were distributed for
+               allogeneic transfusion.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma. 
+               Recall #B-046/047-7.
+CODE           Unit #96 1092.
+MANUFACTURER   Merced County Blood Bank, Merced, California.
+RECALLED BY    Manufacturer, by letter dated July 18, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   California and New York.
+QUANTITY       1 unit of each component.
+REASON         Blood products were incorrectly tested for the
+               antibody to the human T-lymphotropic virus
+               type 1 (anti-HTLV-1).
+
+_______________
+PRODUCT        Platelets.  Recall #B-050-7.
+CODE           Unit #5002383.
+MANUFACTURER   Lorain County Blood Bank, Elyria, Ohio.
+RECALLED BY    Manufacturer, by telephone on April 15, 1996,
+               followed by letter dated April 29, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY       1 unit.
+REASON         Blood product, which tested reactive for
+               syphilis by RPR, FTA negative, was distributed
+               prior to testing.
+
+
+                             -5-RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II =========
+_______________
+PRODUCT        Clamping Adaptor, GammaMed 121 High Dose Rate
+               Afterloader, used with a bronchial catheter. 
+               Recall #Z-059-7.
+CODE           Part #931012.
+MANUFACTURER   Isotopen-Technic Dr. Sauerwein GMBH, Haan,
+               Germany.
+RECALLED BY    Frank Barker Associates, Inc., Towaco, New
+               Jersey, by letter dated August 18, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       62 units were distributed.
+REASON         The clamping adaptor does not allow the
+               iridium-192 sealed source to return to its
+               fully shielded position if the catheter
+               becomes disconnected.
+
+_______________
+PRODUCT        (a) Peri-Guard Pericardium 
+               (b) Supple Peri-Guard Pericardium.  Products
+               are prepared from bovine pericardium and are
+               patches used primarily for pericardial closure
+               and hernia repair.
+               (c) Peri-Strips Staple Line Reinforcement,
+               intended for use as a prosthesis for the
+               surgical repair of soft tissue deficiencies
+               using linear cutter surgical staplers.
+               Recall #Z-061/063-7.
+CODE           All lots.  
+MANUFACTURER   Bio-Vascular, Inc., St. Paul, Minnesota.
+RECALLED BY    Manufacturer, through meetings and telephone
+               conference calls during the period from
+               approximately January 1996 to April 1996, and
+               by notification sent on September 23, 1996;
+               and by sending revision of indications for use
+               to customers who received the product.  No
+               product was returned.  Firm-initiated field
+               correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 1,783 units; (b) 832 units; (c) 166 units
+               were distributed.
+REASON         Devices have caused or contributed to
+               infections and/or foreign body reactions when
+               used as transvaginal urethral sling implants
+               for incontinence, as labeled.
+
+_______________
+PRODUCT        Torcon NB Advantage Selective Angiographic
+               Catheters:
+               (a) Torcon NB Advantage Angiographic Catheter
+               H1 Headhunter Cerebral with Beacon Enhanced
+               Radiopaque Tip, French Size 4.1, Product
+               HNBR4.1-35-100-P-NS-H1;
+
+                             -6-               (b) Torcon NB Advantage Angiographic Catheter
+               H1 Headhunter Cerebral with Beacon Enhanced
+               Radiopaque Tip, French Size 5.0, Product
+               HNBR5.0-38-100-P-NS-H1;
+               (c) Torcon NB Advantage Angiographic Catheter
+               H1 Headhunter Cerebral with Beacon Enhanced
+               Radiopaque Tip, French Size 6.0, Product
+               HNBR6.0-38-100-P-NS-H1;
+               (d) Torcon NB Advantage Angiographic Catheter
+               H1 Headhunter Cerebral with Beacon Enhanced
+               Radiopaque Tip, French Size 7.0, Product
+               HNBR6.0-35-100-P-NS-H1;
+               (e) Judkins Coronary Catheter Set, Reorder No.
+               JCS-502;
+               (f) Judkins Coronary Catheter Set with Check
+               Flo Performer Introducer Set, Reorder No.
+               JCS-600-MM-090695;
+               (g) Judkins Coronary Catheter Set, Reorder No.
+               JCS-601-MM-072795;
+               (h) Judkins Coronary Catheter Set with
+               Micropuncture Check-Flo Performer Introducer
+               Set, Reorder No. JCS-600-SA-090695;
+               (i) Marx-Cope Pediatric Gastrojejunostomy Set,
+               Reorder No. GJS-1400-MCGJ;
+               (j) Gastrojejunostomy Set, Reorder No.
+               GJS-1400-HIETTE-022895;
+               (k) Gastrojejunostomy Set, Reorder No.
+               GJS-1400-HIETTE-072795;
+               (l) D'agostino Access Set, Reorder No.
+               NPAS-100-D'AGOSTINO-A-050393;
+               (m) Colapinto Transjugular
+               Cholangiography/Liver Biopsy Set, Reorder No.
+               TJC-101-UPSTATE-092094;
+               (n) Mewissen Transfemoral Liver Biopsy Set,
+               Reorder No. TLBS-100-MWSN.
+               Recall #Z-064/077-7.
+CODE           All lots.
+MANUFACTURER   Cook, Inc., Bloomington, Indiana.
+RECALLED BY    Manufacturer, by letter dated September 24,
+               1996.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       207,288 units were distributed.
+REASON         There has been an increased frequency of
+               catheter tip separation.
+
+_______________
+PRODUCT        Coeur bulk non-sterile 10 cc Angiographic
+               Injection Syringes, Model #PCA-10, Part
+               #C305-1035, 100 units/carton.
+               Recall #Z-088-7.
+CODE           Lot #50196802.
+
+                             -7-MANUFACTURER   Coeur Laboratories, Inc., Raleigh, North
+               Carolina.
+RECALLED BY    Manufacturer, by letter dated July 25, 1996. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   International.
+QUANTITY       2,000 units were distributed.
+REASON         Handheld syringes leaked air into the syringe
+               during aspiration, which may result in
+               patients being subjected to air emboli during
+               administration.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III ========
+_______________
+PRODUCT        Guglielmi Detachable Coil (GDC), used to treat
+               aneurysms.  Recall #Z-078-7.
+CODE           All codes.
+MANUFACTURER   Target Therapeutics, Inc., Fremont,
+               California.
+RECALLED BY    Manufacturer, by implementing a corrective
+               action plan on July 27, 1996.  Firm-initiated
+               field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       31,200 units were distributed.
+REASON         Markers were made of stainless steel rather
+               than platinum that resulted in reduced
+               fluoroscope visibility.
+
+_______________
+PRODUCT        Cordis brand PTA Balloon Catheter, "Powerflex"
+               used for percutaneous transluminal angioplasty
+               procedures:
+               (a) Catalog No. 411-544T 
+               (b) Catalog No. 411-552T 
+               (c) Catalog No. 411-554T
+               (d) Catalog No. 411-562T
+               (e) Catalog No. 411-564T
+               (f) Catalog No. 411-572T
+               (g) Catalog No. 411-574T
+               (h) Catalog No. 411-582T
+               (i) Catalog No. 411-584T.  
+               Recall #Z-079/087-7.
+ CODE          Lot numbers:  (a) S0196359
+               (b) R0396987, S0196448, S0196449, S0196450,
+               S0196618
+               (c) R0596272, S0496555, S0496757
+               (d) R0496487, S0196451, S0196549, S0396130,
+               S0496286, S0596258
+               (e) R0496656, R0596892, S0196554, S0396369,
+               S0496623, S0596589
+               (f) R0296133, R0396721, R0496939, S0396440,
+               W0196113
+
+                             -8-               (g) R0296327, R0396719, R0496377, R0696682,
+               S0596430, S0596718, S0596983, W0196089,
+               W0696202
+               (h) R0296282, S0296115
+               (i) R0296332, R0396472, R0396437, R0696229,
+               R0696427, R0696727, R0896371, S0196997,
+               S0596100, S0796451, S0796927.
+MANUFACTURER   Cordis Europa, Roden, Netherlands.
+RECALLED BY    Cordis Corporation, Miami Lakes, Florida, by
+               visit beginning on September 20, 1996 and
+               completed on October 4, 1996.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       512 catheters were distributed.
+REASON         The instructions for use contained the wrong
+               psi pressure readings. 
+
+
+MEDICAL DEVICE SAFETY ALERTS ================================
+_______________
+PRODUCT        Atrial Bipolar Pacing Leads:
+               (a) Model No. 4504 Capsure, Bipolar,
+               Implantable, Tined, Atrial Transvenous Lead
+               (b) Model No. 4504M Capsure, Steroid Eluting,
+               Bipolar, Implantable, Atrial Transvenous Lead
+               (c) Model No. 4582 Bipolar Atrial Pacemaker
+               Lead.  Safety Alert #N-001/003-7.
+CODE           All serial numbers.
+MANUFACTURER   Medtronic Puerto Rico, Villalba, Puerto Rico.
+ALERTED BY     Medtronic, Inc., Minneapolis, Minnesota, by
+               letter October 4, 1996.  
+DISTRIBUTION   Nationwide and international.
+QUANTITY       26,806 leads were distributed.
+REASON         The devices may fail sooner than expected due
+               to insulation degradation (metal induced
+               oxidation (MIO), causing intermittent over-
+               and undersensing and possible intermittent
+               loss of capture.
+
+
+                             -9-
+
+END OF ENFORCEMENT REPORT FOR NOVEMBER 13, 1996.  BLANK PAGES MAY
+FOLLOW.
+
+                                   ####

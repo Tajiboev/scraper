@@ -1,0 +1,736 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      35 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+03/13/1996
+
+ ENFORCEMENT REPORT FOR 03/13/96 
+
+
+March 13, 1996                                      96-11
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I ============
+_______________
+PRODUCT        Nature Valley Oats 'N Honey Crunchy Granola
+               Bars, in 10 ounce boxes.  Recall #F-325-6.
+CODE           Lot numbers:  E509C2, E509C1 and E509C3.
+MANUFACTURER   Coosa Baking Company Rome, Georgia.
+RECALLED BY    General Mills, Inc., Minneapolis, Minnesota,
+               by letter and by press release on January 20,
+               1996.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 10,000 cases (12 boxes per case)
+               were distributed.
+REASON         Product contains undeclared peanuts or peanut
+               products.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III ==========
+_______________
+PRODUCT        Contadina Tomato Paste:
+               (a) 12 oz. Contadina Tomato Paste (48/12 oz.
+               or 24/12 oz. case packs);
+               (b) 18 oz. Contadina Tomato Paste (24/18 oz.
+               case packs);
+               (c) 6 oz. Contadina Italian Tomato Paste (24/6
+               oz. case packs);
+               (d) 6 oz. Contadina Tomato Paste (48/6 oz. or
+               96/6 oz. case packs).  Recall #F-319/322-6.
+CODE           (a) Product Code: 50000-04416 (Note: 24/12 oz
+               case is labeled 50000-04406 on the case but is
+               labeled 50000-04416 on the can), Mfg Code on
+               can end (first five digits):
+               AF127   AF226   AG201   AG202   AG204  AG205 
+               AG208   WG202*  WG205*  WG206*  WG212*  WG213*
+               WG214*  WG215*  WG216*  WG217*  WG218*  WG219*
+               WG220*  WG221*  WG222*  WG223*  WG224*  WG225
+               WG227   WH214   WH224   WH226   WH228   WH229
+               WH230   WH231   WJ206   WJ218   WJ219.  
+               (b) Product Code 50000-04436 (24/18 oz. Case
+               Pack) Mfg Code on can end first 5 digits:
+               WG204*   WG219*   WG226   WJ204    WG213* 
+               WG220*   WG227    WJ205   WG214*   WG221*
+               WG228    WJ206    WG215*  WG222*   WG229 
+               WJ207    WG216*   WG223*  WG230    WJ208
+               WG217*   WG224*   WH203   WG218*   WG225  
+               WJ202
+               (c) Product Code 50000-04456 (24/6 oz. Case
+               Pack) Mfg Code on can end first 5 digits:
+               WG206*   WG219*   WG208*  WG220*  WG209*
+               WG221*   WG211*   WG222*  WG214*  WG223*
+               WG217*   WG230    WG218*  WG231 
+               (d) Product Code 50000-04106 (48/6 oz. or 96/6
+               oz. Case Packs) (Note: 48/6 oz case is labeled
+               50000-04206 on the case, but is labeled
+               50000-04106 on the can ).  Mfg. Code on can
+               end first 5 digits:
+               AG214    AH229   WG225    WH211     WJ201
+               AG216    AH231   WG226    WH212     WJ202
+               AG217    AJ102   WG227    WH213     WJ203
+               AG218    AJ201   WG228    WH214     WJ204
+               AG219    AJ202   WG229    WH215     WJ205
+               AG223    AJ203   WG22F    WH216     WJ206
+               AG224    AJ204   WG230    WH218     WJ207
+               AH201    AJ205   WH201    WH219     WJ208
+               AH202    AJ209   WH202    WH220     WJ209
+               AH206    AJ211   WH203    WH225     WJ211
+               AH207    WG202*  WH204    WH226     WJ212
+               AH214    WG203*  WH205    WH227     WJ213
+               AH215    WG204*  WH206    WH228     AH216
+               WG209*   WH207   WH229    AH221     WG222*
+               WH208    WH230   AH222    WG224*    WH210
+               WH231   (Note:  All astrisked codes are 22%
+               solids deficient, balance are cans with
+               can/product compatibility deficiencies.)
+MANUFACTURER   Nestle Food Company, Woodland, California and
+               Modesto, California.
+RECALLED BY    Nestle Food Company, Inc., Glendale,
+               California, by letter or fax on or about
+               August 19, 1995.  Firm-initiated recall
+               complete.
+
+                             -2-DISTRIBUTION   Massachusetts, California, Tennessee, Florida,
+               New York.
+QUANTITY       833,000 cases were distributed.
+REASON         The products are contained in exploding cans
+               and fail to meet the standard of identity for
+               tomato paste.
+
+_______________
+PRODUCT        Hy-Point Farms brand of Papaya Punch, in 10
+               fluid ounce bottles.  Recall #F-323-6.
+CODE           All codes. 
+MANUFACTURER   Mayer Brothers Apple Products, Barker, New
+               York.
+RECALLED BY    Mayer Brothers Apple Products, West Seneca,
+               New York, by telephone followed by letter
+               dated January 11, 1996 and visit.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Delaware, Maryland, New Jersey, Pennsylvania.
+QUANTITY       90 cases (24 bottles per case) were
+               distributed .
+REASON         Product contains undeclared FD&C; Red #40.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II =======
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma. 
+               Recall #B-260/261-6.
+CODE           Unit #1216591.
+MANUFACTURER   Carter Blood Center, Fort Worth, Texas.
+RECALLED BY    Manufacturer, by letter dated December 7,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   Texas and California.
+QUANTITY       1 unit of each component.
+REASON         Blood products, collected from a donor who had
+               an accidental mucous membrane exposure to
+               blood, were distributed.
+
+_______________
+PRODUCT        Platelets.  Recall #B-265-6.
+CODE           Unit #11312-5721.
+MANUFACTURER   Blood Systems, Inc., Scottsdale, Arizona.
+RECALLED BY    Manufacturer, by telephone on October 25,
+               1995, followed by letter on October 31, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       1 unit. 
+REASON         Blood product, containing anti-D(Rho)
+               antibodies, but labeled as negative for
+               unexpected antibodies, was distributed.
+
+                             -3-_______________
+PRODUCT        Alphanater brand Antihemophilic Factor
+               (Human), Factor VIII, in 10 ml vials.  
+               Recall #B-266-6.
+CODE           Lot #AP5014A EXP 5/97.
+MANUFACTURER   Alpha Therapeutic Corporation, Los Angeles,
+               California.
+RECALLED BY    Manufacturer, by letters sent on November 9,
+               1995 and December 28, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+  QUANTITY     2,943 vials were distributed.
+REASON         Factor VIII, product may have been adulterated
+               in that it may contain Hepatitis A virus
+               (HAV), were distributed.
+
+_______________
+PRODUCT        Source Plasma.  Recall #B-267-6.
+CODE           Unit #46219299, 42930099, 42933434, 42935483,
+               44200718.
+MANUFACTURER   Sera-Tec Biologicals, Harrisburg,
+               Pennsylvania.
+RECALLED BY    Manufacturer, by letter dated December 15,
+               1994.  Firm-initiated recall complete
+DISTRIBUTION   California, Germany.
+QUANTITY       5 units.
+REASON         Blood products, collected from donors at
+               increased risk for hepatitis or previously
+               deferred for epilepsy, were distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-279-6.
+CODE           Unit #KC40287.
+MANUFACTURER   Virginia Blood Services, Richmond, Virginia.
+RECALLED BY    Manufacturer, by telephone on or about
+               December 4, 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Virginia.
+QUANTITY       1 unit.
+REASON         Blood product, collected from a donor who had
+               traveled to an area designated as endemic for
+               malaria, was distributed.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-287-6.
+CODE           Unit #W32454.
+MANUFACTURER   Central California Blood Center, Fresno,
+               California.
+RECALLED BY    Manufacturer, by fax on or about September 29,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   California.
+QUANTITY       1 unit.
+                             -4-
+REASON         Blood product, which was not tested for any
+               required viral markers, was distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Fresh Frozen Plasma. 
+               Recall #B-288/289-6.
+CODE           Unit #11311-8236.
+MANUFACTURER   Blood Systems, doing business as United Blood
+               Services, Scottsdale, Arizona.
+RECALLED BY    Manufacturer, by letter dated December 18,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   New Mexico, Texas.
+QUANTITY       1 unit of each component.
+REASON         Blood products, which were collected from a
+               donor with a history of hepatitis, was
+               distributed.
+
+_______________
+PRODUCT        Platelets, Pheresis.  Recall #B-291-6.
+CODE           Unit numbers:  KZ20851-1 and KZ20851-2.
+MANUFACTURER   Virginia Blood Services, Richmond, Virginia.
+RECALLED BY    Manufacturer, by telephone May 26, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Maryland.
+QUANTITY       2 units.
+REASON         Blood products labeled with an extended
+               expiration date were distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-292-6.
+CODE           Unit #KE45526.
+MANUFACTURER   Virginia Blood Services, Richmond, Virginia.
+RECALLED BY    Manufacturer, by telephone on or about
+               December 28, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Virginia.
+QUANTITY       1 unit.
+REASON         Blood product, collected from a donor who
+               traveled in an area designated as endemic for
+               malaria, was distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets.  
+               Recall #B-295/296-6.
+CODE           Unit #KN26870.
+MANUFACTURER   Virginia Blood Services, Richmond, Virginia.
+RECALLED BY    Manufacturer, by telephone on or about May 30,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   Virginia.
+QUANTITY       1 unit of each component.
+
+                             -5-REASON         Blood products, collected from a donor whose
+               health history screening was inadequately
+               performed, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets.  
+               Recall #B-297/298-6.
+CODE           Unit #KH55934.
+MANUFACTURER   Virginia Blood Services, Richmond, Virginia.
+RECALLED BY    Manufacturer, by telephone on or about March
+               3, 1995.  Firm-initiated recall complete.
+DISTRIBUTION   Virginia.
+QUANTITY       1 unit of each component.
+REASON         Blood products, collected from a donor whose
+               medical history screening was inadequately
+               performed, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III ======
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-244-6.
+CODE           Unit numbers:  709-4956, 709-4957, 709-4959,
+               709-4960, 709-4961, 709-4962, 709-4963, 709-
+               4964, 709-4965, 709-4967, 709-4968.
+MANUFACTURER   Sheppard Air Force Base, Sheppard AFB, Texas.
+RECALLED BY    Manufacturer, by telephone on August 21, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   California.
+QUANTITY       11 units.
+REASON         Blood products, which were not tested for the
+               antibody to the human immunodeficiency virus
+               types 1 and 2 (anti-HIV-1/2), or the hepatitis
+               B surface antigen (HBsAg), were distributed.
+
+_______________
+PRODUCT        Platelets.  Recall #B-258-6.
+CODE           Unit #29GC18764.
+MANUFACTURER   American Red Cross Blood Services, Norfolk,
+               Virginia.
+RECALLED BY    Manufacturer, by letter sent on or about
+               August 31, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   California.
+QUANTITY       1 unit.
+REASON         Blood product labeled with an extended
+               expiration date was distributed.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-259-6.
+CODE           Unit #39KG28234.
+MANUFACTURER   American Red Cross Blood Services, Huntington,
+               West Virginia.
+
+                             -6-RECALLED BY    Manufacturer, by letter on April 12, 1994. 
+               Firm-initiated recall complete.
+DISTRIBUTION   California.
+QUANTITY       1 unit.
+REASON         Blood product, corresponding to a unit of Red
+               Blood Cells contaminated with Staphylococcus
+               capitis, was distributed.
+
+_______________
+PRODUCT        Source Plasma.  Recall #B-268-6.
+CODE           Unit numbers:  G-55818-60, 34469439, 35841043,
+               35843917, 41404638, 41405819, 41408513,
+               41409688, 41352007, 43360376, 43363254,
+               43364435, 43368495, 42939306, 43020454,
+               44591588, 44597610.
+MANUFACTURER   Sera-Tec Biologicals, Harrisburg,
+               Pennsylvania.
+RECALLED BY    Manufacturer, by letter dated December 15,
+               1994.  Firm-initiated recall complete
+DISTRIBUTION   California, Germany.
+QUANTITY       17 units. 
+REASON         Blood products, collected from donors at
+               increased risk for hepatitis or previously
+               deferred for epilepsy, were collected.
+
+_______________
+PRODUCT        Whole Blood.  Recall #B-285-6.
+CODE           Unit #35L07504.
+MANUFACTURER   American Red Cross Blood Services, Roanoke,
+               Virginia.
+RECALLED BY    Manufacturer, by letter dated August 22, 1994. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Virginia.
+QUANTITY       1 unit.
+REASON         Autologous blood product, which tested
+               reactive for syphilis by Rapid Plasma Reagin
+               (RPR), was distributed without a biohazard
+               label.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-286-6.
+CODE           Unit numbers:  KP37942, KP37946, KP37926,
+               KQ21616, KQ21655, KQ21678, KQ21631, KH66291,
+               KC43001, KE50685, KE50673.
+MANUFACTURER   Virginia Blood Services, Richmond, Virginia.
+RECALLED BY    Manufacturer, by telephone on or about
+               December 25, 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Virginia.
+QUANTITY       11 units.
+
+                             -7-REASON         Red Blood Cells, collected in AS-1,
+               anticoagulant/preservative solution, were
+               labeled as CPD Red Blood Cells, and
+               distributed.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-290-6.
+CODE           Unit #04E69935.
+MANUFACTURER   American Red Cross, Dedham, Massachusetts.
+RECALLED BY    Manufacturer, by telephone February 16, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   California.
+QUANTITY       1 unit.
+REASON         Blood product untested for syphilis was
+               distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II ========
+_______________
+PRODUCT        Air Shields Model 9240 Athena ECG/RESP
+               Neonatal Module, Part numbers SW551533 and
+               862400.  Recall #Z-484-6.
+CODE           All sold prior to January 1995 with software
+               version V01.11.  Serial numbers:  10282400,
+               10282403, 10282407, 10282412, 10282413,
+               10282415, 10282416, 10282418, 10282423,
+               10282425, 10283392, 10283398, 10283403,
+               10283410, 10283414, 10283423, 10283424,
+               10283425, 10283426, 10283430, 10284968,
+               10284973, 10284974, 10284975, 10284978,
+               10284979, 10284982, 10284985, 10284986,
+               10284987, 10284990, 10284991, 10284993,
+               10284994, 10284997, 10523750, 10523751,
+               10523752, 10523753, 10523755, 10523756,
+               10523757, 10523758, 10523760, 10523763,
+               10523764, 10523765, 10523768, 10523769,
+               10523771, 10523772, 10284999, 10285000,
+               10285003, 10285006, 10285007, 10285012,
+               10285014, 10285015, 10285017, 10285018,
+               10285027, 10285346, 10285349, 10286230,
+               10286232, 10286236, 10286239, 10286241,
+               10286244, 10286245, 10286247, 10286253,
+               10286254, 10286255, 10286256, 10286257,
+               10286258, 10286260, 10286261, 10286263,
+               10286265, 10286266, 10286267, 10288575,
+               10289420, 10523773, 10535020, 10535023,
+               10535025, 10535027, 10549165, 10549166,
+               10549168, 10549169, 10549170, 10549178,
+               10549180, 10549181, 10549186, 10549571,
+               10549574, 10294428, 10294430, 10294431,
+               10294436, 10294444, 10294445, 10294446, 
+
+                             -8-               10294457, 10294460, 10297310, 10297312,
+               10297313, 10297476, 10297477, 10297478,
+               10297480, 10297482, 10297484, 10297485,
+               10298615, 10298628, 10298630, 10298633,
+               10298636, 10298639, 10298640, 10298642,
+               10298643, 10298644, 10298645, 10300178,
+               10300180, 10300181, 10300183, 10300184,
+               10549580, 10549584, 10559619, 10564976,
+               10564978, 10565008, 10565009, 10565012,
+               10565014, 10565015, 10565038, 10565039,
+               10565040, 10565041, 10565042, 10565043,
+               10300187, 10301768, 10301769, 10301770, 
+               10301772, 10301774, 10301829, 10301830,
+               10301946, 10303436, 10303528, 10303531, 
+               10303533, 10303534, 10303535, 10303921,
+               10303922, 10303923, 10303928, 10303929,
+               10303931, 10303936, 10303938, 10304175,
+               10304188, 10304191, 10306433, 10306445,
+               10306447, 10306448, 10306449, 10306450,
+               10306452, 10306456, 10306458, 10565045,
+               10565046, 10565047, 10567240, 10569384,
+               10569417, 10569431, 10569432, 10569435,
+               10569436, 10588073, 10596284, 10596616,
+               10596622, 10596623, 10596625, 10306462,
+               10307299, 10307302, 10307303, 10307304,
+               10307305, 10307309, 10307311, 10309172,
+               10309300, 10309301, 10459486, 10459521,
+               10459522, 10459525, 10459526, 10459528,
+               10459530, 10459531, 10459536, 10459539,
+               10460230, 10460232, 10460233, 10460234,
+               10460238, 10460241, 10460242, 10460252,
+               10460508, 10460512, 10460517, 10460519,
+               10468164, 10509846, 10596627, 10596628,
+               10596629, 10610654, 10610658, 10610659,
+               10610664, 10610665, 10610666, 10610762,
+               10610764, 10610765, 10610772, 10610773,
+               10610777, 10610778. 
+MANUFACTURER   Air Shields, Hatboro, Pennsylvania.
+RECALLED BY    Manufacturer, by letter dated November 3,
+               1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       255 units.
+REASON         This model failed to alarm when one of the
+               alarm limits had been exceeded.  Investigation
+               of this failure revealed the fault was caused
+               by a combination of an intermittent, premature
+               failure of a component on the processor PCB of
+               the ECG/RESP module, and the user's failure to
+               follow the recommended start-up procedures for
+               the ECG/RESP module as outlined in the
+               operator's manual.
+
+                             -9-_______________
+PRODUCT        Part A Renasol Acid Concentrate SB-1019,
+               hemodialysis concentrate, in 3.43 liter
+               bottles.  Recall #Z-491-6.
+CODE           11F502 and 59A615.
+MANUFACTURER   Minntech Corporation, Plymouth, Minnesota.
+RECALLED BY    Manufacturer, by telephone on February 2,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Massachusetts, Mississippi, Tennessee,
+               Wisconsin.
+QUANTITY       839 cases (4 bottles per case) were
+               distributed.
+ REASON        Some bottles of Part A Renasol Acid
+               Concentrate SB-1019 are incorrectly labeled as
+               SB-1005.  The labeled concentrations of the
+               calcium, potassium, and chloride contained
+               within the concentrate and dialysate are
+               incorrect.
+
+_______________
+PRODUCT        CardioGenesis TMR System Model 600 Ho:YAG
+               Laser, used in cardiovascular surgery.  
+               Recall #Z-493-6.
+CODE           Model 600 Ho:YAG Laser.
+MANUFACTURER   CardioGenesis Corporation, Santa Clara,
+               California.
+RECALLED BY    Manufacturer.  FDA approved the firm's
+               corrective action plan March 1, 1996.  Firm-
+               initiated field correction complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       6 units.
+REASON         The device failed to comply with 21 CFR
+               1040.10(f)(5)(ii) in that under certain
+               circumstances the emission indicator would not
+               be illuminated although the laser could emit a
+               beam if the footswitch were depressed.
+
+_______________
+PRODUCT        Sonoline Versa Pro Diagnostic Ultrasound
+               Imaging Systems with software version 3.2.000. 
+               Recall #Z-494-6.
+CODE           All units with software version 3.2.000.
+MANUFACTURER   Siemens Medical Systems, Inc., Issaquah,
+               Washington.
+RECALLED BY    Manufacturer, by letter dated December 8,
+               1995.  Firm-initiated field correction
+               ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       46 units were distributed.
+REASON         A software design error may lead to
+               misdiagnosis resulting in unnecessary invasive
+               procedures.
+
+                            -10-_______________
+PRODUCT        Reusable Physiological Pressure Transducers,
+               Model P23XL MAR/2.  Recall #Z-498-6.
+CODE           Unit numbers:  
+               10744531  10744532  10744533  10744537
+               10744538  10744540  10744545  10744546 
+               10744549  10744552  10744553  10744554 
+               10744555  10744556  10744558 10744559 
+               10744560  10744561  10744562  10744563
+               10744564  10744565  10744566  10744567
+               10744568  10744569  10744570  10744571 
+               10744729  10744747  10744967  10744969 
+               10744970  10744975  10744979  10744985
+               10744987  10744995  10744998  10745000
+               10745449  10745453  10745454  10745465
+               10745473  10745479  10745482  10745483
+               10745493  10745494  10745501  10745502
+               10745548  10745553  10745557  10745567
+               10745569  10745576  10745579  10745583
+               10745680  10745683  10745698  10745707
+               10745752  10745780  10745781  10745785
+               10745792  10745800  10748566  10748568 
+               10748570  10748571  10748573  10748575
+               10748582  10748584  10748590  10748595 
+               10748598  10748601.
+MANUFACTURER   Ventrex, Inc., Ventura, California.
+RECALLED BY    Ohmeda Medical, Inc., Madison, Wisconsin, by
+               letter dated December 22, 1995.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Wisconsin, Texas, Georgia.
+QUANTITY       88 units.
+REASON         Transducers were unable to obtain pressure
+               readings.  This was found to be the result of
+               a missing jumper wire between pins 4 and 10 in
+               the device connector which plugs into a
+               monitor.  Without this wire, the Reusable
+               Physiological Pressure Transducers will not
+               feed data to the monitor and the monitor will
+               not acknowledge that the transducer is plugged
+               in at all.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III ========
+_______________
+PRODUCT        Model 437-2 "L" Hex Wrench, used to adjust set
+               screws in pulse generator connector assembly. 
+               Recall #Z-482-6.
+CODE           Lot #J144912.
+MANUFACTURER   Pacesetter, Inc., Sylmar, California.
+RECALLED BY    Manufacturer, by telephone on December 12,
+               1995, and by fax on December 11, 1995.  Firm-
+               initiated recall ongoing.
+
+                            -11-DISTRIBUTION   Arkansas, California, Georgia, Illinois, New
+               York, Ohio, Pennsylvania, South Carolina,
+               Texas, Utah, Virginia, Wisconsin, Japan.
+QUANTITY       108 units were distributed.
+REASON         Product is not correctly labeled, package is
+               labeled as containing size No. 2 wrench, but
+               contains size No. 4 wrench.
+
+_______________
+PRODUCT        Dade Alcohol and Ammonia Controls, in-vitro
+               diagnostic reagent intended to assist in the
+               control of precision and accuracy for the
+               determination of alcohol and/or ammonia in
+               serum or plasma.  Recall #Z-496-6.
+CODE           Catalog #B5118, Lot #PAC-37 EXP 6/9/96.
+MANUFACTURER   Dade International, Inc., Miami, Florida.
+RECALLED BY    Manufacturer, by letter dated December 1995,
+               sent on or about December 11, 1995.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       11,515 kits were distributed.
+REASON         Incorrect assay value ranges were stated in
+               the product insert.
+
+_______________
+PRODUCT        Multi-Analyte Calibrator (MAC), for use in the
+               aca Discrete Clinical Analyzer.  
+               Recall #Z-497-6.
+CODE           Catalog #791080901, Lot #M9503.
+MANUFACTURER   Dupont Medical Products, Glascow, Delaware.
+RECALLED BY    Manufacturer, by letter February 6, 1996. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       4,422 kits were distributed.
+REASON         Kits had a depressed recovery of uric acid in
+               the level 3 calibrator.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS II
+=========
+_______________
+PRODUCT        Custom Mix Medicated Feed Containing
+               Chlortetracycline, used for the treatment of
+               mastitis, 50 g/ton.  Recall #V-008-6.
+CODE           None.  Date of Manufacture 12/15/95.
+MANUFACTURER   Belmont Mills, Inc., Belmont, Ohio.
+RECALLED BY    Manufacturer, by telephone on December 19,
+               1995.  Firm-initialed recall ongoing.
+DISTRIBUTION   Ohio.
+QUANTITY       1,632 pounds were distributed.
+REASON         Product is superpotent in Chlortetracycline.
+
+                            -12-_______________
+PRODUCT        Warbex Famphur Pour-On for Cattle in 1 gallon
+               cans, for grub and lice control.  
+               Recall #V-011-6.
+CODE           Lot #950661.
+MANUFACTURER   PM Resources, Bridgeton, Missouri.
+RECALLED BY    Mallinckrodt Veterinary, Inc., Mundelein,
+               Illinois, by telephone on January 11, 1996,
+               followed by letter January 16, 1996.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nebraska.
+QUANTITY       2,000 1-gallon containers were distributed.
+REASON         Product contaminated with isazophos, a turf
+               insecticide.
+
+
+                            -13-
+
+
+END OF ENFORCEMENT REPORT FOR MARCH 13, 1996.  BLANK PAGES MAY
+FOLLOW.
+
+
+                                   ####

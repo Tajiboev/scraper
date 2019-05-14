@@ -1,0 +1,750 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  AUG
+		  Oct
+		
+		
+		
+		  
+		  15
+		  
+		
+		
+		
+		  2000
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      20 captures
+	      19 Aug 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dm
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+  
+  February 25, 1998                                     98-08
+  
+  RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS I =============
+  _______________
+  PRODUCT      Potato Salad, in 10 pound bulk containers, 3
+               pound tubs, 1.5 pound tubs, and 1 pound tubs, 
+               under the Sandridge and Meijers labels. 
+               Recall #F-258-8.
+  CODE         Retail containers coded with "USE BY" dates of
+               "JAN 4 BA", "JAN 4 BB", and "JAN 4" and bulk
+               containers with "USE BY" date of "1 4 BX". 
+  MANUFACTURER Sandridge Gourmet Salads, Medina, Ohio.
+  RECALLED BY  Manufacturer, by press release on December 24,
+               1997, followed by letter.  Firm-initiated
+               recall ongoing.
+  DISTRIBUTION Pennsylvania, Wisconsin, Minnesota, Michigan,
+               Ohio, Kentucky, New York, Colorado, Indiana.
+  QUANTITY     15,614 pounds were distributed.
+  REASON       The potato salad may be contaminated with
+               Listeria monocytogenes.
+  
+    _______________
+  PRODUCT      Market Basket Brand, Fresh Baked Pies: 
+               a) Apple Pie (8 inch and 10 inch sizes)
+               b) Blueberry Pie (8 inch and 10 inch sizes)
+               c) Lattice Top Cherry Pie (8 inch size)
+               d) Lattice Top Peach Pie (8 inch size)
+               e) Lattice Top Pineapple Pie (8 inch size)
+               f) Pecan Pie (8 inch and 10 inch sizes)
+               g) Lemon Pie (8 inch size)
+               h) Strawberry Rhubarb Pie (8 inch size)
+               I) No Sugar Added Apple Pie (six inch size)
+               j) No Sugar Added Pumpkin Pie
+               k) No Sugar Added Strawberry Rhubarb Pie.
+               Recall #F-259/269-8.
+  CODE         All product distributed prior to 
+               January 12, 1998.
+  MANUFACTURER DeMoulas Supermarket Inc., Market Basket
+               Supermarket, Tewksbury, Massachusetts.
+  RECALLED BY  Manufacturer, by telephone on January 12,
+               1998, and by press release on January 16,
+               1998.  Firm-initiated recall (correction)
+               complete.
+  DISTRIBUTION Massachusetts and New Hampshire.
+  QUANTITY     Undetermined.
+  REASON       The products contain undeclared eggs.
+  
+  
+  RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS I
+=============
+  _______________
+  PRODUCT      Entuss-D Jr (Hydrocodone Bitartrate 2.5
+               mg/Pseudoephedrine Hydrochloride 30 mg),
+               Pediatric Expectorant Antitussive and Nasal
+               Decongestant, Rx, in 4 fluid ounce bottles.
+               NDC #59441-439-04.     Recall #D-078-8.
+  CODE         Lot #J960855A EXP 10/98.
+  MANUFACTURER Mikart, Inc., Atlanta, Georgia (contract
+               manufacturer).
+  RECALLED BY  Roberts Pharmaceutical Corporation, Eatontown,
+               New Jersey (responsible firm), by press
+               release on January 30, 1998, followed by
+               letter. Firm-initiated recall ongoing.
+  DISTRIBUTION Eastern United States.
+  QUANTITY     538 bottles were distributed.
+  REASON       Misbranding - Incorrect label dosage
+               instructions for adults which may lead to an
+               overdose situation.
+  
+  
+  RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS II ============
+  _______________
+  PRODUCT      Levothroid Tablets (Levothyroxine Sodium
+               Tablets, USP), 75 mcg, in 100 count bottles,
+               Rx, for replacement or substitution therapy
+               for diminished or absent thyroid function.  
+               NDC #0456-0322-01.  Recall #D-066-8.
+  CODE         Lot #99618.
+  MANUFACTURER Forest Pharmaceuticals, Inc., Cincinnati,
+               Ohio.
+  RECALLED BY  Forest Pharmaceuticals, Inc., subsidiary of
+               Forest Laboratories, Inc., St. Louis,
+               Missouri, by letter dated January 16, 1998. 
+               Firm-initiated recall ongoing.
+  DISTRIBUTION Nationwide.
+  QUANTITY     12,382 bottles were distributed.
+  REASON       Low tablet weights (subpotent).
+  
+  _______________
+  PRODUCT      Oxygen, USP, compressed medical gas packed in
+               size D, E, and M6 high pressure cylinders.
+               Recall #D-067-8.
+  CODE         Lot numbers 018015 and 018019.
+  MANUFACTURER Richards Medical, Inc., New Philadelphia,
+               Ohio.
+  RECALLED BY  Manufacturer, by telephone on January 20,
+               1998.  Firm-initiated recall complete.
+  DISTRIBUTION Ohio.
+  QUANTITY     7 cylinders were distributed.
+  REASON       Good manufacturing practice deviation -
+               Failure to assay for strength prior to
+               distribution.
+  
+  _______________
+  PRODUCT      Lorcet 10/650 tablets (Hydrocodone Bitartrate
+               10 mg/Acetaminophen 650 mg), in 500 tablet
+               bottles, Rx, for the relief of severe pain.
+               Recall #D-070-8.
+  CODE         Lot #F970490A.
+  MANUFACTURER Mikart, Inc., Atlanta, Georgia.
+  RECALLED BY  Forest Pharmaceuticals, Inc., St. Louis,
+               Missouri (private label distributor), by
+               letter on November 25, 1997.  Firm-initiated
+               recall complete.
+  DISTRIBUTION Missouri, Florida, Ohio.
+  QUANTITY     1,976 bottles were distributed, firm estimated
+               that 317 bottles remained on market at time of
+               recall initiation.
+  REASON       Metal fragment found in one tablet.
+  
+  _______________
+  PRODUCT      Cedax (ceftibuten for oral suspension), 120 ml
+               (when reconstituted) 90 mg/5 ml). 
+               NDC #0085-0777-02.  Recall #D-075-8.
+  CODE         Lot #7710411 EXP 8/99.
+  MANUFACTURER Schering Corporation, Miami Lakes, Florida.
+  Recalled by  Schering Laboratories, Schering Plough
+               Corporation, Kenilworth, New Jersey, by letter
+               dated January 14, 1998.  Firm-initiated recall
+               ongoing.
+  DISTRIBUTION Nationwide.
+  QUANTITY     4,252 bottles were distributed.
+  REASON       Subpotency due to low fill.
+  
+  
+  RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS III ===========
+  _______________
+  PRODUCT      Caffeine and Sodium Benzoate Injection, USP,
+               0.5 g/2 ml, Rx sterile solution for
+               intramuscular or slow intravenous
+               administration to treat respiratory depression
+               associated with overdosage with CNS depressant
+               drugs.  NDC #11098-505-02.  Recall #D-057-8.
+  CODE         Lot #101406.
+  MANUFACTURER Taylor Pharmaceuticals, Decatur, Illinois.
+  RECALLED BY  Manufacturer, by letter dated November 25,
+               1997.  Firm-initiated recall ongoing.
+  DISTRIBUTION Nationwide and Canada.
+  QUANTITY     366 cartons were distributed; firm estimated
+               that 33 percent of product remained on market
+               at time of recall initiation.
+  REASON       Mislabeling - The ampule label and shelf
+               carton fail to list the strength of the
+               caffeine and sodium benzoate.  Also, the shelf
+               carton lists the ampule size as 2 ml on the
+               principle display panel and 1 ml the end flap.
+  
+  _______________
+  PRODUCT      Hydroxyzine Hydrochloride Syrup, USP, in 16
+               ounce and 1 gallon containers, for symptomatic
+               relief of anxiety and tension, under the
+               Alpharma, Schein, Barre, and Rugby labels.
+               Recall #D-068-8.
+  CODE         Lot numbers:  RA6017, RA6018, RF6315, RJ6429,
+               RL6634, RP6815, RS6895, RC7179, RD7245,
+               RD7246, RH7425, RK7583, RL7683.  
+  MANUFACTURER Alpharma, U.S. Pharmaceuticals Division,
+               Baltimore, Maryland.
+  RECALLED BY  Manufacturer, by letter dated January 15,
+               1998.  Firm-initiated recall ongoing.
+  DISTRIBUTION Nationwide.
+  QUANTITY     Firm estimated that 132,206 units remained in
+               commerce at time of recall initiation.
+   REASON      Subpotent.
+  
+  _______________
+  PRODUCT      Microcrystalline Cellulose, NF (Avicel), in 50
+               kg drums, boxes and/or bags, a critical
+               excipient and influences the flow of the
+               active ingredient and excipeints during
+               tableting and encapsulation. It also aids in
+               compaction during compression.  
+               Recall #D-069-8.
+  CODE         Lot #1711.
+  MANUFACTURER FMC Corporation, Newark, Delaware.
+  RECALLED BY  Manufacturer, verbally, and by fax on or about
+               April 28, 1997.  Firm-initiated recall
+               complete.
+  DISTRIBUTION Colorado, Puerto Rico, Texas.
+  QUANTITY     92 drums were distributed; firm estimates none
+               remains on market.
+  REASON       Product failed pH and conductivity testing.
+  
+  _______________
+  PRODUCT      a) Acetylcysteine Solution, USP 20% (200
+               mg/ml) 30 ml vials, packaged in units of 3,
+               Rx, Mucolytic; for bronchial indications such
+               as asthma and tuberculosis.  NDC #0517-7630-03
+               b) Concentrated Sodium Chloride Injection,
+               USP, 23.4% (234 mg/ml) in 30 ml single dose
+               vials, Rx, additive in parenteral fluid
+               therapy for use in patients who have problems
+               with Sodium electrolytic intake or excretion. 
+               NDC #0517-2930-23.  Recall #D-071/072-8.
+  CODE         Lot numbers: a) 7855 EXP 5/99; b) 7846 EXP
+               11/99.
+  MANUFACTURER American Regent Laboratories, Inc., Shirley,
+               New York.
+  RECALLED BY  Manufacturer, by fax on January 6, 1998. 
+               Firm-initiated recall ongoing.
+  DISTRIBUTION Nationwide.
+  QUANTITY     a) 44,097 vials; b) 163,375 vials were
+               distributed; firm estimated that a) 75-80
+               percent; b) 80 percent of the product remained
+               on market at time of recall initiation.
+  REASON       Mispackaging - Correctly labeled concentrated
+               sodium chloride injection vials placed into
+               intermediate cartons labeled as Acetylcysteine
+               Solution.
+  
+  _______________
+  PRODUCT      Scopolamine Hydrobromide Injection, USP, 0.4
+               mg/ml in 1 ml multiple dose vials.
+               Recall #D-073-8.
+  CODE         Lot #360116 EXP 2/28/99.
+  MANUFACTURER Fujisawa USA, Inc., Grand Island, New York.
+  RECALLED BY  Fujisawa USA, Inc., Deerfield, Illinois, by
+               letter issued dated January 26, 1998. 
+Firm-initiated recall ongoing.
+  DISTRIBUTION Nationwide.
+  QUANTITY     137,650 vials were distributed.
+  REASON       Subpotent (stability).
+  
+  _______________
+  PRODUCT      EC-Naprosyn (Naproxen) Enteric Coated,
+               Delayed-Release Tablets, 375 mg, unit dose
+               pouches, 10 pouches/carton, Professional
+               Samples, Rx non-steroidal anti-inflammatory
+               drug (NSAID) with analgesic and anti-pyretic
+               properties.  NDC #13-41-03255-0396.
+               Recall #D-074-8.
+  CODE         Lot #B1398 EXP 1/99.
+  MANUFACTURER Syntex Puerto Rico, Humacao, Puerto Rico.
+  RECALLED BY  Roche Laboratories, Nutley, New Jersey
+               (responsible firm), by telephone on May 29,
+               1997.  Firm-initiated recall complete.
+  DISTRIBUTION Nationwide.
+  QUANTITY     120,000 cartons were distributed.
+  REASON       Mislabeling - Carton label incorrectly
+               declares contents as 500 mg not 375 mg.
+  
+  _______________
+  PRODUCT      Epinephrine Injection, USP 1:1000 (1mg/ml), 1
+               mL ampule, sterile, Rx, intramuscular or
+               subcutaneous liquid injection, preservative
+               free.  Packaged in boxes of 25 x 1 mL ampules.
+               A sympathetic, vaso-constricting, ommetic drug
+               commonly used to relieve respiratory distress
+               due to bronchospasm, to provide rapid relief
+               of hypersensitivity reactions to drugs and
+               other allergens, and to prolong action of
+               infiltration anesthetics.  May restore cardiac
+               rhythm.  NDC# 0517-1071-25.  Recall #D-076-8.
+  CODE         Lot Numbers:   6487 EXP 1/98, 6654 EXP 2/98,
+               6862 EXP 5/98, 7278 EXP 10/98, 7414 EXP 11/98,
+               7415 EXP 11/98, 7424 EXP 11/98, 7471 EXP
+               12/98, 7659 EXP 2/99, 7728 EXP 3/99, 7783 EXP
+               4/99, 6738 EXP 3/98, 6972 EXP 6/98, 7040 EXP
+               7/98 7126 EXP 8/98.
+  MANUFACTURER American Regent Laboratories, Inc., Shirley,
+               New York.
+  RECALLED BY  Manufacturer, by letter on January 23, 1998,
+               followed by telephone.  Firm-initiated recall
+               ongoing.
+  DISTRIBUTION Nationwide.
+  QUANTITY     715,575 ampules were distributed.
+  REASON       Discoloration - Product fails color and
+               clarity specifications.
+  
+  _______________
+  PRODUCT      ARTH-Rx (Methyl Nicotinate 0.5% Capsaicin
+               0.025%) Topical Analgesic Lotion, in 3 ounce
+               units, for the temporary relief of minor aches
+               and pains of muscles and joints.  
+               Recall #D-077-8.
+  CODE         All lots on the market.
+  MANUFACTURER Phillips Pharmatech Labs, Inc., Largo, Florida
+               (responsible firm).
+  RECALLED BY  Phillips Gulf Corporation, Largo, Florida, by
+               letter dated December 12, 1997.  Firm-initiated 
+               recall ongoing.
+  DISTRIBUTION North Carolina, Florida, Georgia, Texas,
+               Pennsylvania, New York, Illinois, California.
+  QUANTITY     12,456 bottles were distributed.
+  REASON       Product fails to bear an expiration date.
+  
+  
+  RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS II ========
+  _______________
+  PRODUCT      Source Plasma.  Recall #B-062-8.
+  CODE         Unit #KP45234.
+  MANUFACTURER Plasma Biological Services, Inc., Memphis,
+               Tennessee.
+  RECALLED BY  Manufacturer, by telephone on August 8, 1997. 
+               Firm-initiated recall complete.
+  DISTRIBUTION California.
+  QUANTITY     1 unit was distributed.
+  REASON       Blood product tested repeatedly reactive for
+               the antibody to the hepatitis C virus encoded
+               antigen (anti-HCV).
+  
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Recovered Plasma.
+               Recall #B-558/559-8.
+  CODE         Unit #17180-8438.
+  MANUFACTURER United Blood Services, McAllen, Texas.
+  RECALLED BY  Blood Systems, Inc., Scottsdale, Arizona, by
+               letter dated October 7, 1997.  Firm-initiated
+               recall complete.
+  DISTRIBUTION Texas and Switzerland.
+  QUANTITY     1 unit of each component was distributed.
+  REASON       Blood products were collected from a donor who
+               reported previously testing positive for
+               Hepatitis C.
+  
+  _______________
+  PRODUCT      a) Whole Blood
+               b) Red Blood Cells
+               c) Platelets
+               d) Cryoprecipitated AHF
+               e) Plasma
+               f) Recovered Plasma.  Recall #B-562/567-8.
+  CODE         Unit numbers: a) 042G33422, 042G95948
+               b) 042M10357, 42Q55415, 42K80462,  42Y51968,
+42Q44818
+               c) 42Q55415; d) 42K80462; e) 42Q44818
+               f) 042M10357, 42Q55415, 42K80462, 42Y51968.
+  MANUFACTURER American Red Cross Blood Services, Cleveland,
+               Ohio.
+  RECALLED BY  Manufacturer, by letters dated December 31,
+               1996, June 10, 1997, and January 2, 1997. 
+               Firm-initiated recall complete.
+  DISTRIBUTION Ohio, California, New York.
+  QUANTITY     a) 2 units; b)5 units; c) 1 unit; d) 1 unit;
+               e) 1 unit; f) 4 units were distributed.
+  REASON       Blood products tested negative for the
+               antibody to the human immunodeficiency virus
+               type 1 (anti-HIV-1), but were collected from
+               donors who previously tested repeatedly
+               reactive for anti-HIV-1, unlicensed Western        
+               blot negative. 
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Recovered Plasma.
+               Recall #B-569/570-8.
+  CODE         Unit #12FZ30058.
+  MANUFACTURER American Red Cross Blood Services, Charlotte,
+               North Carolina.
+  RECALLED BY  Manufacturer, by telephone on March 1, 1996,
+               followed by letter dated March 4, 1996, and by
+               fax on March 4, 1996.  Firm-initiated recall
+               complete.
+  DISTRIBUTION North Carolina and Switzerland.
+  QUANTITY     1 unit of each component was distributed.
+  REASON       Blood products were collected from a donor
+               with a history of cancer.
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Recovered Plasma.
+               Recall #B-572/573-8.
+  CODE         Unit #12LS24601.
+  MANUFACTURER American Red Cross Blood Services, Charlotte,
+               North Carolina.
+  RECALLED BY  Manufacturer, by letters dated November 24 and
+               25, 1997.  Firm-initiated recall complete.
+  DISTRIBUTION North Carolina and California.
+  QUANTITY     1 unit of each component was distributed.
+  REASON       Blood products were collected from a donor
+               with a history of cancer.
+  
+  _______________
+  PRODUCT      Red Blood Cells.  Recall #B-574-8.
+  CODE         Unit #12G14466.
+  MANUFACTURER American Red Cross Blood Services, Charlotte,
+               North Carolina.
+  RECALLED BY  Manufacturer, by telephone on November 30,
+               1997, followed by letter dated December 5,
+               1997.  Firm-initiated recall complete.
+  DISTRIBUTION North Carolina.
+  QUANTITY     1 unit was distributed.
+  REASON       Blood product was stored at room temperature
+               for greater than 30 minutes.
+  
+  _______________
+  PRODUCT      Red Blood Cells.  Recall #B-575-8.
+  CODE         Unit #03GS25269.
+  MANUFACTURER American Red Cross Blood Services, Atlanta,
+               Georgia.
+  RECALLED BY  Manufacturer, by letter dated November 26,
+               1997.  Firm-initiated recall complete.
+  DISTRIBUTION Georgia.
+  QUANTITY     1 unit was distributed.
+  REASON       Blood product was collected from a donor who
+               traveled to an area considered endemic for
+               malaria.
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Fresh Frozen Plasma.
+               Recall #B-578/579-8.
+  CODE         Unit #7827927.
+  MANUFACTURER LifeSource, Glenview, Illinois.
+  RECALLED BY  Manufacturer, by letter dated December 18,
+               1997.  Firm-initiated recall complete.
+  DISTRIBUTION Illinois.
+  QUANTITY     1 unit of each component was distributed.
+  REASON       Blood products were collected from a donor
+               with a history of cancer.
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Platelets.
+               Recall #B-580/581-8.
+  CODE         Unit numbers: a) 29444-4047, 29446-4195
+               b) 29446-4195.
+  MANUFACTURER United Blood Services, Chicago, Illinois
+  RECALLED BY  Manufacturer, by letters dated December 16,
+               1997, and February 2, 1998.  Firm-initiated
+               recall complete.
+  DISTRIBUTION Illinois.
+  QUANTITY     a) 2 units; b) 1 unit was distributed.
+  REASON       Blood products were collected from a donor who
+               traveled to an area considered endemic for
+               malaria.
+  
+  _______________
+  PRODUCT      Red Blood Cells.  Recall #B-585-8.
+  CODE         Unit #V46600.
+  MANUFACTURER Aurora Area Blood Bank, Aurora, Illinois.
+  RECALLED BY  Manufacturer, by letter dated December 10,
+               1997.  Firm-initiated recall completed.
+  DISTRIBUTION Illinois.
+  QUANTITY     1 unit was distributed.
+  REASON       Blood product, which tested negative for
+               antibody to the human immunodeficiency virus
+               type 1 (anti-HIV-1),  but collected from a
+               donor who previously tested repeat reactive
+               for anti-HIV-1, Western Blot negative and was
+               incorrectly reentered.
+    _______________
+  PRODUCT      Red Blood Cells.  Recall #B-586-8.
+  CODE         Unit #V45569.
+  MANUFACTURER Aurora Area Blood Bank, Aurora, Illinois.
+  RECALLED BY  Manufacturer, by letter dated December 10,
+               1997.  Firm-initiated recall complete.
+  DISTRIBUTION Indiana.
+  QUANTITY     1 unit was distributed.
+  REASON       Blood product tested negative for antibody to
+               the human immunodeficiency virus type 1
+               (anti-HIV-1),  but collected from a donor who
+               previously tested repeat reactive for
+               anti-HIV-1, Western Blot negative and was
+               incorrectly reentered.
+  
+  
+  RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS III =======
+  _______________
+  PRODUCT      Platelets, Pheresis.  Recall #B-571-8.
+  CODE         Unit #12FL02334.
+  MANUFACTURER American Red Cross Blood Services, Charlotte,
+               North Carolina.
+  RECALLED BY  Manufacturer, by telephone on May 16, 1996,
+               followed by letter.  Firm-initiated recall
+               complete.
+  DISTRIBUTION North Carolina.
+  QUANTITY     1 unit was distributed.
+  REASON       Blood product was collected from a donor whose
+               health history screening was incomplete.
+  
+  _______________
+  PRODUCT      Cryoprecipitated AHF.  Recall #B-576-8.
+  CODE         Unit #03GM39865.
+  MANUFACTURER American Red Cross Blood Services, Atlanta,
+               Georgia.
+  RECALLED BY  Manufacturer, by telephone on December 12,
+               1997, followed by letter dated December 16,
+               1997.  Firm-initiated recall complete.
+  DISTRIBUTION Georgia.
+  QUANTITY     1 unit was distributed.
+  REASON       Blood product was prepared from a unit of
+               Whole Blood with an extended collection time.
+  
+  _______________
+  PRODUCT      Red Blood Cells.  Recall #B-577-8.
+  CODE         Unit #03KE07823.
+  MANUFACTURER American Red Cross, Atlanta, Georgia.
+  RECALLED BY  Manufacturer, by telephone on October 17,
+               1997, and by letter dated October 22, 1997. 
+               Firm-initiated recall complete.
+  DISTRIBUTION Florida.
+  QUANTITY     1 unit was distributed.
+  REASON       Blood product was collected from a donor who
+               provided incomplete medical history.
+  
+  
+ RECALLS AND FIELD CORRECTIONS: DEVICES -- CLASS
+II ==========
+  _______________
+  PRODUCT      Isolate Sperm Separation Media, intended for
+               use as a human sperm separation medium for
+               intra-uterine insemination (IUI):
+               a) Catalog #99257 
+               b) Catalog #99258 
+               c) Catalog #99264 (2x50 mL)
+                          #99264 (12x16 mL)
+               d) Catalog #99275 Lot #9927570906.  
+               Recall #Z-314/317-8.
+  CODE         a) Lot #9925770911; b) Lot #9925870911
+               c) Lot #9926471016 (2x50 mL); 
+                  Lot #9926471017 (12x16 mL)
+               d) Lot #9927570906.
+  MANUFACTURER Irvine Scientific, Santa Ana, California.
+  RECALLED BY  Manufacturer, by telephone and letter on
+               December 22, 1997.  Firm-initiated recall
+               ongoing.
+  DISTRIBUTION Arizona, California, Connecticut, Illinois,
+               Indiana, Michigan, Nebraska, New York,
+               Pennsylvania, Rhode Island, Texas, Washington
+               state.
+  QUANTITY     a) 40 bottles; b) 93 boxes; c) 27 boxes; 
+               d) 39  bottles were distributed.
+  REASON       Products were found to be contaminated with
+               fungus.
+  
+  _______________
+  PRODUCT      a) Renasol Liquid Bicarbonate Concentrate
+               BC-1-L Part B in one gallon (3.78 liter)
+               bottles;
+               b) Naturalyte 9000 Liquid Bicarbonate
+               Concentrate in one gallon (3.78 liter)
+               bottles, product catalog number 08-9990-6, a
+               bicarbonate dialysis concentrate, which is
+               mixed with an acid concentrate and water to
+               produce dialysate for hemodialysis.  
+               Recall #Z-318/319-8.
+  CODE         a) Part B:  Lot 03J702, MFD 09 97, EXP 03 99
+               b) Lot 67K707, MFD 10 97, EXP 04 99.
+  MANUFACTURER Minntech Corporation, Minneapolis, Minnesota.
+  RECALLED BY  Manufacturer, by telephone on January 16,
+               1998.  Firm-initiated recall ongoing.
+  DISTRIBUTION Nationwide.
+  QUANTITY     2,416 cases (4 gallons per case) were
+               distributed.
+  REASON       Concentrate contains mold.
+  
+  _______________
+  PRODUCT      Implants for Retinal Detachment Surgery:
+               a) Circling Band 240-Style 2.5 5/Box, Catalog
+               No. E5381 700; b) Non Sterile Band, Catalog
+               No. NSE5381-700, c) Silicone Strip 219-Style
+               Grv 4.5 5/Box, Catalog No. E5381 710, 
+               d) Non Sterile Silicone Strip, Catalog No.
+               NSE5381-710.  Recall #Z-320/323-8.
+  CODE         Lot numbers:  a) MH72550; b) 97246; MH73580;
+               d) 97246.
+  MANUFACTURER Vesta, Inc., Franklin, Wisconsin.
+  RECALLED BY  Storz Instrument Company, St. Louis, Missouri,
+               by letter dated January 6, 1998, and by fax on
+               January 7 and 13, 1998.  Firm-initiated recall
+               ongoing.
+  DISTRIBUTION Nationwide and international.
+  QUANTITY     a) 2,085 implants; b) 200 implants; c) 235
+               implants; d) 5 implants were distributed.
+  REASON       The products do not meet the firms
+               requirements for elongation and may exhibit
+               cracks or may break when stretched.
+  
+  _______________
+  PRODUCT      Maxima Forte Oxygenator: a) Model MAX-FTC; 
+               b) Model MAX-FTE.  Recall #Z-329/330-8.
+  CODE         All lots.
+  MANUFACTURER Medtronic, Inc., Anaheim, California.
+  RECALLED BY  Manufacturer, by letter July 18, 1997. 
+Firm-initiated recall complete.
+  DISTRIBUTION Nationwide and international.
+  QUANTITY     9,600 units were distributed.
+  REASON       There is a possibility that the devices heat
+               exchanger may leak, which may cause blood loss
+               during transfusion.
+  
+  _______________
+  PRODUCT      Bear Cub Infant Pressure Infant Ventilator,
+               Model 750vs.  Recall #Z-333-8.
+  CODE         All serial numbers.
+  MANUFACTURER Dale Electronics, Tempe, Arizona (component
+               supplier).
+  RECALLED BY  Allied Healthcare Products, Inc., Ventilation
+               Products Division, Riverside, California, by
+               fax beginning on March 10, 1997, followed by
+               letter.  Firm-initiated recall ongoing.
+  DISTRIBUTION Nationwide and international.
+  QUANTITY     338 units were distributed.
+  REASON       The potentiometer may become unstable making
+               setting the controls difficult or impossible.
+  
+  
+  _______________
+  UPDATE       Recall Z-039/040-8, Horizon/Horizon Nxt
+               Modular Infusion Pumps which appeared in the
+               November 19, 1997 Enforcement Report is being
+               rescinded.  Completion of B. Braun McGaw's
+               investigation determined that the devices were
+               not defective, but that the test method used
+               was causing the erroneous results.  On
+               November 16.1997 the firm notified all users
+               that the pumps performed within spec.  The
+               recall numbers will be reassigned.
+  
+  
+  RECALLS AND FIELD CORRECTIONS: VETERINARY PRODUCTS -- CLASS II
+============
+  _______________
+  PRODUCT      Sheep Starter/Grower BT Pellets Medicated, in
+               50 pound bags, for prevention of coccidiosis
+               in sheep.  Recall #V-006-8.
+  CODE         Lot #SP27063.
+  MANUFACTURER MFA, Inc., Springfield, Missouri.
+  RECALLED BY  MFA, Inc., Columbia, Missouri, on or about
+               December 20, 1997.  Firm-initiated recall
+               complete.
+  DISTRIBUTION Missouri.
+  QUANTITY     88 bags were distributed.
+  REASON       Product was superpotent in lasalocid due to
+               sequencing after a high lasalocid-containing
+               feed.
+  
+  
+  END OF ENFORCEMENT REPORT FOR FEBRUARY 18, 1998.  BLANK PAGES
+MAY FOLLOW.
+
+
+
+  
+ End of Enforcement Report for

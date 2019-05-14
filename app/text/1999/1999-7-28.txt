@@ -1,0 +1,880 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Nov
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  21
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      39 captures
+	      13 Oct 1999 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+
+July 28, 1999                                     99-30
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+________
+PRODUCT
+"Sprouting Clover" Clover Seeds, packaged in 3 ounce resealable 
+clear plastic bags. Product is sold in 1999-2000 Pinetree Garden 
+Seeds catalog as sprouting seeds, page 56, item number SP9 and as 
+part of a "Sprouting for Health Gift" Set, page 167, item number 
+PG7.  Recall #F-567-9.
+CODE
+SP9 Packed for 1999.  Product sold from 11/98 to 6/9/99.
+MANUFACTURER
+Dover Sales Company, Inc., Piedmont, Oklahoma (supplier).
+RECALLED BY
+Pinetree Garden Seeds, New Gloucester, Maine (repacker), by 
+letter beginning June 16, 1999, and by press release on June 10, 
+1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and Canada.
+QUANTITY
+1,000 packets were distributed.
+REASON
+Product may be contaminated with Salmonella Typhimurium.  These 
+seeds were from the same lot as the seed lot associated with an 
+outbreak of Salmonella Typhimurium in Colorado.
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+________
+PRODUCT
+Rowasa Rectal Suppositories (Mesalamine, 500 mg), in cartons of 
+12, 24, and physician sample of 2's, Rx indicated for the 
+treatment of active ulcerative proctitis.  Recall #D-282-9.
+CODE
+All lot numbers remaining within expiration date.
+MANUFACTURER
+G&W; Laboratories, Plainfield, New Jersey (contract manufacturer).
+RECALLED BY
+Solvay Pharmaceuticals, Marietta, Georgia, by letter mailed on 
+May 18, 1999, and by voice mail on May 11, 1999.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Nationwide and Puerto Rico.
+QUANTITY
+307,137 cartons of 12; 254,946 cartons of 24;and 100,281 
+pyhysician samples were distributed.
+REASON
+Dissolution failure and/or lack of assurance of stability through 
+labeled expiry date.
+________
+PRODUCT
+M.V.I. Pediatric, multi-vitamins for infusion, in single dose 10 
+Ml vials.  NDC #0186-1839-31.  Recall #D-283-9.
+CODE
+Lot #813011 EXP 7/99.
+MANUFACTURER
+Catalytica Pharmaceuticals, Inc., Greenville, North Carolina.
+RECALLED BY
+AstraZeneca LP, Westborough, Massachusetts, by letter on July 2, 
+1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+8,392 were manufactured; firm estimated that 5-10 percent 
+remained on market at time of recall initiation.
+REASON
+Folic acid and Vitamin B12 levels below potency specification 
+prior to expiration.
+________
+PRODUCT
+Nystatin Oral Suspension, USP, 100,000 units per Ml, Fruit 
+Flavored, Rx in 2 ounce and 1 pint units, used for the treatment 
+of candidiasis of the oral cavity, under the Morton Grove, NDC 
+#60432-537-16 & 60432-537-60, and Schein labels, NDC #0364-2075-
+58;
+b) Generlac Solution (Lactulose Solution, USP), 10g/15Ml, for 
+oral or rectal administration, Rx in one pint (473 Ml) 
+containers, an Rx oral colonic acidifier for the prevention and 
+treatment of portal-systemic encephalopathy, under the Morton 
+Grove label.  NDC #60432-038-16.
+Recall #D-184/285-9.
+CODE
+Lot numbers:  a) 21533, 21720, 21776, 22118, 22325, 21616 and 
+22279; b) 21767.
+MANUFACTURER
+a) Morton Grove Pharmaceuticals, Inc., Morton Grove, Illinois; b) 
+Morinaga Milk Industry Company, Ltd., Tokyo, Japan.
+RECALLED BY
+Morton Grove Pharmaceuticals, Inc., Morton Grove, Illinois, by 
+letter dated June 14, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+a) 26,136 pints and 50,263 2-fluid ounce bottles were 
+distributed; b) 21,105 pints were distributed; firm estimated 
+that 10 percent of product remained on market at time of recall 
+initiation.
+REASON
+Microbial contamination (acinetobacter baumanii).
+________
+PRODUCT
+Prednisolone Acetate Ophthalmic Suspension, USP, Sterile, 1%, in 
+10Ml units, under the Alcon (NDC #0998-0637-05) and Falcon (NDC 
+#61314-637-10) labels.  Recall #D-286-9.
+CODE
+Lot numbers: 57984P and 58005P.
+MANUFACTURER
+Alcon (Puerto Rico), Inc., Humaco, Puerto Rico.
+RECALLED BY
+Alcon Laboratories, Inc., Fort Worth, Texas, by letter mailed on 
+June 3, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+64,175 units were distributed.
+REASON
+Loose clumping (agglomeration) of active ingredient.
+________
+PRODUCT
+Atenolol Tablets USP packaged in: a) 25 mg; b) 50 mg;
+c) 100 mg.  All three strengths were packaged and distributed in 
+bottles of 100's and 1000's, Rx used in the management of 
+hypertension.  NDC Numbers: 25 mg: Bottle of 100, NDC 0005-3218-
+43 Bottle of 1000  NDC 0005-3218-34 
+50 mg: Bottle of 100 NDC 0005-3219-43 Bottle of 1000
+NDC 0005-3219-34 100 mg: Bottle of 100  NDC 0005-3220-43 
+Bottle of 1000 NDC 0005-3220-34.  Recall #D-287/289-9.
+CODE
+a) 25 mg, Bottles of 100:
+D454-909 (EXP 03/01)
+D454-910 (EXP 03/01)
+D457-101 (EXP 06/01)
+D457-102 (EXP 06/01)
+D457-103 (EXP 06/01)
+D459-493 (EXP 09/01)
+D459-386 (EXP 09/01)
+D459-390 (EXP 09/01)
+25 mg, Bottles of 1000:
+D457-100 (EXP 06/01)
+D457-104 (EXP 06/01)
+D459-385 (EXP 09/01)
+D459-387 (EXP 09/01)
+D459-389 (EXP 09/01)
+c) 50 mg, Bottles of 100:
+D449-230 (EXP 07/00)
+D453-456 (EXP 02/01)
+D453-457 (EXP 02/01)
+D457-107 (EXP 06/01)
+D459-404 (EXP 09/01)
+b) 50 mg, Bottles of 1000:
+D449-040 (EXP 07/00)
+D449-041 (EXP 07/00)
+D449-042 (EXP 07/00)
+D449-228 (EXP 07/00)
+D449-229 (EXP 07/00)
+D449-231 (EXP 07/00)
+D451-212 (EXP 10/00)
+D451-213 (EXP 10/00)
+D451-318 (EXP 10/00)
+D451-319 (EXP 10/00)
+D453-453 (EXP 02/01)
+D453-454 (EXP 02/01)
+D453-455 (EXP 02/01)
+D457-105 (EXP 06/01)
+D457-106 (EXP 06/01)
+D457-108 (EXP 06/01)
+D458-707 (EXP 06/01)
+D457-110 (EXP 06/01)
+D457-111 (EXP 07/01)
+D457-112 (EXP 07/01)
+D457-113 (EXP 07/01)
+D457-114 (EXP 07/01)
+D459-398 (EXP 09/01)
+D459-400 (EXP 09/01)
+D459-402 (EXP 09/01)
+D460-390 (EXP 10/01)
+D460-391 (EXP 10/01)
+D460-392 (EXP 10/01)
+c) 100 mg, Bottles of 100:
+D459-520 (EXP 09/01)
+D459-521 (EXP 09/01)
+D461-521 (EXP 01/02)
+100 mg, Bottles of 1000:
+D449-233 (EXP 07/00)
+D457-115 (EXP 07/01)
+D457-116 (EXP 07/01)
+D457-117 (EXP 07/01)
+MANUFACTURER
+Wyeth-Ayerst Pharmaceuticals, Inc., Pearl River, New York.
+RECALLED BY
+Wyeth-Ayerst Laboratories, Richmond, Virginia, by letter sent on 
+June 16, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide, Puerto Rico, Virgin Islands, Taiwan.
+QUANTITY
+583,586 bottles were distributed August 1997 to May 1999 as 
+follows: 
+a) 25 mg: 347,824 bottles total: 330,463 bottles of 100 and 
+17,361 bottles of 1000 
+b) 50 mg: 196,773 bottles total: 126,098 bottles of 100 and 
+70,675 bottles of 1000 
+c) 100 mg: 38,989 bottles total: 33,919 bottles of 100 and 5,070 
+bottles of 1000.
+REASON
+Content uniformity failure.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets.  Recall #B-1006/1007-9.
+CODE
+Unit #X15811.
+MANUFACTURER
+Aurora Area Blood Bank, Aurora, Illinois.
+RECALLED BY
+Manufacturer, by telephone on May 18, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Illinois.
+QUANTITY
+1 unit.of each component was distributed.
+REASON
+Blood products tested negative for the antibody to the human T-
+lymphotropic virus type I and II (anti-HTLV-I/II), but were 
+collected from a donor who previously tested repeatedly reactive 
+for anti-HTLV-1/II
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Recovered Plasma.
+Recall #B-1016/1018-9.
+CODE
+Unit #6066018.
+MANUFACTURER
+LifeSource, Glenview, Illinois.
+RECALLED BY
+Manufacturer, by telephone on April 14 or 15, 1999, and by 
+letters dated April May 7, 1998, and April 8, 1999.  Firm-
+initiated recall complete.
+DISTRIBUTION
+Illinois.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor who had used 
+injectable drugs.
+________
+PRODUCT
+a) Red Blood Cells; b) Cryoprecipitated AHF; c) Recovered Plasma. 
+ Recall #B-1019/1021-9.
+CODE
+Unit #21GC42843.
+MANUFACTURER
+American Red Cross Blood Services, Portland, Oregon.
+RECALLED BY
+Manufacturer, by telephone on March 24, 1999, followed by letter 
+dated March 29, 1999, and by fax on March 25, 1999.  Firm-
+initiated recall complete.
+DISTRIBUTION
+Arizona, Washington state, Switzerland.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor whose husband had sex 
+with another male.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Source Leukocytes;
+d) Recovered Plasma.  Recall #B-1029/1032-9.
+CODE
+Unit numbers:  a) 01KF32527, 01KG38402, 01KG38403
+b)01KF32527; c) 01KF32527, 01KG38402, 01KG38403;
+d) 01KG38402, 01KG38403.
+MANUFACTURER
+American Red Cross Blood Services, Rochester, New York.
+RECALLED BY
+Manufacturer, by telephone on December 11, 1997, and by letters 
+dated January 16, 1998.  Firm-initaited recall ongoing.
+DISTRIBUTION
+New York, Georgia, New Jersey, California.
+QUANTITY
+a) 3 units; b) 1 unit; c) 3 units; d) 2 units were distributed.
+REASON
+Blood products were incorrectly tested for syphilis.
+________
+PRODUCT
+a) Red Blood Cells; b) Recovered Plasma.  
+Recall #B-1036/1037-9.
+CODE
+Unit #39KJ06934.
+MANUFACTURER
+American Red Cross, Huntington, West Virginia.
+RECALLED BY
+Manufacturer, by letter dated March 2, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+West Virginia and California.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor with a history of 
+cancer.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-1041-9.
+CODE
+Unit numbers: 32LG00461, 32LG00465, 32LG00467.
+MANUFACTURER
+American Red Cross Blood Services, Madison, Wisconsin.
+RECALLED BY
+Manufacturer, by letters dated November 18, 1998, and January 7, 
+1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Illinois and Oklahoma.
+QUANTITY
+3 units were distributed.
+REASON
+Blood products were prepared from overweight units of Whole 
+Blood.
+________
+PRODUCT
+a) Red Blood Cells; b) Red Blood Cells, Leukocytes Removed;
+c) Platelets; d) Cryoprecipitated AHF.  
+Recall #B-1048/1051-9.
+CODE
+Unit numbers:  a) 6714613, 6719421, 6746177, 6762700, 7631101, 
+7631192; b) 6713880; c) 6713880, 6746177;
+d) 6714613, 6787775.
+MANUFACTURER
+New York Blood Services (Center West), New York, New York.
+RECALLED BY
+New York Blood Center, Inc., New York, New York, by letter dated 
+September 8, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+New York.
+QUANTITY
+a) 6 units; b) 1 unit; c) 2 units; d) 2 units were distributed.
+REASON
+Blood products initially tested negative for the Hepatitis B core 
+antigen (anti-HBc), but retrospectively tested repeatedly 
+reactive for anti-HBc.
+________
+PRODUCT
+Platelets, Pheresis.  Recall #B-1053-9.
+CODE
+Unit numbers: 01P38557 and 01LZ07358.
+MANUFACTURER
+American Red Cross Blood Services, Rochester, New York.
+RECALLED BY
+Manufacturer, by telephone on July 2, 1998, and November 6, 1998. 
+ Firm-initiated recall complete.
+DISTRIBUTION
+New York.
+QUANTITY
+2 units were distributed.
+REASON
+Blood products had insufficient volumes to support the platelet 
+yields.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Plasma.
+Recall #B-1054/1056-9.
+CODE
+Unit #53J45682.
+MANUFACTURER
+American Red Cross Blood Services, Baltimore, Maryland.
+RECALLED BY
+Manufacturer, by telephone on December 3, 1998, and by letter 
+dated December 7, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Maryland and District of Columbia.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor who had received an 
+experimental vaccine within one year of donation.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+________
+PRODUCT
+Red Blood Cells.  Recall #B-998-9.
+CODE
+21GV03476, 21GV03477, 21GV03478, 21GV03479, 21GV03480, 21GV03481, 
+21GV03482, 21GV03483, 21GV03484, 21GV03485, 21GV03486, 21GV03487, 
+21GV03488, 21GV03489, 21GV03490, 21GV03491, 21GV03492.
+MANUFACTURER
+American Red Cross Blood Services, Portland, Oregon.
+RECALLED BY
+Manufacturer, by telephone on April 7, 1999, followed by letter 
+dated April 21, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Oregon, Washington state, Massachusetts.
+QUANTITY
+17 units were distributed.
+REASON
+Blood products were labeled with an extended expiration date.
+________
+PRODUCT
+Red Blood Cells.  Recall #B-999-9.
+CODE
+Unit #21KJ15589.
+MANUFACTURER
+American Red Cross Blood Services, Portland, Oregon.
+RECALLED BY
+Manufacturer, by telephone on April 9, 1999, followed by letter 
+dated April 21, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+California.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who was previously 
+deferred for an elevated ALT.
+________
+PRODUCT
+Platelets.  Recall #B-1052-9.
+CODE
+Unit #0Lle13309.
+MANUFACTURER
+American Red Cross Blood Services, Rochester, New York.
+RECALLED BY
+Manufacturer, by letter dated November 16, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+New York.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was distributed after receipt of information 
+concerning a post donation illness.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+________
+PRODUCT
+VIA Low Volume Mode (LVM) Monitor, an in-line beside medical 
+device used on volume restricted patients. 
+Recall #Z-1041-9.
+CODE
+Catalog #V-LVMI.  All units.
+MANUFACTURER
+VIA Medical Corporation, San Diego, California.
+RECALLED BY
+Manufacturer, by telephone on May 21, 1999, followed by letter.  
+Firm-initiated field correction ongoing.
+DISTRIBUTION
+California, Iowa, Missouri, New Jersey, Texas.
+QUANTITY
+59 units were distributed.
+REASON
+The device has a software problem that can cause the monitor, 
+under unusual circumstances, to display and print a chemistry 
+value from a previous sampling instead of the blood chemistry 
+value from the current sampling.
+________
+PRODUCT
+ADVIA 120 Hematology System, a quantitative automated hematology 
+analyzer that provides a leukocyte differential count and 
+reticulocyte analysis for in-vitro diagnostic use in clinical 
+laboratories:  a) Catalog #453-0024-03;
+b) Catalog #453-0024-04.  Recall #Z-1073/1074-9.
+CODE
+All serial numbers.
+MANUFACTURER
+Bayer Diagnostics Mfg. Ltd., Dublin, Ireland.
+RECALLED BY
+Bayer Corporation, Elkhart, Indiana, by customer bulletin sent on 
+April 30, 1999.  Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+Approximately 1,000 units.
+REASON
+When running the ADVIA 120 system in the manual mode using the 
+Host Query feature, and the timeout is set to 13 second, it is 
+possible for the system to report incorrect patient results.  The 
+supplemental labeling instructions section of the product 
+labeling instructs users to verify that the correct sample 
+identification number appears on the status line before using 
+either of the manual samplers.  However, the user is not clearly 
+told to review the supplemental operating instructions prior to 
+the operation of the system.
+________
+PRODUCT
+ADVIA 120 Hematology System, a quantitative automated hematology 
+analyzer that provides a leukocyte differential count and 
+reticulocyte analysis for in-vitro diagnostic use in clinical 
+laboratories:  a) Catalog 453-0024-03; 
+b) Catalog #453-0024-04.  Recall #Z-1075/1076-9.
+CODE
+All serial numbers.
+MANUFACTURER
+Bayer Diagnostics Mfg. Ltd., Dublin, Ireland.
+RECALLED BY
+Bayer Corporation, Elkhart, Indiana, by customer bulletin sent on 
+June 15, 1999.  Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+Approximately 1,000 units.
+REASON
+The sample needle can be activated while the system is in stand-
+by mode during needle chamber cleaning procedure.  Product 
+labeling warns that the system must be either off or in the 
+stand-by mode to perform routine maintenance, or personal injury 
+from the may occur.
+________
+PRODUCT
+Techstar XL Percutaneous Vascular Surgical Device, intended for 
+the percutaneous deployment and tying of sutures for surgical 
+closure of arterial puncture sites resulting from diagnostic 
+catheterization procedures:
+a) Model TXL-431-06; b) TXLS-432-06 (Outside the US).
+Recall #Z-1085/1086-9.
+CODE
+All Techstar XL 6 French device produced on or after 2/1/99 
+and shipped on or prior to 7/2/99 that were manufactured on 
+the Gray, Red, and Purple production lines.
+MANUFACTURER
+Perclose, Inc., Redwood City, California.
+RECALLED BY
+Manufacturer, by FedEx letter, fax, and telephone on July 8, 
+1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+55,794 units were distributed.
+REASON
+The needle tips may be misaligned during deployment.
+________
+PRODUCT
+Viscoelastic Systems, indicated for use as a surgical aid in 
+anterior segment procedures including cataract extraction and 
+intraocular lens implantation:
+a) Viscoat Viscoelastic Solution, Catalog No. 8065-1839-05;
+b) Duovisc Viscoelastic Systems, Catalog No. 8065-1831-05.
+Recall #Z-1088/1089-9.
+CODE
+Lot Numbers:  a) 57010P, 57443P; b) 57446P.
+MANUFACTURER
+Alcon Puerto Rico, Inc., Humacao, Puerto Rico.
+RECALLED BY
+Manufacturer, by letter mailed on June 18, 1999.  Firm-
+initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+36,390 units were distributed.
+REASON
+The product labeling refers to a Viscoat Cannula Locking Ring 
+which is not present in all packages.
+________
+PRODUCT
+Sterile Micro-Kover for Wild, with or without Observer Tubes and 
+Photographic System, Part #09-MK953, 40.5 W x 102" L 
+(103cmx259cm).  Recall #Z-1094-9.
+CODE
+Lot #06092C0267.
+MANUFACTURER
+Advance Medical Designs, Inc., Marietta, Georgia.
+RECALLED BY
+Manufacturer, by letter on June 2, 1999.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+New York , Tennessee, Australia, Portugal.
+QUANTITY
+420 units were distributed.
+REASON
+The lot contained open package seals, thereby compromising the 
+sterility of the device.
+________
+PRODUCT
+Sterile Micro-Kover for Wild, Part No. 09-MK957, 
+54"W x 150"L, with Monocular or Stereo Observer Tubes and 
+Photographic System. Recall #Z-1095-9.
+CODE
+Lot No. 08731C1985.
+MANUFACTURER
+Advance Medical Designs, Inc., Marietta, Georgia.
+RECALLED BY
+Manufacturer, by letter mailed on June 2, 1999.  Firm-initiated 
+recall ongoing.
+DISTRIBUTION
+Montana, New Jersey Texas, Canada.
+QUANTITY
+375 units were distributed.
+REASON
+The lot contained open package seals, thereby compromising the 
+sterility of the device.
+________
+PRODUCT
+Sterile Custom Kover, Part No. 08-CC121, 40" x 60" without Rubber 
+Band.  Recall #Z-1096-9.
+CODE
+Lot Numbers: 07267C0572 and 0797C1076.
+MANUFACTURER
+Advance Medical Designs, Inc., Marietta, Georgia.
+RECALLED BY
+Manufacturer, by letter on June 2, 1999.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Alabama and North Dakota.
+QUANTITY
+925 units of lot 07267C0572 and 800 0797C1076 units of lot were 
+distributed.
+REASON
+The lots contained open package seals, thereby compromising the 
+sterility of the device.
+________
+PRODUCT
+Modified Leveen Needle Electrode, for use in coagulation necrosis 
+of soft tissue, Model numbers:  LE212, LE215, LE312, LE315, 
+LE3512, LE3515, LE3525.
+Recall #Z-1098/1104-9.
+CODE
+All lots.
+MANUFACTURER
+Radiotherapeutics Corporation, Mountain View, California.
+RECALLED BY
+Manufacturer, by letter on June 30, 1999.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+2,139 units were distributed.
+REASON
+Sterility may be compromised as evidenced by a loss of package 
+integrity.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+________
+PRODUCT
+Bayer Immuno I Automated Clinical Analyzer Reagents: a) 
+Carbamazepine Parameter, intended to measure carbamazepine, an 
+anticonvulsant drug, in serum or plasma; b) Valproic Acid 
+Parameterm intended to measure valproic acid, an anticonvulsant 
+durg in human serum or plasma.
+Recall #Z-1070/1071-9.
+CODE
+a) Catalog No.T01-3677-51, Lots: V23247, V25335 and V29367;
+b) Catalog No. T01-3698-01, Lots: V26346, V23428, V08450, V13604, 
+V20984 and V31008. 
+MANUFACTURER
+Dade-Behring, San Jose, California.
+RECALLED BY
+Bayer Corporation, Elkhart, Indiana, by bulletin sent on April 1 
+1999.  Firm-initiated recall ongoing.
+DISTRIBUITON
+Nationwide and international.
+QUANTITY
+a) 3,630; b) 3,561 were distributed.
+REASON
+The above lots do not meet the on-system stability claim.
+________
+PRODUCT
+Bayer Technicon SETpoint Chemistry Calibrator, intended for in-
+vitro diagnostic use.  Recall #Z-1072-9.
+CODE
+Catalog No. T03-1291-62, Lot No. V25757 EXP Sep00;
+MANUFACTURER
+Bayer Corporation, Business Group Diagnostics, Middletown, 
+Virginia.
+RECALLED BY
+Bayer Corporation, Elkhart, Indiana, by telephone on June 22, 
+1999, followed by letter and customer bulletin mailed on June 22, 
+1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Michigan, Massachusetts, Missouri, New York, Pennsylvania, 
+international.
+QUANTITY
+Approximately 3,767 units were distributed.
+REASON
+During review of the value assignment procedure it was learned 
+that the operator manually entered intercept corrected SETpoint 
+values into an Excel spreadsheet rather than letting the 
+spreadsheet calculate the corrections from the true SETpoint.  
+The values that were entered were incorrect and, therefore, the 
+resulting value assignments were incorrect.
+________
+PRODUCT
+Bayer DCA 2000+ Microalbumin/Creatinine, intended for 
+professional use in the measurement of microalbumin creatinine 
+and albumin/creatinine ratio in urine.
+Recall #Z-1087-9.
+CODE
+Catalog No. 6011, Lot No. 0988039 EXP March2001.
+MANUFACTURER
+Bayer Corporation - Business Group Diagnostics, Mishawaka, 
+Indiana.
+RECALLED BY
+Bayer Corporation, Elkhart, Indiana, by telephone on June 16, 
+1999, followed by letter.  Firm-initiated recall ongoing.
+DISTRIBUTION
+California, Colorado, Michigan, Texas, international.
+QUANTITY
+688 units were distributed.
+REASON
+The above lot can produce erratic results (high and low) for both 
+albumin, Creatinine and the ratio of albumin to Creatinine.
+________
+PRODUCT
+Vitros 250 Chemistry System, used to perform clinical tests on 
+serum, urine, and cerebral spinal fluid specimens:
+a) Catalog No. 8132086, Vitros 250 Chemistry System;
+b) Catalog No. 1758143, Vitros 250AT Chemistry System.
+Recall #Z-1090/1091-9.
+CODE
+All serial numbers.
+MANUFACTURER
+Ortho Clinical Diagnostics, Rochester, New York.
+RECALLED BY
+Manufacturer, by letter dated February 24, 1999, and March 26, 
+1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+Approximately 3,886 units were distributed.
+REASON
+The devices may give negatively biased results for digoxin, 
+phenytoin, and C-reactive protein.
+________
+PRODUCT
+Titanium Flexible Humeral Nail
+a) Part Nos. 475.042 through 475.050;
+b) Part Nos. 75.242 through 475.250.
+Recall #Z-1092/1093-9.
+CODE
+Part #475.042 lots: A4GM309, A4GO991, A4GQ670,A4HS309, A4HV924
+Part #475.043 lots: A4GL128, A4GM308, A4GO992, A4GQ671, A4HB052, 
+A4HM661, A4HS263, A4HV925
+Part #475.044 lots: A4GL129, A4GM307, A4GO993, A4GQ672, A4HB053, 
+A4HV921
+Part #475.045 lots: A4GL130, A4GM306, A4GO994, A4GQ673, A4GQ846, 
+A4HB054, A4HK005, A4HR690, A4HS751
+Part #475.046 lots: A4GL131, A4GM305, A4GO995, A4GQ674, A4GQ847, 
+A4HB055, A4HV920
+Part #475.047 lots: A4GL132, A4GM304, A4GO996, A4GQ849, A4HB056, 
+A4HR691, A4HV922
+Part #475.048 lots: A4GL133, A4GM303, A4GO997, A4GQ848, A4HF356, 
+A4HM662, A4HS244, A4HV927
+Part #475.049 lots: A4GL133, A4GM302, A4GO998, A4GQ675, A4GQ676, 
+A4HB057, A4HS245, A4HV928
+Part #475.050 lots: A4GM301, A4GO999, A4GQ677, A4HB058, A4HS246, 
+A4HV929
+Part #475.242 lots: A4GM359, A4GN261, A4GP001, A4HB059
+Part #475.243 lots: A4GM511, A4GN262, A4GP459, A4HB060, A4HS247
+Part #475.244 lots: A4GN104, A4GN263, A4GP460, A4GQ850, A4HB061, 
+A4HM663, A4HS248
+Part #475.245 lots: A4GM510, A4GN264, A4GP461, A4GQ678, A4HB062
+Part #475.246 lots: A4GM512, A4GN265, A4GP462, A4GQ679, A4HB063, 
+A4HR692
+Part #475.247 lots: A4GM508, A4GN266, A4GP463, A4GQ851, A4HB064
+Part #475.248 lots: A4GN513, A4GN267, A4GP464, A4HB065, A4HC149, 
+A4HS249
+Part #475.249 lots: A4GM514, A4GN268, A4GP465, A4HB066, A4HM665, 
+A4HS900
+Part #475.250 lots: A4GM509, A4GN269, A4GP466, A4HB067, A4HC148, 
+A4HS250.
+MANUFACTURER
+Synthes (USA), West Chester, Pennsylvania.
+RECALLED BY
+Synthes USA, Paoli, Pennsylvania, by telephone on November 19, 
+1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Alabama, California, Maryland, Minnesota, North Carolina, Oregon, 
+Washington state, Canada, Switzerland.
+QUANTITY
+538 units.
+REASON
+The central wires may be undersized which could cause 
+disengagement at the proximal end.
+
+END OF ENFORCEMENT REPORT FOR JULY 28, 1999.
+
+####

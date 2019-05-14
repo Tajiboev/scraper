@@ -1,0 +1,1036 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  DEC
+		  Mar
+		
+		
+		
+		  
+		  28
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      22 captures
+	      19 Aug 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DO
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+  November 5, 1997                                        97-45
+  
+  RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I ============
+  _______________
+  PRODUCT   	Frozen Fresh Escargot in 20 ounce box
+            	containing 2 10-ounce vacuum packaged bags. 
+            	Recall #F-076-8.
+  CODE      	All codes manufactured on or before June 27,
+            	1997.
+  MANUFACTURER 	Escargot International, Inc., Addison, Texas.
+  RECALLED BY  	Manufacturer, by letter on August 18, 1997. 
+                Firm-initiated recall ongoing.
+  DISTRIBUTION 	Colorado, Florida, Georgia, Illinois, Kansas,
+                Louisiana, New Hampshire, New Jersey, New
+                York, Oregon, Pennsylvania, Texas, Washington,
+                and the District of Columbia.
+  QUANTITY     	1,164 boxes were distributed.
+  REASON  	Product may be contaminated with Listeria
+            	monocytogenes.
+  
+  
+    ______________
+  UPDATE  	Recall #F-031-8, Oriental Mascot brand Dried
+          	Sweet Potato, which appeared in the October
+          	29, 1997, Enforcement Report should read: 
+          	Completed recall resulted from sample analysis
+          	and follow-up by the New York State Department
+          	of Agriculture and Markets.
+  
+  _______________
+  PRODUCT 	Alfalfa Sprouts and Spicy Sprouts (a mixture
+            	of alfalfa sprouts and radish sprouts.  
+          	Recall #F-084/085-8.
+  CODE    	Not coded.  All product shipped prior to
+            	February 25, 1997.
+  MANUFACTURER 	Fuji Natural Foods, Inc., Ontario, California.
+  RECALLED BY  	Manufacturer, by letter on February 27 & 28,
+                1997.  State of California/Department of
+                Health Services issued a press release (#20-97) 
+		on March 7, 1997.  Firm-initiated recall
+                complete.
+  DISTRIBUTION 	California, Arizona, Colorado, Utah, New
+                Mexico.
+  QUANTITY     	Firm estimates none remains on the market.
+  REASON  	The alfalfa sprouts were found contaminated
+            	with Salmonella oranienburg.
+  
+  
+  RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II ===========
+  _______________
+  PRODUCT 	Wilson Farms brand Diet Cola, in 2 liter
+            	plastic bottles.  Recall #F-072-8.
+  CODE    	All lots beginning with V7203.
+  MANUFACTURER 	Cott Beverages, Mississauga, Ontario, Canada.
+  RECALLED BY  	Tops markets, Inc., Williamsville, New York,
+                by telephone and E-mail or fax on September 3,
+                1997.  Firm-initiated recall ongoing.
+  DISTRIBUTION 	New York.
+  QUANTITY     	2,800 cases (6 bottles per case) were
+                distributed.
+  REASON  	The product is misbranded, in that it's
+            	labeled as "Diet" but actually contains
+            	sweetened product.
+  
+  _______________
+  PRODUCT 	Bakers Instant Active Dry Yeast, in 1 pound
+            	packages, used by bakeries for baking bread
+            	and pastries.  Recall #F-077-8.
+  CODE    	Lot numbers:   690    691    692    693 
+                	       698    699    700    702 
+                       	       703    708    709    710. 
+  MANUFACTURER  Levaduras Universal, Guatemala.
+  
+                               -2-
+  RECALLED BY    Red Star de Puerto Rico, Carolina, Puerto
+                 Rico, by telephone or by visit on September 11
+                 & 12, 1997.  Firm-initiated recall complete.
+  DISTRIBUTION 	 Puerto Rico.
+  QUANTITY     	 5,688 pounds were distributed; firm estimates
+                 none remains on the market.
+  REASON  	 Product may be contaminated with salmonella.
+  
+  _______________
+  PRODUCT 	 Children's Chewable Vitamins w/Iron, Cherry,
+            	 in bottles of 100.  Recall #F-083-8.
+  CODE    	 Lots 5552-1 & 5552-2. 
+  MANUFACTURER	 Archon Vitamin Corporation, Irvington, New
+                 Jersey.
+  RECALLED BY  	 Manufacturer, by letter on July 23, 1997. 
+                 Firm-initiated recall ongoing.
+  DISTRIBUTION 	 Michigan, Russia, Germany.
+  QUANTITY     	 16,093 bottles were distributed.
+  REASON  	 Product contains excessive levels of lead.
+  
+  
+  RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III ==========
+  _______________
+  PRODUCT 	 Mrs. Clark's Foods Spaghetti Sauce packaged in
+            	 clear, rigid 1-gallon plastic containers.  
+            	 The product is labeled as containing
+            	 commodities donated by the U.S.D.A., and "Not
+            	 To Be Sold Or Exchanged".  Recall #F-065-8.
+  CODE    	 7216CBA.
+  MANUFACTURER 	 Mrs. Clark's Foods, Inc., Ankeny, Iowa.
+  RECALLED BY    Manufacturer, by telephone and fax dated
+                 September 3, 1997.  Firm-initiated recall
+                 ongoing.
+  DISTRIBUTION	 Nebraska.
+  QUANTITY       632 4-gallon cases were distributed.
+  REASON 	 Product is held in swollen and leaking
+        	 containers and is contaminated.
+  
+  _______________
+  PRODUCT 	 Old El Paso Salsa:  a) Old El Paso Thick 'N
+            	 Chunky Salsa, Extra Mild, Net Weight 20 ounces
+              	 b) Old El Paso Thick 'N Chunky Salsa, Mild,
+                 Net Weight 20 ounces 
+          	 c) Old El Paso Thick 'N Chunky Salsa, Medium,
+           	 Net Weight 20 ounces 
+         	 d) Old El Paso Thick 'N Chunky Salsa, Hot, Net
+            	 Weight 20 ounces.  Recall #F-066/069-8.
+  CODE   	 All codes beginning with H7N27, H7N28, H7N29,
+                 I7N03, I7N04, I7N05.
+  MANUFACTURER   Pillsbury North America, Vineland, New Jersey.
+  RECALLED BY  	 The Pillsbury Company, Minneapolis, Minnesota,
+                 by electronic mail on October 2, 1997. 
+		 Firm-initiated recall ongoing.
+                               -3-
+  DISTRIBUTION   Eastern United States and as far west a the
+                 Rocky Mountains and Colorado.
+  QUANTITY       1,682 cases containing 12 20-ounce bottles
+                 were distributed.
+  REASON         The products are spoiling. 
+  
+  _______________
+  PRODUCT	 Hi-C Wildberry Fruit Drink, in 36 ounce metal
+            	 cans.  Recall #F-075-8.
+  CODE    	 Package: W722OCT104, Case: WILDBERRY1180 xx:xx
+           	 08 08 97 G20246E.
+  MANUFACTURER 	 The Minute Maid Company, Geneva, Ohio.
+  RECALLED BY    The Minute Maid Company, Houston, Texas, by
+                 letter on October 24, 1997.  Firm-initiated
+                 recall complete.
+  DISTRIBUTION 	 Connecticut, Iowa, Illinois, Indiana,
+                 Massachusetts, Maryland, Michigan, Minnesota,
+                 North Dakota, Nebraska, New Jersey, New York,
+                 Pennsylvania, Rhode Island, Wisconsin.
+  QUANTITY     	 7,180 were distributed.
+  REASON  	 Some product was manufactured without
+            	 sweetener.
+  
+  
+  RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II 
+  ===========
+  _______________
+  PRODUCT 	Esgic Tablets (Butalbital 50 mg/Acetaminophen
+            	325 mg/caffeine 40 mg), in 500 count bottles,
+            	Rx for the relief of the symptom complex of
+           	tension (or muscle contraction) headache, .
+          	Recall #D-026-8.
+  CODE    	GE395F      EXP 12/97
+          	GE396F      EXP 12/97
+          	GE397F      EXP 12/97
+  	        GE398F      EXP 9/97
+          	GE399F      EXP 3/98.
+  MANUFACTURER  Graham Laboratories, Inc., Hobart, New York.  
+  RECALLED BY 	Forest Pharmaceuticals, Inc., St. Louis,
+                Missouri, by  letter dated July 30, 1997. 
+                Firm-initiated recall ongoing.
+  DISTRIBUTION  Nationwide.
+  QUANTITY    	6,559 bottles were distributed.
+  REASON  	Dissolution failure.
+  
+  _______________
+  PRODUCT 	Aspirin Tablets, 325 mg, packed in blister
+            	cards of 31 tablets per card, OTC analgesic
+            	(NDC #6139289931).  Recall #D-029-8.
+  CODE    	Lot #5794 EXP 4/5/98.
+  MANUFACTURER  LNK International, Hauppauge, New York.
+  RECALLED BY 	Heartland Healthcare Services, Toledo, Ohio,
+                by telephone on October 17, 1997.  
+		Firm-initiated recall ongoing.
+                               -4-
+  DISTRIBUTION  Ohio.
+  QUANTITY      198 blister cards containing 31 individual
+                unit dose aspirin tablets were distributed.
+  REASON  	Mislabeling - Uncoated tablets labeled as
+           	"enteric coated".
+  
+  
+  RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III ==========
+  _______________
+  PRODUCT 	Ativan Injection (Lorazepam), 2 mg/ml, 1 ml in
+            	2 ml syringes, packages of 10, Rx indicated
+            	for use in adult patients for preanesthetic
+            	medication, producing sedation, relief of
+            	anxiety, and a decreased ability to recall
+            	events related to the day of surgery 
+          	(NDC #0008-0581-06).  Recall #D-024-8.
+  CODE    	Lot #4970147 EXP 4/99.
+  MANUFACTURER  Wyeth Ayerst Laboratories, West Chester,
+                Pennsylvania.
+  RECALLED BY   Manufacturer, by telephone on September 3,
+                1997, followed by fax on September 18, 1997. 
+                Firm-initiated recall complete.
+  DISTRIBUTION  Kentucky and Indiana.
+  QUANTITY      60 packages were distributed.
+  REASON 	Product leakage from syringe.
+  
+  _______________
+  PRODUCT 	Betuline Lotion (Methyl Salicylate, Camphor,
+            	Menthol), in 2 fluid ounce bottles, OTC
+            	indicated for temporary relief from minor
+            	aches and pains (NDC 0496-0509-06).
+          	Recall #D-025-8.
+  CODE   	Lot #57-015 EXP 01/99.
+  MANUFACTURER  Ferndale Laboratories, Inc., Ferndale,
+                Michigan.
+  RECALLED BY   Manufacturer, by letter on October 14, 1997. 
+                Firm-initiated recall ongoing.
+  DISTRIBUTION  Nationwide.
+  QUANTITY      17,792 bottles were distributed.
+  REASON  	Superpotency - methyl salicylate (stability).
+  
+  _______________
+  PRODUCT 	Senna Gen Tablets (laxative-senna
+            	concentrate/sennosides), packaged as 30, 32,
+            	or 60 individual unit dosages per blister card
+           	(NDC #00182100910, NDC #6139200839, NDC
+            	#613900832, NDC #6139200835). Recall #D-027-8.
+  CODE    	LOT #5480, EXP 2/18/98 (blister cards of 30
+            	and 32 tablets); and LOT #5599, EXP 2/22/98
+           	(blister cards of 60 tablets).
+  MANUFACTURER 	Concord Labs, Fairfield, New Jersey.
+  
+                               -5-
+  RECALLED BY   Heartland HealthCare Services, Toledo, Ohio
+                (repacker/responsible firm), by telephone on
+                October 17, 1997.  Firm-initiated recall
+                ongoing.
+  DISTRIBUTION  Connecticut, Illinois, Washington, Oregon,
+                Kansas, Ohio, Massachusetts, Missouri,
+                Oklahoma, Iowa.
+  QUANTITY      A total of 113/60 tablet unit dose blister
+                cards; 351/30 tablet unit dose blister cards;
+                and 273/32 tablet unit dose blister cards,
+                were distributed.
+  REASON  	Incorrectly declared potency - Product labeled
+           	as containing 187 mg Senna Concentrate (5.6 mg
+            	Sennosides), but actually contains 8.6 mg
+            	Sennosides.
+  
+  _______________
+  PRODUCT 	Estring (Estradiol Vaginal Ring), 2 mg, Rx,
+            	indicated for the treatment of urogenital
+            	symptoms associated with post-menopausal
+            	atrophy of the vagina and/or the lower urinary
+            	tract (NDC 0013-2150-36).  Recall #D-028-8.
+  CODE    	Lot numbers:  XE817A and XE848A, EXP 4/30/98.
+  MANUFACTURER  Ferring AB, Malmo, Sweden (contract
+                manufacturer).
+  RECALLED BY  	Pharmacia & Upjohn, Kalamazoo, Michigan, by
+                letter on October 27, 1997.  Firm-initiated
+                recall ongoing.
+  DISTRIBUTION	Nationwide.
+  QUANTITY     	6,011 units were distributed between January
+                27 and May 5, 1997.
+  REASON  	Stability cannot be assured through expiry
+         	date.
+  
+  
+  RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II =======
+  _______________
+  PRODUCT 	Source Plasma.  Recall #B-050-8.
+  CODE    	Unit 72754252.
+  MANUFACTURER 	Bio-Blood Components, Inc., Hammond, Indiana.
+  RECALLED BY  	Manufacturer, by letter on July 18, 1997. 
+                Firm-initiated recall complete.
+  DISTRIBUTION  California.
+  QUANTITY      1 unit was distributed.
+  REASON  	Blood product was collected from a donor who
+            	had ear piercing within twelve months of
+            	donation. 
+  
+  _______________
+  PRODUCT       a) Red Blood Cells; b) Recovered Plasma.
+ 	        Recall #B-065/066-8.
+  CODE    	Unit 16LG03186.
+  
+                               -6-
+MANUFACTURER    American Red Cross Blood Services, Columbus,
+	        Ohio.
+  RECALLED BY   Manufacturer, by letter dated May 20, 1997. 
+                Firm-initiated recall complete.
+  DISTRIBUTION  Ohio and California.
+  QUANTITY      1 unit of each component was distributed.
+  REASON   	Blood products were collected from a donor who
+            	received a Measles, Mumps and Rubella (MMR)
+            	vaccine within two weeks of donation.
+  
+  _______________
+  PRODUCT 	a) Red Blood Cells.      Recall #B-070-8.
+  CODE  	Unit numbers: 3213477 and 3213483
+  MANUFACTURER  Sylvan N. Goldman Center Oklahoma Blood
+                Institute, Oklahoma City, Oklahoma. 
+  RECALLED BY   Manufacturer, by fax on December 12, 1995. 
+                Firm-initiated recall complete.
+  DISTRIBUTION  Oklahoma. 
+  QUANTITY      2 units were distributed.
+  REASON  	Blood products were prepared from units of
+            	Whole Blood which remained at room temperature
+            	for an unacceptable length of time. 
+  
+  _______________
+  PRODUCT 	a) Red Blood Cells;      b) Platelets;
+          	c) Fresh Frozen Plasma;
+          	d) Cryoprecipitated AHF 
+          	e) Recovered Plasma.  Recall #B-072/076-8.
+  CODE    	The blood components are identified with one
+            	of the following Whole Blood Numbers: 
+           	24KE01978, 24LG59026, 24LG82438, 24LH02286,
+            	24LH56582, 24LH61812, 24LH66486, 24LH68873,
+            	24LM22263, 24LM42344, 24LM61200, 24LM69015,
+            	24LM84556, 24LQ51895, 24LQ52949, 24LQ65297,
+            	24LS55346, 24LS57269, 24LY00872, 24LY26987.
+  MANUFACTURER  American Red Cross Blood Services, Louisville,
+                Kentucky.
+  RECALLED BY   Manufacturer, by letters dated October 16 and
+                20, 1995, and July 7, 1997, and by telephone
+                on July 8, 1997.  Firm-initiated recall
+                complete.
+  DISTRIBUTION  Kentucky, Illinois, Switzerland.
+  QUANTITY      a) 20 units; b) 12 units; c) 8 units
+       		d) 4 units; e) 12 units were distributed.
+   REASON 	Blood products tested repeatedly reactive for
+            	the antibody to the human immunodeficiency
+            	virus type 1 (anti-HIV-1), or which tested
+            	negative for anti-HIV-1, but were collected
+            	from a donor who previously tested repeatedly
+            	reactive for anti-HIV-1, Western blot
+            	indeterminate. 
+  
+                               -7-
+_______________
+  PRODUCT 	Red Blood Cells.  Recall #B-080-8.
+  CODE    	Unit 04KF81162.
+  MANUFACTURER  American Red Cross Blood Services, Dedham,
+                Massachusetts.
+  RECALLED BY   Manufacturer, by letter dated October 10,
+                1996.  Firm-initiated recall complete.
+  DISTRIBUTION  New Hampshire.
+  QUANTITY      1 unit was distributed.
+  REASON  	Blood product was collected from a donor who
+            	traveled to an area considered endemic for
+            	malaria. 
+  
+  _______________
+  PRODUCT 	Platelets, Pheresis.  Recall #B-082-8.
+  CODE    	Unit numbers:  10509-6684   10514-6643
+          	10510-7458   10509-6921   10515-7555
+          	10517-8076   10515-7447   10515-7979
+          	10515-7452   10509-6952   10517-8069
+          	10509-6906   10509-6901   10517-4832
+          	10517-4824   10515-7509   10516-7139
+          	10509-6917   10517-4866   10516-7030
+          	10516-7041   10515-7448   10516-7044
+          	10517-6576   10516-7040   10517-8073
+          	10516-7074   10515-7433   10517-4839
+          	10509-6912   10516-7075.   
+  MANUFACTURER 	United Blood Services, Scottsdale, Arizona.
+  RECALLED BY   Blood Systems, Inc., Scottsdale, Arizona, by
+                telephone on October 7, 1996, followed by
+                letter dated December 5, 1996.  Firm-initiated
+                recall complete. 
+  DISTRIBUTION  Illinois, Missouri, Arizona.
+  QUANTITY      31 units were distributed.
+  REASON        Blood products had an elevated platelet count.
+  
+  
+  RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III ======
+  _______________
+  PRODUCT 	Fresh Frozen Plasma.  Recall #B-035-8.
+  CODE    	Unit #11316-2795.
+  MANUFACTURER  United Blood Services, El Paso, Texas.
+  RECALLED BY   Blood Systems, Inc., Scottsdale, Arizona, by
+                telephone on June 3, 1997, followed by letter
+                dated July 2, 1997.  Firm-initiated recall
+                complete.
+  DISTRIBUTION  Texas.
+  QUANTITY      1 unit was distributed.
+  REASON  	Blood product was prepared from a unit of
+            	whole blood with an extended collection time
+            	and designated as a difficult collection.
+  
+                               -8-
+_______________
+  PRODUCT 	Fresh Frozen Plasma.  Recall #B-051-8.
+  CODE    	Units 18S48219, 18S48221, 18Q79679, 18Q79710.
+  MANUFACTURER  American Red Cross, Lansing, Michigan.
+  RECALLED BY   Manufacturer, by telephone and letter issued
+          	on April 23, 1996.  Firm-initiated recall
+          	complete.
+  DISTRIBUTION  Michigan.
+  QUANTITY      4 units were distributed.
+  REASON  	Blood products were stored at unacceptable
+          	temperature.
+  
+  _______________
+  PRODUCT 	a) Red Blood Cells; b) Platelets; c) Fresh
+            	Frozen Plasma.  Recall #B-052/054-8.
+  CODE    	Unit #50F51368.
+  MANUFACTURER  American Red Cross Blood Services, Toledo,
+                Ohio.
+  RECALLED BY  	Manufacturer, by telephone on July 1, 1997,
+                and by letter dated July 10, 1997.  
+		Firm-initiated recall complete.
+  DISTRIBUTION  Ohio and Michigan.
+  QUANTITY      1 unit of each component was distributed.
+  REASON  	Blood products were collected from a donor
+            	who received a tissue transplant (surgery)
+            	within a year of donation.
+  
+  _______________
+  PRODUCT 	Recovered Plasma.  Recall #B-071-8.
+  CODE    	Unit numbers 3213477 and 3213483.
+  MANUFACTURER  Sylvlan N. Goldlman Center, Oklahoma Blood
+                Institute, Oklahoma, City, Oklahoma.
+  RECALLED BY   Manufacturer, by fax on December 12, 1995. 
+                Firm-initiated recall complete.
+  DISTRIBUTION  Texas.
+  QUANTITY      2 units were distributed.
+  REASON  	Blood products were prepared from units of
+            	Whole Blood which remained at room temperature
+            	for an unacceptable length of time
+  
+  _______________
+  PRODUCT 	Irradiated Red Blood Cells.  Recall #B-081-8.
+  CODE    	Unit #04FS68669.
+  MANUFACTURER  American Red Cross Blood Services, Dedham,
+          	Massachusetts.
+  RECALLED BY   Manufacturer, by telephone on July 3, 1996,
+          	followed by letter dated July 23, 1996.  
+         	Firm-initiated recall complete.
+  DISTRIBUTION  Massachusetts.
+  QUANTITY      1 unit was distributed.
+  REASON  	Blood product was labeled with an extended
+            	expiration date after irradiation, was
+           	distributed.
+                               -9-
+_______________
+  PRODUCT 	Irradiated Red Blood Cells.  Recall #B-083-8.
+  CODE    	Unit 04S87117.
+  MANUFACTURER  American Red Cross Blood Services, Dedham,
+                Massachusetts.
+  RECALLED BY   Manufacturer, by telephone on January 14,
+                1997.  Firm-initiated recall complete.
+  DISTRIBUTION  Massachusetts.
+  QUANTITY      1 unit was distributed.
+  REASON 	Blood product remained at room temperature for
+           	greater than 30 minutes during irradiation.
+  
+  
+  
+  RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II 
+  =========
+  _______________
+  PRODUCT 	Maxx 250 ml Reservoir with Attached 200 ml/hr
+            	Tubing, 1.2 micron Air Eliminating Filter,
+            	Distal Male Luer, Roblets Clamp and Fill Port,
+           	Rx sterile disposable I.V. fluid delivery
+            	system.  Recall #Z-012-8.
+  CODE    	Lot 63533.
+  MANUFACTURER  Medication Delivery Devices, Inc., a
+                subsidiary of Baiter Healthcare Corporation,
+                San Diego, California.
+  RECALLED BY  	Baiter Healthcare Corporation, I.V. Systems
+                Division, Round Lake, Illinois, by fax dated
+                September 29, 1997.  Firm-initiated recall
+                ongoing.
+  DISTRIBUTION 	Nationwide and Canada.
+  QUANTITY     	116 cases were distributed.
+  REASON  	The units labeled with a flow rate 200 ml/hr
+            	may actually have a 100 ml/hr flow restrictor
+        	 in the disposable tubing.
+  
+  _______________
+  PRODUCT 	Mini Lead Aprons, Aprons, Lead Sheeting,
+            	Mobile Protective Shield, Protecta Pad and
+            	Thyroid Shields:
+          	a) Aprons  
+          	Alimed item numbers 9-080, 9-081, 9-082, 9-083
+            	9-203, 9-207, 9-221, 9-222, 9-223, 9-227,
+           	9-316, 9-332 920117, 920118, 920119, 920121
+          	B.T. Medical item numbers:  9-287, 9-346,
+           	9-348, 9-584 91-202, 91-203, 91-213,         
+            	91-214, 920104, 920106, 920107, 920108,
+            	920109, 920111 920112, 920123, 920124, 920126,
+            	920127, 920261 920438, 920439, 920441, 920442,
+            	920517, 920518, 920519, 920523, 920524,
+            	920525, 95-568   
+          	Bar-Ray Item Number:   9-623
+          	b) Lead Blocker Sheet
+  
+                               -10-
+	        Alimed item numbers:   9-466, 9-467, 9-468,
+        	9-469, 9-470, 9-471, 9-472, 9-473, 9-474,
+            	9-487
+         	Bar-Ray item number: 920558
+          	c) Shields 
+          	Alimed item numbers: 9-475, 9-590, 9-654,
+           	920483 
+          	Bar-Ray item numbers:  91-255, 91-256 
+          	d) Vestskirt
+          	B.T. Medical item numbers:  91-205, 91-206.
+          	These products were manufactured from January
+           	1, 1997 through May.  Recall #Z-032/035-8.
+  CODE    	Product purchased between January 1, 1997
+            	through May 1997.
+  MANUFACTURER 	The Kennedy Company, Scottsboro, Alabama
+                (supplier of contaminated lead vinyl).
+  RECALLED BY  	AliMed, Inc., Dedham, Massachusetts, by letter
+                on June 23, 1997.  Firm-initiated recall
+                ongoing.
+  DISTRIBUTION 	Nationwide, Canada, Japan.
+  QUANTITY     	437 units were distributed.
+  REASON  	The radiation protection devices contain lead
+            	contamination with small amounts of
+           	radioactive substances. 
+  
+  _______________
+  PRODUCT 	Portable oxygen units, used to provide a
+            	portable source of oxygen to the patient for
+            	extended periods of time:  a) Caire Top Fill
+            	50 psi Stroller (portable) oxygen unit, 1.2
+            	liter; b) Lincare Sur-Cal III, 50 psi
+            	(portable) Oxygen Unit, 0.6 liter; c) Linecare
+            	Sur-Cal III, 50 psi (portable) Oxygen Unit,
+            	1.2 liter; d) Lincare Mark X (portable) Oxygen
+            	Unit, 1.2 liter. Recall #Z-043/046-8.
+  CODE    	a) Product Number 10677517; Product Number
+            	10669162; c) Product Number 10678229; d)
+            	Product Number 10561987. 
+  MANUFACTURER 	Caire, Inc., Burnsville, Minnesota.
+  RECALLED BY  	Manufacturer, by letter on October 9, 1997. 
+                Firm-initiated field correction (retrofit)
+                ongoing.
+  DISTRIBUTION 	Nationwide.
+  QUANTITY     	5,646 units.
+  REASON  	Too small of an orifice prior to the primary
+            	relief valves can result in flow of liquid
+            	oxygen into the nasal canula and
+            	frostbite/burns to the patient.  A release of
+           	pressure may occur when an oxygen unit tips
+            	over or when there is a vacuum failure of the
+            	cryogenic unit.
+  
+                               -11-
+_______________
+  PRODUCT 	Laser Lancet LB100 Er:YAG Laser Perforator, a
+            	skin perforator.  Recall #Z-048-8
+  CODE    	None.
+  MANUFACTURER 	TransMedica International, Little Rock,
+                Arkansas.
+  RECALLED BY  	Manufacturer.  FDA approved the firm's
+                corrective action plan on October 7, 1997. 
+                Firm-initiated field correction ongoing.
+  DISTRIBUTION 	Nationwide.
+  QUANTITY     	11 units were distributed.
+  REASON  	The devices failed to comply with 21 CFR
+            	1040.10(h)(1)(iii) and 1040.11(a)(2), labeling
+            	noncompliances. 
+  
+  _______________
+  PRODUCT       Ultra-Flex Adult Anesthesia Breathing
+                Circuits.  Recall #Z-049/153-8.
+  CODE          1.  Product No. 047542, Lot No. 1030G7; 
+           	2.  Product No. OQ81213B-32831X, 
+               	Lot Nos.   0463J7, 1588H7;    
+               	3.  Product No. 30010, Lot No. 1432G7; 
+               	4.  Product No. 47511A, Lot No. 1145H7; 
+               	5.  Product No. 47513, Lot Nos. 0210H7,
+                    0398H7; 
+              	6.  Product No. 47523, Lot Nos. 0399H7,
+                   0733J7, 1153H7; 
+               	7. Product No. 51213F-14621, Lot No.0869J7; 
+                8. Product No. 51213F-1468, Lot No. 0870J7; 
+                9. Product No. 5413F-84Z, Lot No. 0400H7; 
+               10. Product No. 5613B-80X, Lot Nos. 0606G7,
+                   06737H7, 0648H7, 1126G7, 1154H7, 1522H7; 
+               11. Product No. 5613F-26, Lot Nos. 0309H7,
+                   1155H7, 1247G7,  1790G7; 
+               12. Product No. 5753B-61Z, Lot No. 1020H7; 
+               13. Product No. 5753F-140X, Lot No. 0378J7; 
+               14. Product No. 5903F-14621, Lot No. 0305H7; 
+               15. Product No. 5753F-61, Lot Nos. 0608G7,
+                   0853H7, 1341H7; 
+               16. Product No. 5753F-6127, Lot No. 0868H7; 
+               17. Product No. 5903F-61, Lot Nos. 0102H7,
+                   0816G7, 1429H7, 1559G7; 
+               18. Product No. 61213B-618, Lot No. 1260H7; 
+               19. Product No. 61213F-6154, Lot No. 1257H7; 
+               20. Product No. 6413B-6115, Lot Nos. 1156H7, 
+                   1431H7;   
+               21. Product No. 6413B-6121, Lot Nos. 0126J7,
+                   0552H7, 1157H7, 1432H7, 1538G7; 
+               22. Product No. 6613F-84X, Lot No. 0786H7; 
+               23. Product No. 6753B-6133, Lot Nos. 0127J7,
+                   0553H7, 0625J7, 0708G7; 
+               24. Product No. 6753F-61, Lot Nos. 1043H7,
+                   1560G7; 
+                               -12-
+               25. Product No. 81213B-61, Lot Nos. 0128J7,
+                   1026G7, 047J7, 1478H7; 
+               26. Product No. 81213F-61, Lot Nos. 0105H7,
+                   0204H7, 0292H7, 0554H7, 0871J7, 1044H7,
+                   1250G7, 1342H7, 1561G7; 
+               27. Product No. 81510B-06, Lot No. 0611G7; 
+               28. Product No. 8412B-61, Lot Nos. 0682G7,
+                   0787H7, 01416G7, 1416G7, 1433H7; 
+               29. Product No. 8412F-61, Lot No. 0859H7; 
+               30. Product No. 8412F-61Z, Lot No. 0505J7; 
+               31. Product No. 8413B-61, Lot Nos. 0256J7,
+                   0308H7, 0886H7; 
+               32. Product No. 8413F-14721, Lot No. 0788H7; 
+               33. Product No. 8413F-61, Lot Nos. 1158H7,
+                   1774H7;
+               34. Product No. 8413F-61X, Lot No. 1128G7; 
+               35. Product No. 8413F-6133, Lot Nos. 0489H7,
+                   0626J7;  
+               36. Product No. 8421B-61, Lot No. 0458J7; 
+               37. Product No. 8610B-61, Lot No. 0379J7; 
+               38. Product No. 8610B-61 RIKO, Lot No. 1466G7;
+               39. Product No. 8612F-61, Lot Nos. 0106H7,
+                   0555H7, 1716H7; 
+               40. Product No. 8612F-80M, Lot Nos. 0310J7,
+                   0612G7, 1434H7; 
+               41. Product No. 8613B-61, Lot Nos. 0627J7,
+                   0887G7; 
+               42. Product No. 8613F-61X, Lot Nos. 0206H7,
+                   0614G7, 0886G7; 
+               43. Product No. 8613F-6127, Lot No. 1446G7; 
+               44. Product No. 8613F-80, Lot Nos. 1037F7,
+                   1343E7, 1953E7, 0309H7, 0460J7, 0711G7,
+                   0888H7, 1046H7, 1132G7,  1343H7; 
+               45. Product No. 8750B-61, Lot No. 1409F7; 
+               46. Product No. 8752B-08BZ, Lot Nos. 0557H7,
+                   0629J7, 1159H7, 1447G7; 
+               47. Product No. 8752F-164E, Lot No. 0742H7; 
+               48. Product No. 8753B14039, Lot Nos. 0107H7,
+                   0191J7, 0630J7, 0709H7, 1261H7; 
+               49. Product No. 8752F-6121, Lot No. 1254G7; 
+               50. Product No. 8753B-6131, Lot Nos. 1028G7,
+                   0108H7, 1255G7; 
+               51. Product NO. 8753B-6157X, Lot Nos. 0207H7,
+                   1160H7, 1256G7; 
+               52. Product No. 8753B-71, Lot No. 1133G7; 
+               53. Product No. 8753B-80, Lot Nos. 0781J7,
+                   1564G7; 
+               54. Product No. 8753F-136, Lot Nos. 0792H7,
+                   1029G7, 1134G7, 1565G7; 
+               55. Product No. 8753F-13639, Lot Nos. 0890H7,
+                   1257G7; 
+               56. Product No. 8753F-187, Lot No. 0109H7; 
+  
+                               -13-
+               57. Product No. 8753F-248T21, Lot Nos. 1262H7,
+                   1362G7; 
+               58. Product No. 8753F-26, Lot No. 1567G7; 
+               59. Product No. 8753F-26X, Lot Nos. 0208H7,
+                   0977F7, 1162H7, 1259G7; 
+               60. Product No. 8753F-284, Lot No. 1163H7; 
+               61. Product No. 8753F-6114, Lot Nos. 0209H7,
+                   0492H7, 1260G7; 
+               62. Product No. 8753F-6124, Lot No. 0658J7; 
+               63. Product No. 8753F-71, Lot No. 0425J7; 
+               64. Product No. 8753F-80, Lot Nos. 0130J7,
+                   0260J7, 1041F7, 1135G7, 1528H7; 
+               65. Product No. 8753F-80X, Lot No. 0793H7; 
+               66. Product No. 8753F-8021, Lot No. 1263H7; 
+               67. Product No. 8903B-164, Lot No. 1164H7; 
+               68. Product No. 8903B-16421, Lot Nos. 0261J7,
+                   0782J7, 0794H7, 1264H7, 1370H7, 1568G7; 
+               69. Product No. 8903B-19939S, Lot No. 0507J7; 
+               70. Product No. 8903B-61, Lot Nos. 0110H7,
+                   0493H7; 
+               71. Product No. 8903F-136, Lot Nos. 0462J7,
+                   0795H7;
+               72. Product No. 8903F-164, Lot No. 0794G7; 
+               73. Product No. 8903F-187, Lot Nos. 0310H7,
+                   0782J7;
+               74. Product No. 8903F-30SB, Lot Nos. 0891H7; 
+               75. Product No. 8903F-23621, Lot No. 1231G7; 
+               76. Product No. 8903F-23633, Lot No. 0632J7; 
+               77. Product No. 8903F-61, Lot No. 0426G7,
+                   0662H7, 0817G7, 1136G7, 1569G7; 
+               78. Product No. 90082, Lot Nos. 1038H7,
+                   1437G7;  
+               79. Product No. 90106, Lot Nos. 1039H7,
+                   1438G7; 
+               80. Product No. 90132, Lot Nos. 0762H7; 
+               81. Product No. 90154, Lot Nos. 0131J7; 
+               82. Product No. 90164, Lot No. 0298H7; 
+               83. Product No. 90187, Lot No. 0302C7, 0713G7,
+                   0784J7, 1529H7; 
+               84. Product No. 90297, Lot No. 0894H7, 1347H7;
+               85. Product No. 90312, Lot No. 1013H7; 
+               86. Product No. 90316, Lot Nos. 0262J7,
+                   0311H7, 0663H7,  0889G7, 1261G7, 1265H7; 
+               87. Product No. 90323, Lot Nos. 1239H7,
+                   1439G7; 
+               88. Product No. 90346, Lot Nos. 0656H7,
+                   0948G7, 1253G7; 
+               89. Product No. 90353, Lot Nos. 0124J7,
+                   0499G7, 0867H7, 1023G7, 507F7; 
+               90. Product No. 90389, Lot Nos. 1036J7,
+                   1273J7, 1508H7; 
+               91. Product No. 90396, Lot No. 0111H7; 
+  
+                               -14-
+               92. Product No. 90405M, Lot Nos. 0210H7,
+                   0555J7, 0617G7, 1166H7, 1719H7; 
+               93. Product No. 90426, Lot Nos. 0514G7,
+                   0664H7, 0890G7, 1319G7; 
+               94. Product No. 90428, Lot No 0675F7; 
+               95. Product No. 90442, Lot Nos. 0175J7,
+                   0312H7, 1310G7; 
+               96. Product No. 90444, Lot Nos. 0313H7,
+                   0556J7;
+               97. Product No. FGL8753B-06X, Lot No. 1266H7; 
+               98. Product No. H5413F-61, Lot Nos. 0193J7,
+                   0618G7, 0626H7, 1253H7, 1264G7, 1797H7; 
+               99. Product No. H5903B-61XP, Lot Nos. 0403H7,
+                   0513J7, 0619G7, 1137G7, 1348H7; 
+               100. Product No. H6413F-61X, Lot Nos. 0314H7,
+                    0896H7, 1570G7; 
+               101. Product No. L8752B-08B, Lot Nos. 0796H7,
+                    1325H7; 
+               102. Product No. M8613B-06, Lot Nos. 1138G7,
+                    1571G7; 
+               103. Product No. R6753F-8021, Lot No. 1530H7;
+               104. Product No. R6753F-80XP, 
+                    Lot Nos. 0212H7, 1167H7; 
+               105. Product No. R6903B-164, Lot No. 1713G7.  
+  MANUFACTURER   King Systems Corporation, Noblesville,
+                 Indiana.
+  RECALLED BY    Manufacturer, by verbally or by letter on
+                 August 11, 1997.  Firm-initiated recall
+                 ongoing.
+  DISTRIBUTION   Nationwide and international.
+  QUANTITY       2,965 cases of 30 units each were distributed.
+  REASON         The expandable tube is breaking around the
+                 circumference of the tube.  
+  
+  _______________
+  UPDATE       	 Ultra-Flex brand Adult Anesthesia Breathing
+                 Circuits, Recall #Z-915/941-7, which appeared
+                 in the October 1, 1997, Enforcement Report has
+                 been extended to include the following lot
+                 numbers with the following listed Recall
+                 Numbers:
+                 Z-915-7 - Product No. 5213F-6154, Lot No.
+                 1246F7;
+                 Z-916-7 - Product No. 5613B-61, Lot Nos.
+                 1340H7, 1357G7;
+                 Z-917-7 - Product No. 5613F-61, Lot Nos.
+                 0705G7, 0883H7, 1587H7, 1764H7;
+                 Z-918-7 - Product No. 5613F-80, Lot Nos.
+                 0238F7, 0401H7, 1248G7; 
+                 Z-919-7 - Product No. 5753B-61, Lot Nos.
+                 0456J7, 0706G7, 1005H7, 1249G7; 
+                 Z-920-7 - Product No. 5753F-10021, Lot Nos.
+                 0202H7,  0255J7, 0607G7, 1024G7, 1428H7;
+                               -15-
+                 Z-922-7 - Product No. 6753F-13621, Lot Nos.
+                 0540J7, 0610G7, 0885H7, 0960G7, 1358G7;
+                 Z-923-7 - Product No. 8613B-164, Lot Nos.
+                 1130G7, 1341E7; 
+                 Z-924-7 - Product No. 8613B-84X, Lot Nos.
+                 0190J7, 0624H7,  0709G7, 1027G7, 1045H7,
+                 1435H7, 1445G7;
+                 Z-925-7 - Product No. 8613F-13633, Lot Nos.
+                 0258J7, 0789H7, 1359G7, 1436H7, 1717H7;
+                 Z-926-7 - Product No. 8613F-164E, Lot Nos.
+                 0218G7, 0657J7, 0660H7, 0961G7, 1437H7,
+                 1457H7;
+                 Z-927-7 - Product No. 8613F-61, Lot Nos.
+                 0205H7, 0219G7, 0402H7, 0490H7, 0556H7,
+                 0628J7, 0701G7, 0710G7, 1131G7, 1360G7,
+                 1525H7, 1798H7;
+                 Z-928-7 - Product No. 8613F-6121, Lot No.
+                 0615G7;
+                 Z-930-7 - Product No. 8613F-84, Lot Nos.
+                 1361G7, 1526H7;
+                 Z-931-7 - Product No. 8613F-8433, Lot Nos.
+                 1562G7;
+                 Z-933-7 - Product No. 8753B-61, Lot Nos.
+                 0508G7, 0791H7, 1021G7, 1283F7, 1527H7,
+                 1563G7;
+                 Z-934-7 - Product No. 8753F-104, Lot No.
+                 0889H7;
+                 Z-936-7 - Product No. 8753F-248, Lot Nos.
+                 0558H7, 1161H7, 1566G7; 
+                 Z-937-7 - Product No. 8753F-249, Lot Nos.
+                 0542G7, 0661H7, 0712G7, 0887G7, 1047H7,
+                 1258G7, 1292H7, 1323H7, 1346E7, 1718H7;
+                 Z-938-7 - Product No. 8753F-61, Lot Nos.
+                 0129J7, 0491H7, 0631J7, 0692G7, 0888G7,
+                 1413F7; 
+                 Z-939-7 - Product No. 90337, Lot Nos. 0494H7,
+                 1262G7;
+                 Z-941-7 - Product No. Q5753F-28B31, Lot Nos.
+                 0665H7, 0715G7.
+  
+  
+  RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III ========
+  _______________
+  PRODUCT        Stratus hCG Fluorometric Enzyme Immunoassay,   
+                 Catalog No. B5700-55, for use in the
+                 determination of hCG levels in serum or
+                 plasma.  Recall #Z-028-8.
+  CODE           Lot #KXHG-3068.
+  MANUFACTURER   Dade International, Inc., Miami, Florida.
+  RECALLED BY    Manufacturer, by letter on March 14, 1997. 
+                 Firm-initiated recall complete.
+  DISTRIBUTION   Nationwide.
+  QUANTITY       Approximately 200 kits were distributed.
+                               -16-
+  REASON         The calibrator produces high control recovery
+                 and a shift up in hCG values.
+  
+  _______________
+  PRODUCT        Stratus CK-MB Fluorometric Enzyme Immunoassay
+                 Catalog Nos. B5700-60 (120 test) and B5700-60S
+                 (60 test), intended for use in the
+                 determination of CK-MB levels in human serum:
+                 a) Catalog #B5700-60 Test Kit Size - 120     Tests
+                 b) Catalog #B5700-60S, Test Kit Size - 60    
+                 Tests.  Recall #Z-029/030-8.
+  CODE           Lot Numbers: a) KXMB-2885 through 2916, 2918
+                 through 2922, 2929, 2933, 2934, 2947
+                 b) KXMB-261S and 264S.
+  MANUFACTURER   Dade International Inc., Miami, Florida.
+  RECALLED BY    Manufacturer, by letter on July 9, 1997. 
+                 Firm-initiated recall ongoing.
+  DISTRIBUTION   Nationwide and international.
+  QUANTITY       11,943 kits were distributed.
+  REASON         The conjugate is producing high calibrator A
+                 rates and high control recovery for the low
+                 level control.
+  _______________
+  PRODUCT        Technicon H Systems RBC DIL, Product No.
+                 T01-1570-56, used to quantitate RBC's and
+                 platelets in blood.                        
+      		 Recall# Z-036-8.
+  CODE           Lot No. V01894X.  
+  MANUFACTURER   Bayer Corporation, Middletown, Virginia.
+  RECALLED BY    Manufacturer, by letter in August 1997.  
+		 Firm initiated recall ongoing.
+  DISTRIBUTION   Nationwide and Canada.
+  QUANTITY       779 units were distributed.
+  REASON         There is particulate matter in some bottles of
+                 this lot.
+  _______________
+  PRODUCT        Bartels Epstein-Barr Virus IgG Enzyme        
+		 Immunoassay, Catalog #B1029-360, intended for
+                 the qualitative detection of IgG antibody to
+                 the viral capsid antigen of Epstein-Barr virus
+                 in human serum.  Recall #Z-037-8.
+  CODE           Lot #2090, EXP 10/98.
+  MANUFACTURER   Gull Laboratories, Inc., Salt Lake City, Utah.
+  RECALLED BY    Bartels Inc., The Diagnostic Division of
+                 Intracel Corporation, Issaquah, Washington, by
+                 letter on September 18, 1997.  Firm-initiated
+                 recall ongoing.
+  DISTRIBUTION   California, Ohio, Pennsylvania, Iowa,
+                 Kentucky, New York, Delaware, Washington
+                 state, Illinois, Puerto Rico.
+  QUANTITY       200 were distributed between 6/16/97 and
+                 9/9/97.
+                               -17-
+  REASON         The conjugate is losing stability resulting in
+                 absorbance values for the reference, and
+                 positive control that are lower than the
+                 limits specified in the product insert.
+  
+  _______________
+  PRODUCT        Stratus Beta hCG fluorometric Enzyme
+                 Immunoassay, Catalog #B5700-59, intended for
+                 use in the determination of total beta human
+                 chorionic gonadotropin levels in serum or
+                 plasma.  Recall #Z-154-8.
+  CODE           Lot #KXBG-396.
+  MANUFACTURER   Dade International, Inc., Miami, Florida.
+  RECALLED BY    Manufacturer, by letter dated February 14,
+                 1997.  Firm-initiated recall complete.
+  DISTRIBUTION   Nationwide and New Zealand.
+  QUANTITY       93 kits were distributed.
+  REASON         The calibrator produces high control recovery
+                 and a shift up in beta hCG values.
+  
+  _______________
+  PRODUCT        Bartels Cytomegalovirus IgM Enzyme
+                 Immunoassay, Catalog No. B1029-335, intended
+                 for the qualitative detection of 1gM
+                 antibodies to cytomegalovirus in human serum. 
+                 Recall #Z-155-8.
+  CODE           Lot No. 2094. 
+  MANUFACTURER   Gull Laboratories, Inc., Salt Lake City, Utah
+                 (Elisa Test).
+  RECALLED BY    Bartels, Inc., Issaquah, Washington, by letter
+                 on October 10, 1997.  Firm-initiated recall
+                 ongoing.
+  DISTRIBUTION   Nationwide and Australia.
+  QUANTITY       45 kits were distributed.
+  REASON         The conjugate is losing stability resulting in
+                 absorbance values for reference and positive
+                 control that are lower than the limits
+                 specified in the product insert.
+  
+                             -18-
+  
+  END OF ENFORCEMENT REPORT FOR NOVEMBER 4, 1997.  BLANK PAGES MAY FOLLOW.
+
+                                   ####
+
+
+
+
+  
+ End of Enforcement Report for

@@ -1,0 +1,895 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      31 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+03/06/1996
+
+ ENFORCEMENT REPORT FOR 03/06/96 
+
+
+March 6, 1996                                         96-10
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I ============
+_______________
+PRODUCT        (a) Chocolate Fudge Brownie Frozen Yogurt,
+               packed in one-half gallon cartons and 3 gallon
+               bulk boxes; (b) Purely Chocolate Frozen
+               Yogurt, packed in one half gallon cartons.  
+               Recall #F-311/312-6.
+CODE           Lot #96DEC01.  Product flavor numbers:  
+               (a) 00869; (b) 00980.
+MANUFACTURER   Friendly Ice Cream Corporation, Troy, Ohio.
+RECALLED BY    Friendly Ice Cream Corporation, Wilbraham,
+               Massachusetts, by letter mailed on December
+               29, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Ohio, Pennsylvania, Michigan, Virginia,
+               Connecticut, Delaware, Florida, Maine,
+               Maryland, Massachusetts, New Hampshire, New
+               York, Rhode Island, Vermont, New Jersey.
+QUANTITY       396 boxes of the chocolate fudge brownie
+               frozen yogurt, 3 gallon size; approximately
+               14,016 cartons of the chocolate fudge brownie
+               yogurt, one-half gallon size; and 8,370
+               cartons of the purely chocolate frozen yogurt,
+               one-half gallon size were distributed.
+REASON         Products are or may be contaminated with
+               Listeria monocytogenes.
+_______________
+UPDATE         Recall #F-260-6 which appeared in the February
+               7, 1996 Enforcement Report should read:
+               PRODUCT:  Hearth Oven and America's Choice
+               brand Confetti Cookies.  The recalled product
+               did not include "President's Choice: brand. 
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II ===========
+_______________
+PRODUCT        NewPak Enteral Nutritional Feeding Products,
+               in 1 liter size plastic bottles:  (a) Isolan;
+               (b) Isolan Colorcheck; (c) Nitrolan; (d)
+               Nitrolan Colorcheck; (e) Fiberlan; (f)
+               Fiberlan Colorcheck.  Recall #F-313/318-6.
+CODE           Part No.       Lot No.
+               (a) NP5000     950423, 950518, 950516, 950219,
+                              950305
+               (b) NPBL5000   950219, 950305, 
+               (c) NP5200     950514, 950115, 950226,
+                              950502, 
+               (d) NPBL5200   950115, 950226
+               (e) NP5300     950507, 950523, 941211
+                              (expired)
+               (f) NPBL5300   950626, 950108 (expired).
+MANUFACTURER   Imperial Flavors, Inc., Mississauga, Ontario,
+               Canada.
+RECALLED BY    Elan Pharma, Inc., Smithfield, Rhode Island,
+               by letters issued August 30 and 31, 1995. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       Lot No.  Part No.    Quantity Distributed
+               950423   NP5000        2130
+               950516   NP5000        455
+               950518   NP5000        50
+               950219   NP5000        28
+               950305   NP5000        29
+               950219   NPBL5000      49
+               950305   NPBL5000      12
+               950115-  NP5200        1728    
+               950115-- NP5200        282
+               950226   NP5200        2024
+               950514   NP5200        1452
+               950514A  NP5200        54
+               950502   NP5200        4
+               950115   NPBL5200      615
+               950226-  NPBL5200      298
+               950226-- NPBL5200      276
+               950226=  NPBL5200      72
+               950507   NP5300        2142
+               950523   NP5300        182
+               941211   NP5300        7 (expired) 
+
+                             -2-               950626   NPBL5300      228
+               950108   NPBL5300      6 (expired) . 
+REASON         Products are subpotent in calcium content.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III ==========
+_______________
+PRODUCT        Red Wine Vinegar, in glass bottles.  
+               Recall #F-305-6.
+CODE           None.
+MANUFACTURER   Todhunter Foods, Lake Alfred, Florida.
+RECALLED BY    Flora Distributors, Inc., Pompano Beach,
+               Florida, by letters providing sticker labels. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Florida, New York.
+QUANTITY       1,090 cases were distributed.
+REASON         Product contains undeclared sulfites.
+
+_______________
+PRODUCT        Corn Muffins and Bran Muffins in 14 ounce
+               boxes, under the Viking and Waldbaum label. 
+               Recall #F-306/307-6.
+CODE           Sell by date of DEC02 1995.
+MANUFACTURER   Operative Cake Company, West Hartford,
+               Connecticut.
+RECALLED BY    Operative Cake Company, Long Island City, New
+               York, by visit on December 1, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   New York.
+QUANTITY       1,678 boxes of corn muffins and 906 boxes of
+               bran muffins were distributed.
+REASON         Products were contaminated with rodent filth
+               and were prepared, packed, and held under
+               insanitary conditions.
+
+_______________
+PRODUCT        Medford Farms Fat Free Ranch Dressing, in 12
+               fluid ounce glass bottles.  Recall #F-308-6.
+CODE           Lot #"JO117A" ink  printed on the product
+               shipper label and on the bottle glass above
+               the label. 
+MANUFACTURER   Chelten House Products, Inc., Bridgeport, New
+               Jersey.
+RECALLED BY    Haddon House Food Products, Inc., Medford, New
+               Jersey, by letter December 28, 1995.  FDA-
+               initiated recall complete.
+DISTRIBUTION   New Jersey, Delaware, Pennsylvania, New York,
+               Maryland, Connecticut.
+QUANTITY       753 bottles were distributed.
+REASON         Product is unfit for food due to spoilage.
+
+                             -3-_______________
+PRODUCT        Bavarian Filling Premium and Bavarian Cream
+               Premium in 20 pound and 40 pound plastic
+               pails, for use in cream pies, eclairs and
+               donuts.  Recall #F-309/310-6.
+CODE           All codes.
+MANUFACTURER   Aliments Plasse Foods Inc., Chateauguay,
+               Quebec, Canada.
+RECALLED BY    Saratoga Flour Corporation, Saratoga Springs,
+               New York, by telephone beginning on January
+               19, 1996, followed by letter dated January 23,
+               1996.  Firm-initiated recall ongoing.
+DISTRIBUTION   New York, Vermont, Massachusetts.
+QUANTITY       50 20-pound pails and 142 40-pound pails were
+               distributed; firm estimated that 31 40-pound
+               pails and 4 20-pound pails remained on market
+               at time of recall initiation.
+REASON         Products are acidified foods, but no process
+               has been field with the FDA.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II ===========
+_______________
+PRODUCT        Leucovorin Calcium Tablets USP, 15 mg, in
+               bottles of 12 or 24 tablets, and in unit dose
+               blister packs containing 10 tablets per
+               carton-pack, used as an antidote to the
+               harmful effects of methotrexate (a cancer
+               medicine).  Recall #D-092-6.
+CODE           Lot numbers: 951186, 951186A EXP 5/1/97,
+               951186 EXP 11/1/96 (blister packs).
+MANUFACTURER   Roxane Laboratories, Inc., Columbus, Ohio.
+RECALLED BY    Manufacturer, by letter sent on February 23,
+               1996.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       204 24-tablet bottles, 55 12-tablet bottles,
+               and 39 unit dose packs totaling 5,946 tablets
+               were distributed.
+REASON         Product may not maintain dissolution
+               specifications through expiration date.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III ==========
+_______________
+PRODUCT        Bulk Cocaine Hydrochloride USP, C-II, packaged
+               in 5-gm bottles and 1-, 13.230-, 6.300-, and
+               23.000-kg containers, Rx for manufacturing,
+               processing, or repacking.  Recall #D-093-6.
+CODE           Lot numbers:  SPK288, SPK289, SPM294, T00254, 
+               SPP298, SPP299, SPP301. 
+MANUFACTURER   Mallinckrodt Chemical, Inc., St. Louis,
+               Missouri.
+
+                             -4-RECALLED BY    Manufacturer, by letter dated February 20,
+               1996.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       43.53 kg. containers and 510 6-gm bottles were
+               distributed.
+REASON         Microbial contamination Bacillus species.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II =======
+_______________
+PRODUCT        Platelets.  Recall #B-147-6.
+CODE           Unit #27032-9914.
+MANUFACTURER   Blood Systems, Inc., doing business as United
+               Blood Services, Texarkana, Texas.
+RECALLED BY    Manufacturer, by telephone on October 6, 1994,
+               followed by letter dated October 14, 1994.
+               Firm-initiated recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       1 unit.
+REASON         Blood product, which was tested repeatedly
+               reactive for anti-HTLV-I, WB indeterminate,
+               was distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma. 
+               Recall #B-201/202-6.
+CODE           Unit #M16983.
+MANUFACTURER   Northern California Community Blood Bank,
+               Eureka, California.
+RECALLED BY    Manufacturer, by letters dated April 14, 1994,
+               and May 15, 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   California.
+QUANTITY       1 unit.
+REASON         Blood products, which was collected from a
+               donor with a history of nose piercing within
+               twelve months of donation, was distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Granulocyte
+               Concentrate; (c) Cryoprecipitated AHF; (d)
+               Recovered Plasma. Recall #B-204/207-6.
+CODE           Unit numbers:  (a) 01H33759, 01K29014;
+               (b) 01P11262; (c) 01H33759; (d) 01J63292, 
+               01J66503, 01GG03665, 01K48578, 01X90401,
+               01K36694, 01K29014, 01H33759.
+MANUFACTURER   American Red Cross Blood Services, Rochester,
+               New York.
+RECALLED BY    Manufacturer, by letters dated between October
+               12, 1994 and July 25, 1995. Firm-initiated
+               recall complete.
+DISTRIBUTION   New York, California, Switzerland.
+
+                             -5-QUANTITY       (a) 2 units; (b) 1 unit; (c) 1 unit; (d) 8
+               units.
+REASON         Blood products, which tested non-reactive (NR)
+               for HBsAg but were collected from donors who
+               previously tested repeatedly reactive (RR) for
+               HBsAg, with no confirmatory test; were
+               collected from a donor who tested initially
+               reactive (IR) for HBsAg and not retested as
+               required, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Cryoprecipitate AHF;
+               (c) Platelets; (d) Leukocyte Poor Platelets
+               (Pooled); (e) Fresh Frozen Plasma; (f)
+               Recovered Plasma.  Recall #B-209/214-6.
+CODE           Unit numbers:  (a) 01W09843, 01H77729,
+               01X15546, 01H87146, 01G85145, 01G98601;
+               (b) 01X15546; (c) 01H87146, 01G85145, 01G98601
+               (d) 01W09843; (e) 01W09843, 01G85145
+               (f) 01H77729, 01X15546, 01H87146, 01G98601.
+MANUFACTURER   American Red Cross, Rochester, New York.
+RECALLED BY    Manufacturer, by letters dated April 6, 1995,
+               April 24, 1995, and August 23, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   New York, Maryland, California, Switzerland.
+QUANTITY       (a) 6 units; (b) 1 unit; (c) 3 units; (d) 1
+               unit; (e) 2 units; (f) 4 units.
+REASON         Blood products, which tested non-reactive to
+               anti-HIV-1, but collected from a donor who
+               previously tested RR for anti-HIV-1, WB
+               negative  donor was subsequently re-entered
+               improperly, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells for further manufacture;
+               (b) Recovered Plasma.  Recall #B-234/235-6.
+CODE           Unit numbers:  (a) 04W67848, 04W63532; (b)
+               04W62741, 04W67848, 04W67249, 04W63532.
+MANUFACTURER   American Red Cross Blood Services, Dedham,
+               Massachusetts.
+RECALLED BY    Manufacturer, by telephone on September 1,
+               1992, and by letter dated September 2, 1992. 
+               Firm-initiated recall complete.
+DISTRIBUTION   California, Massachusetts, Switzerland.
+QUANTITY       (a) 2 units; (b) 4 units.
+REASON         Blood products, which tested negative for the
+               hepatitis B surface antigen (HBsAg), but were
+               collected from a donor who previously tested
+               repeatedly reactive for HBsAg, were
+               distributed.
+
+                             -6-_______________
+PRODUCT        (a) Red Blood Cells; (b) Fresh Frozen Plasma. 
+               Recall #B-238/239-6.
+CODE           Unit #49F69270.
+MANUFACTURER   American Red Cross Blood Services, Tulsa,
+               Oklahoma.
+RECALLED BY    Manufacturer, by letter dated May 18, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Texas, Oklahoma.
+QUANTITY       1 unit of each component.
+REASON         Blood products, collected from a donor whose
+               husband was previously an intravenous (IV)
+               drug user, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Cryoprecipitated AHF;
+               (c) Recovered Plasma.  Recall #B-248/250-6.
+CODE           Unit #12F64652.
+MANUFACTURER   American Red Cross Blood Services, Charlotte,
+               North Carolina.
+RECALLED BY    Manufacturer, by letter dated June 12, 1995,
+               and by fax on June 12, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   North Carolina, California.
+QUANTITY       1 unit of each component.
+REASON         Blood products, collected from a donor taking
+               the drug Proscar, were distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-257-6.
+CODE           Unit #29GV05295.
+MANUFACTURER   American Red Cross Blood Services, Norfolk,
+               Virginia.
+RECALLED BY    Manufacturer, by letter dated June 5, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Virginia.
+QUANTITY       1 unit.
+REASON         Blood product collected from a donor with a
+               history of cancer was distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-262-6.
+CODE           Unit #12FV53620.
+MANUFACTURER   American Red Cross Blood Services, Charlotte,
+               North Carolina.
+RECALLED BY    Manufacturer, by telephone on June 1, 1995,
+               followed by letter dated June 2, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   North Carolina.
+QUANTITY       1 unit.
+
+                             -7-REASON         Blood product, collected from a donor who had
+               traveled to an area designated as endemic for
+               malaria, was distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-263-6.
+CODE           Unit #12FZ23466.
+MANUFACTURER   American Red Cross Blood Services, Charlotte,
+               North Carolina.
+RECALLED BY    Manufacturer, by letter dated June 27, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   North Carolina.
+QUANTITY       1 unit.
+REASON         Blood product, collected from a donor who had
+               traveled to an area designated as endemic for
+               malaria, was distributed.
+
+_______________
+PRODUCT        Source Plasma.  Recall #B-264-6.
+CODE           Contact FDA, Center for Biologics Evaluation
+               and Research, Office of Compliance (301-594-
+               1070 for individual unit numbers recalled.
+MANUFACTURER   Community Bio-Resources, Inc., Birmingham,
+               Alabama.
+RECALLED BY    Manufacturer, by letter dated August 11, 1994. 
+               Firm-initiated recall complete.
+DISTRIBUTION   California, North Carolina New Jersey,
+               Germany.
+QUANTITY       723 units.
+REASON         Source Plasma which tested negative for the
+               antibody to the human immunodeficiency virus
+               type 1 (anti-HIV-I), but was collected from
+               donors who previously tested repeatedly
+               reactive for anti-HIV-1; tested negative for
+               the hepatitis B surface antigen (HBsAg), but
+               was collected from donors who previously
+               tested repeatedly reactive for HBsAg; or was
+               collected from donors with a history of
+               intravenous (IV) drug use, was distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c)
+               Recovered Plasma.  Recall #B-274/276-6.
+CODE           Unit #11033-7162.
+MANUFACTURER   Blood Systems, Inc., doing business as United
+               Blood Services, El Paso, Texas.
+RECALLED BY    Manufacturer, by letters dated October 30,
+               1995 and November 6, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Texas, North Carolina.
+QUANTITY       1 unit of each component.
+
+                             -8-REASON         Blood products, collected from a donor who
+               tested NR for HBsAg, but who previously tested
+               RR for HBsAg and donor subsequently reentered,
+               were distributed.
+
+_______________
+PRODUCT        Platelets, Pheresis.  Recall #B-280-6.
+CODE           Unit numbers:  KZ24929, KZ24930, KZ24931.
+MANUFACTURER   Virginia Blood Services, Richmond, Virginia.
+RECALLED BY    Manufacturer, by telephone on or about
+               December 8, 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Maryland, Texas, Virginia.
+QUANTITY       3 unit.
+REASON         Blood products, labeled with an extended
+               expiration date, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III ======
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-245-6.
+CODE           Unit numbers:  2656196, 2656197, 2656206,
+               2656209, 2656216, 2656217, 2656219, 2656229.
+MANUFACTURER   Irwin Army Community Hospital, Fort Riley,
+               Kansas.
+RECALLED BY    Manufacturer, by telephone on April 26, 1994. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       8 units.
+REASON         Blood products which were labeled with an
+               extended expiration date were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma. 
+               Recall #B-246/247-6.
+CODE           Unit #55H28023.
+MANUFACTURER   American Red Cross Blood Services, Little
+               Rock, Arkansas.
+RECALLED BY    Manufacturer, by telephone on January 25 and
+               26, 1995, followed by letter dated February 2,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   Arkansas and Switzerland.
+QUANTITY       1 unit of each component.
+REASON         Blood products, collected from a donor who had
+               been immunized with Measles, Mumps, and
+               Rubella (MMR) vaccine, were distributed.
+
+_______________
+PRODUCT        Whole Blood.  Recall #B-277-6.
+CODE           Unit #2664461.
+MANUFACTURER   Houchin Community Blood Bank, Bakersfield,
+               California.
+
+                             -9-RECALLED BY    Manufacturer, on August 18, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   California.
+QUANTITY       1 unit.
+REASON         Blood product, labeled with an extended
+               expiration date, was distributed.
+
+_______________
+PRODUCT        Red Blood Cells, Irradiated.  Recall #B-283-6.
+CODE           Unit #35R00919.
+MANUFACTURER   American Red Cross Blood Services, Roanoke,
+               Virginia.
+RECALLED BY    Manufacturer, by telephone on or about July
+               26, 1994, followed by letter dated August 11,
+               1994.  Firm-initiated recall complete.
+DISTRIBUTION   Virginia.
+QUANTITY       1 unit.
+REASON         Blood product labeled with an extended
+               expiration date was distributed.
+
+_______________
+PRODUCT        Source Plasma.  Recall #B-284-6.
+CODE           Bleed Number and Donor Number:  
+               0530050101      00530066939
+               0530050102      00530066947
+               0530050103      00530066629
+               0530050105      00530067170
+               0530050106      00530066050
+               0530050107      00530062143
+               0530050109      00530066793
+               0530050110      00530044633
+               0530050111      00530058219
+               0530050113      00530037599
+               0530050116      00530044358
+               0530050117      00530058898
+               0530050118      00530055805
+               0530050124      00530057581
+               0530050126      00530066866
+               0530050253      0530018951
+               0530050254      0530029880
+               0530050256      0530023148
+               0530050262      0530067161
+               0530050263      0530065991
+               0530050264      0530013665
+               0530050265      0530018560
+               0530050267      0530034883
+               0530050268      0530064901
+               0530050270      0530058286
+               0530050271      0530057743
+               0530050274      0530053934
+               0530050275      0530022532
+               0530050279      0530020009
+               0530050281      0530014505
+                            -10-MANUFACTURER   North American Biologicals, Inc., NABI
+               BioMedical Center, Lexington, Kentucky.
+RECALLED BY    Manufacturer, by letter dated March 7, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Germany.
+QUANTITY       30 units.
+REASON         Source Plasma, stored at an unacceptable
+               temperature, and not relabeled as Source
+               Plasma, Salvaged, was distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II =========
+_______________
+PRODUCT        Zimmer Bone Cement Powder Component:  
+               (a) 40 gm. Powder, 20 cc. Liquid, Catalog No.
+               00-1102-012-00;  
+               (b) 60 gm. Powder, 30 cc. Liquid, Catalog No.
+               00-1102-013-00;  
+               (c) Z-420-6 - 20 gm. Powder, 10 cc. Liquid,
+               Catalog No. 00-1102-016-00;  
+               (d) 80 gm. Powder, 40 cc. Liquid, Catalog No.
+               00-1102-030-00,  
+               (e) 80 gm. Powder, 40 cc. Liquid (Box of 5
+               Kits), Catalog No. 00-1102-040-00,  
+               (f) 40 gm. Powder, 20 cc. Liquid (Box of 10
+               Kits), Catalog No. 00-1102-022-00,  
+               (g) 60 gm. Powder, 30 cc. Liquid (Box of 10
+               Kits), Catalog No. 00-1102-023-00,  
+               (h) 20 gm. Powder, 10 cc. Liquid (Box of 10
+               Kits), Catalog No. 00-1102-026-00.  
+               Recall #Z-418/425-6.
+ CODE          Lot numbers:  (a) 60750200, 61194300,
+               61793100, 61793200, 62282200, 63807400; (b)
+               62724600; (c) 61144300; (d) 63245300; (e)
+               63245200; (f) 60750100; 61194200; 61793300;
+               62282100; 63807300; (g) 62724500; 
+               (h) 61144200.
+MANUFACTURER   Zimmer, Inc., Warsaw, Indiana.
+RECALLED BY    Manufacturer, by letters sent on April 26 and
+               28, 1995, May 26, 1995, June 27, 1995, and
+               July 7, 1995.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       12,967 kits were distributed.
+REASON         The devices have a potential for seal defects
+               which might affect product sterility.
+
+_______________
+PRODUCT        ArthroWand Electrophysical cutting tool with
+               either a straight tip, 15 degree tip, or 90
+               degree tip packaged in blister pak:
+               (a)  ArthroWand 2.5 mm Straight Tip, Catalog
+               No. A1125-01; 
+
+                            -11-               (b) ArthroWand 2.5 mm 15 degree Curved Tip,
+               Catalog No. A1225-01;
+               (c) ArthroWand 2.5 mm 90 degree Curved Tip,
+               Catalog No. A1325-01;
+               (d) ArthroWand 3.0 mm Straight Tip, Catalog
+               No. A1130-01.  Recall #Z-454/457-6. 
+CODE           Lot numbers:  (a) 0120251, 0120751, 0123351; 
+               (b) 0220551, 0223451; (c) 0321951, 0321956;
+               (d) 0521351.
+ MANUFACTURER  Arthro-Care Corporation, Sunnyvale,
+               California.
+RECALLED BY    Manufacturer, by letter sent on or about
+               October 29, 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Arizona, California, Florida, New Jersey,
+               Maryland, Pennsylvania.
+QUANTITY       61 units were distributed.
+REASON         Sterility may be compromised due to cracks in
+               the tray package.
+
+_______________
+PRODUCT        Baxter Custom Procedural Packs which contain
+               Johnson & Johnson Barrier Vu-Thru
+               Cardiovascular Split Sheets: 
+               (a) Catalog  #SCV41BSWAA, Sterile
+               Cardiovascular Pack;
+               (b) Catalog #SCV630HJWD, Sterile Open Heart
+               Pack.  Note: this pack was further packaged in
+               to Open Heart Kits, Catalog #PC630OHJHA and
+               PC630OHJHB.  Recall #Z-478/479-6.
+CODE           (a) Order #171017, EXP date 9/30/97
+               (b) Order #169948, EXP date 11/30/96. 
+MANUFACTURER   Baxter Custom Sterile Division, McGaw Park,
+               Illinois.
+RECALLED BY    Baxter Healthcare Corporation, McGaw Park,
+               Illinois, by letter sent on December 20 and
+               21, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Kentucky and Texas.
+QUANTITY       (a) 14 kits; (b) 111 kits were distributed.
+REASON         The fabric of the clipping tabs is subject to
+               tearing, which could result in unsecured lines
+               presenting potential harm to the patient.
+
+_______________
+PRODUCT        Incstar Rubeola IGM CLIN-ELSIA Test Kit., an
+               in-vitro diagnostic test kit for detecting
+               antibodies inhuman serum to the Rubeola virus
+               which causes measles.  Recall #Z-480-6.
+CODE           Catalog No. 5600, Lot Nos. 142155, 262305,
+               262305A, 352205, 352205A, and Sigma
+               Diagnostics "SIA Measles IgM Kit," Product No.
+               SIA134A, Lot No. 035H6357.
+
+                            -12-MANUFACTURER   Incstar Corporation, Stillwater, Minnesota.
+RECALLED BY    Manufacturer, by letter sent on January 12,
+               1996.  Firm-initiated recall ongoing.
+DISTRIBUTION   California, Missouri, New York, Pennsylvania,
+               Tennessee, Washington state, England, Mexico,
+               Italy.
+QUANTITY       83 test kits were distributed.
+REASON         The some negative samples may yield a positive
+               assay response.
+
+_______________
+PRODUCT        Smith & Nephew Richards Power Reamer, Part
+               #11-0023, used to drill holes of two different
+               diameters in femur for implantation of a
+               compression hip screw.  Recall #Z-481-6.
+CODE           Lot numbers:  41111267, 41111276, 50102088,
+               50190042, 50190051A, 50207052, 50207052A,
+               50207054, 50207205, 50207205A, 50304810,
+               50304812, 50304815, 50304817, 50304818,
+               50311074, 50311075, 50311076, 50409606,
+               50409607, 50409608, 50409609, 50409610,
+               50608231.
+ MANUFACTURER  Smith & Nephew Richards, Memphis, Tennessee.
+RECALLED BY    Manufacturer, by letters dated September 21
+               and 27, 1995.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       589 reamers were distributed.
+REASON         An unexpected slippage of the barrel reamer
+               could result in drilling a greater depth hole
+               than set and desired.
+
+_______________
+PRODUCT        Zimmer Ceramic Femoral Heads for tapered neck
+               femoral hip stems:  
+               (a) Catalog No. 00-9029-020-00; 
+               (b) Catalog No. 00-9029-021-00; 
+               (c) Catalog No. 00-9029-022-00; 
+               (d) Catalog No. 00-9029-030-00;
+               (e) Catalog No. 00-9029-031-00;
+               (f) Catalog No. 00-9029-032-00.
+               Recall #Z-485/490-6.
+CODE           All lot numbers.
+MANUFACTURER   Cerasiv GMBH, Plochingen, Germany.
+RECALLED BY    Zimmer, Inc., Warsaw, Indiana, by letters sent
+               February 6 and 8, 1995, and March 1, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       2,719 units were distributed.
+REASON         There was a potential for fracture under
+               certain extreme conditions. 
+
+
+                            -13-RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III ========
+_______________
+PRODUCT        Kodak Ektachem Clinical Chemistry Slide for
+Theophylline (THEO), an in-vitro  product for
+the quantitative measurement of theophylline
+in serum or plasma.  Recall #Z-473-6.
+CODE           Catalog No. 1900117, Lot numbers: 
+               2407-0017-3726, 2407-0017-3727,
+               2407-0017-3728.
+MANUFACTURER   Johnson & Johnson Clinical Diagnostics, Inc.,
+               formerly known as Eastman Kodak Company,
+               Clinical Diagnostics Division, Rochester, New
+               York.
+RECALLED BY    Johnson & Johnson Clinical Diagnostics, Inc.,
+               Rochester, New York, by letter mailed January
+               12, 1995.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and Puerto Rico.
+QUANTITY       3,498 cartridges were distributed.
+REASON         The Theophylline slides can produce falsely
+               elevated results.
+
+_______________
+PRODUCT        IL Test Digoxin Kits. Each kit contains: 1 x 4
+               mL of Digoxin P reagent (pretreatment ready
+               for use), 1 x 5.0 mL Digoxin A reagent
+               (antibody reagent lyophilized), 2 x 8.0 mL
+               Digoxin E reagent (enzyme reagent
+               lyophilized), 1 x 3 mL glass vials of
+               Calibrators: A, B, C, & E and 2 x 3 mL glass
+               vials of Calibrator D.intended to be used for
+               the Quantitative in-vitro diagnostic
+               determination of total Digoxin (protein bound
+               plus unbound) in serum using the IL Monarch
+               Chemistry System.  Recall #Z-474-6.
+CODE           Catalog No. 35280, Lot Nos. Kit N0843419,
+               Calibrator A: N0843414R, Calibrator B:
+               N0843415R, Calibrator C: N0843416R, Calibrator
+               D: N0843417R, Calibrator E: N08431418R.
+MANUFACTURER   Instrumentation Laboratory Company,
+               Orangeburg, New York.  
+RECALLED BY    Instrumentation Laboratory Company, (ILC),
+               Lexington, Massachusetts, by letter dated
+               September 20, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Georgia, South Carolina, Mississippi, Arizona,
+               Pennsylvania, Nebraska, Louisiana, Texas,
+               Florida, Colorado, New Mexico, Minnesota,
+               Virginia.
+QUANTITY       42 kits were distributed.
+REASON         The calibrators were mislabeled with the wrong
+               concentrations.
+
+                            -14-_______________
+PRODUCT        IL Test(tm) Amylase Reagent, intended for the
+               quantitative in-vitro diagnostic determination
+               of amylase in serum or urine samples using the
+               IL Monarch Chemistry Systems.  
+               Recall #Z-475-6.
+CODE           Catalog #35314; Lot numbers:  N1032762,
+               N1233454, N0732759.
+MANUFACTURER   Instrumentation Laboratory Company,
+               Orangeburg, new york.
+RECALLED BY    Instrumentation Laboratory Company (ILC),
+               Lexington, Massachusetts, by letter dated May
+               27, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 1,254 kits were distributed.
+REASON         The Amylase reagent when used on the Monarch
+               Chemistry System had a stability drop well
+               short of the 4-week expiration date.
+
+_______________
+PRODUCT        IL Test(tm) ReferrIL G Calibrator, a
+               multicomponent calibrator for use in the
+               calibration of substrate assays using the
+               ILab(tm) Chemistry Systems, for in-vitro
+               diagnostic use.  Recall #Z-476-6.
+CODE           Catalog #181635.10, Lot numbers N1143595,
+               N0453787.
+MANUFACTURER   Instrumentation Laboratory Company,
+               Orangeburg, New York.
+RECALLED BY    Instrumentation Laboratory Company (ILC),
+               Lexington, Massachusetts, by letters dated May
+               17, 1995 and August 9, 1995, followed by
+               telephone on September 21, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   California, Maryland, Illinois, Florida, Ohio
+               Connecticut, Virginia, Georgia, Arkansas,
+               Arizona, Kentucky, Texas, Montana, Puerto
+               Rico, Canada, Mexico.
+QUANTITY       2,187 packages were distributed.
+REASON         The labeled analyte concentrations for glucose
+               oxidase, Glucose Hexokinase, cholesterol, HDL,
+               calcium, creatine and T. bilirubin are
+               incorrect.
+
+SEIZURES:  ==================================================
+_______________
+PRODUCT         Bean sprouts and Chinese vegetables
+               (95-741-130).
+CHARGE         Adulterated - The articles were prepared and
+               packed under conditions whereby they may have
+               been rendered injurious to health.
+LOCATION       Worldwide Trading Co. doing business as
+               Chinese Maid, Chicago, Illinois.
+                            -15-FILED          January 22, 1996; U.S. District Court for the
+               Northern District of Illinois, Eastern
+               Division; Civil #96C 0415; FDC #67070A.
+SEIZED         January 23, 1996 - goods valued at
+               approximately $42,000.
+
+_______________
+PRODUCT        Bean sprouts (95-760-912).
+CHARGE         Adulterated - The article was prepared and
+               packed under conditions whereby it may have
+               been rendered injurious to health.
+LOCATION       Chicagoland Quad Cities Express, Bridgeview,
+               Illinois.
+FILED          February 7, 1996; U.S. District Court for the
+               Northern District of Illinois, Eastern
+               Division; Civil #96C 0708; FDC #67125.
+SEIZED         February 8, 1996 - goods valued at
+               approximately $12,870.
+
+                            -16-
+
+END OF ENFORCEMENT REPORT FOR MARCH 6, 1996.  BLANK PAGES MAY
+FOLLOW.
+
+                                   ####

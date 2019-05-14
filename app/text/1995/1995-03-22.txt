@@ -1,0 +1,757 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Feb
+		  AUG
+		  Mar
+		
+		
+		
+		  
+		  15
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      26 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dm
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+03/22/1995
+
+Recalls and Field Corrections:  Foods -- Class I -- 03/22/1995
+
+March 22, 1995                                                 95-12
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+==========================
+_______________
+PRODUCT        Canned, acidified Chinese vegetables packed in 6 pound 6
+               ounce (#10) cans, 6 cans per case:  (a) Bean Sprouts; 
+               (b) Chop Suey Vegetables; (c) Chinese Mixed Vegetables.  
+               Recall #F-503/505-5.
+CODE           All lots.
+MANUFACTURER   Worldwide Trading Company, doing business as Chinese Maid,
+               Inc., Chicago, Illinois.
+RECALLED BY    Manufacturer, by letter dated March 8, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Illinois, Kentucky, Virginia, Indiana, Ohio, Wisconsin, New
+               York, Minnesota, California.
+QUANTITY       (a) 9,154 cases; (b) 4,113 cases; (c) 2,775 cases were
+               distributed.
+REASON         Products have the potential to support the outgrowth of
+               Clostridium botulinum toxin.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Bruce's Outrageous Star Cookies, 3.5 ounces, packaged in a
+               clear plastic wrap.  Recall #F-506-5.
+CODE           None.
+MANUFACTURER   Bruce's Bakery, Great Neck, New York.
+RECALLED BY    Manufacturer, by telephone February 2, 1995, followed by
+               letter February 3, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   New York.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Product contains undeclared FD&C; Yellow No. 5.
+
+_______________
+PRODUCT        (a) Apricot Strudel; (b) Apricot Rugallah; (c) Apricot
+               Hamantashen.  Recall #F-507/509-5.
+CODE           None.
+MANUFACTURER   Irene's Bakery & Gourmet Kitchen, Philadelphia,
+               Pennsylvania.
+RECALLED BY    Manufacturer, by telephone February 20, 1995.  Firm-
+               initiated field correction (relabeling) complete.
+DISTRIBUTION   Pennsylvania, New Jersey.
+QUANTITY       (a) 4 pounds; (b) 4 pounds; (c) 6 pounds were distributed.
+REASON         Product contains undeclared FD&C; Yellow #5.
+
+_______________
+PRODUCT        Potato Salad and Pimento Spread:  (a) Morehead and Shur Fine
+               brands Potato Salad, in 14 ounce retail size containers and
+               in 5 pound bulk containers for delicatessens; 
+               (b) Morehead brand Pimento Spread, in 7-1/2 ounce, 14 ounce
+               and 24 ounce retail size containers and 5 pound bulk
+               containers for delicatessens; Shur Fine brand Pimento Spread
+               in 7-1/2 ounce and 14 ounce retail size containers.  
+               Recall #F-510/511-5.
+CODE           (a) Morehead:   14 ounce - Pull Dates 03/06 and 03/13
+               Five pound - Pull Date 12/20 and 01/06
+               Shur Fine:  14 ounce - Pull Dates 02/20, 03/06 and 03/13
+               Pimento Spread: Morehead:  7 1/2 ounce - Pull Dates 4/18 and
+               05/02; 14 ounce - Pull Dates 04/18 and 05/02
+               24 ounce - Pull Dates 04/18 and 05/02
+               Five pound - Pull Dates 12/19 and 01/02 
+               Shur Fine: 7 1/2 ounce - Pull Dates 04/18 and 05/02
+               14 ounce - Pull Dates 04/18 and 05/02.
+MANUFACTURER   Morehead Food Distributing Company, Amarillo, Texas.
+RECALLED BY    Manufacturer, by telephone January 16, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Kansas, New Mexico, Oklahoma, Texas, Colorado.
+QUANTITY       Firm estimates none remains on the market.
+REASON         The product may have been exposed to Hepatitis A by an
+               infected employee.
+
+_______________
+PRODUCT        Fresh Asparagus from Peru with cases labeled in part "ICA
+               Premium" covered and AWB numbers 307-50458590 and 307-
+               50700020 was received from The Associacion de Productores De
+               Esparragus of ICA, Peru on 10/29/94 and 10/24/94.
+               Recall #F-517-5.
+CODE           None.
+MANUFACTURER   Associacion de Productores De Esparragus , Ica, Peru.
+RECALLED BY    Hillcrest, Inc., Medley, Florida, by letter November 4,
+               1994.  Firm-initiated recall complete.
+
+                                    -2-DISTRIBUTION   Florida, Illinois, Indiana, Michigan, Georgia, Pennsylvania,
+               Ohio, Canada.
+QUANTITY       Firm estimates none remained on market as of February 1995.
+REASON         Product exceeded tolerance for methomyl in asparagus.
+
+_______________
+PRODUCT        Ice cream, yogurt, and frozen desserts:
+               (a) Multiple brand Mint Chocolate Chip Ice Cream, in half-
+               gallon retail units, and in 2.5 gallon and 3 gallon bulk
+               plastic and carton containers;
+               (b) Multiple brand Mint Chip Hard Pack Yogurt, in 2.5 and 3
+               gallon containers;
+               (c) Multiple brand Mint Chip Hard Pack No Sugar Added Frozen
+               Desert, in 2.5 and 3 gallon containers.  
+               Recall #F-519/521-5.
+CODE           Code numbers ranging from 4010 to 4502.
+MANUFACTURER   Ice Cream Club, Inc. (The), Boynton Beach, Florida.
+RECALLED BY    Manufacturer, by letter December 5, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Georgia, Florida.
+QUANTITY       Firm estimates that there are no more than 36 half-gallon
+               units of Skinners' brand mint chocolate chip and 5 3-gallon
+               unit of Gladstone Farms brand mint chocolate chip in
+               commerce.
+REASON         Product contains undeclared FD&C; Yellow No. 5.
+
+_______________
+PRODUCT        Preferred Christmas Treats, individual foil wrapped candy in
+               12 ounce plastic bags.  Recall #F-524-5.
+CODE           Lot #1855.
+MANUFACTURER   R.M. Palmer Company, West Reading, Pennsylvania.
+RECALLED BY    Preferred Products, Inc., Chaska, Minnesota, by letter
+               December 22, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       425 cases (24 bags per case) were distributed.
+REASON         The candy contains undeclared peanuts. 
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        Nature Food Centres "Tropical Snacks" packaged in 12 ounce
+               bags.  Recall #F-502-5.
+CODE           Lot 0001 EXP 4/95.
+MANUFACTURER   Nature Food Centres, Wilmington, Massachusetts.
+RECALLED BY    General Nutrition, Inc., Pittsburgh, Pennsylvania, by letter
+               January 5, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Northeast and Midwest United States.
+QUANTITY       Firm estimated that 3,500 units remained on market at time
+               of recall initiation.
+REASON         Product contains undeclared sulfites.
+
+                                    -3-_______________
+PRODUCT        Cherry Nut Ice Cream packaged in 3 gallon cardboard bulk
+               containers.  Recall #F-512-5.
+CODE           All bulk product manufactured in 1994 and in 1995 until
+               January 27, 1995.
+MANUFACTURER   Hagan Ice Cream Company, Uniontown, Pennsylvania.
+RECALLED BY    Manufacturer, by delivering a product information notice on
+               February 1, 1995.  Firm-initiated recall complete.
+DISTRIBUTION   Pennsylvania, Maryland, West Virginia, Ohio, Kentucky,
+               Virginia.
+QUANTITY       Undetermined.
+REASON         Product contains undeclared peanuts.
+
+_______________
+PRODUCT        Bottled Spring Water packaged in 11.8 ounce plastic bottles
+               in the following flavors:  (a) Raspberry; (b) Strawberry; 
+               (c) Peach/Orange; (d) Black Cherry.  Recall #F-513/516-5.
+CODE           09113, 10113, 11113, 12113, 13113, 07123, 07014, 08024,
+               09024, 10024.
+MANUFACTURER   Andres Wines, Winona, Ontario, Canada (bottling firm).
+RECALLED BY    Canadian Pure Beverage Distributors, West Palm Beach,
+               Florida, by telephone and by letters dated April 19, 1994
+               and December 23, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Tennessee, North Carolina.
+QUANTITY       7,838 cases (24 bottles per case) were distributed
+REASON         Product was contaminated with mold.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Liquid Oxygen for respiratory therapy, in size C, D, and E
+               cylinders.  Recall #D-086-5.
+CODE           All lots.
+MANUFACTURER   Texas Air Supply Home Medical Equipment, Inc., Fort Worth,
+               Texas.
+RECALLED BY    Manufacturer, by visit November 10, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       500 cylinders were distributed; firm estimates none remains
+               on the market.
+REASON         Current good manufacturing practice deficiencies.
+
+_______________
+PRODUCT        Medical Oxygen Cylinders, sizes A, B, D, E, H, & M.  
+               Recall #D-087-5.
+CODE           Lot numbers:  951L417, 951L418, 951L423, 951L428, 951L429,
+               952L430, 950M405, 950M406, 950M409, 950M412, 951M416,
+               951M430.
+MANUFACTURER   Metrolina Welders Supply, Inc., (Welders Supply), Charlotte,
+               North Carolina.
+RECALLED BY    Manufacturer, by visit February 15, 1995.  North Carolina
+               Department of Agriculture issued press release February 15,
+               1995.  Firm-initiated recall complete.
+                                    -4-DISTRIBUTION   North Carolina, South Carolina.
+QUANTITY       12 lots were distributed.
+REASON         Current good manufacturing practice deficiencies.
+
+_______________
+PRODUCT        Oxygen Compressed USP, compressed medical gas in cylinders. 
+               Recall #D-088-5.
+CODE           Lot numbers:  257B522 EXP 2/22/96, 257B523 EXP 2/24/96,
+               258B527 EXP 2/27/95, 256B521 EXP 2/21/96, 256B520 EXP
+               2/20/96, 258B528 EXP 2/28/96.
+MANUFACTURER   Valley Welding Supply Company, Greensburg, Pennsylvania.
+RECALLED BY    Manufacturer, by telephone and by visit March 1, 1995,
+               followed by letter March 3, 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Pennsylvania.
+QUANTITY       131 units were distributed.
+REASON         Current good manufacturing practice deficiencies.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Indocyanine Green USP, a prescription bulk pharmaceutical
+               chemical.  Recall #D-085-5.
+CODE           Lot numbers:  ACB57835, ACB57836, ACB57837, ACB57838.
+MANUFACTURER   Eastman Kodak Company, Rochester, New York.
+RECALLED BY    Manufacturer, by meeting October 18, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Maryland, New Mexico.
+QUANTITY       Approximately 7,000 grams were distributed.
+REASON         Subpotency.
+
+_______________
+PRODUCT        Guaipax PSE Tablets (Pseudophedrine HCl 120 mg and
+               Guaifenesin 600 mg), sustained release, 100 tablets, Rx,
+               indicated for the relief of nasal congestion.   
+               Recall #D-089-5.
+CODE           Lot #4C082 EXP 3/96.
+MANUFACTURER   Eon Laboratories Manufacturing, Inc., Laurelton, New York.
+RECALLED BY    Manufacturer, by letter March 7, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Alabama, California, Connecticut, Florida, Georgia, Hawaii,
+               Iowa, Illinois, Minnesota, Missouri, Mississippi, North
+               Carolina, Nebraska, New Jersey, New York, Oklahoma, Ohio,
+               Oregon, South Carolina, Texas, Puerto Rico.
+QUANTITY       2,286 units of 100 tablets were distributed; firm estimates
+               very little of the product remains on the market.
+REASON         Product does not meet dissolution specifications for the
+               guaifenesin ingredient.
+
+
+                                    -5-_______________
+PRODUCT        Triple Sulfa Vaginal Cream, USP administered intravaginally,
+               used in the treatment of vaginal infection, in 2.75 ounce
+               (78 gram) metal tubes, under the following labels:
+               Rugby, Goldline, URL, Qualitest, Norega, Schein, H.L. Moore,
+               Hurst, Domel, Dayton, Econo Med, Best Generics, Reid-Rowell,
+               and IDE.  Recall #D-090-5.
+CODE           Batch#      EXP       Batch#    EXP       Batch#    EXP 
+               O573        2/95      R403      11/95     S797      6/96 
+               O581        2/95      R412      11/95     S805      6/96 
+               O587        2/95      R419      11/95     T339      8/96 
+               O598        2/95      R427      11/95     T347      8/96 
+               0604        2/95      R433      11/95     T356      8/96 
+               0840        3/95      R446      11/95     T363      8/96 
+               O849        3/95      R455      11/95     T371      8/96 
+               O857        3/95      R464      11/95     U025      10/96 
+               O865        3/95      R616      12/95     U034      10/96 
+               O873        3/95      R625      12/95     U042      10/96 
+               P224        5/95      R634      12/95     U049      10/96 
+               P232        5/95      R642      12/95     U057      10/96 
+               P240        5/95      R650      12/95     V267      4/97 
+               P248        5/95      R894       2/96     V275      4/97 
+               P252        5/95      R903       2/96     V553      5/97 
+               P522        6/95      R912       2/96     V564      5/97 
+               P531        6/95      R922       2/96     V571      5/97 
+               P539        6/95      S434       4/96     V805      6/97 
+               P547        6/95      S442       4/96     V814      6/97 
+               P554        6/95      S450       4/96     V824      6/97 
+               P931        8/95      S460       4/96     V831      6/97 
+               P947        8/95      S467       4/96     W613      10/97 
+               P954        8/95      S776       5/96     W185      8/97 
+               P959        8/95      S784       5/96     W137      8/97 
+               W622       10/97      S790       5/96     W159      8/97 
+               W169        8/97      W647      10/97     W662      10/97 
+               W177        8/97      W654      10/97     V729      6/97 
+               P939        8/95      V710       6/97.         
+MANUFACTURER   Clay Park Laboratories, Inc., Bronx, New York.
+RECALLED BY    Manufacturer, by letter February 1, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide, The Virgin Islands, West Indies, The Bahamas,
+               Bulgaria.
+QUANTITY       698,338 tubes were distributed.
+REASON         Product does not meet pH specifications.
+
+_______________
+PRODUCT        Nystatin/Triamcinolone Acetonide Cream USP, 120 g (4 ounce)
+               and 1 pound plastic jars, used for the treatment of topical
+               yeast infection, under the Clay Park and URL labels.
+               Recall #D-091-5.
+CODE           For 120g (4oz) jars:          For 1lb. jars: 
+               LOT#      EXP.                LOT#      EXP. 
+               O344      2/95                T427      10/96 
+
+                                    -6-               S216      5/96                T435      10/96 
+               O658      3/95                P900      9/95 
+               S667      7/95                S208      4/96 
+               P900      9/95                P916      9/95 
+               T806      11/95               S667      7/96 
+               S200      4/96                S200      4/96. 
+MANUFACTURER   Clay Park Laboratories, Inc., Bronx, New York.
+RECALLED BY    Manufacturer, by letter February 21, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 7,312 4-ounce jars and 901 1-pound jars were
+               distributed.
+REASON         Superpotency.
+
+_______________
+PRODUCT        (a) Fluocinolone Acetonide Cream 0.025%, in 60g metal tubes,
+               used for the treatment of localized inflamed skin areas,
+               under the following labels:  Clay Park, Goldline, Rugby,
+               Schein; (b) Fluocinolone Acetonide Cream 0.01% in 60  g
+               metal tubes, a corticosteroid used as an anti-inflammatory,
+               under the following labels:  Clay Park, Goldline, Rugby
+               labels.  Recall #D-092\093-5.
+CODE           Lot numbers:  S129 EXP 3/95, S446 EXP 4/95, S455 EXP 4/95,
+               S924 EXP 6/95; (b) S122 EXP 3/95, S431 EXP 4/95, S437 EXP
+               4/95, S916 EXP 6/95, T213 EXP 7/95, T592 EXP 8/95.
+MANUFACTURER   Clay Park Laboratories, Inc., Bronx, New York.
+RECALLED BY    Manufacturer, by letter March 8, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   (a) Nationwide, St. Lucia; (b) Trinidad, St. Lucia.
+QUANTITY       (a) Approximately 11,666 tubes; (b) 21,800 tubes were
+               distributed.
+REASON         Potency not assured through expiration date.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-197-5.
+CODE           Unit #7761666.
+MANUFACTURER   North Jersey Blood Center, East Orange, New Jersey.
+RECALLED BY    Manufacturer, by telephone July 26, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   New Jersey.
+QUANTITY       1 unit.
+REASON         Blood product, which was exposed to unacceptable shipping
+               temperatures, was distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Baxter Pharmaseal Spinal and Saddle Block Anaesthesia Trays
+               containing 5 cc glass syringes (B-D Glaspak #5293) with
+               metal hub spinal needles, sterile, single use only:
+
+                                    -7-               (a) Spinal Anesthesia Tray with Spinal Anesthetic and Spinal
+               Needle, 22 Ga, Catalog #4500C; 
+               (b) Spinal Anesthesia Tray with Spinal Anesthetic and Spinal
+               Needle, 25 Ga, Catalog #4510C; 
+               (c) Spinal Anesthesia Tray with Spinal Anesthetic,
+               Epinephrine,and Spinal Needle 25 Ga, Catalog #4511C;
+               (d) Saddle Block Anesthesia Tray with Spinal Anesthetic,
+               Ephedrine Sulfate, and Spinal Needle, 25 Ga, Catalog #4518C;
+               (e) Custom Spinal Anesthesia Tray with Spinal Anesthetic,
+               and Spinal Needle, 22 Ga, Catalog #514504072; 
+               (f) Custom Anesthesia Tray with Spinal Anesthetic and Spinal
+               Needle, 25 Ga, Catalog #6845141200.  Recall #Z-397/402-5. 
+CODE           Lot numbers:  (a) K4C378; (b) K4C377 and K4C377A; 
+               (c) K4C375; (d) K4C376A and K4C376B; (e) K4C191E;
+               (f) K4C198E.
+MANUFACTURER   Becton-Dickinson, Franklin Lakes, New Jersey (Syringe).
+RECALLED BY:   Baxter Healthcare Corporation, Round Lake, Illinois, by
+               letter October 3, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and International.
+QUANTITY       16,493 trays were distributed; firm estimated that 30% of
+               the product remained on market at time of recall initiation.
+REASON         There is a potential for leaking to occur at the connection
+               between the 5cc glass syringe (B-D Glaspak #5293) and the
+               metal hub spinal needles.
+
+_______________
+PRODUCT        Glutaraldehyde Disinfectant/Sterilization Solution, in 1
+               gallon containers:
+               (a) Baxter Omnicide 14 N.S., Catalog #25182-214;
+               (b) VHA + Plus SDS 14 N.S., Catalog #V-2250.
+               Recall #Z-438/439-5.
+CODE           Lot numbers: (a) 2107; (b) 2196.
+MANUFACTURER   Cottrell, Ltd., Englewood, Colorado.
+RECALLED BY    Manufacturer, by verbal notification August 16, 1994,
+               followed by letter August 17, 1994.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Illinois, Pennsylvania, Virginia, Nebraska, Indiana.
+QUANTITY       5,876 gallons were distributed; firm estimated that 5,200
+               remained on market at time of recall initiation.
+REASON         A quantity of glutaraldehyde product containing a surfactant
+               was inadvertently pumped into the mixing tank dedicated to
+               the production of the subject products, which are non-
+               surfactant glutaraldehyde products.
+
+_______________
+PRODUCT        Sechrist Model 2200B Ventilator, indicated for the delivery
+               of medical grade air and oxygen to adult/pediatric patients. 
+               Recall #Z-454-5.
+CODE           Serial number sequences 90Y8386 through 90Y9269 and 91501
+               through 91918.
+MANUFACTURER   Sechrist Industries, Inc., Anaheim, California.
+RECALLED BY    Manufacturer, by letter March 1, 1994.  Firm-initiated
+               recall ongoing.
+                                    -8-DISTRIBUTION   Nationwide and international. 
+QUANTITY       357 units were distributed.
+REASON         Due to a defective voltage monitor, the product may cease
+               ventilation without audible and visual alarms.
+
+_______________
+PRODUCT        Sechrist Ventilator, Model 2200B, a microprocessor
+               controlled ventilator, indicated for the delivery of medical
+               grade air and oxygen to adult/pediatric patients.
+               Recall #Z-496-5.
+CODE           Serial Numbers 91792, 91794, 91795, 91797, 91799, 91800,
+               91803, 91804-91806, 91809-91823, 91825-91830, 91833, 91835,
+               91837-91843, 91847, 91849-91857, 91861, 91863-91871,
+               91877-91887, 91889, 91891, 91892, 91896-91899, and 91901. 
+MANUFACTURER   Sechrist Industries, Inc., Anaheim, California. 
+RECALLED BY    Manufacturer, by letter February 23, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Idaho and International.
+QUANTITY       79 units were distributed.
+REASON         Leakage caused by a defective refill valve results in an
+               inaccurate delivery of gas volume and pressure.
+
+_______________
+PRODUCT        Respironics brand BIPAP 30 Ventilatory Support Systems, a
+               non-continuous ventilator for non-life support applications:
+               (a) Model 552006 BiPAP S/T-D30;
+               (b) Model 552045 BiPAP S/T-D30;
+               (c) Model 552049 BiPAP S/T-D30;
+               (d) Model 552052 BiPAP S/T-D30.  Recall #Z-498/501-5.
+CODE           Serial numbers from 10000 through 10296.
+MANUFACTURER   Respironics, Inc., Murrysville, Pennsylvania.
+RECALLED BY    Manufacturer, by telephone January 9, 1995, followed by
+               letter January 11, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Taiwan, Spain, Netherlands, Kowloon, France,
+               Canada, The United Kingdom. 
+QUANTITY       189 units were distributed.
+REASON         Under certain conditions, the interaction between the
+               spontaneous/times mode and the breaths per minute control of
+               the affected BiPAP S/T-D30 and S/T 30 devices results in the
+               devices operating outside the product specifications.  The
+               result is that there is the potential for the delivered
+               breaths per minute to be lower than the desired rate.
+
+_______________
+PRODUCT        High Frequency Oscillatory Neonatal Ventilator, Model 3100A,
+               indicated for ventilatory support and treatment of
+               respiratory failure and barotrauma in neonates.
+               Recall #Z-497-5.
+CODE           Serial numbers 31204 through 31848, excluding 31359 through
+               31378.
+MANUFACTURER   Sensormedics Corporation, Yorba Linda, California.
+RECALLED BY    Manufacturer, by letter dated November 22, 1994.  Firm-
+               initiated recall ongoing.
+                                    -9-DISTRIBUTION   Nationwide, Australia, Canada, Hong Kong, Korea, Mexico,
+               Netherlands, Philippines, Singapore, Taiwan.
+QUANTITY       625 units were distributed.
+REASON         A wire next to the metal amplifier bracket may abrade, due
+               to vibration, causing a potential electrical shock hazard.
+
+_______________
+PRODUCT        Sharpe ENDO Assist Endoscopic Knot Pusher, Product #87000,
+               product size 10 mm, a reusable laparoscopic device used for
+               the extracorporeal tying of suture knots.  Recall #Z-510-5.
+CODE           All lots.
+MANUFACTURER   Sharpe Endosurgical Corporation, St. Paul, Minnesota.
+RECALLED BY    Manufacturer, by letter February 6, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide, Canada, England, France, Ireland, Japan.
+QUANTITY       62 units were distributed.
+REASON         Plastic pieces of the sheath (plastic tube), that covers the
+               laparoscopic mechanism of the device, have broken off the
+               distal end of the tube which enters the patient's body,
+               potentially allowing pieces to fall into a patient's body
+               cavity.
+
+_______________
+PRODUCT        All Intervascular Inc., non radially-supporting, Dacron
+               Axillo-Femoral Protheses, including all types (woven or
+               knitted), diameters:  (a) Ochner 200;
+               (b) Ochner 500; (c) Micron; (d) Medium Porosity;
+               (e) Low Porosity.  Recall #Z-511/515-5.
+CODE           All serial numbers.  All catalog numbers.
+MANUFACTURER   Intervascular, Inc., Clearwater, Florida.
+RECALLED BY    Manufacturer, by letter July 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   California, Illinois, Pennsylvania, Louisiana, Tennessee,
+               Mississippi, Florida, and international.
+QUANTITY       48 units.
+REASON         The manufacturer is marketing the device without an approved
+               premarket notification submission (510k).
+
+_______________
+PRODUCT        Adult Expandable Breathing Circuits and All Products,        
+               Including Various Anesthesia Kits As Components.
+               Recall #Z-521/533-5. 
+CODE           Catalog No.          Lot No. 
+               VIXYGNGZ             026L 
+               5930HIJO             011J/011K/013J/013L 
+                                   /024L/004K 
+               5935                 019K/025J 
+               5935CET              351S 
+               5935E                351S 
+               5950                 007K/013J/020K 
+               5950M8               351F 
+               5955TW               004K 
+
+                                   -10-               6GY90MYX             012J/017J 
+               6QAFNUX              355F 
+               6QAFYNVX             355F 
+               6Q555NPX             356S/375T/362F/362S/024L 
+               7U400NXB             362F. 
+MANUFACTURER   Vital Signs, Totowa, New Jersey.
+RECALLED BY    Manufacturer, by letter February 2, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Alabama, California, Georgia, Illinois, Kansas, Kentucky,
+               North Carolina, Nebraska, New York, Texas, Washington State,
+               Wyoming.
+QUANTITY       2,225 units were distributed.
+REASON         Exposure to extremely cold temperatures may cause the
+               expandable tubing to crack when flexed.  
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Beckman Synchron CX7 Clinical Analyzer, computer enhanced,
+               CX4CE/CX5CE), indicated for in-vitro chemistry testing.
+               Recall #Z-520-5.
+CODE           All units with Software Version 2.1; part number 468120;
+               Version 1.8/2.2, part #469260; Version 2.2, part #469285.
+MANUFACTURER   Beckman Instruments, Inc., Brea, California.
+RECALLED BY    Manufacturer, by letter dated July 14, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international. 
+QUANTITY       1,553 units were distributed.
+REASON         Defective software may cause patient samples to be
+               incorrectly sampled, which may cause incorrect patient
+               results to be reported.
+
+_______________
+PRODUCT        Stratus Prolactin Fluorometric Enzyme Immunoassay Kit with
+               "Code 35" values.  Recall #Z-534-5.
+CODE           Calibrator lots XPL1-121 through XPL6-621 which are
+               contained in kit lot #KXPL-195M which expires 2/28/95.
+MANUFACTURER   Baxter Diagnostics, Inc., Miami, Florida.
+RECALLED BY    Manufacturer, by letter on or about September 24, 1994. 
+               Firm-initiated field correction complete.
+DISTRIBUTION   Texas, West Virginia, South Carolina, Pennsylvania, Ohio,
+               Nebraska, Iowa, Kansas, Colorado, Arizona, Arkansas.
+QUANTITY       12 kits were distributed.
+REASON         The technical bulletin which is enclosed with this kit has
+               incorrect "Code 35 values" for the Stratus II users which
+               causes the assay to be unusable.
+
+_______________
+PRODUCT        Dade CK-MB/Myoglobin Immunoassay Control, Level 1, Level 2,
+               and Level 3:  (a) Catalog #B5200/B5200-S (sample);
+               (b) Catalog #B5200-1; (c) Catalog #B5200-2; (d) Catalog
+               #B5200-3.  Recall #Z-535/538-5.
+
+                                   -11-CODE           Lot numbers:  (a) MBCK-19M; (b) MBC1-109M; (c) MBC2-209M;
+               (d) MBC3-309M.
+MANUFACTURER   Baxter Diagnostics, Inc., also known as Dade International,
+               Miami, Florida.
+RECALLED BY    Manufacturer, by letter sent on or about January 24, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       3,888 kits were distributed.
+REASON         The myoglobin reconstituted stability on level III maintains
+               for only three days after reconstitution.  The product
+               insert states that the reconstituted product is stable for
+               14 days when stored at 2 to 8 degrees Centigrade.
+
+_______________
+PRODUCT        Medilog Ambulatory Blood Pressure Monitor (ABP), Rx medical 
+               device used to measure blood pressure and heart rate over
+               extended periods of time (up to 72 hours).  Recall #Z-539-5.
+CODE           Serial numbers:  BP0922, BP11407, BP11318, BP11325.
+MANUFACTURER   Oxford Instruments, Ltd., Medical Systems Division, Abingdon
+               Oxon, England.
+RECALLED BY    Oxford Instruments Medical Systems, Division, Clearwater,
+               Florida, by letter dated November 10, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   California, Canada, Argentina.
+QUANTITY       4 units were distributed.
+REASON         A faulty capacitor in the device is susceptible to becoming
+               resistive, resulting in inaccurate blood pressure
+               measurements.
+
+
+MEDICAL DEVICE SAFETY ALERT
+===============================================
+_______________
+PRODUCT        LuSee TLC Steerable Guidewires, designed to provide maximum
+               torque control and steerability enabling the guidewire to
+               transverse tortuous vessels and tight stenoses:  
+               (a) LuSee PLC Steerable Guidewire, soft, super soft,
+               standard tip flexibilities; (b) 0.009"/0.014" Microlucent
+               Guidewire; (c) 7 cm Radiolucent Stabilizer Extra Support
+               Guidewire.  Safety Alert #N-023/025-5.
+CODE           All codes/serial numbers.
+MANUFACTURER   Cordis Corporation, Miami Lakes, Florida.
+ALERTED BY     Manufacturer, by letter January 12, 1995.
+DISTRIBUTION   Nationwide and international.
+REASON         Tip fractures have been reported in procedures involving
+               total occlusions, highly tortuous vasculature and
+               interferring small side branches.
+
+
+SEIZURE:
+==================================================================
+_______________
+PRODUCT        Frozen Scallops (95-745-218 et al).
+
+                                   -12-CHARGE         Adulterated - The articles consist in whole or in part of a
+               decomposed substance by reason of the presence therein of
+               decomposed scallops.
+LOCATION       Gulf Atlantic Cold Storage, Inc., Gretna, Louisiana.
+FILED          February 21, 1995; U.S. District Court for the Eastern
+               District of Louisiana; Civ. #95-0604; FDC #67065.
+SEIZED         March 3, 1995 - goods valued at approximately $44,000.
+
+
+MASS SEIZURE:
+=============================================================
+_______________
+PRODUCT        Bulk spices, rice, flour products, and various other
+               articles of food (95-741-369).
+CHARGE         Adulterated - The articles have been held under insanitary
+               conditions whereby they may have become contaminated with
+               filth.
+LOCATION:      U.S. Spice, Chicago Heights, Illinois.
+FILED          January 24, 1995; U.S. District Court for the Northern
+               District of Illinois, Eastern Division; Civ. #95C 0452;
+               FDC #67057
+SEIZED         March 3, 1995 - goods valued at approximately $12,000.
+
+                                   -13-
+
+
+END OF ENFORCEMENT REPORT FOR MARCH 22, 1995.  BLANK PAGES MAY
+FOLLOW.
+
+
+
+                                   ####

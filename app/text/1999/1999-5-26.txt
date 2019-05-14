@@ -1,0 +1,654 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  22
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      32 captures
+	      26 Feb 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+
+
+May 26, 1999                               99-21
+
+RECALLS AND FIELD CORRECTIONS:
+FOODS -- CLASS I
+________
+PRODUCT
+Austin Whole Wheat and Cheddar Cracker Sandwiches, 7.4 ounces.  Recall 
+#F-421-9.
+CODE
+JUN2099bk.
+MANUFACTURER
+Austin Quality Foods, Cary, North Carolina.
+RECALLED BY
+Manufacturer, by E-mail on January 12, 1999, and by press release on 
+January 15, 1999, followed by visit.  Firm-initiated recall complete.
+DISTRIBUTION
+Connecticut, Massachusetts, Rhode Island.
+QUANTITY
+100 8-pack cases were distributed.
+REASON
+Some packages labeled as "Whole Wheat and Cheddar Cracker Sandwiches" 
+actually contain "Cheese Peanut Butter Cracker Sandwiches."
+
+
+________
+PRODUCT
+Shredded Monterey Jack Cheese, net weight 30 pounds.
+Recall #F-422-9.
+CODE
+Lot #2029074.
+MANUFACTURER
+Beatrice Cheese, Inc., Fredericksburg, Iowa.
+RECALLED BY
+Beatrice Cheese, Inc., Waukesha, Wisconsin, by return authorization 
+issued on March 29, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+200 30-pound cases.
+REASON
+Product was contaminated with Listeria monocytogenes.
+
+________
+PRODUCT
+Heinz 3 Broccoli, Carrots & Cheese Junior Baby Food, in 6 ounce glass 
+jars.  Recall #F-423-9.
+CODE
+P3388EA.
+MANUFACTURER
+Heinz USA, Pittsburgh, Pennsylvania.
+RECALLED BY
+Manufacturer, by letters and press release on March 29, 1999.  Firm-
+initiated recall ongoing.
+DISTRIBUTION
+Nationwide, Singapore, Uruguay.
+QUANTITY
+5,269 cases (24 jars per case) were distributed.
+REASON
+Product is contaminated with pieces of hard plastic.
+
+
+RECALLS AND FIELD CORRECTIONS:
+FOODS -- CLASS II
+________
+PRODUCT
+Italian Cookies, packaged in rigid plastic containers, 
+16 ounces.  Recall #F-385-9.
+CODE
+None.
+MANUFACTURER
+96 Vreeland Street Corporation, doing business as Rosa Maria Bakery, 
+Staten Island, New York.
+RECALLED BY
+Manufacturer, by telephone on November 16, 1998.  Completed field 
+correction (relabeling) resulted from sample analysis and follow-up by 
+the New York State Department of Agriculture and Markets.
+DISTRIBUTION
+New Jersey.
+QUANTITY
+Approximately 50 packages were distributed.
+REASON
+Product contains undeclared FD&C Yellow No. 5, FD&C Yellow #6, FD&C Red 
+No. 3, and FD&C Blue No. 1.
+
+________
+PRODUCT
+Matouk's Hot Chow, in 9 ounce and 13.4 ounce jars.  Product of 
+Trinidad.  Recall 
+#F-420-9.
+CODE
+None.
+MANUFACTURER
+Matouk International, Ltd., Trinidad, West Indies.
+RECALLED BY
+La Preferida, Inc., Bronx, New York, by letter dated November 4, 1998.  
+Completed field correction (relabeling) resulted from sample analysis 
+and follow-up by the New York State Department of Agriculture and 
+Markets.
+DISTRIBUTION
+Massachusetts, New Jersey, New York, Ohio.
+QUANTITY
+20 cartons (12 jars per carton) of each product were imported.
+REASON
+Product contains undeclared FD&C Yellow No. 5.
+
+
+RECALLS AND FIELD CORRECTIONS:
+FOODS -- CLASS III
+________
+PRODUCT
+Fat Free Cottage Cheese packaged under the Shop 'n Save label, in 24-
+ounce plastic containers, (12 containers per case).  Recall #F-398-9.
+CODE
+Jun 02 3947.
+MANUFACTURER
+Tamarack Farms Dairy, Newark, Ohio.
+RECALLED BY
+Manufacturer, by telephone on April 30, 1999.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Pennsylvania.
+QUANTITY
+348 cases (4,176 containers) were distributed.
+REASON
+Product is misbranded because the label identifies it as "Fat Free 
+Cottage Cheese" when it in fact is regular small curd cottage cheese.
+
+________
+PRODUCT
+The recall involves the firm's own brands and styles of pasteurized, 
+not-from-concentrate (single strength) and from concentrate orange 
+juice as well as numerous "private label" pasteurized not-from-
+concentrate and from concentrate orange juice.  Product is either 
+packed into a laminated paper carton or a plastic container.
+Recall #F-418-9.
+CODE
+The following products are Lykes Pasco brands (Sunkist and 
+Floridagold) including Lot Numbers:
+a) Sunkist Premium Orange Juice Not From Concentrate (both with pulp 
+and without pulp), 64 oz. and 96 oz. cartons and jugs - All Codes With 
+Pull Dates of "March 10" through "April 7".
+b) Sunkist Growers' Blend Orange Juice From Concentrate, Both With Pulp 
+And Pulp Free, 64 fl. oz. and 96 oz. - All Codes With Pull Dates of 
+"March 24" through "April 28".
+c) Floridagold Premium, Not From Concentrate Orange Juice, Both With 
+Pulp And Without Pulp, 64 and 96 fl. oz. - All Codes With Pull Dates Of 
+"March 24" through "April 21".
+d) Floridagold Original From Concentrate Orange Juice, 64 oz. and 96 
+oz. With Pull Dates of "March 24" through "April 28".  The following 
+products and lot numbers under recall are "private labels" packed under 
+contract for various brokers/grocery store chains. Note:  All product 
+codes for the following products with pull dates of "MARCH 24" 
+through "APRIL 21" are under recall:
+e) America's Choice Premium Orange Juice Pasteurized Not From 
+Concentrate, distributed by Compass Foods, Montvale, NJ, 64 fl. oz. 
+f) Albertson's Orange Juice, Premium, Not From Concentrate, 32 and 64 
+oz., distributed by Albertson's, Inc. Boise, Idaho 83726.
+g) BI LO Orchard Harvest Premium And Country Style Pasteurized Orange 
+Juice Not From Concentrate, distributed by BI-LO, Inc., Mauldin, SC 
+29662, 64 and 96 fl. oz.
+h) Bel-Air Homestyle Premium Squeezed Orange Juice Not From 
+Concentrate, net 64 fl. oz., distributed by Safeway Inc. Oakland, CA.
+i) Best Yet Orange Juice Not From Concentrate, 64 fl. oz., Packed for 
+Scrivner, Inc. Oklahoma City, OK 73126.
+j) Buehler's Premium Orange Juice Not From Concentrate Regular and 
+Country Style with Juicy Bits of Orange, 64 and 96 fl. oz. distributed 
+by Buehler's,'Inc. Wooster, Ohio.
+k) Cub Foods Orange Juice Pasteurized Not from Concentrate 64 fl. oz. 
+distributed by Cub Foods Stillwater, MN 55082.
+l) C-town Orange Juice Not from Concentrate 64 fl oz. distributed. by 
+Alplha I Marketing Corp., White Plains, NY 10604.
+m) Dominick's Premium Orange Juice Not From Concentrate, 96 fl. oz. 
+distributed by Dominick's Finer Foods, Inc. Northlake, IL 60164
+n) Finast Orchard Harvest Premium Pasteurized Orange Juice Not from 
+Concentrate, Regular and Country Style, 64 and 96 fl. oz. distributed 
+by Foodhold, USA, Inc., Atlanta, GA 30326.
+o) Food Club Premium "Groves Best" Extra Pulp Added Orange Juice Not 
+From Concentrate, 64 fl oz. and Food Club Premium Orange Juice Pulp 
+Added Not from Concentrate 8 oz. and 64 fl. oz., distributed by Topco 
+Assoc., Inc, Skokie, IL 60077.
+p) Food Lion Premium Orange Juice Not From Concentrate, Also Includes 
+the Label with "Country Style", 8, 32, 64, and 96 fl. oz., distributed 
+by Food Lion, Inc., Salisbury, NC 28144.
+q) Flavorite Premium Orange Juice Not From Concentrate, 64 fl. oz., 
+distributed by Preferred Products, Inc., Eden Prairie, MN 55344.
+r) Four Winds Farm Premium Florida Squeezed Orange Juice Not From 
+Concentrate, 64 and 96 fl. oz., distributed by Staff Supermarket 
+Associates, Norcross, GA. 30092.
+s) Giant Eagle Orange Juice Premium Not From Concentrate, 64 and 96 fl. 
+oz., distributed by Giant Eagle Inc. Pittsburgh, PA 
+t) Golden Flow Premium Orange Juice Not From Concentration, 32 and 64 
+fl. oz., distributed by Upstate Dairy Farm Corp., Brooklyn, NY 11205.
+u) Grand Union Premium Orange Juice Not From Concentrate, and Grand 
+Union Premium Orange Juice Country Style, Not From Concentrate. 64 oz. 
+and 96 oz., distributed by Grand Union Co., Wayne, NJ. 07470.
+v) Great Value Premium Florida Squeezed Orange Juice Not From 
+Concentrate, 64 oz., Marketed by Wal Mart Stores, Inc., Bentonville, AR 
+72716.
+w) Hyde Park Florida Squeezed Orange Juice, Not From Concentrate, 64 
+fl. oz., distributed by Fleming Co., Oklahoma City, OK 73126.
+x) IGA Premium Orange Juice, Not From Concentrate, 64 fl. oz., 
+distributed by IGA, Inc., Chicago, IL 60631.
+y) Jitney Gold Original Not from Concentrate Orange Juice, Both 
+"Original" in 64 and 96 oz. Containers and "Country Style" Not From 
+Concentrate Orange Juice 64 oz. Container, "Packed Exclusively For:" 
+Jitney Jungle Stores of America, 
+Jackson, MS 39204.
+z) Jus D'orange, Co-op, non Fait De Concentre, 1.89 Liter, Prepared for 
+Interprovincial Coop, Ltd., Saskatoon, Canada.
+aa) Kn'k Preferred Premium Original Orange Juice Not From Concentrate 
+and Also Kn'k Preferred Premium More Pulp Orange Juice Not from 
+Concentrate, 64 oz. proudly distributed by Kash n'Karry Tampa, FL.
+bb) Kash n' Karry Premium Orange Juice Not From Concentrate, 96 fl. 
+oz., proudly distributed by Kash n' Karry, Tampa, FL.
+cc) Key Food Premium Orange Juice 64 fl. oz., Not From Concentrate, 
+distributed by Key Food Stores Brooklyn, NY 11236.
+dd) King Kullen Premium Orange Juice Not From Concentrate and King 
+Kullen Premium Orange Juice Not From Concentrate with More Pulp, 32 and 
+64 fl. oz. distributed by King Kullen Grocery Co, Inc. Westbury, NY 
+11590.
+ee) Lakewood Farms Orange Juice Not From Concentrate 64 fl. oz. Upstate 
+Dairy Farms Corp, Brooklyn, NY Distributor.
+ff) La Fe Orange Juice Pasteurized Not From Concentrate 64 fl. oz., 
+distributed by G & T Foods Inc., North Bergen, NJ 07047.
+gg) Meijer Orange Juice Florida Premium Not From Concentrate, 64 and 96 
+fl. oz., distributed by Meijer, Inc. Grand Rapids, MI 49544.
+hh) Nature's Nectar Premium Orange Juice 64 fl oz., distributed by 
+Aldi, Inc., Batavia, IL 60510.
+ii) Our Family Orange Juice Not From Concentrate 64 fl oz., distributed 
+by Nash Finch Co., Minneapolis, MN 55435.
+jj) Old Fashioned Master Choice Orange Juice Not From Concentrate, 64 
+fl. oz., distributed by Complass Foods, Montvale, NJ.
+kk) Old South Premium Orange Juice Not From Concentrate, both the 
+regular and the "Country Style" 8 and 64 oz. distributed by Lykes Pasco 
+Co., Dade City, FL 
+ll) Orchard Hill Orange Juice Not From Concentrate 1.89L
+mm) Pathmark, Premium Orange Juice 64 fl oz. packed by Pathmark Stores, 
+Inc. Woodbridge NJ 07095
+nn) Piggly Wiggly Orange Juice Not From Concentrate 64 fl. oz. 
+distributed by Piggly Wiggly Corp, Memphis, TN 38101.
+oo) Premium Choice Smooth and Also with Juicy Orange Bits Style, Orange 
+Juice From Oranges Not From Concentrate 1 Liter, Power Supermarkets, 
+produced for PC Brand, Gresham House Dublin and Belfast Ireland.
+pp) Nature's Best Premium Orange Juice past. Not From Concentrate, 64 
+fl. oz. distributed by Preferred Products, Inc. Eden Prairie, MN 55344
+qq) Private Selection Country Style and Regular Style Orange Juice Not 
+From Concentrate, 64 oz., distributed by Ralph's Grocery Co., Los 
+Angeles, CA 90054.
+rr) Pueblo Orange Juice Homestyle Extra Pulp Not From Concentrate, 64 
+fl oz. distributed by Pueblo Intern. Carolina PR.
+ss) Richfood Fine Beverages, Premium Orange Juice, 64 fl. oz. 
+distributed by Richfood Inc., Richmond, VA 23261.
+tt) River Valley Premium Orange Juice Not From Concentrate, 64 and 96 
+fl. oz. packed for River Valley Foods, Inc., Syracuse, NY 13221.
+uu) Roundy's Premium Orange Juice Not From Concentrate, 64 and 96 fl 
+oz. distributed by Roundy's Inc, Milwaukee, WI 53201.
+vv) Safeway Homestyle Orange Juice with Juicy Orange Bits Not from 
+Conc. And Also Regular Style Orange Juice Not from Conc., 64 oz., 
+distributed by Safeway, Inc. Pleasanton, CA 94566.
+ww) Scwegmann Premium Orange Juice Not from Concentrate 64 fl oz., 
+packed for Schwegmann Giant Super Markets New Orleans, LA 70126.
+xx) Seaway Premium Florida Squeezed Orange Juice Not From Concentrate 
+64 fl oz., distributed by American Seaway Foods, Inc. Cleveland, OH.
+yy) Shoprite Premium Orange Juice Both the Regular and Country Style 
+(With Pulp) Not from Concentrate, 64 fl. oz., distributed by Wakefem 
+Food Corp. Elizabeth, NJ 07207.
+zz) Shurfresh Brand Premium Orange Juice Not From Concentrate 64 fl. 
+oz. distributed by Shurfine Intern., Inc. Northlake, IL 60164.
+aaa) Smith's Premium Pasteurized Orange Juice 64 and 96 fl. oz., 
+distributed by Smith's Food and Drug Centers, Salt Lake City, UT 84104
+bbb) Southern Home Regular Style and Also Country Style with Added Pulp 
+64 and 96 fl. oz., distributed by Southern Home Birmingham, AL 35201
+ccc) Super a Premium Orange Juice Not from Concentrate Both Regular and 
+Country Style (With Added Pulp), 64 fl oz. distributed by Associated 
+Food Stores Inc., Jamaica, Long Island, NY
+ddd) Thrifty Jus D'Orange Juice 1.89 Liter, prepared for Jace Holding 
+Ltd., Victoria BC Canada
+eee) Tops Pure Premium Orange Juice Original in 64 and 96 fl. oz. Sizes 
+and Homestyle in 64 oz., distributed by Tops Market, Inc., Buffalo, NY 
+14240.
+fff) Ukrop's Premium Orange Juice Original Not From Concentrate, 64 fl. 
+oz., proudly Offered by Ukrop's Super Markets, Inc. Richmond, VA 23236
+ggg) Ultimate Choice Premium Orange Juice Not From Concentrate 64 fl. 
+oz., distributed by SII, Northlake, IL 60164.
+hhh) Western Beef Original Premium Orange Juice, 64 fl. oz. distributed 
+by Western Beef Supermarkets, Inc. Ridgewood, NY 11385.
+iii) Western Classics Premium Orange Juice 2.84 L prepared for Western 
+Family Foods, Vancouver, BC Canada
+jjj) World Classics, Premium Orange Juice Not From Concentrate, 64 fl. 
+oz. and 96 fl. oz. distributed by World Brands, Inc. Skokie, IL 60076.
+MANUFACTURER
+Lykes Pasco Packing Company, Dade City, Florida.
+RECALLED BY
+Lykes Brothers, Inc., Tampa, Florida, by telephone beginning on 
+February 16, 1999, followed by letter.  Firm-initiated recall complete.
+DISTRIBUTION
+Nationwide and Canada.
+QUANTITY
+Approximately 200,000 cases of various branded orange juice products 
+were distributed.
+REASON
+Product is unfit for food due to fermentation.
+
+________
+PRODUCT
+Cranberry Raspberry Diet Snapple Fruit Drink, in 16 fluid ounce glass 
+bottles.  Recall #F-419-9.
+CODE
+JX06A9.
+MANUFACTURER
+Southeast Atlantic Beverage, Jacksonville, Florida (responsible 
+contract manufacturer/bottler).
+RECALLED BY
+Snapple Beverage Corporation, Valley Stream, New York, by fax on 
+February 8, 1999.  Completed recall resulted from sample analysis and 
+follow-up by The State of Florida Department of Agriculture and 
+Consumer Services.
+DISTRIBUTION
+Florida, South Carolina, Virginia, Tennessee, Georgia, North Carolina.
+QUANTITY
+1,244 cases were distributed.
+REASON
+Product may have been contaminated with mold.
+
+
+RECALLS AND FIELD CORRECTIONS:
+BIOLOGICS -- CLASS II
+________
+PRODUCT
+Source Plasma.  Recall #B-784-9.
+CODE
+Unit numbers:  G6491-017, G6374-017, G6295-017.
+MANUFACTURER
+Plasma Biologicals Services, Owensboro, Kentucky (collection facility).
+RECALLED BY
+Interstate Blood Bank, Inc., Memphis, Tennessee, by letter dated March 
+20 & 30, 1998, and June 16, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+California.
+QUANTITY
+3 units were distributed.
+REASON
+Blood products were collected from an unsuitable donor.
+
+________
+PRODUCT
+a) Red Blood Cells, Leukocytes Removed; b) Fresh Frozen Plasma.  Recall 
+#B-785/786-9.
+CODE
+Unit #4166588.
+MANUFACTURER
+Blood Bank of Alaska, Inc., Anchorage, Alaska.
+RECALLED BY
+Manufacturer, by letter dated October 22, 1998.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Alaska.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor taking the drug Proscar.
+
+________
+PRODUCT
+Red Blood Cells.  Recall #B-787-9.
+CODE
+Unit #4448886.
+MANUFACTURER
+Inland Northwest Blood Center, Spokane, Washington.
+RECALLED BY
+Manufacturer, by telephone on or about March 23, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Washington state.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was labeled as CMV negative was not tested for CMV in 
+accordance with the test kit manufacturer's instructions.
+
+_______
+PRODUCT
+a) Red Blood Cells; b) Recovered Plasma. 
+Recall #B-788/789-9.
+CODE
+Unit numbers: 6007932, 6008397, 6009089, 4168205.
+MANUFACTURER
+Blood Bank of Alaska, Inc., Anchorage, Alaska.
+RECALLED BY
+Manufacturer, by letter dated November 17 or 18, 1998, or by fax on 
+November 19, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Alaska.
+QUANTITY
+4 units of each component were distributed.
+REASON
+Blood products were collected from a donor taking the drug Proscar.
+
+________
+PRODUCT
+Whole Blood.  Recall #B-792-9.
+CODE
+Unit #1214312.
+MANUFACTURER
+Houchin Community Blood Bank, Bakersfield, California.
+RECALLED BY
+Manufacturer, by telephone on November 4, 1996.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+California.
+QUANTITY1 unit was distributed.
+REASON
+Blood product was not labeled as having tested positive for CMV 
+antibodies.
+
+
+RECALLS AND FIELD CORRECTIONS:
+BIOLOGICS -- CLASS III
+________
+PRODUCT
+Fresh Frozen Plasma.  Recall #B-783-9.
+CODE
+Unit #16KJ02628.
+MANUFACTURER
+American Red Cross Blood Services, Columbus, Ohio.
+RECALLED BY
+Manufacturer, by telephone on March 9, 1999.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Ohio.
+QUANTITY
+1 unit was distributed.
+REASONBlood product was inappropriately prepared from 
+a potentially traumatic collection.
+
+
+RECALLS AND FIELD CORRECTIONS:
+DEVICES -- CLASS II
+________
+PRODUCT
+Carpal Tunnel Release System Handpiece.  Recall #Z-916-9.
+CODE
+Catalog #81014, All Serial numbers 3106 through 3288, and 3400 through 
+3519, inclusive.
+MANUFACTURER
+3M Health Care, Irvine, California.
+RECALLED BY
+Microaire Surgical Instruments, Inc., Charlottesville, Virginia, by 
+letter April 16, 1999, followed by telephone. Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Nationwide, France, Germany.
+QUANTITY
+196 units were distributed.
+REASON
+Units exhibited sticking trigger linkage pins due to rust.
+
+________
+PRODUCT
+Chiron Diagnostics Rapidpoint 400 Blood Gas Analyzer System, critical 
+care diagnostic information system that provides rapid blood analysis 
+for bedside, near patient or alternate site testing.  Recall #Z-921-9.
+CODE
+Serial numbers.
+02087, 02207, 02229, 02296, 02233, 02254, 02266, 02255, 02288, 02292, 
+02297, 
+02311, 02328, 02329, 02324, 02327, 02334, 02335, 02337, 02339, 02341, 
+02345, 
+02351, 02355, 02243. 
+MANUFACTURER
+Chiron Diagnostics Corporation, Medfield, Massachusetts.
+RECALLED BY
+Manufacturer, by letter on March 24, 1999.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+California, Florida, Georgia, Illinois, New York, 
+New Hampshire, Oklahoma, Oregon, Texas and international.
+QUANTITY
+24 units were distributed.
+REASON
+Rapidpoint 400 measurement cartridges for pO2 may calibrate at an 
+incorrect level and result in understating/overstating patient p02 
+values.
+
+________
+PRODUCT
+Yasargil Titanium Aneurysm Clips, Model FT728T, used for permanent 
+occlusion of cerebral aneurysms.  Recall #Z-922-9.
+CODE
+All lot numbers--Blade length 7mm, Mini, Permanent, and 
+Bayonet (all remaining patterns and sizes of the product 
+are not affected).
+MANUFACTURER
+Aesculap AG & Company, KG, Germany.
+RECALLED BY
+Aesculap, Inc., South San Francisco, California, by letter and 
+telephone on April 30, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and Canada.
+QUANTITY
+58 units were distributed.
+REASON
+Blades may have a potential for not being properly aligned 
+(scissoring).
+
+________
+PRODUCT
+E2608-6 Handswitching Suction Coagulator, intended for use in surgical 
+procedures requiring controlled fluid evacuation coupled with 
+electrosurgical coagulation.  Recall #Z-924-9. CODE
+Lot Nos. 35831, 35832, 36117, 36940, 37526, 38179.
+MANUFACTURER
+Valleylab Inc., Boulder, Colorado.
+RECALLED BY
+Manufacturer, by letter on April 16, 1999.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+507 cases (25 units per case) were distributed.
+REASON
+The coagulator remained activated after the activation button was 
+released.
+
+________
+PRODUCT
+Modified Leveen Needle Electrode, Model LE3515.
+Recall #Z-925-9.
+CODE
+Lot #012499.
+MANUFACTURER
+Radiotherapuetics Corporation, Mountain View, California.
+RECALLED BY
+Manufacturer, by letter dated April 27, 1999.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Nationwide, Italy, Japan.
+QUANTITY
+71 units were distributed.
+REASON
+Product has the potential to abrade the tissue.
+
+
+END OF ENFORCEMENT REPORT FOR MAY 26, 1999.
+
+####

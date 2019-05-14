@@ -1,0 +1,747 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Apr
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      31 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+07/06/1995
+
+ENFORCEMENT REPORT FOR 07 05 95
+
+
+July 5, 1995                                                  95-27
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Tenex Tablets, 1 mg, in bottles of 100, an anti-
+               hypertensive.  Recall #D-201-5.
+CODE           Lot #0941345 EXP 12/96.
+MANUFACTURER   A.H. Robins Company, Richmond, Virginia.
+RECALLED BY    Manufacturer, by letter June 19, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       12, 398 bottles were distributed.
+REASON         A bottle labeled Tenex Tablets was found to contain Donnatal
+               Tablets.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Ponstel 250 mg Capsules, (mefenamic acid), an anti-
+               inflammatory, in bottles of 100.  Recall #D-199-5.
+CODE           Lot numbers and EXP dates:  08170FA  7/95, 01082FA 7/95,
+               03492FA 7/95, 00280FA 8/95, 12890FA 8/95, 14792FA 8/95,
+               12990FA 9/95, 012N0FA 11/95, 02913FA 12/95, 00311FA 1/96,
+               03013FA 1/96, 01921FA 2/96, 06743FA 3/96, 06843FA 3/96,
+               00941FA 4/96, 05151FA 4/96, 05251FA 4/96, 00361FA 5/96,
+               07363FA 6/96, 07363FB 6/96, 00561FA 7/96, 05491FA 9/96,
+               05591FA 9/96, 031N1FA 10/96, 032D1FA 12/96, 08212FA 2/97.
+
+MANUFACTURER   Warner Lambert Company, Fajardo, Puerto Rico.
+RECALLED BY    Parke Davis, Division of Warner Lambert Company, Morris
+               Plain, New Jersey, by letter June 12, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       225,822 units were distributed.
+REASON         Withdrawal of NDA Site Supplement for the product.
+
+_______________
+PRODUCT        Norlestrin FE, 1/50 Tablets, one dispenser of 28 tablets
+               each, professional sample, not to be sold, oral
+               contraceptive.  Recall #D-200-5.
+CODE           Lot numbers:  02001FB EXP 1/96, 02001FH EXP 1/96.
+MANUFACTURER   Warner Lambert Company, Fajardo, Puerto Rico.
+RECALLED BY    Parke-Davis, Division of Warner Lambert Company, Morris
+               Plain, New Jersey, by letter June 12, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       7,770 units were distributed.
+REASON         Withdrawal of NDA.
+
+_______________
+PRODUCT        Various drug products:  (a) Norlestrin FE, 1/50 Tablets, 5
+               dispenser of 28 tablets and Norlestrin FE, 1/50 Tablets, 3
+               dispensers of 28 tablets each, for institutional use only;
+               (b) Norlestrin 21, 1/50 Tablets, 5 dispensers of 21 tablets
+               each; (c) Norlutin 5 mg Tablets, indicated in amenorrhea;
+               (d) Uticort 0.025% Gel, in 15 g tube, topical corticosteroid
+               and Uticort 0.025% Gel, in 60 g tubes; (e) Norlutate 5 mg
+               Tablets, in bottles of 50, indicated in amenorrhea.  
+               Recall #D-202/206-5.
+CODE           Lot numbers and EXP dates:  (a) 08392FA 8/95, 08392FC 8/95,
+               08392FG 8/95, 02001FD 1/96, 02001FE 1/96 (5-dispenser pack),
+               08392FD 8/95, 08392FF 8/95, 02001FA 1/96, 02001FF 1/96 (3-
+               dispenser pack); (b) 08392FE 8/95, 02001FC 1/96; (c) 03280FA
+               10/95, 10951FA 5/96; (d) 00963B 8/96, 01594B 9/97 (15 G
+               tube);  029N2B 11/95, 01323B 2/96, 03343B 7/96, 00193B 9/96,
+               01624B 2/97, 07064B 6/97 (60 G tube); (e) 00182FA 7/95,
+               00282FA 7/95, 00492FA 8/95, 00592FA 8/95, 03080FA 8/95,
+               03180FA 9/95, 09590FA 10/95, 09690FA 10/95, 08000FA 11/95,
+               08100FA 11/95, 133DOFA 12/95, 08621FA 2/96, 08721FA 2/96,
+               02731FA 3/96, 00541FA 4/96, 00641FA 4/96, 04151FA 5/96,
+               04251FA 5/96, 07261FA 6/96, 07361FA 6/96, 06971FA 7/96,
+               07071FA 7/96, 01191FA 10/96, 01291FA 11/96, 01391FA 12/96,
+               14091FA 12/96, 00422FA 1/97, 00522FA 1/97, 06412FA 1/97,
+               06512FA 1/97.
+MANUFACTURER   Warner Lambert Company, Fajardo, Puerto Rico.
+RECALLED BY    Parke Davis, Division of Warner lambert Company, Morris
+               Plain, New Jersey, by letter June 9, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       411,592 units were distributed.
+REASON         Withdrawal of NDAs for each of the products.
+                                    -2-
+_______________
+PRODUCT        Mytussin AC Cough Syrup, a schedule V narcotic OTC
+               expectorant and cough suppressant, under the following
+               labels:  Pennex Mytussin AC Cough Syrup, in 1 pint and 1
+               gallon bottles; Robafen AC Cough Syrup (Major), in 1 pint, 4
+               fluid ounce, and in 1 gallon bottles, and GG Glydeine Cough
+               Syrup (Geneva), in 1 pint bottles.  Recall #D-207-5.
+CODE           Lot numbers:  20003 EXP 10/95, 20079 EXP 12/95.
+MANUFACTURER   Pennex Pharmaceuticals, Inc., Morton Grove, Illinois.
+RECALLED BY    Morton Grove Pharmaceuticals, Inc., Morton Grove, Illinois,
+               by letter June 14, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Illinois, Pennsylvania, Kentucky, Indiana, New Jersey,
+               California, Ohio, Georgia, Louisiana, Texas, Colorado, New
+               York, Arkansas, Puerto Rico.
+QUANTITY       31,894 4-ounce bottles; 24,410 pint bottles, and 1,667
+               gallon size bottles were distributed.
+REASON         Subpotency of codeine ingredient.
+
+_______________
+PRODUCT        Children's Allerest, 24 chewable tablets (unit dose) per
+               box, an OTC antihistamine and nasal decongestant.  
+               Recall #D-208-5.
+CODE           Lot #36399 EXP 9/95.
+MANUFACTURER   Fisons Corporation, Rochester, New York.
+RECALLED BY    Manufacturer, by letter June 27, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       18,816 boxes (24 tablets per box) were distributed; firm
+               estimated that little, if any, product remained on market at
+               time of recall initiation.
+REASOn         Subpotency of the chlorpheniramine ingredient.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        (a) Whole Blood CPDA-1; (b) Red Blood Cells (c) Platelets;
+               (d) Recovered Plasma.  Recall #B-390/393-5.
+CODE           Unit numbers:  (a) 03FN01265, 03FY00053, 03F89744; (b)
+               03FW02304, 03F89752; (c) 03F89752; (d) 03FW02304, 03F89748,
+               03F89752.
+MANUFACTURER   American National Red Cross, Atlanta, Georgia.
+RECALLED BY    Manufacturer, by telephone on or about March 8, 1993, or by
+               letters dated March 16, 1993, April 28, 1993, or May 3,
+               1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       None of the units are in commerce. 
+REASON         Blood products which tested initially negative for anti-HCV
+               on an invalidated test run but tested repeatedly reactive
+               for anti-HCV upon retesting or on a subsequent donation, or
+               were untested for anti-HCV, were distributed for transfusion
+               or for further manufacture.
+
+                                    -3-
+_______________
+PRODUCT        Source Plasma.  Recall #B-415-5.
+CODE           Unit numbers:  
+               152937    153216    153888    192127    198806    199093   
+               199674    200044    200501    200507    202044    202329  
+               202852    203132    203658    203930    204470    204726  
+               205299    205550    206108    206386    206950    207292   
+               208030    208220    208638    2160706   292150    292620   
+               293193    293684    294171    294656    295663    296079   
+               296200    296672    297142    297625    298138    298162
+               298569    298592    298809    299021    299443    3088102  
+               3088363   3088376   3092202   3092427   3098383   3098915 
+               3099162   3107300   3107913   3108199   3108826   3109108 
+               3109730   3110021   3110607   3110934   3111496   3111811  
+               3112451   3112741   3113335   3113731   3114240   3114619  
+               3115205   3115644   3116111   3116604   3117007   3117417  
+               3117885   3118302   3118944   3119341   3119823   3120243 
+               3120682   3121100   3121467   3121785   3122379   3122782  
+               3123379   3123709   3124246   3124600   3125158   3125508  
+               3126026   3126429   3126939   3127278   3127906   3128277  
+               3128860   3129285   3129888   3130254   3130809   3131186  
+               3131552   3131848   3132246   3133200   3134168   3134529  
+               3135080   3135415   3136103   3136483   3137038   3137462  
+               3138017   3138374   3139029   3139323   3140075   3140608 
+               3141141   3141696   3142130   3142682   PD05348   PD05498  
+               PS00294   PS27515   PS27777   PS28190   PS28451   PS28919  
+               PS29181   PS29409   PS29744   PS30126   PS30275   PS30734  
+               PS30944   PS31683   PS32410   PS32662   PS33088   PS33242  
+               PS34187   PS34248   PS64701   PS64762   PS77333   PS86954  
+               PS89718   PS95379   PS95555   PS96201   PS96442   PS96980  
+               PS97096   PS97373   PS97844   PS97916   PS98382   PS98604  
+               PS99067   PS99662   PS99888   PW11238   PW11884   PW12268  
+               PW52193   PW52510   PW52674   PW52901   PW53119   PW53336  
+               XD00150   XD00480   XD00571   XD00668   XD07644   XD07755  
+               XD11681   XD28033   XD28090   XD28243   XD28326   XD29627  
+               XD29827   XD30032   XD30373   XD30575   XD30754   XD31135  
+               XD31344   XD32378   XD33151   XD33914   XD34944   XD40743  
+               XD40824   XD40969   XD41097   XD41199   XD41434   XD41507  
+               XD41913   XD41976   XD42137   XD42194   XD42323   XD42402  
+               XD42557   XD42617   XD42742   XD42829   XD42949   XD43002  
+               XD43142   XD43196   XD43331   XD43402   XD43519   XD43586  
+               XD43753   XD43822   XD43933   XD52224   XD68694   XD68976  
+               XD69210   XD69489   XD69742   XD70035   XD70431   XD70581  
+               XD70965   XD71138   XD71509   XD71704   XD72091   XD72276  
+               XD73844   XD74235   XD74539   XD74812   XS23146   XS23618  
+               XS25597   XS26232   XS30493   XS30847   XS31422   XS35964  
+               XS36323   XS37160   XS37270   XS43741   XS58646   XS69882  
+               XS73546   XS76310   XS76755   XS77811   XS79752   XS79787  
+               XS86282   XS89187   XS91481   XW54184   XW60310   XW60610  
+               XW60831   XW61132   XW72457.
+MANUFACTURER   Community Bio-Resources, Inc., Orlando, Florida; Community
+               Bio-Resources, Inc., Clearwater, Florida; Community Bio-
+               Resources, Inc., Tampa, Florida.
+                                    -4-
+RECALLED BY    Community Bio-Resources, Inc., Birmingham, Alabama, by
+               letters mailed between June 14, 1994 and August 8, 1994. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Michigan, New Jersey, Austria.
+QUANTITY       279 units.
+REASON         Blood products which tested negative for antibody to the
+               human immunodeficiency virus type 1 (anti-HIV-1(, but were
+               collected from donors who previously tested repeatedly
+               reactive for anti-HIV-1; tested negative for hepatitis B
+               surface antigen (HBsAg), but were collected from donors who
+               previously tested repeatedly reactive for HBsAg or had a
+               history of hepatitis; or were collected from donors with a
+               history of intravenous (IV) drug use/high risk behavior.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Cryoprecipitated
+               AHF; (d) Recovered Plasma.  Recall #B-419/422-5.
+CODE           Unit numbers:  (a) 1104370, 1114691, 1138887; (b) 1114691,
+               1138887; (c) 1114691; (d) 1104370, 1114691, 1138887.
+MANUFACTURER   Community Blood Center of Greater Kansas City, Kansas City,
+               Missouri.
+RECALLED BY    Manufacturer, by letters dated May 12 or 13, 1994, and by
+               letters of February 1 and 16, 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Kansas, Missouri, Tennessee, Arizona.
+QUANTITY       (a) 3 units; (b) 2 units; (c) 1 unit; (d) 3 units.
+REASON         Blood products, which tested negative for antibody to the
+               human immunodeficiency virus type 1 (anti-HIV-1), but were
+               collected from donors who previously tested repeatedly
+               reactive for anti-HIV-1, were distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-423-5.
+CODE           Unit #4513392.
+MANUFACTURER   LifeSource, Glenview, Illinois.
+RECALLED BY    Manufacturer, by letters dated February 15 or 16, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       1 unit.
+REASON         Blood product, which tested negative for syphilis but was
+               collected from a donor who previously tested repeatedly
+               reactive  for syphilis, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Recovered Plasma. 
+               Recall #B-426/428-5.
+CODE           Unit numbers:  0059315, 2032309, 1083165, 1109426 0119003.
+MANUFACTURER   Community Blood Center of Greater Kansas City, Kansas City,
+               Missouri. 
+RECALLED BY    Manufacturer, by letters dated May 12, 1994, and February 3,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   Missouri, Kansas.
+
+                                    -5-
+QUANTITY       5 units of each component.
+REASON         Blood products, which tested negative for antibody to human
+               immunodeficiency virus type 1 (anti-HIV-1), but were
+               collected from a donor who previously tested Western blot
+               indeterminate, were distributed.
+
+_______________
+PRODUCT        Cryoprecipitated AHF.  Recall #B-429-5.
+CODE           Unit #50G64276.
+MANUFACTURER   American National Red Cross, Toledo, Ohio.
+RECALLED BY    Manufacturer, by letter or facsimile on or about July 13,
+               1994.  Firm-initiated recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY       1 unit.
+REASON         Blood products, corresponding to Red Blood Cells
+               contaminated with Staphlyococcus epidermidis, were
+               distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        (a) Whole Blood CPDA-1; (b) Red Blood Cells; (c) Platelets;
+               (d) Fresh Frozen Plasma; (f) Platelets, Pheresis; (g)
+               Recovered Plasma; (h) Platelets, Expired.  
+               Recall #B-394/400-5.
+CODE           Unit numbers:  (a) 03F89745, 03FN01262, 03FN01263,
+               03FN01264, 03FY00056, 03LG02470, 03LG02471, 03LG02473,
+               03LG02474, 03LG02475, 03LG02476, 03LJ02815, 03LJ02816,
+               03LN04359, 03LN04362, 03LS02093, 03LS02094, 03LS02096,
+               03LS02098, 03LW03576, 03T93369;
+               (b) 03F89743, 03F89746, 03F89747, 03F89749, 03F89750,
+               03F89751, 03F89753, 03F89754, 03F89755, 03F89756, 03F89758,
+               03F89759, 03F89760, 03F89761, 03FJ20439, 03FJ20440,
+               03FJ20441, 03FJ20442, 03FJ20443, 03FJ20444, 03FJ20445,
+               03FJ20446, 03FJ20447, 03FJ20448, 03FJ20451, 03FJ20452,
+               03FN01261, 03FN01266, 03FN01267, 03FQ00611, 03FQ00612,
+               03FQ00614, 03FV01575, 03FV01576, 03FV01577, 03FV01578,
+               03FV01579, 03FV01580, 03FV01581, 03FV01582, 03FV01583,
+               03FV01584, 03FV01585, 03FV01587, 03FV01588, 03FV01589,
+               03FV01590, 03FV01591, 03FV01592, 03FV01593, 03FV01594,
+               03FV01595, 03FV01596, 03FV01597, 03FV01598, 03FV01599,
+               03FV01600, 03FV01601, 03FV01602, 03FV01603, 03FV01604,
+               03FV01606, 03FV01607, 03FV01608, 03FV01609, 03FV01612,
+               03FV01614, 03FV01615, 03FV01616, 03FV01617, 03FV01618,
+               03FV01620, 03FV01621, 03FV01622, 03FV01623, 03FV01624,
+               03FV01625, 03FV01626, 03FV01627, 03FV01628, 03FV01629,
+               03FV01630, 03FV01631, 03FV01632, 03FV01633, 03FV01634,
+               03FV01636, 03FV01637, 03FV01638, 03FV01640, 03FV01641,
+               03FV01642, 03FV01644, 03FV01645, 03FV01647, 03FV01648,
+               03FV01649, 03FV01650, 03FV01651, 03FV01652, 03FV01654,
+               03FW02297, 03FW02298, 03FW02299, 03FW02300, 03FW02301,
+               03FW02302, 03FW02303, 03FW02305, 03FW02306, 03FW02307, 
+
+                                    -6-
+               03FW02308, 03FW02309, 03FW02310, 03FW02311, 03FW02312,
+               03FW02314, 03FW02315, 03FW02316, 03FW02318, 03FW02319,
+               03FW02320, 03FW02321, 03FW02322, 03FW02323, 03FW02324,
+               03FW02325, 03FW02326, 03FW02327, 03FW02330, 03FW02331,
+               03FW02332, 03FW02335, 03FW02336, 03FW02337, 03FW02338,
+               03FW02339, 03FW02340, 03FW02342, 03FW02343, 03FW02344,
+               03FE02345, 03FW02346, 03FW02347, 03FW02348, 03FW02349,
+               03FW02350, 03FW02351, 03FW02352, 03FW02353, 03FW02355,
+               03FW02356, 03FW02357, 03FW02358, 03FW02359, 03FW02360 
+               03FW02361, 03FW02362, 03FW02363, 03FW02364, 03FW02365,
+               03FW02366, 03FW02367, 03FW02368, 03FW02369, 03FW02370,
+               03FW02371, 03FW02372, 03FW02374, 03FW02375, 03FW02376,
+               03FW02377, 03FW02379, 03FW02381, 03FW02382, 03FW02383,
+               03FW02384, 03FW02386, 03FW02387, 03FW02388, 03FW02389,
+               03FW02390, 03FW02391, 03FW02392, 03FW02393, 03FW02394,
+               03FW02395, 03FW02396, 03FW02397, 03FW02398, 03FW02400,
+               03FW02402, 03FW02403, 03FW02404, 03FW02405, 03FW2354,
+               03FY00054, 03FY00055, 03K03634, 03K03635, 03K03636,
+               03K03637, 03K03638, 03K03639, 03K03640, 03K03641, 03K03643,
+               03K03644, 03K03645, 03K03646, 03LG02472, 03LN04360,
+               03LN04361, 03LS02095, 03LT10348, 03LT10349, 03LT10350,
+               03LT10354, 03LT10355, 03LT10356, 03LT10359, 03LT10360,
+               03LT10361, 03LT10362, 03LT10363, 03LW03575, 03LW03577,
+               03S78041, 03S78043, 03S78045, 03S78046, 03S78047, 03S78048,
+               03S78049, 03S78051, 03S78052, 03S78053, 03S78054, 03T93358,
+               03T93359, 03T93360, 03T93361, 03T93362, 03T93363, 03T93364,
+               03T93365, 03T93367, 03T93368, 03T93370, 03W36245, 03W36247,
+               03W36248, 03W36249, 03W26250, 03W36251, 03W36253, 03W36254,
+               03W36255, 03W36256, 03W26357, 03W36257, 03W36258, 03W36261,
+               03W36263;
+               (c) 03F89751, 03F89753, 03F89760, 03FJ20441, 03FJ20444,
+               03FJ20445, 03FJ20446, 03FJ20447, 03FJ20449, 03FJ20451,
+               03FJ20452, 03FJ20453, 03FV01575, 03FV01576, 03FV01577,
+               03FV01579, 03FV01580, 03FV01585, 03FV01590, 03FV01592,
+               03FV01593, 03FV01594, 03FV01596, 03FV01598, 03FV01599,
+               03FV01601, 03FV01602, 03FV01603, 03FV01604, 03FV01605,
+               03FV01606, 03FV016091634, 03FV01611, 03FV01615, 03FV01616,
+               03FV01617, 03FV01618, 03FV01620, 03FV01636, 03FV01643,
+               03K03634, 03K03636, 03K03637, 03K03639, 03K03640, 03K03641,
+               03K03644, 03K03645, 03K03646, 03LT10351, 03LT10359,
+               03S78041, 03S78051, 03S78052, 03S78053, 03S78054, 03T93358,
+               03T93361, 03T93362, 03W36263;
+               (d) 03FJ20442, 03S78044, 03K03636, 03K03638, 03K03645,
+               03FJ20439, 03FJ20440, 03FJ20441, 03FJ20443, 03T93368,
+               03W36259, 03W36253;
+               (e) 03FG02811, 03FG02813, 03FG02814, 03FG02815, 03FG02816,
+               03FG02817, 03FK00991-1, 03FK00991-2, 03FK00992, 03FK00993,
+               03FX00504, 03FZ00175, 03LL02358, 03LL02359, 03LL02360,
+               03LL02361, 03LQ03843, 03LQ03845, 03P59596, 03P59598;
+               (f) 03F89749, 03F89750, 03F89751, 03F89753, 03F89754,
+               03F89755, 03F89756, 03F89757, 03F89758, 03F89759, 03F89760,
+               03FJ20444, 03FJ20445, 03FJ20446, 03FJ20447, 03FJ20448, 
+
+                                    -7-
+               03FJ20449, 03FJ20451, 03FJ20452, 03FJ20453, 03FN01267,
+               03FQ00611, 03FQ00612, 03FQ00613, 03FQ00614, 03FV015605,
+               03FV01575, 03FV01576, 03FV01577, 03FV01578, 03FV01579,
+               03FV01580, 03FV01581, 03FV01582, 03FV01583, 03FV01584,
+               03FV01585, 03FV01587, 03FV01588, 03FV01589, 03FV01590,
+               03FV01591, 03FV01592, 03FV01593, 03FV01594, 03FV01595,
+               03FV01596, 03FV01597, 03FV01598, 03FV01599, 03FV01600,
+               03FV01601, 03FV01602, 03FV01603, 03FV01604, 03FV01606,
+               03FV01607, 03FV01608, 03FV01609, 03FV01611, 03FV01612,
+               03FV01614, 03FV01615, 03FV01616, 03FV01617, 03FV01618,
+               03FV01620, 03FV01621, 03FV01622, 03FV01623, 03FV01624,
+               03FV01625, 03FV01626, 03FV01627, 03FV01629, 03FV01630,
+               03FV01631, 03FV01632, 03FV01633, 03FV01634, 03FV01635,
+               03FV01636, 03FV01637, 03FV01638, 03FV01639, 03FV01640,
+               03FV01641, 03FV01642, 03FV01643, 03FV01644, 03FV01645,
+               03FV01646, 03FV01647, 03FV01648, 03FV01649, 03FV01650,
+               03FV01651, 03FV01652, 03FV01653, 03FV01654, 03FW02297,
+               03FW02298, 03FW02299, 03FW02300, 03FW02301, 03FW02302,
+               03FW02303, 03FW02305, 03FW02306, 03FW02307, 03FW02308,
+               03FW02309, 03FW02310, 03FW02311, 03FW02312, 03FW02314,
+               03FW02315, 03FW02316, 03FW02318, 03FW02319, 03FW02320,
+               03FW02321, 03FW02322, 03FW02323, 03FW02324, 03FW02325,
+               03FW02326, 03FW02327, 03FW02330, 03FW02331, 03FW02332,
+               03FW02335, 03FW02336, 03FW02337, 03FW02338, 03FW02339,
+               03FW02340, 03FW02342, 03FW02343, 03FW02344, 03FW02345,
+               03FW02346, 03FW02347, 03FW02348, 03FW02349, 03FW02350,
+               03FW02351, 03FW02352, 03FW02353, 03FW02354, 03FW02355,
+               03FW02356, 03FW02357, 03FW02358, 03FW02359, 03FW02360,
+               03FW02361, 03FW02362, 03FW02363, 03FW02364, 03FW02365,
+               03FW02366, 03FW02367, 03FW02368, 03FW02369, 03FW02370,
+               03FW02371, 03FW02372, 03FW02374, 03FW02375, 03FW02376,
+               03FW02377, 03FW02379, 03FW02381, 03FW02382, 03FW02383,
+               03FW02384, 03FW02386, 03FW02387, 03FW02388, 03FW02389,
+               03FW02390, 03FW02391, 03FW02392, 03FW02393, 03FW02394,
+               03FW02395, 03FW02396, 03FW02397, 03FW02398, 03FW02400,
+               03FW02402, 03FW02403, 03FW02404, 03FW02405, 03K03635,
+               03K03639, 03K03640, 03K03641, 03K03643, 03LS02095,
+               03LS02097, 03LT10348, 03LT10349, 03LT10350, 03LT10351,
+               03LT10352, 01LT10353, 03LT10354, 03LT10356, 03LT10357,
+               03LT10358, 03LT10359, 03LT10360, 03LT10361, 03LT10362,
+               03LT10363, 03S78045, 03S78046, 03S78047, 03S78048, 03S78049,
+               03S78051, 03S78052, 03S78054, 03T93358, 03T93359, 03T93360,
+               03T93361, 03T93362, 03T93363, 03T93364, 03T93365, 03T93366,
+               03T93367, 03T93370, 03T93371, 03W36245, 03W36246, 03W36247,
+               03W36248, 03W36249, 03W36250, 03W36251, 03W36252, 03W36254,
+               03W36255, 03W36256, 03W36257, 03W26258, 03W36261, 03W36263;
+               (g) 03F89754, 03F89759, 03FJ20440, 03FJ20442, 03FJ20448,
+               03FV01614, 03FV01632, 03FV01645, 03T93359, 03T93360.
+MANUFACTURER   American National Red Cross, Atlanta, Georgia.
+RECALLED BY    Manufacturer, by telephone on or about March 8, 1993 or by
+               letters dated March 16, 1993, April 28, 1993, or May 3,
+               1993.  Firm-initiated recall complete.
+
+                                    -8-
+DISTRIBUTION   Nationwide.
+QUANTITY       None of the units are in commerce.
+REASON         Blood products which tested initially negative for the
+               antibody to the hepatitis C virus encoded antigen (anti-HCV)
+               on an invalidated test run but tested repeatedly reactive
+               for anti-HCV upon retesting or on a subsequent donation;
+               were untested for anti-HCV; or tested negative for anti-HCV
+               on an invalidated test run but tested negative for anti-HCV
+               upon retesting on or on a subsequent donation were
+               distributed.
+
+_______________
+PRODUCT        Platelets.  Recall #B-407-5.
+CODE           Unit #16FJ31423.
+MANUFACTURER   American National Red Cross, Columbus, Ohio.
+RECALLED BY    Manufacturer, by letter September 21, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY       1 unit.
+REASON         Blood product corresponding to Red Blood Cells which were 
+               possibly contaminated with gram positive rods, were
+               distributed.
+
+_______________
+PRODUCT        Fresh Frozen Plasma.  Recall #B-416-5.
+CODE           Unit numbers:  5041054, 5041055, 5041056, 5041057, 5041058,
+               5041059, 5041060, 5041061, 5041062, 5041063, 5041064,
+               5041065, 5041066, 5041067, 5041068.
+MANUFACTURER   Community Blood Center of Greater Kansas City, Kansas City,
+               Missouri.
+RECALLED BY    Manufacturer, by telephone January 10, 1995, for unit
+               5041063, and the remaining units by letter February 3, 1995. 
+               Firm--initiated recall complete.
+DISTRIBUTION   Missouri, Kansas.
+QUANTITY       15 units.
+REASON         Fresh Frozen Plasma which was not frozen within eight hours
+               of phlebotomy was distributed.
+
+_______________
+PRODUCT        Fresh Frozen Plasma.  Recall #B-418-5.
+CODE           Unit #09H67225.
+MANUFACTURER   American Red Cross Blood Services, Omaha, Nebraska.
+RECALLED BY    Manufacturer, by telephone July 15, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nebraska.
+QUANTITY       1 unit.
+REASON         Fresh Frozen Plasma which was not frozen within eight hours
+               of phlebotomy was distributed.
+
+                                    -9-
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-424-5.
+CODE           Unit #4513392.
+MANUFACTURER   LifeSource, Glenview, Illinois.
+RECALLED BY    manufacturer, by letters dated February 15 or 16, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Switzerland.
+QUANTITY       1 unit.
+REASON         Blood product, which tested negative for syphilis but was
+               collected from a donor who previously tested repeatedly
+               reactive for syphilis, were distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-425-5.
+CODE           Unit #R26132.
+MANUFACTURER   Heartland Blood Center, Aurora, Illinois.
+RECALLED BY    Manufacturer, by telephone March 4, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Indiana.
+QUANTITY       1 unit.
+REASON         A unit of Red Blood Cells, labeled with the incorrect
+               expiration date, was distributed.
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-430-5.
+CODE           Unit #50G64276.
+MANUFACTURER   American National Red Cross, Toledo, Ohio.
+RECALLED BY    Manufacturer, by letter or facsimile on or about July 13,
+               1994.  Firm-initiated recall complete.
+DISTRIBUTION   Switzerland.
+QUANTITY       1 unit.
+REASON         Blood product, corresponding to Red Blood Cells contaminated
+               with Staphlyococcus epidermidis, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma.  
+               Recall #B-446/447-5.
+CODE           Unit #6004139.
+MANUFACTURER   Northwest Florida Blood Center, Inc., Pensacola, Florida.
+RECALLED BY    Manufacturer, by letter August 10, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Florida.
+QUANTITY       1 unit of each component.
+REASON         Blood products, which were untested for the antibody to the
+               human immunodeficiency virus type 1 (anti-HIV-1), the
+               hepatitis B surface antigen (HBsAg), the antibody to the
+               hepatitis B core antigen (anti-HBc), the antibody to the
+               hepatitis C virus encoded antigen (anti-HCV), the antibody
+               to the human T-lymphotropic virus type I (anti-HTLV-I), and
+               syphilis, were distributed.
+
+
+                                   -10-
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Stryker Quick Pressure Monitor and Tissue Expander Monitor
+               Sets:  (a) Stryker Quick Monitor, Part #295-2; (b) Stryker
+               Tissue Expander Monitor Set (also called Patient Kit for
+               Pressure Monitor), Part #295-20.  Products are parts for a
+               hand held, portable pressure monitor system specifically
+               designed for measuring tissue pressure.  
+               Recall #Z-749/750-5.
+CODE           All lot numbers beginning with 91, 92, and 93.
+MANUFACTURER   Stryker Instruments, Kalamazoo, Michigan.
+RECALLED BY    Manufacturer, by letters of January 13, 1994, February 17,
+               1994, and March 17, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       6,561 units were distributed.
+REASON         An air leak may be present which would result in lower,
+               inaccurate readings on the Pressure Monitor Hardware.
+
+_______________
+PRODUCT        Validator 10 Plus Autoclaves - units and circuit boards, 
+               used for sterilization:
+CODE           (a) Driver board assemblies, catalog # 3339954 or 1528392;
+               (b) Validator 10 Plus ETL/CSA 100 volt units, catalog #
+               1525299 or # 1531883, serial # AD7471 through AD10485;
+               (c) Validator 10 Plus units repaired by dealer service
+               technicians with the referenced driver boards after 01
+               December 1992;
+               (d) Repaired or reconditioned (catalog # 9446451 or #
+               9446535) Validator 10 Plus 110 volts units, shipped between
+               01 December 1992 and 31 January 1994.  Recall #Z-849/852-5.
+MANUFACTURER   Pelton & Crane, Division of Siemens Medical Systems,
+               Charlotte, North Carolina.
+RECALLED BY    Manufacturer, by letter March 31, 1995.  Firm-initiated
+               field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Firm estimates that over 3,000 sterilizers and over 1,500
+               repair circuit boards are subject to field correction.
+REASON         Defective printed driver circuit boards have caused smoking
+               and fires within the affected units.
+
+_______________
+PRODUCT        2100 EC Childbearing Bed, Part #2100-06-00.
+               Recall #Z-873-5.
+CODE           Serial number range:  88052, A880664, 91010093, 91060188,
+               91070092, 91070094-91070098, 91080091, 90180093-91080096,
+               91080098-91080100, 91080102-91080105, 91090091-93020107
+               (excluding part #2100-00-000).
+MANUFACTURER   Arnold Chup, doing business as Maplewood Industries,
+               Tualatin, Oregon (component).
+RECALLED BY    Stryker Adel Medical, Ltd., Clackamas, Oregon, by letters of
+               May 21 and 26, 1993, and June 10, 1993.  Firm-initiated
+               recall complete.
+
+                                   -11-
+QUANTITY       451 parts were distributed.
+REASON         A defective weld may have caused the foot pan mount to
+               separate from the bracket.
+
+_______________
+PRODUCT        Single-use Insulin Syringes, Product #321-4106.  
+               Recall #Z-919-5.
+CODE           Lot #940829.
+MANUFACTURER   Shina Medical Corporation, Kongju-Kun, Chang Nam Do, Korea.
+RECALLED BY    Medi-Hut Company, Inc., Lakewood, New Jersey, by letter
+               dated 16, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       353 cases were distributed.
+REASON         Multiple product and packaging defects.
+
+_______________
+PRODUCT        MH-11 Mediheat disposable, air activated crib warmer, Part
+               #4995126, long lasting 110 F for 12 hours.  
+               Recall #Z-928-5.
+CODE           All lot numbers.
+MANUFACTURER   Maramunji Sangyo Company,, Ltd., Osaka, Japan.
+RECALLED BY    Heatmax, Inc., Dalton, Georgia, by letters of January 24 and
+               27, 1995, and February 1, 1995.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide. 
+QUANTITY       66,298 warmers were distributed.
+REASON         There are reported burns associated with the use of this
+               product.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Power Cables for the Quantum 2000, QAD1 and QAD PV
+               Ultrasound Systems, used to connect the ultrasound unit to
+               the wall outlet.  Recall #Z-924/925-5.
+CODE           All power cables for the Quantum 2000, QAD1, and QAD PV    
+               Ultrasound Systems are involved.  
+               Serial number range for the QAD 1 ultrasound unit - SSN0053
+               through SSN0590 (non-inclusive).
+               Serial number range for the QAD PV ultrasound unit -
+               SSN0298 through SNN0584 (non-inclusive). 
+               Serial number range for the Q2000 Ultrasound unit - 
+               SSN1000 through SSN1521 (non-inclusive).
+MANUFACTURER   Siemens Medical Systems, Inc., Issaquah, Washington.
+RECALLED BY    Manufacturer, by letter January 28, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide, Canada, Japan.
+QUANTITY       247 QAD1 systems and 86 QAD PV systems were distributed.
+REASON         Cable connectors catch on fire or there is a burning smell
+               associated with the cable connectors.
+
+                                   -12-
+_______________
+PRODUCT        Vidas Chlamydia Assay Kits (CHL), Catalog #30101, for the
+               quantative detection of Chlamydia antigen in endocervical,
+               male urethral, or male urine specimen.  Recall #Z-930-5.
+CODE           Lot #951030-0 EXP 10/30/95.
+MANUFACTURER   bioMerieux Vitek, Inc., Rockland, Massachusetts.
+RECALLED BY    Manufacturer, by telephone January 11 and 12, 1995, followed
+               by letter.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide. 
+QUANTITY       954 kits were distributed.
+REASON         The kit may contain Solid Phase Receptacles (SPR) without
+               lid holes, in which any sample using a SPR without a lid
+               hole would produce a negative CHL result.
+
+                                   -13-
+                                   ####
+
+END OF ENFORCEMENT REPORT FOR JULY 5, 1995.  BLANK PAGES MAY FOLLOW.

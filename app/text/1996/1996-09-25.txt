@@ -1,0 +1,820 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  OCT
+		  Mar
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      37 captures
+	      25 Feb 1997 - 17 Sep 2014
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+ 
+FDA             
+Enforcement Report 
+The FDA Enforcement Report is published weekly by the Food and Drug 
+Administration, 
+U.S. Public Health Service, Department of Health and Human Services.  It contain 
+s 
+information 
+on actions  taken in connection with agency regulatory activities. 
+ 
+ ENFORCE 
+09/25/1996
+
+ ENFORCEMENT REPORT FOR 09/25/96 
+
+September 25, 1996                             96-39
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I ============
+_______________
+PRODUCT        Alsoy Soy Formula, concentrated liquid infant
+               formula, in 13 ounce cans.  Recall #F-718-6.
+CODE           Code: 6150EWAC047 Note:  Only the portion of
+               the lot with incorrect lids is being recalled. 
+               These lids state "DO NOT ADD WATER" and are
+               written in English and French. 
+MANUFACTURER   Nestle Food Company, Nutritional Products
+               Division, Eau Claire, Wisconsin.
+RECALLED BY    Nestle USA, Inc., Glendale, California, by
+               letter sent on August 16, 1996, and by press
+               release on August 20, 1996.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Maryland, Michigan, New York, New Jersey,
+               Pennsylvania, Virginia.
+QUANTITY       2,764 cases (12 cans per case) were
+               distributed.
+REASON         A portion of this lot of concentrated infant
+               formula was manufactured with lids intended 
+               for ready-to-feed formula.  The potential
+               exists for a consumer to follow the lid
+               directions (DO NOT ADD WATER) and not properly
+               dilute the formula prior to feeding.
+_______________
+PRODUCT        Chocolate Chip Cookie Dough Ice Cream, in 1
+               pint containers, distributed by Petersen's Old
+               Fashioned Ice Creams Company. 
+               Recall #F-719-6.
+CODE           None.
+MANUFACTURER   Chocolate Shoppe Ice Cream Company, Inc.,
+               Madison, Wisconsin.
+RECALLED BY    Manufacturer, by telephone on August 2, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       60 pints were distributed.
+REASON         Product contains undeclared eggs.
+
+_______________
+PRODUCT        Zurheide Das Beste brand Mackinac Island Fudge
+               Light Ice Cream, in half-gallon (1.89 L)
+               rounds.  Recall #F-720-6.
+CODE           Date  "1346" on bottoms of containers. 
+               Zurheide item #44914.
+MANUFACTURER   Zurheide Ice Cream Company, Inc., Sheyboygan,
+               Wisconsin.
+RECALLED BY    Manufacturer, by visit beginning on July 25,
+               1996, and by visit July 25, 1996 - August 9,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Wisconsin, Illinois.
+QUANTITY       2,616 units were distributed.
+REASON         Product contains undeclared eggs.
+
+_______________
+PRODUCT        Cookie Dough Ice Cream, in 1-1/2  gallon tubs,
+               for dipping, labeled All Natural Gelato Fresco
+               Ice Cream Italiano.  Recall #F-721-6.
+CODE           JAN 23 1997.
+MANUFACTURER   Watermark Foods, Inc., Fairport, New York.
+RECALLED BY    Manufacturer, by letter dated August 7, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   New York.
+QUANTITY       24 tubs were distributed.
+REASON         Product contains undeclared eggs.
+
+_______________
+PRODUCT        Chocolate Chip Cookie Dough Ice Cream, labeled
+               C.C. Cookiedough, in 3 gallon tubs.  
+               Recall #F-722-6.
+CODE           G18F and G26F.
+MANUFACTURER   M.B.B. Annis Dairy of Avon, Inc., Avon, 
+               New York.
+RECALLED BY    Manufacturer, by letter dated August 8, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   New York.
+QUANTITY       34 tubs were distributed.
+REASON         Product contains undeclared eggs.
+_______________
+PRODUCT        Natures Touch Chocolate Chip Cookie Dough Ice
+               Cream in half-gallon plastic pails.  
+               Recall #F-723-6.
+CODE           10-19, 02-10, 04-03, 04-23.
+MANUFACTURER   Kwik Trip, Inc., La Crosse, Wisconsin.
+RECALLED BY    Manufacturer, by E-mail and press release on
+               July 25, 1996.  A second electronic message
+               was sent on August 1, 1996.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Minnesota, Wisconsin, Iowa.
+QUANTITY       4,343 containers were distributed; firm
+               estimated that 1,000 containers remained on
+               market at time of recall initiation.
+REASON         Product contains undeclared eggs.
+
+_______________
+PRODUCT        Mrs. Wright's Chocolate Chip Cookies, 11.5
+               ounce cellophane bags.  Recall #F-724-6.
+CODE           SEP1596NB and JAN197LB.
+MANUFACTURER   Safeway Stores Bakery Division, Joplin,
+               Missouri.
+RECALLED BY    Safeway, Inc., Pleasanton, California, by
+               press release on August 18, 1996, followed by
+               telephone.  Firm-initiated recall ongoing.
+DISTRIBUTION   California, Oregon, Arizona, Colorado,
+               Maryland.
+QUANTITY       1,573 cases (12 bags per case) of lot
+               SEP1596NB and 1,378 cases (12 bags per case)
+               of lot JAN197LB were distributed.
+REASON         Product contains undeclared peanuts or peanut
+               products.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II ===========
+_______________
+PRODUCT        Buena Vida Queso Blanco White Cheese and Queso
+               Para Freir Frying White Cheese sold in bulk
+               pieces weighing approximately 5 pounds, or in
+               random-weight, plastic-wrapped retail
+               packages, under the following labels:
+               Buena Vida Queso Blanco White Cheese, Buena
+               Vida Para Freir Frying Cheese, and Buena Vida
+               Queso Blanco White Frying Cheese, distributed
+               by Del Campo Foods;
+               Tut's Spanish Cheese, distributed by Tuts
+               International Export & Import Company;
+               Gold Star Village Cheese, distributed by Gold
+               Star Trading Corporation;
+               Goya Queso Blanco Del Pais White Cheese,
+               distributed by Goya Foods, Inc.;
+
+               Blue Cock Queso Blanco Gayo Azul Finest White
+               Cheese, distributed by Dutch Cheese Company. 
+               Recall #F-616/617-6.
+CODE           All lots still in distribution.
+MANUFACTURER   Avonmore Cheese, Inc., Kent, Illinois.  
+RECALLED BY    Avonmore Cheese, Inc., Monroe, Wisconsin, by
+               Firm-initiated recall complete.
+DISTRIBUTION   New Jersey, New York.
+QUANTITY       Approximately 36,000 pounds were on the market
+               at time of recall initiation.
+REASON         Product is unfit for food. 
+
+_______________
+PRODUCT        Various Fresh Pastas sold in bulk at the
+               retail counter:  (a) Egg pasta; (b) Spinach
+               Pasta; (c) Red Chili Pasta; (d) Greek Ravioli,
+               (e) Cheese Ravioli; (f) Vegetable Ravioli; (g)
+               Cheese Tortellini; (h) Pesto Tortellini; (i)
+               Hazelnut Tortellini.  Recall #F-725/733-6.
+CODE           None.
+MANUFACTURER   Pasta & Company, Seattle, Washington.
+RECALLED BY    Manufacturer, by Telephone on August 28, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Washington state.
+QUANTITY       Approximately 1,032 pounds were produced.
+REASON         Products manufactured using eggs which were
+               contaminated with salmonella.
+
+_______________
+PRODUCT        Dow Corning 24 Emulsion, used as a mold
+               release agent in industrial applications and
+               also for mold release in the manufacture of
+               latex gloves.  The product is also used as a
+               release agent in food related products.  The
+               product is packaged in 2200 lb., 420 lb. and
+               40 lb. drums. Labeling for the product
+               indicates that the product meets FDA and
+               Kosher requirements for use as a release agent
+               lubricant and packaging aid in processing
+               products that may contact food.  
+               Recall #F-734-6.
+CODE           All lots produced since 1993:  GA085392,
+               GA105406, GA105409/417, GA115418,
+               GA115423/427, GA125429/430, GA125432,
+               GA016434/442, GA026444/450, GA026452,
+               GA026454/458, GA036459/461, GA036464/466,
+               GA046470, GA056473/474.
+MANUFACTURER   Dow Corning Corporation, Greensboro, North
+               Carolina.
+RECALLED BY    Dow Corning Corporation, Midland, Michigan, by
+               letter on May 20, 1996.  Firm-initiated recall
+               ongoing.
+
+DISTRIBUTION   Nationwide and international.
+QUANTITY       51 lots were distributed.
+REASON         Product is contaminated with Pseudomonas
+               aeruginosa.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III ==========
+_______________
+PRODUCT        Quick Fix brand snacks in 3 ounce packages: 
+               (a) All Fruit Mix; (b) Tropical Fruit Mix. 
+               Recall #F-706\707-6.
+CODE           All product with "use by" dates on or prior to
+               July 14, 1996.
+MANUFACTURER   Snak King, City of Industry, California.
+RECALLED BY    Manufacturer, by letter dated March 3, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   California, Connecticut, Indiana,
+               Massachusetts, Montana, North Carolina, New
+               Jersey, Oklahoma, Texas.
+QUANTITY       (a) 22 cases; (b) 31 cases (72 units per case)
+               were distributed; firm estimates none remains
+               on the market.
+REASON         Products contain undeclared sulfites.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II ===========
+_______________
+PRODUCT        Dilantin Kapseals (Extended Phenytoin Sodium),
+               USP, 100 mg, antiepileptic.  Recall #D-266-6.
+CODE           Lot numbers: 05685F, 02595F (bottles of 100);
+               02895F, 012N5F, 00626F (bottles of 1000).
+               Recall #D-266-6.
+MANUFACTURER   Warner Lambert Company, Fajardo, Puerto.
+RECALLED BY    Warner-Lambert Company, Morris Plains, New
+               Jersey, by letter on August 12, 1996.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       40,403 bottles of lot 05685F, 40,320 bottles
+               of lot 02595F, 3,900 bottles of lot 02895F,
+               4,044 bottles of lot 012N5F, 3,879 bottles of
+               lot 00626F were distributed.
+REASON         Stability test dissolution failure.
+
+_______________
+PRODUCT        Nitrostat (nitroglycerin, USP), 0.4 mg
+               Sublingual Tablets, in bottles of 25,
+               indicated for the prophylaxis, treatment and
+               management of patients with angina pectoris. 
+               Recall #D-267-6.
+CODE           Lot #02415F.
+MANUFACTURER   Warner-Lambert Company, Fajardo, Puerto Rico.
+
+RECALLED BY    Parke-Davis, Division of Warner-Lambert
+               Company, Morris Plain, New Jersey, by letter
+               on August 13, 1996.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       22,817 bottles were distributed.
+REASON         Stability test assay failure.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III ==========
+_______________
+PRODUCT        Congess SR. (Guaifenesin, 250 mg;
+               Pseudoephedrine HCl, 120 mg) Capsules,
+               packaged in bottles of 100, Rx decongestant.  
+               Recall #D-268-6.
+CODE           6011467 EXP 9/96.
+MANUFACTURER   Fleming & Company, Fenton, Missouri.
+RECALLED BY    Manufacturer, by telephone on September 6,
+               1996.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       129 bottles were distributed.
+REASON         Stability test release rate failure.
+
+_______________
+PRODUCT        Beta-HC 1/4% Topical Lotion (Hydrocortisone
+               Cream USP), antipruritic (anti-itch) lotion,
+               in 4 fluid ounce bottles.  Recall #D-269-6.
+CODE           Lot KLA.
+MANUFACTURER   Beta Dermaceuticals, Inc., San Antonio, Texas.
+RECALLED BY    Manufacturer, by letter dated August 20, 1996. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,189 bottles were distributed; firm estimated
+               that 642 bottles remained on market at time of
+               recall initiation.
+REASON         FDA analysis found product to be subpotent.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III ======
+_______________
+PRODUCT        Source Plasma.  Recall #B-638-6.
+CODE           Unit numbers:  DKU236, DKU499, DKU851.
+MANUFACTURER   Sera-Tec Biologicals, Inc., Fort Wayne,
+               Indiana.
+RECALLED BY    Manufacturer, by fax on November 11, 1992. 
+               Firm-initiated recall complete.
+DISTRIBUTION   North Carolina.
+QUANTITY       3 units.
+REASON         Blood products were collected from a donor who
+               previously tested positive for syphilis. 
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II =========
+_______________
+PRODUCT        Model 5000 Head Spring, a component used in
+               Invacare's Mobilite Full and Semi Electric Bed
+               Models 5410, 5310, 5210, 5110, 5307, 5207, and
+               5107.  Recall #Z-1132-6.
+CODE           Serial Numbers range from 96A86596 to 96A87190 
+               and from 96A01835 to 96A02976. 
+MANUFACTURER   Invacare Corporation, Sanford, Florida.
+RECALLED BY    Manufacturer, by letter dated March 11, 1996. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,538 units were distributed with the
+               defective head springs.
+REASON         A rear weld on the center mounting latch of
+               the head spring can fracture during use.
+
+_______________
+PRODUCT        Advantx LCA Angiography System, Model
+               #S5800YB, used for medical imaging during
+               general angiography and interventional
+               procedures.  Recall #Z-1143-6.
+CODE           All serial numbers.
+MANUFACTURER   General Electric Company, Medical Systems
+               Division, Waukesha, Wisconsin.
+RECALLED BY    Manufacturer, by telephone on August 1, 1996. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       57 units were distributed.
+REASON         Failure of a gantry motor control board may
+               cause the gantry to move at unexpectedly high
+               speeds, which can result in a collision
+               between the gantry and the patient or
+               operator.
+
+_______________
+PRODUCT        Cozy/Headrest Retaining Strap, Part #451220
+               and Posterior Headrest Pads, Part #450100 and
+               #450102.  Recall #Z-1155/1156-6.
+CODE           None.
+MANUFACTURER   Quickie Designs, Inc., Fresno, California.
+RECALLED BY    Manufacturer, by letter dated July 19, 1996. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Pennsylvania, Illinois, Connecticut, Kansas,
+               Kentucky, Massachusetts, California, Texas,
+               Florida.
+QUANTITY       184 straps were distributed.
+REASON         The strap of the headrest may slip down the
+               head of the user which could cause neck
+               strain, choking, or asphyxiation.
+
+_______________
+PRODUCT        Laser Systems, used for cutting of process
+               material with focused laser radiation:
+               (a) Model LPL-103; (b) Model LPL-104;
+               (c) Model LPLS-001.  Recall #Z-1157/1159-6.
+CODE           Models LPL-103, LPL-104, LPLS-001. 
+MANUFACTURER   LPL Systems, Inc., Mountain View, California.
+RECALLED BY    Manufacturer.  FDA approved the firm's
+               corrective action plan September 10, 1996. 
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   New Jersey and Minnesota.
+QUANTITY       7 units.
+REASON         Noncompliance with performance standards for
+               laser products in that the systems failed to
+               have the correct wording on warning            
+               labels; the interlock switches failed to
+               included an indication of defeat; user
+               information failed to include required
+               information concerning the maximum output of
+               laser radiation and to include reproductions
+               of required warning labels.
+
+_______________
+PRODUCT        Fresenius A 2008 Hemodialysis Systems:
+               (a) Model C Dialysis Delivery System
+               (b) Model D Dialysis Delivery System
+               (c) Model E Dialysis Delivery System.
+               Recall #Z-1160/1162-6.
+CODE           Type for all Models A 2008.
+               Serial number range of Hemodialysis System,
+               model C units involved in recall: 401A2026
+               through 701S6028 (units manufactured
+               1984-1987, inclusive)
+               Serial number range of Hemodialysis System,
+               model D units involved in recall: 671A0001
+               through 171SA065 (units manufactured
+               1986-1992, inclusive)
+               Serial number range of Hemodialysis System,
+               model E units involved in recall: 9EOS0001
+               through 9EOS0692 (units manufactured in 1989)
+MANUFACTURER   Fresenius AG (formerly called MTS), W.
+               Germany.
+RECALLED BY    Fresenius USA, Inc., Walnut Creek, California,
+               by letter April 15, 1996.  Firm-initiated
+               field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       (a) 796 units; (b) 4,537 units; (c) 992 units
+               were distributed.
+REASON         An increased resistance load on the power
+               supply coupled with a capacitor failure leads
+               to excess fluid removal.
+
+_______________
+PRODUCT        Sterile procedural trays labeled as containing
+               x-ray detectable gauze. Recall #Z-1164/1191-6.
+               1.  Dental Tray (50-2548) 
+               2.  Abdominal Tray (50-4267) 
+               3.  Total Hip Tray (50-5195) 151981
+               4.  Ortho Pack 3 per case (50-6236)
+               5.  C-Section Tray 5 per case (50-7664) 
+               6.  Abdominal Hysterectomy 4 per case
+                   (50-7998)
+               7.  Dr. Gallo Eye Tray (50-8191)
+               8.  D & C Pack (50-8443)
+               9.  Hand Pack (50-9473)
+               10. Carpal Tunnel Tray (50-10505) 
+               11. Lap Chole Tray (50-10533)
+               12. Carotid Endarterectomy Tray (50-11133)
+               13. Vascular Tracecart (53-0168)
+               14. Dr. Bichlmeier Heart Tracecart (53-0474)
+               15. Laparoscopy Tracecart B (53-0551)
+               16. General Surgery Tracecart B (53-0552)
+               17. Hand Tracecart (53-0708)  
+               18. Lap Chole Tracecart (53-0810)
+               19. Pediatric Tracecart II (53-1111) 
+               20. Minor G.U. Tracecart (53-1116)
+               21. Major Abdominal Tracecart (53-1235) 
+               22. ENT Tracecart I (53-1282)  
+               23. Plastic/Oral Tracecart (53-1283) 
+               24. Craniotomy Tracecart (53-1304)
+               25. Laparoscopic Tracecart (53-1344) 
+               26. Arthroscopy Tracecart (53-1377)
+               27. Extremity Tracecart (53-1379)
+               28. Lap Cholecystectomy Basecart (53-2068) 
+CODE           Product No.   Lot No.
+               50-2548      154078
+               50-4267      150113
+               50-5195      151981
+               50-6236      149557
+               50-7664      152952, 154690
+               50-7998      154743
+               50-8191      151274
+               50-8443      152892
+               50-9473      148999
+               50-10505     151751
+               50-10533     148835
+               50-11133      149244
+               53-0168      157836, 159101
+               53-0474      152483
+               53-0551      155650, 157044
+               53-0552      157397, 158784
+               53-0708      158787
+               53-0810      155663
+               53-1111      157442
+               53-1116      156863
+               53-1235      158819
+               53-1282      156868
+               53-1283      157450
+               53-1304      157113, 158742
+               53-1344      158821
+               53-1377      158830
+               53-1379      158620
+               53-2068      157446.
+MANUFACTURER   DeRoyal Industries, Inc., Powell, Tennessee.
+RECALLED BY    Manufacturer, by telephone on August 12, 1996,
+               followed by letter August 13, 1996.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Connecticut, Delaware, Georgia, Indiana,
+               Kansas, New Hampshire, Oklahoma, Pennsylvania,
+               Utah, Illinois, Missouri, Ohio, New Jersey.
+QUANTITY       446 cases were distributed.
+REASON         The devices may not contain X-Ray Detectable
+               gauze as labeled.
+
+_________________
+PRODUCT        Terumo Hypodermic Needles:
+               (a) Terumo Hypodermic Needles, Product Code
+               3NN*1938R; (b) Terumo Hypodermic Needles,
+               Product Code 3NN*2038R; (c) Terumo Hypodermic
+               Needles, Product Code 3NN*2338R.  
+               Recall #Z-1199/1201-6.
+CODE           Lot numbers: (a) UG0726; (b) UG1326; 
+               (c) UG1426.
+MANUFACTURER   Terumo Medical Corporation, Elkton, Maryland.
+RECALLED BY    Manufacturer, by telephone and by fax,
+               followed by letter dated July 2, 1996.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       98,000 pieces were distributed.
+REASON         A hole was found in the bottom web where the
+               needle protector attaches to the needle hub,
+               therefore, compromising the sterility of the
+               product packaging.
+
+_______________
+PRODUCT        Software Version 4.4.1 used in Triad, Biad,
+               Triad XLT, Biad XLT, and Monad Nuclear
+               Medicine Imaging Systems.  Recall #Z-1203-6.
+CODE           All codes.
+MANUFACTURER   Trionix Research Laboratory, Twinsburg, Ohio.
+RECALLED BY    Manufacturer, by letter on August 16, 1996. 
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide, Belgium, England, Korea,
+               Australia, Egypt.
+QUANTITY       202 systems were distributed.
+
+REASON         The computer software Version 4.4.1, which
+               controlled the movement of the gantry, was not
+               fully validated.
+
+_______________
+PRODUCT        Vacu-Aide Suction Units, used as a portable
+               medical suction device for removal of fluids,
+               Distributed under DeVilbiss Health Care, Inc.
+               label:
+               (a) 7304A, Vacu-Aide Portable Suction Pump     
+               (b) 7304D, Vacu-Aide AC Suction Pump           
+               (c) 7304S, Vacu-Aide AC Suction Pump w/single
+               use bottle 
+               Distributed under Laerdal Medical Corp. label:
+               (d) Model 880000; (e) Model 880001; 
+               (f) Model 880002; (g) Model 880003; 
+               (h) Model 880011.  Recall #Z-1204/1211-6.
+CODE           Serial number range:  (a) A30330 - A34099
+               (b) D21740 - D23815;  (c) S1005 - S1769;
+               (d) 12694 - 12843;    (e) 11911 - 12428;
+               (f) 2363 - 2450;      (g) 1440 - 1464
+               (h) 2502 - 2551.
+MANUFACTURER   DeVilbiss Health Care, Inc., Somerset,
+               Pennsylvania.
+RECALLED BY    Manufacturer, by letter August 6, 1996.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       8,257 units were distributed.
+REASON         The piston rods may break during normal
+               operation, rendering the units unusable.
+
+_______________
+MANUFACTURER   Stryker Endoscopy Hybrid Electrocautery Tip
+               and Spare Parts Kit:
+               Laproscopic Suction Irrigator & Electrosugical
+               Probe; (a) Catalog #250-070-422 - StrykeFlow 
+               5 mm Suction/Irrigator Tip, 32 cm, Composite,  
+               (Hybrid Tip) Endoscopy Hybrid Tip
+               (Electrocautery accessory to Suction
+               Irrigator, sold non-sterile)
+               (b) Catalog #250-070-430 - StrykeFlow  Hybrid
+               Tip Spare Parts Kit (Hubs, O-rings, (Spare
+               Parts Kit) Sleeves) (sold non-sterile).
+               Recall #Z-1212/1213-6.
+CODE           Hybrid Tips (p/n 250-070-422) Lot #96049762    
+               96059782; Hybrid Tip Spare Parts Kit (p/n
+               250-070-430) Lot # 96059782.
+MANUFACTURER   Stryker Endoscopy, Arroyo, Puerto Rico.
+RECALLED BY    Stryker Endoscopy, Santa Clara, California, by
+               voicemail sent May 31, 1996, followed by
+               letter June 10, 1996.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       261 hybrid tips and 8 boxes spare part kits
+               were distributed.
+REASON         The metal cannula may be exposed as a result
+               of shrinkage of the insulation sleeve
+               following autoclaving procedure, increasing
+               the opportunity for spurious electrocautery
+               discharge if the device is not properly
+               utilized.
+
+_______________
+PRODUCT        Invacare Oxygen Concentrators Mobilaire III/V,
+               and Invacare III/V Oxygen Concentrators:       
+               (a) Mobilaire III Oxygen Concentrator, Model
+               No. IRC301;
+               (b) Mobilaire V Oxygen Concentrator, Model No.
+               IRC501;
+               (c) Invacare III Oxygen Concentrator, Model
+               No. IRC 301O2, with optional Oxygen Purity
+               Indicator;
+               (d) Invacare V Oxygen Concentrator, Model No.
+               IRC 501O2, with optional Oxygen Purity
+               Indicator.  Recall #Z-1216/1219-6.
+CODE           Serial Nos. 96B46257 - 96B46706,              
+               96B99247 - 96B99265 and 96B50320 - 96B50916.
+MANUFACTURER   Invacare Corporation, Sanford, Florida.
+RECALLED BY    Manufacturer, by telephone on March 8, 1996. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       122 units were distributed.
+REASON         Kinked oxygen transfer hoses in the units
+               caused by defective exterior foam insulation
+               may affect the flow of oxygen, and therefore,
+               affect the concentration of oxygen the patient
+               receives.
+
+_______________
+UPDATE         Recall #Z-1101/1102-6, Mobile\Portable General
+               Purpose Units, Models HP200 and HP300, which
+               appeared in the September 18, 1996 Enforcement
+               Report should read:  
+               RECALLED BY:  MinXray, Inc., Northbrook,
+               Illinois.  Firm-initiated field correction has
+               not started.
+
+_______________
+UPDATE         Bactec Instrument 460 TB Drug Susceptibility
+               Testing Instructional Manual, Recall #Z-1144-6
+               which appeared in the September 18, 1996
+               Enforcement Report should read:  Firm-
+               initiated recall complete.  QUANTITY: 
+               Approximately 657 manuals were distributed in
+               May 1995.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III ========
+_______________
+PRODUCT        Render-Plan 3-D Treatment Planning System,
+               computer programs intended for planning of
+               radiotherapy procedures.  Recall #Z-1146-6.
+CODE           All systems.
+MANUFACTURER   Precision Mathematics, Inc., Columbia,
+               Maryland.
+RECALLED BY    Manufacturer, by issuing a Product Warning
+               Bulletin on or about February 22, 1996.  Firm-
+               initiated field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 100 units were distributed.
+REASON         Software errors may cause hard copy errors
+               when drawing the beam edges, when an aperture
+               is present.
+
+_______________
+PRODUCT        Render-Plan 3-D Treatment Planning System,
+               computer programs intended for planning of
+               radiotherapy procedures.  Recall #Z-1147-6.
+CODE           All systems.
+MANUFACTURER   Precision Mathematics, Inc., Columbia,
+               Maryland.
+RECALLED BY    Manufacturer, by issuing a Product Warning
+               Bulletin on or about May 2, 1996.  Firm-
+               initiated field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 100 units.
+REASON         Software errors in the irregular field program
+               may cause unexpected results.
+
+_______________
+PRODUCT        Render-Plan 3-D Treatment Planning System,
+               computer programs intended for planning of
+               radiotherapy procedures.  Recall #Z-1148-6.
+CODE           All systems.
+MANUFACTURER   Precision Mathematics, Inc., Columbia,
+               Maryland.
+RECALLED BY    Manufacturer, by letter dated December 28,
+               1995.  Firm-initiated field correction
+               ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 100 units.
+REASON         Unexpected computational results due to
+               software errors.
+
+_______________
+PRODUCT        Electron Microscopes, used for visualization
+               of microscopic objects:
+               (a) Philips SEM 515
+               (b) Philips SEM 525
+               (c) Philips SEM 535
+               (d) Philips SEM 545
+               (e) Philips XL20
+               (f) Philips XL30
+               (g) Philips XL40.  Recall #Z-1192/1198-6.
+CODE           Model Numbers: Philips SEM 515, Philips SEM
+               525, Philips SEM 535, Philips SEM 545, Philips
+               XL20, Philips XL30, Philips XL40.
+MANUFACTURER   Philips Electronic Instruments Company,
+               Mahwah, New Jersey.
+RECALLED BY    Manufacturer.  FDA approved the firm's
+               corrective action on August 21, 1996.  Firm-
+               initiated field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       128 units.
+REASON         Under unlikely circumstances, the leakage
+               specification for x-radiation is exceeded.
+
+_______________
+PRODUCT        Model 5348 Single Chamber Temporary Pacemakers
+               (AAI/VVI).  Recall #Z-1214-6.
+CODE           All units sold prior to June 1, 1996.
+MANUFACTURER   Medtronic Milaca, Inc., Milaca, Minnesota.
+RECALLED BY    Medtronic, Inc., Minneapolis, Minnesota, by
+               telephone beginning on August 19, 1996.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       1,381 units were distributed.
+REASON         The keypad shorts can result in device
+               failure.  The effects of failure can be that
+               the device will not turn on, the device turns
+               itself on or off, or rapid atrial pacing is
+               spontaneously initiated. 
+
+_______________
+PRODUCT        Lifepak 10 Defibrillator/Monitor/Pacemaker. 
+               Recall #Z-1215-6.
+CODE           Serial numbers:  39808, 39809, 39810, 39811,
+               39813, 39814, 39816, 39818, 39820, 39821,
+               39823, 39829, and 39830.
+MANUFACTURER   Physio Control Corporation, Redmond,
+               Washington.
+RECALLED BY    Manufacturer, by issuing technical Service
+               Update (TSU) 196 and by visit beginning August
+               7, 1996.  Firm-initiated field correction
+               complete.
+DISTRIBUTION   Iowa, Massachusetts, North Carolina, New York,
+               Ohio, Pennsylvania, Rhode Island, Wisconsin.
+QUANTITY       13 units were distributed.
+
+REASON         There is potential for pacing function to
+               cease operation.
+
+                            -15-
+
+END OF ENFORCEMENT REPORT FOR SEPTEMBER 25, 1996.  BLANK PAGES MAY FOLLOW.
+
+                                   ####

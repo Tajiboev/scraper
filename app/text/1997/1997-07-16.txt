@@ -1,0 +1,785 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Feb
+		  DEC
+		  Mar
+		
+		
+		
+		  
+		  28
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      29 captures
+	      24 Jul 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DO
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+July 16, 1997                                          97-29
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I ============
+_______________
+PRODUCT   Various chocolate candy:
+     a) Assorted Chocolates, 18 ounces
+     b) Assorted Chocolates, 12 ounces
+     c) Assorted Chocolates, 6 ounces
+     d) Coconut Cream Eggs, 8 ounces, 16 ounces, 2 pounds, 5
+     pounds
+     e) Butter Cream Eggs, 8 ounces, 16 ounces, 2 pounds, 5
+     pounds
+     f) Chocolate Fudge Eggs, 8 ounces, 16 ounces, 2 pounds, 5
+     pounds  Recall #F-495/500-7.
+CODE (These are Macy's product identification codes.  There are
+     NO manufacturing codes):
+     (1) "Macy's Traditional American Chocolates", 18 ounces,
+     coded: EGO601
+     (2) "Macy's" Assorted Chocolates, 12 ounces, coded EGO603
+     (3) "Macy's" Assorted Chocolates, 6 ounces, coded EGO602  
+     (4) Coconut Cream Eggs, 8 ounces, coded EGO604
+     16 ounces, coded EGO605, 2 pounds, coded,
+     EGO606, 5 pounds, coded EGO607
+     (5) Butter Cream Eggs, 8 ounces, coded EGO604
+     16 ounces, coded EGO605, 2 pounds, coded
+     EGO606, 5 pounds, coded EGO607
+     (6) Chocolate Fudge Eggs, 8 ounces, coded
+     EGO604, 16 ounces, coded EGO605
+     (No 2 pounds or 5 pounds sized eggs of this type were sold.)
+MANUFACTURER   Bayard-Prete Candy Company, Inc., Pennsauken, New
+               Jersey. 
+RECALLED BY    Manufacturer, by letters on March 5 and 13, 1997,
+               and by press release on March 10, 1997.  Firm-initiated recall ongoing.
+DISTRIBUTION   New Jersey, Georgia, New York, Connecticut,
+               Massachusetts, Rhode Island, Pennsylvania,
+               Delaware, Virginia, Florida, Louisiana.
+QUANTITY  Amount distributed:
+     (1) Macy's Traditional American Chocolates:
+         18 oz, 792 units (12X66cs)
+     (2) Macy's 6 ounces assorted chocolates:
+         480 units (24X20cs)
+     (3) Macy's 12 oz assorted chocolates: 
+         98 units (14X7 cs)
+     (4) Coconut Cream Eggs:
+         8 ounces : 1104 eggs (24X46 cs)
+         16 ounces :  960 eggs (12X80 cs)
+         2 pounds :   12 eggs (4X3 cs)
+         5 pounds :    4 eggs (2X2 cs)
+     (5) Butter Cream Eggs:
+         8 ounces :  960 eggs (24X40 cs)
+         16 ounces :  480 eggs (12X40 cs)
+         2 pounds :   12 eggs (4X3 cs)
+         5 pounds :    4 eggs (2X2 cs)
+     (6) Chocolate Fudge Eggs:
+         8 ounces :  480 eggs (24X20 cs)
+         16 ounces :  144 eggs (12X12 cs).
+REASON    The products did not bear full ingredient statements
+          and contained the following undeclared ingredients that
+          could elicit reactions in sensitive individuals:
+     a) brazil nuts, cashews, walnuts, peanuts, peanut butter,
+     egg albumen, whole milk, almonds, and sulfites
+     b) and c) peanuts, peanut butter, egg albumen, whole milk,
+     and sulfites 
+     d) egg albumen, whole milk, FD&C Yellow 6, and sulfites 
+     e), and f) egg albumen, whole milk, and FD&C Yellow 6. 
+
+_______________
+PRODUCT   Sarabeth's Kitchen's Peach-Apricot Preserves, in 9
+          ounce and 18 ounce glass jars.
+     Recall #F-501-7.
+                               -2-CODE All codes/lots manufactured prior to 12/11/96.
+MANUFACTURER   S.B.K. Preserves, Inc., doing business as
+               Sarabeth's Kitchen, New York, New York.
+RECALLED BY    Manufacturer, by letter on April 18, 1997, and by
+               press release.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY  Undetermined.  Firm estimates little if any product
+          remain on the market.
+REASON    Product contains undeclared sulfites.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II ===========
+_______________
+PRODUCT   Turkish Delight Akide Candy, in 12 ounce rigid tubs, a
+          hard candy.  Recall #F-488-7.
+CODE None.  All product containing the unapproved color additive
+     Ponceau 4R.
+MANUFACTURER   Capaloglu Vokosu, Istanbul, Turkey.
+RECALLED BY    EFE, Inc., Brooklyn, New York, by letter on
+               January 21, 1997.  Completed recall resulted from
+               sample analysis and followup by the New York State
+               Department of Agriculture and Markets.
+DISTRIBUTION   New York and Georgia.
+QUANTITY  18 containers were distributed.  Firm estimated that
+          little, if any product remain on market.
+REASON    Product contained the unapproved color additive Ponceau
+          4R.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II ===========
+_______________ 
+PRODUCT   Minute Maid Berry Juice in 64 ounce gable-top  
+          cartons.  Recall #F-492-7.
+CODE Container:  JUN 18 LEY XXXX and JUN 19 LEY XXXX - Shipping
+     Case:  XXXX LEY JUN18 W12774C BERRY PUNCH 2739 and XXXX LEY
+     JUN19 W12774D BERRY PUNCH 2739.
+MANUFACTURER   Cutrale Citrus Juices USA, Leesburg, Florida.
+RECALLED BY    The Minute Maid Company, Houston, Texas, by hand
+               held computers on May 16, 1997, and by visits on
+               May 16 and 22, 1997.  Firm-initiated recall
+               complete.  
+DISTRIBUTION   Nationwide.
+QUANTITY  6,668 cases were distributed.
+REASON    The product is adulterated due to the presence of
+          CS-400, a hi-strength, chelated liquid alkali system
+          used for circulation cleaning throughout the food
+          industry.
+
+                               -3-_______________
+PRODUCT   Sarabeth's Kitchen Preserves, in 9 ounce and 18 ounce
+          glass jars:  a) orange-Apricot Marmalade; b)
+          Apricadabra; c) Lemon-Pear Butter.  Recall #F-502/504-7.
+CODE (a&b) All codes/lots manufactured prior to 12/11/96; c) All
+     codes/lots manufactured prior to 4/4/97.
+MANUFACTURER   S.B.K. Preserves, Inc., doing business as
+               Sarabeth's Kitchen, New York, New York.
+RECALLED BY    Manufacturer, by letter sent on April 18, 1997,
+               and by press release.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY  Undetermined.  Firm estimated little if any product
+          remain on market.
+REASON    Products contain undeclared sulfites.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III ==========
+_______________
+PRODUCT   Liquefied Carbon Dioxide, Bulk.  
+     Recall #F-491-7.
+CODE Production dates involved are 02/03/97 - 02/17/97.  No
+     production codes are used with the product.  Production is
+     continuous and storage of the finished product is commingled
+     within the bulk storage system used.  Any product shipped to
+     customers constitutes a mix of residual carbon dioxide
+     produced on that date as well as all previous dates.
+MANUFACTURER   Praxair, Inc., Loudon, Tennessee.
+RECALLED BY    Manufacturer, by telephone and letter beginning on
+               February 18, 1997, and ending February 26, 1997. 
+               Firm-initiated field correction complete.
+DISTRIBUTION   Tennessee, Kentucky, Florida, Virginia,
+               Pennsylvania, New York.
+QUANTITY  Undetermined.
+REASON    Product was contaminated with low levels of carbonyl
+          sulfide.
+
+_______________
+PRODUCT   Sarabeth's Kitchen Blood Orange Marmalade, in 9 ounce
+          and 18 ounce glass jars.
+     Recall #F-505-7.
+CODE All codes/lots manufactured prior to April 4, 1997.  Firm-initiated recall ongoing.
+MANUFACTURER   S.B.K. Preserves, Inc., doing business as
+               Sarabeth's Kitchen, New York, New York.
+RECALLED BY    Manufacturer, by letter sent on April 18, 1997,
+               and by press release.  Firm-initiated recall
+               ongoing.
+                               -4-DISTRIBUTION   Nationwide.
+QUANTITY  Undetermined.  Firm estimates little if any product
+          remain on the market.
+REASON    Product contains undeclared sulfites.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS
+III ==========
+_______________
+PRODUCT   Lithobid (Lithium Carbonate extended release tablets,
+          300 mg, packaged in bottles of 100 and 1000, Rx used
+          for the treatment of depression and bipolar disease.  
+     Recall #D-217-7.
+CODE Lot numbers:  86864 (100s) and 86848 (1000s).
+MANUFACTURER   Solvay Pharmaceuticals, Baudett, Minnesota.
+RECALLED BY    Solvay Pharmaceuticals, Marietta, Georgia, by
+               telephone on April 17, 1997 and by letter on May
+               23, 1997.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY  13,917 100-tablet bottles and 1,432 1000-tablet bottles
+          were distributed.
+REASON    Dissolution failure (stability).
+
+_______________
+PRODUCT   Phenylhistine Expectorant, Antitussive- Decongestant
+          Expectorant, each 5 ml contains: Codeine Phosphate (10
+          mg.), Pseudoephedrine Hydrochloride (30 mg.),
+          Guaifenesin (100 mg.) and Alcohol (7.5%) in bottles of
+          4 fluid ounces and 16 fluid ounces, packaged under the
+          Vintage and Qualitest labels.
+     Recall #D-223-7. 
+CODE Lot No. 012J6, EXP 10/98 (Qualitest/Vintage), 012J6A,
+     012J6B, 012J6C, 012J6D, 012J6E.
+MANUFACTURER   Vintage Pharmaceuticals, Inc., Huntsville,
+               Alabama.
+RECALLED BY    Manufacturer, by telephone followed by letter
+               dated May 9, 1997.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide.
+QUANTITY  8,149 4-fluid ounce bottles and 5,766 16-fluid ounce
+          bottles were distributed.
+REASON    Product lacks stability for the Codeine Phosphate
+          ingredient with the six (6) month assay falling below
+          specification (subpotent).
+
+_______________
+PRODUCT   Sterile Saline 0.9%, For Irrigation purposes only, 110
+          mL, in prefilled graduates, Rx.
+     Recall #D-224-7.
+
+                               -5-CODE Catalog No. 5501: 4 lot numbers:  7775, 7804, 7806, 7813;
+     Catalog No. 5501R: 3 lots numbers: 7805, 7807, 7814.
+     Expiration Date 7/99 for the above 7 lots.
+MANUFACTURER   Intermed/Allstate, A Division of Urohealth
+               Systems, Inc., Sparta, New Jersey.
+RECALLED BY    Manufacturer, by fax on or about September 12,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY  2,386 cases (84,192 vials) were distributed.
+REASON    Labeling error -- Some units of sterile saline were
+          labeled as sterile water.
+
+_______________
+PRODUCT   Lithium Carbonate Tablets, USP, 300 mg, packaged in
+          bottles of 100, Rx prescribed as remedial and/or
+          maintenance drug therapy for the treatment of
+          individuals diagnosed with manic episodes
+          characterizing Bipolar Disorders.  Recall #D-225-7.
+CODE Lot #961458 EXP 6/1/98.
+MANUFACTURER   Roxane Laboratories, Inc., Columbus, Ohio.
+RECALLED BY    Manufacturer, by letter on June 16, 1997.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY  9,455 bottles were distributed; firm estimated that 20%
+          of product remained on market at time of recall
+          initiation.
+REASON    Product fails dissolution specification (stability).
+
+_______________
+PRODUCT   Histalet Forte Tablets, antihistamine-decongestant(Phenylpropanolamine HCl 50 mg/Pyrilamine
+          Maleate 25 mg/Phenylephrine HCl 10 mg/Chlorpheniramine
+          Maleate 4 mg), packaged in 20, 100 and 250 tablet
+          bottles.
+     Recall #D-226-7.
+CODE Lot numbers:  F960551A - 250 tablet bottles
+     F960551B - 100 tablet bottles
+     X960778A - 20 tablet bottles **
+     X960778B - 250 tablet bottles
+     X960778C - 100 tablet bottles
+     **repackaged into bottles of 100's.
+MANUFACTURER   Mikart, Inc., Atlanta, Georgia.
+RECALLED BY    Manufacturer, by letter on May 20, 1997.  Firm-initiated recall ongoing.
+DISTRIBUTION   Alabama, Arizona, California, Florida,
+               Massachusetts, Maryland, Missouri, Mississippi,
+               North Carolina, New Jersey, Ohio, Oklahoma, Texas.
+
+                               -6-QUANTITY  Lot F960551A - 376 bottles were shipped
+     Lot F960551B - 3727 bottles were shipped
+     Lot X960778A - 9919 bottles were shipped
+     Lot X960778B - 259 bottles were shipped
+     Lot X960778C - 2160 bottles were shipped.
+REASON    Product failed content uniformity (validation).
+
+_______________
+PRODUCT   1% Lidocaine HCl Injection, USP, 10 mg/ml, 50 ml
+          multiple dose vials held in shelf packs of 25 vials, Rx
+          SVP for production of local or regional anesthesia. 
+          Recall #D-227-7.
+CODE Lot #23-198-DK.
+MANUFACTURER   Abbott Laboratories, Rocky Mount, North Carolina.
+RECALLED BY    Abbott Laboratories, Hospital Products Division,
+               Abbott Park, Illinois, by letter dated June 26,
+               1997.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and The Netherlands.
+QUANTITY  180,250 vials were distributed; firm estimated that 20%
+          of product remained on the market at time of recall
+          initiation.
+REASON    Mispackaged -- Correctly labeled 2% vial packaged in 1%
+          labeled shelf pack.
+
+________________
+PRODUCT   Acetaminophen Tablets, 325 mg, OTC analgesic, in 100
+          tablet plastic bottles.
+     Recall #D-229-7.
+CODE Lot #100166 EXP 4/98.
+MANUFACTURER   AAA Pharmaceutical, Inc., Paulsboro, New Jersey.
+RECALLED BY    Manufacturer, by telephone and fax on March 28,
+               1997.  Firm-initiated recall complete.
+DISTRIBUTION   New York.
+QUANTITY  649 bottles were distributed; firm estimates none
+          remains on the market.
+REASON    Labeling -- Incorrect lot number.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II =======
+_______________
+PRODUCT   Corneal Tissues for Transplant:  Corneal Human Tissue. 
+          Recall #B-750-7.
+CODE Donor numbers:  93-4437/8, 93-4441/4, 93-4449, 93-4451,
+     93-4453/6, 93-4463, 93-4465/6, 93-4469/70, 93-4473/6,
+     93-4479, 93-4483/90, 93-4493/8, 93-4501/2, 93-4507, 93-4509,
+     93-4511/3, 93-4515/6, 93-4520, 93-4523/32,
+
+                               -7-     93-4537/40, 93-4543/4, 93-4546, 93-4549/52, 93-4557/62,
+     93-4567/70, 93-4572, 93-4577/82 and unit numbers
+     94-0021/0022, 96-1563/1564. 
+MANUFACTURER   Lions Eye Bank of Texas, Baylor College of
+               Medicine, Houston, Texas.
+RECALLED BY    Manufacturer, by letter dated April 8, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY  All recalled product has been transplanted and none
+          remains in stock. 
+REASON    Human Tissues for Transplant which:  Were not tested
+          for HIV-2; Donor's corneas tested repeat reactive for
+          anti-HIV-1/2; One donor's blood may have been
+          hemodiluted during viral marker testing.
+
+_______________
+PRODUCT   Platelets.  Recall #B-880-7.
+CODE Unit #16LR10733.
+MANUFACTURER   American Red Cross Blood Services, Columbus, Ohio.
+RECALLED BY    Manufacturer, by letter dated May 20, 1997.  Firm-initiated recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY  1 unit was distributed.
+REASON    Blood product was prepared from a unit of Whole Blood
+          with an extended collection time.
+
+_______________
+PRODUCT   Platelets, Pheresis.  Recall #B-993-7.
+CODE Unit #4501025.
+MANUFACTURER   Carter Blood Center, Fort Worth, Texas.
+RECALLED BY    Manufacturer, by telephone on May 28, 1997.  Firm-initiated recall complete.
+DISTRIBUTION   Texas.
+QUANTITY  1 unit was distributed.
+REASON    Blood product was labeled with an extended expiration
+          date.
+
+_______________
+PRODUCT   Red Blood Cells.  Recall #B-1000-7.
+CODE Unit #LH02831.
+MANUFACTURER   Irwin Memorial Blood Centers, San Francisco,
+               California.
+RECALLED BY    Manufacturer, by letter dated February 17, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   California.
+QUANTITY  1 unit was distributed.
+REASON    Blood product was collected from a donor with an
+          unacceptable hematocrit.
+
+                               -8-_______________
+PRODUCT   a) Red Blood Cells; b) Platelets.  
+     Recall #B-1002/1003-7.
+CODE Unit #1293480.
+MANUFACTURER   Central Kentucky Blood Center, Lexington,
+               Kentucky.
+RECALLED BY    Manufacturer, by letter dated December 12, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Kentucky.
+QUANTITY  1 unit of each component was distributed.
+REASON    Blood products were collected from a donor who traveled
+          to an area considered endemic for malaria.
+
+_______________
+PRODUCT   Red Blood Cells.  Recall #B-1004-7.
+CODE Unit #11316-1302.
+MANUFACTURER   United Blood Services, El Paso, Texas.
+RECALLED BY    Blood Systems, Inc., Scottsdale, Arizona, by
+               telephone on May 5, 1997.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Texas.
+QUANTITY  1 unit was distributed.
+REASON    Blood product was collected from a donor who traveled
+          to an area considered endemic for malaria.
+
+_______________
+PRODUCT   Platelets.  Recall #B-1005-7.
+CODE Unit #5025918.
+MANUFACTURER   Lorain County Blood Bank, Inc., Elyria, Ohio.
+RECALLED BY    Manufacturer, by telephone on September 27, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY  1 unit was distributed.
+REASON    Blood product was collected from a donor who traveled
+          to an area considered endemic for malaria.
+
+_______________
+PRODUCT   Red Blood Cells.  Recall #B-1006-7.
+CODE Unit #732277.
+MANUFACTURER   Community Blood Center, Dayton, Ohio.
+RECALLED BY    Manufacturer, by letter dated February 18, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Kentucky.
+QUANTITY  1 unit was distributed.
+REASON    Blood product was collected from a donor who traveled
+          to an area considered endemic for malaria.
+
+                               -9-_______________
+PRODUCT   a) Red Blood Cells; b) Platelets.  
+     Recall #B-1007/1008-7.
+CODE Unit numbers: 5010831, 5014851, 5027455.
+MANUFACTURER   Lorain County Blood Bank, Inc., Elyria, Ohio.
+RECALLED BY    Manufacturer, by telephone on January 3, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY  3 units of each component were distributed.
+REASON    Blood products were collected from a donor who traveled
+          to an area considered endemic for malaria.
+
+_______________
+PRODUCT   a) Red Blood Cells; b) Platelets.
+     Recall #B-1009/1010-7.
+CODE Unit #2004042.
+MANUFACTURER   Lorain County Blood Bank, Inc., Elyria, Ohio.
+RECALLED BY    Manufacturer, by telephone on October 8, 1996, and
+               by letter dated November 25, 1996.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY  1 unit of each component was distributed.
+REASON    Blood products were collected from a donor who traveled
+          to an area considered endemic for malaria.
+
+_______________
+PRODUCT   (a) Red Blood Cells; (b) Fresh Frozen Plasma.
+     Recall #B-1011/1012-7.
+CODE Unit #M90301.
+MANUFACTURER   Topeka Blood Bank, Inc., doing business as Kansas
+               Blood Services, Topeka, Kansas.
+RECALLED BY    Manufacturer, by telephone on March 28, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Missouri and Kansas.
+QUANTITY  1 unit of each component was distributed.
+REASON    Blood products with an elevated ALT result were labeled
+          as negative.
+
+_______________
+PRODUCT   a) Red Blood Cells; b) Platelets.
+     Recall #B-1016/1017-7.
+CODE Unit #11314-6490.
+MANUFACTURER   United Blood Services, El Paso, Texas.
+RECALLED BY    Blood Systems, Inc., Scottsdale, Arizona, by
+               telephone on May 5, 1997.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Texas and New Mexico.
+QUANTITY  1 unit of each component was distributed.
+REASON    Blood products were prepared from a unit of Whole Blood
+          designated as overweight.
+
+                               -10-_______________
+PRODUCT   a) Red Blood Cells; b) Platelets.
+     Recall #B-1018/1019-7.
+CODE Unit numbers:  a) 1258143; b) 1258143 and 1273695.
+MANUFACTURER   Central Kentucky Blood Center, Lexington,
+               Kentucky.
+RECALLED BY    Manufacturer, by telephone on December 16 and 23,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Kentucky.
+QUANTITY  a) 1 unit; b) 2 units were distributed.
+REASON    Blood products were collected from a donor who traveled
+          to an area considered endemic for malaria.
+
+_______________
+PRODUCT   a) Red Blood Cells; b) Recovered Plasma.
+     Recall #B-1029/1030-7.
+CODE Unit #42H98740.
+MANUFACTURER   American Red Cross Blood Services, Cleveland,
+               Ohio.
+RECALLED BY    Manufacturer, by letter dated May 27, 1997.  Firm-initiated recall complete.
+DISTRIBUTION   Ohio and California.
+QUANTITY  1 unit of each component was distributed.
+REASON    Blood products were collected from a donor who was
+          taking the drug Proscar.
+
+_______________
+PRODUCT   a) Red Blood Cells; b) Recovered Plasma.
+     Recall #B-1031/1032-7.
+CODE Unit #42G02452.
+MANUFACTURER   American Red Cross Blood Services, Cleveland,
+               Ohio.
+RECALLED BY    Manufacturer, by letters dated December 23 and 18,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Ohio and California.
+QUANTITY  1 unit of each component was distributed.
+REASON    Blood products were collected from a donor who was
+          taking the drug Zovirax.
+
+_______________
+PRODUCT   Platelets.  Recall #B-1033-7.
+CODE Unit #49F97919.
+MANUFACTURER   American Red Cross Blood Services, Waco, Texas.
+RECALLED BY    American Red Cross Blood Services, Tulsa,
+               Oklahoma, by telephone on May 2, 1997, followed by
+               letter dated May 5, 1997.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Oklahoma.
+QUANTITY  1 unit was distributed.
+
+                               -11-REASON    Blood product corresponded to a unit of Red Blood Cells
+          that was reported as clotted.
+
+_______________
+UPDATE    Recall #B-886/888-7, Red Blood Cells; Platelets;
+          Plasma, which appeared in the June 11, 1997 Enforcement
+          Report is being rescinded.  Information included in
+          this recall is identified as Recall #B-616/618-6.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III ======
+_______________
+PRODUCT   a) Red Blood Cells; b) Platelets; c) Fresh Frozen
+          Plasma.  Recall #B-997/999-7.
+CODE Unit #24KK71562.
+MANUFACTURER   American Red Cross Blood Services, Louisville,
+               Kentucky.
+RECALLED BY    Manufacturer, by letter dated April 11, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Kentucky and Indiana.
+QUANTITY  1 unit of each component was distributed.
+REASON    Blood products were collected from a donor taking an
+          experimental CMV vaccine.
+
+_______________
+PRODUCT   a) Red Blood Cells; b) Recovered Plasma.
+     Recall #B-1021/1022-7.
+CODE Unit numbers:  a) 1007028, 1018619, 1018623; b) 1005271,
+     1007028.
+MANUFACTURER   Community Blood Center, Dayton, Ohio.
+RECALLED BY    Manufacturer, by letter dated February 25, 1997 or
+               April 1, 1997, and March 18, 1997, and April 28,
+               1997.  Firm-initiated recall complete.
+DISTRIBUTION   Ohio and California.
+QUANTITY  a) 3 units; b) 2 units were distributed.
+REASON    Blood products were collected in expired collection
+          bags.
+
+_______________
+PRODUCT   Red Blood Cells.  Recall #B-1037-7.
+CODE Unit numbers:  40GV09619, 40GV09620, 40GV09621, 40GV09622,
+     40GV09623, 40GV09624, 40GV09625, 40GV09626, 40GV09627,
+     40GV09628, 40GV09629, 40GV09630, 40GV09631, 40GV09632,
+     40GV09633, 40GV09634, 40GV09635, 40GV09636, 40GV09637,
+     40GV09639.  
+MANUFACTURER   American Red Cross Blood Services, Peoria,
+               Illinois.
+RECALLED BY    Manufacturer, by telephone on June 2, 1997, and by
+               letter dated June 13, 1997.  Firm-initiated recall
+               complete.
+                               -12-DISTRIBUTION   Illinois, Missouri, Tennessee, California,
+               Pennsylvania.
+QUANTITY  20 units were distributed.
+REASON    Blood products were stored at an unacceptable
+          temperature.
+ 
+_______________
+UPDATE    Recall #B-781/782-7, Streptokinase Kabikinase, a
+          sterile purified preparation of bacterial protein
+          elaborated by group C B-hemolytic streptococci, which
+          appeared in the June 4, 1997, Enforcement Report is
+          being updated as follows:
+     a) Streptokinase Kabikinase 250,000 IU, lot 14476A51; b)
+     Streptokinase Kabikinase 1,500,000IU, lot 14304A51.
+     Additional information from the firm indicates portions of
+     these lots were labeled MANUFACTURED BY:  Kabi Pharm., Inc.,
+     Uppsala, Sweden  DISTRIBUTED BY: Kabi Pharm., Inc.,
+     Pischataway, New Jersey.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS
+II =========
+_______________
+PRODUCT   Microaire Pulse Lavage Tube Sets and Pulse Lavage Hip
+          Sets, used with the Pulse Lavage Handpiece 4740-000, a
+          precision instrument for debriding bone surfaces as
+          well as cleansing trauma and other soft tissue wounds.  
+     Recall #Z-705/708-7. 
+CODE Product Number    Lot Number
+     a) 4740-060   129624156
+        4740-060   019724464
+        4740-060   029725355
+     b) 4740-061   119623581
+        4740-061   119623582
+        4740-061   119623583
+        4740-061   019724833
+        4740-061   029724834
+        4740-061   029725487, 039725776
+     c) 4740-062   119623858
+        4740-062   129623048
+        4740-062   129624155
+        4740-062   129624395
+        4740-062   019724465
+        4740-062   039725707
+     d) 5600-70     DePuy Lot N0. R98AK4000 
+     DePUY Product MicroAire Lot No. 019724466.
+MANUFACTURER   Microaire Surgical Instruments, Charlottesville,
+               Virginia.
+RECALLED BY    Manufacturer, by letters dated April 15 and 28,
+               1997.  Firm-initiated recall ongoing.
+                               -13-DISTRIBUTION   Nationwide and international.
+QUANTITY  1,389 tubing set units and 197 hip set units were
+          distributed.
+REASON    The devices are subject to separation at the joint
+          between the nose connection and the pump body of the
+          product which could result in the nozzle falling into
+          the surgical field. 
+
+_______________
+PRODUCT   Anesthesia Gas Sampling Tee Connector, Part No. 92002,
+          and Anesthesia Circuits which Contain the Gas Sampling
+          Tee Connector: 
+     a) Ohmeda brand Gas Sampling Straight Tee (Plastic); 
+     b) SpaceLabs Medical brand TRU-LINK DISPOSABLE ANESTHETIC
+     AGENT SAMPLE LINE WITH GAS SAMPLING TEE for use with 90518
+     Multigas Analyzer;
+     c) SpaceLabs Medical brand TRU-LINK DISPOSABLE ANESTHETIC
+     AGENT SAMPLE LINE WITH GAS SAMPLING TEE for use with 90518
+     Multigas Analyzer;
+     d) Gibeck brand Gas Sampling
+     e) Gibeck brand Gas Sampling
+     f) Gibeck brand Mass Spec Straight Tee
+     g) Gibeck brand Gas Sampling Tee
+     h) Gibeck brand Adult Anesthesia Breathing Circuit
+     i) Gibeck brand Pediatric Anesthesia Breathing Circuit
+     j) Gibeck brand Adult Anesthesia Breathing Circuit 
+     k) Gibeck brand Gas Sampling Tee with Luer  
+     l) Gibeck brand Pediatric Anesthesia Breathing Circuit 
+     m) Gibeck brand Adult Anesthesia Breathing Circuit
+     n) Gibeck brand Mass Spec Tee w/Cap Put Label   (Criticare)  
+     o) Gibeck brand Gas Sampling Tee & Cap Put Label (Datex). 
+     Recall #Z-711/725-7.
+CODE a)  Product No. 6027-0000-019; Lot No. M027794.
+     b) Product 015-0312-00; Lot No. M027658.
+     c) Product No. 015-0313-00; Lot No. M027659.
+     d) Product No. 126213-BQW; Lot No. M028791.
+     e) Product No. 12820, Lot  Nos. M029039, P003583, and
+     P003612.  
+     f) Product No.   12820B; Lot No. M027901.
+     g) Product No. 12820-150, Lot Nos. MO28219 and M028360.
+     h) Product No. 16303-742; Lot Nos. C033964, C034071,
+     C034157, and C034247.
+     i) Product No. 16511-742; Lot No. C034073.
+     j) Product No. 173232-BPG; Lot No. C033735.  
+                               -14-     k) Product 24432; Lot No. M028809.
+     l) Product 304-0002-710; Lots No. C034015 and C034262.
+     m) Product No.304-0001-724; Lot Nos. C034229, C034032, and
+     C034401.
+     n) Product No. 41439B001; Lot No. M027488.
+     o) Product No. 73385; Lot No. M028990.
+MANUFACTURER   Gibeck, Inc., Indianapolis, Indiana.
+RECALLED BY    Manufacturer, by letter on April 21, 1997.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY  53,800 connectors were distributed.
+REASON    The gas sampling tee connector was observed to be
+          partially occluded by a thin molded membrane inside the
+          connector.
+
+_______________
+UPDATE    Recall #Z-452/453-7, Sonoline Prima and Versa Pro
+          Ultrasound Systems with Enhanced OB Calculation Package
+          Option, which appeared in the May 7, 1997 Enforcement
+          Report has been extended to include the firms issuance
+          of a second letter alerting users of additional
+          software errors (erroneous onscreen growth curve
+          information).
+
+                               -15-
+
+END OF ENFORCEMENT REPORT FOR JULY 16, 1997.  BLANK PAGES MAY FOLLOW.
+
+                                   ####
+
+
+
+
+  
+ End of Enforcement Report for

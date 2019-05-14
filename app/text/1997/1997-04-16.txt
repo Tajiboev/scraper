@@ -1,0 +1,957 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Nov
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      30 captures
+	      05 May 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+April 16, 1997                                   97-16
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I ===========
+_______________
+PRODUCT        Buitoni Fresco Two Cheese Basil Tortelloni,
+               packed in 255 gram plastic round tubs.
+               Recall #F-362-7.
+CODE           "Best Before/Meilleur avant 97 MR 04 7020 DV4
+               12"; "Best Before/Meilleur avant 97 MR 11 7027
+               DV4 14";  and "Best Before/Meilleur avant 97 MR
+               18 7034 DV4 12".
+MANUFACTURER   Nestle Food Division, Inc., Danville, Virginia.
+RECALLED BY    Nestle USA - Food Division, Inc., Solon, Ohio,
+               by letter on February 19, 1997.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Canada.
+QUANTITY       690 cases (6 tubs per case) were distributed
+REASON         Product contained undeclared walnuts.
+
+_______________
+PRODUCT        Caramel Chocolate Dessert, heart-shaped pie. 
+               Recall #F-363-7.
+CODE           All product shipped without an ingredient
+               statement.
+MANUFACTURER   Full Service Foods, Hillsboro, North Dakota.
+RECALLED BY    Harry & David, Medford, Oregon, by telephone
+               beginning on February 8, 1997, by mailgram on
+               February 11, 1997, and by letter on February
+               13, 1997.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       Product shipped to 220 recipients.
+REASON         The product was shipped without an ingredient
+               statement and contains the following allergens:
+               pecans, egg whites, flour and dairy products
+               (evaporated milk and whipping cream).
+
+_______________
+PRODUCT        Grand Bay Fresh Backfin Crabmeat.  
+               Recall #F-372-7.
+CODE           None.
+MANUFACTURER   Grand Bay Seafood, Inc., Grand Bay, Alabama.
+RECALLED BY    Manufacturer, by telephone on September 9 and
+               12, 1996.  Completed recall resulted from
+               sample analysis and followup by the State of
+               Alabama.
+DISTRIBUTION   Alabama, Florida, Georgia, Louisiana, Maryland,
+               Pennsylvania, Virginia.
+QUANTITY       544 pounds were distributed.
+REASON         Product was contaminated with Listeria
+               monocytogenes and was decomposed.
+
+_______________
+PRODUCT        Tropic Isle Fresh Frozen Coconut, flake grated
+               in 6 ounce and 12 ounce poly bags.  
+               Recall #F-377-7.
+CODE           All lots manufactured in Costa Rica.
+MANUFACTURER   Yucatica S.A., Costa Rica.
+RECALLED BY    Southern Frozen Foods, A Division of Curtis
+               Burns Foods, Montezuma, Georgia, by press
+               release on March 5, 1997, and by letter.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Between 18,000 and 200,000 cases (12 bags per
+               case were distributed 
+REASON         Product may be contaminated with Listeria
+               monocytogenes.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II ===========
+_______________
+PRODUCT        Various donut products:
+               (a) P/Fried Jumbo Y/R Ring (Jumbo Ring Donut),
+               item #2108, 2.60 oz. each, 108/case, case net
+               wt. 17.55 lbs., when received by the retail
+               store, these donuts may be iced, glazed, or
+               decorated prior to sale.
+               (b) Raised Ring Donut (Ring Donut), item #2171,
+               2.00 oz. each, 108/case, case net wt. 13.50
+               lbs., when received by the retail store, these
+               donuts may be iced, glazed, or decorated prior
+               to sale.
+
+                             -2-               (c) Bismarks, Unfilled, item #2172, 2.00 oz.
+               each, 108/case, case net wt. 13.50 lbs., 
+               The retail store fills the Bismarks prior to
+               sale.
+               (d) Raspberry Filled Bismark, item #2173, 3.00
+               oz. each, 84/case, case net wt. 15.75 lbs.,
+               (e) Bismark (Bavarian Creme Filled), item
+               #2174, 3.00 oz. each, 84/case, case net wt.
+               15.75, 
+               (f) French Crueller, item #2116, 1.35 oz. each,
+               84/case, case net wt. 7.09 lbs., 
+               (g) Bismark (Variety Pack), item #2190, 3.00
+               oz. each, 84/case, case net wt. 15.75 lbs.,  
+               The flavors included in this are lemon,        
+               apple, and raspberry.
+               (h) Sour Cream Cake Donut, item #2166, 2.00 oz.
+               each, 144/case, case net wt. 18.00 lbs.,
+               (i) Blueberry Cake Donut, item #3216, 1.75 oz.
+               each, 144/case, case net wt. 15.75 lbs., 
+               (j) Devils Food Cake Donut, item #2163, 2.00
+               oz. each, 144/case, case net wt. 18.00 lbs.
+               Recall #F-352/361-7.
+CODE           Lot numbers:  (a) 0902975600, 0908976108,
+               0912976564, 0911976467, 0916976873, 0901975436,
+               0917977050
+               (b) 0917977051, 0912976563, 0902975601,
+               0908976109, 0916976872
+               (c) 0903975716,  0904975803, 0909976222,
+               0911976464 
+               (d) 0903975718, 0904975840, 0911976466
+               (e) 0903975717, 0904975805, 0909976223,
+               0911976573, 0904975941
+               (f) 0905975920, 0913976703, 0915976717
+               (i) 0910976327; (g) 0904975804 and 0911976465
+               (h) 0910976326 and 0918977234
+               (j) 0910976328 and 0917977121.
+MANUFACTURER   Hazelwood Farms Bakeries, Inc., Hazelwood,
+               Missouri.
+RECALLED BY    Manufacturer, by telephone and electronic mail
+               on March 27, 1997, followed by fax.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       5,126 cases of bakery products containing 84-
+               144 pieces per case were distributed between
+               March 5 and 25, 1997.
+REASON         The products may be contaminated with hepatitis
+               A.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III ==========
+_______________
+PRODUCT        Grand Bay brand Fresh Crabmeat, produced 09/01-
+               04/96:
+                             -3-               (a) Claw Crabmeat; (b) Jumbo Lump Crabmeat; (c)
+               Lump Crabmeat; (d) Cocktail Claw Fingers
+               Crabmeat.  Recall #F-373/376-7.
+CODE           None.
+MANUFACTURER   Grand Bay Seafood, Inc., Grand Bay, Alabama.
+RECALLED BY    Manufacturer, by telephone on September 9,
+               1996.  Completed recall resulted from sample
+               analysis and followup by the State of Alabama.
+DISTRIBUTION   Alabama, Florida, Georgia, Louisiana, Maryland,
+               Pennsylvania, Virginia.
+QUANTITY       (a) 899 pounds; (b) 1,255 pounds; (c) 582
+               pounds; (d) 1,905 pounds were distributed.
+REASON         (a) Product was decomposed and produced under
+               insanitary conditions that could contaminate
+               the product with filth.  Products (b), (c), and
+               (d) were produced under insanitary conditions
+               that could contaminate the product with filth.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II ==========
+_______________
+PRODUCT        Minocycline HCl Capsules, USP, 50 mg and 100
+               mg, used as an antimicrobial, under the Schein,
+               Duramed and Medicis labels.
+               Recall #D-134/135-7.
+CODE           Lot numbers:  Schein label:
+               50 mg: All lots with exp. dates through 8/98, 
+               PLUS P6K0148 and P6K0149
+               100 mg:   All lots with exp. dates through
+               8/98, PLUS P6K0142 and P6K0143
+               Duramed label:
+               50 mg:   C6A0011, C6A0111, C6C0517, C6C0518
+               100 mg:  C5M2834, C5M2844, C6C0687
+               Medicis label:
+               50 mg:  All lots with exp. dates through 11/98
+               100 mg (bottles of 50) - All lots w/exp dates
+               through 7/98 100 mg (bottles of 500) - All lots
+               w/exp dates through 6/98.
+MANUFACTURER   Danbury Pharmacal, Inc., Carmel, New York; and
+               Danbury Pharmacal P.R., Inc., Humacao, Puerto
+               Rico.
+RECALLED BY    Danbury Pharmacal, Inc., Brewster, New York, by
+               letter on February 26, 1997.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and Chile.
+QUANTITY       Total distributed        
+               50 mg          100 mg
+               Schein    226,095x100s   538,822x50s    
+               Duramed   7,470x100s     11,178x50s     
+               Medicis   46,345x100s    57,107x50s     
+               Medicis   4,084x500s     4,508x500s.     
+
+                             -4-REASON         Bulk Minocycline was recalled by Roussel
+               Corporation (parent firm of Biochimica Opos)
+               due to AADA discrepancies regarding the
+               manufacturing process; AADA was withdrawn.
+
+_______________
+PRODUCT        Doxycycline Hyclate 100 mg tablets, 50 mg
+               capsules and 100 mg capsules labeled
+               "Manufactured by Halsey Drug Co., Inc.,
+               Brooklyn, N.Y.", "Manufactured by:  Rachelle
+               Laboratories, Inc., Culver, Indiana", "Mfd. by: 
+               Rachelle-Houba Laboratories, Inc., Culver,
+               Indiana, a subsidiary of Halsey Drug Co., Inc.,
+               Brooklyn, N.Y.", or "Manufactured by Rachelle
+               Laboratories, Inc., Culver, Indiana, A
+               Subsidiary of Halsey Drug Co., Inc., Brooklyn,
+               NY" as follows:  
+               1.  ALIGEN Doxycycline Hyclate Tablets, USP 100
+               mg in bottles of 50 tablets distributed by
+               Aligen Independent Laboratories, Inc.,
+               2.  ALIGEN Doxycycline Hyclate Tablets, USP 100
+               mg in bottles of 500 tablets distributed by
+               Aligen Independent Laboratories, Inc.,
+               3.  APOTHECON Doxycycline Hyclate Tablets, USP
+               100 mg in bottles of 50 tablets, Manufactured
+               for APOTHECON, A Bristol-Myers Squibb Co.,
+               4.  APOTHECON Doxycycline Hyclate Tablets, USP
+               100 mg in bottles of 500 tablets, Manufactured
+               for APOTHECON, A Bristol-Myers Squibb Co.,
+               5.  APOTHECON Doxycycline Hyclate 100 mg
+               capsules, USP in bottles of 50 capsules,
+               APOTHECON, A Bristol-Myers Squibb Co.,
+               6.  APOTHECON Doxycycline Hyclate 100 mg
+               capsules, USP in bottles of 500 capsules,
+               APOTHECON, A Bristol-Myers Squibb Co.,
+               7.  Doxychel Doxycycline Hyclate Tablets USP
+               100 mg in bottles of 50 tablets, Rachelle
+               Laboratories, Inc., 
+               8.  Doxychel Doxycycline Hyclate Tablets USP
+               100 mg in bottles of 500 tablets, Rachelle
+               Laboratories, Inc., 
+               9.  Doxychel Doxycycline Hyclate Capsules USP
+               100 mg in bottles of 50 capsules, Rachelle
+               Laboratories, Inc., 
+               10. Geneva Doxycycline Hyclate Tablets, USP 100
+               mg in bottles of 50 tablets, distributed By
+               Geneva Pharmaceuticals, Inc., 
+               11. Geneva Doxycycline Hyclate Tablets, USP 100
+               mg in bottles of 500 tablets, distributed by
+               Geneva Pharmaceuticals, Inc., 
+
+                             -5-               12. Geneva Doxycycline Hyclate 50 mg capsules,
+               USP in bottles of 50 capsules distributed by
+               Geneva Pharmaceuticals, Inc., 
+               13. Geneva Doxycycline Hyclate 100 mg capsules,
+               USP in bottles of 50 capsules distributed by
+               Geneva Pharmaceuticals, Inc.,
+               14. Geneva Doxycycline Hyclate 100 mg capsules,
+               USP in bottles of 500 capsules distributed by
+               Geneva Pharmaceuticals, Inc.,
+               15. HALSEY Doxycycline Hyclate Tablets, USP 100
+               mg in bottles of 50 tablets, Manufactured by: 
+               Rachelle [or Rachelle-Houba] Laboratories,
+               Inc., 
+               16. HALSEY Doxycycline Hyclate Tablets, USP 100
+               mg in bottles of 500 tablets, Manufactured by: 
+               Rachelle [or Rachelle-Houba] Laboratories,
+               Inc., 
+               17. HALSEY Doxycycline Hyclate 50 mg capsules,
+               USP in bottles of 50 capsules, Halsey Drug Co.,
+               Inc., 
+               18. HALSEY Doxycycline Hyclate 100 mg capsules,
+               USP in bottles of 50 capsules, Halsey Drug Co.,
+               Inc., 
+               19. HALSEY Doxycycline Hyclate 100 mg capsules,
+               USP in bottles of 500 capsules, Halsey Drug
+               Co., Inc., 
+               20. Major Doxycycline Hyclate Tablets, USP 100
+               mg in bottles of 50 tablets, Manufactured for
+               Major Pharmaceutical Corp., 
+               21. Major Doxycycline Hyclate Tablets, USP 100
+               mg in bottles of 500 tablets, Manufactured for
+               Major Pharmaceutical Corp., 
+               22. Major Doxycycline Hyclate 50 mg capsules,
+               USP in bottles of 50  capsules Major
+               Pharmaceutical Corp., 
+               23. Major Doxycycline Hyclate 100 mg capsules,
+               USP in bottles of 50 capsules Major
+               Pharmaceutical Corp., 
+               24. Major Doxycycline Hyclate 100 mg capsules,
+               USP in bottles of 500 capsules distributed by
+               Major Pharmaceutical Corp., 
+               25. Mason Doxycycline Hyclate 100 mg capsules,
+               USP in bottles of 500 capsules distributed by
+               Mason Distributors, Inc., 
+               26. Moore Doxycycline Hyclate Tablets, USP 100
+               mg in bottles of 50 tablets distributed by h.l.
+               Moore Drug Exchange, and labeled 
+               27. Moore Doxycycline Hyclate Tablets, USP 100
+               mg in bottles of 500 tablets, distributed by
+               h.l. Moore Drug Exchange, 
+
+                             -6-               28. Moore Doxycycline Hyclate 50 mg capsules,
+               USP in bottles of 50 capsules distributed by
+               h.l. Moore Drug Exchange, 
+               29. Moore Doxycycline Hyclate 100 mg capsules,
+               USP in bottles of 50 capsules distributed by
+               h.l. Moore Drug Exchange, 
+               30. Moore Doxycycline Hyclate 100 mg capsules,
+               USP in bottles of 500 capsules distributed by
+               h.l. Moore Drug Exchange, 
+               31. PARMED Doxycycline Hyclate 50 mg capsules,
+               USP in bottles of 50 capsules distributed by
+               Parmed Pharmaceuticals, Inc., 
+               32. PARMED Doxycycline Hyclate 100 mg capsules,
+               USP in bottles of 50 capsules distributed by
+               Parmed Pharmaceuticals, Inc.,
+               33. Qualitest Doxycycline Hyclate Tablets, USP
+               100 mg in bottles of 50 tablets, and labeled
+               "Mfg. for: QUALITEST PRODUCTS, INC.,
+               34. Qualitest Doxycycline Hyclate Tablets, USP
+               100 mg in bottles of 500 tablets, Mfg. for:
+               QUALITEST PRODUCTS, INC., 
+               35. Qualitest Doxycycline Hyclate 50 mg
+               capsules, USP in bottles of 50 capsules and
+               labeled "Mfg. for: QUALITEST PRODUCTS, INC.,
+               36. Qualitest Doxycycline Hyclate 100 mg
+               capsules, USP in bottles of 50 capsules
+               QUALITEST PRODUCTS, INC., 
+               37. Qualitest Doxycycline Hyclate 100 mg
+               capsules, USP in bottles of 500 capsules
+               QUALITEST PRODUCTS, INC., 
+               38. Warner Chilcott Doxycycline Hyclate
+               Tablets, USP 100 mg in bottles of 50 tablets,
+               Manufactured for WARNER CHILCOTT LABS Div of
+               Warner-Lambert Co., 
+               39. Warner Chilcott Doxycycline Hyclate
+               Tablets, USP 100 mg in bottles of 500 tablets,
+               Manufactured for WARNER CHILCOTT LABS Div of
+               Warner-Lambert Co., 
+               40. WARNER CHILCOTT Doxycycline Hyclate 50 mg
+               capsules, USP in bottles of 50 capsules WARNER
+               CHILCOTT LABS, Div of Warner-Lambert Co.,
+               41. WARNER CHILCOTT Doxycycline Hyclate 100 mg
+               capsules, USP in bottles of 500 capsules
+               Manufactured for: WARNER CHILCOTT LABS, Div of
+               Warner-Lambert Co.  Recall #D-141/143-7.
+CODE           APOTHECON Lots:  4J98931, 4J98942, 4J98953,
+               4K98332, 5F06053, 5F07390, 5F07401, 5G06064,
+               5K09524, 5L09535, 5M08132, 6A18143, 6A18154,
+               6A19452, 6F16377, 6F16388, 6J16668, 6F16701,
+               6J16723, 6L16690.  
+
+                             -7-               The following lot numbers of the brands other
+               than APOTHECON are under recall:  
+               50 mg. capsules:  These products bear seven
+               digit lot numbers and the first three digits
+               are 552.    
+               For lots ending in the number 5:  Lots
+               containing the numbers 02 or a larger number as
+               the fourth and fifth digits and the letter R as
+               the sixth digit.  All codes ending in a 5 and
+               containing the letter W.  
+               For lots ending in the number 6:  All lots
+               containing the letter A, B, C, D, E, F, G, H,
+               K, or M.
+               100 mg. capsules:  These products bear seven
+               digit lot numbers and the first three digits
+               are 553.  
+               For lots ending in the number 5:  All codes
+               containing the letter K, M, R, or W PLUS all
+               codes with the numbers 05 or a larger number in
+               the fourth and fifth positions and containing
+               an H in the code. 
+               For lots ending in the number 6:  All lots
+               containing the letter A, B, C, D, E, F, G, H,
+               or K PLUS all codes with the number/letter
+               combination 01M or 02M. 
+               100 mg. tablets:  These products bear seven
+               digit lot numbers and the first three digits
+               are 581.
+               For lots ending in the number 4:  All codes
+               containing the letter H, K, M, R, or W.
+               For lots ending in the number 5:  All codes.
+               For lots ending in the number 6:  All codes
+               containing the letter A, B, C, D, E, F, G, H,
+               K, or M.
+MANUFACTURER   Houba, Inc., A Subsidiary of Halsey Drug Co.,
+               Inc., Culver, Indiana. 
+RECALLED BY    letter dated January 3, 1997.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 150 million capsules were
+               distributed.
+REASON         ANDA discrepancies and lack of assurance of
+               stability.
+
+_______________
+PRODUCT        Lederle brand Cefaclor Capsules, USP, 250 mg
+               and 500 mg, Rx antibiotic.
+               Recall #D-146/147-7.
+CODE           All lots within expiration date.
+MANUFACTURER   Lederle Laboratories, Pearl River, New York.
+
+                             -8-RECALLED BY    Wyeth-Ayerst Laboratories, St. Davids,
+               Pennsylvania, by letter dated February 19,
+               1997.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       692,229 bottles were distributed.
+REASON         Bulk Cefaclor was recalled b Roussel Corp.
+               (parent firm of Biochimica Opos) due to AADA
+               discrepancies regarding the manufacturing
+               process; AADA was withdrawn.
+
+_______________
+PRODUCT        Lederle brand Cefaclor for Oral Suspension,
+               USP, 125 mg/5 ml, 187 mg/5 ml, 250 mg/5 ml, and
+               375 mg/5 ml, Rx antibiotic.  
+               Recall #D-148/151-7.
+CODE           All lots within expiration date.
+MANUFACTURER   Lederle Laboratories, Pearl River, New York.
+RECALLED BY    Wyeth-Ayerst Laboratories, St. Davids,
+               Pennsylvania, by letter dated February 19,
+               1997.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,433,816 bottles were distributed.
+REASON         Bulk Cefaclor was recalled by Roussel
+               Corporation (parent firm of Biochimica Opos)
+               due to AADA discrepancies regarding the
+               manufacturing process; AADA was withdrawn.
+
+_______________
+PRODUCT        Lederle brand Clindamycin Phosphate Injection,
+               a prescription drug given intramuscularly or
+               intravenously for the treatment of serious
+               infections caused by susceptible anaerobic
+               bacteria:  (a) 2 ml; (b) 4 ml; (c) 6 ml; (d) 60
+               ml vials.  Recall #D-152/155-7.
+CODE           Lot numbers:  (a) 409 835 (EXP 2/97), 409 836
+               (EXP 2/97), 411 803 (EXP 5/97), 417 827 (EXP
+               6/97); (b) 409 837 (EXP 2/97), 409 838 (EXP
+               2/97), 411 804 (EXP 2/97), 413 817 (EXP 6/97),
+               413 818 (EXP 6/97), 417 828 (EXP 6/97), 417 829
+               (EXP 6/97), 417 830 (EXP 7/97)
+               (c) 409 834 (EXP 2/97), 411 801 (EXP 2/97)
+                   411 802 (EXP 6/97), 413 816 (EXP 6/97)
+                   417 825 (EXP 6/97), 417 826 (EXP 7/97)
+                   418 267 (EXP 7/97), 
+               (d) 387 801 (EXP 2/97), 411 800 (EXP 7/97) 413
+               815 (EXP 7/97).
+MANUFACTURER   Lederle Parenterals, Inc., Carolina, Puerto
+               Rico.
+RECALLED BY    Wyeth Ayerst Laboratories, St. Davids,
+               Pennsylvania, by letter dated February 19,
+               1997.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       300,389 vials were distributed.
+                             -9-REASON         Bulk Clindamycin was recalled by Roussel
+               Corporation (parent firm of Biochimica Opos)
+               due to AADA discrepancies regarding the
+               manufacturing process; AADA was withdrawn.
+
+
+RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS III ==========
+_______________
+PRODUCT        Gastrografin (Diatrizoate Meglumine 660 mg/ml
+               and Diatrizoate Sodium, 100 mg/ml Solution,
+               USP), Oral/Rectal Solution in 120 ml bottles a
+               prescription iodinated radiopaque contrast
+               medium.  Recall #D-144-7.
+CODE           Lot #ML015 EXP 11/00.
+MANUFACTURER   Bristol-Myers Squibb Company, Bristol-Myers
+               Squibb U.S. Pharmaceutical and Mead Johnson
+               Nutritional Group, Evansville, Indiana.
+RECALLED BY    Bracco Diagnostics, Inc., Princeton, New
+               Jersey, by letter on February 18, 1997.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       36,012 4-ounce bottles in 3,001 cases of 12
+               bottles each.
+REASON         Presence of foreign substance (small rubber
+               particles from filling machine seal found in
+               several units).
+
+_______________
+PRODUCT        Transderm-Nitro (Transdermal Nitroglycerin) 100
+               mg (0.8 mg/hour), Rx, institutional use only,
+               indicated for the prevention of angina
+               pectoris.  Recall #D-145-7.
+CODE           Lot #C9080 EXP 8/97.
+MANUFACTURER   Reservoir:  Ciba Pharmaceuticals Division (Old
+               Name at time of Manufacturing)
+               Ciba-Geigy Corporation, Summit, New Jersey;
+               System Fabrication: Ivers-Lee (now
+               Sharp/Ivers-Lee) West Caldwell, New Jersey. 
+RECALLED BY    Novartis (formerly Ciba) Pharmaceuticals
+               Corporation, Summit, New Jersey,  by letter
+               February 20, 1997, followed by telephone. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       774 cartons (30 systems per carton) were
+               distributed.
+REASON         Product lacks stability (failed content assay
+               after two years-- Spec is 85-ll0mg/system,
+               found as low as 80%)
+
+                            -10-RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS II =======
+_______________
+PRODUCT        Source Plasma.  Recall #B-558-7.
+CODE           Unit numbers:  EUP416, EUP431, EUP444, EUP458,
+               EUP472, EUP497, HVM413, HVM426, HVM438, HVM461,
+               HVM472, HVM522, HVM577, HVM616, HVM631, HVM644,
+               HVM674, HVM687, HVM702,      HVM732, HVM744,
+               HVM757, HVM766, HVN070, HVN084, HVN092, HVN105,
+               HVN118, HVN128, HVN138, HVN149, HVN175, HVN191,
+               HVN204, HVN217.
+MANUFACTURER   Plasma Services of Montana, Billings, Montana.
+RECALLED BY    Blood Systems, Inc., Scottsdale, Arizona, by
+               letter dated April 17, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Pennsylvania.
+QUANTITY       35 units were distributed.
+REASON         Blood products tested negative for the antibody
+               to the human immunodeficiency virus type 1
+               (anti-HIV-1), but were collected from a donor
+               who previously tested Western blot
+               indeterminate.
+
+_______________
+PRODUCT        Source Plasma.  Recall #B-559-7.
+CODE           Unit numbers:  EUP284, EUP297, EUP313, EUP328,
+               EUP348, EUP359, EUP370, EUP383, EUP395, EUP406,
+               EUP419, EUP446, EUP460, EUP474, EUP484, EUP499,
+               HVM415, HVM427, HVM440,      HVM352, HVM462,
+               HVM473, HVM482, HVM494, HVM511, HVM524, HVM579,
+               HVM594, HVM618, HVM633, HVM646, HVM657, HVM676,
+               HVM689, HVM704, HVM711, HVM720, HVM734, HVM746,
+               HVM755, HVM768, HVM783, HVM794, HVM809, HVM822,
+               HVM835, HVM852, HVM908, HVM919, HVM934, HVM946,
+               HVM962, HVM976, HVM991,      HVN007, HVN030,
+               HVN059, HVN072, HVN086, HVN094, HVN107, HVN120,
+               HVN130, HVN140, HVN151, HVN165, HVN177, HVN193,
+               HVN206, HVN219, HVN232.
+MANUFACTURER   Plasma Services of Montana, Billings, Montana.
+RECALLED BY    Blood Systems, Inc., Scottsdale, Arizona, by
+               letter dated April 19, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Pennsylvania.
+QUANTITY       71 units were distributed.
+REASON         Blood products tested negative for the antibody
+               to the human immunodeficiency virus type 1
+               (anti-HIV-1), but were collected from a donor
+               who previously tested Western blot
+               indeterminate.
+                            -11-_______________
+PRODUCT        (a) Red Blood Cells; (b) Fresh Frozen Plasma. 
+               Recall #B-567/568-7.
+CODE           Unit #5721198.
+MANUFACTURER   Oklahoma Blood Institute, Oklahoma City,
+               Oklahoma.
+RECALLED BY    Manufacturer, by fax and telephone on November
+               28 and 29, 1995.  Firm-initiated recall
+               complete.
+Distribution   Massachusetts and New York.
+QUANTITY       1 unit of each component was distributed.
+REASON         Blood products were collected from a donor who
+               reported a diagnosis of cancer.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-570-7.
+CODE           Unit #38FE17220.
+MANUFACTURER   American Red Cross Blood Services, Fort Wayne,
+               Indiana.
+RECALLED BY    Manufacturer, by telephone on October 8, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Indiana.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was collected from a donor who
+               reported travel to an area considered endemic
+               for malaria.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; � Recovered
+               Plasma.  Recall #B-575/577-7.
+CODE           Unit #13FN05688.
+MANUFACTURER   American Red Cross Blood Services, Detroit,
+               Michigan.
+RECALLED BY    Manufacturer, by letter dated October 16, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Michigan.
+QUANTITY       1 unit of each component was distributed.
+REASON         Blood products were collected from a donor
+               taking the drug Proscar.
+
+_______________
+PRODUCT        Blood Storage Freezers, 20 cubic feet chest
+               units and 13 cubic feet upright unit.
+               Recall #B-592-7.
+Code           Brand       Model Number     Serial Number
+               Baxter      RC2090A12        3l5l82
+               Baxter      RCUl386Al4       3l8792
+               Jewett      LTUR-13V14       314749
+               Revco       UFRC1386-5-A12   316149
+               Revco       UFRC1386-7-A14   320399.
+MANUFACTURER   Revco Lindberg, Ashville, North Carolina.
+
+                            -12-RECALLED BY    Manufacturer, by telephone followed by fax the
+               week of March 3, 1997.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Arizona, California, Iowa, Chile, Honduras.
+QUANTITY       5 units were distributed.
+REASON         Blood storage freezers have failing/defective
+               compressors. 
+
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS III =======
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-551-7.
+CODE           Unit numbers: 12FQ39762, 12FQ39735, 12LF47760,
+               12LF47758, 12LE46283, 12LE46280, 12LW21408,
+               12LW21409, 12FN21077, 12FN21075, 12FN21028,
+               12FN21074, 12FN21099, 12FN21088, 12FN21085,
+               12FN21092.
+MANUFACTURER   American Red Cross Blood Services, Charlotte,
+               North Carolina.
+RECALLED BY    Manufacturer, by telephone on December 30 and
+               31, 1996, January 1 and 30, 1997.  Firm-
+               initiated recall complete.
+DISTRIBUTION   North Carolina.
+QUANTITY       16 units were distributed.
+REASON         Blood products may have been exposed to
+               unacceptable shipping temperatures.
+
+_______________
+PRODUCT        Platelets, Pheresis.  Recall #B-557-7.
+CODE           Unit numbers 10000468 and 10000470.
+MANUFACTURER   W.E. and Lela I. Stewart Blood Center, Inc.,
+               Tyler, Texas.
+RECALLED BY    Manufacturer, by letter dated January 17 or 28,
+               1997.  Firm-initiated recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       2 units were distributed.
+REASON         Blood products were incorrectly tested for the
+               antibody to the human immunodeficiency virus
+               types 1 and 2 (anti-HIV-1/2).
+
+_______________
+PRODUCT        Abbott HIVAG-1 Monoclonal EIA Kit, Antibody to
+               Human Immunodeficiency Virus Type 1 (HIV-1). 
+               Recall #B-563-7.
+CODE           Masterlots to be destroyed: 20387M401,
+               20388M401, 21204M201, 21205M201, 21259M101,
+               21260M101, 21375M401, 21376M401, 21453M301,
+               21454M301, 21456M301, 21673M201, 21674M201,
+               22043M201, 22182M401, 22371M101, 22383M301,
+               22384M301, 23087M401, 23088M401, 23286M401, 
+               23287M401, 23812M101, 24035M201, 24560M401,
+               25006M401, 25491M101
+
+                            -13-               Masterlots to be relabeled with new expiration
+               dates:
+               22181M401   25345M301   23705M201   25347M301  
+               23821M101   25770M201   24077M401   25778M201  
+               24476M301   25780M201   24495M201   26268M101  
+               24529M201   26425M101   24681M301   26706M201.
+MANUFACTURER   Abbott Laboratories, Diagnostic Division,
+               Abbott Park, Illinois.
+RECALLED BY    Manufacturer, by letter on March 31, 1997. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       5,632 - 100 test kits and 7,813 - 1000 test
+               kits were distributed. 
+REASON         HIVAG-1 Monoclonal masterlots does not
+               consistently meet the Positive Control validity
+               requirement through the currently labeled
+               expiration dating.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-569-7.
+CODE           Unit #23132-1171.
+MANUFACTURER   United Blood Services, Billings, Montana.
+RECALLED BY    Blood Systems, Inc., Scottsdale, Arizona, by
+               letter dated October 9, 1996.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Montana.
+QUANTITY       1 unit was distributed.
+REASON         Blood product remained at room temperature for
+               more than 30 minutes.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-578-7.
+CODE           Unit numbers:  12419-2389, 12418-7597, 12418-
+               7596, 12418-7595, 12418-7594, 12418-7593,
+               12418-7592, 12418-7591, 12418-7590, 12418-7589,
+               12418-7588.
+MANUFACTURER   United Blood Services, Albuquerque, New Mexico.
+RECALLED BY    Blood Systems, Inc., Scottsdale, Arizona, by
+               telephone on September 11, 1996.  Firm-
+               initiated recall complete.
+DISTRIBUTION   New Mexico.
+QUANTITY       11 units were distributed.
+REASON         Blood products were prepared from units of
+               whole blood that were exposed to temperatures
+               exceeding 10 degrees C.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS
+II =========
+_______________
+PRODUCT        Baxter InterLink System T-Connector Extension
+               Sets with Luer Slip Adapters, 
+               (a) Catalog No. 2N3326, InterLinkR System
+               T-Connector Extension Set
+                            -14-               (b) Catalog No. 2N3329, InterLinkR System  
+               T-Connector Extension Set
+               (c) Catalog No. 2N3330, InterLinkR System Dual
+               Line T-Connector Extension Set
+               (d) Catalog No. 2N3332, InterLinkR System
+               T-Connector Extension Set, 0.22 Micron Filter 
+               (e) Catalog No. 3C0007, InterLinkR System
+Continu-Flo Solution Set, 3-Way Stopcock,
+T-Connector Extension Set 
+               (f) Catalog No. 3C0026, InterLinkR System
+               BuretrolR Solution  Set, Extension Set, 3-Way
+               Stopcock,  T-Connector Extension Set
+               (g) Catalog No. 3C0028, InterLinkR System
+               Continu-FloR Solution Set, 3-Way Stopcock,
+               T-Connector Extension Set 
+               (h) Catalog No. 3C0047, InterLinkR System 4-Way
+               Large Bore Stopcock Extension Set, T-Connector
+               Extension Set  
+               (i) Catalog No. 3C0050, InterLinkR System
+               Continu-FloR Set, Three 4-Way Stopcocks
+               Extension Set, T-Connector Extension Set
+               (j) Catalog No. 1C8567, InterLinkR System
+               Extension Set, T-Connector Set
+               (k) Catalog No. 1C8571, InterLinkR System
+               Extension Set, T-Connector.
+               Recall #Z-408/418-7.
+CODE           All lots.
+MANUFACTURER   Baxter Healthcare Corporation, Aibonito, Puerto
+               Rico and Cleveland, Mississippi.
+RECALLED BY    Baxter Healthcare Corporation, Round Lake,
+               Illinois, by letter dated March 14, 1997. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       4,990,004 sets were distributed; firm estimated
+               that 5 percent remained on market at time of
+               recall initiation.
+REASON         The luer slip adapter of the InterLinkR
+               T-Connector Extension Set may inadvertently
+               disconnect from mated connections.
+
+_______________
+PRODUCT        Chocolate II Agar Plates, for in-vitro
+               diagnostic use, Catalog Nos. 4321169 & 4321267. 
+               Recall #Z-423-7.
+CODE           Lot Nos. A3RTWG, A3RTWZ, A3RTXJ, A3RTXNK,
+               A3RTYB, A4RTZZ, A4RUAA, A4RUAN, A4RUAR, A4RUBN,
+               A4RUGF, BIRUGU, BIRUGU, BIRUHJ, B2RUJZ, B2RUKR,
+               B2RULM, B2RULL, B2RUMF, B3RUMI, B3RUNB, B3RUNX,
+               B3RUOL, B3RUPA, B3RUPO, B3RUPB, B3RUPX, B3RUPP,
+               B3RUPZ, B4RUST, B4RUTM, B4RUUA, B4RUWA, C2RUYW, 
+                    C2RUZS, C3RWBI, C3RWCH, C3RWCZ, C3RWGN, 
+
+                            -15-               C4RWHB, C4RWHX, C4RWIR, C4MWJF, C4RWJG, C4RWIZ,
+               C4RWJU, C5RWKK, C5RWLC, C5MWNH, C5RWLX, C5RWMI,
+               C5RWMJ. 
+MANUFACTURER   Becton Dickinson Microbiology Systems,
+               Cockeysville, Maryland.
+RECALLED BY    Manufacturer, by letter dated January 21, 1997. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       4,026,980 units were distributed.
+REASON         There was decreased growth of QC organism
+               Haemophilus Influenzae. 
+
+_______________
+PRODUCT        Abbott IMx & AxSYM PSA (Prostate Specific
+               Antigen) Reagent Packs, for in-vitro diagnostic
+               use: 
+               (a) IMx Kit, Catalog No. 2245-20,  
+               (b) AxSYM Kit, Catalog No. 7A49-20.  
+               Recall #Z-424/425-7. 
+CODE           Lot Numbers:  (a) 25102Q100, 25104Q100,
+               25107Q100, 26646Q100, 23569Q100, 25103Q100
+               (b) 23523Q100, 23523Q101, 23535Q100,   
+               23535Q101, 23547Q100, 24236Q100, 24236Q101,
+               24239Q100, 25245Q100, 25246Q100, 25293Q100,
+               25414Q100, 25415Q100, 25440Q100, 25441Q100,
+               25441Q101, 25442Q100, 25442Q101, 25443Q100,
+               25443Q101.
+MANUFACTURER   Abbott Health Products, Inc., Barceloneta,
+               Puerto Rico.
+RECALLED BY    Abbott Laboratories, Diagnostic Division,
+               Abbott Park, Illinois, by telephone on March
+               20, 1997, followed by letter.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       (a) 14,244 packs; (b) 28,138 packs were
+               distributed; firm estimated that 50 percent of
+               product remained on market at time of recall
+               initiation.
+REASON         The kits give falsely elevated PSA values with
+               samples from patients who have undergone
+               radical prostatectomies.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III ========
+_______________
+PRODUCT        Simon Nitinol Filter Set, indicated for use in
+               the prevention of recurrent pulmonary embolism
+               via placement in the vena cava via a
+               jugular/femoral approach.  Recall #Z-426-7.
+CODE           Catalog #2220J, Lot #509126D.
+MANUFACTURER   Nitinol Medical Technologies, Inc., Boston,
+               Massachusetts.
+
+                            -16-RECALLED BY    Manufacturer, by letter of March 5, 1997. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Alabama, New Jersey, Ohio, Pennsylvania.
+QUANTITY       7 units were distributed.
+REASON         The outer box label indicated catalog no. 2120F
+               (Femoral), which is incorrect while the inner
+               pouch was labeled 2220J (Jugular) which is
+               correct.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS II ===========
+_______________
+PRODUCT        Nutrena Super 20 Dairy Pellets (non-medicated). 
+               Recall #V-035-7.
+CODE           None.
+MANUFACTURER   Cargill Nutrena Feed, Wilson, North Carolina.
+RECALLED BY    Cargill Animal Nutrition Division, Wayzata,
+               Minnesota, by telephone on February 10, 1997. 
+               Firm-initiated recall complete.
+DISTRIBUTION   North Carolina.
+QUANTITY       46,830 pounds were distributed.
+REASON         The Nutrena Super 20 Dairy Pellets
+               (non-medicated) were loaded onto a truck
+               containing a swine feed medicated with
+               chlortetracycline, sulfamethazine and
+               penicillin (ASP) and delivered to two dairies
+               as a non-medicated feed.
+
+                            -17-
+
+
+END OF ENFORCEMENT REPORT FOR April 16, 1997.  BLANK PAGES MAY FOLLOW.
+
+                                   ####
+
+
+
+
+  
+ End of Enforcement Report for 
+  
+
+  
+  
+    
+  
+

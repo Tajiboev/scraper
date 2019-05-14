@@ -1,0 +1,716 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  DEC
+		  Mar
+		
+		
+		
+		  
+		  28
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      23 captures
+	      19 Aug 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DO
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+  September 17, 1997                                              
+                                  97-38
+  
+  RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I ============
+  _______________
+  PRODUCT      Surimi (Imitation Crab) Spread.  The 8 oz. 
+               containers are labeled as "Surimi Crab Spread" 
+               and the 4 lb. containers are labeled as
+               "Imitation Crab Spread".  Recall #F-819-7.
+  CODE         8 oz. containers with "Use by" date "8/31/97";
+               4 lb. containers
+               are uncoded and thus are all under recall.
+  MANUFACTURER Silver Creek Farms, Twin Falls, Idaho.
+  RECALLED BY  Manufacturer, on or about August 12, 1997, 
+               and by press release on August 13, 1997.           
+               Firm-initiated recall complete.
+  DISTRIBUTION Oregon, Utah, Idaho, Wyoming, Nevada.
+  QUANTITY     558 pounds distributed.  This is broken down 
+               into 53 cases (12-8 ounce cups per case) and 20    
+               cases (3-4 pound tubs per case).  
+  REASON       The product is contaminated with Listeria
+               monocytogenes.
+  
+  _______________
+  PRODUCT      Strawberry Frozen Yogurt, in 3 gallon tubs, 1/2
+               gallon, quart, and pint containers, under the following
+               labels:  Our Own, Licks, and Muhlenberg Foods.
+               Recall #F-820-7.
+  CODE         161.
+               MANUFACTURER Muhlenberg Foods, Reading,
+               Pennsylvania.RECALLED BY Manufacturer, by telephone 
+               on July 31, 1997, and by press release 
+               on August 1, 1997.  Firm-initiated recall ongoing.
+  DISTRIBUTION Pennsylvania.
+  QUANTITY     12 pint, 40 quart, 38 half gallon, and 11 3-gallon
+               containers.
+  REASON       Product is contaminated with Listeria
+               monocytogenes.
+  
+  _______________
+  UPDATE       Refrigerated potato salad products, which appeared
+               in the September 3, 1997 Enforcement Report is being
+               updated as follows:
+  PRODUCT      Refrigerated Potato Salad Products produced by
+               Orval Kent Food Products in 1 lb., 2 lb. and 3 lb.
+               plastic retail containers under the Orval Kent,
+               Pathmark, Demoulas, Giant of Landover Maryland,
+               Acme Markets and Marsh Supermarkets labels and
+               five and ten lb. bulk containers under the
+               Orval Kent (also 30 lb.), Salad Plus, Signature Salads,
+               Signature Delights, Sysco Classic, Sysco Block
+               & Barrel, Alliant, PYA Monarch, Matthew's Salad
+               House and Metromedia labels as follows:
+               a) Orval Kent Deluxe Potato Salad, 3/10 lb., UPC
+               79453-13005
+               b) Alliant Prestige Mustard Potato Salad with
+               Salad Dressing,
+               Alliant Foodservice Inc., Dist., Deerfield, IL 
+               60015, 3/10 lb.,
+               UPC 08077-84131
+               c) Alliant Prestige American Potato Salad with
+               Salad Dressing,
+               3/10  lb., UPC 08077-84132
+               d) Alliant Prestige American Potato Salad with
+               Mayonnaise, 3/10 lb.,  UPC 08077-84138 
+               e) Sliced Mustard Potato Salad 
+                i) PYA Monarch, Dist. by P.Y.A./Monarch, 
+                Virginia Beach, VA 23455-3701, 1/10
+                lb., UPC 86270-01457
+                ii) Orval Kent, 3/10 lb., UPC 79453-40204
+               f) Diced Potato Salad with Egg
+                i) Super G, Distributed by Super G, Inc.,
+                Landover, MD 20785 12/1 lb.
+                ii) Orval Kent, 3/10 lb., UPC 79453-40304
+               g) Orval Kent Classic Potato Salad, 2/5 lb., UPC
+                79453-40756
+               h) Sliced Potato Salad with Egg
+               i) Acme Corner Deli Cuisine, Distributed by
+                   Acme Markets, Inc., Malvern, PA 19355,
+                   12/1 lb., UPC 79453-04453
+               ii) Sysco, Distributed by Sysco Corporation,
+               Houston, TX 77077-2099, 3/10 lb., UPC
+               74865-10108
+                                                                 
+              iii) Orval Kent, 3/10 lb., UPC 79453-41004
+                  1/10 lb., UPC 79453-44106
+               i) Baked Style Potato Salad
+               i) Orval Kent, 2/5 lb., UPC 79453-41756
+               ii) Alliant Prestige, 2/5 lb., UPC
+               08077-70502
+               j) Orval Kent Amish Potato Salad, 1/10 lb.,
+               UPC 79453-41804
+               k) Metromedia Steakhouses Company, L.P. Southern
+                 Style Potato
+                 Salad, Mfg. by Orval Kent Food Company, Inc.,                                                               
+                 Wheeling, IL
+                 60090 for Exclusive Use in the Metromedia
+                 Steakhouses Company,
+                 LP, 3/10 lb.
+               l) German Potato Salad
+               i) Sysco, 1/10 lb., UPC 74865-07978
+               ii) Pathmark, Packed for Pathmark Stores,
+               Inc., Woodbridge, NJ 07086, 12/1 lb.,
+               UPC 020670
+                iii) Orval Kent, 2/5 lb., UPC 79453-45200
+                                   1/10 lb., UPC 79453-45204
+               m) Diced Potato Salad
+                I) Orval Kent, 6/5 lb., UPC 79453-01313
+                   6/3 lb., UPC 79453-42815
+                   3/10 lb., UPC 79453-42883
+                                   6/2 lb., UPC 79453-42885
+                                   1/10 lb., UPC 79453-42886
+                                   12/1 lb., UPC 79453-42888
+                ii) Sysco, 3/10 lb., UPC 74865-18777
+                iii) Orval Kent Canadian label, 1/10 lb., UPC
+                79453-20842 6/3 lb., UPC 79453-28526
+                n) Orval Kent 100% Fat Free Potato Salad, 1/10
+                 lb.,  UPC 79453-43004
+                o) Fat Free Roasted Garlic Red Potato Salad
+                 i) Orval Kent Signature Delights, 2/5 lb.,
+                 UPC 79453-43387
+                 ii) Sysco Imperial, 2/5 lb., UPC 74865-40707
+                 p) Sliced White Potato Salad
+                 i) Demoulas, Distributed by Demoulas
+                 Supermarket, Tewksbury, MA 01876, 12/1
+                 lb., UPC 70226-65006
+                 ii) Sysco, 3/10 lb.
+                 iii) Orval Kent, 3/10 lb., UPC 79453-44001
+                 and 1/10 lb.
+                q) Sysco Reduced Fat Country Style Potato
+                 Salad with Egg, 3/10 lb., UPC 74865-31311
+                 r) Red Skinned Potato Salad
+                 i) Orval Kent Signature Delights, 2/5 lb.,
+                 UPC 79453-44787
+                 ii) Alliant Prestige, 2/5 lb., UPC
+                 08077-70503
+                 s) Country Style Potato Salad with Egg
+                 i) PYA Monarch, 1/10 lb., UPC 86270-07179
+                 ii) Sysco, 3/10 lb., UPC 74865-18775
+                   
+                 iii) Orval Kent, 1/10 lb., UPC 79453-45904
+                      1/30 lb., UPC 79453-45949
+                  iv) Orval Kent Homestyle Egg & Potato
+                   Salad, 2/5 lb., UPC 79453-45000
+                  t) Southern Style Mustard Potato Salad
+                  i) PYA Monarch, 1/10 lb., UPC 86270-01456
+                  ii) Orval Kent, 1/10 lb. and 1/10 lb., UPC
+                  79453-43104
+                  u) Orval Kent Low Country Potato Salad, 1/10
+                  lb.,  UPC 79453-45704
+                  v) Sliced Potato Salad with Vegetables
+                  i) Chilled Salad, Distributed by G.D.
+                  Matthews & Sons, Charlestown, MA 02129,
+                    3/10 lb.
+                 ii) Pathmark, 12/1 lb. 6/2 lb. 6/3 lb.
+                iii) Orval Kent, 6/3 lb., UPC 79453-45815
+                     12/1 lb., UPC 79453-45888
+                     3/10 lb., UPC 79453-45849
+                w) Diced Mustard Potato Salad
+                 i) Acme Corner Deli Cuisine, 12/1 lb., UPC
+                 79453-05653 6/2 lb., UPC 79453-05953
+                 ii) Orval Kent, 3/10 lb., UPC 79453-46301
+                     6/3 lb., UPC 79453-46315
+               x) Homestyle Potato Salad
+                 i) Deli Fresh at Marsh, Dist. by Marsh
+                   Supermarkets, Inc., Indianapolis, IND
+                     46256-3350, 12/1 lb., UPC 79453-46425 
+                 ii) Orval Kent, 1/10 lb., UPC 79453-46404
+               y) Orval Kent Red Royale Potato Salad, 2/5
+                  lb., UPC 79453-41456
+               z) Sysco Southern Style Mustard Potato Salad,      
+                    
+                   3/10 lb.,  UPC 74865-33830
+               aa) Super G Diced Potato Salad with
+                    Vegetables, 6/2 lb., 3/10 lb., UPC 
+                    79453-14001, 12/1 lb.
+               bb) Alliant Prestige Gourmet Potato Salad, 2/5
+                    lb.,  UPC 08077-70504
+               cc) Orval Kent Signature Specialties Natural
+                   Potato & Herb Salad 2/5 lb., UPC
+                   79453-80056
+               dd) Orval Kent Signature Specialties Red
+                   Potato & Egg Salad Supreme, 2/5 lb., UPC
+                   79453-80656
+               ee) Sour Cream & Dill Potato Salad
+                   i) Salads Plus, Dist by Orval Kent, 3/10
+                      lb. and 1/10 lb., UPC 79453-88005
+                  ii) Block & Barrel Deluxe Potato Salad,
+                      Dist. by Sysco Corp., 2/5 lb., UPC
+                      74865-40685.  Recall# F-684/F-713-7.
+  CODE         All potato salad products with expiration dates
+               prior to September 15, marked with the code "W7", 
+               i.e. SEP15W7.
+  MANUFACTURER Orval Kent Food Company, Inc., Wheeling,
+               Illinois.
+  RECALLED BY  Manufacturer beginning on August 4, 1997. 
+               Firm-initiated recall
+                 ongoing.
+  DISTRIBUTION Nationwide, Puerto Rico, and Canada.
+  QUANTITY     5,644,170 pounds were distributed.
+  REASON       Potato salads may be contaminated with Listeria
+               monocytogenes.
+  
+  
+  RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II ===========
+  _______________
+  PRODUCT      Pepperidge Farm Frozen Assorted Mini & Large
+               Danish Pastries:
+               a) Pepperidge Farm Frozen Assorted Mini Danish
+                  Pastries UPC# 510006747;
+               b) Pepperidge Farm Frozen Assorted Large Danish
+                 Pastries UPC# 510007812.  Recall #F-809/810-7.
+  CODE         All product with "use by" dates between April 21,
+               1997 and August 14, 1997.
+  MANUFACTURER Campbell Soup National HQ, Camden, New Jersey.
+  RECALLED BY  Pepperidge Farms, Inc., Norwalk, Connecticut, by
+               letter dated February 20, 1997.
+               Firm-initiated recall complete.
+  DISTRIBUTION Nationwide.
+  QUANTITY     a) 37,064 cases (96 pastries per case); b) 14,730
+               cases (48 pastries per case) were distributed.
+  REASON       The pastries contain excessive levels of sulfites.
+  
+  _______________
+  PRODUCT      Cock brand Tapioca Pearl.  Recall #F-811-7.
+  CODE         All including EMB 75113N (Best Before 1996).
+  MANUFACTURER Unknown in Thailand.
+  RECALLED BY  Hong Thai Foods Corporation, Brooklyn, New York,
+               by letter dated
+               April 7, 1997.  Firm-initiated recall complete.
+  DISTRIBUTION New York, New Jersey, Pennsylvania, Connecticut,
+               Massachusetts, Illinois, Virginia, Florida.
+  QUANTITY     49 cases were distributed.
+  REASON       Product contains the following undeclared colors: 
+               FD&C Yellow, No. 5, FD&C Blue No. 1, and FD&C Red No. 3.
+  
+  _______________
+  UPDATE       Brown Sugar, in 1, 2, 4, 25, 50 and 100 lb
+               packages.  Recall #F-806-7, which appeared in the 
+               September 10, 1997 Enforcement Report should read:
+  CODE         Lot #46092/46106.
+  RECALLED BY  Manufacturer, on or about May 5, 1996.
+                              
+  QUANTITY       Approximately 2 million pounds.
+  
+  
+  RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III ==========
+  _______________
+  PRODUCT      Ensure Plus, vanilla flavored, high-calorie
+               nutritional drink, packed in 8 fluid ounce plastic cans.  Recall #F-808-7.
+  CODE         Cans are identified with lot code: 28778L5 EXP1
+               MAY 98.
+  MANUFACTURER Ross Products Division, Columbus, Ohio.
+  RECALLED BY  Manufacturer, by telephone on June 24, 1997,
+               followed by fax. 
+               Firm-initiated recall ongoing.
+  DISTRIBUTION Nationwide.
+  QUANTITY     2,208 cases were distributed.
+  REASON       Product bears the label of another food and               
+               contains erroneous label information regarding identity and nutrient
+               content.
+  
+  
+  RECALLS AND FIELD CORRECTIONS:  COSMETICS -- CLASS II =======
+  _______________
+  PRODUCT      Nectar Watermist a non alcohol body spray made
+               from natural distilled water extracted from blossoms of
+               orange trees packaged into .5 ounce, 4 ounce, 8 ounce
+               and 16 ounce glass bottles.  Recall #F-807-7.
+  CODE         The codes under recall consists of all product
+               codes shipped prior to July 28, 1997 and includes the
+               following items: 
+               4 oz. Nectar WaterMist Item #FG-8120D-00           
+               Packaging Lot #s 71611, 71621, 71631;
+               8 oz. Nectar WaterMist, Item #FG-8123D-00,         
+               Packaging Lot #s 71641, 71651; 
+               8 oz. Nectar WaterMist (tester), Item #               
+               PG-7427D-00, Packaging
+               Lot #s 71641, 71651;
+               Bulk lot #s
+               .5 oz Nectar (tester) sample, Item # PG-7421D-00,
+               Packaging lot #7F09A (only given to sales reps);
+               Dramming/Nectar bulk (3 X 16 oz.), Item #PG-7740D-00,
+               Packaging Lot#  7F09A.
+  MANUFACTURER Allure Cosmetics, San Leandro, California  Herba
+               Aromatica, Hayward, California (importer of scented  
+               floral water).
+  RECALLED BY  The Donna Karan Beauty Company (DKBC) New York,
+               New York, by telephone visit and fax beginning on
+               July 28, 1997, followed by letter on August 1, 1997.
+               Firm-initiated recall ongoing.
+  
+ DISTRIBUTION  California, New York, Washington state, Oregon,
+               Virginia, Pennsylvania, Maryland, New Jersey,
+               Massachusetts, Connecticut, Florida, Minnesota, 
+               Illinois, Wisconsin, Indiana, Michigan, Texas.
+ QUANTITY      Item #FG-8120D-00 - 3,606 units - 4 oz Nectar
+               Item #FG-8123D-00 - 1,967 units - 8 oz Nectar
+               Item #PG-7427D-00 - 713 units - 8 oz Watermist
+               Item #PG-7426D-00 - 4,028 units - 5 oz Nectar
+               Item #PG-7440D-00 - 65 units - Dramming bulk 
+               (3 x16 oz) were distributed. 
+ REASON        Product is contaminated with Burkholderia cepacia,
+               a pathogen.
+  
+  
+  RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+  ===========
+  _______________
+  PRODUCT      Thiopental Sodium for Injection, USP, 5 gram/vial,
+               in 200 ml vials, in 10 packs of vials of Thiopental
+               Sodium without kits under the Gensia label, kits and
+               vial ten packs) and the Ohmeda label (kits), for
+               preparation of intravenous stock solution only.  
+               Recall #D-265-7.
+  CODE         Lot numbers:  P6P825,P7A817, P7A818 (Ohmeda Kit
+               label),
+               P6A317P1, P6P312, (Gensia label/10 pak) and
+               P6S815 (Gensia Kit label).
+  MANUFACTURER Gensia Laboratories, Ltd., Irvine, California.
+  RECALLED BY  Manufacturer, by letter on April 21, 1997. 
+               Firm-initiated recall complete.
+  DISTRIBUTION Nationwide and Puerto Rico.
+  QUANTITY     Approximately 7,900 kits and 9,000 vials in ten
+               packs were distributed.
+  REASON       Vials were found to contain glass particles.
+  
+  _______________
+  PRODUCT      Captopril (Capoten) 25 mg Tablets, individually (1
+               tablet) labeled, single blister packed tablets with
+               labeled single unit plastic overwrap, Rx, used in the 
+               treatment of hypertension.
+               Recall #D-266-7.
+  CODE         Lot #J5J65A EXP 8/99.
+  MANUFACTURER ER Squibb & Sons, Inc., Division of Bristol Myers
+               Squibb, Medical Department, Princeton, New Jersey.
+  RECALLED BY  AmeriSource Health Services, doing business as
+               American Health Packaging (AHP), Columbus, Ohio,
+               by telephone on or about October 22, 1996.
+               Firm-initiated recall ongoing.
+  DISTRIBUTION Ohio, Tennessee, Massachusetts.
+  
+  QUANTITY     130 amber bags (13,000 tablets) were distributed. 
+               Firm estimates none remains on the market.
+  REASON       Labeling error:  Incorrect product identification
+               - Plastic overwrap declares the product as Warfarin
+               Sodium (Coumadin) 2 mg Tablets.  Each individual
+               blister label is correctly labeled.
+  
+  
+  RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III ==========
+  _______________
+  PRODUCT      Ciprofloxacin HCl (Cipro), 500 mg tablets,
+               individually (1 tablet) labeled single blister packed
+               tablets with a plastic overwrap, an antibiotic. 
+               Recall #D-264-7.
+  CODE         Lot #6BCJ EXP 2/99.
+  MANUFACTURER Bayer Corporation Pharmaceutical Division, West
+               Haven, Connecticut..
+  RECALLED BY  AmeriSource Health Services, Columbus, Ohio, doing
+               business as American Health Packaging (AHP), by
+               telephone on or about March 11, 1997.  Firm-initiated
+               recall ongoing.
+  DISTRIBUTION Ohio, Tennessee, Massachusetts.
+  QUANTITY     90 amber bags (9,000 tablets) were distributed;
+               firm estimates none remains on the market.
+  REASON       Labeling:  error on declared strength.  Plastic
+               overwrap declares the product as 250 mg.
+  
+  _______________
+  UPDATE       Recall #D-171-7, Regular Strength Enteric Coated
+               Aspirin Tablets, 325 mg, packaged in 100, 250, and
+               500 count bottles of various lots, which appeared in
+               the May 14, 1997 Enforcement Report as a Class II 
+               recall has been reclassified to a Class III recall.
+  
+  _______________
+  UPDATE       Recall #D-259/260-7, Baclofen Tablets which
+               appeared in the September 10, 1997 Enforcement Report
+               should read:  MANUFACTURER: Biocraft Laboratories,
+               Elmwood Park, New Jersey.
+  
+  
+  RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II =======
+  _______________
+  PRODUCT      Red Blood Cells.  Recall #B-1193-7.
+  CODE         Unit #M46536.
+  MANUFACTURER Lane Memorial Blood Bank, Eugene, Oregon.
+  RECALLED BY  Manufacturer, by visit on October 8, 1996. 
+               Firm-initiated recall complete.
+  DISTRIBUTION   Oregon.
+  QUANTITY     1 unit was distributed.
+  REASON       Blood product was collected from a donor who
+               engaged in high risk behavior.
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Red Blood Cells, Leukocytes
+                  Reduced; c) Platelets; d) Fresh Frozen Plasma.
+                  Recall #B-1344/1347-7.
+  CODE         Unit numbers:  a) 29123-1232, 29092-0971,
+               29128-0189, 29093-9146, 29119-4436, 29125-8658,
+               29122-3879, 29082-2745, 29081-2570; b) 29131-8807;
+               c) 29123-1232, 29092-0971, 29093-9146, 29125-8658,
+               29122-3879, 29131-8807; d) 29123-1232, 29092-0971,     
+               29128-0189, 29122-3879, 29082-2745, 29081-2570.
+  MANUFACTURER United Blood Services, Chicago, Illinois.
+  RECALLED BY  Manufacturer, by letter on either May 30, 1996,
+               June 5, 1996, or July 5, 1996.  Firm-initiated recall
+               complete.
+  DISTRIBUTION Illinois, Florida, Switzerland.
+  QUANTITY     a) 9 units; b) 1 unit; c) 6 units; d) 6 units were
+               distributed.
+  REASON       Blood products tested negative for the antibody to
+               the human T-lymphotropic virus I (anti-HTLV-1) but
+               were collected from donors who previously tested
+               repeatedly reactive for anti-HTLV-1, Western blot
+               negative or indeterminate.
+  
+  _______________
+  PRODUCT      Platelets, Pheresis.  Recall #B-1350-7.
+  CODE         Unit #21P69503.
+  MANUFACTURER American Red Cross, Portland, Oregon.
+  RECALLED BY  Manufacturer, by telephone on June 12, 1997, and
+               by letter dated June 17, 1997. 
+               Firm-initiated recall complete.
+  DISTRIBUTION Oregon.
+  QUANTITY     1 unit was distributed.
+  REASON       Blood product had an unacceptable platelet count.
+  
+  _______________
+  PRODUCT      Platelets.  Recall #B-1368-7.
+  CODE         Unit #25FR70821.
+  MANUFACTURER American Red Cross Blood Services, Syracuse, New
+               York.
+  RECALLED BY  Manufacturer, by letter dated November 3, 1995. 
+               Firm-initiated recall complete.
+  DISTRIBUTION New York.
+  QUANTITY     1 unit was distributed.
+  REASON       Platelets were prepared from a unit of whole blood
+               designated as "difficult" phlebotomy.
+  
+  _______________
+  PRODUCT      Red Blood Cells, Washed.  Recall #B-1378-7.
+  CODE         Unit numbers:  16337-4457, 16337-4456, 
+               16337-4474, 16337-7805.
+  MANUFACTURER Blood Systems, Inc., Hattiesburg, Mississippi.
+  RECALLED BY  Manufacturer, by letter dated March 21, 1997. 
+               Firm-initiated recall ongoing.
+  DISTRIBUTION Mississippi.
+  QUANTITY     4 units were distributed.
+  REASON       Blood products were labeled with extended
+               expiration dates.
+  
+  _______________
+  PRODUCT      a) Cryoprecipitate; b) Fresh Frozen Plasma. 
+               Recall #B-1387/1388-7.
+  CODE         Unit numbers:  a) 8580139 and 8551475; 
+               b) 8574398 and 8526946.
+  MANUFACTURER The Blood Center, New Orleans, Louisiana.
+  RECALLED BY  Manufacturer, by letter and or telephone between
+               September 8, 1995 and October 9, 1995.
+               Firm-initiated recall complete.
+  DISTRIBUTION Louisiana.
+  QUANTITY     2 units of each component were distributed.
+  REASON       Blood products contained anti-D antibodies, but
+               were labeled as negative for unexpected antibodies.
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Platelets.  
+               Recall #B-1402/1403-7.
+  CODE         Unit numbers:  a) 16339-7346, 16339-7344,
+               16339-7341; b) 16339-7347, 16339-7346, 16339-7344,
+               16339-7343, 16339-7342, 16339-7341, 16339-7340,
+               16339-7000.
+  MANUFACTURER Blood Systems, Inc., Meridian, Mississippi.
+  RECALLED BY  Manufacturer, by telephone on June 3, 1997. 
+               Firm-initiated recall
+               complete.
+  DISTRIBUTION Mississippi.
+  QUANTITY     a) 3 units; b) 8 units were distributed.
+  REASON       Blood products were tested using samples that were
+               stored at an unacceptable temperature.
+  
+  _______________
+  PRODUCT      Red Blood Cells.  Recall #B-1404-7.
+  CODE         Unit numbers:  16339-8033, 16339-8036, 16339-8037,
+               16339-8039, 16339-8041, 16339-8042, 16339-8044,
+               16339-8045, 16339-8046, 16339-8047, 16339-8048,
+               16339-8050, 16339-8051, 16339-8052.
+  MANUFACTURER Blood Systems, Inc., Meridian, Mississippi.
+  RECALLED BY  Manufacturer, by telephone on June 9, 1997. 
+               Firm-initiated recall complete.
+  DISTRIBUTION Mississippi.
+  QUANTITY     14 units were distributed.
+  REASON       Blood products were tested using samples that were
+               stored at an unacceptable temperature.
+  _______________
+  PRODUCT      Red Blood Cells.  Recall #B-1408-7.
+  CODE         Unit #8637621.
+  MANUFACTURER The Blood Center, New Orleans, Louisiana.
+  RECALLED BY  Manufacturer, by telephone June 7, 1996. 
+               Firm-initiated recall complete.
+  DISTRIBUTION Louisiana.
+  QUANTITY     1 unit was distributed.
+  REASON       Blood product was not properly tested for HIV-Ag.
+  _______________
+  UPDATE       United Blood Services, Scottsdale, Arizona recall
+               which appeared in the September 3, 1997 Enforcement
+               Report should read:
+               PRODUCT:  a) Red Blood Cells; b) Fresh Frozen
+               Plasma; c) Recovered Plasma.  
+               Recall #B-1281/1283-7.
+               CODE:   Unit numbers:  10230-8872, 10175-4045.
+               QUANTITY:  4 units were distributed.
+  
+  RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III ======
+  _______________
+  PRODUCT      Recovered Plasma. Recall #B-1348-7.
+  CODE         29093-9146, 29119-4436, 29125-8658, 
+               29131-8807.
+  MANUFACTURER United Blood Services, Chicago, Illinois.
+  RECALLED BY  Manufacturer, by letter on either May 30, 1996,
+               June 5, 1996 or July 5, 1996.  Firm-initiated recall
+               complete.
+  DISTRIBUTION Illinois, Florida, Switzerland.
+  QUANTITY     4 units were distributed.
+  REASON       Blood products tested negative for the antibody to
+               the human T-lymphotropic virus (anti-HTLV-1), but
+               were collected from donors who previously tested
+               repeatedly reactive for anti-HTLV-1, Western blot
+               negative or indeterminate.
+  _______________
+  PRODUCT      Fresh Frozen Plasma.  Recall #B-1385-7.
+  CODE         Unit #16335-3005 and 16335-3007.
+  MANUFACTURER Blood System, Inc., doing business as United Blood
+               Services,
+               Hattiesburg, Mississippi.
+  
+  RECALLED BY  Manufacturer, by telephone on October 19, 1996 and
+               by letter on November 22, 1996.  Firm-initiated recall
+               complete.
+  DISTRIBUTION Mississippi.
+  QUANTITY     2 units were distributed.
+  REASON       Fresh Frozen Plasma was not frozen within eight
+               hours of phlebotomy.
+  
+  _______________
+  PRODUCT      Red Blood Cells, Deglycerolized.  
+               Recall #B-1386-7.
+  CODE         Unit numbers:  29444-5147, 29444-5055.
+  MANUFACTURER United Blood Services, Chicago, Illinois.
+  RECALLED BY  Manufacturer, by telephone on June 23, 1996, and
+               by letter on July
+                 30, 1996.  Firm-initiated recall complete.
+  DISTRIBUTION Illinois.
+  QUANTITY     2 units were distributed.
+  REASON       Deglycerolized Red Blood Cells were not treated
+               with rejuvenating solution prior to freezing.
+  
+  
+  RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS
+II
+  =========
+  _______________
+  PRODUCT      Lead Protective Aprons used to shield patients
+               during x-ray procedures.  Recall #Z-904-7.
+  CODE         Serial numbers:  6502-6523, 6532-6537, 6551,
+               6555-6559, 6567-6569, 6578-6579, 6585-6642,
+               6648-6668, 6670-6678, 6681-6686, 1237-1238, 3896-3909,
+               3911-1912, 3914-3919, 3966-3968, 3975-3976, 3993,
+               3998, 4040-4042, 1237-1238.
+  MANUFACTURER Pulse Medical, Inc., Davie, Florida.
+  RECALLED BY  Manufacturer, by letter on June 10 and 16, 1997. 
+               Firm-initiated recall ongoing.
+  DISTRIBUTION Nationwide and Canada.
+  QUANTITY     153 aprons were distributed.
+  REASON       Radiation protection devices contain lead contaminated 
+               with small amounts of radioactive substances.
+  
+  _______________
+  PRODUCT      Abiomed BVS 5000 Bi-Ventricular Support System
+               Transistor on Compressor Driver.  The device
+               (PMA #900023) provides ventricular assist and 
+               restores hemodynamics in patients suffering
+               severe cardiac dysfunction.  It consists of         
+               three major components:  the BVS Console,
+               the BVS pumps and the BVS Cannulae.  
+               Recall #Z-909-7.
+  CODE         Console Catalog No. 0005-000, Console serial        
+               numbers:  1314,1336, 1339, 1341-1352, 1352, 1355.
+  MANUFACTURER Abiomed, Inc., Danvers, Massachusetts.
+  RECALLED BY  Manufacturer, by letter dated June 30, 1997.         
+               Firm-initiated recall complete.
+  DISTRIBUTION Arkansas, California, Florida, Illinois, Louisiana,
+               Michigan, Missouri, New Jersey, Oklahoma, Texas.
+  QUANTITY     17 consoles were distributed.
+REASON         The console can stop during use and go into          
+               continuous alarm.
+  
+                             
+  
+  END OF ENFORCEMENT REPORT FOR SEPTEMBER 17, 1993.  BLANK PAGES
+MAY FOLLOW.
+
+                                   ####
+
+
+
+  
+ End of Enforcement Report for

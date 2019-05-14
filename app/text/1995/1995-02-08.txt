@@ -1,0 +1,542 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  DEC
+		  Mar
+		
+		
+		
+		  
+		  28
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      35 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DO
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+02/08/1995
+
+Recalls and Field Corrections:  Foods -- Class II -- 02/08/1995
+
+February 8, 1995                                                95-6
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Iceberg Lettuce packed as 2 dozen heads into cardboard
+               boxes.  Recall #F-321-5.
+CODE           H2B which represents the name of the field in which the
+               lettuce was grown.
+MANUFACTURER   Reynold Mettler Farms, Bakersfield, California.
+RECALLED BY    Manufacturer, by fax April 20, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Alabama, California, Colorado, Louisiana, Oregon, New
+               Mexico, North Carolina, Canada.
+QUANTITY       11,717 shipping cartons of unwrapped/wrapped lettuce were
+               distributed.
+REASON         Product contained chlorothalonil and there is no tolerance
+               for chlorothalonil in iceberg lettuce.
+
+_______________
+PRODUCT        Fresh Raw Tuna, packaged in clear plastic bags.
+               Recall #F-322-5.
+CODE           None.
+MANUFACTURER   Top Catch Seafood, Mt. Pleasant, South Carolina (supplier).
+RECALLED BY    Crosby's Seafood, Charleston, South Carolina, by telephone
+               on or about November 18, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   South Carolina.
+QUANTITY       154 pounds were distributed.
+REASON         Product contained excessive levels of histamines.
+
+_______________
+PRODUCT        Libby's brand Crispy Sauerkraut, in 32 ounce glass jars. 
+               Recall #F-323-5.
+CODE           J5EH3A, J5EH4A.
+MANUFACTURER   Seneca Foods Corporation, Jackson, Wisconsin.
+RECALLED BY    Seneca Foods Corporation, Marion, New York, by press release
+               and by letter January 5, 1995.  Firm-initiated recall
+               ongoing. 
+DISTRIBUTION   Missouri, Ohio, Vermont, Washington, DC.
+QUANTITY       2,511 cases (12 jars per case) were distributed.
+REASON         Product is contaminated with glass.
+
+_______________
+PRODUCT        Various flavored pound cakes, 17 ounce (half ring) and 34
+               ounce (whole ring) sizes are packaged in plastic trays, and
+               2.2 ounce slices packaged in plastic wrap.  Orange ring cake
+               packaged in 17 ounce and 34 ounce sizes only:
+               (a) Pineapple Pound Cake; (b) Orange Ring Cake; (c) Fudge
+               Marble Ring Cake; (d) Lemon Pound Cake; (e) Plain Butter
+               Ring Cake.  Recall #F-324/328-5.
+CODE           All product manufactured before 11/17/94. Package codes are
+               dated up to and including NOV. 30, 1994.
+MANUFACTURER   R&S; Miller Baking Company, Loganton, Pennsylvania.
+RECALLED BY    Manufacturer, by telephone November 18, 1994, followed by
+               letter November 20, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Virginia, Pennsylvania.
+QUANTITY       Firm estimated that 600 units remained on market at time of
+               recall initiation.
+REASON         These products contain undeclared FD&C; Yellow No. 5.
+
+_______________
+PRODUCT        Keebler Cinnamon Crisp Graham Selects Old Fashioned Graham
+               Crackers, in 14 ounce boxes, 12 boxes per case.  
+               Recall #F-329-5.
+CODE           Lot #304W.
+MANUFACTURER   Keebler Company, Macon, Georgia.
+RECALLED BY    Keebler Company, Elmhurst, Illinois, by visit January 11,
+               1995 and by issuing a limited press release on January 13,
+               1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Florida.
+QUANTITY       34 cases were distributed.
+REASON         Product is contaminated with glass.
+
+
+RECALLS AND FIELD CORRECTIONS:  COSMETICS -- CLASS II
+=====================
+_______________
+PRODUCT        Exotic Fruits brand Shampoo in 6.8 fluid ounce plastic
+               bottles:  (a) Passion Fruit; (b) Guava; (c) Kiwi.
+               Recall #F-330/332-5.
+
+                                    -2-CODE           All lots.
+MANUFACTURER   Nimbus Laboratories, Northampton, England.
+RECALLED BY    Pier 1 Imports, Fort Worth, Texas, by electronic mail August
+               20 and 23, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       (a) 13,416; (b) 13,026; (c) 13,290 bottles were distributed.
+REASON         Product is contaminated with bacterial growth.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Hydroxyzine HCl Syrup for oral administration, in 16 fluid
+               ounce and in 1 gallon bottles, indicated for the symptomatic
+               relief of anxiety and tension.  Recall #D-057-5.
+CODE           Lot #VD3199 EXP 6/95.
+MANUFACTURER   Barre-National, Inc., Baltimore, Maryland.
+RECALLED BY    Manufacturer, by letter dated January 11, 1995.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       33,032 16-fluid ounce bottles and 598 64-fluid ounce bottles
+               were distributed.
+REASON         Subpotency.
+
+
+RECALLS AND FIELD CORRECTION:  DRUGS -- CLASS III
+=========================
+_______________
+PRODUCT        XeScan (Xenon in Oxygen USP) Contrast Enhancement Agent in
+               605.2 liter cylinder.  Recall #D-056-5.
+CODE           Lot #922-3252 EXP 8/98.
+MANUFACTURER   Praxair, Inc., East Chicago, Indiana.
+RECALLED BY    Manufacturer, by telephone in November 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Pennsylvania.
+QUANTITY       1 cylinder.
+REASON         Cylinder valve was not secure.
+
+_______________
+PRODUCT        KOL-SPANS/SINA-SPANS, and all other private label brands of
+               the firm's Timed Release Medicines for relief of cold
+               discomforts, distributed in 15, 30, and 1000 caplet bottles. 
+               Recall #D-058-5.
+CODE           Lot numbers:  940973, 940543, 930643, 930317.
+MANUFACTURER   Wildflower Vitamin Corporation, Mineola, New York.
+RECALLED BY    The Reese Chemical Company, Cleveland, Ohio, by letter on or
+               about January 16, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 500,000 tablets were distributed.
+REASON         Label declares "Timed Release."  Product is immediate
+               release.
+
+
+                                    -3-RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        Red Blood Cells, Leukocytes Removed.  Recall #B-155-5.
+CODE           Unit numbers:  29118-0576, 29118-1399.
+MANUFACTURER   United Blood Services, Chicago, Illinois.
+RECALLED BY    Manufacturer, by telephone May 6, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       2 units.
+REASON         Blood products were distributed for transfusion labeled with
+               incorrect expiration date.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-154-5.
+CODE           40FE25075, 40FE25079.
+MANUFACTURER   American Red Cross Blood Services, Peoria, Illinois.
+RECALLED BY    Manufacturer, by telephone October 20, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       2 units.
+REASON         Blood products which were labeled with incorrect expiration
+               dates were distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-156-5.
+CODE           Unit numbers:  6732875, 6732878.
+MANUFACTURER   Blood Center of Southeast Texas, Inc., Beaumont, Texas.
+RECALLED BY    Manufacturer, by telephone July 5, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       2 units.
+REASON         Blood products labeled with incorrect expiration dates were
+               distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Pleasure Plus brand Condoms:
+               (a) Product #40349, 3 pack; (b) Product #40449, 6 pack;
+               (c) Product #40549, 12 pack and bulk pack of 144 pieces.
+               Recall #Z-302/304-5.
+CODE           Lot numbers:  0793233 EXP 7/96, 0494283 EXP 4/94.
+MANUFACTURER   Suretex Ltd., Bangkok, Thailand.
+RECALLED BY    Reddy Distributors, Inc., Windsor, New Jersey, by telephone
+               September 22, 1994, and by letter dated September 29, 1994. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Canada, Australia.
+QUANTITY       Firm estimated that 16,500 condoms remained on market at
+               time of recall initiation.
+
+                                    -4-REASON         Water leak testing of both lots of condoms revealed that
+               they exceeded the 0.4 AQL adulteration level. 
+
+_______________
+PRODUCT        All Physio-Control Disposable Defibrillation Electrode
+               Cables used with Lifepak defibrillation units and adaptors,
+               and FAST-PATCH adaptors.  (Previously the subject of Safety
+               Alert #M-033-2 which appeared in the February 12, 1992
+               Enforcement Report).  Recall #Z-326-5.
+CODE           All DDE cables.
+MANUFACTURER   Physio Control Corporation, Redmond, Washington.
+RECALLED BY    Manufacturer, by  telephone and letters beginning in July
+               1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 40,000 to 50,000 cables were distributed.
+REASON         The connector configuration was incorrectly designed and
+               improper materials were used.
+
+_______________
+PRODUCT        (a) Sarns brand Model 9000 Perfusion System with Delphin II
+               Control Module (centrifugal pump), Part #98-0702-0548-3;
+               (b) Sarns Modified Delphin I units, Part #78-8067-5418-6;
+               (c) Sarns Trial units, Part #78-8067-5151-3.  The device is
+               indicated for use in extracorporeal circulation of blood
+               arterial perfusion, regional perfusion, and cardiopulmonary
+               bypass procedures, when used by a qualified perfusionist who
+               is experienced in the operation of Sarns or similar
+               equipment.  (Previously the subject of Safety Alert N-058-3
+               which appeared in the October 20, 1993 Enforcement Report). 
+               Recall #Z-328/330-5.
+CODE           All serial numbers.
+MANUFACTURER   Sarns 3M Health Care, Ann Arbor, Michigan.
+RECALLED BY    Manufacturer, by letter December 13, 1993.  Firm-initiated
+               recall complete.  
+DISTRIBUTION   California, Delaware, Florida, Kentucky, Massachusetts,
+               Michigan, New Hampshire, New Jersey, New York, Oregon,
+               Wisconsin, Washington, DC, Germany
+QUANTITY       32 units were distributed.
+REASON         Products are susceptible to electrical noise in the
+               operating room which can adversely effect the air detection
+               system and the Delphin II module.
+
+_______________
+PRODUCT        4 and 5 FR Groshong PICC Full Procedural Trays: 
+               (a) Product Code 7715407; (b) Product Code 7725507.
+               Recall #Z-333/334-5.
+CODE           Lot numbers:  (a) 36EE0351; (b) 36EE0350.
+MANUFACTURER   Bard Access Systems, Inc., Salt Lake City, Utah.
+RECALLED BY    Manufacturer, by telephone July 15, 1994, followed by letter
+               mailed July 21, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Arkansas, New York, Minnesota, California, Wisconsin,
+               Oklahoma, Pennsylvania, Illinois, Massachusetts, Florida.
+
+                                    -5-QUANTITY       158 units were distributed.
+REASON         The packaging has large seal voids which occurred during
+               sterilization.  This defect may compromise the sterility of
+               the device.
+
+_______________
+PRODUCT        Sterilco brand custom packed surgical trays containing
+               Coated Vicryl (Polyglactin 910) Absorbable, Sterile Sutures: 
+               (a) Total Hip A & B Pack, Catalog #SCH00033; (b)  Total Knee
+               Pack, Catalog #SCH00018.  Recall #Z-343/344-5.
+CODE           Lot numbers:  (a) 941687; (b) 941130.
+MANUFACTURER   Sterile Design Southwest (SDS), formerly Southwest Medical
+               Packaging, division of Maxxim Medical, Stafford, Texas.
+RECALLED BY    Manufacturer, by letter September 20, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       13 hip packs and 18 knee packs were distributed; firm
+               estimates none remains on the market.
+REASON         The sterility of the sutures cannot be assured because of
+               possible microorganism contamination during aseptic
+               processing, following sterilization.
+
+_______________
+PRODUCT        Deltran ABC Monitoring Kits, arterial blood collection
+               system.  Recall #Z-348/363-5.
+CODE           Catalog No.          Lot Number 
+               ABC-248              40333-1, 40353-1, 40361-1, 41588-1, 
+                                    42029-1, 42960-1; 
+               ABC-248A             40355-1, 41589-1, 42030-1; 
+               ABC-260              40363-1, 41590-1, 42032-1, 42961-1, 
+                                    42962-1; 
+               ABC-260A             41591-1, 42033-1, 42963-1; 
+               ABC-324              40341-1,  40364-1, 41592-1; 
+               ABC-330              42035-1, 42964-1; 
+               901-760              40331-1; 
+               901-761              40330-1; 
+               901-771              40332-1; 
+               900-803              41586-1; 
+               901-837              42404-1; 
+               901-868              42932-1, 43716-1; 
+               901-994              43160-1; 
+               901-995              43166-1; 
+               901-997              43421-1; 
+               901-999              43420-1. 
+MANUFACTURER   Utah Medical Products, Inc., Midvale, Utah.
+RECALLED BY    Manufacturer, by letter December 20, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide, South Africa, Sweden, Turkey, Canada, Germany,
+               Italy.
+QUANTITY       Approximately 3,705 units were distributed.
+REASON         The sterility is compromised due to the position of the
+               stopcock handle during sterilization.
+
+                                    -6-_______________
+PRODUCT        Gamma Camera Universal Table used with the Cirrus and Argus
+               Imaging Systems.  Recall #Z-365-5.
+CODE           All units.
+MANUFACTURER   ADAC Laboratories, Milpitas, California.
+RECALLED BY    Manufacturer, by performing upgrades.  Firm-initiated field
+               correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       90 Cirrus Imaging units and 76 Argus Imaging units were
+               distributed.
+REASON         The patient table would drift during patient imaging for
+               therapy planning due to faulty hydraulic cylinders, thus
+               causing artifacts in the study, which could result in
+               misdiagnosis and mistreatment.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Pulse generators:  (a) Meta DDDR Model 1254, rate
+               responsive, dual chamber pulse generator; (b) Meta III Model
+               1206M, rate responsive, single chamber pulse generator.  
+               Recall #Z-319/320-5.
+CODE           Specific, individually serial numbered units with sterile
+               batch #4L00590.
+MANUFACTURER   Telectronics Pacing Systems, Miami Lakes, Florida.
+RECALLED BY    Telectronics Pacing Systems, Englewood, Colorado, by
+               telephone during July 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Washington state, Nebraska, Wisconsin, Texas, Australia,
+               France, Canada.
+QUANTITY       24 units were distributed.
+REASON         The product is incorrectly labeled with the year 1990 rather
+               than 1994 for the sterilization date.
+
+_______________
+PRODUCT        Meta DDDR Model 1250H, rate responsive, dual chamber pulse
+               generator.  Recall #Z-321-5.
+CODE           Specific, individually serial numbered units with sterile
+               batch #4L00473.
+MANUFACTURER   Telectronics Pacing Systems, Miami Lakes, Florida.
+RECALLED BY    Telectronics Pacing Systems, Englewood, Colorado, by letter
+               dated August 3, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and Australia.
+QUANTITY       39 units were distributed.
+REASON         The product inner pack labels were incorrectly labeled for
+               another product namely, lead wires.
+
+_______________
+PRODUCT        Torque Limiting Hex Wrench, used for surgical procedures.
+               Recall #Z-322-5.
+CODE           Units with sterile lot numbers before 4L00569.
+MANUFACTURER   Telectronics Pacing Systems, Miami Lakes, Florida.
+
+                                    -7-RECALLED BY    Telectronics Pacing Systems, Englewood, Colorado, by letter
+               on or about October 10, 1994.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       U.S. distribution is 1,540 unimplanted units; international
+               distribution is 11,372 units.
+REASON         The wrench may be cracked and therefore may not operate
+               correctly.  
+
+_______________
+PRODUCT        Vygon XRO Infant Feeding Tubes, used to provide nutrition to
+               infants:  (a) 16 Inch 6 French Feeding Tube, Order #310.06;
+               (b) 20 Inch 8 French Feeding Tube, Order #310.08;
+               (c) 30 Inch 6 French Feeding Tube, Order #311.06.
+               Recall #Z-345/347-5.
+CODE           Lot numbers:  (a) 07.10.93FI, 26.08.93FI;
+               (b) 03.12.93FI; (c) 30.09.93FE, 01.10.03FE.
+MANUFACTURER   Vygon XRO S.A., Ecouen, France.
+RECALLED BY    Vygon Corporation, East Rutherford, New Jersey, by telephone
+               March 8, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       (a) 29,825 units; (b) 15,302 units; (b) 15,503 units were
+               distributed.
+REASON         The end cap may become loose.
+
+_______________
+PRODUCT        Reaction Cuvettes, Model 751060, in-vitro diagnostic, in
+               packages of 100 magazines.  Recall #Z-364-5.
+CODE           Lot numbers 129C through 152C and two digit code = 65.
+MANUFACTURER   Ciba Corning Diagnostics Corporation, Oberlin, Ohio.
+RECALLED BY    Manufacturer, by letter September 28, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       1,498 boxes of 100 magazines (13 cuvette strips x 5 wells
+               each were distributed.
+REASON         Some of the cuvettes have small holes and may leak fluid.
+
+_______________
+PRODUCT        Abbott Vision SGOT (AST) Test Pack, in-vitro diagnostic used
+               with the Abbott Vision System for the quantitative
+               determination of glutamic oxaloacetate transaminase activity
+               in anticoagulated whole blood, plasma, or serum for the
+               diagnosis and treatment of certain types of liver and heart
+               disease.
+               Recall #Z-383-5.
+CODE           Lot numbers:  86889A400, 87052A400, 87166A400, 87153A400,
+               87298A400, 88080A400, 88147A400.
+MANUFACTURER   Abbott Laboratories, Diagnostics Division, Abbott Park,
+               Illinois.
+RECALLED BY    Manufacturer, by telephone June 9-14, 1994, and June 21,
+               1994, followed by letter dated June 1994.  Firm-initiated
+               recall complete.
+
+                                    -8-DISTRIBUTION   Nationwide, Brazil, Italy, Japan, Singapore, Taiwan,
+               Australia, Germany.
+QUANTITY       18,249 cartons of 10 testpacks were distributed; firm
+               estimates none remains on the market.
+REASON         Component degradation can result in instrument error
+               message.
+
+_______________
+PRODUCT        Staphaurex In-Vitro Diagnostic Test, rapid latex test kit
+               for the identification of Staphylococcus aureus.  
+               Recall #Z-384-5.
+CODE           Lot numbers:  K248210 EXP 2/28/95, K307320 EXP 3/28/95,
+               K307310 EXP 3/28/95.
+MANUFACTURER   Murex Diagnostics, Ltd., Kent England.
+RECALLED BY    Murex Diagnostics, Inc., Norcross, Georgia, by letter
+               September 7, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       1,630 kits were distributed.
+REASON         Some of the tests will give a positive reaction when
+               coagulase negative staphylococci or buffer are mixed with
+               the test latex.
+
+                                    -9-
+
+
+END OF ENFORCEMENT REPORT FOR FEBRUARY 8, 1995.  BLANK PAGES MAY
+FOLLOW.
+
+
+
+                                   ####

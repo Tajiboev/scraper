@@ -1,0 +1,241 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  DEC
+		  Feb
+		
+		
+		
+		  
+		  19
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      32 captures
+	      24 Jan 2001 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DO
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA 
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration, Department of Health and Human Services. 
+It contains information on actions  taken in connection with agency
+Regulatory activities.
+
+
+
+
+December 20, 2000                                                 00-51                     
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+________
+PRODUCT
+Fresh Green Leaf Lettuce, packed 24 heads per cardboard carton.  
+Recall #F-115-1.
+CODE
+Lot 012617 on bar code.
+GROWER
+Freitas Brothers, Nipomo, California.
+HARVESTER
+Byrd Farms, Guadalupe, California (responsible firm).
+RECALLED BY
+FreshKist Product, LLC, Santa Maria, California, by telephone on 
+September 13 and 14, 2000, followed by letters dated September 14, 2000.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Arizona, California, Connecticut, Florida, Kentucky, Missouri, North 
+Carolina, New York, South Carolina, Tennessee, Texas, District of 
+Columbia.
+QUANTITY
+2,516 cartons (24 units per carton) were distributed.
+REASON
+Product was contaminated with Salmonella.
+________
+PRODUCT
+Ben & Jerry's Peanut Butter Cup Ice Cream, pint size.  Recall #F-116-1.
+CODE
+Product dated BEFORE October 26, 2001.
+MANUFACTURER
+Ben & Jerry�s Homemade, Inc., St. Albans, Vermont, and Waterbury, 
+Vermont.
+RECALLED BY
+Ben & Jerry�s Homemade, Inc., South Burlington, Vermont, by press release 
+and letter on October 27, 2000.  A follow-up notification was sent on 
+November 3, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+8,000 gallons were distributed.
+REASON
+Product contains undeclared tree nuts.
+________
+PRODUCT:
+Thyroid Synergy Dietary Supplement, in 90-capsule bottles.  
+Recall #F-121-1.
+CODE
+Lot 011191-1191.
+MANUFACTURER
+Advanced Manufacturing System, Boulder, Colorado.
+RECALLED BY
+Designs for Health, Boulder, Colorado, by telephone on August 7-8, 2000, 
+followed by letter August 10, 2000.  Firm-initiated recall complete.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+360 90-capsule bottles were distributed.
+REASON
+Product contained approximately 225 times the amount of selenium declared 
+on label.
+
+RECALLS AND FIELD CORRECTIONS:  FOODS - CLASS II
+________
+PRODUCT
+Teriyaki Flavored Hot Smoked Salmon, vacuum packaged.
+Recall #F-119-1.
+CODE
+2640T.
+MANUFACTURER
+Kasilof Fish Company, Marysville, Washington.
+RECALLED BY
+Manufacturer, by letter dated October 6, 2000.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Washington State.
+QUANTITY
+50-60 pounds per week were distributed.
+REASON
+Product contained undeclared soybeans and wheat.
+________
+PRODUCT
+Dried Shrimp under the following labels:
+Shirakiku brand U.S. Dried Shrimp in 1-ounce bags;
+Mum's brand U.S. Dried Shrimp in 1-ounce bags; Barre brand Dried Shrimp 
+in Bulk 50 lb. Bags.  Recall #F-120-1.
+CODE
+None.
+REPACKER
+Nishimoto Trading Company Hawaii, Ltd., Honolulu, Hawaii.
+RECALLED BY
+Repacker, by letter sent on November 8, 2000.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Hawaii.
+QUANTITY
+2,725 packages were distributed.
+REASON
+Product contains undeclared sulfites.
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS - CLASS I
+________
+PRODUCT
+Etodolac Capsules (Lodine Capsules), 300 mg, in 100-unit bottles, Rx used 
+for arthritis and pain management.
+NDC #59911-3607-1. Recall #D-057-1.
+CODE
+Lot #9991052 EXP 7/02.
+MANUFACTURER
+Wyeth-Ayerst Company, Guayama, Puerto Rico.
+RECALLED BY
+Wyeth-Ayerst Laboratories, Philadelphia, Pennsylvania, by letter and 
+press release on October 5, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+Approximately 935 units were distributed.
+REASON
+Cross contamination with Acebutolol Hydrochloride, a beta-blocker drug.
+
+END OF ENFORCEMENT REPORT FOR DECEMBER 20, 2000.
+
+####
+
+
+
+
+
+
+FDA News Page   |   FDA Home Page 
+                                                          
+  
+
+Office of Public Affairs
+Hypertext uploaded by tg 2000-DEC-19.

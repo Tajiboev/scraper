@@ -1,0 +1,689 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      35 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+February 19, 1997                                  97-08
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III ==========
+_______________
+PRODUCT        Neomycin (1.75 mg/ml) and Polymyxin B Sulfates
+               (10,000 units/ml) and Gramicidin (0.025 mg/ml,
+               Ophthalmic Solution, USP, Rx sterile, 10 ml,
+               under the following labels:  Akorn - AK-SPOR,
+               Alba - ALBA-3 OPHTHALMIC SOLUTION, Carisle,
+               Geneva, Goldline, IDE-Interstate - TRIBIOTIC,
+               Rugby, Steris, URL, Aligen, Generics of Puerto
+               Rico - TRIPLE ANTIBIOTIC OPHTHALMIC, Major -
+               NEOCIDIN OPHTHALMIC SOLUTION, E. Fougera,
+               Schein.  Recall #D-101-7.
+CODE           All lots within expiration date.
+MANUFACTURER   Steris Laboratories, Inc., Phoenix, Arizona.
+RECALLED BY    Manufacturer, by letter dated March 18, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and Puerto Rico.
+QUANTITY       Approximately 1,668,000 units of all lots were
+               distributed.
+REASON         Product lacks stability (i.e. Gramicidin fails
+               potency assay at 18-month stability timepoint
+               -- 80%; SPEC is 90-110%).
+
+_______________
+PRODUCT        B-C-12-1000 (B Complex with C and B12),
+               Lyophilized), for Injection, in 10 ml
+               multidose vials, under the following labels:
+               Carlisle, Clint Pharmaceuticals, Inc. - 
+               "VITA-PLEX", Germiphene, Gil Pharmaceutical - 
+               "VITAJECT", Goldline, Hyrex - "KEY-PLEX
+               UNIVIAL", IDE - Interstate, International
+               Ethical Lab - "NEUROFORTE-SIX", Jaapharm
+               Canada Inc., Keene Pharmaceuticals - "VICAM
+               (IV)", Key Co., Lambda Pharmacal - "NEURO B12
+               FORTE", Llorens Pharm Corp., McGuff Co.,
+               Medical Products Panamericana - "NEURODEP",
+               Merit, Moore, OTC Pharmaceutical Products -
+               "NEUROBION", R.W. Enterprise (USA), Rugby,
+               Schein, Seyer - "SUPERVITE", Sorter - "NEURIN
+               - BC", Steris, United Research Labs. 
+               Recall #D-102-7.
+CODE           All lots within expiration date.
+MANUFACTURER   Steris Laboratories, Inc., Phoenix, Arizona.
+RECALLED BY    Manufacturer, by letters dated April 17, 1996,
+               and June 13, 1996.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide and Japan.
+QUANTITY       Approximately 388,000 units were distributed.
+REASON         Product lacks stability (i.e., Dexpanthenol
+               fails potency assay as early as the 12-month
+               stability timepoint -- 89%; SPEC is 90-110%).
+
+_______________
+PRODUCT        Morphine Sulfate Injection, Rx, USP, (a) 1
+               mg/ml and (b) 0.5 mg/ml, in 10 ml single dose
+               vials.  Recall #D-103/104-7.
+CODE           Lot numbers:  (a) 94K200, 94M050, 95E380,
+               95H610; (b) 94L120, 94L700, 95A010.
+MANUFACTURER   Steris Laboratories, Inc, Phoenix, Arizona.
+RECALLED BY    Manufacturer, by letter dated April 26, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) Approximately 36,000 vials; (b)
+               Approximately 53,000  vials were distributed.
+REASON         Presence of particulate matter.
+
+_______________
+PRODUCT        Chorionic Gonadotropin for Injection, Rx, USP,
+               10,000 units/10 ml multiple dose vial,
+               distributed under the following labels: 
+               Steris, Schein, Carlisle, Goldline, Hyrex -
+               Chorex-10, R.W. Enterprises (USA) - Ovulatone.
+               Recall #D-105-7. 
+CODE           All product within expiration date.
+MANUFACTURER   Steris Laboratories, Inc., Phoenix, Arizona.
+
+                             -2-RECALLED BY    Manufacturer, by letter dated May 17, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 147,000 vials were distributed.
+REASON         presence of particulate matter.
+
+_______________
+PRODUCT        Multivitamins for Infusion, Rx, in 10 ml
+               single dose vials, under the following labels: 
+               Schein, Steris, Faulding (Canada).
+               Recall #D-106-7.
+CODE           All lots within expiration date.
+MANUFACTURER   Steris Laboratories, Inc., Phoenix, Arizona.
+RECALLED BY    Manufacturer, by letter dated April 19, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       Approximately 3 million vials were
+               distributed.
+REASON         Presence of particulate matter.
+
+_______________
+PRODUCT        Heparin Sodium Injection, USP, Rx, used for
+               used for anti-coagulant prophylaxis and
+               treatment, under the following labels -
+               Steris, Schein, Biogen:
+               (a) 1,000 units/ml in 10 ml vials;
+               (b) 20,000 units/ml, in 1 ml and 2 ml vials;
+               (c) 40,000 units/ml, in 1 ml, 2 ml, and 5 ml
+               vials.  Recall #D-107/109-7.
+CODE           Lot numbers: (a) 95F780; (b) 96C390 (1 ml),
+               94E850, 95D740, 95F910 (2 ml); (c) 95K080 (1
+               ml), 95B190 (2 ml), 95A040, 95B191, 95K081,
+               95A040 (5 ml).
+MANUFACTURER   Steris Laboratories, Inc., Phoenix, Arizona.
+RECALLED BY    Manufacturer, by letter dated November 4,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and Ukraine.
+QUANTITY       Approximately 34,000 vials of all sizes were
+               distributed.
+REASON         Presence of particulate matter.
+
+_______________
+PRODUCT        Prochlorperazine Edisylate Injection, USP, 10
+               mg/2 ml, Rx, used for used for the treatment
+               of severe nausea and vomiting, and for the
+               management of the manifestations of psychotic
+               disorders.   Recall #D-110-7.
+CODE           Lot numbers:  94F910, 94G570, 94H280, 94H320,
+               94J400 (All lots within expiration date).
+MANUFACTURER   Steris Laboratories, Inc., Phoenix, Arizona.
+RECALLED BY    Manufacturer, by letters dated January 18,
+               1996, and February 8, 1996.  Firm-initiated
+               recall complete.
+                             -3-DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 18,500 vials were distributed.
+REASON         Product lacks stability (fails potency assay
+               at the end of expiry).
+
+_______________
+PRODUCT        GoJo brand Hand Medic Antiseptic Skin
+               Treatment, OTC, in 500 ml cartridges.  
+               Recall #D-111-7.
+CODE           Batch numbers:  049671, 049672, 049673,
+               049674.
+MANUFACTURER   Gojo Industries, Inc., Cuyahoga Falls, Ohio.
+RECALLED BY    Manufacturer, by fax sent on January 28-30,
+               1997.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide (to industrial users only).
+QUANTITY       The following amounts of product identified
+               with the referenced stock numbers were
+               distributed:  Stock No. 8242-512-R1:  8,184
+               cartridges; Stock No. 1302-01: 5,760 cases;
+               and Stock No. 8242-06: 220 cases. 
+REASON         Subpotent -- Recalled lots do not contain the
+               sole active ingredient, benzalkonium chloride.
+
+_______________
+PRODUCT        Martec brand Piroxicam Capsules, USP, 10 mg,
+               in bottles of 100, Rx indicated for use in
+               arthritis.  Recall #D-112-7.
+CODE           96556-1 EXP 03/01.
+MANUFACTURER   Martec Pharmaceutical, Inc., Kansas City,
+               Missouri.
+RECALLED BY    Manufacturer, by letter dated January 24,
+               1997.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,347 bottles were distributed between 
+               7/11/97 - 1/23/97.
+REASON         Unit label may lack the prescription legend;
+               insert is correctly labeled.
+
+_______________
+PRODUCT        Ethex brand Hydrocodone Bitartrate and
+               Guaifenesin Liquid, in 16 fluid ounce bottles,
+               Rx for the temporary relief of dry,
+               nonproductive cough associated with upper and
+               lower respiratory tract congestion.  
+               Recall #D-116-7.
+CODE           Lot numbers:  L8693 and L8696.
+MANUFACTURER   KV Pharmaceutical Company, St. Louis,
+               Missouri.
+RECALLED BY    Ethex Corporation, St. Louis, Missouri, by
+               letter dated January 24, 1997.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+
+                             -4-QUANTITY       14,136 bottles of lot L8693 were distributed
+               between 12/23-30/96 and 7,307 bottles of lot
+               L8696 were distributed between January 13-16,
+               1997.
+REASON         Presence of precipitate (guaifenesin is
+               precipitating due to exposure to low
+               temperatures while warehoused and shipped.
+
+_______________
+PRODUCT        Alcoholado Alcanformentol 70, OTC alcohol 70%
+               (topical liquid), in 12 fluid ounce bottles. 
+               Recall #D-117-7.
+CODE           Lot #G07-0794 EXP 11/27/99.
+MANUFACTURER   Specialties Chemical, Inc., Ponce Puerto Rico.
+RECALLED BY    Manufacturer, by visit on January 27, 1997.  
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Puerto Rico.
+QUANTITY       192 bottles were distributed.
+REASON         Incorrect product formulation -- isopropyl
+               alcohol used instead of ethyl alcohol.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II =======
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma. 
+               Recall #B-344/345-7.
+CODE           Unit #8145560.
+MANUFACTURER   Carter Blood Center, Fort Worth, Texas.
+RECALLED BY    Manufacturer, by telephone on November 20,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Texas and California.
+QUANTITY       1 unit of each component was distributed.
+REASON         Blood products were collected from a donor who
+               had been permanently deferred.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-349-7.
+CODE           Unit #355079.
+MANUFACTURER   Memorial Blood Centers of Minnesota,
+               Minneapolis, Minnesota.
+RECALLED BY    Manufacturer, by letter dated November 1,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   Pennsylvania.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was collected from a donor who
+               reported an accidental needlestick within 12
+               months of donation.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Fresh
+               Frozen Plasma; (d) Recovered Plasma; (e)
+               Platelets, for further manufacture.  
+               Recall #B-353/357-7.
+                             -5-CODE           Unit numbers:  (a) 8107974, 8109809, 8116534,
+               8116938, 8118637, 8120204, 8122411, 8120323,
+               8125739, 8128055; (b) 8107974, 8116938,
+               8118637, 8120204, 8120323; (c) 8106846; (d)
+               8107974, 8109809, 8116534, 8116938, 8118637,
+               8120204, 8122411, 8120323, 8125739, 8128055;
+               (e) 8122411, 8125739.
+MANUFACTURER   Permian Basin Regional Blood Center, also
+               known as Permian Basin Blood Institute,
+               Midland, Texas.
+RECALLED BY    Manufacturer, by letter dated September 30,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   Texas, Colorado.
+QUANTITY       (a) 10 units; (b) 5 units; (c) 1 unit; (d) 10
+               units; (e) 2 units were distributed.
+REASON         Blood products tested negative for HBsAg were
+               collected from donors who reported histories
+               of jaundice, liver disease, or hepatitis, or
+               were subsequently collected from these donors.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-372-7.
+CODE           Unit numbers:  49J66132, 49J66819.
+MANUFACTURER   American National Red Cross, Norman, Oklahoma.
+RECALLED BY    Manufacturer, by letter dated June 18, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   California and Oklahoma.
+QUANTITY       2 units were distributed.
+REASON         Blood products were collected from a donor who
+               traveled to an area designated as endemic for
+               malaria.
+
+_______________
+PRODUCT        Source Plasma.  Recall #B-373-7.
+CODE           FP57388, FP57333, FP57233, FP57188, FP57041,
+               FP56981, FP56952, FP56897, FP56851, FP56809,
+               FP56752, FP58712, FP56674, FP56621, FP56589,
+               FP56522, FP56489, FP54195, FP53959, FP53817,
+               FP53629, FP53590, FP53514, FP53474, FP53353,
+               FP53291, FP53181, FP53125, FP52926, FP51289,
+               FP51784, FP51584, FP51182, 52459788, 52458088,
+               52454943, 52450839, 52438585, 52436956,
+               52435447, 52433634, 52431913, 52417740,
+               52415908, 52413667, 52412158, 52099120,
+               52097645, 52095504, 52094231, 52091230,
+               49809695, 49806854, 49805280, 49802788,
+               49801682, 49469509, 49467857, 49464979,
+               47485167, 47482593, and 47480773.
+MANUFACTURER   Interstate Blood Bank, Inc., of WI, Milwaukee,
+               Wisconsin.
+
+                             -6-RECALLED BY    Interstate Blood Bank, Inc., Memphis,
+               Tennessee, by telephone on February 15, 1996,
+               followed by letter.  Firm-initiated recall
+               complete.
+DISTRIBUTION   California and Germany.
+QUANTITY       62 units were distributed.
+REASON         Blood products tested negative for the
+               antibody to the hepatitis C virus encoded
+               antigen (anti-HCV), were collected from a
+               donor who had previously tested repeatedly
+               reactive for anti-HCV.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets.  
+               Recall #B-374/375-7.
+CODE           Unit #2838997.
+MANUFACTURER   Central Indiana Regional Blood Center, Inc.,
+               Indianapolis, Indiana.
+RECALLED BY    Manufacturer, by letter dated July 26, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Indiana.
+QUANTITY       1 unit was distributed.
+REASON         Blood products were collected from a donor who
+               traveled to a malarial endemic area.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c)
+               Recovered Plasma.  Recall #B-378/380-7.
+CODE           Unit #2850080.
+MANUFACTURER   Central Indiana Regional Blood Center, Inc.,
+               Indianapolis, Indiana.
+RECALLED BY    Manufacturer, by letter July 26, 1996.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Indiana.
+QUANTITY       1 unit was distributed.
+REASON         Blood products were collected from a donor who
+               received ear piercing within twelve months of
+               donation.
+
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma. 
+               Recall #B-383/384-7.
+CODE           Unit #KR93443.
+MANUFACTURER   The Blood Center of Central Iowa, Des Moines,
+               Iowa.
+RECALLED BY    Manufacturer, by telephone on October 22,
+               1996, and by letter dated November 14, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Louisiana and California.
+QUANTITY       1 unit of each component.
+
+                             -7-REASON         Blood products were collected from a donor
+               taking the drug Proscar.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III ======
+_______________
+
+PRODUCT        Platelets, Pheresis.  Recall #B-323-7.
+CODE           Unit numbers 32P16021 and 32P16243.
+MANUFACTURER   American Red Cross Blood Services, Madison,
+               Wisconsin.
+RECALLED BY    Manufacturer, by letter dated March 27, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Wisconsin.
+QUANTITY       2 units were distributed.
+REASON         Blood products tested initially reactive for
+               the hepatitis B surface antigen (HBsAg), and
+               were not retested in duplicate, or which
+               tested negative for HBsAg, were collected from
+               a donor who was previously tested incorrectly
+               for HBsAg.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-339-7.
+CODE           Unit numbers:  30G04947, 30N20313, 30H60926,
+               30X51767, 30H42151.
+MANUFACTURER   American Red Cross Blood Services, Ashley,
+               Pennsylvania.
+RECALLED BY    Manufacturer, by letter on July 19, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   New York California, Switzerland.
+QUANTITY       5 units were distributed.
+REASON         Blood products tested negative for the
+               hepatitis B surface antigen (HBsAg), but were
+               collected from a donor who previously tested
+               repeatedly reactive for HBsAg.  The donor has
+               met reentry.
+
+_______________
+PRODUCT        Platelets.  Recall #B-346-7.
+CODE           Unit numbers:  4701001, 4701002, 4701003,
+               4701004, 4701007, 4701008, 4701010, 4701011,
+               4701998, 4701999.
+MANUFACTURER   Central Indiana Regional Blood Center,
+               Indianapolis, Indiana.
+RECALLED BY    Manufacturer, by telephone on July 1, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Indiana.
+QUANTITY       10 units were distributed.
+REASON         Blood products were labeled with an extended
+               expiration date.
+
+                             -8-_______________
+PRODUCT        Red Blood Cells.  Recall #B-350-7.
+CODE           Unit #416402.
+MANUFACTURER   Memorial Blood Centers of Minnesota,
+               Minneapolis, Minnesota.
+RECALLED BY    Manufacturer, by telephone on July 10, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Minnesota.
+QUANTITY       1 unit was distributed.
+REASON         Blood product was labeled with an extended
+               expiration date.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-351-7.
+CODE           Unit #387972.
+MANUFACTURER   Memorial Blood Centers of Minnesota,
+               Minneapolis, Minnesota.
+RECALLED BY    Manufacturer, by letter dated August 6, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Minnesota.
+QUANTITY       1 unit was distributed.
+REASON         Blood product tested reactive for syphilis by
+               RPR.
+
+_______________
+PRODUCT        Platelets.  Recall #B-352-7.
+CODE           Unit numbers:  5593331 and 5593341.
+MANUFACTURER   Central Indiana Regional Blood Center, Inc.,
+               Indianapolis, Indiana.
+RECALLED BY    Manufacturer, by telephone on August 7, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Indiana.
+QUANTITY       2 units were distributed.
+REASON         Blood products were not stored under
+               continuous agitation.
+
+_______________
+PRODUCT        Platelets.  Recall #B-358-7.
+CODE           Unit numbers:  2645245 and 4109025.
+MANUFACTURER   Central Indiana Regional Blood Center,
+               Indianapolis, Indiana.
+RECALLED BY    Manufacturer, by telephone on September 29,
+               1995, and by letter dated october 9, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Indiana.
+QUANTITY       2 units were distributed.
+REASON         Blood products were labeled with an extended
+               expiration date.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Source
+               Leukocytes; (d) Recovered Plasma.  
+               Recall #B-359/362-7.
+                             -9-CODE           Unit #2455593.
+MANUFACTURER   Central Indiana Regional Blood Center, Inc.,
+               Indianapolis, Indiana.
+RECALLED BY    Manufacturer, by letter dated July 26, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Indiana.
+QUANTITY       1 unit of each component was distributed.
+REASON         Blood products were collected from a donor who
+               received a tissue transplant (eye implant)
+               within a year of donation.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c)
+               Recovered Plasma.  Recall #B-363/365-7.
+CODE           Unit #2958623.
+MANUFACTURER   Central Indiana Regional Blood Center, Inc.,
+               Indianapolis, Indiana.
+RECALLED BY    Manufacturer, by letter dated July 26, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Indiana, Missouri, New Jersey.
+QUANTITY       1 unit of each component was distributed.
+REASON         Blood products were collected from a donor who
+               previously tested positive for syphilis.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Fresh
+               Frozen Plasma; (d) Recovered Plasma.  
+               Recall #B-366/369-7.
+CODE           Unit numbers:  (a) 2947365, 3708945, 2938592;
+               (b) 2947365; (c) 2947365; (d) 3708945,
+               2938592.
+MANUFACTURER   Central Indiana Regional Blood Center, Inc.,
+               Indianapolis, Indiana.
+RECALLED BY    Manufacturer, by letter dated July 26, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Indiana, Missouri, New Jersey.
+QUANTITY       (a) 3 units; (b) 1 unit; (c) 1 unit; (d) 2
+               units were distributed.
+REASON         Blood products were collected from a donor who
+               previously tested positive for gonorrhea.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma. 
+               Recall #B-370/371-7.
+CODE           Unit #2463162.
+MANUFACTURER   Central Indiana Regional Blood Center, Inc.,
+               Indianapolis, Indiana.
+RECALLED BY    Manufacturer, by letter dated July 26, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Indiana, New Jersey.
+QUANTITY       1 unit of each component was distributed.
+REASON         Blood products were collected from a donor
+               with a history of venereal disease.
+                            -10-
+RECALLS AND FIELD CORRECTIONS: RECALLS AND FIELD
+CORRECTIONS:  DEVICES -- CLASS II =========
+_______________
+PRODUCT        Acoma Overhead Tube Support Model A90000-9, a
+               fully counter-balanced heavy-duty radiographic
+               x-ray tube suspension system.  
+               Recall #Z-240-7.
+CODE           Serial numbers 05010194001 through
+               05010895018; All units shipped between 1/26/94
+               and 9/30/95.
+MANUFACTURER   Acoma Medical Imaging, Inc., Wheeling,
+               Illinois.
+RECALLED BY    Manufacturer, by sending Equipment Field
+               Modification Bulletin No. 97-01-OTS-001, Acoma
+               Recall #1451001-1996-00001, on January 21,
+               1997.  Firm-initiated field correction
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       136 units were distributed.
+REASON         Screw heads may come off and allow the plate
+               at the end of the bridge to fall  off. 
+
+_______________
+UPDATE         Medtronic Indura Model 8703W Intraspinal
+               Catheter, Recall #Z-223-7 which appeared in
+               the February 12, 1997 Enforcement Report has
+               been updated to include an additional lot
+               number, 41524.  Quantity should read:  1,196
+               catheters were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III ========
+_______________
+PRODUCT        BVS Blood Pump, used with the Abiomed BVS 5000
+               Bi-Ventricular Support Systems.
+               Recall #Z-222-7.
+CODE           Control numbers beginning with G96, H96, I96,
+               J96, D96 (Only part of D96 is affected: Pumps
+               with control numbers ending in P48, P50, P51,
+               P52, P54, P55, and P56) and E96, F96.
+MANUFACTURER   Abiomed, Inc., Danvers, Massachusetts.
+RECALLED BY    Manufacturer, by letter on November 7, 1996,
+               and by fax on January 30, 1997.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide, Japan, Netherlands, Switzerland.
+QUANTITY       321 units were distributed.
+REASON         The pump is subject to leakage which occurs at
+               the outflow connector (bottom of the pump).
+
+_______________
+PRODUCT        Chartr ENG System, a computer based
+               electronystagmograph used as a diagnostic
+               tool.  Recall #Z-252-7.
+
+                            -11-CODE           All units shipped prior to 11/22/96.
+MANUFACTURER   ICS Medical Corporation, Schaumburg, Illinois.
+RECALLED BY    Manufacturer, by letter dated November 22,
+               1996.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Egypt, Wales, Portugal, England,
+               Canada.
+QUANTITY       32 units were distributed.
+REASON         The keyboard will lock up if a certain
+               sequence of keys is entered.
+
+                            -12-
+
+
+END OF ENFORCEMENT REPORT FOR FEBRUARY 19, 1997.  BLANK PAGES MAY
+FOLLOW.
+
+
+                                   ####
+
+
+
+  
+ End of Enforcement Report for 
+  
+
+  
+  
+    
+  
+

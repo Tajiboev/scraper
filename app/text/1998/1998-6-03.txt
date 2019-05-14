@@ -1,0 +1,723 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      32 captures
+	      19 Aug 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+June 3, 1998                                         98-22
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II ===========
+_______________
+PRODUCT        Chester's Flamin' Hot Fries, Corn & Potato
+Snacks,
+               in 1 and 4 ounce bags.   Recall #F-493-8.
+CODE           Sell by dates 14 APR, 21 APR, 28 APR, 05 MAY, 12
+               MAY, 19 MAY, 26 MAY, 02 JUN and 09 JUN
+MANUFACTURER   Frito-Lay, Inc., Topeka, Kansas;
+               Frito-Lay, Inc., Chamblee, Georgia.
+RECALLED BY    Frito-Lay, Plano, Texas, by hand-held
+               computer/communication devices, on April 7, 1998. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       6,232,272 bags were distributed; firm estimated
+               that 1,533,821 bags remained on market at time of
+               recall initiation.
+REASON         Product contains undeclared dairy products.
+
+_______________
+PRODUCT        Pasteurized & Homogenized Liquid Egg Product,
+               packed 18-2.2 pound cartons per case.
+               Recall #F-494-8.
+CODE           MAY 22/98 1148, Use Thru/Lot No.
+MANUFACTURER   Vanderpol Eggs Ltd., Abbotsford, BC Canada.
+RECALLED BY    Golden State Food Corporation, Sumner, Washington
+               (distributor), by telephone beginning on May 6,
+               1998, followed by visits beginning on May 7, 1998. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Alaska, Washington state, Idaho, Montana.
+QUANTITY       325 cases were distributed.
+REASON         Product was found contaminated with Salmonella C1.
+
+_______________
+PRODUCT        Canned Cod (Codfish) Liver in Oil, net weight 
+               300 g.  Recall #F-495-8.
+CODE           All codes.
+MANUFACTURER   Euro-Industry, S.P. Szczecin, Poland.
+RECALLED BY    Kransnyi Oktyabr, Inc., USA, Brooklyn, New York,
+               by letter on April 16, 1998.  Firm-initiated
+               recall complete.
+DISTRIBUTION   New York, New Jersey, Pennsylvania, Massachusetts,
+               Maryland, Ohio, Illinois, Georgia, Colorado,
+               Washington state.
+QUANTITY       2,100 cartons (24 tins per carton) were
+               distributed; firm estimated that little product
+               remained on market at time of recall initiation.
+REASON         Product is a low acid canned food which was
+               manufactured without registration or process
+               filing as required by 21 CFR Part 108.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+===========
+_______________
+PRODUCT        a) Amoxicillin for Oral Suspension, USP, 125 mg
+               per 5 mL, 80, 100 and 150 ml when mixed, Rx
+               semisynthetic antibiotic, 125 mg/5 mL, NDC
+               #55953-149-38, -40, -47, also packaged under the
+               Major label, Distributed by Major Pharmaceuticals,
+               Livonia, MI, NDC #0904-2619-04, -07 and Qualitest
+               label, Distributed by Qualitest Pharmaceuticals,
+               Inc. Huntsville, AL, NDC #0603-6500-64, -66
+               b) Amoxcillin for Oral Suspension, USP, 250 mg per
+               5 mL, 80, 100 and 150 mL when mixed, 250 mg/5 mL,
+               NDC #55953-130-38, -40, -47, also packaged under
+               the Major label, NDC #0904-2620-04, -07, Rx
+               antibiotic.  Recall #D-152/153-8.
+CODE           All lots within expiration date.
+MANUFACTURER   Novopharm Limited, Scarborough, Ontario, Canada.
+RECALLED BY    Novopharm USA, Inc., Schaumburg, Illinois, by
+               letter dated May 8, 1998.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Amount distributed:  a) 28,776 - 80-mL, 96,301
+               - 100-mL, 203,444 - 150-mL bottles; 
+               b) 40,474 - 80- mL, 246,535 - 100-mL, 
+               970,350 - 150-mL bottles.
+REASON         Lack of assurance of homogeneity.
+
+_______________
+PRODUCT        Atenolol Tablets; a synthetic beta-selective
+               adrenoreceptor blocking agent for the management
+               of hypertension; packaged in 100 & 1000 tablet
+               bottles:  a) 50 mg, NDC #55953-039-40, -80, also
+               packaged under the Major label, NDC #0904-7634-60,
+               -80, Rugby label, Mfd for Rugby Laboratories,
+               Inc., Norcross, Georgia, NDC #0536-3330-01, -10,
+               Qualitest label, NDC #0603-2371-21, -32, Martec
+               label, Mfd for Martec Pharmaceutical, Inc., Kansas
+               City, MO, NDC #52555-531-01, -10 and Mova label,
+               Mfd for Mova Pharmaceutical Corp., Caguas, PR
+               00725, NDC #55370-122-07
+               b) 100 mg, NDC #55953-401-40, also packaged under
+               the Rugby label, NDC #0536-3331-01, Qualitest
+               label, NDC #0603-2372-21, Martec label, NDC
+               #52555-534-01, and Moore label, Distributed by
+               Moore Drug Exchange, New Britain, Conn., NDC
+               #0839-7724-06.  Recall #D-154/155-8.
+CODE           All lots within expiration date.
+MANUFACTURER   Novopharm Ltd., Scarborough, Ontario, Canada.
+RECALLED BY    Novopharm USA, Inc., Schaumburg, Illinois, by
+               letter dated May 8, 1998.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Amount distributed:  a) 67,459 100-tablet and
+               49,858 1000-tablet bottles
+               b) 225,873 100-tablet bottles.
+REASON         Lack of blend uniformity assurance.
+
+_______________
+UPDATE         Recall #D-100/103-8, Propranolol HCL (Inwood
+               Laboratories, Inc., Inwood, New York), which
+               appeared in the April 1, 1998 Enforcement Report
+               has been extended to include 29 additional lot
+               numbers:
+               D-100-8: Propranolol HCl 60 mg Extended Release
+               (ER) Capsules, 100 count bottles, NDC #
+               0258-3609-01, 16 lots -- 7C003 (9/98), 7C004
+               (11/98), 7C005 (11/98), 7C017 (11/98), 7C018
+               (11/98), 7C019 (11/98), 7C021 (11/98), 7C022
+               (11/98), 7D007 (11/98), 7D008 (11/98), 7D009
+               (11/98), 7F042 (11/98), 7F043 (11/98), 7F044
+               (11/98), 7F045 (11/98) & 7F046 (11/98). 
+               D-101-8: Propranolol HCl 80 mg ER Capsules, 100
+               count bottles, NDC # 0258-3610-01.
+               4 lots - 7C024 (3/99), 7C026 (3/99), 7D014 (3/99)
+               & 7F048 (5/99).
+               D-102-8: Propranolol HCl 120 mg ER Capsules, 100
+               count bottles, NDC # 0258-3611-01, 6 lots - 7C028
+               (3/99), 7C029 (3/99), 7F053 (5/99), 7F054 (5/99),
+               7F056 (8/99) & 7F057 (8/99).
+               D-103-8: Propranolol HCl 160 mg ER capsules, 100
+               count bottles, NDC # 0258-3612-01, 3 lots 
+               - 7C033 (3/99), 7F058 (5/99) & 7F060 (5/99).
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III ==========
+_______________
+PRODUCT        a) OTO-Care (otic), Antipyrine 810 mg/Benzocaine
+               210 mg, 1/2 fluid ounce bottles, used for the
+               treatment of superficial infections of the
+               external auditory canal complicated by
+               inflammation caused by organisms susceptible to
+               the action of the antimicrobial, and is also
+               labeled to control itching; b) OTO Care HC (Otic)
+               Chloroxylenol USP 1 mg/Benzocaine 14 mg
+               Hydrocortisone, USP, 10 mg 1/2 fluid ounce
+               bottles, used to treat acute otitis media of
+               various etiologies.  Recall #D-147/148-8.
+CODE           Lot numbers:  a) F-2465 EXP 6/99; 
+               b) F-2459 EXP 6/99.
+MANUFACTURER   Propharma, Inc., Miami, Florida.
+RECALLED BY    Manufacturer, by a) telephone followed by fax on
+               April 3, 1998; b) by telephone and fax on May 4,
+               1998.  Firm-initiated recall ongoing.
+DISTRIBUTION   Puerto Rico.
+QUANTITY       Approximately 6,760 bottles were distributed.
+REASON         Stability - Accelerated stability testing failures
+               for benzocaine/hydrocortisone in OTO care HC and
+               antipyrine/benzocaine in OTC care.
+
+_______________
+PRODUCT        Neomycin and Polymyxin B Sulfate and
+               Hydrocortisone Otic Solution, USP (Neomycin
+               sulfate, equivalent To 3.5 mg Neomycin
+               base/Polymyxin B Sulfate 10,000
+               units/Hydrocortisone 10 mg), 10 mL bottles of 30,
+               used for otic use only, under the following
+               labels: Schein Pharmaceutical, Steris Laboratories
+               Inc., Akorn, Carlisle, Erva, Fougera, Geneva,
+               Generics of Puerto Rico, Goldline, IDE, H. L.
+               Moore, Major, Marlop Pharmaceuticals Inc., Mason,
+               Parmed, Robar Inc., Rugby, Teral, Teva, and United
+               Research Laboratories.  Recall #D-149-8.
+CODE           95C960, 95C961, 95D370, 95D371, 95D420, 95D620,
+               95D950, 95D951, 95D970, 95E040, 95E260, 95E410,
+               95E790, 95E990, 95F380, 95F570, 95G200, 95G450,
+               95G830, 95H020, 95H021, 95H640, 95H880, 95H881,
+               95J070, 95J120, 95L240, 95L820, 96A360, 96A490.
+MANUFACTURER   Steris Laboratories, Inc., Phoenix, Arizona.
+RECALLED BY    Manufacturer, by letter on March 18, 1998.  
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and Puerto Rico.
+QUANTITY       2,230,007 bottles were distributed; firm estimated
+               that 16,000 bottles remained on the market at time
+               of recall initiation.
+REASON         Stability - Lack of data at labeled storage
+               conditions.
+
+_______________
+PRODUCT        Piroxicam Capsules, USP; for acute or long-term
+               use in the relief of signs and symptoms of
+               osteoarthritis and rheumatoid arthritis; packaged
+               in bottles of 100, 500 & 1000 capsules: a) 10
+mg,
+               NDC #55953-617-40
+               b) 20 mg, NDC #55953-640-40, -70, -80  also
+               packaged under the Moore label, NDC #0839-7774-06,
+               -16; Major label, NDC #0904-5063-60, -40; and Mova
+               label, NDC #55370-841-07.  Recall #D-156/157-8.
+CODE           All lots within expiration date.
+MANUFACTURER   Novopharm, Ltd., Scarborough, Ontario, Canada.
+RECALLED BY    Novopharm USA, Inc., Schaumburg, Illinois, by
+               letter dated May 8, 1998.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Amount distributed:  a) 15,390 100-capsule
+               bottles; b) 52,366 100-capsule, 14,892 500-capsule
+               and 5,147 1000-capsule bottles.
+REASON         Lack of blend uniformity assurance.
+
+_______________
+PRODUCT        Various K.W. Botanicals brand OTC products:
+               a) Achillea & Symphytum 16 Salve (Achillea,
+               Symphytum, Calendula, Hypericum, Mahonia,
+               Plantago, Salvia, Prunella...), in 1 fluid ounce
+               glass bottles, OTC product; b) Thyme & Tea
+Tree 16
+               Oil (Plantago, Mahonia, Symphytum, Echinacea,
+               Larrea, Calendula, Oils, Vitamin E, Avocado,
+               Thyme, Tea Tree, Bay, Eucalyptus, Rue, Camphor,
+               Clove, Gum Arabic), in 1/8 ounce glass bottles,
+               for external use only; c) Thyme & Tea Tree 17
+Oil
+               (Plantago, Mahonia, Symphytum, Echinacea, Larrea,
+               Calendula, Oils; Vitamin E, Avocado, Thyme, Tea
+               Tree, Bay Eucalyptus, Rue, Camphor, Clove, Gum
+               Arabic), in 1/8 ounce glass bottles, for external
+               use only.  Recall #D-158/160-8.
+CODE           Lot numbers:  a) 4/97; b & c) none.
+MANUFACTURER   K. W. Botanicals, San Anselmo, California.
+RECALLED BY    Manufacturer, by letter on July 28, 1997.  
+               Firm-initiated recall ongoing.
+DISTRIBUTION   California.
+QUANTITY       a) 41 bottles; b) 4 1-dram bottles; c) 40 1-dram
+               bottles.
+REASON         Contamination - One bulk ingredient was detected
+               to contain Lanatosides.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II ===========
+_______________
+PRODUCT        a) Red Blood Cells; b) Platelets; c) Fresh Frozen
+               Plasma; d) Recovered Plasma.  
+               Recall #B-1128/1131-8.
+CODE           Contact FDA, Center for Biologics Evaluation and
+               Research, Office of Compliance (301) 827-6220 for
+               individual unit numbers recalled.
+MANUFACTURER   American Red Cross Blood Services, St. Paul,
+               Minnesota.
+RECALLED BY    Manufacturer, by telephone on November 26, 1997, 
+               and/or by letter dated December 12, 1997, and by
+               fax on December 2, 1997.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Illinois, Minnesota, Kentucky, Massachusetts,
+               Maryland, Pennsylvania, California.
+QUANTITY       a) 25 units; b) 20 units; c) 5 units; d) 22 units
+               were distributed.
+REASON         Blood products may have been collected in a manner
+               that could compromise the sterility of the
+               products.
+
+_______________
+PRODUCT        a) Red Blood Cells; b) Platelets; c) Fresh Frozen
+               Plasma; d) Recovered Plasma.  
+               Recall #B-1167/1170-8.
+CODE           Unit numbers:  22389-4838, 22389-4832, 22389-2275,
+               22389-2266     22389-2575, 22390-4631, 22390-5393,
+               22390-4614,    22390-9566, 22390-9551, 22390-9560,
+               22390-0565,    22390-7819, 22389-5184, 22390-8386,
+               22390-7878,    22390-3346.
+MANUFACTURER   Blood Services, Inc., Las Vegas, Nevada.
+RECALLED BY    Manufacturer, by letters between March 20, 1997
+               and August 1, 1997, and May 9 and 19, 1997, and
+               September 12, 1997.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nevada, New York, Switzerland.
+QUANTITY       a) 3 units; b) 2 units; c) 7 units; d) 10 units
+               were distributed.
+REASON         Blood products were collected from donors whose
+               screening for high risk behavior was inadequately
+               performed.
+
+_______________
+PRODUCT        a) Red Blood Cells; b) Single Donor Plasma; 
+               c) Red Blood Cells, for further manufacture; 
+               d) Recovered Plasma.  Recall #B-1171/1174-8.
+CODE           Contact FDA, Center for Biologics Evaluation and
+               Research, Office of Compliance (301) 827-6220 for
+               individual unit numbers recalled.
+MANUFACTURER   American Red Cross Blood Services, Peoria,
+               Illinois.
+RECALLED BY    Manufacturer, by letters dated September 1, 1997,
+               October 1, 1997, November 20, 1997, February 5,
+               1998, and March 10, 1998.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Illinois and California.
+QUANTITY       a) 16 units; b) 3 units; c) 4 units; d) 19 units
+               were distributed.
+REASON         Blood products tested negative for the antibody to
+               the human immunodeficiency virus type 1
+               (anti-HIV-1), but were collected from a donor who
+               previously tested repeatedly reactive for
+               anti-HIV-1.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III ==========
+_______________
+PRODUCT        a) Red Blood Cells; b) Platelets.
+               Recall #B-1136/1137-8.
+CODE           Unit #17FZ00520.
+MANUFACTURER   American Red Cross Blood Services, St. Paul,
+               Minnesota.
+RECALLED BY    Manufacturer, by telephone on February 20, 1998. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Minnesota.
+QUANTITY       1 unit was distributed.
+REASON         Blood products were collected from a donor who
+               reported a post donation sore throat, were not
+               quarantined, and were distributed after receipt of
+               the information.
+
+_______________
+PRODUCT        Reagent Red Blood Cells, Panocell-10; and Reagent
+               Red Blood Cells, Panocell-10, Ficin Treated. 
+               Recall #B-1166-8. 
+CODE           Reagent Red Blood Cells, Panocell-10, Lot 04587,
+               and Reagent Red Blood Cells, Panocell-10, Ficin
+               Treated, Lot 04587E. 
+MANUFACTURER   Immucor, Inc., Norcross, Georgia.
+RECALLED BY    Manufacturer, by letter dated January 26, 1998. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       507 kits (Lot #04587) and 187 kits (lot #0487E).
+REASON         Reagent Red Blood Cells, incorrectly identified as
+               f negative on the accompanying master list,
+               Problem: Reagent Red Blood Cells, incorrectly
+               identified as f negative on the accompanying
+               master list.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS
+II =============
+_______________
+PRODUCT        National Medical Care brand Venous Hemodialysis
+               Bloodlines.  Recall #Z-582-8.
+CODE           Catalog No. 03-7317-5, Lot Nos. R7J001, R7J002 and
+               R7J004.
+MANUFACTURER   Fresenius Medical Care North America, Lexington,
+               Massachusetts.
+RECALLED BY    Fresenius Medical Care North America, Renal
+               Product Technologies, Lexington, Massachusetts, by
+               letter on April 29, 1998.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide and Puerto Rico.
+QUANTITY       1,595 cases (24 units per case) were distributed.
+REASON         There is a possibility that a portion of the lots
+               were not processed according to validated
+               sterilization cycle, therefore, compromising the
+               sterility of the bloodlines.
+
+_______________
+PRODUCT        Apnea slow breath and heart rate monitors:
+               a) Assurance 2000 Heart/Respiration Monitor
+               b) Assurance 2000 Hospital Monitor.
+               Recall #Z-583/584-8.
+CODE           Model Number      Serial Number
+               2000WH            7057
+               A-2000            11935***
+                          *** =  077, 562, 565 through 595, 597
+                                 through 621, 624, 627, 629
+                                 through 640, 642 through 648,
+                                 651, 653, 655, 658 through 691,
+                                 696, 701, through 706, 708
+                                 through 777, 779 through 819,
+                                 821 through 853, 855 through 999
+
+                                 11936***
+                          *** =  000 through 048, 051 through
+                                 086. 088 through 116, 118, 119,
+                                 121 through 133, 135 through
+                                 217, 219 through 221, 223
+                                 through 247, 249 through
+                                 252, 254 through 290, 292, 294
+                                 through 311, 313 through 375,
+                                 377 through 381, 384 through
+                                 386, 388 through 393, 395
+                                 through 418, 420 through 433,
+                                 435 through 456, 458 through
+                                 483, 485 through 579, 582, 584
+                                 through 594, 596, 597, 598,604
+                                 through 666, 668, 670 through
+                                 681, 683 through 703, 705
+                                 through 715, 717 through 731,
+                                 733, 734, 735, 737, 738, 740,
+                                 741, 742
+
+                                 11938***
+                           *** = 830, 832, 865, 870, 871, 874
+
+                                 33495
+               A2000H            8890 through 8901, 8906, 8907,
+                                 8908, 8910 through 8913.
+MANUFACTURER   Nellcor Puritan Bennett, Inc., Minneapolis,
+               Minnesota.
+RECALLED BY    Manufacturer, by letter dated May 13, 1998.  
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 1,143 devices were distributed.
+REASON         Contaminated circuit boards could cause a product
+               malfunction.  The devices could fail to alarm,
+               when an alarm is appropriate to warn of apnea or
+               abnormal heart rate.
+
+_______________
+PRODUCT        Bipolar Rx Pacing Leads, intended for use with
+               pulse generators for long-term cardiac pacing. 
+               Recall Z-585-8.
+CODE           All leads manufactured since 1983.
+MANUFACTURER   Aulzer Oscor, Inc. (Formerly Oscor Medical
+               Corporation), Palm Harbor, Florida.
+RECALLED BY    Manufacturer, by letter mailed beginning April 20,
+               1997.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       21,000 leads were distributed.
+REASON         The polyurethane insulation of the device is
+               cracking resulting in higher than normal failure
+               rates.
+
+_______________
+PRODUCT        R.S.V. Collection Kit, Nasal Washing Kit and Would
+               Care Tray:
+               a) Centurion Hospital Products brand Latex Free
+               Nasal Washing Kit, Reorder #RSV1525
+               b) Centurion Hospital Products brand R.S.V.
+               Collection Kit, Reorder #S2070.
+               c) Centurion Hospital Products brand Wound Care
+               Tray, Reorder # WT1180.  Recall #B-588/590-8.
+CODE           Lot numbers:  a) S11037, S01198 and S03098
+               b) S01058; c) 12166, 12026, 04287, 06097, 06167,
+               06307, 09157, 09297, 10137, M11037, M11247,
+               M12157, and M02028.  
+MANUFACTURER   Kendall Healthcare Products Company, Mansfield,
+               Massachusetts (component).
+RECALLED BY    Tri-State Hospital Supply Corporation, Howell,
+               Michigan.
+DISTRIBUTION   California, Georgia, Iowa, Minnesota, Nebraska,
+               Texas, Virginia. 
+QUANTITY          Amount Dist.  Estimated in Marketplace
+               a)       900      less than 200 
+               b)       100                  0 
+               c)       19,140   less than 4,020
+REASON         contain sodium chloride solution which is labeled  
+               as sterile which is contaminated with Ralstonia    
+               pickettii (formerly referred to as Pseudomonas     
+               pickettii), an opportunistic pathogen.
+ _______________ 
+PRODUCT        Companion CR50 Conserving Oxygen Regulators,
+               designed to be used with high-pressure oxygen
+               cylinders to conserve oxygen and is both a regular
+               and conserving device: a)Companion CR50 Conserving
+               Oxygen Regulators, Part 134220-01, b) Companion
+               R50 Conserving Oxygen Regulators, Part 134221-01,
+CODE           Lot Numbers: a) 741A, 745A, 751A, 803A; b) 745A.
+MANUFACTURER   Nellcor Puritan Bennett, Inc., Lenexa, Kansas.
+RECALLED BY    Manufacturer, by letter dated April 14, 1998. 
+               Firm-initiated recall ongoing. 
+DISTRIBUTION   Nationwide and Japan. 
+QUANTITY       1,025 units were distributed. 
+REASON         The units have a potential for a no flow condition 
+               during operation caused by a gasket associated
+               with the pressure relief valve of the regulator. 
+
+RECALLS AND FIELD CORRECTIONS: DEVICES CLASS III="===========" 
+_______________ 
+PRODUCT        B.E.C. Growth Chek Microbial Suspension of         
+               Bacillus, used for quality control testing of      
+               culture media per USP Growth Promotion testing and 
+               Bacteriostasis/Fungistasis Testing methods. Recall 
+               #Z-561-8. 
+CODE           Lot #012798 EXP 7/27/98. 
+MANUFACTURER   Biological & Environmental Control Laboratories,
+               Inc., doing business as B.E.C. Laboratories, Inc.,
+               Toledo, Ohio. RECALLED BY Manufacturer, by letter
+               on April 30, 1998. Firm-initiated recall ongoing.
+DISTRIBUTION   New York, Illinois, Nebraska, New Mexico, Rhode
+               Island, Indiana, Pennsylvania. QUANTITY 18 vials
+               were distributed. REASON The population of
+               bacterial suspension has dropped to less than the
+               labeled population, resulting in failure to meet
+               labeled shelf life.
+ _______________ 
+PRODUCT        Revolution Flowable Light Cure Dental Composite,
+               used for permanent tooth fillings. Recall
+               #Z-580-8. 
+CODE           The product part numbers are: 
+               28289, 28290, 28660, 28793, 450100, 450102,
+               450104, 450139. 
+               Lot numbers within these part numbers: 
+               709170, 709680, 709789, 710036, 710195, 710372,
+               710387, 710528, 710577, 710672, 711059, 711085,
+               711182, 711256, 711303, 711329, 711330, 711339,
+               711445, 712072, 712083, 712565, 801254, 801405,
+               803071, 803156, 803366. 
+MANUFACTURER   Scientific Pharmaceuticals, Inc., Pomona,
+               California. 
+RECALLED BY    Kerr Corporation, subsidiary of Sybron Dental
+               Specialties, Inc., Orange, California, by letter
+               on April 1, 1998. Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international. 
+QUANTITY       62,254 syringes were distributed. 
+REASON         The resin does not set completely after curing. 
+_______________ 
+PRODUCT        Polymyxin B Sulfate, USP, Catalog #0319, received
+               in 135 bulk bottles and is repackaged and
+               distributed under the Amresco label. Firm believes
+               that this product is used as an ingredient for
+               making tissue culture media and biological growth
+               media, or as an ointment placed on a bandage, or
+               as a semen extender. Recall #Z-581-8. 
+CODE           Lot #1987A13 EXP 12/31/01. 
+MANUFACTURER   Pfizer, Inc, Groton, Connecticut (responsible
+               firm). 
+RECALLED BY    Amresco, Inc., Solon, Ohio (repacker), by letter
+               on April 29, 1997. Firm-initiated recall complete.
+DISTRIBUTION   Maine, Massachusetts, Pennsylvania, Arizona,
+               California, Missouri, Ohio, Hong Kong, Shang-Hi,
+               Japan. 
+QUANTITY       36 bottles were distributed. 
+REASON         The label has an incorrect potency value.
+ _______________ 
+PRODUCT        Centurion Hospital Products brand Pelvic Exam
+               Tray, Reorder #PE2255. Recall #Z-591-8. 
+CODE           Lot numbers: S05197, S07077, S08257, S09157,
+               S10207, S02028, S03098. 
+MANUFACTURER   Kendall Healthcare Products Company, Mansfield,
+               Massachusetts (component). 
+RECALLED BY    Tri-State Hospital Supply Corporation, Howell,
+               Michigan, by telephone or fax on April 21, 1998,
+               and by letter dated April 21, 1998. Firm-initiated
+               recall ongoing. 
+DISTRIBUTION   California, Georgia, Iowa, Minnesota, Nebraska,
+               Texas, Virginia. 
+QUANTITY       4,840 units were distributed; firm estimated that
+               less than 600 units remain on the market. 
+REASON         Device contains sodium chloride solution which is
+               labeled as sterile which is contaminated with
+               Ralstonia Pickettii (formerly referred to as
+               Pseudomonas pickettii), an opportunistic pathogen.
+ _______________ 
+PRODUCT        MLA Electra Automated Coagulation Testing
+               Instruments, used to provide data on blood
+               clotting and factor assays: a) Model E900C (Part
+               No. 1095C), b) Model E1000C (Part No. 1096C).
+               Recall #Z-597/598-8. 
+CODE           Serial Numbers: a) 3645 thru 3675; b) 3524-2010,
+               3523-2011, R001-R001, R004-R004 through R040-R040.
+MANUFACTURER   Medical Laboratory Automation (MLA), Inc.,
+               Pleasantville, New York. 
+RECALLED BY    Manufacturer, by letter on April 23, 1998.
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   New York, New Jersey, Maryland, Virginia, West
+               Virginia, Tennessee, Florida, Illinois, Michigan,
+               Texas, Oklahoma, Arizona, California. 
+QUANTITY       a) 31 units; b) 38 units were distributed. 
+REASON         The video boards are not compatible with the
+               central processing unit. 
+
+RECALLS AND FIELD CORRECTIONS: VETERINARY PRODUCTS CLASS II="==" 
+_______________ 
+PRODUCT        ChlorhexiDerm Scrub 2% Chlorhexidine, antiseptic
+               antimicrobial surgical scrub. Recall #V-023-8.
+CODE           Lot Numbers: 7347 and 7347A. 
+MANUFACTURER   DVM Pharmaceuticals, Inc., Miami, Florida.
+RECALLED BY    Manufacturer, by letter dated April 21, 1998.
+               Firm-initiated recall ongoing. 
+DISTRIBUTION   Nationwide. 
+QUANTITY       1,160 gallons were distributed; firm estimated
+               little product remained on market at time of
+               recall initiation. 
+REASON         Product analyzed and tested positive for Serratia
+               marcescens and Pseudomonas aeruginosa.
+ _______________ 
+PRODUCT        Radix Labs Milk Fever K Sterile, nonpyrogenic (for
+               the treatment of milk fever in cattle), in 500 ml
+               bottles. Recall #V-024-8. 
+CODE           Lot numbers R6P010 EXP 11/98. 
+MANUFACTURER   Radix Laboratories, Inc., Eau Claire, Wisconsin.
+RECALLED BY    Manufacturer, by letter dated May 11, 1998.
+               Firm-initiated recall ongoing. 
+DISTRIBUTION   Minnesota, Wisconsin, Illinois and Iowa 
+QUANTITY       1,850 500-ml bottles were distributed. 
+REASON         Precipitate found in the injectable product at 18
+               month check (product has 2 year expiration
+               dating). 
+
+RECALLS AND FIELD CORRECTIONS VETERINARY PRODUCTS: CLASS III
+ _______________ 
+PRODUCT        Nutrena Chick Starter-Grower with Amprolium and
+               Ethopabate, type C medicated feed (for coccidiosis
+               prevention). Recall #V-025-8. 
+CODE           Lot # F8089. 
+MANUFACTURER   Cargill Feed Division, Nutrena Feeds Division,
+               Flora, Illinois. 
+RECALLED BY    Manufacturer, by telephone on April 15, 1998.
+               Firm-initiated recall complete. 
+DISTRIBUTION   Illinois. 
+QUANTITY       225 bags were distributed. 
+REASON         The medicated feed was manufactured with the wrong
+               Type A medicated article. The Ethopabate active
+               drug ingredient was left out at manufacture. 
+
+           END OF ENFORCEMENT REPORT FOR JUNE 3, 1998. 
+
+                           ####

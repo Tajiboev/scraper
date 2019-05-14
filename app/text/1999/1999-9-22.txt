@@ -1,0 +1,368 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  May
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  21
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      28 captures
+	      13 Oct 1999 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+
+
+September 22, 1999                           99-38
+
+RECALLS AND FIELD CORRECTIONS: COSMETICS -- CLASS II
+________
+PRODUCT
+Aussie Land Kangaroo Island Detangler Juicy Peach, in 
+10.1 fluid ounce pump spray.  Recall #F-667-9.
+CODE
+Lot numbers:  
+9G16992a   9G16168a
+9G16168b   9C17104a
+9E12068a   9E13789c.
+MANUFACTURER
+Redmond Products, Inc., Stamford, Connecticut.
+RECALLED BY
+Manufacturer, by mailgram/voice mail, and by press release on 
+August 11, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+50,148 units.
+REASON
+Product is contaminated with Burkholderia cepacia.
+
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS II
+________
+PRODUCT
+Lake Park brand Sweet Georgia Carrots, Net Wt 80 Oz (5 lb) 2.2 
+kg.  Recall #F-668-8.
+CODE
+All carrots in distribution channels.
+MANUFACTURER
+Zellwin Produce Company, Lake Park, Georgia.
+RECALLED BY
+Manufacturer, by letter and telephone on June 24, 1999.  The 
+State of Georgia also issued a press release regarding this 
+recall on June 25, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Georgia and Florida.
+QUANTITY
+Undetermined.
+REASON
+The finding of PCNB (pesticide) on these carrots renders this 
+food unsafe within the meaning of Section 408 of the FD&C; Act.
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- 
+CLASS II
+________
+PRODUCT
+Merrem (Meropenem for Injection), used for intra-abdominal 
+infections and bacterial meningitis: a) 500 mg in 20 ml and 100 
+ml vials; b) 1 gram in 30 ml, and 100 ml vials, and in 15 ml 
+ADDVantage vials.  NDCs 0310-0325-11 (100 ml vial/500 mg), 0310-
+0325-20 (20 ml vial/500 mg), 0310-0321-11 (100 ml vial/1 gram), 
+0310-0321-15 (15 ml vial/1 gram), and 0310-0321-30 (30 ml vial/1 
+gram).  Recall #D-410/411-9.
+CODE
+The expiration period for all lots is 8/99 - 11/01.  The lot 
+numbers are as follows:
+500 mg lots: 4082Y, 3105A, 3192B, 3193B, 3625A, 3720Y, 4083Y, 
+4103A, 4323A, 4419Y, 4695A, 4722A, 4777A, and 4778A.
+1 gram lots: 3210Y, 3228Y, 3869Y, 4409Y, 3099A, 3912A, 4410Y, 
+4804Y, 3101A, 3102A, 3103A, 3107A, 3108A, 3176B, 3178B, 3179B, 
+3180B, 3182B, 3183B, 3184B, 3190B, 3191B, 3212Y, 3213Y, 3214Y, 
+3621A, 3622A, 3717Y, 3913A, 3914A, 3915A, 4078Y, 4078Y, 4080Y, 
+4081Y, 4100A, 4101A, 4321A, 4322A, 4324A, 4325A, 4413Y, 4414Y, 
+4415Y, 4719A, 4733A, 4734A, and 4806Y.
+MANUFACTURER
+Marsam Pharmaceuticals, Inc., Cherry Hill, New Jersey.
+RECALLED BY
+AstraZeneca, a business unit of Zeneca, Inc., Wilmington, 
+Delaware, by letter on August 13, 1999.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Nationwide and Canada.
+QUANTITY
+Approximately 2,500 cases remained on market at time of recall 
+initiation.
+REASON
+Current good manufacturing practice deviations (at contract 
+manufacturer).
+
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+________
+PRODUCT
+Acyclovir Tablets, Rx oral antiviral drug for the acute treatment 
+of herpes zoster, initial episodes and management of recurrent 
+episodes of genital herpes, and the treatment of chickenpox, 
+packaged in unit dose and bottles of 100 and 500 tablets under 
+the following labels:
+a) 400 mg. Tablets:
+i) 100 tablets/unit dose, NDC #51079-877-20, Distributed by UDL 
+Laboratories, Inc., Rockford, IL;
+ii) 100 tablet bottle, NDC #55953-943-40;
+iii) 500 tablet bottle, NDC #55953-943-7;
+b) 800 mg. Tablets: 
+i) 100 tablets/unit dose, NDC #51079-878-20, Distributed by UDL 
+Laboratories, Inc., Rockford, IL;
+ii) 100 tablet bottle, NDC #55953-947-40;
+iii) 500 tablet bottle, NDC #55953-947-70.
+Recall #D-421/422-9.
+CODE
+The following lot numbers will be followed with letter sublot 
+designations, i.e. 113569A, on the package labels:
+a) 400 mg.: 113569, 108227
+b) 800 mg.: 108235, 108772, 113570, 113571, 113572.
+MANUFACTURER
+Novopharm Ltd., Toronto, Ontario, Canada.
+RECALLED BY 
+Novopharm USA, Inc., Schaumburg, Illinois, by letters dated 
+August 19 and 24, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+2,212 unit dose cartons, 105 500-tablet bottles and 12,737 100-
+tablet bottles of 400 mg. tablets and 1,602 unit dose cartons, 
+759 500-tablet bottles and 8,838 100-tablet bottles of 800 mg. 
+tablets were distributed; firm estimates that 40% of the product 
+remains on the market.
+REASON
+Softening and cracking of tablets.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+________
+PRODUCT
+Red Blood Cells.  Recall #B-1193-9.
+CODE
+Unit Numbers:  0432939, 0457464, 0121373, 0151631.
+MANUFACTURER
+New York Blood Services, New York, New York.
+RECALLED BY
+Manufacturer, by letter dated July 23, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+New York and New Jersey.
+QUANTITY
+4 units were distributed.
+REASON
+Blood products tested negative for antibody to the human 
+immunodeficiency virus type 1 (anti-HIV-1), but were collected 
+from a donor who previously tested repeatedly reactive for anti-
+HIV-1, Western blot indeterminate.
+________
+PRODUCT
+Platelets, Pheresis, leukoreduced.  Recall #B-1202-9.
+CODE
+Unit numbers: 30171-1519-01, 30172-5610-01, 30172-5610-02.
+MANUFACTURER
+United Blood Services, Bismarck, North Dakota.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by letter dated January 
+8, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Arizona, Nevada, North Dakota.
+QUANTITY
+3 units were distributed.
+REASON
+Blood products had unacceptable platelet counts.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+________
+PRODUCT
+Red Blood Cells.  Recall #B-1194-9.
+CODE
+Unit numbers:  6016051, 6016054, 6016064, 6016069.
+MANUFACTURER
+Blood Bank of Alaska, Anchorage, Alaska.
+RECALLED BY
+Manufacturer, by telephone on June 9, 1999.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+Alaska.
+QUANTITY
+4 units were distributed.
+REASON
+Blood products were leukoreduced by filtration greater than 120 
+hours after refrigeration.
+________
+PRODUCT
+a) Red Blood Cells; b) Recovered Plasma.
+Recall #B-1200/1201-9.
+CODE
+Unit #30171-9524.
+MANUFACTURER
+United Blood Services, Bismarck, North Dakota.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by telephone on July 
+20, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+North Dakota, Switzerland.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood products were collected from a donor with an elevated body 
+temperature.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- 
+CLASS II
+_______
+PRODUCT
+Rotabulator Rotalink, indicated for use in patients with coronary 
+artery disease:
+a) Rotablator RotaLink Plus Pre-connected Exchangeable Rotational 
+Atherectomy System with Catalog Nos. 23631-002, 23631-003, 23631-
+004, 23631-005, 23631-006, 23631-007, 23631-015, 23631-016;
+b) Rotablator RotaLink Coronary Advancer with Catalog Nos. 22782-
+001A0, 22782-0010;
+c) Rotablator RotaLink Peripheral Advancer with Catalog No. 
+11381-90, intended for percutaneous use in peripheral vessels in 
+patients with occlusinve atherosclerotic disease who are 
+acceptable candidates for bypass graft surgery or percutaneous 
+transluminal angioplasty.
+Recall #Z-1220/1222-9.
+CODE
+All lot numbers.
+MANUFACTURER
+Boston Scientific Corporation Northwest, Redmond, Washington.
+RECALLED BY
+Manufacturer, by FED-EX or fax on August 6, 1999, and by letter 
+dated August 12, 1999.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+Approximately 35,000 coronary devices and 280 peripheral 
+advancers were distributed.
+REASON
+The braking mechanism may fail to secure the guidewire during 
+use, which can cause the guidewire to move suddenly, resulting in 
+vessel damage.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+________
+PRODUCT
+EPROM Version 3.00 Software for the Olympus EVIS CV-140  Video 
+System Center, an endoscopic video imaging system that provides 
+photo/video documentation of the upper lower gastrointestinal 
+tract using the EVIS 140 series video endoscopes.  Recall #Z-
+1227-9.
+CODE
+Catalog #3010, Serial numbers:  7834678 to 7948133.
+MANUFACTURER
+Shirakawa Olympus Company, Ltd., Japan.
+RECALLED BY
+Olympus America Inc., Melville, New York, by letter on or about 
+July 27, 1999.  Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+1,430 units were distributed.
+REASON
+The device has a malfunction due to incorrect coding of the 
+software, which can cause the software to overwrite the patient 
+ID number with any comments that are entered by the user.
+
+END OF ENFORCEMENT REPORT FOR SEPTEMBER 22, 1999.  BLANK PAGES MAY 
+FOLLOW.
+
+####

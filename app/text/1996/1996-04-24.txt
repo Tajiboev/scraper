@@ -1,0 +1,924 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Sep
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      40 captures
+	      25 Feb 1997 - 05 Aug 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+04/24/1996
+
+ ENFORCEMENT REPORT FOR 04/24/96 
+
+
+April 24, 1996                                  96-17
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II ===========
+_______________
+PRODUCT        Shellstock Oysters harvested at Drum Bay,
+               Black Bay, Lake Fortuna, or Lake Machias,
+               Louisiana.  Recall #F-442-6.
+CODE           Harvested between 1/23 - 2/23/96.
+MANUFACTURER   Cyril's Ice House and Supplies, Shell Beach,
+               Louisiana.
+RECALLED BY    Manufacturer, by telephone on February 23,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Mississippi, Alabama, Louisiana.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Oysters harvested at Drum Bay, Black Bay, Lake
+               Fortuna, or Lake Machias, LA between the dates
+               1/23 - 2/23/96 have been associated with
+               outbreaks of gastroenteritis.
+
+_______________
+PRODUCT        Shellstock Oysters harvested at Drum Bay,
+               Black Bay, Lake Fortuna, or Lake Machias,
+               Louisiana.  Recall #F-443-6.
+CODE           Harvested between 1/23 - 2/23/96.
+MANUFACTURER   Motivatit Seafoods, Inc., Houma, Louisiana.
+RECALLED BY    Manufacturer, telephone on or about February
+               23, 1996.  Firm had been notified by Louisiana
+               State on February 23, 1996.  Firm-initiated
+               recall complete.
+DISTRIBUTION   California, Louisiana, Arizona, Maryland, New
+               York, New Jersey, North Carolina, Delaware,
+               Pennsylvania, Florida, South Carolina.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Oysters harvested at Drum Bay, Black Bay, Lake
+               Fortuna, or Lake Machias, LA between the dates
+               1/23 - 2/23/96 have been associated with
+               outbreaks of gastroenteritis.
+
+_______________
+PRODUCT        Shellstock Oysters and Shucked Oysters
+               Harvested at Drum Bay, Black Bay, Lake
+               Fortuna, Or Lake Machias, Louisiana.  
+               Recall #F-444/445-6.
+CODE           Harvested between 1/23 - 2/23/96.
+MANUFACTURER   Tony V's Oysters, Inc., Amite, Louisiana.
+RECALLED BY    Manufacturer, by telephone on or about
+               February 23, 1996.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Louisiana, Alabama, Tennessee, Georgia.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Oysters harvested at Drum Bay, Black Bay, Lake
+               Fortuna, or Lake Machias, LA between the dates
+               1/23 - 2/23/96 have been associated with
+               outbreaks of gastroenteritis.
+
+_______________
+PRODUCT        Shellstock Oysters harvested at Drum Bay,
+               Black Bay, Lake Fortuna, or Lake Machias, LA. 
+               Recall #F-446-6.
+CODE           Harvested between 1/23 and 2/23/96.
+MANUFACTURER   Melerine Seafood, Inc., St. Bernard,
+               Louisiana.
+RECALLED BY    Manufacturer, by telephone, on or about
+               February 23, 1996.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Mississippi, Louisiana, Alabama, South
+               Carolina.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Oysters harvested at Drum Bay, Black Bay, Lake
+               Fortuna, or Lake Machias, LA between the dates
+               1/23 - 2/23/96 have been associated with
+               outbreaks of gastroenteritis.
+
+_______________
+PRODUCT        Shellstock Oysters harvested at Drum Bay,
+               Black Bay, Lake Fortuna, or Lake Machias,
+               Louisiana.  Recall #F-447-6.
+CODE           Harvested between 1/23 - 2/23/96.
+MANUFACTURER   Guidry's Seafood, Cutoff, Louisiana.
+RECALLED BY    Manufacturer, by telephone on February 26,
+               1996.  Firm-initiated recall complete.
+
+                             -2-DISTRIBUTION   Texas and Louisiana.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Oysters harvested at Drum Bay, Black Bay, Lake
+               Fortuna, or Lake Machias, LA between the dates
+               1/23 - 2/23/96 have been associated with
+               outbreaks of gastroenteritis.
+
+_______________
+PRODUCT        Shucked Oysters harvested at Drum Bay, Black
+               Bay, Lake Fortuna, or Lake Machias, Louisiana,
+               in 1 gallon plastic containers (7 pounds
+               each).  Recall #F-448-6.
+CODE           Harvested between 1/23 - 2/23/96.
+MANUFACTURER   Louisiana Seafood Exchange, Jefferson,
+               Louisiana.
+RECALLED BY    Manufacturer, by telephone on or about
+               February 23, 1996.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Louisiana and Mississippi.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Oysters harvested at Drum Bay, Black Bay, Lake
+               Fortuna, or Lake Machias, LA between the dates
+               1/23 - 2/23/96 have been associated with
+               outbreaks of gastroenteritis.
+
+_______________
+PRODUCT        Shellstock Oysters harvested at Drum Bay,
+               Black Bay, Lake Fortuna, or Lake Machias,
+               Louisiana.  Recall #F-449-6.
+CODE           Harvested 1/23 - 2/23/96.
+MANUFACTURER   Fox Seafood, Inc., Pointe-a-la-Hache,
+               Louisiana.
+RECALLED BY    Manufacturer.  Firm was notified by the State
+               of Louisiana on February 23, 1996.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Georgia, Florida, Alabama.
+QUANTITY       Approximately 2,000 100-pound sacks were
+               distributed; firm estimates none remains on
+               the market.
+REASON         Oysters harvested at Drum Bay, Black Bay, Lake
+               Fortuna, or Lake Machias, LA between the dates
+               1/23 - 2/23/96 have been associated with
+               outbreaks of gastroenteritis.
+
+_______________
+PRODUCT        Shucked Oysters harvested at Drum Bay, Black
+               Bay, Lake Fortuna, or Lake Machias, Louisiana. 
+               Recall #F-450-6.
+CODE           Harvested between 1/23 - 2/23/96.
+MANUFACTURER   Mr. Rabbit, Inc., Plaquemines, Louisiana.
+
+                             -3-RECALLED BY    Manufacturer, by visit completed on February
+               28, 1996.  Firm had been contacted by the
+               State of Louisiana regarding the oyster
+               problem.  Firm-initiated recall complete.
+DISTRIBUTION   Georgia, Louisiana.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Oysters harvested at Drum Bay, Black Bay, Lake
+               Fortuna, or Lake Machias, LA between the dates
+               1/23 - 2/23/96 have been associated with
+               outbreaks of gastroenteritis.
+
+_______________
+PRODUCT        Shellstock Oysters harvested at Drum Bay,
+               Black Bay, Lake Fortuna, or Lake Machias,
+               Louisiana.  Recall #F-451-6.
+CODE           Harvested between 1/23 - 2/23/96.
+MANUFACTURER   Southern Foods Cajun Cuisine, Ycloskey,
+               Louisiana.
+RECALLED BY    Manufacturer, by telephone on February 23,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Virginia, North Carolina, Florida, Alabama,
+               Mississippi.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Oysters harvested at Drum Bay, Black Bay, Lake
+               Fortuna, or Lake Machias, LA between the dates
+               1/23 - 2/23/96 have been associated with
+               outbreaks of gastroenteritis.
+
+_______________
+PRODUCT        Shellstock Oysters and shucked oysters
+               harvested at Drum Bay, Black Bay, Lake
+               Fortuna, or Lake Machias, Louisiana.  Recall
+               #F-452/453-6.
+CODE           Harvested between 1/23 - 2/23/96.
+MANUFACTURER   Taban's Seafood, River Ridge, Louisiana.
+RECALLED BY    Manufacturer, by telephone on or about
+               February 23, 1996.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Mississippi, Missouri, New York, Utah.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Oysters harvested at Drum Bay, Black Bay, Lake
+               Fortuna, or Lake Machias, LA between the dates
+               1/23 - 2/23/96 have been associated with
+               outbreaks of gastroenteritis.
+
+_______________
+PRODUCT        Shucked Oysters harvested at Drum Bay, Black
+               Bay, Lake Fortuna, or Lake Machias, Louisiana,
+               in gallon plastic containers.  
+               Recall #F-454-6.
+CODE           1/27/96; 2/1/96; 2/7/96. 
+MANUFACTURER   Pearson's Seafood, Inc., Lacombe, Louisiana.
+
+                             -4-RECALLED BY    Manufacturer, by telephone on or about
+               February 23, 1996.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Maryland.
+QUANTITY       38 1-gallon containers were distributed.
+REASON         Oysters harvested at Drum Bay, Black Bay, Lake
+               Fortuna, or Lake Machias, LA between 1/23 -
+               2/23/96 have been associated with outbreaks of
+               gastroenteritis.
+
+_______________
+PRODUCT        Shellstock Oysters harvested at Drum Bay,
+               Black Bay, Lake Fortuna, or Lake Machias,
+               Louisiana.  Recall #F-455-6.
+CODE           Harvest dates of 1/23 - 2/23/96.
+MANUFACTURER   Gulf Island Seafood, Hopedale, Louisiana.
+RECALLED BY    Manufacturer, by telephone and by letter
+               February 9, 1996.  Firm had been contacted by
+               Louisiana State regarding oyster recall. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Louisiana, Virginia, Alabama, Maryland, North
+               Carolina.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Oysters harvested at Drum Bay, Black Bay, Lake
+               Fortuna, or Lake Machias, LA between the dates
+               1/23 - 2/23/96 have been associated with
+               outbreaks of gastroenteritis.
+
+_______________
+PRODUCT        Shucked Oysters harvested at Black Bay. 
+               Recall #F-456-6.
+CODE           Harvest date of 2/15/96.
+MANUFACTURER   Battistella's Seafood, New Orleans, Louisiana.
+RECALLED BY    Manufacturer, by telephone on or about
+               February 23, 1996.  Firm-initiated recall
+               complete.
+DISTRIBUTION   New York.
+QUANTITY       6 gallons were distributed.
+REASON         Oysters harvested at Drum Bay, Black Bay, Lake
+               Fortuna, or Lake Machias, LA between the dates
+               1/23 - 2/23/96 have been associated with
+               outbreaks of gastroenteritis.
+
+_______________
+PRODUCT        Shellstock Oysters and halfshell oysters
+               harvested at Drum Bay, Black Bay, Lake 
+               Fortuna, or Lake Machias, Louisiana.  
+               Recall #F-457/458-6.
+CODE           Harvest dates of 1/23 - 2/23/96;
+MANUFACTURER   Pace Oysters and Seafood, Inc., Buras,
+               Louisiana.
+
+                             -5-RECALLED BY    Manufacturer, by telephone immediately
+               following notification from the State of
+               Louisiana on February 23, 1996.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Florida, North Carolina, Louisiana, New York,
+               Mississippi, Alabama.
+QUANTITY       Approximately 4,512 100-pound sacks of raw
+               shellstock oysters and 53 boxes of halfshell
+               oysters were distributed; firm estimates none
+               remains on the market.
+REASON         Oysters harvested at Drum Bay, Black Bay, Lake
+               Fortuna, or Lake Machias, LA between the dates
+               1/23 - 2/23/96 have been associated with
+               outbreaks of gastroenteritis.
+
+_______________
+PRODUCT        Shellstock Oysters harvested at Drum Bay,
+               Black Bay, Lake Fortuna, or Lake Machias,
+               Louisiana.  Recall #F-459-6.
+CODE           Harvested between 1/23 - 2/23/96.
+MANUFACTURER   Lafrance Seafood, Inc., Pointe-a-la-Hache,
+               Louisiana.
+RECALLED BY    Manufacturer, by fax and by telephone on or
+               about February 23, 1996.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Virginia.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Oysters harvested at Drum Bay, Black Bay, Lake
+               Fortuna, or Lake Machias, LA between the dates
+               1/23 - 2/23/96 have been associated with
+               outbreaks of gastroenteritis.
+
+_______________
+PRODUCT        Shellstock Oysters and Shucked Oysters
+               harvested at Drum Bay, Black Bay, Lake
+               Fortuna, or Lake Machias, Louisiana.
+               Recall #F-460/461-6.
+CODE           Harvested between 1/23 - 2/23/96.
+MANUFACTURER   Joey Oysters, Inc., Amite, Louisiana.
+RECALLED BY    Manufacturer, on or about February 23, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Louisiana, Tennessee, Texas, Mississippi.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Oysters harvested at Drum Bay, Black Bay, Lake
+               Fortuna, or Lake Machias, LA between the dates
+               1/23 - 2/23/96 have been associated with
+               outbreaks of gastroenteritis.
+
+_______________
+PRODUCT        Shellstock Oysters harvested at Drum Bay,
+               Black Bay, Lake Fortuna, or Lake Machias,
+               Louisiana.  Recall #F-462-6.
+CODE           Harvest dates of 1/23 - 2/23/96.
+                             -6-MANUFACTURER   Yscloskey Seafood, St. Bernard, Louisiana.
+RECALLED BY    Manufacturer, by telephone immediately
+               following notification from the State of
+               Louisiana on February 23, 1996.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Mississippi, Georgia, Louisiana.
+QUANTITY       Approximately 1,752 100-pound sacks of oysters
+               were distributed; firm estimates none remains
+               on the market.
+REASON         Oysters harvested at Drum Bay, Black Bay, Lake
+               Fortuna, or Lake Machias, LA between 1/23 -
+               2/23/96 have been associated with outbreaks of
+               gastroenteritis.
+
+_______________
+PRODUCT        Fudge Bars, 2.5 ounces, 12 bars per carton,
+               under Yukon, Shop-Rite, and SeaWay labels. 
+               Recall #F-465-6.
+CODE           0296, 0526, 0626, 0696 (Yukon brand); 102996
+               (Shop-Rite brand); 0296 (SeaWay brand).
+MANUFACTURER   Superior Dairy, Inc., Canton, Ohio.
+RECALLED BY    Manufacturer, by telephone on March 14-15,
+               1996.  Firm-initiated recall complete.
+DISTRIBUTION   Ohio, Kentucky, Michigan, Pennsylvania, West
+               Virginia, New Jersey.
+QUANTITY       1,523 cases (219,312 fudge bars) were
+               distributed; firm estimates little, if any,
+               product remained on market at time of recall
+               initiation.
+REASON         The products cause burning sensation in mouth
+               and/or stomach and may be contaminated with
+               calcium chloride.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III ==========
+_______________
+PRODUCT        Anne's Original Honey Sesame Yogurt Salad
+               Dressing, in 8 ounce glass bottles.
+               Recall #F-364-6.
+CODE           Lot numbers:  112455 and 215355.
+MANUFACTURER   Schlotterbeck & Foss, Portland, Maine.
+RECALLED BY    Anne Lanyi Foods, Inc., Whispering Pines,
+               North Carolina, by telephone in May 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   New Jersey, New Hampshire, South Carolina.
+QUANTITY       Approximately 800 cases.
+REASON         The product is effervescing out of containers.
+
+_______________
+PRODUCT        Land O' Lakes Foodservice Butter, net weight 1
+               pound.  Recall #F-382-6.
+
+                             -7-CODE           All one pound packages with T in the code. 
+               All cases with two or more lines of
+               production/expiration code dating.
+MANUFACTURER   California Milk Producers, Tipton, California.
+RECALLED BY    Land O'Lakes, Inc., Arden Hills, Minnesota, by
+               notice sent on December 8, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       27,641 cases (36 1-pound packages per case)
+               were distributed.
+REASON         The product is adulterated due to the L-219
+               black ink, used for packaging, migrating into
+               the product.
+ 
+_______________
+PRODUCT        Chef's Cupboard Condensed Cream of Mushroom
+               Soup, in 10.5 ounce cans.  Recall #F-464-6.
+CODE           P-51 0336RN09-47.
+MANUFACTURER   H.J. Heinz, Pittsburgh, Pennsylvania.
+RECALLED BY    Aldi, Inc., Batavia, Illinois, by fax sent on
+               March 22, 1996.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Illinois, Iowa, Ohio, Wisconsin, Pennsylvania,
+               Missouri, New Jersey, New York.
+QUANTITY       1,100 cases (24 cans per case) were
+               distributed.
+REASON         Some of the cans may contain chicken noodle
+               soup instead of the labeled cream of mushroom
+               soup.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II ===========
+_______________
+PRODUCT        Oxygen USP packed in various size of Luxfer
+               aluminum high pressure cylinders including
+               "D", "E", and "N".  Recall #D-119-6.
+CODE           Various codes.
+MANUFACTURER   Providence Medical Supply, Olympic Washington.
+RECALLED BY    Manufacturer, by visit beginning February 28,
+               1996.  FDA-initiated recall complete.
+DISTRIBUTION   Washington state.
+QUANTITY       103 cylinders were distributed.
+REASON         Current good manufacturing practice
+               deficiencies.
+
+_______________
+PRODUCT        Metoclopramide Tablets USP, in bottles of 500,
+               Rx single ingredient anti-emetic/nauseant,
+               under the Biocraft, Major, and Qualitest
+               labels.  Recall #D-122-6.
+CODE           Lot #22939 EXP 4/1/97.
+MANUFACTURER   Biocraft Laboratories, Inc., Paterson, New
+               Jersey.
+                             -8-RECALLED BY    Biocraft Laboratories, Inc., Fairlawn, New
+               Jersey, by letter on January 30, 1996.  FDA-
+               initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       3,738 bottles were distributed; firm estimated
+               that 374 bottles remained on market at time of
+               recall initiation.
+REASON         Product does not meet content uniformity
+               specifications.
+
+_______________
+PRODUCT        Revco Brand Su-phedrine Cough & Cold liquid
+               caps, an OTC multi-symptom capsule, packaged
+               as 30's (20 liquid caps plus 10 free).
+               Recall #D-123-6.
+CODE           Lot numbers and EXP dates:  FI1496 9/97,
+               FI1497 9/97, FI1498 9/97.
+MANUFACTURER   Private Formulations, Division of
+               Pharmaceutical Formulations Inc, Edison, New
+               Jersey (repacker/responsible firm).
+RECALLED BY    Repacker, by letter dated January 10, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Pennsylvania, Tennessee, South Carolina,
+               Indiana.
+QUANTITY       Firm estimated that 20,146 packs remained on
+               market at time of recall initiation.
+REASON         Incorrect statement in Drug Interaction
+               Precaution Section.
+
+_______________
+PRODUCT        Dihistine DH Elixir in 4 ounce, 8 ounce, 1
+               pint, and 1 gallon containers, a cough
+               suppressant-nasal decongestant-antihistamine,
+               under the Barre, Rugby, H.L. Moore and Schein
+               labels.  Recall #D-124-6.
+CODE           Lot       Exp.
+               RF4305    6/96
+               RL4579    10/96
+               RA5018    1/97
+               VD5226    6/97
+               RL5565    9/97 
+               RP5733    11/97
+               VS5831    1/98
+               RB6054    3/98
+               RP4761    12/96
+               VB5082    5/97
+               VC5184    6/97
+               RJ5416    9/97 
+               RK5506    9/97
+               RN5637    11/97
+               RP5734    11/97
+               VS5831    1/98 
+               RL5564    9/97.
+                             -9-MANUFACTURER   Barre-National, Inc., Baltimore, Maryland.
+RECALLED BY    Manufacturer, by letter dated April 1, 1996. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       677,130 units were distributed; firm estimated
+               that 131,165 units remained on market at time
+               of recall initiation.
+REASON         Product does not bear warning statements in
+               accordance with CFR.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III ==========
+_______________
+PRODUCT        Hydrocodone Bitartrate and Acetaminophen
+               Tablets, USP, 5 mg/500 mg, in packets of 500,
+               Rx analgesic.  Recall #D-120-6.
+CODE           Lot #8705.
+MANUFACTURER   Zenith Goldline Pharmaceuticals (Zenith
+               Goldline Shreveport, Inc.), Shreveport,
+               Louisiana.
+RECALLED BY    Manufacturer, by letter of April 1, 1996. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,996 packets were distributed.
+REASON         Current good manufacturing practice
+               deficiencies.
+
+_______________
+PRODUCT        Baclofen USP 10 mg Tablets, in 100 unitdose
+               packages, a muscle relaxant and antispastic. 
+               Recall #D-121-6.
+CODE           Lot #CDT074 EXP 4/19/96.
+MANUFACTURER   Danbury Pharmaceutical, Inc., Danbury,
+               Connecticut.
+RECALLED BY    Schein Pharmaceutical, Inc., Florham Park, New
+               Jersey, by letter on August 29, 1995, November
+               9, 1995, and January 12, 1996.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       5,904 unitdose boxes were distributed; firm
+               estimated that 300 unit dose boxes remained on
+               market at time of recall initiation.
+REASON         Marginally subpotent.
+
+_______________
+PRODUCT        Decadron 0.25 mg Tablets, in bottles of 100,
+               144 market packages per packer, Rx
+               corticosteroid.  Recall #D-125-6.
+CODE           Lot #A6685 EXP 5/31/96, #W0900 EXP 8/96.
+MANUFACTURER   Merck Manufacturing Division, Division of
+               Merck & Company,Inc., West Point,
+               Pennsylvania.
+
+                            -10-RECALLED BY    Manufacturer, by letter dated April 12, 1996. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       7,932 market packages were distributed.
+REASON         Lot A6685 failed stability testing.  Lot W0900
+               lacks assurance of stability.
+
+_______________
+PRODUCT        Soluvite C.T., chewable tablets in bottles of
+               100, Rx vitamin containing fluoride and 0.3 mg
+               of folic acid.  Recall #D-126-6.
+CODE           Lot #3128A.
+MANUFACTURER   Gull Laboratories, Inc., Murray, Utah.
+RECALLED BY    Pharmics, Inc., Salt Lake City, Utah, by
+               letters faxed beginning March 25, 1996.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Utah, Wyoming, Idaho, Nevada, Colorado,
+               Arizona, Ohio, Texas, Washington state.
+QUANTITY       777 bottles were distributed; firm estimated
+               that 150 bottles remained on market at time of
+               recall initiation.
+REASON         Subpotency of folic acid ingredient.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II =======
+_______________
+PRODUCT        Platelets.  Recall #B-352-6.
+CODE           Unit #11313-1663.
+MANUFACTURER   Blood Systems, Inc., doing business as United
+               Blood Services, El Paso, Texas.
+RECALLED BY    Manufacturer, by letter January 30, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   New Mexico.
+QUANTITY       1 unit.
+REASON         Blood product, which tested negative for the
+               antibody to the human immunodeficiency virus
+               type 1 (anti-HIV-1), but was collected from a
+               donor who previously tested repeatedly
+               reactive for anti-HIV-1, was distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Fresh Frozen Plasma;
+               (c) Recovered Plasma.  Recall #B-353/355-6.
+CODE           Unit numbers:  (a) 55C75786, 55R77750; (b)
+               55C75786; (c) 55KR04913, 55R77750.
+MANUFACTURER   American Red Cross Blood Services, Little
+               Rock, Arkansas.
+RECALLED BY    Manufacturer, by telephone on January 25 and
+               26, 1995, followed by letter February 2, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Arkansas, California.
+QUANTITY       (a) 2 units; (b) 1 unit; (c) 2 units.
+
+                            -11-REASON         Blood products, collected from a donor taking
+               the drug Proscar, were distributed.
+
+_______________
+PRODUCT        (a) Whole Blood; (b) Red Blood Cells; (c)
+               Platelets; (d) Fresh Frozen Plasma. 
+               Recall #B-375-378-6.
+CODE           Contact FDA, Center for Biologics Evaluation
+               and Research, Office of Compliance (301) 594-
+               1191 for individual unit numbers recalled.
+MANUFACTURER   American National Red Cross and American Red
+               Cross, Tulsa, Oklahoma.
+RECALLED BY    Manufacturer, by telephone followed by letters
+               of May 10, 1994, June 7, 1994, and April 27,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   Texas, Oklahoma.
+QUANTITY       (a) 18 units; (b) 1,464 units; (c) 909 units;
+               (d) 59 units.
+REASON         Blood products untested for syphilis was
+               distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-380-6.
+CODE           Unit #T83448.
+MANUFACTURER   Topeka Blood Bank, Inc., Topeka, Kansas.
+RECALLED BY    Manufacturer, by letter March 20, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Kansas.
+QUANTITY       1 unit.
+REASON         Blood product, which was incorrectly tested
+               for the antibody to the hepatitis B core
+               antigen (anti-HBc), was distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-381-6.
+CODE           Unit #56G59582.
+MANUFACTURER   American Red Cross Blood Services, Rochester,
+               New York.
+RECALLED BY    Manufacturer, by letter dated September 5,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   New York.
+QUANTITY       1 unit.
+REASON         Blood products, which tested repeatedly
+               reactive for HBsAg, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III ======
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-379-6.
+CODE           Contact FDA, Center for Biologics Evaluation
+               and Research, Office of Compliance (301) 594-
+               1191 for individual unit numbers recalled.
+
+                            -12-MANUFACTURER   American National Red Cross and American Red
+               Cross, Tulsa, Oklahoma.
+RECALLED BY    Manufacturer, by telephone followed by letters
+               of May 10, 1994, June 7, 1994, and April 27,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   Texas, Oklahoma.
+QUANTITY       298 units.
+REASON         Blood product untested for syphilis was
+               distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma; (c)
+               Platelets.  Recall #B-382/384-6.
+CODE           Unit numbers:  (a) 56H28205, 56H28223; (b)
+               56H28205; (c) 56H28205, 56H28223.
+MANUFACTURER   American Red Cross Blood Services, Rochester,
+               New York.
+RECALLED BY    Manufacturer, by letter dated September 5,
+               1995, and by letters sent sometime between
+               September 7 and October 31, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   New York, California, Switzerland.
+QUANTITY       (a) 2 units; (b) 1 unit; (c) 2 units.
+REASON         Blood products which tested repeatedly
+               reactive for HBsAg were distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-385-6.
+CODE           Unit #12415-6575.
+MANUFACTURER   United Blood Services, Albuquerque, New
+               Mexico.
+RECALLED BY    Blood Systems, Inc., Scottsdale, Arizona, by
+telephone on March 1, 1996.  Firm-initiated
+recall complete.
+DISTRIBUTIOn   New Mexico.
+QUANTITY       1 unit.
+REASON         Blood product labeled with an extended
+               expiration date was distributed.
+
+_______________
+PRODUCT        (a) Whole Blood; (b) Red Blood Cells; (c) Red
+               Blood Cells, Leukocytes Removed; (d)
+               Platelets; (e) Platelets, Pooled; (f) Fresh
+               Frozen Plasma.  Recall #B-386/391-6.
+CODE           Unit numbers:  (a) 1220616, 1220623, 1220634,
+               1220637
+               (b) 1220594, 1220595, 1220596, 1220597,
+               1220598, 1220599, 1220600, 1220603, 1220607,
+               1220608, 1220609, 1220626, 1220629, 1220631,
+               1220639, 1220640, 1220647, 3127254, 3127255,
+               4109442, 4109444, 4109446, 4109452, 7166211,
+               7166213, 7166214, 7166215, 7166220, 7166225,
+
+                            -13-               7166227, 7166230, 7166231, 7166235, 7166238,
+               7166239, 7166240, 7166244, 7166246, 7166260,
+               7252585, 7262587, 7262589, 7262591, 7262592,
+               7262595, 7262596, 7262600, 7262604, 7262606,
+               7262608, 7262610, 7262619, 7262626, 7262627,
+               7262633, 9125890, 9125891, 9125892, 9125893,
+               9125894, 9125895, 9125896, 9125904, 9125906,
+               9125908, 9125909, 9125910, 9222424, 9222425,
+               9222426, 9222427, 9222432, 9222434, 9222435,
+               2410159, 2410160
+               (c) 1220592, 1220606, 1705859, 2410161,
+               2410164, 3127251, 3127252, 4806522, 4806523, 
+               2410162
+               (d) 1220589, 1220590, 1220591, 1220598,
+               1220608, 1220609, 1220640, 1229598, 1500415,
+               1500416, 3127251, 3127252, 4109442, 4109444,
+               4806522, 4806523, 7262588, 7262589, 7262591,
+               7262592, 7262600, 7262604, 7262610, 7262633
+               (e) P54146, P54161, P54165
+               (f) 1220592, 1220596, 1220598, 1220604,
+               1220606, 1220607, 1220608, 1220609, 3127251,
+               3127252, 3127255, 4109444, 4109446, 7262591,
+               7262596, 7262597, 7262604, 7262608, 7262613,
+               7262618, 7262642. 
+MANUFACTURER   Carter Blood Center, Fort Worth, Texas.
+RECALLED BY    Manufacturer, by letter dated March 11, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       (a) 4 units; (b) 76 units; (c) 10 units; (d)
+               24 units; (e) 3 units; (f) 21 units.
+REASON         Blood products, incorrectly tested for
+               antibody to the human immunodeficiency virus
+               type 2 (anti-HIV-2), were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II =========
+_______________
+PRODUCT        Siemens Color Monitors, Computer Monitors
+               Associated with various Automated Equipment.
+               Recall #Z-601/605-6.
+CODE           (a) Model No. 6AV80111LE620KA0;
+               (b) Model No. 6DS34041AB01;
+               (c) Model No. 6AV80211FE220CA0;
+               (d) Model No. 6AV80111FE121AA0;
+               (e) Model No. 6AV85111FD212CA1.
+MANUFACTURERS  (a) Siemens AG, Oestl. Rheinbrueckenstr. 50,
+               76181 Karlsruhe, Germany; 
+               (b) Siemens AG, Oestl. Rheinbrueckenstr. 50,
+               76181 Karlsruhe, Germany; 
+               (c) Siemens AG, Oestl. Rheinbrueckenstr. 50,
+               76181 Karlsruhe, Germany; 
+
+                            -14-(d) Aschenbrenner Geraepebau GmbH, Nurnberg, Germany; 
+               (e) Mitsubishi, Japan. 
+RECALLED BY    Siemens Energy and Automation, Inc., Johnson
+               City, Tennessee. FDA approved the firm's
+               corrective action plan on February 29, 1996. 
+               FDA-initiated recall complete.
+DISTRIBUTION   Alabama, Connecticut, Kentucky, Minnesota,
+               Nebraska, North Carolina, Ohio, Pennsylvania.
+QUANTITY       13 monitors were distributed.
+REASON         The manufacturer of the television products
+               failed to comply with the Federal requirements
+               for reporting, 21 CFR 1002.10,            
+               recordkeeping, 21 CFR 1002.30, and
+               certification, 21 CFR 1010.2. 
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III ========
+_______________
+PRODUCT        Toshiba Digital Gammacameras, designed for
+               whole body diagnostic examinations:
+               (a) Model GCA-7100A; (b) Model GCA-7200A.
+               Recall #Z-606/607-6.
+CODE           Serial numbers:  (a) 4592004, 4622008, and
+               4622019;
+               (b) 4522007, 4572009, 4582028, 4582029,
+               4582030, 4582032, 4592040, 4682042, 4682043,
+               4682044, 4682045, 4682046, A4622048, A4622051,
+               A4622052, A4622054, A5522058, A5522060,
+               A5522061, A5522062, and A5542049.
+MANUFACTURER   Toshiba Medical, Tochigi, Japan.
+RECALLED BY    Toshiba America Medical Systems, Inc. (TAMS),
+               Tustin, California, by letter on August 28,
+               1995.  Firm-initiated field correction
+               complete.
+DISTRIBUTION   Alabama, California, Florida, Georgia,
+               Illinois, Indiana, Michigan, North Carolina,
+               New Jersey, Nevada, Ohio, Pennsylvania, Rhode
+               Island, Texas, Virginia.
+QUANTITY       22 units were distributed.
+REASON         Uncontrolled detector head drift can cause the
+               detector to come in contact with the patient
+               with a maximum force of 27 kg.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS II
+=========
+_______________
+PRODUCT        Vitamin K1 Injection (Phytonadione), 100 ml
+               multiple dose vials, Rx drug for acute and
+               nonacute hypoprothrombinemia in dogs and cats,
+               under the following labels:  Veta-K1,
+               manufactured for Sanofi Animal Health,
+               Overland Park, Kansas and Veda-K1,
+
+                            -15-               manufactured for VEDCO, Inc., St. Joseph,
+               Missouri.  Recall #V-013-6.
+CODE           Lot #51169 EXP 1/97.
+MANUFACTURER   Rhone Merieux, Inc., Fort Dodge, Iowa.
+RECALLED BY    Rhone Merieux, Inc., Athens, Georgia, by
+               letter dated March 20, 1996.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide, Canada.
+QUANTITY       5,727 vials were distributed.
+REASON         Misalignment of the filling needles during the
+               filling process resulted in glass particles in
+               the vials.  The needles would strike the sides
+               of the vials causing chipping.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS III
+========
+_______________
+PRODUCT        Myosel-E Selenium Vitamin E Injection, 100-ml
+               vials, Rx for the prevention and treatment of
+               myositis syndrome in horses.  Recall #V-012-6.
+CODE           Lot #5-FBR-06 EXP 10/97.
+MANUFACTURER   Schering-Canada, Pointe Claire, Quebec,
+               Canada.
+RECALLED BY    Schering Plough Animal Health, Schering Plough
+               Corporation, Union, New Jersey, by letter sent
+               on March 1, 1996.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,224 vials were distributed.
+REASON         Product is mislabeled.  The product is
+               approved for intravenous or intramuscular use
+               in horses only but was labeled on the outer
+               carton for subcutaneous or intramuscular
+               injection.  The contraindication information
+               on the outer carton stated it is
+               contraindicated in adult dairy cows.  The
+               product is approved for use in horses only.
+
+                            -16-
+
+
+END OF ENFORCEMENT REPORT FOR APRIL 24, 1996.  BLANK PAGES MAY
+FOLLOW.
+
+
+                                   ####

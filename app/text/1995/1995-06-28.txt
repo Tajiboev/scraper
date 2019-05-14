@@ -1,0 +1,814 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Feb
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      36 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+06/27/1995
+
+ ENFORCEMENT REPORT FOR 06/28/95 
+
+June 28, 1995                                                   95-26
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Lorazepam Tablets, USP, 0.5 mg, in bottles of 100, 500, and
+               1,000; (b) Lorazepam Tablets, 1 mg, in bottles of 100 and
+               500 tablets, Rx drugs indicated for the management of
+               anxiety disorders, under the Danbury and Schein labels. 
+               Recall #D-190/191-5.
+CODE           Lot numbers:  (a) 44075D, 44076D, 44461D, 44462D, 44463D,
+               44464D, 44704D, 44705D, 44706D, 44707D, 44708D, 44709D,
+               44710D, 45007D, 45008D, 45165D, 45166D, 45196D, 45197D,
+               45198D, 45199D, 45348D, 45349D, 45350D, 45351D, 45352D,
+               DAL084, DAM084, DAN084, DAP084, DAR084, DCU094, DVC094,
+               DCX094, DDA094, DFA064, DFB064, DFC064, DFD064, DFE064,
+               DGL124, DGM124, DGN124, DGP124;
+               (b) 43728D, 43888D, 44264D, 44265D, 44286D, 44287D, 44288D, 
+               44289D, 44290D, 44291D, 44292D, 44293D, 45226D, 45227D, 
+               45289D, 45290D, 45291D, 45292D, DCP064, DCRO64, DCS064, 
+               DCT064, DGB094, DGC094, DGD094, DGE094, DGF094, DGUO74, 
+               DGV074, DGW074, DHA074, DJG114, DJH114. Expiration dates
+               range from June 1995 to September 1996.
+MANUFACTURER   Danbury Pharmacal, Inc., Danbury, Connecticut (responsible
+               firm).
+RECALLED BY    Danbury Pharmacal, Inc., Brewster, New York, by letter May
+               4, 1995.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+
+QUANTITY       (a) 112,491 100-tablet bottles; 57,695 500-tablet bottles;
+               187 1000-bottles; (b) 120,359 100-tablet bottles; 35,633
+               500-tablet bottles were distributed; firm estimated that 10
+               percent of product remained on market at time of recall
+               initiation.
+REASON         Potency not assured through expiration date.
+
+_______________
+PRODUCT        Procardia XL (nifedipine) Tablets, 30 mg, in bottles of 100,
+               an antianginal drug.  Recall #D-198-5.
+CODE           Lot #01499 EXP 12/96.
+MANUFACTURER   Rrepackaging Company of America (RCA), Woodburn, Oregon
+               (repacker/responsible firm).
+RECALLED BY    Thrifty Payless, Inc., Wilsonville, Oregon, by store
+               bulletin June 8, 1995, and by fax to retail stores June 12,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   California.
+QUANTITY       36 bottles were distributed.
+REASON         Approximately 40 repacked units were mislabeled. 
+
+
+RECALLS AND FIELD CORRECTIONS -- DRUGS -- CLASS III
+=======================
+_______________
+PRODUCT        Sulfacetamide Sodium 10% Sterile Ophthalmic Solution, USP,
+               15 ml, Antibacterial eye drops.  Recall #D-189-5.
+CODE           Batch numbers:  84, 118, 249, 328, 380, 386, 9914, 10055,
+               10158, 10208 10239, 10257, 10321, 10453, 10517, 10655,
+               10694, 10748, 10796, 10843, 10940, 10945, 10984, 11090,
+               11124, 11249, 11255, 11354, 11459, 11507, 11552, 11607,
+               11651. (NOTE:  only the lots with a Prescript
+               Pharmaceuticals, Inc. relabeling and lot number are under
+               recall).
+MANUFACTURER   Prescript Pharmaceuticals, Pleasanton, California
+               (relabeler/responsible firm).
+RECALLED BY    Relabeler, by letter May 24, 1995.  Firm-initiated recall
+               complete.
+DISTRIBUTION   California, Illinois, Maine, Michigan, New York, New Jersey,
+               Ohio, Pennsylvania, Utah, Vermont.
+QUANTITY       Approximately 370 bottles were distributed.
+REASON         Product stored above temperature designated on label.
+
+_______________
+PRODUCT        Clofibrate  Capsules, USP, 500 mg, Rx oral antilipidemic
+               agent, in bottles of 100 capsules, under the following
+               labels:  Rugby, Goldline, GG (Geneva).  Recall #D-192-5.
+CODE           Lot #327340 EXP 01/97.
+MANUFACTURER   Banner Gelatin Products Ltd., Calgary, Alberta, Canada.
+RECALLED BY    Novopharm, Inc., Schaumburg, Illinois, by telephone June 6,
+               1996, followed by letter June 8, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Illinois, Ohio, Colorado, Tennessee, Nevada.
+
+QUANTITY       2,383 bottles were distributed; firm estimated that 30
+               percent of the product remained on market at time of recall
+               initiation.
+REASON         Product does not meet dissolution specifications.
+
+_______________
+PRODUCT        Promethazine, anti-tussive products, under the Cenci label
+               or any one of the following labels:  Darby Drug, United
+               Research Labs, Goldline, Qualitest, Halsey:  (a)
+               Promethazine VC Plain in 4 ounce, 8 ounce, 16 ounce, and 1
+               gallon sizes; (b) Promethazine VC with Codeine i 4 ounce, 8
+               ounce, 16 ounce and 1 gallon sizes; (c) Promethazine with
+               Codeine in 4 ounce, 8 ounce, and one gallon sizes.  
+               Recall #D-193/195-5.
+CODE           Lot numbers: (a)  052480, 072506, 072537, 082555, 102655,
+               102710, 122796, 122797, 122798, 122799, 122800, 033408,
+               043495, 043496, 043497, 093665, 113231, 123715, 024322,
+               024324, 044352.
+               (b)  000000, 082548, 082559, 092123, 092629, 122786, 122788,
+               122789, 122790, 122791, 013330, 013332, 013333, 013334,
+               013335, 013340, 013341, 023373, 023393, 023394, 023395,
+               023396, 023397, 033403, 033417, 033418, 033419, 033420,
+               033421, 033422, 033423, 033453, 033454, 033455, 033456,
+               043493, 043494, 043516, 043517, 073558, 073575, 073576,
+               083597, 083628, 083629, 083630, 083631, 083632, 083633,
+               083634, 083635, 123716, 014300, 014310, 014315, 034335,
+               034336, 034337, 034338, 034339, 044349, 044350.
+               (c)  000000, 052461, 052485, 062505, 072532, 112714, 112718,
+               112726, 112734, 112735, 112736, 122754, 122755, 122756,
+               122758, 122762, 122763, 122765, 122766, 122767, 122775,
+               122805, 122814, 013302, 013303, 013304, 013305, 013306,
+               013307, 013308, 013309, 013310, 013311, 013312, 013325,
+               013327, 013349, 013350, 013351, 023356, 023357, 023359,
+               023360, 023361, 023370, 023371, 023372, 023385, 023386,
+               023387, 023388, 023389, 023391, 023392, 023398, 033427,
+               033428, 033429, 033430, 033431, 033432, 033433, 033434,
+               033442, 033443, 033444, 022445, 033446, 033447, 033448,
+               033449, 033450, 033451, 033452, 043447, 043482, 043483,
+               043484, 043485, 043486, 043487, 043488, 043489, 043490,
+               043491, 043492, 043508, 043518, 053522, 053528, 053530,
+               063531, 063532, 063533, 063534, 063535, 063552, 073566,
+               073567, 073578, 073579, 073580, 073581, 073582, 073588,
+               073592, 073593, 073594, 083595, 083596, 083610, 083613,
+               083614, 083615, 083616, 083619, 083620, 083621, 083622,
+               083623, 083624, 083638, 083639, 083640, 083641, 083646,
+               093658, 093661, 093673, 093674, 093675, 093676, 093677,
+               093683, 103713, 014301, 014302, 014305, 014306, 014307,
+               024325, 024327, 034330, 034331, 034332, 034333, 044342,
+               044343, 044344, 044345, 044348, 044353, 054354, 054355,
+               054356, 054359, 054361. 
+MANUFACTURER   H.R. Cenci Laboratories, Inc., Fresno, California.
+
+RECALLED BY    Manufacturer, by letter June 16, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Number of individual bottles of each product:
+                                   (a)           (b)          (c)
+               4 oz. size =       23,668       100,588      278,138
+               8 oz. size =       41,385        71,342      256,474
+               16 oz. size =      26,995       128,814      345,730
+               1 gallon size =       494         4,448       11,781.
+REASON         Current good manufacturing practice deficiencies.
+
+_______________
+PRODUCT        RU-TUSS Tablets, decongestant/antihistaminic, packed in
+               bottles of 100 tablets, and 500 tablets, samples, blister
+               cards of 20 tablets each.  EXP dates 5/95 through 5/97.  
+               Recall #D-196-5.
+CODE           Lot numbers:  07147, 08173, 08181, 08751, 09043, 09044,
+               09045, 09046, 09047, 09454, 09841, 09879, 09936, 10036,
+               10037, 10046, 10585, 10586, 10669, 10710, 10711, 10752,
+               10970, 10971, 10972, 10973, 10974, 10975, 10976, 10977,
+               10978, 12382 (100-tablet bottles);
+               09048, 09049, 09050, 09455, 09976, 09977, 09978, 10047,
+               10048, 10096, 10097, 10500, 10670, 10671, 10712, 10979,
+               10980, 10981, 10982, 10983 (500-tablet bottles);
+               08399, 09815, 09816, 09817, 09818,10604, 10803 (physician
+               samples). 
+MANUFACTURER   EON Laboratories Manufacturing, Inc., Laurelton, New York.
+RECALLED BY    Knoll Pharmaceutical Company, Shreveport, Louisiana, by
+               letter June 16, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       27,393 500-tablet bottles and 339,331 100-tablet bottles
+               were distributed.
+REASON         Package insert incorrectly declares a different set of
+               inactive ingredients.
+
+_______________
+PRODUCT        Bulk Potassium Chloride Extended-Release Capsules, 10 mEq
+               (750 mg) equivalent to 10 mEq (390 mg) potassium, and 10 mEq
+               (360 mg) of chloride, Rx for further manufacturing,
+               processing or repacking.  Recall #D-197-5.
+CODE           V4126 repackage by 7/26/95.
+MANUFACTURER   KV Pharmaceutical Company, St. Louis, Missouri.
+RECALLED BY    Ethex Corporation, St. Louis, Missouri, by telephone June 13
+               and 14, 1995, followed by letter June 15, 1995.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Florida and Connecticut.
+QUANTITY       76 10,000-capsule bulk containers were distributed.
+REASON         Product may not maintain dissolution specifications through
+               repackage date on bulk container.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Fresh Frozen Plasma.
+               Recall #B-307/308-5.
+CODE           Unit #29121-9302.
+MANUFACTURER   United Blood Services, Chicago, Illinois.
+RECALLED BY    Manufacturer, by telephone December 21, 1994, followed by
+               letter December 28, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       1 unit of each component.
+REASON         Blood products, which were collected from a donor who had a
+               history of cancer, were distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-309-5.
+CODE           Unit #53 Y 32761.
+MANUFACTURER   The American Red Cross Blood Services, Baltimore, Maryland.
+RECALLED BY    Manufacturer, by letter July 20, 1994, and August 1, 1994. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Maryland.
+QUANTITY       1 unit.
+REASON         Blood product collected from a donor living in a malarial
+               endemic area was distributed.
+
+_______________
+PRODUCT        (a) Whole Blood; (b) Red Blood Cells; (c) Red Blood Cells,
+               for further manufacture; (d) Platelets; (e) Platelets,
+               expired; (f)  Platelets, Pheresis; (g) Cryoprecipitated AHF;
+               (h) Fresh Frozen Plasma; (i) Recovered Plasma.  
+               Recall #B-349/357-5.
+CODE           (a) 01S43224; (b) 01KE01423, 01KE01569, 01KT04520,
+               01KT04998, 01KT06990, O1KT08539, 01KT09654, 01KT11059,
+               01KV05925, 01S24369, 01S25115, 01S28486, 01S29133, 01S39864,
+               02S40552, 01S42082, 01S44767, 01S45618, 01S46880, 01S47889,
+               01S52561, 01S54276, 01S55153, 01S55763, 01S57139, 01T16109,
+               01T19962, 01T19969, 01T20032, 01T20725, 01T22723, 01T22765,
+               01T25089, 01T25009, 01T25451, 01T25551, 01T25567, 01T30013,
+               01T30125, 01T30159, 01T30281, 01T30288, 01T30375, 01T32227,
+               01T32295, 01T32379, 01T33759, 01T35712, 01T35790, 01T38033,
+               01T38117, 01T38390, 01T40928, 01T41421, 01T43487, 01T43503,
+               01T43666, 01T45456, 01T47214, 01T47344, 01T51356, 01T53167,
+               01T53914, 01T58147, 01T58631, 01T58825, 01T58827, 01T61073,
+               01T62595, 01T63253, 01T65121, 01T66060, 01T68056, 01T69604,
+               01T69681, 01T71018, 01T72848, 01T74137, 01T74822, 01T75669,
+               01T75685, 01T78556, 01T79106, 01T81132, 01T82109, 01T84704,
+               01T85643, 01T86561, 01T87710, 01T88392, 01T91476, 01T93006,
+               01T96204; (c) 01T38391; (d) 01KE01423, 01KL00160, 01L25953, 
+               01L25988, 01L26011, 01L26043, 01L26138, 01L26389, 01L26481,
+               01S24369, 01S25115, 01S28486, 01S29133, 01S40552, 01S42082,
+               01S44767, 01S45618, 01S46880, 01S52561, 01S54276, 01S57139,
+               01T16109, 01T19962, 01T22723, 01T25089, 01T25099, 01T30281,
+               01T32295, 01T35712, 01T35790, 01T38033, 01T40928, 01T43666, 
+
+               01T45456, 01T47344, 01T62595, 01T63253, 01T65121, 01T68056,
+               01T74822, 01T78556, 01T79106, 01T84704, 01T86561, 01T87710,
+               01T88392, 01T93006, 01T96204; (e) 01KE01569, 01S55763,
+               01T58147, 01T61073, 01T71018; (f) 01L25887; (g) 01S39864,
+               01T25451, 01T25551, 01T30159, 01T33759, 01T38177, 01T47214,
+               01T51356, 01T81132, 01T91476; (h) 01T19969, 01T22765,
+               01T25567, 01T32227, 01T38390, 01T53167, 01T53914, 01T58825,
+               01T58827, 01T74137; (i) 1KE01423, 01KE01569, 01KT04520,
+               01KT04998, 01KT08539, 01KT09654, 01KT11059, 01KV05925,
+               01S24369, 01S25115, 01S28486, 01S29133, 01S39864, 01S40552,
+               01S42082, 01S44767, 01S45618, 01S46880, 01S47889, 01S52561,
+               01S54276, 01S55153, 01S55763, 01S57139, 01T20032, 01T20388,
+               01T20725, 01T22723, 01T25411, 01T25451, 01T25551, 01T30013,
+               01T30125, 01T30159, 01T30281, 01T30375, 01T32295, 01T32379,
+               01T33759, 01T35712, 01T35790, 01T38033, 01T38177, 01T40928,
+               01T41421, 01T43487, 01T43503, 01T43666, 01T45456, 01T47214,
+               01T47344, 01T51356, 01T58147, 01T58631, 01T61073, 01T62595,
+               01T63253, 01T65121, 01T66060, 01T68056, 01T69604, 01T69681,
+               01T71018, 01T72848, 01T74822, 01T75669, 01T75685, 01T78556,
+               01T79106, 01T81132, 01T84704, 01T85643, 01T86561, 01T87710,
+               01T88392, 01T91476, 01T93006, 01T96204.
+MANUFACTURER   American Red Cross Blood Services, Rochester, New York.
+RECALLED BY    Manufacturer, by letters issued July 1994 to November 1994. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   New York, Pennsylvania, California, Florida, Maryland,
+               Switzerland.
+QUANTITY       (a) 1 unit; (b) 93 units; (c) 1 unit; (d) 48 units; (e) 5
+               units; (f) 1 unit; (g) 10 units; (h) 10 units; (i) 78 units.
+REASON         Blood products which tested repeatedly reactive for antibody
+               to human immunodeficiency virus type 1 (anti-HIV-1); or
+               tested negative for anti-HIV-1, but were collected from
+               donors who previously tested repeatedly reactive for anti-
+               HIV-1, were distributed. 
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma. 
+               Recall #B-405/406-5.
+CODE           Unit #60FT01377.
+MANUFACTURER   American Red Cross Blood Services, Miami, Florida.
+RECALLED BY    Manufacturer, by letter June 29, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Florida and California.
+QUANTITY       1 unit of each component.
+REASON         Blood products collected from a donor with a history of
+               hepatitis were distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-413-5.
+CODE           Unit numbers:  26K47938, 26K47943.
+MANUFACTURER   American National Red Cross, Mobile, Alabama.
+RECALLED BY    Manufacturer, by telephone June 28, 1993, or by letters of
+               November 20, 1992 and June 28, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Alabama, Florida.
+QUANTITY       2 units.
+REASON         Blood product which was prepared greater than eight hours
+               after the collection of the associated Whole Blood Units,
+               were distributed for transfusion.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Recovered Plasma. 
+               Recall #B-358/360-5.
+CODE           Unit numbers:  (a) 01F18541, 01G32344; (b) 01G32344; (c)
+               01F18541, 01G32344.
+MANUFACTURER   American Red Cross Blood Services, Rochester, New York.
+RECALLED BY    Manufacturer, by letters issued July 1994, to November 1994. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   New York, Pennsylvania, California, Florida, Maryland,
+               Switzerland.
+QUANTITY       (a) 2 units; (b) 1 unit; (c) 2 units.
+REASON         Blood products which tested repeatedly reactive for antibody
+               to human immunodeficiency virus type 1 (anti-HIV-1; or
+               tested negative for anti-HIV-1, but were collected form
+               donors who previously tested repeatedly reactive for anti-
+               HIV-1, were distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-368-5.
+CODE           Unit #38FM68255.
+MANUFACTURER   American National Red Cross, Fort Wayne, Indiana.
+RECALLED BY    Manufacturer, by telephone February 27, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Indiana.
+QUANTITY       1 unit.
+REASON         Blood product, which was untested for syphilis, was
+               distributed.
+
+_______________
+PRODUCT        Platelets.  Recall #B-407-5.
+CODE           Unit #16FJ31423.
+MANUFACTURER   American National Red Cross, Columbus, Ohio.
+RECALLED BY    Manufacturer, by letter September 21, 1994.  Firm-initiated
+               recall compete.
+DISTRIBUTION   Ohio.
+QUANTITY       1 unit.
+REASON         Blood product corresponding to Red Blood Cells which were
+               possibly contaminated with gram positive rods, were
+               distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-414-5.
+CODE           Unit numbers:  26F34759, 26F34769, 26G03966, 26K53008,
+               26K53021, 26M67066, 26N12012, 26N12029, 26N12063, 26N12065.
+
+MANUFACTURER   American National Red Cross, Mobile, Alabama.
+RECALLED BY    Manufacturer, by telephone June 28, 1993, or by letters of
+               November 20, 1992 and June 28, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Alabama, Florida.
+QUANTITY       10 units.
+REASON         Blood product which was exposed to unacceptable shipping
+               temperatures was distributed.
+
+_______________
+PRODUCT        Fresh Frozen Plasma.  Recall #B-417-5.
+CODE           Unit numbers:  09T51481, 09T51483.
+MANUFACTURER   American Red Cross Blood Services, Omaha, Nebraska.
+RECALLED BY    Manufacturer, by telephone October 17, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nebraska.
+QUANTITY       2 units.
+REASON         Fresh Frozen Plasma which was not frozen within eight hours
+               of phlebotomy was distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS I
+========================
+_______________
+PRODUCT        Hewlett-Packard Models M1722A and M1722B CodeMaster XL+
+               defibrillator/monitors with external pacing option.  
+               Recall #Z-686/687-5.
+CODE           Serial numbers:  3241A10386, 3241A10514, 3241A10549,
+               3301A10628, 3301A0640, 3301A10690, 3301A10794, 3301A10796,
+               3303A01434, 3303A01549, 3303A10899, 3304A2204 through
+               3304A13364 (non-continuous).
+MANUFACTURER   Hewlett-Packard, McMinnville, Oregon.
+RECALLED BY    Manufacturer, by letter dated January 1995, mailed starting
+               on February 1, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       281 units.
+REASON         An intermittent pacer problem with the allowed margin
+               between the measure-Pacer-Current delivered and Pacer-
+               current-shutdown threshold being too narrow.  This results
+               in a "PACER FAILURE" message on the monitor screen.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT &      Labeling concerning Phaco-emulsification system handpieces
+CODE           with non-rotatable nosecones.  The Stainless Premier
+               Phacoemulsification Handpiece, Part #DP8020 and the
+               Microseal Phaco-emulsification Handpiece, Part #DP8040, can
+               be used with either the Protege or Premiere Systems:
+               (a) Pages in Owner's Manual for Storz Protege Microsurgical
+               System; (b) Pages in Owner's Manual for Storz Premier
+               Microsurgical System.  Recall #Z-739/740-5.
+MANUFACTURER   Storz Instrument Company, St. Louis, Missouri.
+
+RECALLED BY    Manufacturer, by letter dated January 23, 1995.  Firm-
+               initiated field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Undetermined.
+REASON         Device labeling did not reflect a design change which made
+               the nosecone non-rotatable.
+
+_______________
+PRODUCT        Airway Pressure Monitor, Model CM5000SC, Part #900-50SC-001,
+               an electronic device used to monitor pressurized breathing
+               circuits.  Recall #Z-778-5.
+CODE           Serial numbers:  8912, 8915, 8916, 8917, 8918, 8919, 8920,
+               8924, 8925, 8926, 8928, 8929, 8931.
+MANUFACTURER   Canadian Monaghan Ltd., London, Ontario, Canada.
+RECALLED BY    Monaghan Medical Corporation, Plattsburgh, New York, by
+               telephone on or about February 29, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Louisiana, New York, North Carolina.
+QUANTITY       13 units were distributed; firm estimates none remains on
+               the market.
+REASON         There is a potential for failure of an electronic component
+               which provides the audible alarm from the monitor and remote
+               indicator.
+
+_______________
+PRODUCT        Agee-Wristjack Multiplanar Ligamentotaxis Fracture Reduction
+               System, for treatment of distal radius fractures.  
+               Recall #Z-798-5.
+CODE           Lot numbers HBL-094-083 through HBL-095-047.
+MANUFACTURER   Hand Biomechanics Lab, Inc., Sacramento, California.
+RECALLED BY    Manufacturer, by undated letter sent on or about April 14,
+               1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 540 units were distributed.
+REASON         Residual metal debris in system guide liner tube was found
+               in finished product.
+
+_______________
+PRODUCT        Spordex Culture Media, Reorder #NA114, used for culturing
+               AMSCO's Sporden and Spordi Spore Strip Biological Indicators
+               which have been used to monitor either steam, dry heat or
+               ethylene oxide sterilization processes.  Recall #Z-847-5.
+CODE           All lots within expiration date.
+MANUFACTURER   American Sterilizer Company, Erie, Pennsylvania.
+RECALLED BY    Manufacturer, by letter April 27, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       1,717 boxes (100 units per box) are subject to recall.
+REASON         The firm was not able to validate the 7-days incubation time
+               recommended on the labeling.
+
+_______________
+PRODUCT        Rubella IgG Elisa Serology Test Kit, for the detection of
+               IgG antibodies to Rubella antigen in human serum by Enzyme-
+               Linked Immunosorbent Assay, 480 determinations, for in-vitro
+               diagnostic use.  Recall #Z-856-5.
+CODE           Catalog #2305301, Lot #705-166 EXP 9/95.
+MANUFACTURER   Clark Laboratories, Inc., Jamestown, New York.
+RECALLED BY    Manufacturer, by telephone between June 2 and 13, 1994. 
+               Firm-initiated recall complete.
+DISTRIBUTION   California, Texas, Washington state.
+QUANTITY       62 kits were distributed. Units were reworked or destroyed.
+REASON         There is a problem with fluctuating performance of the
+               calibrator serum which could result in false negatives or
+               equivocal test results.  
+
+
+_______________
+PRODUCT        Infant Warmer Care Station 1131-00-00, used to provide a
+               constant flow of warm air around the infant.  The firm is
+               also recalling the following items that use the same
+               casters:  Bassinet -- 0033-96-00, 0033-69-00, 0033-85-00;
+               Infant Care Station - 0031-12-00, 0031-13-00; Delivery Cart
+               - 0031-04-00, 0031-08-00; Custom Furniture - 9999-97-65.
+               Recall #Z-886-5.
+CODE           Serial numbers:  109-322 non-continuous; 90010014-90120200
+               non-continuous; 91010263-91120189 non-continuous; A0000021
+               and A0000028; A176-A278 non-continuous.
+MANUFACTURER   Tenet Casters, Inc., Hebron, Kentucky (component).
+RECALLED BY    Stryker Adel Medical Ltd., Clackamas, Oregon, by telephone
+               beginning June 26, 1992, followed by letters dated June 24,
+               1992, and August 3, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide, Mexico, Canada, Australia, Hong Kong.
+QUANTITY       605 units were distributed; firm estimates none remains on
+               the market.
+REASON         Potential for wheel casters to break.
+
+_______________
+PRODUCT        FNA-21 Fine Needle Aspiration Device, sterile single use
+               syringe and 21 gauge needle for the fine needle aspiration
+               of abnormal palpable masses in the breast, trunk or neck. 
+               Recall #Z-920-5.
+CODE           Catalog numbers:  FNA-21-1 (one sample pack), FNA-21-3 (3
+               pack), FNA-21-12 (12 pack), FNA-21-24 (24 pack); Lot
+               numbers:  0107931175 EXP 7/98, 011293155 12/98, 2494000877
+               EXP 6/99, 4394001879 EXP 11/99, 4394001655 EXP 11/99,
+               0695007918 EXP 10/99.
+MANUFACTURER   Lettix, B.V., The Netherlands.
+RECALLED BY    Euro-Med, Division of Cooper-Surgical, Shelton, Connecticut,
+               by letter March 17, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       18,657 devices were distributed.
+
+REASON         The sterility of the device has been compromised due to loss
+               of package integrity.
+
+_______________
+PRODUCT        Measles (Rubeola) IgG Elisa Test Kit, for the detection of
+               IgG antibody to measles virus in human sera, for in-vitro
+               diagnostic use.  Recall #Z-922-5.
+CODE           Product #2306000, Lot #107 EXP 5/96.
+MANUFACTURER   Clark Laboratories, Inc., Jamestown, New York.
+RECALLED BY    Manufacturer, by letter May 17, 1995.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       240 kits were distributed.
+REASON         A problem with a drop in absorbance value of the calibrator
+               was found, which could result in false positive test
+               results.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Paramax CLiNaK Potassium Electrode, an in-vitro diagnostic
+               for the determination of potassium in serum, plasma, and
+               urine.  Recall #Z-734-5.
+CODE           Product #B6110-202, Lot #PPPE63 EXP 12/95.
+MANUFACTURER   Dade Lytening Systems, Inc., (formerly Baxter Lytening
+               Systems, Inc.) Danvers, Massachusetts.
+RECALLED BY    Manufacturer, by telephone March 13, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Arkansas, Florida, Georgia, Massachusetts, Michigan,
+               Mississippi, New Jersey, New York, Ohio, Oklahoma,
+               Pennsylvania, South Carolina, Texas.
+QUANTITY       30 kits were distributed.
+REASON         The Clinak Potassium Electrodes were shipped with a 10 ml
+               bottle of Lithium Fill Solution instead of a 10 ml bottle of
+               Potassium Fill solution.
+
+_______________
+PRODUCT        Herpes Simplex Virus 1 IgG ELISA Serology Test Kits, for the
+               detection of IgG antibodies to Herpes Simplex virus 1
+               antigen in human serum by Enzyme-Linked Immunosorbent Assay,
+               for in-vitro diagnostic use.  Recall #Z-830-5.
+CODE           Catalog #2305400, Lot #703-114 EXP 4/95.
+MANUFACTURER   Clark Laboratories, Inc., Jamestown, New York.
+RECALLED BY    Manufacturer, by letter March 17, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   California, Florida, Louisiana, Maryland, Michigan, New
+               York, Texas, Australia, Germany, Israel, Italy, New Zealand,
+               Portugal, Spain, Turkey.
+QUANTITY       307 kits were distributed.
+REASON         The absorbance values for controls and specimens are lower
+               than expected.
+
+
+_______________
+PRODUCT        Teflon Patches, used in cardiovascular surgery:
+               (a) Teflon Felt Patch 4" x 4", Item #007836; (b) Teflon
+               Fabric Patch, 6" x 6", Item #000967.  Recall #Z-840/841-5.
+CODE           Lot numbers:  (a) 654120; (b) 391320, 391350.
+MANUFACTURER   Bard Vascular Systems Division, Haverhill, Massachusetts.
+RECALLED BY    Manufacturer, by letter October 19, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Illinois, Minnesota.
+QUANTITY       (a) 65 pieces; (b) 380 pieces were distributed.
+REASON         The products were contaminated with a mixture of polymerized
+               ethylene oxide formed during ETO sterilization.
+
+_______________
+PRODUCT        Liquid Multi-Analyte Calibrator (MAC), an in-vitro
+               diagnostic product intended to be used as a calibrator and
+               as a daily quality control product for methods run on the
+               aca analyzer.  Recall #Z-859-5.
+CODE           Lot #M9408.
+MANUFACTURER   Medical Analysis Systems (MAS), Camarillo, California.
+RECALLED BY    Du Pont Medical Products, Glascow, Delaware, by letter May
+               10, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       2,687 kits were distributed.
+REASON         Due to instability of magnesium (mg) and phosphate (phos)
+               analytes in the calibrator, which can result in incorrect mg
+               and phos values for the level 2 of MAC calibrator.
+
+_______________
+PRODUCT        Abbott IMx and AxSYM Free T4 Calibrators and Controls, used
+               for the quantitative determination of Free Thyroxine in
+               human serum or plasma:
+               (a) IMx System Free T4 Calibrators, List #2222-01, 6 bottles
+               (4 ml each);
+               (b) IMx System Free T4 Controls, List #2222-10, 3 bottles (8
+               ml each); 
+               (c) Abbott AxSYM System Free T4 Standard Calibrators, List
+               #7A54-01, 6 bottles (4 ml each); 
+               (d) Abbott AxSYM System Free T4 Master Calibrators, List
+               #7A54-30, 2 bottles (4 ml each);
+               (e) Abbott AxSYM System Free T4 Controls, List #7A54-10, 3
+               bottles (8 ml each).  Recall #Z-863/867-5.
+CODE           Lot numbers:  (a) 88216Q100; (b) 89434Q100; (c) 88217Q100,
+               88217Q101; (d) 88994Q101; (e) 89184Q100.
+MANUFACTURER   Abbott Health Products, Inc., Barceloneta, Puerto Rico.
+RECALLED BY    Abbott Laboratories, Diagnostics Division, Abbott Park,
+               Illinois, by telephone and by letter June 5, 1995.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       5,189 packs were distributed; firm estimated that less than
+               5 percent of product remained on market at time of recall
+               initiation.
+REASON         Some of the Free T4 calibrators and controls may have
+               elevated Free T4 levels, which can result in patient samples
+               with depressed values when using the affected calibrators.  
+
+_______________
+PRODUCT        Ultra Urodynamic System, a urodynamic measurement system
+               that measures the flow/volume of urine:
+               (a) Ultra Model; (b) Ultra Lite Model; (c) Ultra Compact
+               Model. Recall #Z-870/872-5.
+CODE           (a) Model #5251700; (b) Model #5253200; (c) Model #5253300.
+MANUFACTURER   Surgitek, Racine, Wisconsin.
+RECALLED BY    Cabot Medical Corporation, Langhorne, Pennsylvania, by
+               telephone April 4 and 5, 1995, followed by letter dated
+               letter April 3, 1995.  Firm-initiated field correction
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       21 units were distributed.
+REASON         Leakage current through the EMG leads of the Endotek Ultra
+               System may exceed the Underwriters Laboratories (UL)
+               recommended safe levels.
+
+_______________
+PRODUCT        Abbott IMx Free T3 Reagent Pack, an in-vitro diagnostic
+               microparticle enzyme immunoassay (MEIA) for the quantitative
+               measurement of free Triiodothyronine in human or serum or
+               plasma (EDTA and heparin), 100 tests.  Recall #Z-887-5.
+CODE           List #2221; Lot numbers:  90805Q100, 93741Q100, 93961Q100,
+               94616Q100, 94533Q100, 95045Q100, 95247Q100, 95498Q100,
+               01347Q100, 01685Q100, 01686Q100, 02714Q100, 03005Q100,
+               03543Q100, 04597Q100.
+MANUFACTURER   Abbott Health Products, Inc., Barceloneta, Puerto Rico.
+RECALLED BY    Abbott Laboratories, Diagnostics Division, Abbott Park,
+               Illinois, by telephone May 26, 1995, followed by letters
+               dated May 23, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       16,822 packs were distributed; firm estimated that less than
+               5 percent remained on market at time of recall initiation.
+REASON         Some normal patients may show thyroid results above the
+               reference range when the affected kits are used.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS III
+==========
+_______________
+PRODUCT        Biomox (amoxicillin) Veterinary for oral suspension, 50/1
+               ml, in 15 ml bottles.  Recall #V-031-5.
+CODE           Lot numbers and EXP dates:  31048  10/01/94, 31049 
+               10/01/94, 31251  01/01/95, 31524  03/01/95, 31645 05/01/95,
+               31886  07/01/95, 33076  10/01/95, 33359 11/01/95,  33421 
+               12/01/95, 33645  02/01/96, 33874  04/01/96.
+MANUFACTURER   Biocraft Laboratories, Elmwood Park, New Jersey.
+RECALLED BY    Biocraft Laboratories, Fair Lawn, New Jersey, by letter
+               October 6, 1994.  Firm-initiated recall ongoing.
+
+DISTRIBUTION   Virginia.
+QUANTITY       833,760 bottles were distributed.
+REASON         Current good manufacturing practice deficiencies.
+
+
+SEIZURES:
+=================================================================
+_______________
+PRODUCT        Compressed Oxygen, USP (95-662-365).
+CHARGE         Adulterated - The methods used in, and the facilities and    
+               controls used for, the article's manufacture, processing,    
+               packing, and holding do not conform to and are not operated  
+               and administered in conformity with current good
+               manufacturing practice requirements.
+LOCATION       Daley's Medical Rental, Inc., Dolton, Illinois.
+FILED          June 15, 1995; U.S. District Court for the Northern District
+               of Illinois, Eastern Division; Civ. #95C 3525; FDC #67094.
+SEIZED         June 16, 1995 - goods valued at approximately $13,092.
+
+_______________
+PRODUCT        Ultrasonic tip for phaco-emulsification machine which is
+               used in eye cataract surgery (94-714-809).
+CHARGE         Adulterated - The article is a class III medical device for  
+               which there is no approved premarket approval application in
+               effect; nor were the methods used in, and the facilities and
+               controls used for, the article's manufacture, packing, and   
+               storage in conformity with current good manufacturing
+               practice requirements.  Misbranded - The article was not
+               included in a list as required, nor was the required notice
+               or other information provided. 
+LOCATION       Sherburne Manufacturing Co., Long Beach, California.
+FILED          January 11, 1995; U.S. District Court for the Central
+               District of California; Civ. #CV 95-0219MRP(JGx); 
+               FDC #66722.
+SEIZED         February 23, 19953 - goods valued at approximately $800,000.
+
+
+
+END OF ENFORCEMENT REPORT FOR JUNE 28, 1995.  BLANK PAGES MAY FOLLOW.
+
+                                   ####

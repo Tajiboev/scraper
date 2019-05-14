@@ -1,0 +1,839 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  DEC
+		  Mar
+		
+		
+		
+		  
+		  28
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      25 captures
+	      19 Aug 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DO
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+  
+  February 4, 1998                                      98-05
+  
+  RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS II ============
+  _______________
+  PRODUCT      Individual uncoded bars of "Chief Crunchie
+               Chocolate Sundae Bars" and cases labeled as
+               "Chief Crunchy Toasted Almond Bars".
+               Recall #F-070-8.
+  CODE         1637.
+  MANUFACTURER Kemps, Foods, Inc., Lancaster, Pennsylvania.
+  RECALLED BY  Manufacturer, by telephone on January 8, 1998,
+               followed by letter on January 13, 1998.  
+               Firm-initiated recall ongoing.
+  DISTRIBUTION West Virginia, Pennsylvania, Delaware, New
+               York, Massachusetts, Connecticut, Maryland.
+  QUANTITY     Firm estimated that little product remained on
+               market at time of recall initiation.
+  REASON       Undeclared almonds and corn flour.  Some bars
+               labeled as "Chief Crunchie Chocolate Sundae
+               Bar" actually contain "Chief Crunchie Toasted
+               Almond Bar".
+  
+  _______________
+  PRODUCT      Dietary supplements:
+               a) Maxine TR 
+               b) DinoPals 
+               c) Life Max  
+               d) Jungamals (USA) 
+               e) Jungamals (Canada)  - For Export Only 
+               f) Optipack 2000  
+               g) Vitamin/Mineral Chewable  
+               h) Completron 
+               I) Completron Junior.  
+               j) Nutrapack Tablets.  Recall #F-224/233-8.
+  CODE         GSN Batch #/Packaging lot # EXP Date: 
+               Maxine TR -- Bulk (612-193B)/None  N/A
+               Dino Mins -- 703-325/2080D7  EXP 04/99
+               LifeMax   -- 704-565B/2487E7 EXP 05/99
+                            704-565C/2488E7
+                            704-565D/2489E7
+                            704-565E/2490E7
+                            704-565F/2504E7 
+               Jungamals (USA) 701-928A/GS09471   N/A 
+                               701-928B/*GS09771
+                               701-928C/GS09871
+                               701-928D/GS09971
+                               701-950A/GS13672
+                               701-950B/GS13771
+               Jungamals (Canada)  701-940/GS13971  N/A
+               Optipak 2000 Bulk  (703-424)/None   N/A
+                            Bulk  (703-425)/None
+               Vit/Mineral Chewable 704-783/2635E7 EXP 05/00
+               Completron           703-306/2353E7 EXP 04/99 
+                                    703-306/2418E7
+               Completron Jr.       703-304/2074D7 EXP 03/99
+               Nutrapack tablets    703-708A/1151E7 EXP 04/00
+                              Bulk  (703-624A)/None
+               Kids Formula * Bulk  (705-648)/None  N/A
+               FE Caps with DSS * Bulk (705-512)/None N/A
+  MANUFACTURER Garden State Nutritionals, Fairfield, New
+               Jersey.
+  RECALLED BY  Manufacturer, by letters and fax on July 10
+               and 16, 1997.  Firm-initiated recall complete.
+  DISTRIBUTION New York, Florida, Utah, New Jersey,
+               Massachusetts, Texas, California, Canada.
+  QUANTITY     Firm estimates none remains on the market.
+  REASON       Products contain excessive levels of lead.
+  
+  _______________
+  PRODUCT      Dietary Supplements:
+               a) Animal Shaped Children's Chewable Vitamins
+               with Iron and Beta Carotene, bulk 
+               b) Poly-Tabs with Iron - Chewable, distributed
+               by J.J. Balan, Inc 
+               c) Valumed Children's Chewable Multiple
+               Vitamins with Iron, 100 Tablets 
+               d) Major Animal Shapes + Iron, distributed by
+               Major Pharmaceuticals 
+               e) Children's Complete with Calcium, Iron, and
+               Minerals, bulk.  Recall #F-234/238-8 
+  CODE         Bulk Animal Shaped Children's Chewable
+               Vitamins w/Iron & Beta Carotene CODE 2225A
+               (Nutro Laboratories' code).  
+               Bulk Children's Complete with Calcium, Iron &
+               Minerals CODE 2288A (Nutro Laboratories'
+               code).
+               Poly-Tabs with Iron - Chewable, 100 count CODE
+               2225A, Lot 7C00550, NDC #0304-0900-01, Exp
+               3/00.
+               Children's Chewable Multiple Vitamins with
+               Iron, 100 count, CODE 2225A, Lot 7C00550, NDC
+               #0839-6552-06, Exp 3/00.
+               Animal Shapes + Iron Children's Chewable
+               Vitamins, 100 count, CODE 2225A, Lot 7C00550,
+               NDC #09040-53660, Exp 3/00.
+  MANUFACTURER Nutro Laboratories, Inc., South Plainfield,
+               New Jersey.
+  RECALLED BY  Manufacturer, by telephone on July 7, 1997, by
+               fax on July 8, 1997, and by letter on July 8,
+               1997.  Firm-initiated recall ongoing.
+  DISTRIBUTION Nationwide.
+  QUANTITY     1,841,719 tablets were distributed.
+  REASON       Products contain excessive levels of lead.
+  
+  _______________
+  PRODUCT      Mint candies: a) "Misty Mints" candies in 12
+               oz. bags under the Plantation label and 16 oz.
+               bags under the Crawford Candies label 
+               b.) "Mini-Misty Mints" candies in 12 oz. bags
+               under the Plantation label and 16 oz. bags
+               under the Crawford Candies label.
+               Recall #F-239/240-8.
+  CODE         All product distributed from 1/1/97 to
+               5/31/97.
+  MANUFACTURER Plantation Candies, Inc., Telford,
+               Pennsylvania.
+  RECALLED BY  Manufacturer, by letter on August 22, 1997. 
+               Firm-initiated recall ongoing.
+  DISTRIBUTION Pennsylvania, New Jersey, Florida, Michigan,
+               Ohio, New York, Massachusetts, Maryland, New
+               Hampshire, Indiana, Delaware.
+  Quantity     a) 2,000 pounds; b) 7,100 pounds were
+               distributed.
+  REASON       Products contain the following undeclared FD&C
+               colors: Yellow No. 5, Blue No. 1, Red No. 3,
+               and Red No. 40.
+  
+  
+  RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS III ===========
+  _______________
+  PRODUCT      Mint candies: a) "Misty Mints" candies in 14
+               oz. bags, 10 lb. bulk containers and 25 lb.
+               bulk containers under the Plantation label 
+               b) "Mini-Misty Mints" candies in 14 oz. bags,
+               10 lb. bulk containers and 25 lb. bulk
+               containers under the Plantation label.
+               Recall #F-241/242-8.
+  CODE         All product distributed from 1/1/97 to
+               5/31/97.
+  MANUFACTURER Plantation Candies, Inc., Telford,
+               Pennsylvania.
+  RECALLED BY  Manufacturer, by letter on August 22, 1997. 
+               Firm-initiated recall ongoing.
+  DISTRIBUTION Pennsylvania, New Jersey, Florida, Michigan,
+               Ohio, New York, Massachusetts, Maryland, New
+               Hampshire, Indiana, Delaware.
+  Quantity     a) 2,000 pounds; b) 7,100 pounds were
+               distributed.
+  REASON       Products contain the following undeclared FD&C
+               colors: Blue No. 1, Red No. 3, and Red No. 40. 
+  
+  _______________
+  PRODUCT      Pinata Fillers, a mixture of candy and toys in
+               a plastic bag with net weight stated at 2
+               pounds, marketed under the Unique label.
+               Recall #F-243-8.
+  CODE         None.  All product in distribution.
+  MANUFACTURER Tzetzo Brothers, Inc., also known as Mayfair
+               Sales, Inc., Buffalo, New York (repacker).
+  RECALLED BY  Unique Industries, Inc., Philadelphia,
+               Pennsylvania, by telephone on October 24,
+               1997.  Firm-initiated recall ongoing.
+  DISTRIBUTION Nationwide.
+  QUANTITY     46,896 bags were distributed.
+  REASON       Short weight - the product has 21% less weight
+               than declared on the label.  Also the labeling
+               is false and misleading since it bears the
+               general statement "Candy made in U.S.A." while
+               individual candies are labeled as being
+               products of foreign countries. 
+  
+  
+  RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS II ============
+  _______________
+  PRODUCT      Miochol-E (Acetylcholine Chloride) Intraocular
+               Solution, 20 mg/2 mL vials (NDA 20-213), Rx
+               used to obtain miosis of the iris in seconds
+               after delivery of the lens in cataract
+               surgery, in penetrating keratoplasty,
+               iridectomy and other anterior segment surgery
+               where rapid miosis may be required.  NDC
+               58768-773-53 MIOCHOL-E SYSTEM PAK
+               NDC 58768-773-52 MIOCHOL-E WITH STERI-TAGS.
+               Recall #D-064-8.
+  CODE:        LOT NO.        EXP. DATE
+               U2282          1/98
+               U2282F         1/98
+               U2292          2/98
+               U2292D         2/98
+               U2294          2/98
+               U2294D         2/98
+               U2288          2/98
+               U2288D         2/98
+               U2290          2/98
+               U2290D         2/98.
+  MANUFACTURER OMJ Pharmaceuticals, San German, Puerto Rico.
+  RECALLED BY  Ciba Vision Ophthalmics (CVO), Duluth,
+               Georgia, by letter dated October 24, 1997. 
+               Firm-initiated recall complete.
+  DISTRIBUTION Nationwide.
+  QUANTITY     53,556 units were distributed.
+  REASON       Failed pH specifications.
+  
+  
+  RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS III ===========
+  _______________
+  PRODUCT      Oratrast (Barium Sulfate for Suspension), Rx
+               used for radiologic imaging, in 25 pound bags. 
+               NDC #0075-0812-01.  Recall #D-050-8.
+  CODE         Lot numbers: N35905, N36008, P36106.
+  MANUFACTURER Centeon L.L.C., Bradley, Illinois.
+  RECALLED BY  Rhone-Poulenc Rorer Pharmaceuticals, Inc.,
+               Collegeville, Pennsylvania, by letter on
+               November 19, 1997.  Firm-initiated recall
+               complete.
+  DISTRIBUTION Nationwide.
+  QUANTITY     Firm estimates very little product remains on
+               the market.
+  REASON       Subpotent (12 month stability test point).
+  
+  _______________
+  PRODUCT      Polymyxin B Sulfate, USP, Micronized, non-sterile, 
+               (bulk) (AADA#61-367).  
+               Recall #D-063-8.
+   CODE        Lot #G6Y070-61022-262 EXP 12/31/01.
+  MANUFACTURER Pfizer, Inc., Groton, Connecticut (contract
+               manufacturer/packager/labeler).
+  RECALLED BY  Cultor Food Science, Inc., Ardsley, New York
+               (own label distributor), by letter on December
+               1, 1997.  Firm-initiated recall ongoing.
+  DISTRIBUTION New York, Maryland, Illinois, Ohio,
+               California, Missouri, Pennsylvania, Minnesota,
+               Wisconsin, Virginia, Puerto Rico.
+  QUANTITY     388.75 billion units or approximately 10
+               pounds were distributed.
+  REASON       Subpotent.  Product labeled with assay value
+               of 9,252 units/mg, while product actually
+               contains 7,891 units/mg.
+  
+  
+  RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS II ========
+  _______________
+  PRODUCT      a) Platelets; b) Fresh Frozen Plasma.
+               Recall #B-310/311-8.
+  CODE         Unit #N89129.
+  MANUFACTURER Lifeblood/Mid-South Regional Blood Center,
+               Memphis, Tennessee.
+  RECALLED BY  Manufacturer, by letter dated February 14,
+               1996.  Firm-initiated recall complete.
+  DISTRIBUTION Tennessee.
+  QUANTITY     1 unit of each component was distributed.
+  REASON       Blood products were collected from a donor who
+               received an accidental needle stick while
+               injecting a dog.
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Platelets. 
+               Recall #B-454/455-8.
+  CODE         Unit numbers: a) 6787604, 6743319, 7671435
+               b) 6787604, 6743319, 7671435, 7580465.
+  MANUFACTURER New York Blood Center, New York, New York.
+  RECALLED BY  Manufacturer, by letter dated either December
+               2, 3, 9, 1996, or March 7, 1997.  
+               Firm-initiated recall complete.
+  DISTRIBUTION New York, New Jersey, Switzerland.
+  QUANTITY     a) 3 units; b) 4 units were distributed.
+  REASON       Blood products which tested negative for the
+               antibody to the human T-lymphotropic virus I
+               (anti-HTLV-1), but were collected from donors
+               who on two previous occasions, tested
+               repeatedly reactive for anti-HTLV-1,            
+               Western blot negative.
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Platelets; c) Recovered
+               Plasma.  Recall #B-467/469-8.
+  CODE         Unit #9Y1312.
+  MANUFACTURER Puget Sound Blood Center Program, Seattle,
+               Washington.
+  RECALLED BY  Manufacturer, by letter dated September 18,
+               1997.  Firm-initiated recall complete.
+  DISTRIBUTION Washington state, and Switzerland.
+  QUANTITY     1 unit of each component was distributed.
+  REASON       Blood products were collected from a donor
+               with a history of exposure to hepatitis.
+  
+  _______________
+  PRODUCT      Various Human Tissues for Transplant: Bone,
+               skin, arteries, Achilles tendon, fascia, soft
+               tissue, knee block, lateral meniscus, medial
+               meniscus, patellar meniscus and patellar
+               tendon.  Recall #B-472-8.
+  CODE         Donor # CA97 10 013, CA96 11 091, BA96 04 004,
+               BA94 11 006, BA94 12 005, BA95 01 008, BA95 02
+               004, BA95 12 003, BA95 02 011, CA97 02 039,
+               CA97 09 043, CA97 09 007, CA97 09 001, CA97 05
+               064, CA97 06 090, CA97 06 077, CA97 06 075,
+               CA97 07 062, BA94 09 007, BA94 10 019, BA94 10
+               020, BA94 10 022, BA94 11 002, BA95 04 018,
+               BA96 04 010, BA95 03 003, BA95 04 012, BA95 02
+               008, BA94 11 015, BA95 08 001, BA95 08 002,
+               BA95 08 029.
+  MANUFACTURER Lions Doheny Eye & Tissue Transplant Bank, Los
+               Angeles, California.
+  RECALLED BY  Manufacturer, by telephone on November 26,
+               1997 and by letter dated December 4, 1997. 
+               Firm-initiated recall ongoing.
+  DISTRIBUTION California, Georgia, Texas.
+  QUANTITY     32 various tissues.
+  REASON       Human Tissues for Transplant, which: 1) Tested
+               repeatedly reactive for HIV p24 antigen; 2)
+               Tested repeatedly reactive for antibody to
+               hepatitis B core antigen (anti-HBc); 3) Tested
+               repeatedly reactive for the hepatitis B
+               surface antigen (HBsAg); 4) Tested repeatedly
+               reactive for antibody to the human T
+               lymphotropic virus type 1 (anti-HTLV-1); 5)
+               Tested repeatedly reactive for antibody to the
+               hepatitis C virus encoded antigen (anti-HCV); 
+               6) Tested reactive for syphilis, or a
+               combination of the above tests.
+  
+  _______________
+  PRODUCT      Platelets.  Recall #B-475-8.
+  CODE         Unit #5056232.
+  MANUFACTURER LifeShare, Inc., Elyria, Ohio.
+  RECALLED BY  Manufacturer, by telephone on September 26,
+               1997.  Firm-initiated recall complete.
+  DISTRIBUTION Ohio.
+  QUANTITY     1 unit was distributed.
+  REASON       Blood product was collected from a donor
+               taking the drug Modafinal.
+  
+  _______________
+  PRODUCT      Red Blood Cells.  Recall #B-483-8.
+  CODE         Unit 12LC25270.
+  MANUFACTURER American Red Cross Blood Services, Charlotte,
+               North Carolina.
+  RECALLED BY  Manufacturer, by telephone on November 25,
+               1996.  Firm-initiated recall complete.
+  DISTRIBUTION North Carolina.
+  QUANTITY     1 unit was distributed.
+  REASON       Blood product was collected from a donor who
+               traveled to an area considered endemic for
+               malaria.
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Fresh Frozen Plasma.
+               Recall #B-484/485-8.
+  CODE         Unit #12FJ87251.
+  MANUFACTURER American Red Cross Blood Services, Charlotte,
+               North Carolina.
+  RECALLED BY  Manufacturer, by telephone on September 27,
+               1996.  Firm-initiated recall complete.
+  DISTRIBUTION North Carolina.
+  QUANTITY     1 unit was distributed.
+  REASON       Blood products were collected from a donor
+               taking the drug Methotrexate.
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Recovered Plasma.
+               Recall #B-486/487-8.
+  CODE         Unit #12GL25713.
+  MANUFACTURER American Red Cross Blood Services, Charlotte,
+               North Carolina.
+  RECALLED BY  Manufacturer, by telephone on August 21, 1996,
+               and by fax on August 22, 1996.  Firm-initiated
+               recall complete.
+  DISTRIBUTION North Carolina and California.
+  QUANTITY     1 unit of each component was distributed.
+  REASON       Blood products were collected from a donor
+               with a history of cancer.
+  
+  _______________
+  PRODUCT      a) Whole Blood; b) Red Blood Cells; c)
+               Cryoprecipitated AHF.  Recall #B-488/490-8.
+  CODE         Unit numbers: a) 12FK93071, 12LN04270,
+               12LE12558; b) 12FK87844, 12FK94271, 12LE10347,
+               12LE11321, 12FK88871; c) 12LE11321.
+  MANUFACTURER American Red Cross Blood Services, Charlotte,
+               North Carolina.
+  RECALLED BY  Manufacturer, by telephone on July 23 or 27,
+               1996.  Firm-initiated recall complete.
+  DISTRIBUTION North Carolina.          
+  QUANTITY     a) 3 units; b) 5 units; c) 1 unit.
+  REASON       Blood products tested negative for the
+               antibody to the hepatitis B core antigen
+               (anti-HBc), but were collected from a donor
+               who previously tested repeatedly reactive for
+               anti-HBc on two separate occasions.
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Recovered Plasma.
+               Recall #B-491/492-8.
+  CODE         Unit #12FK00164.
+  MANUFACTURER American Red Cross Blood Services, Charlotte,
+               North Carolina.
+  RECALLED BY  Manufacturer, by telephone on November 19,
+               1996.  Firm-initiated recall complete.
+  DISTRIBUTION North Carolina and California.
+  QUANTITY     1 unit of each component was distributed.
+  REASON       Blood products were collected in a manner that
+               could have compromised the sterility of the
+               collection system.
+  
+  _______________
+  PRODUCT      Platelets, Pheresis.  Recall #B-493-8.
+  CODE         Unit #09253.
+  MANUFACTURER Community Blood Center, Inc., Appleton,
+               Wisconsin.
+  RECALLED BY  Manufacturer, by telephone on February 24,
+               1997, and by letter on February 26, 1997. 
+               Firm-initiated recall complete.
+  DISTRIBUTION Wisconsin.
+  QUANTITY     1 unit was distributed.
+  REASON       Platelets were prepared from a unit collected
+               from a donor who had taken feldene (aspirin)
+               within 3 days of donation.
+  
+  _______________
+  PRODUCT      Cryoprecipitated AHF.  Recall #B-494-8.
+  CODE         Unit numbers: 60-80029 and 60-80050.
+  MANUFACTURER Community Blood Center, Inc., Appleton,
+               Wisconsin.
+  RECALLED BY  Manufacturer, by letter dated July 1, 1996. 
+               Firm-initiated recall complete.
+  DISTRIBUTION Wisconsin.
+  QUANTITY     2 units were distributed.
+  REASON       Blood products were incorrectly processed.
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Platelets.
+               Recall #B-495/496-8.
+  CODE         Unit numbers: a) 42FP52201, 42K86053,
+               42H00802, 42H01740, 42Q48915, 42FP56942,
+               42FJ57278; b) 42FH59471, 42FP52201, 42Q48915,
+               42FJ57278.
+  MANUFACTURER American Red Cross Blood Services, Cleveland,
+               Ohio.
+  RECALLED BY  Manufacturer, by letter dated either July 17,
+               18, 1997, September 15, 1997, November 17,
+               1997 or November 18, 1997.  Firm-initiated
+               recall complete.
+  DISTRIBUTION Ohio.
+  QUANTITY     a) 7 units; b) 4 units were distributed.
+  REASON       Blood products were collected from donors who
+               reported travel to areas designated as 
+               endemic for malaria.
+  
+  _______________
+  PRODUCT      Source Plasma.  Recall #B-497-8.
+  CODE         Unit numbers: 0650169923, 0650169559,
+               0650168927.
+  MANUFACTURER NABI Bio Medical Center, Racine, Wisconsin.
+  RECALLED BY  Manufacturer, by letter on or about August 21,
+               1997.  Firm-initiated recall complete.
+  DISTRIBUTION North Carolina.
+  QUANTITY     3 units were distributed.
+  REASON       Blood products were collected from an
+               unsuitable donor who subsequently tested
+               reactive for HIV-1 Ag.
+  
+  _______________
+  PRODUCT      Recovered Plasma.  Recall #B-498-8.
+  CODE         Unit #32S91.
+  MANUFACTURER Mayo Foundation, Division of Transfusion
+               Medicine, Rochester, Minnesota.
+  RECALLED BY  Manufacturer, by letter dated March 13, 1997. 
+               Firm-initiated recall complete.
+  DISTRIBUTION Florida.
+  QUANTITY     1 unit was distributed.
+  REASON       Blood product was collected from autologous
+               donor who did not meet the criteria for
+               homologous use, donor taking the drug
+               Prednisone.
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Platelets
+               c) Platelets, Pheresis
+               d) Fresh Frozen Plasma.  Recall #B-499/502-8.
+  CODE         Unit numbers:  a) H66413, H54647, L02729,
+               H15388, H11361, H08239, H00303, F71530,
+               F68954, F46809, F36388, F32820, F22297,
+               F18955, F91414
+               b) H15388, H00303, F91414, F46809, F22297,
+               F18955; c) F75267; d) F46809.
+  MANUFACTURER Tacoma-Pierce County Blood Bank, doing
+               business as Cascade Regional Blood Services,
+               Tacoma, Washington.
+  RECALLED BY  Manufacturer, by letter dated August 11, 1997. 
+               Firm-initiated recall complete.
+  DISTRIBUTION Washington state.
+  QUANTITY     a) 15 units; b) 6 units; c) 1 unit; d) 1 unit.
+  REASON       Blood products tested negative for the
+               hepatitis B surface antigen (HBsAg), but were
+               collected from a donor who previously tested
+               repeatedly reactive for HBsAg, confirmatory
+               positive.
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Platelets, Pooled; c)
+               Recovered Plasma.  Recall #B-504/506-8.
+  CODE         Unit numbers: a) W65370, W67596, W69522,
+               W72292; b) FF51592, FF66640, FF59389
+               c) W63127, W65370, W67596, W69522, W72292.
+  MANUFACTURER The Blood Center of Southeastern Wisconsin,
+               Inc., Milwaukee, Wisconsin.
+  RECALLED BY  Manufacturer, by letter dated August 15, 1997. 
+               Firm-initiated recall complete.
+  DISTRIBUTION Wisconsin and New York.
+  QUANTITY     a) 4 units; b) 3 units; c) 5 units were
+               distributed.
+  REASON       Blood products tested negative for the
+               antibody to the human immunodeficiency virus
+               type 1 (anti-HIV-1),  but were collected from a
+               donor who previously tested repeatedly
+               reactive for anti-HIV-1, Western blot 
+               (unlicensed) negative. 
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Platelets;
+               c) Recovered Plasma.  Recall #B-507/509-8.
+  CODE         Unit #Q44787.
+  MANUFACTURER The Blood Center of Southeastern Wisconsin,
+               Inc., Milwaukee, Wisconsin.
+  RECALLED BY  Manufacturer, by letter dated November 18,
+               1996.  Firm-initiated recall ongoing.
+  DISTRIBUTION Wisconsin.
+  QUANTITY     1 unit was distributed.
+  REASON       Blood products were collected from a donor who
+               was exposed to hepatitis A.
+  
+  _______________
+  PRODUCT      Platelets.  Recall #B-510-8.
+  CODE         Unit numbers: 31LM03645, 01LM02582, 01LF00414.
+  MANUFACTURER American Red Cross Blood Services, Buffalo,
+               New York.
+  RECALLED BY  Manufacturer, by fax on February 14, 1996,
+               November 27, 1996 or April 15, 1997.  
+               Firm-initiated recall complete.
+  DISTRIBUTION New York.
+  QUANTITY     3 units were distributed.
+  REASON       Blood products were prepared from units of
+               Whole Blood with extended collection times or
+               designated as a difficult bleed.
+  
+  _______________
+  PRODUCT      Platelets, Pheresis.  Recall #B-518-8.
+  CODE         Unit #09799.
+  MANUFACTURER Community Blood Center, Inc., Appleton,
+               Wisconsin.
+  RECALLED BY  Manufacturer, by telephone on May 16, 1997. 
+               Firm-initiated recall complete.
+  DISTRIBUTION Michigan.
+  QUANTITY     1 unit was distributed.
+  REASON       Blood product was collected from a donor whose
+               medical history screening was inadequately
+               performed.
+  
+  
+  RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS III =======
+  _______________
+  PRODUCT      Recovered Plasma.  Recall #B-456-8.
+  CODE         Unit numbers:  6787604, 6743319, 7671435     
+  MANUFACTURER New York Blood Center, New York
+  RECALLED BY  Manufacturer, by letters on either December 2,
+               3, 9, 1996, or March 7, 1997.  Firm-initiated
+               recall complete.
+  DISTRIBUTION New York, New Jersey, Switzerland.
+  QUANTITY     3 units were distributed.
+  REASON       Blood products tested negative for the
+               antibody to the human T-lymphotropic virus I
+               (anti-HTLV-1), but were collected from donors
+               who on two previous occasions, tested
+               repeatedly reactive for anti-HTLV-1, Western
+               blot negative.
+  
+  _______________
+  PRODUCT      a) Red Blood Cells; b) Fresh Frozen Plasma.
+               Recall #B-463/464.
+  CODE         a) 2030365, 2030366, 2030367, 2030368,
+               2030375, 2030376, 2030379, 2030381, 2030373,                        
+               2030382; b) 2030365, 2030366, 2030367,
+               2030368, 2030375, 2030376, 2030379, 2030381,  
+               2030373, 2030382.  
+  MANUFACTURER LifeShare, Inc., Elyria, Ohio.
+  RECALLED BY  Manufacturer, by letter on July 9, 1997. 
+               Firm-initiated recall complete.
+  DISTRIBUTION Ohio.
+  QUANTITY     10 units of each component were distributed.
+  REASON       Blood products had extended expiration dates.
+  
+  _______________
+  PRODUCT      Recovered Plasma.  Recall #B-503-8.
+  CODE         Unit numbers:  H66413, H54647, L02729, H08239,
+               H00303, F91414, H15388, H11361, F71530,
+               F68954.
+  MANUFACTURER Tacoma-Pierce County Blood Bank, doing
+               business as Cascade Regional Blood Services,
+               Tacoma, Washington.
+  RECALLED BY  Manufacturer, by fax on July 31, 1997,
+               followed by letters dated August 11, 1997, and
+               January 5, 1998.  Firm-initiated recall
+               complete.
+  DISTRIBUTION California.
+  QUANTITY     10 units were distributed.
+  REASON       Blood products tested negative for the
+               hepatitis B surface antigen (HBsAg), but were
+               collected from a donor who previously tested
+               repeatedly reactive for HBsAg, confirmatory
+               positive.
+  
+  _______________
+  PRODUCT      Red Blood Cells.  Recall #B-511-8.
+  CODE         Unit #04KZ01162.
+  MANUFACTURER American Red Cross Blood Services, Dedham,
+               Massachusetts.
+  RECALLED BY  Manufacturer, by letter dated August 7, 1996. 
+               Firm-initiated recall complete.
+  DISTRIBUTION New Hampshire.
+  QUANTITY     1 unit was distributed.
+  REASON       Autologous blood product, which tested
+               positive for the hepatitis B surface antigen
+               (HBsAg), the antibody to the hepatitis B core
+               antigen (anti-HBc), and the antibody to the
+               hepatitis C virus encoded antigen (anti-HCV),
+               was distributed, contrary to the firm's
+               standard operating procedures.
+  
+  _______________
+  PRODUCT      Recovered Plasma.  Recall #B-512-8.
+  CODE         Unit #04KR04615.
+  MANUFACTURER American Red Cross Blood Services, Dedham,
+               Massachusetts.
+  RECALLED BY  Manufacturer, by letter dated April 8, 1996. 
+               Firm-initiated recall complete.
+  DISTRIBUTION California.
+  QUANTITY     1 unit was distributed.
+  REASON       Blood product corresponded to a unit of Red
+               Blood Cells that was implicated in a
+               transfusion reaction.
+   
+ RECALLS AND FIELD CORRECTIONS: DEVICES -- CLASS II ==========
+  _______________
+  PRODUCT      Radionics Model CTCP-2 CT Clamping Plate, used
+               primarily for stereotactic radiosurgery.
+               Recall #Z-284-8.
+  CODE         All CTCP-P2 clamping plates manufactured since
+               July 1993.
+  MANUFACTURER Radionics, Inc., Burlington, Massachusetts.
+  RECALLED BY  Manufacturer, by letter on November 12, 1997. 
+               Firm-initiated recall complete.
+  DISTRIBUTION Nationwide.
+  QUANTITY     106 units were distributed.
+  REASON       The clamping plate may collide with the base
+               CT couch, possibly causing patient injury.
+  
+  _______________
+  PRODUCT      Reliant Power Lifts: a) Model RPA450
+               b) Model RPL450.  Recall #Z-285/286-8.
+  CODE         All device serial numbers beginning with 96K
+               through 96L and 97A through 97E, followed by
+               any five digit numeric combination.
+  MANUFACTURER Invacare Corporation, Elyria, Ohio.
+  RECALLED BY  Manufacturer, by letter dated November 7,
+               1997.  Firm-initiated recall ongoing.
+  DISTRIBUTION Nationwide and Canada.
+  QUANTITY     475 lifts were distributed.
+  REASON       The Matrix linear actuator has exhibited three
+               failures on a patient hoist, in each case
+               losing its load-carrying capacity.
+  
+  _______________
+  PRODUCT      The Fabricant System, a manual
+               irrigation/aspiration unit, sterile,
+               disposable, used to wash and aspirate saline
+               during eye surgery.  Recall #Z-289-8.
+  CODE         Product #9AF017, Lot number: E097,
+               Sterilization Date: May 1997.
+  MANUFACTURER U.S. Medical, Inc., Hingham, Massachusetts.
+  RECALLED BY  Manufacturer, by telephone on December 16,
+               1997, followed by letter dated December 16,
+               1997.  Firm-initiated recall ongoing.
+  DISTRIBUTION Florida.
+  QUANTITY     769 units were distributed.
+  REASON       The irrigation hole that is drilled into the
+               tip of the cannula was incomplete, thus
+               restricting liquid flow.
+  
+  _______________
+  PRODUCT      Umbilical Clamp, QFC-650, used to clamp the
+               umbilical cord during childbirth.  
+               Recall #Z-292-8.
+  CODE         All lots.
+  MANUFACTURER QFC Industries, Arlington, Texas.
+  RECALLED BY  Manufacturer, by letter on November 12, 1997. 
+               Firm-initiated recall ongoing.
+  DISTRIBUTION Illinois and Virginia.
+  QUANTITY     79 cases (237,000 units) were distributed;
+               firm estimated 18 cases (54,000 units)
+               remained on market at time of recall
+               initiation.
+  REASON       The device sometimes slips upon installation
+               allowing blood seepage in some cases.
+    
+  RECALLS AND FIELD CORRECTIONS: VETERINARY PRODUCTS -- CLASS I ==================
+  _______________
+  UPDATE       Large volume parenterals, distributed by
+               Veterinary Pharmaceuticals, Inc., which
+               appeared in the January 21, 1998, Enforcement
+               Report as has been revised.  The actual
+               products recalled and recall numbers are as
+               follows:
+               Electrolyte Solution with Dextrose - V-010-8
+               Calcium Gluconate 23% - V-011-8
+               Dextrose Sol 50% - V-012-8
+               Hypertonic Saline Solution 7.2%  - V-013
+               Caldex CMPK - V-014-8
+               Lactated Ringer Solution - V-015-8
+               Sterile Water for Injection - V-016
+               Vitamin B Complex - V-017-8
+               Vitamin B Complex Fortified - V-018-8.
+  
+  
+  END OF ENFORCEMENT REPORT FOR FEBRUARY 4, 1998.  BLANK PAGES MAY FOLLOW.
+
+                                   ####
+
+
+
+
+  
+ End of Enforcement Report for

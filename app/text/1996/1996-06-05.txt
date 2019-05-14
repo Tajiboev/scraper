@@ -1,0 +1,385 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Nov
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      30 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+06/05/1996
+
+ENFORCEMENT REPORT FOR 06/05/1996
+
+
+June 5, 1996                                      96-23
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III ==========
+_______________
+PRODUCT        J.B. Williams Cepacol Maximum Strength Sore
+               Throat Spray (cool menthol), Non Rx, in 4
+               ounce liquid spray bottles.  Recall #D-150-6.
+CODE           Lot #L5010J EXP 7/97.
+MANUFACTURER   Les Emballages Knowlton, Knowlton, Quebec,
+               Canada.
+RECALLED BY    J.B. Williams Company, Inc., Glen Rock, New
+               Jersey, by letter on September 5, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       58,212 units were distributed.
+REASON         Subpotency.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS I ==========
+_______________
+PRODUCT        Avian Transport Adult and Pediatric Ventilator
+               (a) Avian Ventilator, Part No. 15304;
+               (b) Avian Ventilator, Part No. 15345;
+               (c) Avian Ventilator, Part No. 15345A;
+               (d) Avian Ventilator, Part No. 15345C;
+               (e) Avian Ventilator, Part No. 15345J;
+               (f) Avian Ventilator, Part No. 15345L;
+               (g) Avian Ventilator, Part No. 15345S;
+               (h) Avian Ventilator, Part No. 15365;
+               (i) Avian Ventilator, Part No. 15365A;
+               (j) Avian Ventilator, Part No. 15365C;
+               (k) Avian Ventilator, Part No. 15365J;
+               (l) Avian Ventilator, Part No. 15365L;         
+               (m) Avian Ventilator, Part No. 15365S.  
+               Recall #Z-729/741-6.
+CODE           All lots and all serial numbers. 
+MANUFACTURER   Bird Products Corporation, Palm Springs,
+               California.
+RECALLED BY    Manufacturer, by letter on April 1, 1996,
+               followed by an updated letter dated April 15,
+               1996.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 3,200 units were distributed.
+REASON         All device models have oxygen bleeding or
+               leaking internally, which is not being
+               adequately vented to the outside of the case. 
+               This causes elevated oxygen concentrations
+               within the device when the unit is operated
+               with an enriched gas supply (e.g., 40% - 100%
+               oxygen).  Furthermore, one particular brand of
+               capacitor with an inadequate voltage
+               specification, found in approximately 120 to
+               150 of the devices, at one circuit board
+               location, fails due to overheating, which in
+               the presence of the elevated oxygen
+               concentrations, causes combustion within the
+               case.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II =========
+_______________
+PRODUCT        Receptal Suction Liner System, used with the
+               Receptal hard canister for vacuum suction
+               waste body fluid management in hospital
+               operating rooms:
+               (a) List 43024- 01: 2000 ml liner/lid, 1/4"
+               port V3024-01: VHA+PLUS label;
+               (b) List 43027-01: 2000 ml liner/lid with pour
+               spout (arthroscopy) V3027-01- VHA+PLUS label;
+               (c) List 43042-01:  2000 ml Liner/Lid with
+               VAC-GARD internal non-mechanical shut off
+               valve/filter V3042-01-VHA+PLUS label;
+               (d) List 43044-05:  2000 ml liner/lid with
+               VAC-GARD internal non-mechanical shut off
+               valve/filter, pour spout V3044-05- VHA+PLUS
+               label;
+               (e) List 43043-01: 1500 ml liner/lid with
+               VAC-GARD internal non-mechanical shut off
+               valve/filter V3043-01  VHA+PLUS label;
+
+                             -2-               (f) List 43044-01: 1500 ml liner/lid with
+               VAC-GARD internal non-mechanical shut off
+               valve/filter, pour spout.
+               Recall #Z-781/786-6.
+ CODE          Lot numbers:  (a) 43024-01: 86021K4, 87015K4,
+               87016K4, 87017K4, 87018K4, 88026K4, 88027K4,
+               88028K4, 88029K4, 88040K4, 89006K4, 89007K4,
+               89088K4, 89089K4, 89094K4, 90001K4, 90002K4,
+               90003K4, 90011K4, 91003K4, 91004K4, 91005K4,
+               91064K4, 91065K4, 92044K4, 92045K4, 92080K4,
+               92081K4, 92082K4, 92106K4, 92109K4, 92110K4,
+               92113K4, 92115K4, 93044K4, 93072K4, 93073K4,
+               93074K4, 95058K4, 95059K4, 95060K4, 95061K4,
+               96002K4, 96003K4, 96004K4, 96005K4, 96082K4,
+               96130K4, 96131K4, 96132K4, 96133K4, 96134K4,
+               02019K4, 02020K4, 02021K4, 03015K4, 03016K4,
+               03017K4, 03051K4, 03052K4, 03053K4, 05054K4,
+               04003K4, 04004K4, 04005K4, 04006K4, 04007K4,
+               04008K4, 04088K4, 04089K4, 05001K4, 05002K4,
+               05075K4, 06006K4, 06040K4, 06041K4, 07017K4,
+               07018K4, 07019K4, 07039K4, 08019K4, 08020K4,
+               08047K4, 08106K4, 09008K4, 09009K4, 09010K4,
+               09048K4, 09094K4, 10006K4, 10007K4;
+               V3024-01: 87001K4, 87002K4, 87003K4, 88017K4,
+               88018K4, 88019K4
+               (b) 43027-01: 02101K4, 03055K4, 03056K4,
+               03057K4, 04022K4, 04023K4, 04024K4, 04106K4,
+               04107K4, 05012K4, 05013K4, 05094K4, 06042K4,
+               06043K4, 07020K4, 07041K4, 07091K4, 08012K4,
+               08013K4, 08126K4, 09012K4, 09013K4, 09014K4,
+               09049K4, 09095K4, 10009K4, 10010K4, 10011K4;
+               V3027-01: 06039K4, 07092K4, 08044K4, 08095K4,
+               10001K4
+               (c) 43042-01: 86022K4, 87021K4, 87022K4,
+               87055K4, 88033K4, 88034K4, 88042K4, 88043K4,
+               88058K4, 88059K4, 89013K4, 89095K4, 89118K4,
+               89119K4, 90024K4, 91009K4, 91010K4, 91011K4,
+               91066K4, 92056K4, 92087K4, 92107K4, 92111K4,
+               92116K4, 93076K4, 93077K4, 93078K4, 95062K4,
+               95063K4, 95064K4, 95065K4, 96022K4, 96023K4,
+               96135K4, 96136K4, 96137K4, 96138K4, 02022K4,
+               02023K4, 02088K4, 02108K4, 03018K4, 03019K4,
+               03020K4, 03058K4, 03121K4, 04026K4, 04027K4,
+               04028K4, 04029K4, 04090K4, 05003K4, 05076K4,
+               06007K4, 06044K4, 07021K4, 07022K4, 07023K4,
+               08026K4, 08027K4, 08102K4, 08127K4, 09015K4,
+               09016K4, 09050K4, 10014K4, 10015K4, 10016K4
+               V3042-01: 87007K4, 87008K4, 88021K4, 89002K4,
+               03028K4, 05009K4, 08024K4, 08096K4, 10002K4
+               (d) 43044-05: 04037K4, 04038K4, 05078K4,
+               05079K4, 06013K4, 06046K4, 07037K4, 08016K4, 
+
+                             -3-               08050K4, 09024K4, 09080K4, 10025K4, 10103K4
+               V3044-05: 06002K4, 07038K4, 08098K4, 10004K4
+               (e) 43043-01: 87023K4, 87024K4, 88035K4,
+               88036K4, 88037K4, 88131K4, 89014K4, 89019K4,
+               89091K4, 89092K4, 89120K4, 90005K4, 90006K4,
+               90050K4, 90051K4, 91012K4, 91013K4, 91014K4,
+               92057K4, 92058K4, 92088K4, 92089K4, 92090K4,
+               92091K4, 92092K4, 92093K4, 92108K4, 92112K4,
+               92114K4, 92117K4, 92118K4, 93079K4, 93080K4,
+               93081K4, 93082K4, 95066K4, 95067K4, 95068K4,
+               95069K4, 95087K4, 96024K4, 96025K4, 96026K4,
+               96139K4, 96140K4, 96141K4, 96142K4, 96143K4,
+               02024K4, 02025K4, 02026K4, 02038K4, 02039K4,
+               03021K4, 03022K4, 03023K4, 03024K4, 03059K4,
+               03060K4, 03061K4, 04030K4, 04031K4, 03032K4,
+               04108K4, 04109K4, 04110K4, 05017K4, 05018K4,
+               05077K4, 06008K4, 06009K4, 06045K4, 07034K4,
+               07035K4, 07036K4, 07094K4, 08014K4, 08015K4,
+               08048K4, 08107K4, 09017K4, 09018K4, 09019K4,   
+               09020K4, 10018K4, 10019K4, 10020K4, 10021K4,
+               10022K4 
+               V3043-01: 87009K4, 87010K4, 87011K4, 88022K4,
+               89003K4, 04001K4, 06001K4, 07093K4, 08045K4,
+               08097K4, 10003K4
+               (f) 43044-01: 04033K4, 04034K4, 04035K4,
+               04036K4, 04111K4, 04112K4, 05019K4, 05020K4,
+               05021K4, 06010K4, 06011K4, 06012K4, 07011K4,
+               07012K4, 07013K4, 08028K4, 08049K4, 08128K4,
+               09021K4, 09022K4, 09023K4, 10023K4, 10024K4,
+               10053K4, 10092K4, 10112K4.
+MANUFACTURER   Abbott Laboratories, Salt Lake City, Utah.
+RECALLED BY    Abbott Laboratories, Hospital Products
+               Division, Abbott Park, Illinois, by
+               interoffice memorandum on November 8, 1995,
+               and by letter on December 7, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 8,000,000 units are distributed
+               annually; firm estimates none remains on the
+               market.
+REASON         The receptal liner lids may pop off the
+               suction canisters compromising the function of
+               the device. 
+
+_______________
+PRODUCT        Calibration Gas Cylinders (10% 02, Balance
+               N2), used to calibrate and check an
+               oxygen/carbon dioxide analyzer.  
+               Recall #Z-841-6.
+CODE           Lot #022434 EXP 8/97.
+MANUFACTURER   Scott Specialty Gases, Inc., Scott Medical
+               Products Division, Plumsteadville,
+               Pennsylvania.
+                             -4-               RECALLED BY
+               Manufacturer, by telephone on April 13, 1995. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Washington state, Indiana, New York, Iowa,
+               Kansas, Wisconsin, Korea, Canada.
+QUANTITY       36 cylinders were distributed.
+REASON         The cylinders labeled as 10% oxygen/balance
+               nitrogen, actually contain 10% carbon
+               dioxide/balance nitrogen.
+
+_______________
+PRODUCT        Bird Ventilators, indicated for delivery of
+               medical gases to patients dependent on
+               artificial respiration:
+               (a) Model No. 8400STi Adult Volume Ventilator
+               and Upgrade Kits;
+               (b) Model "VIP" Infant and Pediatric
+               Ventilator and Upgrade Kits;
+               (c) Model No. 6400ST Adult Volume Ventilator;
+               (d) Model "Avian" Adult and Pediatric
+               Transport Ventilator.  Recall #Z-842/845-6.
+CODE           799 ventilators/up-grade kits, each with their
+               own serial number.
+MANUFACTURER   Vernay/Sfernice, Div. Potentiometers, Hyeres
+               Cedex, France (component)
+RECALLED BY    Bird Products Corporation, Palm Springs,
+               California, by letters dated December 21,
+               1995, and March 22, 1996.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       799 ventilators and upgrade kits are subject
+               to recall.
+REASON         The devices contain a defective potentiometer,
+               which can cause the ventilators to cease
+               operating while alarms remain functional.
+
+_______________
+UPDATE         Recall #Z-752/753-6, Uroview Diagnostic
+               Imaging Systems and Recall #Z-754-6, Model
+               9400 Mobile Fluoroscopy Imaging System, which
+               appeared in the May 15, 1996 Enforcement
+               Report are completed recalls as of November
+               1994.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS II
+=========
+_______________
+PRODUCT        Lincomix 300 Injectable Swine Antibiotic for
+               the treatment of arthritis or mycoplasma
+               pneumonia.  Recall #V-016-6.
+CODE           Lot #422MK EXP 8/99.
+MANUFACTURER   The Upjohn Company, Kalamazoo, Michigan.
+
+                             -5-RECALLED BY    Manufacturer, by letter mailed on June 22,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and Puerto Rico.
+QUANTITY       1,830 cases of 6 vials each were distributed.
+REASON         Product is mislabeled.  Cases of Lincomix,
+               labeled with the incorrect NDC Number 0009-
+               0617-12 and the incorrect strength of 100
+               mg/ml, containing vials properly labeled as
+               NDC Number 0009-3256-01, Lincomix 300
+               Injectable Swine Antibiotic (Lincomycin
+               Hydrochloride Sterile Solution, 300 mg/ml, 100
+               ml vial).
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS III
+========
+_______________
+PRODUCT        Growing Ration E with Amprolium, medicated
+               feed.  Recall #V-017-6.
+CODE           257.
+MANUFACTURER   Molinos De Puerto Rico, Inc., Guaynabo, Puerto
+               Rico.
+RECALLED BY    Manufacturer, by visit on February 27, 1996. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Puerto Rico.
+QUANTITY       10 6000-pound batches were distributed; firm
+               estimates none remains on the market.
+REASON         Product failed to meet potency specifications
+               for amprolium (subpotent).
+
+                             -6-
+
+END OF ENFORCEMENT REPORT FOR JUNE 5, 1996.  BLANK PAGES MAY FOLLOW.
+
+
+                                   ####

@@ -1,0 +1,868 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      34 captures
+	      19 Aug 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration,
+U.S. Public Health Service, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+November 11, 1998                                      
+98-45
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS
+I
+
+PRODUCT
+Quesos Puebla Mexican Style Fresh White Cheese, 14 ounces.
+Recall #F-028-9.
+CODE
+"JUL 22, 1998".
+MANUFACTURER
+Quesos Puebla, Brooklyn, New York.
+RECALLED BY
+Manufacturer, by telephone on July 27, 1998.  Completed recall
+resulted from sample analysis and follow-up by the New York
+Department of Agriculture and Markets.
+DISTRIBUTION
+New York.
+QUANTITY
+Firm estimates none remains on the market.
+REASON
+Product is contaminated with Listeria monocytogenes.
+
+
+
+PRODUCT
+Queseria Zurita Spanish White Cheese, in foil wrap packages, 14
+ounces.  Recall #F-031-9.
+CODE
+May 30.
+MANUFACTURER
+Zurita Cheese, Brooklyn, New York.
+RECALLED BY
+Manufacturer, by visit on or about May 26, 1998, and by press
+release issued by the New York State Department of Agriculture
+and Markets (NYSDAM) on May 26, 1998.  Completed recall resulted
+from sample analysis and follow-up by NYSDAM.
+DISTRIBUTION
+New York.
+QUANTITY
+120 units were distributed.
+REASON
+Product is contaminated with Listeria monocytogenes.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS
+II
+
+PRODUCT
+Product: Leslie Cheese Flavor Clover Chips, in 6.4 ounce aluminum
+foil bags.  Recall #F-021-9.
+CODE
+1210411.
+MANUFACTURER
+Leslie Corporation, Paranaque, Manila, Phillippines.
+RECALLED BY
+Summit Import Corporation, New York, New York, by letter dated
+September 8, 1997.  Completed recall resulted from sample
+analysis and follow-up by the New York State Department of
+Agriculture and Markets.
+DISTRIBUTION
+North Carolina, Florida, New Jersey, New York, Maryland.
+QUANTITY
+40 cases were distributed.
+REASON
+Product contained undeclared colors certifiable as FD&C Yellow
+No. 5 and FD&C Yellow No. 6.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS
+III
+
+PRODUCT
+Pillsbury Pet-Ritz Pie Crusts:
+a) Pillsbury Pet-Ritz Pie Crusts, Regular, 5 crusts in 9-inch 
+ready to fill pans, 25 ounces, 2 crusts in 9-inch ready to fill
+pans, 10 ounces;
+b) Pillsbury Pet-Ritz Pie Crusts, Deep Dish, 2 crusts in 9-inch
+ready to fill pans, 12 ounces;
+c) Pillsbury Pet-Ritz Pie Crusts, All Vegetable, 2 crusts in 
+9-inch ready to fill pans, 12 ounces.  Recall #F-025/027-9.
+CODE
+Cases are coded 072798L through 091798L, retail packages are
+coded G8Lxx where xx = 27 through 31, H8Lxx where xx = 01 through
+31, and I8Lxx where xx = 01 through 17.
+MANUFACTURER
+The Pillsbury Company, Lithonia, Georgia. 
+RECALLED BY
+The Pillsbury Company, Minneapolis, Minnesota, by electronic mail
+on September 28, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+39,892 cases containing 12 10 or 12-ounce retail bags of the
+crusts, or 6 of the 25 ounce boxes were distributed.
+REASON
+The products are unfit for food because colors migrated to the
+crusts from the product label.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS
+-- CLASS II
+
+PRODUCT
+Premarin Tablets (Conjugated Estrogens Tablets, USP), 1.25 mg, in
+bottles of 100.  Recall #D-012-9.
+CODE
+Lot number 8G01759.
+MANUFACTURER
+Ayerst-Wyeth Pharmaceuticals, Inc., Guayama, RQ.
+RECALLED BY
+Leiner Health Products, Madison, Wisconsin, by letter on
+September 15, 1998.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+16,004 bottles were distributed.
+REASON
+Mislabeling - One bottle labeled by Leiner Health Products as
+Premarin 1.25 mg tablets actually contained Buspar 10 mg tablets
+(Buspirone HCL USP).
+
+
+UPDATE
+Recall # D-006/009-9 (Inwood Labs) Propranolol HCl ER 60 mg
+capsules, lot 8A38 (1/99), which appeared in the November 4, 1998
+Enforcement Report should read lot 8A038. 
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS
+III
+
+PRODUCT
+Astra Rhinocort Nasal Inhaler(Budesonide), 7 g, in 200 meter
+doses, an anti-inflammatory glucocorticosteroid.
+NDC #0186-1075-PS.  Recall #D-011-9.
+CODE
+Lot #XI-110 EXP 9/98.
+MANUFACTURER
+3M Healthcare, Loughborough, UK.
+RECALLED BY
+Astra USA, Inc., Westborough, Massachusetts, by letter starting
+the first week of October 1998.  Firm-initiated recall
+ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+91,704 units were distributed.
+REASON
+Product exceeds total degradation specification (stability
+testing).
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS
+II
+
+PRODUCT
+Platelets, Pheresis, Irradiated.  Recall #B-067-9.
+CODE
+Units 07FM06232, 07FM06235.
+MANUFACTURER
+American Red Cross, Tucson, Arizona.
+RECALLED BY
+Manufacturer, by letter dated April 8, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Arizona.
+QUANTITY
+2 units were distributed.
+REASON
+Platelets were shipped at an unacceptable temperature.
+
+
+PRODUCT
+a) Red Blood Cells; b) Recovered Plasma for Further Manufacture. 
+Recall #B-097/098-9.
+CODE
+Unit #42T55014.
+MANUFACTURER
+American Red Cross Blood Services, Cleveland, Ohio.
+RECALLED BY
+Manufacturer, by letter dated March 18, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Ohio and Massachusetts.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor with a history of
+exposure to hepatitis.
+
+
+PRODUCT
+Red Blood Cells.  Recall #B-099-9.
+CODE
+Unit #N37898.
+MANUFACTURER
+Mississippi Valley Regional Blood Center, Davenport, Iowa.
+RECALLED BY
+Manufacturer, by letter dated July 10, 1997.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Virginia.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor taking the drug Cytotec
+(misoprostol).
+
+
+PRODUCT
+Platelets.  Recall #B-100-9.
+CODE
+Unit #1501245.
+MANUFACTURER
+Central Kentucky Blood Center (CKBC), Lexington, Kentucky.
+RECALLED BY
+Manufacturer, by telephone on July 27, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Kentucky.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor taking the drug Lodine
+(etodolac).
+
+
+PRODUCT
+Platelets, Pheresis.  Recall #B-101-9.
+CODE
+Unit #50P20560.
+MANUFACTURER
+American Red Cross Blood Services, Toledo, Ohio.
+RECALLED BY
+Manufacturer, by letter dated July 6, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Ohio.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product tested negative for the CMV, but was collected from
+a donor who previously tested CMV positive.
+
+
+PRODUCT
+a) Red Blood Cells; b) Fresh Frozen Plasma; c) Recovered Plasma. 
+Recall #B-102/104-9.
+CODE
+Unit numbers:  a) 5024208, 5024226, 5024232; b) 5024232; c)
+5024216, 5024226, 5024250, 5024256.
+MANUFACTURER
+BloodCare, Dallas, Texas.
+RECALLED BY
+BloodCare, doing business as Carter Blood Center, Bedford, Texas,
+by letter dated April 28, 1998, and/or by fax on April 24, 1998. 
+Firm-initiated recall complete.
+DISTRIBUTION
+Texas and Switzerland.
+QUANTITY
+a) 3 units; b) 1 unit; c) 4 units were distributed.
+REASON
+Blood products were collected from donors whose arm had not been
+adequately prepared prior to venipuncture.
+
+
+PRODUCT
+a) Red Blood Cells; b) Platelets.  Recall #B-105/106-9.
+CODE
+Unit numbers:  a) 18215-1277, 18215-1273, 18215-1029, 18215-1030,
+18215-1322; b) 18215-1277, 18215-1273, 18215-1274.
+MANUFACTURER
+United Blood Services, Cheyenne, Wyoming.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by telephone on October
+24, 1997 or October 31, 1997, and by letter dated November 13,
+1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Illinois, North Carolina, Wyoming.
+QUANTITY
+a) 5 units; b) 3 units were distributed.
+REASON
+Blood products were collected in a manner that compromised 
+the sterility of the units.
+
+
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Recovered Plasma.
+Recall #B-107/109-9.
+CODE
+Unit #V57551.
+MANUFACTURER
+Mississippi Valley Regional Blood Center, Davemport, Iowa.
+RECALLED BY
+Manufacturer, by letter dated March 11, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Louisiana, Virginia, California.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood product was collected from a donor who within the previous
+12 months had lived in a household with a mother who had
+hepatitis.
+
+
+PRODUCT
+a) Red Blood Cells; b) Fresh frozen Plasma; c) Recovered Plasma. 
+Recall #B-111/113-9.
+CODE
+Unit numbers:  a) 6164591; b) 4648686; c) 6164591.
+MANUFACTURER
+BloodCare, Dallas, Texas.
+RECALLED BY
+BloodCare, doing business as Carter BloodCare, Bedford, Texas, by
+letter dated either June 12 or 15, 1998.  Firm-initiated recall
+complete.
+DISTRIBUTION
+Texas and California.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor with a history of
+hepatitis.
+
+
+PRODUCT
+Whole Blood.  Recall #B-114-9.
+CODE
+Unit #5010352.
+MANUFACTURER
+BloodCare, Dallas, Texas.
+RECALLED BY
+BloodCare, doing business as Carter BloodCare, Bedford, Texas, by
+letter dated August 17, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Texas.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who had engaged in high
+risk behavior.
+
+
+PRODUCT
+a) Red Blood cells; b) Platelets.  Recall #B-117/118-9.
+CODE
+Unit #01GL02017.
+MANUFACTURER
+American Red Cross Blood Services, Syracuse, New York.
+RECALLED BY
+American Red Cross Blood Services, Rochester, New York, by letter
+dated November 18, 1997.  Firm-initiated recall complete.
+DISTRIBUTION
+New York.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor who reported travel to
+an area designated as endemic for malaria.
+
+
+PRODUCT
+a) Red Blood Cells; b) Fresh Frozen Plasma.  Recall #B-119/120
+-9.
+CODE
+Unit #01LW08212.
+MANUFACTURER
+American Red Cross Blood Services, Buffalo, New York.
+RECALLED BY
+American Red Cross Blood Services, Rochester, New York, by
+telephone on April 6, 1998, and by letter dated April 8, 1998. 
+Firm-initiated recall complete.
+DISTRIBUTION
+New York.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were contaminated with coagulase negative
+staphylococcus.
+
+
+PRODUCT
+Platelets, Pheresis.  Recall #B-121-9.
+CODE
+Unit #01FP03682.
+MANUFACTURER
+American Red Cross Blood Services, Albany, New York.
+RECALLED BY
+American Red Cross Blood Services, Rochester, New York, by
+telephone on December 11, 1997, and by letter dated January 12,
+1998.  Firm-initiated recall complete.
+DISTRIBUTION
+New York.
+QUANTITY
+1 unit was distributed.
+REASON
+Platelets, Pheresis had a high white cell count.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS
+III
+
+PRODUCT
+Platelets.  Recall #B-090-9.
+CODE
+Unit #18214-7380.
+MANUFACTURER
+United Blood Services, Cheyenne, Wyoming.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by letter dated October
+24, 1997.  Firm-initiated recall complete.
+DISTRIBUTION
+North Carolina.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a unit of whole blood with an
+extended collection time.
+
+
+PRODUCT
+a) Red Blood Cells; b) Red Blood Cells, Leukocytes Reduced by
+Filtration.  Recall #B-125/126-9.
+CODE 
+Unit Numbers: a) 12427-8445, 12427-8444, 12427-8443, 12427-8442,
+12427-8441, 12427-8440, 12427-8439, 12427-8438, 12427-8435,
+12427-8434, 12427-8433, 12427-8431, 12427-8427, 12427-8437; 
+b) 12427-8436. 
+MANUFACTURER
+United Blood Services, Albuquerque, New Mexico.
+RECALLED BY
+Blood Systems, Inc., Scottsdale, Arizona, by telephone on
+February 12, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Arizona, New Mexico, Texas.
+QUANTITY
+a) 14 units; b) 1 unit.
+REASON
+Blood products were labeled with extended expiration dates.
+
+
+RECALLS AND FIELD CORRECTIONS: 
+DEVICES -- CLASS II
+
+PRODUCT
+Universal Clinical Workstation (UCW), Monitor Model 90385, a
+generic display device with networking and data management
+capabilities.  Recall #Z-834-8.
+CODE
+All units shipped prior to 3/97.  Serial numbers used by the firm
+are not sequential.
+MANUFACTURER
+Spacelabs Medical, Redmond, Washington.
+RECALLED BY
+Manufacturer, by Product Service Notice (PSN) 076-0469-00 dated
+September 16, 1996 and PSN 076-0541-00 dated February 7, 1997. 
+Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+3,328 monitors are affected by this field correction.
+
+REASON
+Base screws are too short which could allow the monitor to
+dislodge from wall mounted base.
+
+
+PRODUCT
+Leksell GammaPlan (LGP) Version 4.01-4.11, software is designed
+for use with the Leksell Gamma Knife.  The Leksell GammaPlan is
+intended to be used for planning the dosimetry of treatments in
+stereotactic radiosurgery and stereotactic radiation therapy. 
+Recall #Z-118-9.
+CODE
+Leksell GammaPlan (LGP) Versions 4.01-4.11.
+MANUFACTURER
+Elekta AB, Stockholm, Sweden.
+RECALLED BY
+Elekta Instruments, Inc., Atlanta, Georgia, by technical alert
+sent dated June 1997.  Firm-initiated field correction
+ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+38 units were distributed.
+REASON
+An error in the plug command which caused the dose planning 
+software GammaPlan to give too long treatment times, meaning 
+that the patient receives a higher dose than prescribed.
+
+
+PRODUCT
+Leksell GammaPlan (LGP) Versions 3.0 and KULA used in conjunction
+with Elekta's  Gamma Knife.  The Leksell GammaPlan is intended to
+be used for planning the dosimetry of treatments in stereotactic
+radiosurgery and stereotactic radiation therapy.
+Recall #Z-120-9.
+CODE
+Leksell GammaPlan Version 3.0 and KULA.  The KULA version is the
+predecessor of the Leksell GammaPlan.
+MANUFACTURER
+Elekta AB, Stockholm, Sweden.
+RECALLED BY
+Elekta Instruments, Inc., Atlanta, Georgia, by product bulletin
+dated July 1, 1996.  Firm-initiated field correction ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+38 units were distributed.
+REASON
+A calculation error in the dose planning system may, under
+unusual circumstances, result in the miscalculation of the
+distance form the skull boundary to the intended target,
+resulting in a dose lower than prescribed.
+
+
+PRODUCT
+Leksell Gamma Knife, Models U and B.  The model U represents the
+majority of the units in the United States.  Model B is the newer
+version of the Gamma Knife, used for the non-invasive treatment
+of selected intracranial disorders.  Recall #Z-121-9.
+CODE
+Models U and B.
+MANUFACTURER
+Elekta AB, Stockholm, Sweden.
+RECALLED BY
+Elekta Instruments, Inc., Atlanta, Georgia, by Technical Note
+#006 dated November 1996.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+38 units were distributed.
+REASON
+Complaints involving lacerations of fingers and entrapment of an
+elbow during use of the device. 
+
+PRODUCT
+Biotrack Protime Reagent Cartridges CoaguChek Plus Prothrombin
+Time (PT) Test Cartridges:
+a) Biotrack Protime Reagent Cartridges, Catalog No. 473043;
+b) CoaguChek Plus PT Test Cartridges, Catalog No. 473707.  
+Recall #Z-122/123-9.
+CODE
+a) All Lot Numbers which begin with P616 and P702; 
+b) All Lot Numbers which begin with P616 and P702. 
+MANUFACTURER
+Boehringer Mannheim Corporation, Fremont, California.
+RECALLED BY
+Boehringer Mannheim Corporation, Indianapolis, Indiana, by
+telephone in November 1997, and by letter dated July 1, 1998. 
+Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide, Australia, Canada, Chili, Germany, Japan,
+Switzerland. 
+QUANTITY
+9,427 boxes of CoaguChek plus and 4479 boxes of Coumatrak Protime
+were distributed since November 20, 1996.
+REASON
+When used with the Protime Controls these cartridges give 
+results which are out of published range.
+
+
+PRODUCT
+Sunmark brand Heat Therapy Heating Pads:a) Sunmark brand Dry Heat Therapy Heating Pad,  Model No. 2000;
+b) Sunmark Brand Dry/Moist Heat Therapy Heating Pad, 
+   Model No. 2025;
+c) Sunmark Brand Dry/Moist Heat Therapy Heating Pad, 
+   Model No. 2050.  Recall #Z-124/126-9.
+CODE
+All units.
+MANUFACTURER
+Square Fund Industrial Limited, Shenzhen, China.
+RECALLED BY
+Homedics, Inc., Keego Harbor, Michigan, by letter dated March 13,
+1998.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+Approximately 14,674 pads were distributed.
+REASON
+Scorching of the heating pads and overlying materials may occur
+when the product is in use.
+
+
+PRODUCT
+Anesthesia Gas Sampling Elbow and Anesthesia Circuits 
+containing this elbow: 
+a) Gibeck Anesthesia Gas Sampling Elbow, Part No. 92001;
+b) Datex-Ohmeda brand ET ELBOW ADAPTER(X10) Anesthesia Circuit,
+Catalog No. 6027-0000-020,;
+c) Gibeck brand anesthesia circuits which contain the Gas
+Sampling Elbow, Part No. 92001.  Recall #Z-141/143-9.
+CODE
+All lots produced prior to 10/27/97:a) Part #92001; b)  Lot No. M039034
+c) Gibeck brand anesthesia circuits which contain the Gas
+Sampling Elbow, Part No. 92001, as follows:
+Catalog Number Lot Numbers
+10311          M039005
+130-0003-064   C042072
+13005-230      M038708
+13201-683      C042046
+13300-951      C041902
+13401-951      C042048
+140-0000-371   C041815
+140-0000-868   C041738
+140-0002-296   C041743
+140-0004-484   C041816
+14111-BMK      C041839
+14211-951      C041817
+16002-951      C041751
+16003-BLS      C041697
+16003-951      C040029, C041996, C042007
+16303-951      C041644
+16013-951      C041755
+16013-959      C041653
+16203-951      C041864
+16313-951      C041819
+16401-951      C041814
+16411-596      C041759
+16411-798      C041999
+16411-951      C041756
+16412-BHS      C041792
+170022-951     C041761, C041798
+170032-269     C041844
+170032-798     C041695
+170032-951     C041275, C041674, C041684, C041736, C041845,
+               C041861, C041903
+170032-BDB     C041867
+170032-BFB     C041781
+170032-BLL     C041843
+170132-475     C041763
+170232-951     C041656, C041728, C041791, C041985
+172032-951     C041824
+173032-951     C041918
+173132-951     C041767
+174112-951     C041708, C041965
+301-0002-769   C041826, C041862
+301-0002-774   C041770
+302-0000-230   C041796
+302-0000-537   C041846
+302-0000-701   C041888
+302-0001-214   C041711
+302-0001-342   C041680
+302-0001-402   C041737, C041942
+302-0001-702   C041869
+302-0001-868   C041827
+302-0002-495   C041712
+302-0002-506   C041991
+302-0002-775   C041847
+302-0003-060   C041848
+302-0003-502   C041724
+302-0003-564   C041700
+302-0003-692   C041731
+302-0003-907   C041701
+302-0003-919   C041799
+302-0004-408   C041836
+304-0002-123   C041746
+304-0002-173   C041773
+304-0002-673   C042107
+304-0003-625   C041704
+304-0004-234   C041930
+305-0000-319   C041797
+305-0001-824   C041957
+MM15207-304    M038283.
+MANUFACTURER
+Gibeck, Inc., Indianapolis, Indiana.
+RECALLED BY
+Manufacturer, by letter dated June 12, 1998.  Firm-initiated
+recall complete.
+DISTRIBUTION
+Nationwide, France, Germany, Slovenia.
+QUANTITY
+23,013 units were distributed.
+REASON
+The bend in the elbow was 99% occluded.
+
+
+PRODUCT
+Pharmacia brand Superblade Trephine (Surgical Blade Assembly),
+single use only, used in corneal transplant surgery:a) Model No. 15-0140-65;
+b) Model No. 15-0140-67;
+c) Model No. 15-0140-70;
+d) Model No. 15-0140-72;
+e) Model No. 15-0140-75;
+f) Model No. 15-0140-77;
+g) Model No. 15-0140-80;
+h) Model No. 15-0140-82;
+I) Model No. 15-0140-85;
+j) Model No. 15-0140-87;
+k) Model No. 15-0140-90;
+l) Model No. 15-0140-92;
+m) Model No. 15-0140-95.  Recall #Z-158/170-9.
+CODE
+All blades distributed between 9/93 and 9/98.
+MANUFACTURER
+Pharmacia & Upjohn Groningen BV, Groningen, Netherlands.
+RECALLED BY
+Pharmacia & Upjohn Company, Kalamazoo, Michigan, by telephone
+between October 2 and 30, 1998.  Firm-initiated recall
+ongoing.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+13,050 blades were distributed between 9/93 and 9/98.
+REASON
+The blades may become dulled prior to use, due to failure of
+proper fit in their protective packaging.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS
+III
+
+PRODUCT
+Leksell GammaPlan (LGP) Versions 3.01, software designed for use
+with the Leksell Gamma Knife, intended to be used for planning
+the dosimetry of treatments in stereotactic radiosurgery and
+stereotactic radiation therapy.  Recall #Z-119-9.
+CODE
+Software version 3.01.
+MANUFACTURER
+Elekta AB, Stockholm, Sweden.
+RECALLED BY
+Elekta Instruments, Inc., Atlanta, Georgia, by releasing a new
+version of software in July 1998.  Firm-initiated field
+correction ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+38 units were distributed.
+REASON
+Instead of using the 50% line, the default dose setting was used
+resulting in the administration of 10Gy rather than 22Gy
+resulting in underdose.
+
+
+PRODUCT
+Model No. 1100 Calibration Solution Pack for the SenDx 100 Blood
+Chemistry Analyzer, for in-vitro diagnostic use.
+Recall #Z-127-9.
+CODE
+Lot numbers 51501 and 51525.
+MANUFACTURER
+SenDx Medical, Inc., Carlsbad, California.
+RECALLED BY
+Manufacturer, by telephone and by letter dated September 24,
+1998.  Firm-initiated field correction complete.
+DISTRIBUTION
+California, Idaho, Florida, Georgia, Indiana, Louisiana, New
+Jersey, Ohio, Pennsylvania, Japan, Denmark.
+QUANTITY
+68 units were distributed.
+REASON
+When used with the sensor cassette this calibration pack gives
+falsely elevated pCO2 values.
+
+
+END OF ENFORCEMENT REPORT FOR NOVEMBER 11, 1998.  BLANK PAGES MAY FOLLOW.
+
+####

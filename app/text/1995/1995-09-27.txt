@@ -1,0 +1,867 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  May
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      30 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+09/27/1995
+
+ ENFORCEMENT REPORT FOR 09/27/95 
+
+
+September 27, 1995                                         95-39            
+                         
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+==========================
+_______________
+PRODUCT        Cold Smoked Ready-To-Eat Salmon Fillets, in 30-40 pound
+               cases.  Recall #F-579-5.
+CODE           Lot numbers:  0657 through 0667, 0669 through 0673.
+MANUFACTURER   Sorta Smoked Fish USA, Inc.,  Kingston, New York.
+RECALLED BY    Manufacturer, by telephone on August 21, 1995, followed by
+               letters mailed on August 22, 1995.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   New York, Colorado, North Carolina, California, Florida,
+               Louisiana, Washington, DC.
+QUANTITY       3,440 pounds were distributed.
+REASON         Product is contaminated with Listeria monocytogenes.
+
+_______________
+PRODUCT        Cake Decorating Candy Roses, under Cake Mate and Dec A Cake
+               labels, in 4 different colors (pink, yellow, red, and
+               white), on 8" x 12" cardboard cellophane wrapped strips, 6
+               roses per strip.  Recall #F-590-5.
+CODE           UPC #5210015631 or 5210015632 (Cake Mate);
+               UPC #4156910097 (Dec A Cake).
+MANUFACTURER   Decko Products, Inc., Sandusky, Ohio.
+RECALLED BY    Manufacturer, by letters on July 26, 1995, and August 1,
+               1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Maryland, California.
+QUANTITY       Approximately 5,000 dozen strips were distributed.
+REASON         Product contains undeclared eggs.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Gatorade Thirst Quencher sports drink in 16 fluid ounce
+               glass bottles:  (a) Lemon-Lime, UPC# 52000-00310 warehouse
+               club case UPC# 52000-32944;
+               (b) Orange, UPC# 52000-00320 warehouse club case UPC#
+               52000-32945;
+               (c) Fruit Punch, UPC# 52000-00330 warehouse club case UPC#
+               52000-32943;
+               (d) Lemon Ice, UPC# 52000-00340;
+               (e) Tropical Fruit, UPC# 52000-30614;
+               (f) Grape, UPC# 52000-32671;
+               (g) Citrus Cooler, UPC# 52000-33500.  Recall #F-581/587-5.
+CODE           Bottle codes where "*" will be A, B, C, D, F, or H.
+               (a) 020D5*, 021D5*, 004E5*; (b) 021D5*, 005E5*; 
+               (c) 020D5*, 004E5*, 005E5*; (d) 019D5; (e) 019D5*, 004E5*;
+               (f) 019D5*, 020D5*.
+MANUFACTURER   The Quaker Oats Company, Oakland, California.
+RECALLED BY    The Quaker Oats Company, Chicago, Illinois, by letters dated
+               August 29, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Arizona, California, Colorado, Guam, Hawaii, Idaho, Montana,
+               Nevada, Oregon, Texas, Utah, Washington state, Wyoming,
+               Japan, Mexico.
+QUANTITY       129,193 cases (24 bottles per case) were distributed; firm
+               estimates 10-15% of product remains on the market.
+REASON         The products contain glass pieces.
+
+_______________
+PRODUCT        Blueberries packaged in 1 pint plastic clam-shell
+               containers.  Recall #F-588-5.
+CODE           None.
+MANUFACTURER   Dzen Farms, Inc., South Windsor, Connecticut.
+RECALLED BY    Manufacturer, by letter sent on or about August 18, 1995. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Massachusetts, Connecticut.
+QUANTITY       Approximately 1,000 to 1,500 pint sized containers were
+               distributed.
+REASON         The product is contaminated with Methiocarb and Dacthal
+               residue.  There is no tolerance level for Methiocarb or
+               Dacthal residue in blueberries.
+
+_______________
+PRODUCT        Symphony Petit Fours, fruit flavored dessert consisting of
+               heavy cream, almonds, chocolate, cherries, and other
+               ingredients, cut in 12"x4" strips, weighing approximately 24
+               ounces.  Recall #F-592-5.
+CODE           All product on the market.
+
+                                    -2-MANUFACTURER   Symphony, Inc., Cherry Hill, New Jersey.
+RECALLED BY    Manufacturer, by letters dated May 25, 1995, and June 2,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   New York, Georgia, Florida, Connecticut, Massachusetts, New
+               Jersey, Illinois, North Carolina, Texas, Pennsylvania, Ohio,
+               Missouri, Colorado, Washington, D.C.
+QUANTITY       381 shippers were distributed (each shipper contains 4
+               Petits-Fours).
+REASON         Product contains undeclared FD&C; Yellow No. 5.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        Formula 156 High B Complex 50 + Vitamin C Tablets, a non-
+               prescription vitamin tablet packed in bottles of 100. 
+               Recall #F-580-5.
+CODE           Lot #2893921, List #SFC 2249, EXP 1/96.
+MANUFACTURER   Chase Laboratories, Inc., Newark, New Jersey.
+RECALLED BY    Manufacturer, by letter August 1, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Virginia.
+QUANTITY       1,343 bottles were distributed; firm estimates none remains
+               on the market.
+REASON         The product's label represents it as containing vitamin B
+               complex at 50 mg and vitamin C at 500 mg when the product
+               was actually formulated to contain 12.5 mg and 125 mg of
+               these vitamins.
+
+_______________
+PRODUCT        Medford Farms Fat free vinaigrette dressing consisting of
+               sun dried tomatoes and other ingredients and bottled in 12
+               ounce bottles with metal caps.  Recall #F-591-5.
+CODE           H0101J, H0201J, H0301J.
+MANUFACTURER   Haddon House Food Products, Inc., Medford, New Jersey.
+RECALLED BY    Manufacturer, by letter sent April 13, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Texas, Florida, South Carolina, Virginia, Louisiana, New
+               Mexico, Maryland, Connecticut, Ohio, California, Kentucky.
+QUANTITY       5,386 bottles were distributed.
+REASON         Product is contaminated with Bacillus sphaericus, Bacillus
+               megaterium, and Bacillus thuringiensis.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Choledyl 100 mg Tablets, Oxytriphylline Delayed Release
+               Tablets USP Enteric coated, Rx bronchodilator.  
+               Recall #D-246-5.
+CODE           Lot #26111D EXP 1/96.
+MANUFACTURER   Warner Lambert Company, Morris Plains, New Jersey.
+RECALLED BY    Manufacturer, by letter March 21, 1995.  Firm-initiated
+               recall complete.
+
+                                    -3-DISTRIBUTION   Nationwide.
+QUANTITY       18,727 bottles of 100 tablets were distributed.
+REASON         Product does not meet disintegration specifications through
+               expiration date.
+
+_______________
+PRODUCT        Biocraft brand Metoclopramide Tablets, USP, 5 mg, in bottles
+               of 100 and 500, Rx antiemetic.  Recall #D-247-5.
+CODE           Lot #22552 EXP 10/1/96.
+MANUFACTURER   Biocraft Laboratories, Inc., Paterson, New Jersey.
+RECALLED BY    Biocraft Laboratories, Inc., Fair Lawn, New Jersey, by
+               letters of May 3, 1995, and June 1, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       8,731 bottles of 100 tablets were distributed.
+REASON         Product does not meet potency and content uniformity
+               specifications.
+
+_______________
+PRODUCT        Sulfamethoxazole and Trimethoprim for Injection Concentrate,
+               USP, Rx, in 30 mL amber vials, used for urinary tract
+               infections. Recall #D-248-5.
+CODE           Lot numbers:  P4N013 EXP 4/96, P4N014 EXP 4/96,
+               P4N015 EXP 4/96, P5B003 EXP 8/96, P5B004 EXP 8/96,
+               P5B017 EXP 8/96.
+MANUFACTURER   Gensia Laboratories, Ltd., Irvine, California.
+RECALLED BY    Manufacturer, by letter July 21, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       Firm estimated that 2,000 vials remained on market at time
+               of recall initiation.
+REASON         Defect in glass vial may result in lack of assurance of
+               sterility.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets.  Recall #B-608/609-5.
+CODE           Red Blood Cells, units 26032-0495, 26032-0496, 26032-0497,
+               26032-0499, 26032-0597, 26032-0598, 26032-0599, 26032-0600,
+               26032-1016, 26032-1017, 26032-1019, 26032-1020, 26032-1022,
+               26032-1023, 26032-1024, 26032-1025, 26032-1026, 26032-1027,
+               26032-1028, 26032-5736, 26032-5737, 26032-5738, 26032-5739,
+               26032-5740, 26032-5741, 26032-5742, 26032-5743, 26032-5744,
+               26032-5745, 26032-6511, 26032-6512, 26032-6513, 26032-6514,
+               26032-6515, 26032-6516, 26032-6517, 26032-6518, 26032-6519,
+               26032-6520, 26032-6521, 26032-6522, 26032-6523, 26032-6525,
+               26032-6526, 26032-6665, 26032-6666, 26032-6667, 26032-6669,
+               26032-6670, 26033-6092, 26033-6093, 26033-6094, 26033-6095,
+               26033-6096, 26033-6097, 26033-6098, 26033-6099, 26033-6100,
+               26033-6102, 26033-6104, 26033-6105, 26033-6106, 26033-6107,
+               26033-6108, 26033-6109, 26033-6110, 26033-6111, 26033-6112, 
+
+                                    -4-               26033-6188, 26033-6190, 26033-6191, 26033-6192, 26034-6001,
+               26034-6002, 26034-6003, 26034-6004, 26034-6005, 26034-6006,
+               26034-6007, 26034-6008, 26034-6009, 26034-6010, 26034-6011,
+               26034-6012, 26034-6013, 26034-6014, 26034-6015, 26034-6016,
+               26034-6017, 26034-6018, 26034-6019, 26034-6020, 26034-6021,
+               26034-6022, 26034-6023, 26034-6024, 27029-7322, 27029-7323,
+               27029-7324, 27029-7325, 27029-7327, 27029-7328, 27029-7329,
+               27029-7330, 27029-7331, 27029-7332, 27029-7333, 27029-7335,
+               27029-7337, 27029-7340, 27029-7341, 27029-7342, 27029-7343,
+               27030-1799, 27030-1800, 27030-1801, 27030-1802, 27030-1803,
+               27030-1804, 27030-1805, 27030-1806, 27030-1807, 27030-1808,
+               27030-1809, 27030-1810, 27030-1811, 27030-1812, 27030-1813,
+               27030-1814, 27030-1815, 27030-1816, 27030-1817, 27030-1818,
+               27030-2904, 27030-2905, 27030-2906, 27030-2907, 27030-2909,
+               27030-2910, 27030-2911, 27030-2912, 27030-2913, 27030-2914,
+               27030-2915, 27030-2916, 27030-2917, 27030-2918, 27030-2919,
+               27030-2920, 27030-2921, 27030-6044, 27030-6048, 27030-6050,
+               27030-6051, 27030-6052, 27030-6053, 27030-6054, 27030-6055,
+               27030-6056, 27030-6057, 27030-6058, 27030-6059, 27030-6060,
+               27030-6061, 27030-6062, 27030-6063, 27030-6064, 27030-7464,
+               27030-7465, 27030-7466, 27030-7467, 27030-7469, 27030-7470,
+               27030-7471, 27030-7473, 27030-7474, 27030-7475, 27030-7476,
+               27030-7477, 27030-7478, 27030-7480, 27030-7481, 27030-7483,
+               27030-7484, 27030-7486, 27030-7488, 27030-7489, 27030-7490,
+               27030-8606, 27030-8608, 27030-8609, 27030-8610, 27030-8612,
+               27030-8613, 27030-8622, 27030-8624, 27031-2511, 27031-2568,
+               27031-2569, 27031-2570, 27031-2571, 27031-2572, 27031-2573,
+               27031-2574, 27031-2575, 27031-2576, 27031-2577, 27031-2578,
+               27031-2581, 27031-2582, 27031-2583, 27031-2584, 27031-2585,
+               27031-2586, 27031-2587, 27031-2588, 27031-2589, 27031-2590,
+               27031-2591, 27031-2592, 27031-2595, 27031-3670, 27031-3671,
+               27031-3672, 27031-3673, 27031-3674, 27031-3683, 27031-3685,
+               27031-3686, 27031-3687, 27031-3688, 27031-3689, 27031-3690,
+               27031-3691, 27031-3692, 27031-3694, 27031-3695, 27031-3696,
+               27031-6508, 27031-6509, 27031-6511, 27031-6512, 27031-6513,
+               27031-6514, 27031-6515, 27031-7400, 27031-7402, 27031-7403,
+               27031-7404, 27031-7405, 27031-7406, 27031-7407, 27031-7436,
+               27031-7437, 27031-7438, 27031-7440, 27031-8066, 27031-8067,
+               27031-8068, 27031-8070, 27031-8071, 27031-8072, 27031-8073,
+               27031-8074, 27031-8076, 27032-0058, 27032-0059, 27032-0060,
+               27032-0061, 27032-0063, 27032-0064, 27032-0065, 27032-0066,
+               27032-0068, 27032-0069, 27032-0070, 27032-0071, 27032-0072,
+               27032-0073, 27032-0074, and 27032-0075; 
+               Platelets, Units 26032-0495, 26032-0496, 26032-0497,
+               26032-0499, 26032-0597, 26032-0598, 26032-0599, 26032-1016,
+               26032-1019, 26032-1020, 26032-1022, 26032-1023, 26032-1024,
+               26032-1025, 26032-1026, 26032-1027, 26032-1028, 26032-5737,
+               26032-5739, 26032-5740, 26032-5741, 26032-5742, 26032-5743,
+               26032-6511, 26032-6513, 26032-6514, 26032-6517, 26032-6518,
+               26032-6520, 26032-6521, 26032-6526, 26032-6665, 26032-6666,
+               26032-6667, 26032-6670, 26033-6092, 26033-6093, 26033-6094,
+               26033-6095, 26033-6096, 26033-6098, 26033-6099, 26033-6100, 
+
+                                    -5-               26033-6104, 26033-6107, 26033-6108, 26033-6109, 26033-6111,
+               26033-6112, 26033-6188, 26033-6190, 26033-6191, 26033-6192,
+               26034-6001, 26034-6003, 26034-6004, 26034-6008, 26034-6012,
+               26034-6014, 26034-6016, 26034-6023, 27030-1799, 27030-1800,
+               27030-1801, 27030-1802, 27030-1803, 27030-1804, 27030-1805,
+               27030-1806, 27030-1807, 27030-1808, 27030-1809, 27030-1810,
+               27030-1811, 27030-1812, 27030-1814, 27030-1816, 27030-1817,
+               27030-1818, 27030-2904, 27030-2905, 27030-2906, 27030-2907,
+               27030-2909, 27030-2910, 27030-2911, 27030-2912, 27030-2913,
+               27030-2914, 27030-2915, 27030-2916, 27030-2917, 27030-2918,
+               27030-2919, 27030-2920, 27030-2921, 27031-2571, 27031-2574,
+               27031-2575, 27031-2576, 27031-2583, 27031-2584, 27031-2585,
+               27031-2586, 27031-2589, 27031-3688, 27031-3690, 27031-3695,
+               27031-6512, 27031-6514, 27031-7402, 27031-7403, 27031-7436,
+               27031-7438, 27031-8066, 27031-8068, 27031-8070, 27031-8071,
+               27031-8072, 27031-8073, 27031-8074, 27032-0060, 27032-0061,
+               27032-0062, 27032-0063, 27032-0064, 27032-0065, 27032-0066,
+               27032-0069, 27032-0070, 27032-0071, and 27032-0073.
+MANUFACTURER   United Blood Services Blood Systems, Inc., Fort Smith,
+               Texas; United Blood Services Blood Systems, Inc., Texarkana,
+               Texas.
+RECALLED BY    United Blood Services Blood Systems, Inc., Scottsdale,
+               Arizona, by letters dated August 1, 1994, and September 2,
+               1994.  Firm-initiated recall complete.
+DISTRIBUTION   Arkansas, Illinois, Oklahoma, Massachusetts, Texas,
+               Switzerland.
+QUANTITY       (a) 281 units; (b) 132 units.
+REASON         Blood products, which tested negative for the antibody to
+               the human immunodeficiency virus type 1 (anti-HIV-1), the
+               hepatitis B surface antigen (HBsAg), the antibody to the
+               hepatitis B core antigen (anti-HBc), the antibody to the
+               hepatitis C virus encoded antigen (anti HCV), the antibody
+               to the human T-lymphotropic virus type I (anti-HTLV-1), and
+               syphilis but were collected from donors in which donor
+               suitability was not adequately determined, were distributed.
+
+_______________
+PRODUCT        Olympus PK7100 Cell Probes.  Recall #B-614-5.
+CODE           Catalog #ZM046800, all lots manufactured from May 14, 1986
+               to March 1995.
+MANUFACTURER   Sanei-Seikai Company, Nitza-City Saitama Prefecture, Japan.
+RECALLED BY    Olympus America, Inc., Melville, New York, by letters dated
+               June 1, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, England, Australia, Canada.
+QUANTITY       1,371 units.
+REASON         Olympus PK7100 Cell Probes, which contained a design defect
+               that could cause erratic cell sample dispensing, were
+               distributed.
+
+                                    -6-_______________
+PRODUCT        Platelets.  Recall #B-620-5.
+CODE           Contact FDA, Center for Biologics Evaluation and Research,
+               Office of Compliance, (301) 594-1070, for individual unit
+               numbers recalled.
+MANUFACTURER   Central Indiana Regional Blood Center, Inc., Indianapolis,
+               Indiana.
+RECALLED BY    Manufacturer, by fax on April 27, 1994, followed by letter
+               dated June 6, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Indiana.
+QUANTITY       2,375 units.
+REASON         Platelets which were labeled with the incorrect expiration
+               date were distributed.
+
+_______________
+PRODUCT        Platelets.  Recall #B-625-5.
+CODE           Unit #8119342.
+MANUFACTURER   Permian Basin Regional Blood Center, Midland, Texas.
+RECALLED BY    Manufacturer, by telephone October 27, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       1 unit.
+REASON         Blood product, which tested repeatedly reactive for antibody
+               to the human T-lymphotropic virus type I (anti-HTLV-I), was
+               distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets.  Recall #B-627/628-5.
+CODE           Unit #32E33680.
+MANUFACTURER   American National Red Cross, Madison, Wisconsin.
+RECALLED BY    Manufacturer, by letters dated August 23 and 31, 1994. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Wisconsin, Iowa.
+QUANTITY       1 unit of each component.
+REASON         Blood products, which were not tested for syphilis, were
+               distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells: (b) Fresh Frozen Plasma.  
+               Recall #B-630/631-5.
+CODE           Unit numbers:  (a) H19101, H19107, H19112, H19117, H19119,
+               H19120, H19123, H19125, H19126, H19130, S44240, S44242,
+               S44247, S44252, S44256, S44259; (b) H19107.
+MANUFACTURER   Mississippi Valley Regional Blood Center, Davenport, Iowa.
+RECALLED BY    Manufacturer, by letters dated March 17, 1995, and June 26,
+               1995.  Firm-initiated recall complete.
+DISTRIBUTION   Illinois, Iowa, New York, Virginia.
+QUANTITY       16 units; (b) 1 unit.
+REASON         Blood products, which were incorrectly tested for the
+               antibody to the human immunodeficiency virus type 1 (anti-
+               HIV-1), were distributed.
+
+                                    -7-RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        (a) Red Blood Cells For Further Manufacture; (b) Platelets
+               For Further Manufacture; (c) Recovered Plasma.
+               Recall #B-610/612-5.
+CODE           Red Blood Cells For Further Manufacture, unit 27030-8607
+               Platelets For Further Manufacture, units 27029-7322,
+               27029-7323, 27029-7324, 27029-7325, 27029-7327, 27029-7328,
+               27029-7329, 27029-7330, 27029-7331, 27029-7332, 27029-7333,
+               27029-7335, 27029-7337, 27029-7340, 27029-7341, 27029-7342,
+               27029-7343, 27030-1813, 27030-1815, 27030-6044, 27030-6048,
+               27030-6049, 27030-6050, 27030-6051, 27030-6052, 27030-6053,
+               27030-6054, 27030-6055, 27030-6056, 27030-6057, 27030-6058,
+               27030-6059, 27030-6060, 27030-6061, 27030-6062, 27030-6063,
+               27030-6064, 27031-2572, 27031-2573, 27031-2579, 27031-2581,
+               27031-2587, 27031-2588, 27031-2590, 27031-2591, 27031-2592,
+               27031-3671, 27031-3672, 27031-3673, 27031-3674, 27031-3683,
+               27031-3685, 27031-3686, 27031-3687, 27031-3689, 27031-3691,
+               27031-3692, 27031-3694, 27031-6508, 27031-6509, 27031-6511,
+               27031-6513, 27031-6515, 27031-7400, 27031-7437, 27031-8065,
+               and 27031-8067; 
+               Recovered Plasma, units 26032-0495, 26032-0496, 26032-0497,
+               26032-0499, 26032-0597, 26032-0598, 26032-0599, 26032-0600,
+               26032-1016, 26032-1017, 26032-1019, 26032-1020, 26032-1022,
+               26032-1023, 26032-1024, 26032-1025, 26032-1026, 26032-1027,
+               26032-1028, 26032-5737, 26032-5738, 26032-5739, 26032-5740,
+               26032-5741, 26032-5742, 26032-5743, 26032-5744, 26032-5745,
+               26032-6511, 26032-6512, 26032-6513, 26032-6514, 26032-6515,
+               26032-6516, 26032-6517, 26032-6518, 26032-6519, 26032-6520,
+               26032-6521, 26032-6522, 26032-6523, 26032-6525, 26032-6526,
+               26032-6665, 26032-6666, 26032-6667, 26032-6669, 26032-6670,
+               26033-6092, 26033-6093, 26033-6094, 26033-6095, 26033-6096,
+               26033-6097, 26033-6098, 26033-6099, 26033-6100, 26033-6104,
+               26033-6105, 26033-6107, 26033-6108, 26033-6109, 26033-6111,
+               26033-6112, 26033-6188, 26033-6190, 26033-6191, 26033-6192,
+               26034-6001, 26034-6002, 26034-6003, 26034-6004, 26034-6005,
+               26034-6006, 26034-6007, 26034-6008, 26034-6009, 26034-6010,
+               26034-6011, 26034-6012, 26034-6013, 26034-6014, 26034-6015,
+               26034-6016, 26034-6017, 26034-6018, 26034-6019, 26034-6020,
+               26034-6021, 26034-6022, 26034-6023, 26034-6024, 27029-7322,
+               27029-7323, 27029-7324, 27029-7325, 27029-7327, 27029-7328,
+               27029-7329, 27029-7330, 27029-7331, 27029-7332, 27029-7333,
+               27029-7335, 27029-7337, 27029-7340, 27029-7341, 27029-7342,
+               27029-7343, 27030-1799, 27030-1800, 27030-1801, 27030-1802,
+               27030-1803, 27030-1804, 27030-1805, 27030-1806, 27030-1807,
+               27030-1808, 27030-1809, 27030-1810, 27030-1811, 27030-1812,
+               27030-1813, 27030-1814, 27030-1815, 27030-1816, 27030-1817,
+               27030-1818, 27030-2904, 27030-2905, 27030-2906, 27030-2907,
+               27030-2909, 27030-2910, 27030-2911, 27030-2912, 27030-2913,
+               27030-2914, 27030-2915, 27030-2916, 27030-2917, 27030-2918,
+               27030-2919, 27030-2920, 27030-2921, 27030-6044, 27030-6048,
+               27030-6049, 27030-6050, 27030-6051, 27030-6052, 27030-6053, 
+
+                                    -8-               27030-6054, 27030-6055, 27030-6056, 27030-6057, 27030-6058,
+               27030-6059, 27030-6060, 27030-6061, 27030-6062, 27030-6063,
+               27030-6064, 27030-7464, 27030-7465, 27030-7467, 27030-7469,
+               27030-7470, 27030-7471, 27030-7473, 27030-7474, 27030-7475,
+               27030-7476, 27030-7477, 27030-7478, 27030-7479, 27030-7480,
+               27030-7481, 27030-7483, 27030-7484, 27030-7486, 27030-7488,
+               27030-7489, 27030-7490, 27030-8608, 27030-8610, 27030-8611,
+               27030-8612, 27030-8613, 27030-8622, 27030-8624, 27031-2511,
+               27031-2568, 27031-2569, 27031-2570, 27031-2571, 27031-2572,
+               27031-2573, 27031-2574, 27031-2575, 27031-2576, 27031-2579,
+               27031-2581, 27031-2583, 27031-2584, 27031-2585, 27031-2586,
+               27031-2587, 27031-2588, 27031-2589, 27031-2590, 27031-2591,
+               27031-2592, 27031-2595, 27031-3670, 27031-3671, 27031-3672,
+               27031-3673, 27031-3674, 27031-3683, 27031-3685, 27031-3686,
+               27031-3687, 27031-3688, 27031-3689, 27031-3690, 27031-3691,
+               27031-3692, 27031-3694, 27031-3695, 27031-3696, 27031-6508,
+               27031-6509, 27031-6511, 27031-6512, 27031-6513, 27031-6514,
+               27031-6515, 27031-7400, 27031-7402, 27031-7403, 27031-7435,
+               27031-7436, 27031-7437, 27031-7438, 27031-7440, 27031-8065,
+               27031-8066, 27031-8067, 27031-8068, 27031-8070, 27031-8071,
+               27031-8072, 27031-8073, 27031-8074, 27031-8076, 27032-0058,
+               27032-0059, 27032-0060, 27032-0061, 27032-0062, 27032-0063,
+               27032-0064, 27032-0065, 27032-0066, 27032-0068, 27032-0069,
+               27032-0070, 27032-0071, 27032-0072, 27032-0073, 27032-0074,
+               and 27032-0075. 
+MANUFACTURER   United Blood Services Blood Systems, Inc., Fort Smith,
+               Texas; United Blood Services Blood Systems, Inc., Texarkana,
+               Texas.
+RECALLED BY    United Blood Services Blood Systems, Inc., Scottsdale,
+               Arizona, by letters dated August 1, 1994, and September 2,
+               1994.  Firm-initiated recall complete.
+DISTRIBUTION   Arkansas, Illinois, Oklahoma, Massachusetts, Texas,
+               Switzerland.
+QUANTITY       (a) 1 unit; (b) 67 units; (c) 274 units.
+REASON         Blood products, which tested negative for the antibody to
+               the human immunodeficiency virus type 1 (anti-HIV-1), the
+               hepatitis B surface antigen (HBsAg), the antibody to the
+               hepatitis B core antigen (anti-HBc), the antibody to the
+               hepatitis C virus encoded antigen (anti HCV), the antibody
+               to the human T-lymphotropic virus type I (anti-HTLV-1), and
+               syphilis but were collected from donors in which donor
+               suitability was not adequately determined, were distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-621-5.
+CODE           Unit numbers:  33LM36497, 33LT38645, 33LJ37528, 33LS29840.
+MANUFACTURER   American Red Cross Blood Services, Farmington, Connecticut.
+RECALLED BY    Manufacturer, by letters dated March 28, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Connecticut.
+QUANTITY       4 units.
+
+                                    -9-REASON         Red Blood Cells which were stored at an unacceptable
+               temperature, were distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-622-5.
+CODE           Unit #4101732.
+MANUFACTURER   Central Texas Regional Blood & Tissue Center (CTRBTC),
+               Austin, Texas.
+RECALLED BY    Manufacturer, by telephone on March 23, 1995.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       1 unit.
+REASON         Blood product which was untested for the antibody to the
+               human immunodeficiency virus type 1/2 (anti-HIV-1/2) was
+               distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-626-5.
+CODE           Unit #09T37375.
+MANUFACTURER   American Red Cross Blood Services, North Platte, Nebraska.
+RECALLED BY    American Red Cross Blood Services, Omaha, Nebraska, by
+               telephone on August 11, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nebraska.
+QUANTITY       1 unit.
+REASON         Blood product, which was untested for the antibody to the
+               human immunodeficiency virus types 1 and 2 (anti-HIV-1/2),
+               was distributed.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-629-5.
+CODE           Unit #32E33680.
+MANUFACTURER   American National Red Cross, Madison, Wisconsin.
+RECALLED BY    Manufacturer, by letters dated August 23 and 31, 1994. 
+               Firm-initiated recall complete.
+DISTRIBUTION   California.
+QUANTITY       1 unit.
+REASON         Blood product, which  was not tested for syphilis, was
+               distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-632-5.
+CODE           Unit #42T09970.
+MANUFACTURER   American National Red Cross, Cleveland, Ohio.
+RECALLED BY    Manufacturer, by letter dated May 31, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY       1 unit.
+REASON         Blood product, which contained anti-E alloantibodies but was
+               incorrectly labeled as containing anti-Kell, was
+               distributed.
+
+
+                                   -10-RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Infusion Sets,used for subcutaneous injections of
+               maintenance therapies:  
+               (a) Subcutaneous Infusion Set, 24", 27 ga., 90 degree Angle
+               Needle, Catalog numbers:  1M8472Y (domestic), 1M8472
+               (foreign; (b) Subcutaneous Infusion Set, 42", 27 ga., 90
+               degree Angle Needle, Catalog numbers:  1M8463Y (foreign),
+               1M8463 (domestic); (c) Micro-Volume Infusion Set, 24", 27
+               ga, Needle, Catalog #1M8450; (d) Micro-Volume Infusion Set,
+               42", 27 ga, Needle, Catalog #1M8451.  Recall #Z-882/885-5.
+CODE           Lots manufactured from January 1, 1994 through March 1995. 
+               Lot numbers: (a) GD444166, GD444174, GD444562, GD444570,
+               GD449330, GD457085, GD457093, GD457101, GD460162, GD460170,
+               GD460188, GD463844, GD464354, GD464362, GD467308, GD467316,
+               GD467324, GD471490, GD471490X, GD471896, GD471904,
+               GD475855***, GD475863***, GD475871***, GD479238***,
+               GD479717***, GD480954, GD480962, GD483909, GD483917,
+               GD483925, GD488155, GD488163; (b) GD444992, GD445007,
+               GD445015, GD446047, GD446054, GD446062, GD446559, GD446567,
+               GD450247, GD452086, GD452094, GD452102, GD452896, GD452904,
+               GD453373, GD453381, GD455766, GD455774, GD455782, GD458778,
+               GD458786, GD458794, GD459347, GD459354, GD462085, GD462093,
+               GD462101, GD462861, GD462879, GD463778, GD465203, GD465211,
+               GD465484, GD465492, GD466094, GD466102, GD467837, GD467845,
+               GD467852, GD467860, GD468868, GD468876, GD468884, GD470302,
+               GD470542, GD470559, GD470567, GD470575, GD473728, GD473736,
+               GD473744, GD474791, GD474809, GD474817A, GD477281, GD477299,
+               GD477307, GD478271, GD478289, GD478297, GD481523, GD481531,
+               GD481549, GD482406, GD482414, GD482422, GD484964, GD484972,
+               GD484980, GD486142***, GD486159, GD488858, GD488874; (c)
+               GD451294R, GD457705R, GD463471R, GD466441R, GD469403R,
+               GD472712R, GD476481R, GD483214R, GD486829R, GD487728R; (d)
+               GD445064R, GD454231R, GD457713R, GD460733R, GD463489R,
+               GD466458R, GD469411R, GD47272OR, GD476499R, GD483222R,
+               GD486837R, GD487736R. (*** intact lots).
+MANUFACTURER   Baxter Healthcare Corporation, Cleveland, Mississippi.
+RECALLED BY    Manufacturer, by letter dated May 8, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       544,206 units were distributed.
+REASON         Infusion sets may leak at the solvent bond where the tubing
+               is joined to the interior.
+
+_______________
+PRODUCT        Model BLF-75A Beam Limiting Device.  Recall #Z-1169-5.
+CODE           None.
+MANUFACTURER   Toshiba America Medical Systems, Inc., Tustin, California.
+RECALLED BY    Manufacturer.  FDA approved the firm's corrective action
+               plan September 15, 1995.  Firm-initiated field correction
+               ongoing.
+DISTRIBUTION   Nationwide.
+
+                                   -11-QUANTITY       21 units.
+REASON         Noncompliance with the performance standards for x-ray
+               products.  When operated in photofluorography (or photospot)
+               mode, x-ray exposure can be initiated when the manual switch
+               on the beam limiting device is selected and the field size
+               is made larger than the image receptor (the sum of the
+               excess length and width is >4% of the SID).
+
+_______________
+PRODUCT        Pacing leads:  (a) Encor Atrial J-Wire Passive Fixation
+               Pacing Leads, Models 330-854, 330-755, 033-757, 033-856; (b)
+               EnGuard PFX Endocardial Defibrillation Leads, Models 040-
+               069/069C, 040-022/022C.  Recall #Z-1171/1172-5.
+CODE           All serial numbers.
+MANUFACTURER   Telectronics Pacing Systems, Miami Lakes, Florida.
+RECALLED BY    Telectronics Pacing Systems, Englewood, Colorado, by letter
+               September 11, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       38,925 units were distributed .
+REASON         The "J" retention wires can fracture, protrude through the
+               polyurethane insulation, through the right atrial appendage,
+               and perforate the aorta. 
+
+_______________
+PRODUCT        Kinair TransportAir Battery Pack, used to provide temporary
+               emergency power for air inflated critical care beds during
+               periods of electrical power outages and when the beds are
+               moved from one location to another.  Recall #Z-1205-5.
+CODE           Serial numbers:  055120 through 055953.
+MANUFACTURER   Kinetic Concepts, Inc., (KCI), San Antonio, Texas.
+RECALLED BY    Manufacturer, by memorandum sent November 9, 1994.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       7,628 units were distributed.
+REASON         Device can emit smoke and fumes if the batteries become
+               overcharged, due to either a broken trace on the circuit
+               board or to re-setting the voltage of the charger.
+
+_______________
+PRODUCT        Stryker CBC II Constavac Blood Conservation System, 
+               Part #225-28, used for post-operative auto-transfusion.
+               Recall #Z-1208-5.
+CODE           Lot #450763, all products distributed from 3/28/94 through
+               3/29/94.
+MANUFACTURER   Stryker Instruments, Kalamazoo, Michigan.
+RECALLED BY    Manufacturer, by telephone March 30, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Arizona, Illinois, Louisiana, Mississippi.
+QUANTITY       24 units were distributed.
+REASON         The blood conservation system did not receive the full
+               irradiation dose, thereby compromising the sterility of the
+               system.
+
+                                   -12-_______________
+PRODUCT        Custom Packs, hospital towel and drape products, packaged in
+               sterile plastic pouches (dust covers) and heat sealed:
+               (a) Open Heart Drape Pack, Pack #1856; 
+               (b) 4-Towel Pack, Pack #2104;
+               (c) Lap Basin Pack, Pack #5266.  Recall #Z-1213/1215-5.
+CODE           Sterilizer Lot #142972841.
+MANUFACTURER   Sterile Recoveries, Westland, Michigan.
+RECALLED BY    Manufacturer, by visit and by telephone on October 28, 1994,
+               and by product recall update November 4-7, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Illinois and Michigan.
+QUANTITY       (a) 4 units; (b) 100 units; (c) 34 units were distributed.
+REASON         The sterility of the devices have been compromised due to
+               failure to follow good manufacturing practices with regard
+               to record keeping.
+
+_______________
+PRODUCT        Various sterile electrosurgical (ES) products which are
+               packaged using shrink-wrap surrounding 5 unit trays:
+               Valleylab Handswitching ES Pencils
+               (a) Catalog No. E2515; (b) Catalog No. E2515H;
+               (c) Catalog No. E2515H-DB; (d) Catalog No. E2516;
+               (e) Catalog No. E2516H;
+               Valleylab ES Footswitching Pencils
+               (e) Catalog No. E2504; 
+               Valleylab ES Cords:
+               (f) Catalog No. E0503; (g) Catalog No. E0509;
+               (g) Catalog No. E0510;
+               Valleylab ES Holster:
+               (h) Catalog No. E2400.  Recall #Z-1220/1229-5.
+CODE           Lot numbers 21944 to 22000, 22107 to 23025.
+MANUFACTURER   Valleylab, Inc., Boulder, Colorado.
+RECALLED BY    Manufacturer, by letter August 31, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       39,932 cases were distributed.
+REASON         Devices sterility may be compromised due to breaks or holes
+               in  the plastic tray. 
+
+_______________
+UPDATE         Chest Drain In-Line Connector used in 5 models of the
+               Atrium-Water Seal Chest Drain, which appeared in August 9,
+               1995 Enforcement Report, should read:  
+               Recall #Z-1059/1063-5.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Imp Pin, Steinman Pin, Kirschner Wire, Threaded Steinman
+               Pin, and K-Wire, distributed under the Onxy Medial and Komet
+               Medical labels: 
+
+                                   -13-               (a) Imp Pin, 7/64" x 9", Style 4, SS STNMN, Catalog No.
+               103562, Onyx Medical Corporation
+               (b) Steinman Pin, Trocar Point Both Ends,  9/64" x 9",
+               Catalog No. 3711-5-090, Onyx Medical Corporation
+               (c) Steinman Pin, Trocar Point Both Ends, 5/32" x 9",
+               Catalog No. 3711-6-090, Onyx Medical Corporation
+               (d) Kirshner Wire, Diamond Point Both Ends, 0.035 x 9",
+               Catalog No. 3713-4-090, Onyx Medical Corporation
+               (e) Threaded Steinman Pin, 3/32" diameter, Style I, Catalog
+               No. 8169-19-33, Onyx Medical Corporation
+               (f) Plain Steinman Pin, 9/64" diameter, Style 1, Catalog No.
+               KM168-19-96, Komet Medical
+               (g) Threaded Steinman Pin, 3/32" diameter, Style 4, Catalog
+               No. KM169-49-33, Komet Medical
+               (h) K-Wire, 0.045 x 4", Style 1, Catalog  No. KM172-14-45,
+               Komet Medical
+               (i) K-Wire, 0.054 x 4", Style 2, Catalog  No. KM172-24-54,
+               Komet Medical
+               (j) K-Wire, 0.028 x 5", Style 2, Catalog  No. KM172-25-28,
+               Komet Medical
+               (k) Plain Steinman Pin, 5/32" diameter, Style 3, Catalog No.
+               KM172-155-54, Komet Medical.   Recall #Z-1157/1167-5.
+CODE           (a) 409, (b) BUXO; (c) BUXL; (d) BWGY; (e) 501; (f) 412; (g)
+               411; (h) 409; (i)409; (j) 409; (k) 409.
+MANUFACTURER   Onyx Medical Corp., Memphis, Tennessee.
+RECALLED BY    Manufacturer.  Firm-initiated recall complete.
+DISTRIBUTION   California, Georgia, New Jersey, Tennessee.
+QUANTITY       Firm estimates none remains on the market.
+REASON         The devices were found to be mislabeled.   
+
+_______________
+PRODUCT        Abbott TDxFLx Vancomycin Wedge Reagent Pack, used with the
+               Abbott TDxFLx System for the quantitative measurement of
+               vancomycin, an antibiotic drug, in serum or plasma.  
+               Recall #Z-1204-5.
+CODE           List #9523-85, Lot #05026Q200 EXP 6/17/96.
+MANUFACTURER   Abbott Health Products, Inc., Barceloneta, Puerto Rico.
+RECALLED BY    Abbott Laboratories, Abbott Park, Illinois, by telephone
+               followed by letter on August 22, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       1,132 kits were distributed.
+REASON         There is a potential for a "NET I TOO SMALL" or "P O TOO
+               SMALL" error message to be generated, resulting in the
+               inability to generate a numeric concentration result.
+
+
+MEDICAL DEVICE SAFETY ALERTS: 
+============================================
+_______________
+PRODUCT        PPV Anesthesia Vaporizer, used in conjunction with an
+               Anaesthesia Gas Machine to provide controlled amounts of
+               anaesthesia drug to a patient in an operating arena:
+
+                                   -14-               (a) Catalog #53401 Halothane, Pin Safety - Cagemount;
+               (b) Catalog #53403 Halothane, Pin Safety - Back Entry;
+               (c) Catalog #53419 Enflurane, Pin Safety - Cagemount;
+               (d) Catalog #53421 Enflurane, Pin Safety - Back Entry;
+               (e) Catalog #53413 Isoflurane, Pin Safety - Cagemount;
+               (f) Catalog #53415 Isoflurane, Pin Safety - Back Entry.
+               Safety Alert #N-032/037-5.
+CODE           Devices distributed prior to 1992.
+MANUFACTURER   Penlon Limited, Abington, England.
+ALERTED BY     Manufacturer, by letter in May 1992.
+DISTRIBUTION   Ohio, New York, Arizona, California, Iowa, Washington state,
+               New Hampshire, Missouri, New Jersey, Puerto Rico,
+               Mississippi, Illinois, Kansas.
+QUANTITY       58 units were distributed.
+REASON         There is a potential for overfilling vaporizer.
+
+_______________
+PRODUCT        Electrode Lead Wires, unprotected lead wires used with the
+               portable battery powered TENS device.  
+               Safety Alert #N-042-5.
+CODE           All units with unprotected electrode lead wires.
+MANUFACTURER   Uni-Patch Medical Supplies, Wabash, Minnesota.
+ALERTED BY     Manufacturer, by letter August 5, 1994.
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+REASON         Device labeling fails to provide adequate directions for use
+               and the devices pose an warranted risk of injury to
+               patients, because the products are not labeled to warn
+               against the hazards of unprotected electrode lead wires
+               being connected to electrical power sources.
+
+                                   -15-
+
+END OF ENFORCEMENT REPORT FOR SEPTEMBER 27, 1995.  BLANK PAGES MAY
+FOLLOW.
+
+
+                                   ####

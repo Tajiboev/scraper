@@ -1,0 +1,988 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  14
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      37 captures
+	      19 Aug 2000 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration, Department of Health and Human
+Services.  It contains information
+on actions  taken in connection with agency regulatory
+activities.
+
+
+
+ June 21, 2000                                          00-25
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+
+PRODUCT
+Daniel Boulud Smoked Atlantic Salmon, in 4-ounce, 8-ounce, 1-pound, and 
+whole or pre-sliced sides.  Recall #F-509-0.
+CODE
+Lot 158 EXP 4/16/00 and Lot 160 EXP 4/27/00.
+MANUFACTURER
+Browne Trading Company, Portland, Maine.
+RECALLED BY
+Manufacturer, by telephone or fax on or before April 12, 2000.  Firm-
+initiated recall complete.
+DISTRIBUTION
+Nationwide.
+QUANTITY
+Lot 158: 236 pounds distributed; Lot 160: 118.4 pounds distributed. 
+Product is expired, none is expected to remain on market.
+REASON
+Product was contaminated with Listeria monocytogenes.
+________
+PRODUCT
+1) Pimento Spread under the following labels and sizes:
+  a) Ruthís Pimento Spread - 7 oz., 12 oz., 24 oz., 5 lb.,
+  and 10 lb.
+  b) Bi-Lo Pimento Spread - 7-1/2 oz. and 12-1/2 oz.
+  c) Piggly Wiggly Pimento Spread - 7 oz. and 12 oz.
+  d) Lake Hickory Fresh Air Pimento Spread - 7-1/2 oz.
+  e)IGA Pimento Spread - 12-1/2 oz.
+2) Ruthís Old Fashioned Pimento Spread - 16 oz., 5 lb., and 
+   10 lb.
+3) Ruthís Lite Pimento Spread - 12 oz., 5 lb., and 10 lb.
+4) Ruthís Hot Pimento Spread - 7 oz., 12 oz., and 5 lb.
+5) Ruthís Pimento Spread with Pickle - 7 oz.
+6) Ruthís Smooth Pimento Cheddar Style Spread - 12 oz.
+7) Ruthís Cream Cheese Pineapple-Pecan Spread - 7 oz. and
+   12-1/2 oz.
+8) Bi-Lo Gourmet Style Cheddar Spread - 12-1/2 oz.
+9) Ruthís Deviled Egg Spread - 7 oz. and 5 lb.
+Recall #F-515/523-0.
+CODE
+All SELL BY dates between March 17, 2000 and June 7, 2000.
+MANUFACTURER
+B & H Foods, Inc., Chester, South Carolina.
+RECALLED BY
+B & H Foods, Inc., Charlotte, North Carolina, by telephone and press 
+release on March 17, 2000, followed by visit March 17-22, 2000.  Firm-
+initiated recall complete.
+DISTRIBUTION
+North Carolina, South Carolina, Tennessee, Virginia, Alabama.
+QUANTITY
+Firm estimates none remains on the market.
+REASON
+Products may be contaminated with Listeria monocytogenes.
+________
+PRODUCT
+Smoked Salmon:  a) Grants Traditional Oak-Smoked Premium Scottish Salmon
+b) Wegmans' Cured with Honey Scottish Style Smoked Salmon
+c) Craigellachie Smoked Scottish Salmon
+d) MacKnight Smoked Salmon.  Recall #F-548/551-0.
+CODES
+a) All codes; b) All codes; c) Batch 144; d) Batch 144.
+MANUFACTURER
+Grants Smoked Foods, Ltd., Maryport, United Kingdom.
+RECALLED BY
+MacKnight Smoked Foods, Inc., New Britain, Pennsylvania, by letter faxed 
+on March 16, 2000, and by fax on April 6, 2000.  The New York State 
+Department of Agriculture issued a press release on March 13, 2000.  The 
+recall announcement appeared on a seafood newsletter "SEAFAX FIRST NEWS" 
+dated March 15, 2000.  The Department of Agriculture issued press release 
+on April 5, 2000.  Completed recall resulted from sample analysis and 
+follow-up by the New York State Department of Agriculture and Markets.
+DISTRIBUTION
+New York and Pennsylvania.
+QUANTITY
+Firm estimates none remain on the market.
+REASON
+The New York State Department of Agriculture and Markets (NYSDAM) found 
+three of the products contaminated with Listeria monocytogenes.  The 
+MacKnight Smoked Salmon was made from the same batch (144) as the 
+Craigellachie brand salmon, which was found to be positive for Listeria 
+monocytogenes. 
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+________
+PRODUCT
+La Mexicana brand Green Corn Tortilla products:
+a) Green Corn Tortillas, 3 dozen per package, 18 packages per case; b) 
+Tri-Colored 4" Corn Tortillas, 3 dozen per package, 24 packages per case; 
+c) Tri-Colored Chip, 3 dozen per package, 24 packages per case.  Recall 
+#F-511/513-0.
+CODE
+All with date code 5/12/00 or prior.
+MANUFACTURER
+La Mexicana, Inc., Seattle, Washington.
+RECALLED BY
+Manufacturer, by visit beginning on May 19, 2000, followed by fax.  Firm-
+initiated field correction (relabeling) complete.
+DISTRIBUTION
+Washington state and Oregon.
+QUANTITY
+Firm estimates none remain on the market.
+REASON
+Products contained undeclared FD&C; Yellow No. 5.
+________
+PRODUCT
+Lemonade packaged in waxed cardboard quart and pint cartons.
+Recall #F-514-0.
+CODE
+Quart EXP dates - May 17, 2000 and July 3, 2000;
+Pint EXP dates - June 20, 2000 and July 3, 2000.
+MANUFACTURER
+Barber Pure Milk Company, doing business Barber Dairies, Inc., 
+Birmingham, Alabama.
+RECALLED BY
+Manufacturer, by fax and telephone on May 5, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Alabama.
+QUANTITY
+7,286 quarts and 9,690 pints were distributed; firm estimates none 
+remains on the market.
+REASON
+Product contained undeclared FD&C; Yellow No. 5.
+________
+PRODUCT
+Various Flavored Syrups for Espresso Drinks and Italian Ices, in 12.7-
+fluid ounce and 25.4-fluid ounce bottles:
+a) Chocolate Mint; b) Creme De Cacao; c) Kahula Almond Fudge; d) Sugar 
+Free Chocolate; e) Sugar Free Macadamia Nut; f) Eggnog; g) Peach; h) 
+Pineapple; i) Huckleberry;
+j) Banana; k) Creme De Menthe; l) Lime; m) Kiwi;
+n) Creamy Orange; o) Passion Fruit.  Recall #F-524/538-0.
+CODE
+None.
+MANUFACTURER
+East Gate Foods, Inc., Monroe, Washington.
+RECALLED BY
+Lowery's Specialty Foods Company, Inc., doing business as Pasanos' 
+Syrups, Snohomish, Washington, by letter on May 3, 2000, followed by 
+telephone beginning the week of May 22, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Washington state, Oregon, Idaho, Montana, Michigan, Colorado. 
+QUANTITY
+Approximately 2,500 bottles per week were distributed.
+REASON
+a-e)  These syrups contained undeclared FD&C; Yellow No. 5, FD&C; Yellow 
+No. 6, FD&C; Red No. 40, FD&C; Blue No. 1
+f-g) These syrups contained undeclared FD&C; Yellow No. 5, FD&C; Yellow No. 
+6, and FD&C; Red No. 40
+h) This syrup contained undeclared FD&C; Yellow No. 5, FD&C; Yellow No. 6
+i) This syrup contained undeclared FD&C; Yellow No. 5, FD&C; Blue No. 1, 
+and FD&C; Red No. 40
+j) This syrup contained undeclared FD&C; Yellow No. 5 and FD&C; Red No. 40
+k-l) These syrups contained undeclared FD&C; Yellow No. 5 and FD&C; Blue 
+No. 1
+m) This syrup contained undeclared FD&C; Yellow No. 5
+n-o) These syrups contained undeclared FD&C; Yellow No. 6.
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+________
+PRODUCT
+Jerseymaid Old Fashioned Real Vanilla Ice Cream packaged in paperboard 
+round half-gallon cartons.  Recall #F-510-0.
+CODE
+011001 1Plt 06-2394.
+MANUFACTURER
+Safeway, Inc., Los Angeles Ice Cream Plant, Los Angeles, California.
+RECALLED BY
+Safeway Inc. (Vons Companies, a wholly owned subsidiary of Safeway, 
+Inc.), Pleasanton, California, by  intra-company E-mail on May 3, 2000.  
+Firm-initiated recall complete.
+DISTRIBUTION
+California and Nevada.
+QUANTITY
+2,000 cases (12,000 units) were distributed.
+REASON
+Product is unfit for food due to contamination with ammonia.
+________
+PRODUCT
+Various Flavored Syrups for Espresso Drinks and Italian Ices, in 12-7 
+fluid ounce and 25.4-fluid ounce bottles:
+a) Bing Cherry; b) Blackberry; c) Boysenberry;
+d) Raspberry; e) Sugar Free Raspberry; f) Spicy Cinnamon;
+g) Strawberry; h) Watermelon; i) Sugar Free Strawberry.
+Recall #F-539/547-0.
+CODE
+None.
+MANUFACTURER
+East Gate Foods, Inc., Monroe, Washington.
+RECALLED BY
+Lowery's Specialty Foods Company, Inc., doing business as Pasanos' Syrups 
+Snohomish, Washington, by letter on May 3, 2000, followed by telephone 
+beginning the week of May 22, 2000.  Firm-initiated recall complete.
+DISTRIBUTION
+Washington state, Oregon, Idaho, Montana, Colorado, Michigan.
+QUANTITY
+Approximately 2,500 bottles per week were distributed.
+REASON
+a-f)  These syrups contain undeclared FD&C; Blue No.1 and FD&C; Red No. 40
+g-i)  These syrups contain undeclared FD&C; Red No. 40.
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS 
+I
+________
+PRODUCT
+Herbal Dietary Supplements:
+a) Zhen Qi, Herbal Extract Capsules, 500 mg capsules, in 60-unit bottles;
+b) Diabetes Angel Pearl Hypoglycemic Capsules, 0.5 grams per capsule, in 
+60-unit bottles;
+c) Diabetes Angel  Hypoglycemic Capsules, 0.5 grams per capsule, in 60-
+unit bottles.  Recall #D-406/408-0.
+CODE
+All lot codes.
+MANUFACTURER
+Tongyi Tang Pharmaceuticals Company, Harbin, China.
+RECALLED BY
+Sino American Health Products, Inc., Torrance, California., by letter and 
+press release on February 18, 2000.  Firm-initiated recall complete.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+Undetermined.
+REASON
+Misbranded - All three products contain the undeclared prescription 
+ingredient glyburide.
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+________
+PRODUCT
+Goldline brand Acetaminophen Suppositories, USP, OTC indicated for the 
+temporary relief of fever, ache, pains, and headaches, for rectal 
+administration:
+a) 120 mg, Pediatric, units of 12, NDC #0182-1662-11;
+b) 650 mg, units of 12, NDC #0182-1095-11.
+Recall #D-404/405-0.
+CODE
+Lot #AL 606 EXP 9/20/02.
+MANUFACTURER
+Clay-Park Labs, Inc. (CPL), Bronx, New York.
+RECALLED BY
+Manufacturer, by letter dated November 30, 1999.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Kentucky.
+QUANTITY
+49,392 suppositories were distributed.
+REASON
+Misbranding - Some 650 mg (correctly labeled) suppositories were packaged 
+into cartons labeled as 120 mg.
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+________
+PRODUCT
+Vasotec Tablets (Enalapril Maleate), 5 mg, in 1,000 and 10,000 tablet 
+bottles, Rx indicated for the treatment of hypertension, it is also 
+indicated for the treatment of symptomatic congestive heart failure 
+usually in combination with diuretics and digitalis.  NDC Numbers: 0006-
+712-87 and 0006-712-82.  Recall #D-396-0.
+CODE
+Lot Numbers:  K0634 EXP 12/01 and K0635 EXP 12/01.
+MANUFACTURER
+Merck Manufacturing Division, Division of Merck & Company, Inc., Caguas, 
+Puerto Rico.
+RECALLED BY
+Manufacturer, by letter on March 12, 2000.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION
+Florida, Nevada, New Mexico, Texas, Arizona, South Dakota, Illinois.
+QUANTITY
+149 units were distributed.
+REASON
+Dissolution (low) failure.
+________
+PRODUCT
+Nasacort AQ (Triamcinolone Acetonide) Nasal Spray, Rx indicated for the 
+treatment of the nasal symptoms of seasonal and perennial allergic rhinitis 
+in adults and children 6 years of age and older.  The NDA number is 20-468. 
+The NDC numbers are 0075-1506-16, 58087-323-16, and 0075-1506-06:
+a) Nasacort AQ , Nasal Spray (Triamcinolone acetonide-16.5 grams), 120 
+metered actuations; b) Nasacort AQ , Nasal Spray (Triamcinolone 
+acetonide-6.5 grams), 30 metered actuations, Recall #D-409/410-0.
+CODE
+a) All lots with expiration dates March 2000(03/2000) through November 
+2001 (11/2001); b) All lots with expiration dates March 2000(03/2000) 
+through January  2002 (01/2002).
+MANUFACTURER
+Rhone Poulenc Rorer Puerto Rico, Inc., Manati, Puerto Rico.
+RECALLED BY
+Aventis Pharmaceuticals Products, Inc., Collegeville, Pennsylvania, by 
+letter dated March 31, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+11,870,820 units were distributed; firm estimated that 350,000 units 
+remained on market at time of recall initiation.
+REASON
+Stability: (Super-potency) potential for patients to receive a higher 
+dose than labeled of triamcinolone acetonide.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+________
+PRODUCT
+a) Red Blood Cells; b) Red Blood Cells, Leukoreduced;
+c) Recovered Plasma.  Recall #B-770/772-0.
+CODE
+Unit Numbers:  a) 04FJ91904; b)04FJ77467; c) 04FJ91904 and 04FJ77467.
+MANUFACTURER
+American Red Cross, Dedham, Massachusetts.
+RECALLED BY
+Manufacturer, by letter dated November 19, 1999.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Massachusetts, New Hampshire, California.
+QUANTITY
+a) 1 unit; b) 1 unit; c) 2 units were distributed.
+REASON
+Blood products were collected from a donor with a history of having 
+tested positive for Hepatitis C.
+________
+PRODUCT
+a) Red Blood Cells; b) Recovered Plasma. 
+Recall #B-773/774-0.
+CODE
+Unit #04FJ64487.
+MANUFACTURER
+American Red Cross, Dedham, Massachusetts.
+RECALLED BY
+Manufacturer, by letter dated December 16, 1999.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Massachusetts and California.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor with a history of having 
+tested positive for hepatitis.
+________
+PRODUCT
+a) Red Blood Cells, Leukoreduced; b) Platelets.
+Recall #B-775/776-0.
+CODE
+Unit #04GF00278.
+MANUFACTURER
+American Red Cross, Dedham, Massachusetts.
+RECALLED BY
+Manufacturer, by letters dated December 17, 1999, and February 7, 2000.  
+Firm-initiated recall complete.
+DISTRIBUTION
+New York and Maine.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor who reported travel to an area 
+designated as endemic for malaria.
+________
+PRODUCT
+a) Red Blood Cells; b) Cryoprecipitated AHF; c) Recovered Plasma.  Recall 
+#B-801/803-0.
+CODE
+Unit #8859637.
+MANUFACTURER
+The Blood Center, New Orleans, Louisiana.
+RECALLED BY
+Manufacturer, by telephone on November 4, 1998, and by fax on December 
+10, 1998.  Firm-initiated recall complete.
+DISTRIBUTION
+Louisiana, New Jersey, Switzerland.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor who was previously deferred at 
+another blood center.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Fresh Frozen Plasma.
+Recall #B-804/806-0.
+CODE
+Unit #8844250.
+MANUFACTURER
+The Blood Center, New Orleans, Louisiana.
+RECALLED BY
+Manufacturer, by telephone on September 9, 1998.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Louisiana.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were distributed after receiving post donation information 
+concerning possible high risk behavior.
+________
+PRODUCT
+Platelets, Pooled.  Recall #B-807-0.
+CODE
+Unit #3099375.
+MANUFACTURER
+The Blood Center, New Orleans, Louisiana.
+RECALLED BY
+Manufacturer, by letter dated September 30, 1999.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Louisiana.
+QUANTITY
+1 unit was distributed.
+REASON
+Pooled product contained two expired units.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets.  Recall #B-808/809-0.
+CODE
+Unit #8917666.
+MANUFACTURER
+The Blood Center, New Orleans, Louisiana.
+RECALLED BY
+Manufacturer, by telephone on August 4, 1999.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Louisiana.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor whose medical history 
+screening was inadequately performed.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Platelets for further manufacture; 
+d) Fresh Frozen Plasma; e) Source Leukocytes; f) Recovered Plasma.  
+Recall #B-811/816-0.
+CODE
+Unit Numbers: a) 25N95303, 25E92180, 25E98391, 25V41984, and 01GL29817; 
+b) 25E92180, 25E98391, and 25V41984; c) 25N95303
+d) 25E92180, 25E98391, and 25V41984; e) 01GJ11136;
+f) 25N95303 and 01GL29817.
+MANUFACTURER
+American Red Cross Blood Services, Syracuse, New York.
+RECALLED BY
+Manufacturer, by letter dated August 30, 1999, by E-mail on August 23, 
+1999.  Firm-initiated recall complete.
+DISTRIBUTION
+New York, California, New Jersey, Switzerland.
+QUANTITY
+a) 5 units; b) 3 units; c) 1 unit; d) 3 units; e) 1 unit;
+f) 2 units were distributed.
+REASON
+Blood products were incorrectly tested for the Hepatitis B Surface 
+Antigen (HBsAg), or which tested negative for HBsAg, but were collected 
+from a donor whose previous donation was incorrectly tested for HBsAg.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets; c) Fresh Frozen Plasma; 
+d) Source Leukocytes.  Recall #B-817/820-0.
+CODE
+Unit #11FM28492.
+MANUFACTURER
+American Red Cross Blood Services, St. Louis, Missouri.
+RECALLED BY
+Manufacturer, by letter dated June 1, 1999.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Missouri and New Jersey.
+QUANTITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor who reported a history of 
+Addison's Disease and exposure to hepatitis A.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+________
+PRODUCT
+Red Blood Cells.  Recall #B-777-0.
+CODE
+Unit #7149828.
+MANUFACTURER
+U.S. Department of the Air Force, 74th Medical Group, Wright Patterson 
+AFB, Ohio.
+RECALLED BY
+Manufacturer, by letters dated November 17 and 18, 1998.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+New Jersey and Maryland.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who had an elevated body 
+temperature.
+________
+PRODUCT
+a) Red Blood Cells; b) Recovered Plasma.
+Recall #B-778/779-0.
+CODE
+Unit #4190151.
+MANUFACTURER
+Blood Bank of Alaska, Inc., Anchorage, Alaska.
+RECALLED BY
+Manufacturer, by letters dated March 20, or 21, 2000.  Firm-initiated 
+recall complete.
+DISTRIBUTION
+California and New Jersey.
+QUANITY
+1 unit of each component was distributed.
+REASON
+Blood products were collected from a donor who received a tissue 
+transplant (surgery) within a year of donation.
+________
+PRODUCT
+Platelets Pheresis, Leukocytes Reduced, Irradiated.
+Recall #B-792-0.
+CODE
+Unit #3767970.
+MANUFACTURER
+The Blood Center, New Orleans, Louisiana.
+RECALLED BY
+Manufacturer, by telephone on October 6, 1999, and by letters dated 
+October 15 and 26, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Louisiana.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor who took the drug Propecia.
+________
+PRODUCT
+Red Blood Cells, Irradiated.  Recall #B-793-0.
+CODE
+Unit #8922205.
+MANUFACTURER
+The Blood Center, New Orleans, Louisiana.
+RECALLED BY
+Manufacturer, by telephone on October 10, 1999.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Louisiana.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was labeled with an extended expiration date.
+________
+PRODUCT
+a) Red Blood Cells; b) Platelets.  Recall #B-794/795-0.
+CODE
+Unit Numbers:  a) 8825558; b) 8825558 and 8825563.
+MANUFACTURER
+The Blood Center, New Orleans, Louisiana.
+RECALLED BY
+Manufacturer, by telephone on May 15, 1998.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Louisiana.
+QUANTITY
+a) 1 unit; b) 2 units were distributed.
+REASON
+Blood products were labeled with extended expiration dates.
+________
+PRODUCT
+Red Blood Cells, Leukocytes Removed.  Recall #B-796-0.
+CODE
+Unit #8829824.
+MANUFACTURER
+The Blood Center, New Orleans, Louisiana.
+RECALLED BY
+Manufacturer, by telephone on September 24, 1998.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Louisiana.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was labeled with an extended expiration date.
+________
+PRODUCT
+Platelets, Pheresis.  Recall #B-799-0.
+CODE
+Unit #K10311.
+MANUFACTURER
+The Blood Center, New Orleans, Louisiana.
+RECALLED BY
+Manufacturer, by telephone and letter on April 27, 1998.  
+Firm-initiated recall complete.
+DISTRIBUTION
+Louisiana.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was received at an unacceptable temperature, was 
+redistributed.
+________
+PRODUCT
+Red Blood Cells, Autologus.  Recall #B-800-0.
+CODE
+Unit #8851725 and 8823926.
+MANUFACTURER
+The Blood Center, New Orleans, Louisiana.
+RECALLED BY
+Manufacturer, by telephone on December 30, 1998.  Firm-initiated recall 
+complete.
+DISTRIBUTION
+Louisiana.
+QUANTITY
+2 units were distributed.
+REASON
+Blood products were labeled with extended expiration dates.
+_______
+PRODUCT
+Recovered Plasma.  Recall #B-810-0.
+CODE
+Unit #8917666.
+MANUFACTURER
+The Blood Center, New Orleans, Louisiana.
+RECALLED BY
+Manufacturer, by fax on August 9, 1999.  Firm-initiated recall complete.
+DISTRIBUTION
+Pennsylvania.
+QUANTITY
+1 unit was distributed.
+REASON
+Blood product was collected from a donor whose medical history screening 
+was inadequately performed.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS 
+II
+________
+PRODUCT
+Peripherally Inserted Central Venous Catheter Trays containing Clinipad 
+Cliniguard Protective Dressing Prep.
+Recall #Z-811-0.
+CODE Catalog number C-PICS-301.  Lot F804662
+Catalog number C-PICS-301-CHOP-103097.  Lot F790253. 
+Catalog number C-PICS-301J.  Lots F833591, 952989, 955791, 950762, 
+952988, 959369, 950763, F824639, F794489, F796661, F801539, F806269, 
+F811737, F817595, F809235, F822207, F826239, F834114, F839371, F838672, 
+F840052 and F838672X.
+Catalog number C-PICS-301J-SACRED-HEART-062591-PKG.  Lots F771187 and 
+F791507.
+Catalog number C-PICS-301J-UTAH-070992.  Lots 947003, 947002, 951258, 
+951257, 956120, 956121 and 956892.
+Catalog number C-PICS-401.  Lots 956894 and 960721.
+Catalog number C-PICS-401-CHOP-103097.  Lots F794621, F793680, F801365, 
+F02215 and F806310.
+Catalog number C-PICS-401J.  Lots 949398, 955792, 949401, 956606, 956607, 
+956608, 949400, 960481, 948053, 955793, 955795, 932069X, 955794, 949399, 
+960482, F789187, F796784, F797974, F801540, F806623, F806270, F810223, 
+F816240, F819630, F822721, F824841, F826240, F833302, F791829, F810408 
+and F828140.
+Catalog number C-PICS-401J-JGH-121698.  Lots F794145, F809021 and 
+F811276.
+Catalog number C-PICS-401J-SACRED-HEART-062591-PKG.  Lots F784415, 
+F801146, F800823, F818856 and F833973.
+Catalog number C-PICS-401J-UTAH-070992.  Lots 951914, 945532, 949403, 
+951915, 932792X, 956896, 957631, 956895, 956123, 956122 and 945530
+Catalog number C-PICS-401J-X. Lot F811185.
+Catalog number C-PICS-501.  Lots F794146, F810409, and F828141.
+Catalog number C-PICS-501-ANDREWS-021191.  Lots F804082 and F830783.
+Catalog number C-PICS-501E-MCCREADY-041994.  Lot F797212.
+Catalog number C-PICS-501J.  Lots F791623, F827945, 959620, 957447, 
+945802, 959618, 950481, 959621, 950482, F789188, F790483, F794490, 
+F796662, F796785, F799725, F801541, F802192, F806271, F810986, F817596, 
+F819631, F820587, F821289, F826998, F822208, F834115, F839372, F840053, 
+957446, F810410, F828142, and 945801.
+Catalog number C-PICS-501J-ST-MARK-060391.  Lot F792267.
+Catalog number C-PICS-501J-UTAH-070992.  Lots F833885, F833992, F832109, 
+F800450, F803795, F81222, F801538, F834317, and F805245.
+Catalog number C-PICSY-301J-RP-011195.  Lots 947305 and954515
+Catalog number C-PICSY-401J.  Lots 952430, 952431, 955796, 956899, 
+954222, 954223, 955797, 963886, 958901, and 956901.
+Catalog number PICS-301-MPIS.  Lots 956622, 954243, 954241, 958626, 
+958628, 958627, 943780, 951932, 951933, 956621, 954242, 957849, 956623, 
+954244X, 957850, 951930X, 943781, 957851, 960528, 957848, 960529, 958625, 
+954244 and 932824
+Catalog number PICS-301-MPIS-A.  Lots 952696, 95049,7 950498, 958629, 
+940831X, 942163, 942164, 958630, 960216, 960215, 958631 and 936028.
+Catalog number PICS-301-MPIS-CMC-072899.  Lot F794588.
+Catalog number PICS-301-MPIS-NT.  Lots F811680, F807565, F823367, 
+F834675, F823631, F788865, and F815245.
+Catalog number PICS-301-MPIS-WOC.  Lots 953050, 953051, 954930, 959895, 
+954931, 947316, 944002, 947314, 945820 and 959897
+Catalog number PICS-301-MPIS-WOC-NT.  Lots F796253, F808401, F793351, 
+F797779, F803200, F808243, F814403, F804945 and F831196
+Catalog number PICS-401-MPIS.  Lots 951935, 949429, 953673, 953682, 
+957860, 959652, 951938, 953674, 953676, 956955, 957857, 959654, 959658, 
+961686, 951944, 956962, 957853, 959655, 959659, 942533X, 953679, 956961, 
+953680, 951936, 951937, 951947, 953678, 953677, 956960, 956959, 957854, 
+956958, 959656, 951939, 951940, 953676X, 956956, 959657, 956954, 956957, 
+951943, 957855, 957856, 951944X, 957852, 951942, 951941, 951945, 953681, 
+957859, 957858, 953671, 961692, 961689, 953672, 951946, 953675, F796338, 
+959653, 961690, F790506, F793794, F797481, F794509, F798001, F799742, 
+F801563, F806294, F816278, F809247, F819660, F820610, F822748, F824879, 
+F831102, F840130, F809671 and F828982.
+Catalog number PICS-401-MPIS-A.  Lots F818826, F832821 and F786275
+Catalog number PICS-401-MPIS-A-NT.  Lot F784799.
+Catalog number PICS-401-MPIS-NT.  Lots 953369, 955847, 965127, 960219, 
+958632, 960217, 958633, 960218, 963916, 962112, 966520, 962111, 953368, 
+963917, 956427, 953367, 948897, 965128, 955846, 955845, 956428, 966521, 
+F819556 and 948896.
+Catalog number PICS-401-MPIS-WOC.  Lots F803427, F821904, F841997, 
+958105, 952170, 953684, 961442, 948125X, 959388, 952169, 948125, 953683, 
+963918, 961441, 958106, 952169X, 959387, F790507, F822529, F824880 and 
+F828983.
+Catalog number PICS-401-MPIS-WOC-NT.  Lots 953052, 962113, 958108, 
+957467, 958107, 957468, 956151, 950097, 950096, 962114, 956152, 953053, 
+959898, 959899 and 957469.
+Catalog number PICS-501-ANDREWS-021191.  Lot F817156.
+Catalog number PICS-501-MNP-ABMH-071895.  Lots F786365, F822816, and 
+F822816X. 
+Catalog number PICS-501-MPIS.  Lots F799511, F799557, F804730, 953083, 
+953063X, 956432, 956435, 956430, 950830, 955197, 955201, 950826, 950819, 
+959394, 959395, 959401, 953067, 953062, 953059, 955186, 955177, 956446, 
+959406, 950832, 953071, 953077, 955172, 956441, 957879, 959391, 957886, 
+959402, 956447X, 955194, 956437, 961449, 959412, 956436, 956440, 956438, 
+956442, 956448, 957864, 959396, 959408, 953058, 961460, 953075, 953055, 
+953068, 953073, 959399, 956445, 963065, 963068, 950818, 956429, 961453, 
+948931X, 948926X, 950806, 953081, 959409, 950822, 950825, 950831, 953082, 
+957869, 957870, 959407, 959398, 950833, 959393, 959400, 961462, 961465, 
+953061, 955202, 955195, 961464, 961459, 953079, 956433, 955184, 955176, 
+961446, 961444, 961445, 959404, 956447, 955178, 955188, 950824, 955171, 
+953078, 953063, 956452, 956449, 963083, 963072, 957876, 955196, 957874, 
+957886, 953084, 953072, 956451, 950817, 953056, 953060, 961452, 961451, 
+957862, 959397, 961455, 961461, 961463, 953085, 963086, 956450, 955179, 
+956431, 956444, 957863, 957884, 957880, 957882, 953066, 963084, 950821, 
+953073X, 963070, 955175, 963078, 955182, 950804, 957875, 955172X, 
+F790508, F794510, F799743, F807506, F809248, F819687, F831103, F836367, 
+F840131, 961454, 961456, 953080, F794069, F809672, F808803, F828984, 
+950811, 950808, 959410, 957861X, 961448, 957877, 956431X, 955190, 957867, 
+963067, 950816X, 956453, 953080X and 953081X.
+Catalog number PICS-501-MPIS-A.  Lots 957198, 938781, 950836, 957199, 
+955849, 955848, 959167, 950835 and 950814.
+Catalog number PICS-501-MPIS-MSH-091098.  Lot F0802114.
+Catalog number PICS-501-MPIS-NT.  Lots 950851, 953089, 953093, 953097, 
+958645, 953094, 953099, 956966, 956963, 956974, 96972, 959672, 959662, 
+961103, 962121, 961110, 95494B, 958637, 961106, 953098, 954933, 954934, 
+954935, 959663, 961111, 954946, 956968, 959670, 961105, 961108X, 961102, 
+958641, 958644, 959668, 959666, 958634, 956970, 958638, 958640, 962115, 
+959671, 954942, 961108, 959669, 954947, 956973, 953086, 953088, 950838, 
+950839, 950846, 950848, 950849, 956969, 956975, 956976, 954939, 956965, 
+956967, 962123, 962118, 962122, 962125, 954938, 961104, 950852, 959661, 
+961100, 954944, 958635, 961107, 963642, 954940, 961101, 958639, 953087, 
+959665, 9533096, 954945, 962117, 962120, 963638, 953091, 961109, 958642, 
+953095, 953100, 954937, F789125, 953090, 950845, 956977, 953092, 954936, 
+958643, 956964, 959667, 956971, F796337, 950847, 954943, 948603, F819555, 
+954950, 961112, 954941, 954932, 958636, 953099X, 954949, 959670X, 959664, 
+959661X, 962116 and 950844.
+Catalog number PICS-501-NT-MCLELLAN.  Lot F793031.
+Catalog number PICS-501-MPIS-NT-PGHC-122396.  Lots F832007 and F827711.
+Catalog number PICS-501-MPIS-ON.  Lot F801842.
+Catalog number PICS-501-MPIS-WOC.  Lots 959674, 951641, 951642, 951644, 
+954248, 954245, 954246, 958111, 959673, 958112, 948623, 951645, 959676, 
+954247, 951639, 951643, 958110, 959675, 948617, 954249, 951640, 948622, 
+929837X, 933160X, 958109, F790509, F788527, F815515, F822749, F834890, 
+F796429, F809673 and F828985.
+Catalog number PICS-501-MPIS-WOC-NT.  Lots 957887, 956625, 952439, 
+952441, 954951, 957889, 952442, 952440, 948625, 960221, 955852, 955851, 
+960220, 955853, 956626, 957888, 956624, 960220X, F796693, F820611, 
+F840132 and 960222.Catalog number PICS-ST-VINCENT-040593.  Lots F828118 
+and F829634.
+Catalog number PICS-401-MPIS.  Lots 946700, 950499, 957890, 957891, 
+959900, 963332 and 959901.
+Catalog number PICSY-501-MPIS.  Lots 950502, 951948, 954955, 951949, 
+954250, 956978, 956979, 954251, 954956, 950501 and 958646. 
+These products are packaged with Clinipad CLINIGUARD, Protective, 
+Dressing, Prep, 1, Prep, Pad-Clinipad, Reorder Code 8133S-B, HK8133S.  
+Lot number 914358 [Contains: Isopropyl, Alcohol, 79%, Butyl, Mono, Ester, 
+Dimetyl, Phthalate].  
+MANUFACTURER
+Cook Inc., Bloomington, Indiana (tray);
+Venetec International, Inc., San Diego, California (stalock anchoring 
+device)
+RECALLED BY
+Cook, Inc., Bloomington, Indiana, by letter mailed and faxed on March 23, 
+2000.  Firm-initiated recall ongoing.
+COMPONENT MANUFACTURER
+Clinipad Corporation, Rocky Hill, Connecticut.
+DISTRIBUTION
+Nationwide and international.
+QUANTITY
+21,520 Cook kits were distributed.
+REASON
+Kits/trays contain Clinipad products labeled as sterile for which 
+Clinipad is unable to assure the sterility.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+________
+PRODUCT
+Osteonics Scorpio Posteriorly Stabilized Total Knee:
+a) Catalog Number: 71-5105L; b) Catalog Number: 71-5105R
+c) Catalog Number: 71-5107L; d) Catalog Number: 71-5107R
+e) Catalog Number: 71-5109L; f) Catalog Number: 71-5109R
+g) Catalog Number: 71-5111L; h) Catalog Number: 71-5111R
+i) Catalog Number: 71-5113L.  Recall #Z-744/752-0.
+CODE
+a) Case Codes: K00A257, K00A87, K00A88, K99W347, K99W348, 
+K99W349, K99W459, K99W460
+b) Case Codes: K00A258, K00A89, K00A90, K99W461
+c) Case Codes: K00A91, K00A92, K00A93, K99W462, K99W463, 
+K99W464,K99W89
+d) Case Codes: K00A262, K00A94, K00A95, K00A96, K00A97, 
+K99S246, K99W465, K99W467, K99W468, K99W469, K99W607
+e) Case Codes: K00A100, K00A500, K00A98, K00A99, K99W472, 
+K99W471, K99W783
+f) Case Codes: K00A101, K00A102, K00A103, K00A265, K99W188, 
+K99W474, K99W475, K99W477, K99W610
+g) Case Codes: K00A429, K99W193, K99W749, K99W750, K99W751
+h) Case Codes: K99W196, K99W197, K99W753, K99W754
+i) Case Code: K99W198.
+MANUFACTURER
+Howmedica Osteonics Corporation, Allendale, New Jersey.
+RECALLED BY
+Manufacturer, by letter dated March 3, 2000.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION>
+Nationwide and international.
+QUANTITY
+10 units were distributed.
+REASON
+Product labeling has additional line stating "All Polyethylene" below the 
+product name.
+________
+PRODUCT
+Amplified Mycobacterium Tuberculosis, in-vitro diagnostic test kit:
+a) Part No. 301001, Lot Nos. 909399, 911170, 911172, Exp. Date 08/02/00;
+Recall Number Z-805/808-0.
+	
+INTERNATIONAL KITS:
+b) Part No. 301001E, Lot Nos. 909400, 909410, 912246, Exp. Date 08/02/00;
+c) Part No. 301001F, Lot Nos. 909352, 912294,  Exp. Date 08/02/00;
+d) Part No. 301002J, Lot Nos. 909135 Exp. Date 02/23/00, 909254 Exp. Date 
+03/18/00, 910352 Exp. Date 04/11/00;
+Part No. 301011J, Lot Nos. 909136 Exp. Date 02/23/00, 909255 Exp. Date 
+03/18/00, 910353 Exp. Date 04/11/00;
+CODE
+Domestic: a) Lot Nos. 909399, 911170, 911172, Exp. Date 08/02/00;
+INTERNATIONAL KITS: b) Lot Nos. 909400, 909410, 912246, Exp. Date 
+08/02/00; c) Lot Nos. 909352, 912294, Exp. Date 08/02/00; d) Lot Nos. 
+909135 Exp. Date 02/23/00, 909254 Exp. Date 03/18/00, 910352 Exp. Date 
+04/11/00 (Part #301002J); Lot Nos. 909136 Exp. Date 02/23/00, 909255 Exp. 
+Date 03/18/00, 910353 Exp. Date 04/11/00 (Part No. 301011J).
+MANUFACTURER
+Gen-Probe, Inc., San Diego, California.
+RECALLED BY
+Manufacturer, by telephone on February 2, 2000, and by letter on February 
+7, 2000.  Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide, Puerto Rico, Switzerland, Canada.
+QUANTITY
+1,414 kits were distributed.
+REASON
+The above reagent experienced a reduced shelf life after being 
+reconstituted.  The reduced shelf life may result in inadequate 
+amplification of some specimens during a test run.  Inadequate 
+amplification may produce false negative results.
+________
+PRODUCT
+DeVilbiss Portable Ultrasonic Nebulizer DC Power Cord.
+Recall #Z-809-0.
+CODE
+Catalog #5500D-616.
+MANUFACTURER
+Sunrise Medical HHG, Inc., Somerset, Pennsylvania.
+RECALLED BY
+Manufacturer, by telephone followed by letter faxed on April 7, 2000.  
+Firm-initiated recall ongoing.
+DISTRIBUTION
+Nationwide and Canada.
+QUANTITY
+370 units.
+REASON
+The wrong DC power cord was supplied with the nebulizer.
+
+END OF ENFORCEMENT REPORT FOR JUNE 21, 2000.  
+####
+
+
+
+
+
+FDA News Page   |   FDA Home Page 
+                                                          
+  
+
+Office of Public Affairs
+Hypertext uploaded by tg 2000-JUNE-20.

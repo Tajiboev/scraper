@@ -1,0 +1,708 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Mar
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      33 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+05/03/1995
+
+Recalls and Field Corrections:  Foods -- Class III -- 05/03/1995
+
+May 3, 1995                                                      95-18
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        Morton Canning Pickling Salt, plain salt - nothing added, in 
+               5 pound bags, for cooking, canning and pickling.
+               Recall #F-648-5.
+CODE           Lot #15H4HA.
+MANUFACTURER   Morton Salt, Grand Saline, Texas.
+RECALLED BY    Morton Salt Division, Morton International, Chicago,
+               Illinois, by telephone March 17, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Florida, Texas, Massachusetts, Pennsylvania, Maine, New
+               York, New Hampshire.
+QUANTITY       429 bales (12 bags per bale) were distributed; firm
+               estimates none remains on the market.
+REASON         Product is contaminated with aluminum wires.
+
+
+RECALLS AND FIELD CORRECTIONS:  COSMETICS -- CLASS III
+====================
+_______________
+PRODUCT        Penecare Lotion, OTC skin moisturizing cosmetic product,
+               packaged in 8 ounce bottles may be sold individually or as a
+               part of a promo package.  Recall #F-649-5.
+CODE           Lot #79679 for the individual 8 ounce bottles.  The stock
+               number for pre-pack which could contain the recalled product
+               is 04408.
+MANUFACTURER   Packaging Advantages Corporation, Los Angeles, California.
+RECALLED BY    Penederm, Inc., Foster City, California, by letter on or
+               about March 31, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 14,700 bottles were distributed.
+REASON         Product is contaminated with Candida lipolytica.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Neo-Synephrine Nasal decongestant Drops and NTZ Long-Acting
+               Nasal Decongestant Drops:  (a) Pediatric Formula; (b) Mild
+               Formula; (c) Regular Formula; (d) Extra Strength Formula;
+               (e) NTZ Long-Acting Nasal Decongestant Drops.
+               Recall #D-118/122-5.
+CODE           Lot numbers:  (a) B 200FA, B277 FF, B 309 FK, B324 FL, B 367
+               FP, B 201 HA, B 215 HA, B 284 HF, B 320 HJ, B 341 HJ, B 349
+               HK, B 379 HL, B 428 HP, B 204 JA, B 222 JB, B 293 JE, B 307
+               JH, B 307 JHA, B345 FN, B 410 JN, B 420 JP, KB 101, KD 135,
+               KE 149, KJ 171, KJ 171A, KL 165, KN 275, KP 305, KP 306, LA
+               005, LB 040, LC 120, LD 245, LE 300, LE 340;
+               (b) B202 FA, B 215 FA, B215 FAB, B 237 FCA, B 238 FC, B 251
+               FD, B 289 FH, B 299 FJ, B 335 FN, B 362 FP, B 212 HA, B 229
+               HB, B 229 HBA, B 237 HC, B 308 HF, B 317 HH, B 328 HJ, B 328
+               HJA, B 361 HJ, B 351 HK, B 386 HK, B 381 HLA, B 392 HN, B
+               205 JA, B 221 JB, B 253 JC, B 281 JD, B 294 JE, B 309 JH, B
+               347 JJ, B 347 JJB, B 348 JJ, B 367 JK, B 400 JL, B 406 JN, B
+               418 JN, B 213 KA, KB 102, KC 124, KD 133, KE 140, KH 164,
+               KJ 172, KL 175, KL 175 B, KP 375, LA 060, LA 350, LD 255, 
+               LE 030, LE 290, (c) B 209 FA, B 246 FC, B249 FD, B 285 FF, 
+               B 297 FJ, B 322 FL, B 332 FN, B 366 FP, B 217 HB, B 280 HF,
+               B 298 HH, B 331 HJA, B 375 HK, B 369 HL, B 398 HN, B 206 JA,
+               B 220 JB, B 236 JC, B 284 JD, B 296 JF, B 311 JH, B 348 JJ,
+               B 370 JK, B 411 JN, B 415 JP, B 212 KA, KB 107, KD 131, 
+               KE 145, KE 146, KH 165, KJ 183, KN 280, KP 310, LA 090, 
+               LC 135; (d) B 206 FA, B 213 FA, B 224 FAB, B 244 FBA,
+               B 263 FE, B 283 FF, B 291 FH, B 304 FJ, B 311 FK, B 311 FKA,
+               B 311 FKB, B 355 FL, B 353 FN, B 203 HA, B 205 HA, B 219 HB,
+               B 222 HB, B 239 HC, B 262 HD, B 270 HE, B 281 HF, B 301 HH,
+               B 303 HH, B 336 HJ, B 407 HK, B 370 HLA, B 382 HL, B 394 HN,
+               B 419 HP, B 203 JA, B 219 JB, B 240 JC, B 266 JD, B 285 JE,
+               B 297 JE, B 299 JE, B 315 JF, B 306 JH, B 349 JJ, B 369 JK,
+               B 369 JKA, B 394 JL, B 403 JN, B 419 JP, B 211 KA, B 216 KA;
+               KB 105, KB 108, KB 110, KC 122, KD 132, KD 136, KE 143, 
+               KH 163, KJ 184, KK 120, KL 155, KL 160, KN 230, KN 255,
+               LA 395, LB 080, LB 100, LC 150, LC 150, LD 215, LE 295,
+               LE 365; (e) B 229 FC, B 210 HA, B 380 HL, B 371 JK, LB 035.
+MANUFACTURER   Nycomed Puerto Rico, Inc., formerly Sterling Health,
+               Barceloneta, Puerto Rico.
+RECALLED BY    Miles, Consumer Care Division, Parsippany, New Jersey, by
+               letter March 24, 1995.  Firm-initiated recall ongoing.
+               DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+                                    -2-REASON         Some units are of varying superpotency based on evaporation
+               of liquid.
+
+_______________
+PRODUCT        Cerose-DM Cough and Cold Formula, packaged in 4 ounce and in
+               1 pint bottles.  Recall #D-127-5.
+CODE           Lot numbers:  3931145 EXP 10/95 (4 ounce)
+               3931146 EXP 10/95 (pint), 3931297 EXP 10/95 (4 ounce)
+               3940099 EXP 1/96 (4 ounce), 3940100 EXP 1/96 (pint),
+               3941020 EXP 10/96 (4 ounce), 3921021 EXP 10/96 (pint).
+MANUFACTURER   Wyeth Ayerst Laboratories, Rouses Point, New York.
+RECALLED BY    Wyeth Ayerst Laboratories, St. Davids, Pennsylvania, by
+               letter March 3, 1995.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       57,036 4-ounce bottles and 4,547 pint-bottles were
+               distributed.
+REASON         Incomplete warning statement regarding antihistamine
+               ingredient.
+ 
+_______________
+PRODUCT        Pre-filled syringes marketed by SoloPak Medical Products
+               Inc.:
+               (a) SoloPak Heparin Lock Flush Solution, USP, Preservative
+               Free, 100 USP units/ml packaged in 1, 3 and 5 ml pre-filled
+               syringes; for maintenance of patency of intravenous
+               injection devices only, not to be used for anticoagulant
+               therapy:
+               (i) Catalog #10771: 1 ml Hy-Pod Syringe and 25G x 5/8"
+               needle, individually wrapped, 120 per carton
+               (ii) Catalog #10773: 3 ml Hy-Pod Syringe and 25G x 5/8"
+               needle, individually wrapped, 120 per carton
+               (iii) Catalog #10775: 5 ml Hy-Pod Syringe and 25G x 5/8"
+               needle, individually wrapped, 120 per carton
+               (iv) Catalog #10781: 1 ml Hy-Pod Syringe (needles not
+               included), individually wrapped, 120 per carton
+               (v) Catalog #10783: 3 ml Hy-Pod Syringe (needles not
+               included), individually wrapped, 120 per carton
+               (vi) Catalog #10785: 5 ml Hy-Pod Syringe (needles not
+               included), individually wrapped, 120 per carton
+               (vii) Catalog #11871: 1 ml Hy-Pod Syringe, contained in the
+               Lok-Pak-N Heparin Lock Flush Procedure Pack, 200 per case
+               (viii) Catalog #11873: 3 ml Hy-Pod Syringe, contained in the
+               Lok-Pak-N Heparin Lock Flush Procedure Pack, 200 per case
+               (ix) Catalog #11875: 5 ml Hy-Pod Syringe, contained in the
+               Lok-Pak-N Heparin Lock Flush Procedure Pack, 200 per case,
+               (x) Catalog #03702: 1 ml Hy-Pod Syringe, contained in the
+               Lok-Pak Heparin Lock Flush Procedure Pack, needle not
+               included, 200 per case
+               (xi) Catalog #03703: 3 ml Hy-Pod Syringe, contained in the
+               Lok-Pak Heparin Lock Flush Procedure Pack, needle not
+               included, 200 per case
+
+                                    -3-               (xii) Catalog #03705: 5 ml Hy-Pod Syringe, contained in the
+               Lok-Pak Heparin Lock Flush Procedure Pack, needle not
+               included, 200 per case
+               (b) Sodium Chloride Injection, USP 0.9%, Preservative Free,
+               in 2 ml, 3 ml and 5 ml pre-filled syringes; for use as a
+               sterile isotonic vehicle for diluting or dissolving
+               compatible parenteral medications:
+               (i) Catalog #SP200: 2 ml Hy-Pod Syringe, 100 per tray, 5
+               trays per shipper (bulk pack)
+               (ii) Catalog #SP300: 3 ml Hy-Pod Syringe, 100 per tray, 5
+               trays  per shipper (bulk pack)
+               (iii) Catalog #SP400: 5 ml Hy-Pod Syringe, 100 per tray, 5
+               trays per shipper (bulk pack)
+               (iv) Catalog #11272: 2 ml Hy-Pod Syringe and 25G x 5/8"
+               needle, individually wrapped, 120 per carton
+               (v) Catalog #11273: 3 ml Hy-Pod Syringe and 25G x 5/8"
+               needle, individually wrapped, 120 per carton
+               (vi) Catalog #11275: 5 ml Hy-Pod Syringe and 25G x 5/8"
+               needle, individually wrapped, 120 per carton
+               (vii) Catalog #11282: 2 ml Hy-Pod Syringe (needles not
+               included), individually wrapped, 120 per carton
+               (viii) Catalog #11283: 3 ml Hy-Pod Syringe (needles not
+               included), individually wrapped, 120 per carton
+               (ix) Catalog #11285: 5 ml Hy-Pod Syringe (needles not
+               included), individually wrapped, 120 per carton.
+               Recall #D-137/138-5.
+CODE           (a) Lot numbers 93Cxxx through 93Mxxx, 94Axxx through
+               94Jxxx, except lot 94J018; (b) Lot numbers 92Dxxx through
+               92Mxxx, 93Axxx through 93Mxxx, 94Axxx through 94Jxxx  Where
+               the first two digits indicate the year of production, the
+               third digit indicates the month, JAN = A through DEC = M,
+               skipping "I", and the fourth through sixth digits indicate a
+               consecutive lot number for the month.
+MANUFACTURER   SoloPak Medical Products, Inc., Franklin Park, Illinois.
+RECALLED BY    SoloPak Medical Products, Inc., Elk Grove Village, Illinois,
+               by telephone beginning April 11, 1995.  firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       3,129,180 heparin syringes and 11,455 sodium chloride
+               syringes were distributed.
+REASON         Lack of assurance of sterility.
+
+ 
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Verapamil HCl Tablets, 80 mg packaged in bottles of 1000,
+               used for the treatment of angina, under the Mutual
+               Pharmaceutical label.  Recall #D-128-5.
+CODE           Lot #2974 EXP 01 96.
+MANUFACTURER   Mutual Pharmaceutical Company, Philadelphia, Pennsylvania,
+               by letter March 14, 1995.  Firm-initiated recall complete.
+DISTRIBUTION   Minnesota.
+
+                                    -4-QUANTITY       3 bottles were distributed; firm estimates none remains on
+               the market.
+REASON         Erroneous distribution and recovery of lot that was being
+               held because failed disintegration testing.
+ 
+_______________
+PRODUCT        Propharma brand drug products:
+               (a) Flatulex Tablets, OTC, in 100 tablet bottles, for gas
+               release;  (b) Spacol Tablets, Rx, in 100 tablet bottles, 
+               an antispasmodic; (c) Urodol Caplets, Rx, in 100 tablet
+               bottles, urinary antiseptic; (d) Sernitas Tablets, OTC, in
+               60 tablet bottles, an antihistamine.  Recall #D-129/132-5.
+CODE           Lot numbers:  (a) 70D1240 EXP 4/97; (b) 70M1194 EXP 9/95;
+               (c) 70B1215 EXP 1/96; (d) 70C1221 EXP 2/97.
+MANUFACTURER   Wildflower Pharmacal Corporation, Mineola, New York.
+RECALLED BY    Propharma, Inc., Miami, Florida, by visit beginning March
+               27, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Florida.
+QUANTITY       Firm estimates none remains on market.
+REASON         Subpotency.
+ 
+_______________
+PRODUCT        (a) Corn Liquid, corn and callus remover, in 1/2 ounce fluid
+               ounce amber glass bottles, under the Clay Park label and the
+               following private labels:  White Cross Improved Corn Liquid,
+               Thrifty Cornex, Treasury Corn & Callus Remover, Super D
+               Improved Corn Liquid Corn and Callus Remover, Select brand
+               Corn and Callus Remover, Schein Corn Liquid, Rugby Corn
+               Liquid, Rite Aid Improved Corn Liquid, Premier Cornex
+               Removal, OSCO Corn Liquid, CVS Liquid Corn & Callus Remover,
+               Big Discount Drugs Corn & Callus Remover;   
+               (b) Wart Remover Liquid:  Big B Discount Drugs Wart Remover  
+               Solution, Brooks Liquid Wart Remover,  
+               Peoples Wart Remover, Dr. Gaspari Verrumat, Fays Quality
+               Wart Liquid, Family Pharmacy Wart Liquid, Independent's
+               Choice Wart Remover Solution, Value Med Improved Wart
+               Liquid, Longs Wart Remover Solution, OSCO Wart Liquid, Phar-
+               Mor Wart Remover Solution, Wart Away Liquid made in the USA  
+               for Qualitest, Revco Wart Liquid, Rite Aid Wart Liquid,Rugby
+               High Potency Wart Remover, Schein Wart Liquid, Select brand
+               High Potency Wart Remover Liquid, Super D High Potency Wart
+               Liquid, K & B High Potency Wart Remover Liquid, Treasury
+               Wart Remover Solution, Thrifty Wart Remover Solution, Top
+               Care Wart Liquid.
+               Recall #D-133/134-5.
+CODE           Batch numbers:  (a) T933 EXP 4/95, T934 EXP 4/95, U200 EXP
+               5/95, U060 EXP 4/95, U201 EXP 5/95; (b) U000 EXP 4/95, U001
+               EXP 4/95, U059 EXP 4/95, U247 EXP 5/95, U248 EXP 5/95, U310
+               5/95, U311 EXP 5/95.
+MANUFACTURER   Clay Park Laboratories, Inc., Bronx, New York.
+RECALLED BY    Manufacturer, by letter April 17, 1995.  Firm-initiated
+               recall ongoing.
+
+                                    -5-DISTRIBUTION   (a) New York, Illinois, Tennessee, Texas, California,
+               Pennsylvania, Puerto Rico, West Indies, Virgin Islands,
+               Guyana, Hong Kong; (b) New York, Ohio, Kentucky, Virginia,
+               Missouri, Illinois, Pennsylvania, California, Alabama,
+               Tennessee, Connecticut, Indiana, Florida, Massachusetts,
+               Rhode Island, Hawaii, Puerto Rico, Kowloon.
+QUANTITY       (a) 46,133 bottles; (b) 95,683 bottles were distributed.
+REASON         Varying degrees of superpotency resulting from evaporation
+               of liquid.
+ 
+_______________
+PRODUCT        Extendryl Syrup, root beer flavored, in 1 pint and 1 gallon
+               containers, Rx antihistamine-decongestant.  Recall #D-135-5.
+CODE           Lot #4069471 EXP 6/96 and lower.
+MANUFACTURER   Fleming and Company, Fenton, Missouri.
+RECALLED BY    Manufacturer, by letter March 13, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       122,127 pints and 141 gallons were distributed.
+REASON         Subpotency of the phenylephrine ingredient.
+ 
+_______________
+PRODUCT        Isoniazid Tablets, USP 100 mg, in bottles of 180, an anti-
+               microbial agent used in the treatment of tuberculosis.
+               Recall #D-136-5.
+CODE           Lot #05965 EXP 12/2/95.
+MANUFACTURER   Barr Laboratories, Inc., Pomona, New York.
+RECALLED BY    Vangard Labs, Inc., Glasgow, Kentucky, by telephone April
+               14, 1995, followed by letter.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Idaho.
+QUANTITY       319 bottles were distributed.
+REASON         Product does not meet dissolution specifications at the 48
+               and 60 month test intervals.
+ 
+_______________
+PRODUCT        K-DUR 20's Extended Release Tablets (Potassium Chloride) 20
+               mEq, in bottles of 1000, Rx potassium supplement.
+               Recall #D-139-5.
+CODE           Lot #94167 EXP 11/96.
+MANUFACTURER   Schering-Plough Products, Inc., Las Piedras, Puerto Rico.
+RECALLED BY    Manufacturer, by letter April 18, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Massachusetts, Maine, Maryland, California, Connecticut,
+               Florida, Rhode Island, New York, New Jersey, Pennsylvania,
+               Tennessee, Virginia, Puerto Rico.
+QUANTITY       1,638 bottles were distributed; firm estimated that 350
+               bottles remained on market at time of recall initiation.
+REASON         Product bears incorrect expiration of Nov 1996 instead of
+               May 1996.
+
+
+                                    -6-RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        Human Plasma.  Recall #B-246-5.
+CODE           Unit #N13529.
+MANUFACTURER   Biological Specialty Corporation, Colmar, Pennsylvania.
+RECALLED BY    Manufacturer, by letter August 1, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Canada.
+QUANTITY       1 unit.
+REASON         Blood product, collected from a donor permanently deferred
+               in June 1992 for high risk behavior, was distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-248-5.
+CODE           Unit #30H91308.
+MANUFACTURER   American National Red Cross (ARC), Ashley, Pennsylvania.
+RECALLED BY    Manufacturer, by letter February 2, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Pennsylvania.
+QUANTITY       1 unit.
+REASON         Blood product which was collected from a donor who admitted
+               to traveling to an area designated as endemic for malaria,
+               was distributed.
+ 
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets.  Recall #B-249/250-5.
+CODE           Unit numbers:  (a) 15044-7010, 15044-7015, 15044-7016,
+               15044-7019, 15044-7021, 15044-7024; (b) 15044-7009, 15044-
+               7010, 15044-7011, 15044-7013, 15044-7014, 15044-7015, 15044-
+               7016, 15044-7017, 15044-7018, 15044-7019, 15044-7021, 15044-
+               7022, 15044-7023, 15044-7024.
+MANUFACTURER   United Blood Services, doing business as Blood Systems,
+               Inc., Lubbock, Texas.
+RECALLED BY    United Blood Services, doing business as Blood Systems,
+               Inc., Scottsdale, Arizona, by telephone May 4, 1994, 
+               followed by letters May 5, 1994 and/or November 30, 1994. 
+               Firm-initiated recall complete.
+DISTRIBUTION   California, Texas.
+QUANTITY       (a) 6 units; (b) 14 units.
+REASON         Blood products, in which the sterility of the collection
+               system was compromised, were distributed.
+ 
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma.
+               Recall #B-251/252-5.
+CODE           Unit #17P83615.
+MANUFACTURER   American Red Cross Blood Services, St. Paul, Minnesota.
+RECALLED BY    Manufacturer, by letter June 8, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Minnesota and Switzerland.
+QUANTITY       1 unit of each component.
+
+                                    -7-REASON         Blood products, which tested negative for antibody to human
+               immunodeficiency virus type 1 (anti-HIV-1), but were
+               collected from a donor who previously tested repeatedly
+               reactive for anti-HIV-1, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma.
+               Recall #B-281/282-5.
+CODE           Unit #17GH78739, 17GH46389, 17GF06271, 17GH16453;
+               (b) 17GH78739, 17GH46389, 17GF06271.
+MANUFACTURER   American Red Cross Blood Services, St. Paul, Minnesota.
+RECALLED BY    Manufacturer, by letters dated August 26, 1994 and September
+               27, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Minnesota, California, Washington, D.C.
+QUANTITY       (a) 4 units; (b) 3 units.
+REASON         Blood products, which tested negative for antibody to human
+               immunodeficiency virus type 1 (anti-HIV-1), but were 
+               collected from a donor who previously tested repeatedly
+               reactive for anti-HIV-1, were distributed.
+ 
+ 
+RECALLS AND FIELD CORRECTIONS -- BIOLOGICS -- CLASS III
+===================
+_______________
+PRODUCT        Platelets collected on 07/12/93.  Recall #B-245-5.
+CODE           Unit numbers:  0170298, 0170305, 0170316, 0170303, 0170309,
+               0170318.
+MANUFACTURER   Community Blood Center of Greater Kansas City, Kansas City,
+               Missouri.
+RECALLED BY    Manufacturer, by telephone July 20, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Kansas.
+QUANTITY       6 units.
+REASON         Blood product(s), which were stored under unmonitored
+               temperature conditions, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Reinforced Treatment Catheters, used in the selectron of
+               LDR/MDR and HDR Radiation Therapy Units.  Recall #Z-342-5.
+CODE           Batch #9-94, produced September 1994.
+MANUFACTURER   Nucletron International B.V., Vendendaal, The Netherlands.
+RECALLED BY    Nucletron Corporation, Columbia, Maryland, by letter on or
+               about November 23, 1994, followed by telephone.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide, Canada, Mexico.
+QUANTITY       14 units were distributed.
+REASON         The weld between the plastic and steel on the catheter was
+               determined to be incorrectly welded for the September 1994
+               batch.
+
+                                    -8-_______________
+PRODUCT        Orthopedic 2.9 mm Calibrated Twist Drill, Part #1731.
+               Recall #Z-600-5.
+CODE           Lot #E4443.
+MANUFACTURER   Ace Medical Company, Los Angeles, California.
+RECALLED BY    Manufacturer, by letter February 10, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   California, Michigan, Texas, Japan, Austria.
+QUANTITY       110 units were distributed.
+REASON         The depth calibrations are improperly marked, which may
+               result in the implantation of the wrong size bone screw.
+ 
+_______________
+PRODUCT        Pulsoprobe 320 um Fiber, non-sterile, used with Pulsolith
+               Dye Laser Lithotripter, used in the treatment of calculi in
+               the bladder.  Recall #Z-690-5.
+CODE           Lot No.     Serial No.
+               93299       04253, 04251, 04274, 04245, 04273, 04236
+                           04232, 04265, 04266, 04242, 04263, 04234
+                           04275, 04231, 04268, 04237, 04238,
+                           04250, 04254, 04243
+               93301       04058, 04073, 04053, 04028, 04045, 04038,
+                           04264, 04256, 04057
+               94207       04180, 04218, 04198, 04199, 04216, 04203,
+                           04206, 04224, 04221, 04182, 04197, 04194, 04225
+               N/A         04347, 01899
+               93075       01807, 01811
+               93267       01290, 01265, 01300, 01251, 01259, 01286,
+                           01266, 01280, 01283, 01258, 01274, 01285, 01295
+               93272       04134, 04172, 04135, 04168, 04157, 04163, 04165
+                           04162, 04138, 04130, 04152, 04137, 04170, 04132,
+                           04159, 04131, 04171, 04154, 04167, 04151, 04129
+                           04174, 04175, 04166, 04140, 04145, 04149, 04155
+                           04146, 04173, 04164
+               93327       04060, 04055, 04050, 04064, 04071, 04059,
+                           04044, 04068, 04032, 04065, 04072, 04048,
+                           04054, 04051, 04043, 04075, 04034, 04046, 04047
+                           04056, 04035, 04029, 04040, 04223, 04219, 04208
+                           04185, 04191, 04077, 04204, 04042, 04183, 04226
+                           04063, 04067, 04074, 04213, 04037, 04066, 04076
+                           04069, 04220, 04052
+               N/A         04376, 04344, 04345, 04338.
+MANUFACTURER   Technomed Medical Systems, Vaux-en-Velin, France.
+RECALLED BY    EDAP/Technomed Group, Cambridge, Massachusetts, by letter
+               sent in September 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       119 units were distributed.
+REASON         The probe may break in the ureter during treatment due to
+               changes in the fiber manufacturing process which resulted in
+               defective fibers.
+
+                                    -9-_______________
+PRODUCT        Endosonics'(a) VISION 3.5F Model 54700; (b) VISIONS F/X
+               Model 52700 Intravascular Ultrasound Imaging Catheters.
+               Recall #Z-691/695-5.
+CODES          There are approximately 2,386 individual, non-consecutive
+               serial numbers.  Lot numbers are: 011694, 071194, 71194,
+               71894, 071894, 072594, 080194, 080894, 081594, 082294,
+               092994, 092094, 092694, 100394, 101094, 101794, 102494,
+               102894, 103194, 111494, 111794, 112894, 120694, 121294,
+               121994, 122694, 010995, 011695, 011795, 012495.  Lots may or
+               may not contain both models of the recalled catheters.
+MANUFACTURER   Endosonics Corporation, Pleasanton, California.
+RECALLED BY    Endosonics Corporation, Rancho Cordova, California, by
+               telephone February 17, 1995, followed by letter February 18,
+               1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       (a) 531 units; (b) 1,438 units were distributed.
+REASON         The UV cone, a part on the catheters, could come loose when
+               the catheter is removed from the patient through a
+               hemostatic valve.
+
+_______________
+PRODUCT        Emerson Uninterruptible Power Supply (UPS), Accupower Model
+               30/500VA, used to provide back-up power to complete a
+               radiation therapy treatment during an electrical outage.
+               Recall #Z-694-5.
+CODES          Serial Numbers:
+               100020        801270011       11000020020
+               100160021     801400011       11000060020
+               400800003     1000180020      11000070020
+               600080008     1000190020      11000080020
+               600270008     1000390021      108000450018
+               800030011     1100080020      110000030020
+               800290010     8001550011      110000240020
+               800400011     20400800003     110001000020
+               800490011     20600220008     600800470011
+               800560011     10800270017.
+MANUFACTURER   Omitron International, Inc., Houston, Texas.
+RECALLED BY    Manufacturer, by letter January 21, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Alabama, Arizona, California, Florida, Georgia, Illinois,
+               Louisiana, Maryland, Mississippi, North Carolina, New
+               Jersey, Pennsylvania, Tennessee, Texas, Washington D.C.,
+               Korea.
+QUANTITY       29 units.
+REASON         A power failure of the UPS may go undetected during patient
+               treatment.
+
+_______________
+PRODUCT        Simpson Coronary Atherocath-GTO with improved durable
+               cutting system:  (a) GT)-50 5 FR; (b) GTO-60-09;
+               (c) GTO-70-09.  Recall #Z-698/700-5.
+
+                                   -10-CODE           Lot numbers:  (a) 250102; (b) 250103; (c) 250101.
+MANUFACTURER   Devices for Vascular Intervention, Inc. (DVI), Temecula,
+               California.
+RECALLED BY    Manufacturer, by letter February 9, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   California, Connecticut, Georgia, Maryland, North Carolina,
+               New York, Washington, D.C.
+QUANTITY       54 units were distributed.
+REASON         There appears to be cutter misalignment and burrs in the
+               cutter window.
+ 
+_______________
+PRODUCT        Coiled 60 Inch Low Pressure Extension Tubes, used to connect
+               the contrast dye reservoir to the patient's catheter on a CT
+               scanner.  Recall #Z-717-5.
+CODE           Part #601195.  All lots.
+MANUFACTURER   Surgimedics/Texas, Medical Products (TMP), Orrville, Ohio.
+RECALLED BY    Liebel-Flarsheim Company, Cincinnati, Ohio, by letters of
+               December 24, 27, 31, 1994, and January 3 and 4, 1995.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide, Puerto Rico.
+QUANTITY       The volume of each type of product distributed in 1994 is as
+               follows:  for the Coiled 60 Inch Low Pressure Extension
+               Tubing, 500,000; for the CT Multipak - Syringe size 150 ml,
+               175,000; CT Multipak - Syringe size 260 ml: 81,000; CT
+               Multipak for Medrad CT Injectors - Syringe size 200 ml,
+               71,000; and for the Front Loading CT Multipak - Syringe size
+               200 ml, 127,000.
+REASON         Small fragments of plastic have been found in tubes used to
+               administer contrast material to patients for CT studies.
+ 
+_______________
+PRODUCT        Sterile Triad Hydrophilic Wound Dressing, 2.5 ounce tubes,
+               Product #1964, used for the local management of pressure and
+               venous stasis ulcers, secreting dermal lesions/injuries,
+               superficial wounds, scrapes, first and second degree burns,
+               partial and full thickness wounds.  Recall #Z-729-5.
+CODE           Lot #IM4Z.
+MANUFACTURER   Sween Corporation, N. Mankato, Minnesota.
+RECALLED BY    Manufacturer, by letter March 21, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Kentucky, Texas, Canada.
+QUANTITY       180 tubes were distributed.
+REASON         A portion of the lot was not sterilized prior to
+               distribution.
+ 
+ 
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS II
+===========
+_______________
+PRODUCT        Lactated Ringers Sterile Solution, unit size 1000 ml.
+               Recall #V-030-5.
+CODE           Lot numbers:  3055, 3085, 3237.
+
+                                   -11-MANUFACTURER   American Veterinary Products, Fort Collins, Colorado.
+RECALLED BY    Manufacturer, by letter November 29, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Arizona, Colorado, Illinois, Louisiana, Missouri, New
+               Mexico, New York, Texas, Washington State, Puerto Rico.
+QUANTITY       3,684 units of lot 3055, 7,432 units of lot 3085,
+               7,380 units of lot 3237.
+REASON         pH is below specifications.
+ 
+ 
+MEDICAL DEVICE SAFETY ALERT: 
+=============================================
+_______________
+PRODUCT        Telectronics Pacing Systems:
+               (a) Telectronics Pacing Systems, single chamber (VVIR)
+               cardiac pulse generator, Model 1202:
+               (b) Telectronics Pacing Systems, single chamber (VVI)
+               cardiac  pulse generator, Model 5281B;
+               (c) Telectronics Pacing Systems, single chamber (VVI)
+               cardiac pulse generator, Model 158B (never sold in United
+               States).  Safety Alert #N-027/029-5.
+CODE           Various serial numbers.
+MANUFACTURER   Telectronics Pacing Systems, Miami Lakes, Florida.
+ALERTED BY     Telectronics Pacing Systems, TPLC, Inc., Englewood,
+               Colorado, by letter April 25, 1995.
+DISTRIBUTION   (a & b) Nationwide; (c) The United Kingdom.
+QUANTITY       (a) 159 units implanted, approximately 115 units remaining
+               implanted in the United States; (b) 75 units implanted,
+               approximately 58 units remaining implanted in the United
+               States; (c) 11 units were distributed in the United
+               Kingdom.
+REASON         These pacers may fail without warning and exhibit a sudden
+               no output condition due to loss of hermeticity and fluid
+               ingress as a result of a cracked ceramic feedthrough
+               assembly or a failed braze joint.
+ 
+                                   -12-
+ 
+END OF ENFORCEMENT REPORT FOR MAY 3, 1995.  BLANK PAGES MAY FOLLOW.
+ 
+                                   ####

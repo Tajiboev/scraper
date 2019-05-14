@@ -1,0 +1,476 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Apr
+		  OCT
+		  Mar
+		
+		
+		
+		  
+		  24
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      27 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+06/14/1995
+
+ENFORCEMENT REPORT FOR 06 14 95
+
+
+June 14, 1995                                             95-24        
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Morphine Sulfate Suppositories, 20 mg, Rx analgesic, in
+               boxes of 12.  Recall #D-187-5.
+CODE           5B680 and 4L619.
+MANUFACTURER   Paddock Laboratories, Inc., Minneapolis, Minnesota.
+RECALLED BY    Manufacturer, by letter May 23, 1995.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,506 boxes were distributed.
+REASON         Potency is incorrectly declared as 10 mg on the back panel
+               of the carton.  The principal panel and a side panel are
+               correctly labeled as 20 mg.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Sinucon Syrup, an OTC antihistamine/decongestant, under the
+               following labels:  LuChem Pharmaceuticals/Sinucon Syrup, in
+               1 pint and 1 gallon bottles, Major Pharmaceuticals/Nalgest
+               Syrup, in 1 pint bottles.  Recall #D-186-5.
+CODE           Lot #7986.
+MANUFACTURER   H.N. Norton Company, Shreveport, Louisiana.  (Note:  Firm
+               name change to Zenith Goldline Shreveport, Inc.)
+RECALLED BY    Manufacturer, by telephone and by letter April 12, 1995. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,463 1-pint bottles (LuChem label), 88 1-gallon bottles
+               (LuChem label), 712 1-pint bottles (Major label) were
+               distributed.
+REASON         Potential for crystal formation when product is exposed to
+               low temperatures.
+
+_______________
+PRODUCT        Physostigmine Sulfate Ophthalmic Ointment (Eserine Sulfate
+               1/4%), 1/4 ounce, USP, in 1/8 ounce (3.5g) tubes, Rx
+               anticholinergic compound.  Recall #D-188-5.
+CODE           Lot #2537 EXP 4/96.
+MANUFACTURER   Altana, Inc., Melville, New York.
+RECALLED BY    Manufacturer, by letter June 2, 1995.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       9,360 tubes were distributed.
+REASON         Potency not assured through expiration date.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Recovered Plasma. 
+               Recall #B-365/367-5.
+CODE           Unit #BUI 17033-9420.
+MANUFACTURER   Blood Systems, Inc., doing business as United Blood
+               Services, McAllen, Texas.
+RECALLED BY    Manufacturer, by letter January 16, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Texas, Florida.
+QUANTITY       1 unit of each component.
+REASON         Blood products, which tested negative for the antibody to
+               immunodeficiency virus type 1 (anti-HIV-1), but were
+               collected from a donor who previously tested repeatedly for
+               anti-HIV-1, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Red Blood Cells, for further
+               manufacture; (c) Platelets; (d) Platelets, for further
+               manufacture; (e) Fresh Frozen Plasma; (f) Recovered Plasma. 
+               Recall #B-369/374-5.
+CODE           All components manufactured from one unit of whole blood are
+               identified with the same unit number, date drawn and blood
+               type.
+               PRODUCT - Red Cells 
+               UNIT NUMBER       DATE DRAWN 
+               32-01692           9/19/88 
+               80-13522          12/13/88 
+               80-49257           4/18/89 
+               80-65054           6/23/89 
+               80-76848           8/15/89 
+               80-93517          11/27/89 
+               81-07207          12/12/89 
+
+                                    -2-               81-29213           4/17/90 
+               81-32562           3/23/90 
+               81-56337           6/22/90 
+               81-68130           8/15/90 
+               81-90159           12/7/90 
+               81-93272          12/11/90 
+               82-30275           4/30/91 
+               82-42819           6/28/91 
+               82-62865           9/20/91 
+               83-58293           11/9/92 
+               83-66304           12/7/92 
+               83-70551          12/18/92 
+               83-95722           4/26/93 
+               84-11704           6/18/93 
+               84-20663            8/5/93 
+               84-21055            8/9/93 
+               84-22774            9/9/93 
+               84-35813          11/15/93 
+               84-44998           11/8/93 
+               84-47126          12/10/93 
+               84-48827           12/9/93 
+               84-54928            2/9/94 
+               84-70094           3/11/94 
+               PRODUCT - Platelets 
+               UNIT NUMBER       DATE DRAWN 
+               80-02515           11/2/88 
+               80-13522          12/13/88 
+               80-49257           4/18/89 
+               80-76848           8/15/89 
+               81-07207          12/12/89 
+               81-32562           3/23/90 
+               81-56337           6/22/90 
+               81-68130           8/15/90 
+               81-90159           12/7/90 
+               81-93272          12/11/90 
+               82-30275           4/30/91 
+               82-42819           6/28/91 
+               82-62865           9/20/91 
+               83-70551          12/18/92 
+               83-95722           4/26/93 
+               84-11704           6/18/93 
+               84-20663            8/5/93 
+               84-21055            8/9/93 
+               84-35813          11/15/93 
+               84-44998           11/8/93 
+               84-47126          12/10/93 
+               84-48827           12/9/93 
+               84-54928            2/9/94 
+               PRODUCT - Pooled Platelets 
+               UNIT NUMBER    DATE DRAWN 
+               84-48827          12/9/93 
+
+                                    -3-               PRODUCT - Fresh Frozen Pooled 
+               UNIT NUMBER    DATE DRAWN 
+               81-32562          3/23/90 
+               81-56337          6/22/90 
+               81-90159          12/7/90 
+               82-30275          4/30/91 
+               83-70551         12/18/92 
+               84-22774           9/9/93 
+               PRODUCT - Plasma 
+               UNIT NUMBER    DATE DRAWN 
+               82-42819          6/28/91 
+               82-62865          9/20/91 
+               83-58293          11/9/92 
+               83-66304          12/7/92 
+               83-95722          4/26/93 
+               84-11704          6/18/93 
+               84-20663           8/5/93 
+               84-21055           8/9/93 
+               84-35813         11/15/93 
+               84-44998          11/8/93 
+               84-47126         12/10/93 
+               84-48827          12/9/93 
+               84-54928           2/9/94 
+               84-70094          3/11/94 
+MANUFACTURER   The Blood Center for Southeast Louisiana, New Orleans,
+               Louisiana.
+RECALLED BY    Manufacturer, by telephone, fax, and letter June 14, 1994. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Louisiana,  New York, California, Florida, North Carolina.
+QUANTITY       73 units.
+REASON         Blood products, which tested negative for hepatitis B
+               surface antigen (HBsAg), but were collected from donors who
+               previously tested repeatedly reactive for HBsAg, were
+               distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-381-5.
+CODE           Unit #26029-5282.
+MANUFACTURER   Blood Systems, Inc., doing business as United Blood Services
+               (UBS), Fort Smith Arkansas.
+RECALLED BY    Blood Systems, Inc., Scottsdale, Arizona, by fax October 6,
+               1992.  Firm-initiated recall complete.
+DISTRIBUTION   North Carolina.
+QUANTITY       1 unit.
+REASON         Blood product, associated with a unit of Red Blood Cells
+               which was contaminated with Propionibacterium acnes, was
+               distributed. 
+
+                                    -4-_______________
+PRODUCT        Reagent Red Blood Cells RESOLVE(tm) Panel A.
+               Recall #B-382-5.
+CODE           KA810 EXP 7/26/94.
+MANUFACTURER   Ortho Diagnostic Systems, Inc., Raritan, New Jersey.
+RECALLED BY    Manufacturer, by letter July 18, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       648 packages.
+REASON         Reagent Red Blood Cell panels which contained errors on the
+               extended antigen profile, were distributed.
+
+_______________
+PRODUCT        Reagent Red Blood Cells, RESOLVE(tm) Panel A.
+               Recall #B-383-5.
+CODE           Lot RA834 EXP 1/17/95.
+MANUFACTURER   Ortho Diagnostic Systems, Inc., Raritan, New Jersey.
+RECALLED BY    Manufacturer, by fax December 29, 1994, and by telephone
+               between February 27, 1995 and March 20, 1995, and by letters
+               of December 30, 1994 and March 23, 1995.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       802 packages.
+REASON         Lea positive Reagent Red Blood Cells, incorrectly labeled as
+               Lea negative, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Transformer used with Ultrasonic Scaler used for cleaning
+               teeth, Model Turbo 25/30.  Recall #Z-821-5.
+CODE           Serial numbers of Turbo Scaler #44867 - 45190. The
+               transformer does not have a serial number.
+MANUFACTURER   Woet Tsern Electronic Company, Ltd., Taipei, Taiwan
+               (contract manufacturer).
+RECALLED BY    Parkell Products, Inc., Farmingdale, New York, by telephone
+               August 12, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       326 units were distributed; firm estimates none remains on
+               market. 
+REASON         The transformer was manufactured incorrectly which may lead
+               to lack of grounding which could cause the device to short
+               out.
+
+_______________
+PRODUCT        Single Lumen Femoral Catheters under the Acuflex and Neostar
+               label.  Recall #Z-822-5.
+CODE           Lot numbers:   AT157, AT158, AT159, AT199, AT200, AT222,
+               AT223, AT225, AT245, AT246, AR260, AS197, AS198, AS244,
+               AS245, AS246, AS247, AS347, AT156.
+MANUFACTURER   Neostar Medical Technologies, Inc., King of Prussia,
+               Pennsylvania.
+
+                                    -5-RECALLED BY    Manufacturer, by letter April 27, 1994 and May 3, 1994. 
+               Firm-initiated recall complete.
+DISTRIBUTION   New York, West Virginia, Missouri, Colorado, England, Egypt,
+               India, Germany, Malaysia, Pakistan.
+QUANTITY       6,089 units (kits and single catheters) were distributed;
+               firm estimates none remains on the market
+REASON         A 0.038" guidewire would not allow passage of the catheter's
+               tip.
+
+_______________
+PRODUCT        Baxter Arterial and Venous Bloodlines:
+               (a) Baxter Arterial Blood Tubing Set for Hemodialysis,
+               Product Code 5M4253M;
+               (b) Baxter Arterial Blood Tubing Set for Hemodialysis with
+               Male Luer Rotating Lock, Product Code 5M4262M;
+               (c) Baxter Arterial Blood Tubing Set for Hemodialysis with
+               Male Luer Rotating Lock and Pressure Pillow Tubing, Product
+               Code 5M4283M;
+               (d) Baxter Venous Blood Tubing Set for Hemodialysis with two
+               lengths of tubing, Product Code 5M4491M;
+               (e) Baxter Venous Blood Tubing Set for Hemodialysis with
+               four lengths of tubing, Product Code 5M4484M.
+               Recall #Z-831/835-5.
+CODE           All lots.
+MANUFACTURER   Productos Urologos de Mexico S.A. de C.V., Mexicali-Baja,
+               Mexico.
+RECALLED BY    Baxter Healthcare Corporation, McGaw Park, Illinois, by
+               letter May 16, 1995.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Brazil, Venezuela.
+QUANTITY       121,000 sets were distributed; firm estimated that 25
+               percent of product remained on market at time of recall
+               initiation.
+REASON         Blood tubing might not completely set in the dialyzer
+               connector resulting in a potential for blood leakage.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        2991 Triple Processing Set, tubing set used in bone marrow
+               procedures.  Recall #Z-779-5.
+CODE           Catalog #912647-901, Lot #07Z15125.
+MANUFACTURER   Cobe BCT, Inc., Lakewood, Colorado.
+RECALLED BY    Manufacturer, by letter October 17, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Massachusetts, Colorado, New York, Nebraska, Tennessee,
+               Texas, Belgium, France, Spain, England, Israel.
+QUANTITY       216 units were distributed; firm estimates none remains on
+               the market.
+
+                                    -6-REASON         A misassembly error resulted in the set containing an
+               incorrect tubing size than intended.  The affected tubing is
+               used at the peristaltic set during a bone marrow procedure. 
+               The failure to occlude the tubing results in the fluid being
+               unable to flow as directed by the pump which can result in
+               procedural inefficiency.
+
+_______________
+PRODUCT        Preference 4-Pack, BC 8.7, DIA 14.4, Extended Wear Contact
+               Lenses.  Recall #Z-828-5.
+CODE           L09483 (on outer carton).
+MANUFACTURER   Coopervision, Inc., Scottsville, New York.
+RECALLED BY    Manufacturer, by telephone April 7, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Arkansas, California, Florida, Georgia, Illinois,
+               Massachusetts, Missouri, North Carolina, New Jersey, New
+               York, Oklahoma, Oregon, Pennsylvania, Tennessee, Texas,
+               Wisconsin, West Virginia.
+QUANTITY       23 4-packs were distributed.  As of May 17, 1995 4 4-packs
+               remained unaccounted for.
+REASON         The lenses are labeled with the wrong power.
+
+_______________
+PRODUCT        Cooperclear, BC 8.7, DIA 14.4, Daily Wear Contact Lenses,
+               sold in individual vials.  Recall #Z-829-5.
+CODE           Lot #L09538.
+MANUFACTURER   Coopervision, Inc., Scottsville, New York.
+RECALLED BY    Manufacturer, by telephone April 21, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Arkansas, California, Florida, Georgia, Illinois,
+               Massachusetts, Missouri, North Carolina, New Jersey, New
+               York, Oklahoma, Oregon, Pennsylvania, Tennessee, Texas,
+               Wisconsin, West Virginia.
+QUANTITY       26 lenses were distributed.  As of May 9, 1995, 11 lenses
+               remained unaccounted for.
+REASON         The lenses are labeled with the wrong power.
+
+_______________
+PRODUCT        Diamedix brand Anti-DNA Microassay, Catalog #783-200, 96
+               test set, for in-vitro diagnostic use.  Recall #Z-836-5.
+CODE           Lot #S0404A EXP 8/95.
+MANUFACTURER   Diamedix Corporation, Miami, Florida.
+RECALLED BY    Manufacturer, by letter February 10, 1995.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       459 kits were distributed.
+REASON         Some of the wells in Anti-DNA Microassay, may not have been
+               coated with antigen during the manufacturing process.
+
+
+                                    -7-_______________
+PRODUCT        FIRST Choice Reagent Strips for use with Glucometer II
+               (GII), Glucometer II with Memory, and Glucometer M Blood
+               Glucose Meters: (a) Catalog No. 91050; (b) Catalog No.
+               91051; (c) FIRST Choice Reagent Strips for use with DIASCAN
+               Meter, Catalog No. 91080.  Recall #Z-837/839-5. 
+CODE           Lot Numbers:  (a) F51445, F51446, F51447, F51449, F51450,
+               F51451; (b) F51450, F51451, F51454; (c) F70983.
+MANUFACTURER   Polymer Technology International (PTI), Issaquah,
+               Washington.
+RECALLED BY    Manufacturer, by letter March 5, 1995 and April 14, 1995,
+               followed by telephone the week of May 1, 1995.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide, Belgium, Taiwan, Poland, Japan, Pakistan,
+               Lebanon.
+QUANTITY       103,327 packages were distributed.
+REASON         The blood glucose strips exceeded their specifications which
+               could provide inaccurate patient results.
+
+                                    -8-
+                                   ####
+
+
+END OF ENFORCEMENT REPORT FOR JUNE 14, 1995.  BLANK PAGES MAY FOLLOW.
