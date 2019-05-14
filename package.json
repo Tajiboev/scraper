@@ -1,13 +1,12 @@
 {
   "name": "scraper",
   "version": "1.0.0",
-  "description": "web scraper",
+  "description": "simple web-scraper in Node.js for collecting recall data from FDA website to an excel spreadsheet",
   "main": "scraper.js",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "exceljs": "^1.8.0",
     "lodash": "^4.17.11",
-    "minimist": "^0.0.8",
     "puppeteer": "^1.13.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.4"
