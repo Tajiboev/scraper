@@ -1,0 +1,834 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Sep
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  06
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      24 captures
+	      06 Oct 2002 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA 
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration, Department of Health and Human Services. 
+It contains information on actions  taken in connection with agency
+Regulatory activities.
+
+
+
+
+May 22, 2002                                               02-20
+
+
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS I
+
+_______________________
+PRODUCT
+Edy�s Grand Ice Cream Limited Edition Girl Scouts Samoas Cookie, 1.75 
+Quarts in Round paper �Convocan� ice cream package.  Recall # F-420-2.
+CODE
+"48-18-42 0920AL"
+Stamped on bottom of carton.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Dreyer's Grand Ice Cream, Oakland, CA, by e-mail on 
+January 23, 2002.
+Manufacturer: Dreyer's Grand Ice Cream, Houston, TX.
+Firm initiated recall is complete.
+REASON
+The product contained undeclared peanuts and egg yolk.
+VOLUME OF PRODUCT IN COMMERCE
+5,241 packages.
+DISTRIBUTION
+AL, FL, MS, NC, OH and TN.
+
+_______________________
+PRODUCT
+Portagen iron fortified nutritionally complete powder with medium chain 
+triglycerides in 1 pound cans.  Recall # F-421-2.
+CODE
+Lot BMC17.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Mead Johnson Nutritionals, Evansville, IN, by letters on 
+March 29, 2002.
+Manufacturer:  Mead Johnson Nutritionals, Zeeland, MI.
+Firm initiated recall is complete.
+REASON
+The Centers for Disease Control and Prevention linked consumption of the 
+product to an outbreak of Enterobacter sakazakii infection, including one 
+death, in infants.
+VOLUME OF PRODUCT IN COMMERCE
+17358 cans.
+DISTRIBUTION
+Nationwide and Australia, Hong Kong and Spain.
+_______________________
+PRODUCT
+Polly-O brand Original Ricotta Cheese, net wt. 15 oz*.
+Recall # F-426-2.  (*Pollio Press release incorrectly listed this as the 
+3 lb. size).
+CODE
+DEC-10 PD1 located on the bottom of the container.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  Pollio Italian Cheese Company (aka Pollio Dairy 
+Products), Mineola, NY, by press release on November 23, 2001.
+Manufacturer:  Pollio Italian Cheese Company, Campbell, NY.
+Firm initiated recall is complete.
+REASON
+The Department of Defense found Salmonella in a sample of Polly-O 
+Original Ricotta Cheese.
+VOLUME OF PRODUCT IN COMMERCE
+6,579 cases.
+DISTRIBUTION
+Nationwide.
+_______________________
+PRODUCT
+Best Yet brand Stir Fry Vegetables with Noodles � Premium Quality in 16 
+ounce (1 lb) multi-color plastic bags.  Recall # F 427-2.
+CODE
+P24A2A or (P24A2B).
+RECALLING FIRM/MANUFACTURER
+Patterson Frozen Foods, Patterson, CA, by fax on March 20, 2002.
+Firm initiated recall is complete.
+REASON
+The product contains undeclared eggs.
+VOLUME OF PRODUCT IN COMMERCE
+280 cases.
+DISTRIBUTION
+CA, NV, UT and ID.
+_______________________
+PRODUCT
+La Monica Scungilli, Sliced Conch 6.5 oz and 29 oz cans. Ingredients: 
+Conch (Scungilli), Water, and Salt. 
+Recall # F-434-2.
+CODE
+All lots on the market at the time the recall was initiated.
+RECALLING FIRM/MANUFACTURER
+Cape May Foods, Burleigh, NJ, by telephone, fax and letter on December 10 
+and 11, 2001.
+Firm initiated recall is complete.
+REASON
+The product contained undeclared sulfites.
+VOLUME OF PRODUCT IN COMMERCE
+1,235,280 /6.5oz cans; 
+787,092 /29 oz. cans.
+DISTRIBUTION
+Nationwide.
+_______________________
+PRODUCT
+Cobblestone Mill 8 Sandwich Rolls (also known as Seeded 8 count 
+hamburger buns), net weight 15 ounces.  Recall # F-435-2.
+CODE
+Best if used by SEPT 12, 07 247, with a black twist tie;
+Best if used by SEPT 13, 07 248, with a yellow twist tie;
+Best if used by SEPT 15, 07 250, with a green twist tie;
+Best if used by SEPT 17, 07 252, with a orange twist tie;
+Best if used by SEPT 18, 07 253, with a blue twist tie.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm: Flowers Bakeries, Thomasville, GA, by telephone  on 
+September 10, 2001.
+Manufacturer: Flowers Bakery, Morristown, TN.
+Firm initiated recall is complete.
+REASON
+The product contained undeclared eggs.
+VOLUME OF PRODUCT IN COMMERCE
+33,399 units.
+DISTRIBUTION
+WV, KY, NC, SC, TN OH and VA.
+_______________________
+PRODUCT
+Chocolate Filled Croissants packaged in clear plastic in-store 
+boxes, approx. 14 oz., labeled in part: ** KASH N KARRY SELL BY 
+DATE NET WT " Recall # F-436-2.
+CODE
+All croissants on the market at the time the recall was initiated that 
+did not list pecan meal as an ingredient.
+RECALLING FIRM/MANUFACTURER
+Kash N' Karry Supermarkets, Inc., Tampa, FL, by e-mail on January 16, 
+2002.  State initiated recall is complete.
+REASON
+The product contained undeclared pecan meal.
+VOLUME OF PRODUCT IN COMMERCE
+1,700 per month.
+DISTRIBUTION
+Florida.
+_______________________
+PRODUCT
+Fleischmann's Unsalted Margarine in 1 lb. packages with 4 - 1/4lb. sticks 
+per package. Recall # F-437-2.
+CODE
+Code 2471248 APR 15 02 EN 15 and Best if used by "APR 15 02 EN 15".
+RECALLING FIRM/MANUFACTURER
+Recalling Firm:  ConAgra Dairy Foods Company, Downers Grove, IL, by 
+telephone on October 12, 2001.
+Manufacturer:  ConAgra Dairy Foods, Indianapolis, IN.
+Firm initiated recall is complete.
+REASON
+Unsalted margarine contains a second product, original (salted) margarine 
+that has whey as an added ingredient.
+VOLUME OF PRODUCT IN COMMERCE
+Approx. 3,600 pounds.
+DISTRIBUTION
+NJ, CT, DE, NY and PA.
+
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS II
+_______________________
+PRODUCT
+Various salad dressings in hard plastic containers with labeling affixed.  
+Labeling states in part "**MADE BY CHIZ'S COUGAR CAVE ST.  ANTHONY, IDAHO 
+** ". 
+a) Bleu Cheese Dressing, 8 oz. and 16 oz. Recall # F-422-2;
+b) Veggie Dip, 16 oz. Recall # F-423-2;
+c) Ranch Dressing, 8 oz. and 16 oz. Recall # F-424-2.
+CODE
+"Use By APR 15 02" or before.
+RECALLING FIRM/MANUFACTURER
+Chiz's Cougar Cave, St. Anthony, ID, by telephone on April 3, 2002.  FDA 
+initiated recall is complete.
+REASON
+The products contained undeclared eggs but mayonnaise was listed as an 
+ingredient.
+VOLUME OF PRODUCT IN COMMERCE
+Unknown.
+DISTRIBUTION
+ID.
+_______________________
+PRODUCT
+Frozen Sugar Cookie Dough .75 oz. Recall # F-425-2
+CODE
+Lot 11923.
+RECALLING FIRM/MANUFACTURER
+H.C. Brill Company, Inc., Tucker, GA, by letter on September 25, 2001.  
+Firm initiated recall is complete.
+REASON
+Sugar cookie dough was manufactured using an ingredient, which was 
+previously contaminated with Salmonella.
+VOLUME OF PRODUCT IN COMMERCE
+310 cases.
+DISTRIBUTION
+AL, FL, LA and NC.
+_______________________
+PRODUCT
+a) Astor Chicken Gravy Mix, Net Wt. 1 oz. UPC 2114012855. 
+   Recall # F-428-2;
+b) Astor Thick & Zesty Spaghetti Sauce Seasoning Mix, Net 
+   Wt. 1.375 oz., UPC 21140 12877. Recall # F-429-2.
+CODE
+All "sell by dates" are covered by this recall if the package does not 
+declare the required sulfur dioxide or colors.  Based on when the firm 
+stopped production the recall would include all product with sell by 
+dates prior to 2/25/04.
+RECALLING FIRM/MANUFACTURER
+Astor Products, Inc. (A Division of Winn Dixie Stores, Inc.) 
+Jacksonville, FL, by e-mail on March 5, 2002.  FDA initiated recall is 
+complete.
+REASON
+a) Undeclared yellow 5 & 6
+b) Undeclared yellow 5 & red 40.
+VOLUME OF PRODUCT IN COMMERCE
+800,000.
+DISTRIBUTION
+Southeast United States.
+
+	RECALLS AND FIELD CORRECTIOS: FOODS -- CLASS III
+_______________________
+PRODUCT
+Vermont Farm Organic Sweet Cider, 1/2 Gallon (64 FL. OZ.). Recall # F-
+400-2.
+CODE
+Code: Sell by 03 08.
+RECALLING FIRM/MANUFACTURER
+Dwight Miller & Son Orchards, East Dummerston, VT, by telephone on March 
+1, 2001.  State initiated recall is complete.
+REASON
+The product contained undeclared potassium sorbate.
+VOLUME OF PRODUCT IN COMMERCE
+100 cases of 9-1/2 Gallon containers.
+DISTRIBUTION
+MA, CT, NJ, NY AND RI.
+_______________________
+PRODUCT
+All products packaged in polyethylene lined multi-ply paper bags, wt per 
+bag:
+a) Item 407-21, Edible Acid Casein, AC-130, 25 kg/bag. 
+   Recall # F-402-2;
+b) Item 502-01, Casein Protein Polymers BL-330, 50 lbs. 
+   Recall # F-403-2; 
+c) Item 402-18, Calcium Caseinate CC-901, 25 kgs. 
+   Recall # F-404-2; 
+d) Item 415-35, Complete Milk Protein CMP-801, 20 kgs. 
+   Recall # F-405-2; 
+e) Item 415-19, Complete Milk Protein-High Protein CMP-HP, 
+   20 Kgs. Recall # F-406-2;  
+f) Item 415-21, Complete Milk Protein-I CMP-I, 20 kgs. 
+   Recall # F-407-2;
+g) Item 423-01, Hydrolyzed Protein Flavex brand Curegel 150, 
+   50 lbs. Recall # F-408-2;
+h) Item 412-02, Pizza Dough Conditioner DC-103, 50 lbs. 
+   Recall # F-409-2;
+i) Item 407-01, Edible Acid Casein (407-003), 50 lbs. 
+   Recall # F-410-2;
+j) Item 423-02, Hydrolyzed Milk Protein Flavex 35, 50 lbs. 
+   Recall # F-411-2;
+k) Item 423-03, Hydrolyzed Milk Protein Flavex MPH-36, 50 lbs.      
+Recall # F-412-2;
+l) Item 425-06, Protein Hydrolysate HLA-198, 50 lbs. 
+   Recall # F-413-2;
+m) Item 425-15, Partly Hydrolyzed Sodium Caseinate HMP-26, 
+   50 Lbs. Recall # F-414-2;  
+n) Item 415-02, Dairy Blend HMP-35, 50 lbs. Recall # F-415-2;
+o) Item 415-10, Ice Cream Powder Mattus�, 20 kgs. 
+   Recall # F-416-2;
+p) Item 415-09, Darimix SD-101, 50 lbs. Recall # F-417-2;
+q) Item 401-13, Sodium Caseinate, Spray Dried, 20 kgs. 
+   Recall # F-418-2;
+r) Item 401-02, Sodium Caseinate, 2nd Grade Spray, 25 kgs. 
+   Recall # F-419-2;
+CODE
+a) LOT 9003;
+b) LOT D10919;
+c) LOT D10913;
+d) LOT D10915;
+e) LOT D10909;
+f) LOTS D10905, D10916, D10721;
+g) LOTS D10825, D10812;
+h) LOTS D10924, D10601;
+i) LOT D10819;
+j) LOT D10810;
+k) LOT D10806;
+l) LOTS D10907, D10911;
+m) LOTS D10814, D10804;
+n) LOT D10803;
+o) LOT D10917;
+p) LOT D10815;
+q) LOT D10816;
+r) LOT D10818.
+RECALLING FIRM/MANUFACTURER
+American Casein Company, Delmar, MD, by fax and courier on October 24, 25 
+and 29, 2001.  Firm initiated recall is complete.
+REASON
+The products may be contaminated with thin metal wire.
+VOLUME OF PRODUCT IN COMMERCE
+351,000 bags.
+DISTRIBUTION
+Nationwide.
+_______________________
+PRODUCT
+a) Astor Brown Gravy Mix..
+   - Net Wt. 0.875 oz. UPC 2114012850 
+   - Family Size (Makes 3 Cups), Net Wt. 2.625 Oz, 
+   UPC 2114012849.  Recall # F-430-2;
+b) Astor Onion Gravy Mix Net Wt. 1.0 Oz. UPC 2114012857. 
+   Recall # F-431-2;
+c) Astor Mushroom Gravy Mix, Net Wt. 0.75 oz, UPC 
+   2114012860.  Recall # F-432-2; 
+d) Astor Spaghetti Sauce Seasoning Mix with Mushrooms, 
+   Net Wt. 1.375 oz., UPC 2114012862.  Recall # F-433-2.
+CODE
+All "sell by dates" are covered by this recall if the package does not 
+declare the required sulfur dioxide or colors.  Based on when the firm 
+stopped production the recall would include all product with sell by 
+dates prior to 2/25/04.
+RECALLING FIRM/MANUFACTURER
+Astor Products, Inc. (A Division of Winn Dixie Stores, Inc.), 
+Jacksonville, FL, by e-mail on March 5, 2002.  FDA initiated recall is 
+complete.
+REASON
+a, b, c) Undeclared sulfites 
+d) undeclared red 40
+VOLUME OF PRODUCT IN COMMERCE
+800,000.
+DISTRIBUTION
+Southeast United States.
+
+	RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS I
+_______________________
+PRODUCT
+VERSED Syrup (midazolam HCl) CIV, 118 ml (2mg/mL) bottles,
+Rx only.  Recall # D-263-2. 
+CODE
+Lot U0009-50 exp. 4/2003
+Lot U0010-50 exp. 4/2003.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm: Hoffmann La Roche Inc., Nutley, NJ, by telephone and 
+letters on March 1, 2002.
+Manufacturer: Hoffmann-LaRoche, Nutley, NJ.  Firm initiated recall is 
+ongoing.
+REASON
+Potency, product crystallization causing a lack of uniformity in potency.
+VOLUME OF PRODUCT IN COMMERCE
+13,122 bottles. 
+DISTRIBUTION
+Norway.
+
+	RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS II
+_______________________
+PRODUCT
+a) Endure 420 Cida-Stat Foam (chlorhexidine gluconate) 2%, 27 oz
+   (800 mL) bottles. Recall # D-257-2;
+b) Endure 420 Cida-Stat Surgical Scrub/Healthcare Personnel Hand 
+   Wash (chlorhexidine gluconate) 2%, 4 oz, 18 oz and 1000 mL
+   bottles.  Recall # D-258-2;
+c) Endure 400 Scrub-Stat 4 Surgical Scrub (chlorhexidine
+   gluconate) 4%, 18 oz and 1000 mL bottles.  Recall # D-259-2;
+d) Dial Surgical Scrub (chlorhexidine gluconate) 4% Antimicrobial 
+   Solution, 4 oz and 1 gallon bottles.  Recall # D-260-2. 
+CODE
+a) Lots: L011291, L021291, L041291, L092901 and L111601;  
+b) Lot L091501;
+c) Lot L083191;
+d) Lot L083191;
+RECALLING FIRM/MANUFACTURER
+Ecolab Inc., Huntington, IN, by letters on January 24, 2002.
+Firm initiated recall is complete.
+REASON
+Subpotent for chlorhexidine gluconate (stability).
+VOLUME OF PRODUCT IN COMMERCE
+3700 cases/12-800 ml. bottles per case.
+DISTRIBUTION
+Nationwide.
+
+RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS III 
+_______________________
+PRODUCT
+a) 8.5% FreAmine III (Amino Acid) Injection, 1000 mL glass
+   intravenous infusion bottles, Rx only. Recall # D-261-2;
+b) 10% FreAmine III (Amino Acid) Injection, 1000 mL glass 
+   intravenous infusion bottles, Rx only. Recall # D-262-2.
+CODE
+Catalog Numbers S9030-SS and S9010-SS 
+Batch Numbers J2C029 and J2C030.
+RECALLING FIRM/MANUFACTURER
+B. Braun Medical, Inc., Irvine, CA, by letters on April 25, 2002.
+Firm initiated recall is ongoing.
+REASON
+Packaging/ Labeling mix-up (correctly labeled bottles of 8.5% FreAmine 
+III were found in cartons incorrectly labeled as 10% FreAmine III)
+VOLUME OF PRODUCT IN COMMERCE
+11,478.
+DISTRIBUTION
+Nationwide.
+
+	RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS I
+_______________________
+PRODUCT
+Human Tissue for Transplantation of the following types:
+a)Cortical/Cancellous Chips;
+b)Fascia Lata. 
+  Recall # B-1262-2.
+CODE
+a)Lot numbers 010707-002, 010707-005, 010707-006, 010707-007, 
+  and 010707-009
+b)Lot number 010707-001.
+RECALLING FIRM/MANUFACTURER
+AlloSource, Inc., Centennial, CO, by letter dated April 1, 2002.
+Firm initiated recall is complete.
+REASON
+Human tissue for transplantation, that was manufactured from unsuitable 
+tissue based on positive testing for Clostridium perfringens, was 
+distributed.
+VOLUME OF PRODUCT IN COMMERCE
+6 lots.
+DISTRIBUTION
+NY, AZ, MO and WY.
+
+	RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS II
+_______________________
+PRODUCT
+Platelet Pheresis, Leukoreduced, Recall # B-1286-2.
+CODE
+Units 9013675, 9013689, 9013705.
+RECALLING FIRM/MANUFACTURER
+The Blood Connection, Inc., Greenville, SC, by telephone on February 8, 
+2001.  Firm initiated recall is complete.
+REASON
+Blood products, collected on equipment that had not been validated for 
+use, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+3 double collections, 6 units.
+DISTRIBUTION
+SC.
+_______________________
+PRODUCT
+a) Red Blood Cells, Leukocytes Reduced, Recall # B-1288-2;
+b) Platelets, Recall  # B-1289-2;
+c) Fresh Frozen Plasma, Recall # B-1290-2.
+CODE
+a); b) and c)Unit number FG52021.
+RECALLING FIRM/MANUFACTURER
+Healthcare Provider Services, Inc., dba Rhode Island Blood Center, 
+Providence, RI, by letter on February 8, 2002.
+Firm initiated recall is complete.
+REASON
+Blood products, collected from an ineligible donor due to use of the drug 
+Proscar, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+3 units.
+DISTRIBUTION
+RI and MA.
+______________________
+PRODUCT
+Red Blood Cells, Leukocytes Reduced, Recall # B-1291-2.
+CODE
+Unit number 16LS83402.
+RECALLING FIRM/MANUFACTURER
+The American National Red Cross, Central Ohio Region, Columbus, OH, by 
+letter on March 12, 2002.  Firm initiated recall is complete.
+REASON
+Blood product, collected from an unsuitable donor based on travel to an 
+area considered endemic for malaria, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+OH.
+_______________________
+PRODUCT
+a) Red Blood Cells, Recall # B-1293-2;
+b) Red Blood Cells, Leukocytes Reduced, Recall # B-1294-2;
+c) Platelets, Recall # B-1295-2.
+CODE
+a) Unit number L92079;
+b) and c) Unit number L93445.
+RECALLING FIRM/MANUFACTURER
+South Bend Medical Foundation, Inc., Central Blood Bank, South Bend, IN, 
+by telephone on November 30, 2001.  Firm initiated recall is complete.
+REASON
+Blood products, collected from an unsuitable donor based on travel to an 
+area considered endemic for malaria, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+3 units.
+DISTRIBUTION
+IN and OH.
+_______________________
+PRODUCT
+Source Plasma, Recall # B-1296-2.
+CODE
+Unit number G-12465-139.
+RECALLING FIRM/MANUFACTURER
+Alpha Therapeutic Corp., City of Industry, CA, by fax on March 27, 2001.  
+Firm initiated recall is complete.
+REASON
+Source Plasma, that tested negative for human immunodeficiency virus 
+(HIV), but was not properly quarantined after the donor subsequently 
+tested reactive for HIV, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+Spain.
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS III
+_______________________
+PRODUCT
+PRODUCT: VAQTA? (Hepatitis A Vaccine, Inactivated). The 
+product is 50U/1 ml of Hepatitis A virus protein in a 1 ml single dose 
+pre-filled syringe and 25U/0.5 ml Hepatitis A virus protein in a 0.5 ml 
+single dose pre-filled syringe.  The product is an Rx intramuscular 
+injection. The product is given to pediatric and adult patients. The 
+product is shipped as one single dose pre-filled syringe or as a package 
+of 5 single dose pre-filled syringes. The NDC numbers are 0006-4844-00, 
+0006-4844-38, 0006-4845-00 and 0006-4845-38. The NDC numbers 0006-4845-00 
+and 0006-4845-38 are the pediatric dose of the product. Recall # B-0953-
+2.
+CODE
+  CODE/LOT NUMBER: The following lot numbers are for 
+domestically distributed product: 0460L exp. 10/30/03, 0031L exp. 
+11/5/03, 0031LSA1 exp. 11/5/03, 0525L exp. 2/18/04, 0030L exp. 10/29/03, 
+0523L exp. 2/15/04, 0507L exp. 2/17/04, 0524L exp. 2/18/04, 0115K exp. 
+2/17/02, 0952J exp. 4/13/02, 0430L exp. 8/25/03, 1628K exp.8/25/03, 1761H 
+exp. 11/2/01, 1937H exp. 11/16/01, 0159J exp. 12/8/01, 0158J exp. 
+1/11/02, 0580J exp. 2/19/02, 0746J exp. 3/4/02, 0745J exp. 3/10/02, 1407J 
+exp. 3/10/02, 1915J exp. 4/13/02, 1751J exp. 5/16/02, 0117K exp. 5/17/02, 
+1750J exp. 5/18/02, 1871J exp. 10/18/02, 1802J exp. 10/24/02, 1802JSA2 
+exp. 10/24/02, 0118K exp. 12/22/02, 0309K exp. 12/22/02, 0330K exp. 
+12/22/02, 0547K exp. 12/23/02, 0680K exp. 2/9/03, 0548K exp. 2/10/03, 
+0692K exp. 3/29/03, 0852K exp. 4/2/03, 1200K exp. 5/31/03, 0714L exp. 
+6/2/03, 1178K exp. 6/3/03, 0715L exp. 9/20/03, and 0716L exp. 9/20/03.
+ 
+The following lot numbers are for product distributed in Argentina: 
+HJ44810 exp. 11/27/01, HK13130 exp. 3/6/02, HK29780 exp. 3/7/02, and 
+HN57890 exp. 8/25/03. 
+ 
+The following lot numbers are for product distributed in Australia: 
+HO03650 exp. 2/11/04, HK29760 exp. 3/7/02, HK70250 exp. 3/7/02, HL24960 
+exp. 4/4/02, HM17150 exp. 4/5/03, HN51410 exp. 6/6/03, HP22860 exp. 
+6/6/03, and HP25050 exp. 9/22/03.
+ 
+The following lot numbers are for product distributed in Austria: HM19500 
+exp. 3/30/03, HJ68260 exp. 11/15/01, HK61240 exp. 10/18/01, and HM19510 
+exp. 3/24/03.
+ 
+The following lot numbers are for product distributed in Belgium: HK41340 
+exp. 10/18/01 and HN13910 exp. 4/11/03. The following lot numbers are for 
+product distributed in The Netherlands: HL12470 exp. 12/10/01 and HN77640 
+exp. 11/6/03. The following lot numbers are for product distributed in 
+Sweden: HK01770 exp. 11/14/01, HL34180 exp. 11/30/01, HL68810 exp. 
+11/30/01, HM19450 exp. 3/27/03, HM22740 exp. 3/27/03, HM58070 exp. 
+3/28/03, HM58080 exp. 4/11/03, HM72420 exp. 4/12/03, HN17560 exp. 
+4/12/03, HN43410 exp. 4/13/03, HN43500 exp. 6/5/03, HN53720 exp. 6/4/03, 
+HJ76050 exp. 11/15/01, HK29570 exp. 11/15/01, HK47750 exp. 10/18/01, 
+HL18160 exp. 12/10/01, HL34190 exp. 12/10/01, HL83100 exp. 6/21/02, 
+HM43330 exp. 3/24/03, HM54870 exp. 3/24/03, HN19970 exp. 6/16/03, and 
+HN40620 exp. 9/27/03.
+ 
+The following lot numbers are for product distributed in Brazil: HP16260 
+exp. 2/11/04, HJ55840 exp. 5/27/01, HJ67760 exp. 5/27/01, HJ74420 exp. 
+5/27/01, HK08400 exp. 7/11/01, HK20060 exp. 3/6/02, HK29770 exp. 3/7/02, 
+HK61200 exp. 3/7/02, HL31990 exp. 4/4/02, HL61380 exp. 5/17/02, HL76400 
+exp. 5/17/02, HM20403 exp. 4/5/03, HM73360 exp. 3/30/03, HN23900 exp. 
+8/25/03, and HN23910 exp. 6/6/03.
+ 
+The following lot numbers are for product distributed in France: HK26150 
+exp. 11/15/01, HL22150 exp. 12/10/01, HM52940 exp. 3/24/03, HN19950 exp. 
+6/16/03, and ABJ2724 exp. 11/30/01.
+ 
+The following lot numbers are for product distributed in Germany: HL24970 
+exp. 10/31/01, HL24990 exp. 10/31/01, HJ44390 exp. 10/31/01, HK29580 exp. 
+10/31/01, HK76810 exp. 9/30/01, HL42130 exp. 10/31/02, HL42140 exp. 
+10/31/02, HL42150 exp. 10/31/02, HM19530 exp. 3/31/03, HM19540 exp. 
+3/31/03, HN73950 exp. 9/30/03, HN73960 exp. 10/31/03, HL42160 exp. 
+10/31/02, and HM72630 exp. 3/31/03.
+ 
+The following lot numbers are for product distributed in Greece: HL32430 
+exp. 11/30/01, HM14080 exp. 3/27/03, HM22750 exp. 3/28/03, HM59210 exp. 
+4/11/03, HM67760 exp. 4/11/03, HN09180 exp. 4/12/03, HN37070 exp. 
+4/13/03, HP03750 exp. 2/13/04, HL32440 exp. 12/10/01, HL83110 exp. 
+6/21/02, HM19490 exp. 3/24/03, HM53390 exp. 3/24/03, HN37030 exp. 
+9/27/03, HN43400 exp. 9/27/03, and HN57920 exp. 11/6/03.
+ 
+The following lot numbers are for product distributed in Hong Kong: 
+HP03660 exp. 2/11/04, HN19780 exp. 3/30/03, HN45820 exp. 6/6/03, HP01850 
+exp. 8/25/03, and HP25070 exp. 9/22/03.
+ 
+The following lot numbers are for product distributed in Hungary: HJ 
+50690 exp. 11/27/00 and HL31980 exp. 3/7/02. 
+ 
+The following lot numbers are for product distributed in Ireland: HK33040 
+exp. 11/29/01, HN43390 exp. 6/5/03, HN57900 exp. 6/4/03, HL61730 exp. 
+12/10/01, and HM42970 exp. 3/24/03.
+ 
+The following lot number is for product distributed in Israel: HM26650 
+exp. 4/5/03.  
+ 
+The following lot numbers are for product distributed in Italy: HK01750 
+exp. 11/14/01, HK15960 exp. 11/14/01, HK15970 exp. 11/14/01, HL22170 exp. 
+11/14/01, HM14090 exp. 3/27/03, HM14100 exp. 3/27/03, HM 22720 exp. 
+3/28/03, HM38680 exp. 3/28/03, HM65020 exp. 4/12/03, HN08180 exp. 
+4/12/03, HN09170 exp. 4/11/03, HN58030 exp.6/4/03, HJ76030 exp. 11/15/01, 
+HJ76040 exp.  11/15/01, HK15950 exp. 11/15/01, HK38290 exp. 11/15/01, 
+HK38300 exp. 11/15/01, HK38310 exp. 10/18/01, HM19520 exp. 6/21/02, 
+HN18130 exp. 6/16/03, HN19960 exp. 6/16/03, HN27850 exp. 6/16/03, HN37040 
+exp. 9/27/03, HN40610 exp. 9/27/03, HN57910 exp. 11/6/03, and HN73980 
+exp. 11/6/03.
+ 
+The following lot numbers are for product distributed in Malaysia: 
+HM17180 exp. 4/5/03, HM69030 exp. 4/5/03, HN17570 exp. 3/30/03, HN43620 
+exp. 3/30/03, HN55570 exp. 8/25/03, and HP01880 exp. 8/25/03.
+ 
+The following lot numbers are for product distributed in New Zealand: 
+HP03670 exp. 2/11/04, HP28870 exp. 2/11/04, HL61740 exp. 4/4/02, HL83060 
+exp. 4/4/02, HM17140 exp. 4/5/03, and HN23880 exp. 6/6/03.
+ 
+The following lot numbers are for product distributed in Norway: HN17550 
+exp. 4/13/03, HN27640 exp. 4/13/02, and HN37020 exp. 9/27/03.
+ 
+The following lot numbers are for product distributed in Philippines: 
+HK06250 exp. 1/11/02, HK18050 exp. 3/6/02, HK47650 exp. 3/7/02, HK53830 
+exp. 3/7/02, HK70260 exp. 3/7/02, HL15790 exp. 3/7/02, HL42110 exp. 
+4/4/02, HL48430 exp. 4/4/02, HL63780 exp. 5/17/02, HL76650 exp. 5/17/02, 
+HM17160 exp. 4/5/03, HM38700 exp. 4/5/03, HM73380 exp. 3/30/03, HN69450 
+exp. 8/25/03, and HP25060 exp. 9/22/03.
+ 
+The following lot number is for product distributed in Poland: HK16650 
+exp. 3/6/02. 
+ 
+The following lot number is for product distributed in Saudi Arabia: 
+HL24960 exp. 4/4/02.
+ 
+The following lot numbers are for product distributed in Singapore: 
+HP03640 exp. 2/11/0, HK13160 exp. 3/6/02, HK47640 exp. 3/7/02, HL38670 
+exp. 4/4/02, HL76390 exp. 5/17/02, HM17190 exp. 4/5/03, HM38870 exp. 
+4/5/03, HN45840 exp. 6/6/03, and HP01860 8/25/03.
+ 
+The following lot numbers are for product distributed in Spain: HK29560 
+exp. 11/14/01, HK33030 exp. 11/29/01, HK47780 exp. 11/14/01, HK61230 exp. 
+11/14/01, HN15580 exp. 4/12/03, HN53700 exp. 6/4/03, HL83120 exp. 
+6/21/02, HL83130 exp. 6/21/02, HM59330 exp. 3/24/03, HN18140 exp. 
+6/16/03, HN40630 exp. 9/27/03, and HN73970 exp. 11/6/03.
+ 
+The following lot numbers are for product distributed in Switzerland: 
+HM19470 exp. 3/26/03 and HM19480 exp. 6/20/03. 
+ 
+The following lot numbers are for product distributed in Turkey: HK53830 
+exp. 3/7/02, HL12450 exp. 3/7/02, HL61750 exp. 3/7/02, HM17170 exp. 
+4/5/03, HM38660 exp. 4/5/03, HN18110 exp. 4/5/03, HN40580 exp. 6/6/03, 
+and HN77650 exp. 8/25/03.
+ 
+The following lot numbers are for product distributed in United Kingdom: 
+HL22180 exp. 11/29/01, HL63770 exp. 11/30/01, HM45770 exp. 4/11/03, 
+HM72410 exp. 4/12/03, HN17540 exp. 4/13/03, HN37060 exp. 6/5/03, HP03740 
+exp. 2/13/04, HK13110 exp. 11/15/01, HK13120 exp. 11/15/01, HK33050 exp. 
+11/15/01, HK61260 exp. 10/18/01, HL09640 exp. 12/10/01, HL48420 exp. 
+12/10/01, HM19460 exp. 3/24/03, HM22730 exp. 3/24/03, HM43320 exp. 
+3/24/03, HN18120 exp. 6/16/03, HN37050 exp. 9/27/03, HN43510 exp. 
+9/27/03, and HN55760 exp. 11/6/03.
+RECALLING FIRM/MANUFACTURER
+Merck Manufacturing Division, Division of Merck and Co., Inc., West 
+Point, PA, by letters on December 10, 2001, December 12, 2001 and 
+December 20, 2001.  Firm initiated recall is ongoing.
+REASON
+Hepatitis A vaccines may have antigen levels that are below product 
+specifications.
+VOLUME OF PRODUCT IN COMMERCE
+1,245,109.
+DISTRIBUTION
+Nationwide and Internationally.
+_______________________
+PRODUCT
+Source Plasma, Recall # B-1205-2.
+CODE
+Unit number G-32135-181.
+RECALLING FIRM/MANUFACTURER
+Pyramid Biological Corp., Colton, CA, by letter on May 15, 2001.
+Firm initiated recall is complete.
+REASON
+Blood product, that tested negative for viral markers, but was collected 
+from a donor whose health history was inadequately determined, was 
+distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+CA.
+_______________________
+PRODUCT
+Checkcell? Reagent Red Blood Cells (5 lots), Recall # B-1287-2.
+CODE
+Lot numbers 09036, 09037, 09093, 09093A, and 10051.
+RECALLING FIRM/MANUFACTURER
+Immucor, Inc., Norcross, GA, by letter dated February 28, 2002.
+Firm initiated recall is complete.
+REASON
+Reagent red blood cells were distributed that may have been contaminated 
+with microorganisms.
+VOLUME OF PRODUCT IN COMMERCE
+5 lots.
+DISTRIBUTION
+Europe.
+
+	RECALLS AND FIELD CORRECTIONS: DEVICES -- CLASS II
+_______________________
+PRODUCT
+Invacare Reliant Scales, Models RSC600 and RSC600E. 
+Recall # Z-1032-2/Z-1033-2.
+CODE
+Serial Numbers 98A through 01L.
+RECALLING FIRM/MANUFACTURER
+Invacare Corp., Elyria, OH, by certified mail on April 9, 2002.
+Firm initiated recall is ongoing.
+REASON
+The bolts that hold the scale to the lift may break and cause patient 
+injury.
+VOLUME OF PRODUCT IN COMMERCE
+2,104.
+DISTRIBUTION
+Nationwide, England and Isreal.
+
+END OF ENFORCEMENT REPORT FOR MAY 22, 2002
+
+####
+
+
+
+
+
+FDA News Page   |   FDA Home Page 
+                                                          
+  
+
+Office of Public Affairs
+  Hypertext uploaded by clb 2002-MAY-22. 
+  Updated 2002-MAY-23.

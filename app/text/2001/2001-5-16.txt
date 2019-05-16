@@ -1,0 +1,1089 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Nov
+		  AUG
+		  Mar
+		
+		
+		
+		  
+		  04
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      36 captures
+	      23 May 2001 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dm
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA 
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration, Department of Health and Human Services. 
+It contains information on actions  taken in connection with agency
+Regulatory activities.
+
+
+
+May 16, 2001                                              01-19
+
+
+
+
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS II
+________
+PRODUCT:
+Duck Sauce in single serve packets, 1 gallon jugs and 5 gallon pails. 
+Recall #F-411-1.
+CODE:
+No codes.
+MANUFACTURER:
+Jadine Food Products Inc., Ridgewood, NY. 
+RECALLED BY:
+Manufacturer, by letter, dated 4/24/01.  Firm-initiated recall ongoing. 
+DISTRIBUTION:
+NY and NJ.
+QUANTITY:
+470 cases (500 packets per case) of the single-serve packets, 10 cases (4 
+- 1 gal jugs per case) of the 1 gallon jugs, and 316 - 5 gallon pails 
+were distributed since 3/16/01. 
+REASON:
+The product contains undeclared FD&C; Yellow No. 6 and FD&C; Red No. 40. 
+________
+PRODUCT:
+a) Enchilada White Maseca Tortilla Item #99 - 12 packages per case/100 ct 
+per package, approx. 40 lbs per case total.  Product is placed in plastic 
+packaging (100 ct per package), and a total of 12 packages containing 100 
+tortillas are placed in a cardboard shipping case to total 40 lbs per 
+case.  No lot number, or expiration date. Product identification #99. 
+Sold to restaurants only.  Recall #F-412-1.
+b)  Maseca Corn Chips - Approximately 35 lbs.  Product is placed in a 
+plastic-lined cardboard shipping box. No lot number, or expiration date.  
+Product identification #89.  Sold to restaurants only.  Recall #F-413-1.
+CODE:
+No lot number or expiration date used on this product.  All manufacturing 
+dates would be affected.
+MANUFACTURER:
+La Hacienda Tortilleria, Inc., Nashville, TN. 
+RECALLED BY:
+Manufacturer, via telephone on 04/04/01.  Firm-initiated recall 
+completed.
+DISTRIBUTION: 
+TN, AL, KY, IN and AR.
+QUANTITY: 
+877 cases of Tortillas and 926 cases of Corn Chips. 
+REASON:
+The products contained undeclared FD&C; Yellow No. 5, FD&C; Yellow No. 6, 
+and FD&C; Red No. 40. 
+
+RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS II
+________
+PRODUCT:
+Goldline brand of Genaton Antacid 12 fl. oz. Bottle.  Recall #D-198-1. 
+CODE:
+Lot #s: 01011 and 01012.
+MANUFACTURER:
+RIJ Pharmaceutical Corp. Middletown, NY. 
+RECALLED BY:
+Manufacturer, by letter dated 3/26/01.  Firm-initiated recall  ongoing..
+DISTRIBUTION:
+Nationwide.
+QUANTITY:
+12,899 bottles.
+REASON:
+Product odor and discoloration.
+________
+PRODUCT:
+Children's Mylanta Upset Stomach Relief (Calcium Carbonate Antacid), 5 oz 
+liquid bottles.  The product is shipped 12 bottles per shipper.  Recall 
+#D-201-1.
+CODE:
+DCF 033 exp. 2/02, DCF 060 exp. 3/02, DEF 044 exp. 4/02, DEF 134 exp. 
+4/02, DEF 047 exp. 5/02, DHF 023 exp. 6/02, DJF 066 exp. 7/02, DJF 118 
+exp. 7/02, DJF 123 exp. 7/02, DPF 042 exp. 10/02, DSF 032 exp. 11/02, EAF 
+011 exp. 12/02, EBF 049 exp. 1/03 and EBF 071 exp. 1/03.
+MANUFACTURER:
+Johnson & Johnson Merck Consumer Pharmaceuticals Company, Fort 
+Washington, PA. 
+RECALLED BY:
+Manfacturer, by letter dated 4/23/00.  Firm-initiated recall ongoing. 
+DISTRIBUTION:
+Nationwide and PR. Firm-initiated recall ongoing.
+QUANTITY:
+770,000 bottles.
+REASON:
+Failure to perfrom icrobiological testing as per USP antimicrobial 
+effectiveness test method.
+________
+PRODUCT:
+Methocarbamol Tablets,USP, 750 mg, 100 count, Rx only.  Recall #D-204-1.
+CODE:
+Lot 73013340, EXP Date 11/2001.
+Skeletal Muscle Relaxant 
+MANUFACTURER:
+Watson Laboratories Corona, CA. 
+RECALLED BY:
+Manufacturer, by telephone on 12/20/2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+TX, MO, MN, MS, OH, FL, NY, NC.
+QUANTITY:
+7065 bottles.
+REASON:
+Product may contain metal fragments.
+________
+PRODUCT:
+a) Oxygen,USP,compressed, in Aluminum Cylinders.  Recall #D-207-1. 
+b) Nitrogen,NF, compressed, steel tanks sizes H and E.  Recall #D-208-1.
+CODE:
+a) Aluminum Oxygen Tank lot numbers: 0990J001-04, 0992J006-04, 0993J007-
+02, 0993J007-04, 0994J011-01, 0994J013-01, -02, -03, 0994J014-01, -03, 
+0995J015-01, -03, 0995J019-05, -08, 0995J020-03, 04, -05, 0997J021-03, 
+0997022-01, -02, -03, -04, 0997J025-05, -06, 0997J026-03, -04, 0997J027-
+02, -06, -07, 0998J029-02, -03, 0998J028-02, -03, -04, 0990K002-01, -
+02, 0992K003-02, -03, 0993K003-01, 0993K005-02, -03, 0993K005-01, -08, 
+0997K012-02, 0998K016-03, 0998K016-06, 0999K017-01, -02, 0999K018-01, 
+0999K019-03, -05, 0990K020-
+01, -02, 0992K023-01, 0992H906-07, 0992H909-01, 0994H909-03, 0994H910-01, 
+-02, -04, 09995H911-02, -03, 0997H917-01, -02, -03, 0997H918-03, 
+0997H919-01, -02, -03, 0997H920-01, -02, -03, 0998H923-04, 0998H923-01, -
+02, -03, 0998H924-01,0999H925-01, -02, -03, 0999H925-05, 0999H927-04, 
+0999H926-01, -03, 0999H927-01, -02, -03, 09910H930-05, -08, -09, -10, 
+09910931-01, -02, -03, 09910J931-05, -05, -06.
+b) Steel Tank Nitrogen NF lot numbers: 0990K002-01, 0990K002-02, 
+0990K003-01, 0991K006-01, 0991K006-02, 0991K006-03, 0991K006-04, 
+0991K009-01, 0991K009-02, 0991K012-01, 0993K013-01, 0993K013-02, 
+0993K013-03, 0993K016-01, 0993K018-01, 0993K018-02, 0993K019-01, 
+0994K020-01, 0994K020-02, 0994K023-01, 0994K023-02, 0995K026-01, 
+0996K030-01, 0996K030-02.
+MANUFACTURER:
+Holox, Ltd., Norcross, GA. 
+RECALLED BY:
+Manufacturer, by letter on 11/2/00.  Firm-initiated recall complete. 
+DISTRIBUTION:
+FL and GA.
+QUANTITY:
+97 Oxygen cylinders and 24 Nitrogen NF cyclinders.
+REASON: 
+a) Oxygen cylinders may be overfilled.
+b) Nitrogen cylinders for possible C02 contamination.
+________
+PRODUCT:
+Trimox 250 mg/5 mL - 150 mL (Amoxicillin for Oral Suspension, USP), NDC 
+0003-1738-45, HDPE bottle (200 mL) with child resistance cap. Rx only. 
+ANDA-61-886.  Recall #D-210-1.
+CODE:
+OC31128, OC31131, OC31133, OD23895, OD23899, OD23901, 
+OD23903, OD23914, OD23919, OD23925, OD23930, OD23943, 
+OD23945, OD23948, OD23950, OD23951, OD23952, OD23954, 
+OD23955, OD23959, OD23967, OD23968, OD23969, OD23971, 
+OD23983, OD23986, OD27582, OD27587, OD27592, OD27602, 
+OD27607, OD27619, OD27626, OD27723, OD27727, OD27750
+Exp. Date for all lots is October 2002
+MANUFACTURER:
+Apothecon, A Bristol-Myers Squibb Company, Plainsboro, NJ. 
+RECALLED BY:
+Manufacturer, by letters dated 4/5/01.  Firm-initiated recall  ongoing.
+DISTRIBUTION:
+Nationwide.
+QUANTITY:
+831, 267 bottles.
+REASON: 
+Microbial contamination (mold).
+
+RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS III
+________
+PRODUCT:
+Finast Acne Wash, Acne Treatment with Salicylic Acid, containing 23.0% 
+salicylic acid, packaged in 6-fl. Oz.containers, 12 per case, OTC.  
+Recall #D-202-1.
+CODE:
+Lot 0H01B, Exp.08/02.
+MANUFACTURER:
+Qualis, Inc. Des Moines, IA.
+RECALLED BY:
+Manufacturer, by telephone on 4/6/01 and followed up with f
+letter.  Firm-initiated recall ongoing. 
+DISTRIBUTION:
+New York.
+QUANTITY:
+2,592 contianers.
+REASON:
+Component defect:  Stainless steel sping within pump assembly is 
+discoloring.
+________
+PRODUCT:
+FRESH-N-CLEAN Hand Washing and Sanitizing Compound, packaged in one (1) 
+gallon containers, 4 containers per case.  The active ingredient is: 
+Didecyldimethylammonium Chloride (trade name: BARDAC 2250).  Recall #D-
+203-1.
+CODE:
+Case codes: 050697, 090397, 082698, 0824991, and 1116991.
+MANUFACTURER:
+Steiner Company, Inc. Holland, OH.
+RECALLED BY:
+Manufacturer, on 4/10/2001, by faxed and letter.  Firm-initiated  recall 
+ongoing.
+DISTRIBUTION:
+Ohio.
+QUANTITY:
+768 cases.
+REASON: 
+The product contains C.I. Acid Blue #80; C.I. 61585 (trade name: Sandolin 
+Milling Blue N-BLA Powder 150), which is an unapproved dye. 
+________
+PRODUCT:
+ANTI-MICROBIAL HAND SOAP, packed in 800 ml bags (inside a box), for use 
+in the �Bag-In-Box� dispensers, 12 per case.  This is an OTC drug 
+product; the active ingredient is parachlorometaxylenol (PCMX).  Recall 
+#D-199-1.
+CODE:
+C022161, C021371, C040371, C050571, C062672, C071971, C112271, C011381, 
+C041381, C071781, C121581, C021691, C030391, C052591, C071391, C072991, 
+C082691, C090891, C110391, C121591, C031401, C040501, C060101, C071001, 
+C091401, and C110801.
+MANUFACTURER:
+Steiner Company, Inc. Holland, OH. 
+RECALLED BY:
+Manufacturer, by facsimile on 4/2/2001.  Firm-initiated recall ongoing. 
+DISTRIBUTION:
+Illinois.
+QUANTITY:
+6,899 cases.
+REASON:
+The product contains C.I. Acid Yellow #36 (trade name: Metanil Yellow), 
+which is an unapproved dye. 
+________
+PRODUCT:
+a) Crinone 4%,(progesterone gel) [6/PACK] NDC 44087-0804-6.  Recall#D-
+205-1. 
+b) Crinone 8% (Progesterone gel) NDC 44087-0818-8 [18/Pack] NDC 44087-
+0808-6 [6/Pack].  Recall #D-206-1. 
+CODES:
+a) Lot Number: C0118, Expiration 10/2002;
+b) Lot Numbers: 	C00103  Expiration 02/2002
+             		C00104             	03/2002
+             		C00107             	04/2002
+             		C00109             	06/2002
+             		C00113             	08/2002
+             		C00114             	08/2002
+             		C00115             	09/2002
+             		C00116             	09/2002
+             		C00119             	10/2002
+             		C00122             	11/2003
+Distributed by Serono Laboratories Randolph, MA. 
+NDA 20-701;  NDA 20-756 
+MANUFACTURER:
+SERONO Inc., Norwell, MA. 
+RECALLED BY:
+COLUMBIA RESEARCH LABORATORIES, INC. NY. Serono Inc., Norwell, MA by 
+letter on 4/5/01.  Firm-initiated recall ongoing.
+DISTRIBUTION:
+Nationwide.
+QUANTITY:
+4%=10,622 units 6%=107,674.
+REASON: 
+Failure to meet the specifications for viscosity.
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS II 
+________
+PRODUCT:
+Human Cornea Tissue.  Recall #B-1089-1.
+CODE: 
+Tissue #0021-01-01 and #0021-01-02.
+MANUFACTURER: 
+Lions Medical Eye Bank and Research Center of Eastern Virginia.
+RECALLED BY:
+Manufacturer, by letter dated January 25, 2001.  Firm-initiated recall complete.
+DISTRIBUTION:
+Virginia.
+QUANTITY:
+Two units.
+REASON: 
+Human cornea, collected from a donor who subsequently tested positive for 
+antibody to the Hepatitis B core antigen (Anti-HBc) by another tissue 
+procurement organization, were distributed.
+________
+PRODUCT: 
+a) Red Blood Cells, Leukocyte Reduced. 	Recall#B-1148-1;
+b) Cryoprecipitate.   			Recall #B-1149-1.
+CODE:
+a) and b) Unit  FJ51594.
+MANUFACTURER:
+Rhode Island Blood Center, Providence, Rhode Island.
+RECALLED BY:
+Manufacturer, by telephone on October 13, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+R.I.
+QUANTITY:
+Two Units.
+REASON: 
+Blood products, collected from a donor whose hemoglobin/hematocrit was 
+not documented, were distributed.
+________
+PRODUCT: 
+Red Blood Cells.  Recall #B-1152-1.
+CODE:
+Unit  01GH39702.
+MANUFACTURER: 
+American Red Cross Blood Services, Albany, NY.
+RECALLED BY:
+American Red Cross Blood Services West Henrietta, NY,  by letter dated 
+June 21, 2000.  Firm-initiated recall complete.
+DISTRIBUTION:
+PA.
+QUANTITY:
+One unit.
+REASON: 
+Blood product, collected from an ineligible donor based on travel to an 
+area considered endemic for malaria, was distributed.
+___________
+PRODUCT: 
+Red Blood Cells, Leukocytes Removed. Recall #B-1153-1.
+CODE:
+Unit 04KM96907.
+MANUFACTURER:
+American Red Cross Dedham, MA..
+RECALLED BY:
+Manufacturer, by letter dated December 19, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+Vermont.
+QUANTITY:
+One unit.
+REASON: 
+Blood product, collected from an unsuitable donor based on previously 
+living in an area considered endemic for malaria, was distributed.
+________
+PRODUCT:
+a)  Red Blood Cells. Recall #B-1154-1.
+b) Red Blood Cells, Leukoreduced. Recall #B-1155-1.
+CODE:
+a) Unit 18220-9002, 18221-6127.
+b) Unit 18221-9329.
+MANUFACTURER:
+United Blood Services Cheyenne, WY.
+RECALLED BY:
+Blood Systems, Inc. Scottsdale, AZ , by letter dated June 21, 2000.  
+Firm-initiated recall complete.
+DISTRIBUTION:
+AZ, NC, WY.
+QUANTITY: 
+Two units.
+REASON: 
+Blood products, collected from an ineligible donor based on travel to an 
+area considered endemic for malaria, were distributed.
+________
+PRODUCT:
+a)  Red Blood Cells, Leukocytes Reduced. Recall #B-1157-1; 
+b)  Red Blood Cells, Leukocytes Reduced, Irradiated.  Recall # B-1158-1.
+CODE:
+a)  Unit numbers 3781081, 3781082, 3781083, 3781084, 3781088, 3781089, 
+3781092, 3781093, 3781094, 3781095, 3781096, 3781097, 3781098, 3781099, 
+3781100, 3781101, 3781102, 3781103, 3781104, 3781106, 3781107, 3781108, 
+3781109, 3781110, 3807042, 3807043, 3807045, 3807046, 3807047, 3807048, 
+3807049, and 3807050; 
+b)  Unit number 3807044.
+MANUFACTURER:
+Gulf Coast Regional Blood Center Houston, TX.
+RECALLED BY:
+Manufacturer, by letter dated February 11, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+TX, FL, NJ.
+QUANTITY:
+Units 33.
+REASON: Blood products, manufactured from units of Whole 
+Blood that were stored at improper temperatures, were distributed.
+________
+PRODUCT:
+Red Blood Cells. Recall #B-1159-1.
+CODE: 
+1729246.
+MANUFACTURER:
+South Texas Blood and Tissue Center San Antonio, Texas.
+RECALLED BY:
+Manufacturer, by letter dated August 30, 2000.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+TX.
+QUANTITY:
+One unit.
+REASON: 
+Blood product, manufactured from an overweight Whole Blood unit, was 
+distributed.
+________
+PRODUCT:
+a) Red Blood Cells, Leukocytes Reduced.  Recall #B-1162-1.
+b) Platelets.  Recall #B-1163-1.
+CODE:
+(a&b;) Unit number 3004279.
+MANUFACTURER:
+Oklahoma Blood Institute,Oklahoma City, OK.
+RECALLED BY:
+Manufacturer, by letter on February 18, 1997.  Firm-initiated recall 
+complete.
+DISTRIBUTION:
+TX.
+QUANTITY:
+Two units.
+REASON: 
+Blood products, that tested negative for antibody to hepatitis C virus 
+(anti-HCV), but were collected from a donor that previously tested 
+repeatedly reactive for anti-HCV, were distributed.
+________
+PRODUCT:
+a)  Red Blood Cells.  Recall #B-1165-1;
+b)  Fresh Frozen Plasma.  Recall #B-1166-1;
+CODES:
+a) and b) Unit number 3855568.
+MANUFACTURER:
+Gulf Coast Regional Blood Center Houston, TX.
+RECALLED BY:
+Manufacturer, notified the consignee by letter dated June 13, 2000. Firm-
+initiated recall complete.
+DISTRIBUTION:
+Texas.
+QUANTITY:
+Two units.
+REASON: 
+Blood products, collected from a donor that did not answer one of the 
+medical history questions concerning behavior known to increase risk of 
+infection with the human immunodeficiency virus (HIV), were distributed.
+________
+PRODUCT:
+Red Blood Cells. Recall #B-1167-1. 
+CODE: 
+Unit # 3003299.
+MANUFACTURER:
+Oklahoma Blood Institute Oklahoma City, OK.
+RECALLED BY:
+Manufacturer, by letter on September 25, 1996. Firm-initiated recall 
+complete.
+DISTRIBUTION:
+TX.
+QUANTITY:
+One unit.
+REASON: 
+Blood product collected from an ineligible donor was distributed.
+________
+PRODUCT:
+a)Red Blood Cells.  Recall #B-1168-1;
+b) Platelets.  Recall #B-1169-1;
+c) Platelets Pheresis.  Recall #B-1170-1.
+CODE:
+a) Red Blood Cells (37 units), unit numbers 7438532, 7511419, 7537421, 
+7537428, 7563839, 7574722, 7583864, 7583873, 7730980, 7730983, 7732282, 
+7732305, 7732310, 7733285, 7733291, 7733310, 7733741, 7733766, 7733794, 
+7733812, 7735151, 7735153, 7735157, 7735200, 7735248, 7735535, 7735679, 
+7735682, 7735683, 7736147, 7736154, 7736163, 7736188, 7736194, 7736547, 
+7736557, and 7854970;
+b) Platelets (17 units),  unit numbers 7729652, 7730606, 7730980, 
+7730983, 7731608, 7733241, 7733276, 7733291, 7733794, 7735153, 7735157, 
+7735204, 7735684, 7736163, 7736177, 7736466, and 7736557;
+c) Platelets Pheresis (5 units), unit numbers 7466599, 7466604, 
+7466606(split unit), and 7466618.
+MANUFACTURER:
+Carter BloodCare, Bedford, TX.
+RECALLED BY:
+Manufacturer, by letter dated August 7, 2000. Firm-initiated recall 
+complete.
+DISTRIBUTION:
+Texas.
+QUANTITY:
+59 units.
+REASON: 
+Blood products, that tested positive for Cytomegalovirus (CMV), but were 
+labeled negative for CMV, were distributed.
+________
+PRODUCT:
+Cattle Epithelia Bos taurus, Allergenic Extract.  Recall #B-1171-1.
+CODE:
+Lot A005192A.
+MANUFACTURER:
+Allergy Laboratories of Ohio, Inc. Columbus, OH.
+RECALLED BY:
+Manufacturer, by letters dated February 12 and 14, 2001.  Firm-initiated 
+recall complete.
+DISTRIBUTION:
+PA and NY.
+QUANTITY:
+One unit.
+REASON: 
+Allergenic extract, which was labeled with an incorrect product and 
+scientific name, was distributed.
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS III 
+________
+PRODUCT:
+Fresh Frozen Plasma. Recall #B-1071-1.
+CODES:
+Unit 54 KM66776.
+MANUFACTURER:
+American National Red Cross, Puerto Rico Region, Rio Piedras, PR.
+RECALLED BY:
+American Red Cross San Juan, PR, by letter dated November 16, 2000. Firm-
+initiated recall complete.
+DISTRIBUTION:
+PR.
+QUANTITY:
+One unit.
+REASON: 
+Blood product, prepared from a donation that had discrepant start and 
+stop collection times documented, was distributed.
+___________
+PRODUCT: 
+Platelets. Recall #B-1101-1.
+CODE: 
+Unit 01W68048.
+MANUFACTURER:
+American Red Cross Blood Services Rochester, NY
+RECALLED BY: 
+Manfacturer, by letter dated April 26, 1999. Firm-initiated recall 
+complete.
+DISTRIBUTION:
+New York.
+QUANTITY:
+One  unit.
+REASON: Blood product, prepared from a donation that had 
+discrepant start and stop collection times documented, was distributed.
+___________
+PRODUCT: 
+Red Blood Cells, Leukocyte Reduced. Recall #B-1147-1.
+CODES:
+Units, 15012-3095 (double collection), 15012-3090.
+MANUFACTURER:
+United Blood Services Lubbock, TX.
+RECALLED BY:
+Blood Systems, Inc., Scottsdale, AZ , by letter dated December 14, 2000.  
+Firm-initiated recall complete.
+DISTRIBUTION:
+Texas.
+QUANTITY:
+One unit.
+REASON: 
+Red Blood Cells, Leukocyte Reduced, that lacked assurance of proper 
+storage temperatures due to inaccurate documentation, were distributed.
+___________
+PRODUCT:
+Red Blood Cells, Irradiated.  Recall #B-1160-1.
+CODE:
+Unit number 9032028.
+MANUFACTURER:
+Medic, Inc. Knoxville, TN.
+RECALLED BY:
+Manufacturer, by telephone on February 16, 1999, and by letter dated 
+February 22, 1999.  Firm-initiated recall complete.
+DISTRIBUTION:
+TN.
+QUANTITY:
+One unit.
+REASON: 
+Blood product, labeled with the incorrect expiration date, was 
+distributed.
+________
+PRODUCT:
+Platelets.   Recall #B-1161-1.
+CODES:
+Unit number 6135341.
+MANUFACTURER:
+Oklahoma Blood Institute Oklahoma City, OK.
+RECALLED BY:
+Manufacturer, by letter on April 21, 1997, and November 3, 1998.  Firm-
+initiated recall complete.
+DISTRIBUTION:
+TX.
+QUANTITY:
+One unit.
+REASON:
+Blood product, prepared more than eight hours after collection of the 
+Whole Blood unit, was distributed.
+________
+PRODUCT:
+Source Plasma. Recall #B-1164-1. 
+CODES:
+Unit number 6030103422.
+MANUFACTURER:
+Nabi Biomedical Center, Corpus Christi, Texas.
+RECALLED BY:
+Manufacturer, by letter on July 8, 1999.  Firm-initiated recall complete.
+DISTRIBUTION:
+Italy..
+QUANTITY:
+One unit.
+REASON: Blood product, collected from a donor who was 
+not asked the medical history questions, was distributed.
+
+RECALLS AND FIELD CORRECTIONS: DEVICES -- CLASS II
+________
+PRODUCT:
+a) Sarns flexible aortic arch cannula 8.00 mm   (24 Fr) OD with 
+3/8�connector. Recall #Z-528-1.
+b) Sarns high flow aortic arch cannula with  suture flange and luer port, 
+6.5 mm (20 Fr)   OD with 3/8� connector. Recall #Z-529-1.
+c) Sarns 6.5 mm aortic arch cannula with 3/8� connector. Recall #Z-530-1.
+d) Sarns 24 Fr flexible arterial cannula 8.5�,  NW-soft, cm markings, 3/8� 
+connector with vented cap and luer port. Recall # Z-531-1.
+e) Sarns 24 Fr wire-reinforced flex aortic arch 3/8� connector with luer 
+port. Recall #Z-532-1.
+CODE:
+a) Catalog No. 4335, Lot Nos. W50743 and 236511;
+b) Catalog No. 15495, Lot Nos. 236148, 238279 and 241991;
+c) Catalog No. 4448, Lot No. W507618;
+d) Catalog No. 144928, Lot Nos. W507538 and 236153;
+e) Catalog No. 14492368, Lot No. W507617.
+MANUFACTURER:
+Terumo Cardiovascular Systems, Inc., Ann Arbor, MI.
+RECALLED BY:
+Manufacturer, by certified mail on March 8, 2001.  Firm-initiated recall 
+ongoing.
+DISTRIBUTION:
+Nationwide and Canada, Germany, Hong Kong, Japan and Saudi Arabia.
+QUANTITY:
+5820.
+REASON:
+A crack in the connector near the joint between the connector and the 
+cannula tube.
+________
+PRODUCT:
+a)  King Systems brand Jackson-Rees Modification Breathing Ciruits.  
+Recall #Z-533-1.
+b)  King Systems brand Mapleson D Breathing Circuit as follows:                          
+Ped F2 Pediatric Anesthesia Breathing Circuit Norman Elbow, individually 
+packed [VETERINARY DEVICE]:  Anesco brand Mapleson C Breathing Circuits. 
+Recall #Z-534-1.
+CODE:
+A.	Ref # 2-60775;  Lots I2CN2, I2EH6, I2I15, I2LL3 and I2NX0
+B.	Ref # 370; lots I27U1, I2H13, I2JS4 and I2NN0
+C.	Ref # 3700; lots I28Z3, I2DM0 and I2JY6
+D.	Ref # 3701; lots I2757, I29U8, I2AV3, I2DV0, I2GG3, I2J64 and I2MB2
+E.	Ref # 3702; lot I2F31
+F.	Ref # 3703-375; lots I28M3, I2CD1, I2G40, I2MB3 and I2MB3
+G.	Ref # 37072-WSLN; lot I2GG4
+H.	Ref # 37237; lot I2JH1
+I.	Ref # 3731-366WS; lots I2BK5, I2DC5, I2F32, I2IF4 and I2MM3
+J.	Ref # 374; lots I2DC6, I2EJ4, I2GT4, I2H61, I2IF5 and I2K79
+K.	Ref # 374Z; lots I2EQ7, I2F33, I2GG6, I2IF6 and I2L94
+L.	Ref # 3741; lots I2758, I2847, I2AV4, I2EJ5, I2HP8, I2IS8, I2K80, 
+I2MX2 and I2DM1
+M.	Ref # 3741-WSNZ; lots I28M4, I2D11 and I2MX3
+N.	Ref # 3742; lots I2A61, I2J65, I2KV3, I2PG7, 128M5 and 12MX4
+O.	Ref # 3743, lots I2IS9 and I2MX5 
+P.	Ref # 3743-321WS; lots I28Z4, I2C03, I2GG5 and I2J66
+Q.	Ref # 3743-6031; lot I2557
+R.	Ref # 3743-WSN; lots I2CD2 and I2G41
+S.	Ref # 3745; lot I2MX6
+T.	Ref # 3771; lots I2D12, I2EJ6, I2GG7, I2KV4, I2N95 and I2DM2
+U.	Ref # 3771-WSN; lots I2558, I26I6, I27I4, I27U2, I2B33, I2CP7, I2E60 
+and I2FV6
+V.	Ref # 3771Z; lot I2HI4
+W.	Ref # 3772;  lot I2MB4
+X.	Ref # 3772-WSN; lots I2559, I26I7, I2B34, I2CP8, I2E61, I2FV7, I2IF7, 
+I2JS5 and I2L95
+Y.	Ref # 3773-WSN; lot I28M6
+Z.	Ref # 3775; lots I2DM3 and I2LN6
+AA.	Ref # 3775-WS; lot I2848 
+AB.	Ref # 6072442P; lots I2FH3 and I2IH4
+AC.	Ref # 60740; lots I29V7, I2AW5, I2CE1, I2EL1, I2GI0, I2JH6, I2LP4 and 
+I2PH0
+AD.	Ref # 60742; lots I26U5, I2906, I29V8, I2AW6, I2GI1, I2MY8 and I2PS0
+AE.	Ref # 60743; lots I28N2, I2AW7, I2DD7, I2F39, I2HF3, I2JH7 and I2MD1
+AF.	Ref # 60771; lots I2649, I2E69 and I2G12
+AG.	Ref # 60772; lots I2IH5 and I2MD2
+AH.	Ref # 60773; lots I2767, I29J5, I2F93, I2JH8, I2LA1 and I2MD3
+AI.	Ref # 61740; lot I2KA0
+AJ.	Ref # 61743; lots I2CQ9, I2EL2 and I2JS9
+AK.	Ref # 61750; lots I26J3, I27J9, I29V9, I2BC0, I2CR0, I2EL3, I2GW6, 
+I2IH6, I2JT0, I2LA3 and I2Q33 
+AL.	Ref # 61772; lots I26U6, I27K0, I2BL1 and I2HF4 
+AM.	Ref # 61773; lots I27K1, I2B42, I2E70, I2FW6, I2HF5, I2JT1 and I2LA4
+AN.	  Ref # FGL3740; lots I2DP6 and I2G91 
+
+II.	King Systems brand Mapleson D breathing circuits, as follows:  
+A.	Ref # 4710-101; lot I2GT5
+B.	Ref # 4740; lots I2B39 and I2JH2 
+C.	Ref # 4741; lots I29E1 and I2CQ3
+D.	Ref # 4760; lot I28M8
+E.	Ref # 4762; lots I28Z9, I2BL0, I2H64 and I2N99
+
+AK.	Ref # 61750; lots I26J3, I27J9, I29V9, I2BC0, I2CR0, I2EL3, I2GW6, 
+I2IH6, I2JT0, I2LA3 and I2Q33 
+AL.	Ref # 61772; lots I26U6, I27K0, I2BL1 and I2HF4 
+AM.	Ref # 61773; lots I27K1, I2B42, I2E70, I2FW6, I2HF5, I2JT1 and I2LA4
+AN.	  Ref # FGL3740; lots I2DP6 and I2G91 
+
+II.	King Systems brand Mapleson D breathing circuits, as follows:  
+A.	Ref # 4710-101; lot I2GT5
+B.	Ref # 4740; lots I2B39 and I2JH2 
+C.	Ref # 4741; lots I29E1 and I2CQ3
+D.	Ref # 4760; lot I28M8
+E.	Ref # 4762; lots I28Z9, I2BL0, I2H64 and I2N99
+III.	Ped F2 Pediatric Anesthesia Breathing Circuit, Ref # F90542; 
+lot I2A06 
+IV.	Norman elbow, individually packaged, Ref # 838-052-100P; lot I28Q1 
+V.	[VETERINARY DEVICE]:  Anesco brand Mapleson C breathing circuits, 
+Ref # A1003; lot I2H29.  ANESCO, P.O. Box 492, Georgetown, Kentucky.
+MANUFACTURER:
+King Systems Corporation, Noblesville, IN.
+RECALLED BY:
+Manufacturer, by certified mail on Janurary 30, 2001.  Firm initiated 
+recall ongoing.
+DISTRIBUTION:
+Nationwide, and Canada, Japan and Mexico.
+QUANTITY:
+21,680.
+REASON:
+There is a possible obstruction of the fresh gas inlet of the elbow.
+________
+PRODUCT:
+Access Rubella IgG Reagent Packs. Recall#Z-535-1.
+CODE:
+Part No. 34430, Lot Number/Serial Number 090240.
+MANUFACTURER:
+Beckman Coulter, Inc., Brea, CA. 
+RECALLED BY:
+Manufacturer, by letter dated December 26, 2000.  Firm initiated recall 
+ongoing.
+DISTRIBUTION:
+Nationwide and Australia, Italy, Mexic, Switzerland, England, France, 
+Germany, Ireland, South Africa, Japan, Hong Kong, Taiwan, Sweden, 
+Netherlands, Germany, Republic of Signapore, Puerto Rico and Spain.
+QUANTITY:
+2024.
+REASON:
+Adulterated in under filled reagent wells may produce false negative or 
+false positive test results.
+________
+PRODUCT:
+Ancure� Endograft� System. Recall#Z-536-1.
+CODE:
+Model Numbers:
+102241712-02, 102241812-02, 102261213-02, 102261313-02
+102261413-02, 102261513-02, 102261613-02, 102261713-02
+102261813-02, 102262113-02, 102262213-02, 102262413-02
+
+204201210-02, 204201310-02, 204201410-02, 204201610-02
+204221211-02, 204221311-02, 204221411-02, 204221511-02
+204221611-02, 204221711-02, 204241212-02, 204241312-02
+204241412-02
+
+204241512-02, 204241612-02, 204241712-02, 204241812-02
+204241912-02, 204261213-02, 204261313-02, 204261413-02
+204261513-02, 204261613-02, 204261713-02, 204261813-02
+204261913-02, 3052209-02, 3052409-02, 3052411-02
+
+13415, 13417, 13422, 13423, 13424, 13425, 13426, 13427
+13428, 13429, 13430, 13431, 13432, 13433, 13434, 13435
+13436, 13437, 13438, 13439, 13440, 13441, 13442, 13443
+13444, 13445, 13454, 13455, 13456, 13462, 13463, 13464
+13465, 13466, 13467, 13470, 13471, 13472, 13473, 13474
+13476, 15331, 16023, 16035, 16036, 16037, 16038, 16043
+16045, 16046
+Date of Manufacture: November 8, 1999 to March 16, 2001.
+MANUFACTURER:
+Guidant Corporation, Endovascular Solutions, Menlo Park, CA   
+RECALLED BY:
+Manufacturer, by Federal Express letter on March 21, 2001.  Firm 
+initiated recall ongoing.
+DISTRIBUTION:
+Worldwide and nationwide.
+QUANTITY:
+1797. 
+REASON:
+Problems experienced during the deployment of the graft and the retrieval 
+of the catheter.
+________
+PRODUCT:
+a)  Upgradable Achieva Ventilator Models:  Achieva Achieva X, Achieva PS, 
+Achieva PSx.  Recall #Z-45-1.
+b)  New Achieva Plus Ventilator Models:  Achieva Achieva PS, Achieva 
+PSO2.  Recall #Z-546-1.
+CODE:
+The new and upgraded Achieva Plus Ventilators have the following part and
+model numbers (The + in the model number indicates Achieva Plus):
+Part Number	Product Model
+Y-102243-00A 	Y-ACHPS02+E
+Y-102243-02A	Y-ACHPS02+F
+Y-102243-03A	Y-ACHPS02+G
+Y-102243-04A	Y-ACHPS02+I
+Y-102243-05A	Y-ACHPS02+J
+Y-102243-06A	Y-ACHPS02+S
+Y-102243-07A	Y-ACHPS02+U
+Y-102243-22A	Y-ACHPS+F
+Y-102243-23A	Y-ACHPS+G
+Y-102243-24A	Y-ACHPS+I
+Y-102243-25A	Y-ACHPS+J
+Y-102243-27A	Y-ACHPS+U
+Y-102243-40A	Y-ACH+E
+Y-102243-42A	Y-ACH+F
+Y-102243-43A	Y-ACH+G
+Y-102243-44A	Y-ACH+I
+Y-102243-45A	Y-ACH+J
+Y-102243-46A	Y-ACH+S
+Y-102243-47A	Y-ACH+U
+Y-102901-00	ASSY, ACH LOGIC+FA BASE
+Y-102903-00	ASSY,ACH.LOG,+FA,PSO2
+Y-REFACHPSO2+E	REFURB ACHIEVA+PSO2 ENG  N.AM
+MANUFACTURER:
+Nellcor Puritan Bennett, Inc.,/Mallinckrodt, Inc.,
+RECALLED BY:
+Manufacturer, by letter dated March 23, 2001 or March 26, 2001.  Firm 
+initiated recall ongoing.
+DISTRIBUTION:
+Nationwide and Canada, Europe, Latin America and Asia.
+QUANTITY:
+437.
+REASON:
+The devices may produce over-pressure conditions to the lungs that could 
+place the patient at risk.
+________
+PRODUCT:
+Custom Gown Pack, Sterile. Recall #Z-553-1
+CODE:
+Pack#120013  Lot: 93079.
+MANUFACTURER:
+Sterile Recoveries, Inc., Long Beach, CA.
+RECALLED BY:
+Manufacturer, by customer service representative visit on April 19, 2001.  
+Firm initiated recall ongoing.
+DISTRIBUTION:
+Los Angeles, CA.
+QUANTITY:
+1 device.
+REASON:
+Device adulterated in that the custom gown pack is possibly non-sterile 
+due to the lack of records showing that the unit received its 
+sterilization cycle.
+________
+PRODUCT:
+2.0 mm Universal Drill Guide.  RecallZ-0547-1.
+CODE:
+Product number 323.201 Lot number 4043697
+MANUFACTURER:
+SYNTHES (USA) PAOLI, PA 
+RECALLED BY:
+Manufacturer, by letters.  Firm-initiated recall ongoing. 
+DISTRIBUTION:
+AZ, CA, GA, MI, NC, NY, OH, PA, TN, and UT.   Switzerland.
+QUANTITY:
+19 units
+REASON:
+The device consists of a 1.5 mm drill guide on one end and a 2.0 mm drill 
+guide on the other end.  The 1.5 mm end has been etched as 2.0 mm and the 
+2.0 mm end has been etched as 1.5 mm.
+________
+PRODUCT:
+MedComp 14F Ash Split Cath Long Term, Duo-Flow 400XL, and Duo-Split 
+Cath Short Term Hemodialysi or Apheresis Catheters.  Recall#Z-549-1.
+CODE:
+Catalog Numbers: ASPC24 (14F x 24 cm Ash Split Cath), ASPC28 (14F x 28cm 
+Ash Split Cath), ASPC28I (14F x 28cm Ash Split w/Introducer), ASPC32 (14F 
+x 32cm Ash Split Cath Set), ASPC32I (14F x 32cm Ash Split w/Introducer), 
+ASPC32MP (14F x 32cm Ash Split w/MP4), ASPC36 (14F x 36 cm Ash Split Cath 
+Set), ASPC55 (14F x 558cm Ash Split Cath), DFXL146CT (14F x 15cm Duo-Flow 
+400XL Cath), DFXL146MTB (14F x 15cm Duo-Flow 400XL Cath), DFXL146IJS (14F 
+x 15cm Duo-Flow 400XL IJ), DFXL148 (14F x 20cm Duo-Flow XL Tray), 
+DFXL148CT (14F x 20cm Duo-Flow 400XL Cath), DXFL148MT (14F x 20cm Duo-
+Flow 400XL Set), DXFL148MTB (14F x 20cm Duo-Flow 400XL Set), DFXL149CT 
+(14F x 24cm Duo-Flow 400XL Cath), DSP128M (12.5F x 20cm Duo-Split), Tray 
+#552 (14F x 28cm Ash Split Cath), Tray #553 (14F x 32 cm Ash Split Cath), 
+and Tray #594 (14F x 36cm Ash Split Cath Set).
+MANUFACTURER:
+Medical Components, Inc. Harleysville, PA.  
+RECALLED BY:
+The manufacturer, by fax on September 22, 2000.  Firm initiated recall is 
+complete.
+DISTRIBUTION:
+The following countries received product Canada and South Korea.  
+The following are government/military accounts: CALM VA in Dallas and 
+Houston, TX; Defense Fin, San Antonio, TX; DFAS, Fort Sam Houston, TX; 
+Fort Atkinson Memorial, Fort Atkinson, WI; VA, Miami, Fl; NNMC, Bethesda, 
+Md; Naval Med Ctr, Portsmouth, VA; Naval Med Ctr, San Diego, CA; and the 
+VA Hospitals in San Juan, PR; Austin, TX; Philadelphia, PA; Cincinnati, 
+OH; Indianapolis, IN; Minneapolis, MN; Asheville, NC; Loma Linda, CA; Los 
+Angeles, CA; San Diego, CA; Long Beach, CA; Salem, VA; Iowa City, IA; St. 
+Louis, MO; Tampa, Fl; Durham, NC; West Haven, CT; and Gainesville, FL.
+QUANTITY:
+5930 units.
+REASON:
+Certain Ash Split Catheters had leaked through the pinch/line clamp 
+immediately following insertion. The recalling firm confirmed that the 
+clamp may not occlude the extensions for the three product lines.
+
+RECALLS AND FIELD CORRECTIONS: DEVICES -- CLASS III
+________
+PRODUCT:
+ADVIA: Centaur Analyzer. Recall #Z-0548-1.
+CODE:
+The following serial numbers are affected: 1638 - 1641; 1644 - 
+1743; 1760 - 2035;  and 2501 - 2584.
+MANUFACTURER:
+BAYER CORP. OBERLIN, OH
+The manufacturer of the defective valve component is: Parker Hannifin 
+Corporation, Fairfield, NJ 07006.
+RECALLED BY:
+Manufacturer mailed a 'Customer Bulletin' on 8/7/2000.  Firm=initiated 
+recall complete.
+DISTRIBUTION:
+Nationwide, including the following U.S. VA Medical centers: Brooklyn, 
+NY; Tucson, AZ; and Alexandrea, LA.  The device was also shipped to the 
+following foreign countries:  S. Africa, Australia, Belgium, Brazil, 
+Canada, Denmark, France, Germany, Hong Kong, India, Ireland, Italy, 
+Japan, Korea, Netherlands, New Zealand, Norway, Portugal, Puerto Rico, 
+Spain, Swedeb, Switzerland, Taiwan, Turkey, and United Kingdom.  
+QUANTITY:
+359 units (192 domestic, 167 foreign).
+REASON:
+A defective 3-way valve, which is used only during the Daily Cleaning 
+Procedure, may cause the hypochlorite cleaning solution to flow into the 
+system water reservoir.  As a result, there is a potential for inaccurate 
+test results. 
+________
+PRODUCT:
+Flexilab Versions 5.23 and 5.3 with callback System 
+Versions 3.0.50.1. Recall#Z-544-1.
+CODE:
+Versions 3.0.50.1.
+MANUFACTURER:
+Sunquest Information Systems, Inc., Tucson, AZ. 
+RECALLED BY:
+Manufacturer, by product safety notice (PSON-01-L03) on February 8, 2001.  
+Firm initiated recall ongoing.
+DISTRIBUTION:
+Nationwide, and Ireland, United Kingdom, Saudi Arabia, Denmark.
+QUANTITY:
+80.
+REASON:
+Device adulterated in that inappropriate output when patient�s age is 
+unknown may occur.
+________
+PRODUCT:
+LADARVision Excimer System and LADARVision 4000 Excimer Laser System
+a)  Product No. 6509-0078;  Z-537-1.
+b)  Product No. 6509-4000;  Z-538-1.
+c)  Product No. 6509-0285;  Z-539-1.
+d)  Product No. 6509-0126;  Z-540-1.
+e)  Product No. 6509-0131;  Z-541-1.
+f)  Product No. 6509-0137;  Z-542-1.
+g)  Product No. 6509-0336; Z-543-1.
+CODE:
+10, 12, 14, 17, 1018, 1019, 21, 22, 23, 1025, 26, 1027, 28, 
+30 to 34, 1035 to 1037, 38 to 42, 44 to 49, 1051 to 1060, 
+1062 to 1064, 1066, 1068 to 1079, 1081, 1085 to 1111, 1113 
+to 1129, 1131 to 1134, 1136 to 1144, 1147 to 1150, 1152, 
+1154, 1156 to 1158, 1160, 1163, 1168, 1169, 1190, 1192 to 
+1195, 1199, and 1200.
+MANUFACTURER:
+Autonomous Technologies Corp., Orlando, FL 
+RECALLED BY:
+Manufacturer, by letter and facsimile onJanuary 20 and 24, 2001.
+DISTRIBUTION:
+Nationwide, and Canada, Italy, United Kingdom, Spain, Australia, Greece, 
+Thailand, Phillipines.
+QUANTITY:
+136 units.
+REASON:
+Devices adulterated in that unanticipated laser pulses reaching the 
+cornea will cause ablation of the corneal surface, which could result in 
+a central corneal defect of about 1mm in diameter.
+
+END OF ENFORCEMENT REPORT FOR May 16, 2001.
+
+####
+
+
+
+
+
+ 
+
+
+
+
+
+ FDA News Page   
+  |   FDA Home Page 
+                                                          
+  
+
+Office of Public Affairs
+  Hypertext uploaded by clb 2001-MAY-16.

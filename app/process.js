@@ -1,6 +1,7 @@
 const fs = require("fs");
 const _ = require("lodash");
 const Excel = require("exceljs");
+const moment = require("moment");
 
 const textjs = filename => {
   fs.readFile(`text/${year}/${filename}`, "utf8", (err, data) => {
@@ -141,8 +142,7 @@ const createXLSX = last_arr => {
     `${working_file_name.replace(".txt", "")}`
   );
 
-  worksheet.columns = [
-    {
+  worksheet.columns = [{
       header: "RECALL_CLASSIFICATION_DATE",
       key: "date"
     },
@@ -209,7 +209,7 @@ const createXLSX = last_arr => {
       `excel/${year}/${working_file_name.replace(".txt", "")}.xlsx`,
       "utf8"
     )
-    .then(function() {
+    .then(function () {
       console.log("done writing to Excel file");
     });
 }; //--fn create excel end
@@ -232,59 +232,80 @@ const getCategory = element => {
   } else if (category.includes("Bio")) {
     category = "Biologics";
   } else {
-    category = "404 Not Found";
+    category = "Not-Found";
   }
 
   return beautify(category);
 };
 
+String.prototype.remove = function (...args) {
+  let initialString = this.toString();
+
+  return args.reduce((acc, current) => {
+    return acc.replace(current, "")
+  }, initialString)
+};
+
+
 const getProductName = element => {
-  let pIndex = element.indexOf("product");
-  let dIndex = element.indexOf(".", pIndex);
-  if (dIndex - pIndex < 10) {
-    dIndex = element.indexOf(",", pIndex);
+  if (element.includes('products:')) {
+    element = element.replace('products:', 'product')
   }
-  let pname = element.slice(pIndex, dIndex).replace("product", "");
-  return beautify(pname);
+  let product = element.indexOf("product");
+  let till = element.indexOf("code", product);
+  if (till - product < 10) {
+    till = element.indexOf(",", product);
+  }
+  let name = beautify(element.slice(product, till).remove('product', ":"));
+  if (name[0] == 'S ') {
+    return name.remove('S ')
+  }
+  return name;
 };
 
 const getManufacturer = element => {
-  let mIndex = element.indexOf("manufacturer");
+  let mIndex = element.indexOf("manufacturer:");
   let dotIndex = element.indexOf(".", mIndex);
   if (dotIndex - mIndex < 15) {
     dotIndex = element.indexOf(",", mIndex);
   }
   let manufacturer = element
     .slice(mIndex, dotIndex)
-    .replace("manufacturer", "");
+    .remove("manufacturer", ":");
   return beautify(manufacturer);
 };
 
 const getDistribution = element => {
   if (element.includes("distribution")) {
-    let disIndex = element.indexOf("distribution");
+    let disIndex = element.indexOf("distribution:");
     let dotIndex = element.indexOf(".", disIndex);
     let distribution = element
       .slice(disIndex, dotIndex)
-      .replace("distribution", "");
+      .remove("distribution:");
     return beautify(distribution);
   } else {
-    return "N/A";
+    return "NOT_FOUND";
   }
 };
 
 const getRecaller = element => {
-  let recIndex = element.indexOf("recalled");
+  let recIndex = element.indexOf("recalled by:");
   let dotIndex = element.indexOf(",", recIndex);
-  let recaller = element.slice(recIndex, dotIndex).replace("recalled", "");
+  let recaller = element.slice(recIndex, dotIndex).remove("recalled by", ":");
   return beautify(recaller);
 };
 
 const getRecallDate = element => {
   let working_string = element.slice(
-    element.indexOf("recalled"),
+    element.indexOf("recalled by:"),
     element.length
   );
+
+  let checkRGX = /(\d+)\/(\d+)\/(\d{2,4})/
+  let date = working_string.match(checkRGX)
+  if (date) {
+    return new Date(date[0])
+  }
 
   let rgxMM = working_string.match(
     /(January|February|March|April|May|June|July|August|September|October|November|December)/i
@@ -292,25 +313,25 @@ const getRecallDate = element => {
   let rgxDD = working_string.match(/\d{1,2}/);
   let rgxYY = working_string.match(/\d{4}/);
 
-  let recalldate = "N/A";
+  let recalldate = "NOT_FOUND";
 
   if (rgxMM != null && rgxMM != null && rgxYY != null) {
-    recalldate = `${rgxMM[0]} ${rgxDD[0]}, ${rgxYY[0]}`;
+    recalldate = `${_.capitalize(rgxMM[0])} ${rgxDD[0]}, ${rgxYY[0]}`;
   }
 
-  return beautify(recalldate);
+  return recalldate;
 };
 
 const getQuantity = element => {
-  let qIndex = element.indexOf("quantity");
-  let reaIndex = element.indexOf("reason", qIndex);
-  let quantity = element.slice(qIndex, reaIndex).replace("quantity", "");
+  let qIndex = element.indexOf("quantity:");
+  let reaIndex = element.indexOf("reason:", qIndex);
+  let quantity = element.slice(qIndex, reaIndex).replace("quantity:", "");
 
   return beautify(quantity);
 };
 
 const getReason = element => {
-  let reason = element.indexOf("reason");
+  let reason = element.indexOf("reason:");
   let dot = element.indexOf(".", reason);
   let nextDot = element.indexOf(".", dot);
   if (dot == -1) {
@@ -322,43 +343,42 @@ const getReason = element => {
   if (reasonX.length < 15) {
     reasonX = element.slice(reason, nextDot);
   }
-  return beautify(reasonX.replace("reason", ""));
+  return beautify(reasonX.replace("reason:", ""));
 };
 
 const getRecallNumber = element => {
+  if (element.includes("recall nos.")) {
+    let nx = element.indexOf("recall nos.");
+    let dx = element.indexOf(".", nx + 11);
+    let recallnumber = element
+      .slice(nx, dx)
+      .remove("recall nos.")
+      .trim();
+    return recallnumber;
+  }
   let numIndex = element.indexOf("recall #");
   let dotIndex = element.indexOf(".", numIndex);
   let recallnumber = element
     .slice(numIndex, dotIndex)
-    .replace("recall #", "")
+    .remove("recall #")
     .trim();
+  if (recallnumber.includes(';')) {
+    return recallnumber.slice(0, recallnumber.indexOf(";"))
+  }
   return recallnumber;
 };
 
 const beautify = text => {
   return _.words(text, /[^, ]+/g)
     .map(word => _.capitalize(word))
-    .join(" ");
+    .join(" ")
+    .trim();
 };
 
-let year = "1999";
+let year = "2001";
 let files = fs.readdirSync(`text/${year}`);
-let nm = 16;
+let nm = 9;
 const working_file_name = files[nm];
 console.log(working_file_name, "working number:", nm);
 
 textjs(working_file_name);
-
-var errorFilesPre1995 = ["total 253"];
-var errorFiles1995 = ["total - 55"];
-var errorFiles1996 = [32, "total50"];
-var errorFiles1997 = [13, 17, 20, "total53"];
-var errorFiles1998 = [5, 11, 24, 49, "total52"];
-var errorFiles1999 = [
-  "32-0-products+solved",
-  "47 may have problem with rec#",
-  "total51"
-];
-//checking for 1st dot (.) after reason can be errorprone
-// MOST ERRORS MUST HAVE BEEN RESOLVED WITH IF STATEMENT IN LOOKFORMULTIPLES(i)
-var errorFiles2000 = ["no-errors", "total52"];

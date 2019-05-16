@@ -1,0 +1,648 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Sep
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  06
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      25 captures
+	      06 Oct 2002 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA 
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration, Department of Health and Human Services. 
+It contains information on actions  taken in connection with agency
+Regulatory activities.
+
+September 11, 2002
+  02-36
+RECALLS AND FIELD CORRECTIONS: 
+  FOODS -- CLASS II
+_______________________
+PRODUCT
+  China Buena brand, orange flavored soda, in 7 oz and 12 oz glass labeled 
+  in part"xxxCHINAxxxBuenaxxxNutritional InformationxxxIngredients: Sparkling 
+  cane sugar, and/orxxxcorn sweetener, citric acidxxx sodium benzoate (1/10 of 
+  1%) as a preservative, artificial flavor, artificial color by Jugos del Centro, 
+  Inc.xxx Road No. 1 Bo. Beatriz Km 49.7xxxCidra, Puerto Rico 00739xxx". Recall 
+  # F-753-2.
+CODE
+No lot numbers or expiration date. Bottles id with bar code 
+#03642 42490.
+RECALLING FIRM/MANUFACTURER
+Jugos del Centro, Inc., Cidra, Puerto Rico, by telephone on July 31, 2002 followed by letter on August 1, 2002.  Firm initiated recall is ongoing.
+REASON
+Product contains undeclared FD&C Yellow No. 5 & FD&C Yellow No. 6.
+VOLUME OF PRODUCT IN COMMERCE
+75,000 bottles.
+DISTRIBUTION
+Puerto Rico.
+
+RECALLS AND FIELD CORRECTIONS: 
+  FOODS -- CLASS III
+_______________________
+PRODUCT
+Product is a LACF drink packed into clear glass bottles with a metal crimped screw on cap.  The bottle has the word "YooHoo" molded into it and a paper label which states: "***YooHoo CHOCOLATE DRINK 9 FL. OZ. Recall # F-751-2.
+CODE
+205282A XX:XX, 205292A XX:XX, 205302A XX:XX, 205312A XX:XX, 206012A XX:XX, 206032A XX:XX, 206112A XX:XX, 206122A XX:XX, 206132A XX:XX, 206142A XX:XX, 206152A XX:XX, 207012A XX:XX AND 207022A XX:XX. NOTE: THE EXTRA FOUR DIGITS AT THE END REPRESENT THE TIME OF DAY PRODUCT WAS PACKED AND ARE NOT RELEVANT TO THE RECALL. Codes are printed on the bottom of the bottles.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm: Yoo-Hoo Chocolate Beverage Corp., White Plains, NY, by letter on August 7, 2002.
+Manufacturer: Yoo Hoo Beverages Corp., aka Orangina Beverages, Inc., Hialeah, FL. Firm initiated recall is ongoing.
+REASON
+  The product may be contaminated with spoilage microorganisms.
+VOLUME OF PRODUCT IN COMMERCE
+185,000 cases.
+DISTRIBUTION
+FL, SC, AL, GA, NC, VA, TN, and KY.
+_______________________
+PRODUCT
+Organic Ginger in 50 lb. containers.  Recall # F-752-2.
+CODE
+Lot #1-95 -- Tea-cut (small granules)
+Lot #1-95 -- Powder.
+RECALLING FIRM/MANUFACTURER
+Herb Trade, Inc., Port Newark, NJ, by telephone on July 1, 2002.
+Firm initiated recall is ongoing.
+REASON
+The product contained small pieces of contains metallic wire.
+VOLUME OF PRODUCT IN COMMERCE
+370 lbs.
+DISTRIBUTION
+MA and Canada.
+_______________________
+PRODUCT
+2 1/4 oz packages of Fritos Brand Original Corn Chips
+(BBQ Fritos were packaged in original Fritos labeling)
+Recall # F-754-2.
+CODE
+Freshness Date: September 10
+Lot 5342186293.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm: Frito Lay, Plano, TX, by press release on August 8, 2002.
+Manufacturer: Frito-Lay, Inc., Louisville, KY.  Firm initiated recall is ongoing.
+REASON
+Bags actually contained a second product, Fritos Bar-B-Q flavor Corn Chips.
+VOLUME OF PRODUCT IN COMMERCE
+144 cases (8,640 packages total).
+DISTRIBUTION
+KY, OH, IN, TN, AK, AL, MS, GA, WV and IL.
+
+RECALLS AND FIELD CORRECTIONS: 
+  BIOLOGICS -- CLASS II
+_______________________
+PRODUCT
+Red Blood Cells, Recall # B-1649-2.
+CODE
+Unit number 31126-1520.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm: Blood Systems, Inc., Scottsdale, AZ, by letter on April 13, 2000.
+Manufacturer:	Blood Systems, Inc., Tupelo, MS.  Firm initiated recall is complete.
+REASON
+Blood product, collected from an unsuitable donor based on travel to an area considered endemic for malaria, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+AL.
+_______________________
+PRODUCT
+a) Red Blood Cells, Leukocytes Reduced, Recall # B-1811-2;
+b) Platelets, Leukocytes Reduced, Recall  # B-1812-2;
+c) Fresh Frozen Plasma, Recall # B-1813-2;
+CODE
+a) and b) Units  42T04022, 42Y21481;
+c) Units  42FT13699, 42FT13702, 42FT13669;
+RECALLING FIRM/MANUFACTURER
+American Red Cross Blood Services,	Northern Ohio Region, Cleveland, OH, by telephone on December 27, 2001 and by letters dated February 19 and March 25, 2002.  Firm initiated recall is complete.
+REASON
+Blood products, corresponding to units that were implicated in an adverse transfusion reaction, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+5 units.
+DISTRIBUTION
+OH.
+_______________________
+PRODUCT
+Red Blood Cells, Recall # B-1835-2.
+CODE
+Unit R82311.
+RECALLING FIRM/MANUFACTURER
+HCSC Blood Center, t/a Miller Memorial Blood Center, Bethlehem, PA, by letter dated November 14, 2001.  Firm initiated recall is complete.
+REASON
+Blood product, collected from a donor whose hemoglobin was not documented, was distributed. 
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+PA.
+_______________________
+PRODUCT
+a) Red Blood Cells, Recall # B-1836-2;
+b) Recovered Plasma, Recall # B-1837-2.
+CODE
+a) and b) Unit J20383.
+RECALLING FIRM/MANUFACTURER
+HCSC Blood Center, t/a Miller Memorial Blood Center, Bethlehem, PA, by letters dated May 18, 2001 and May 21, 2001.  Firm initiated recall is complete.
+REASON
+Blood products, collected from a donor who did not answer the question related to HIV group O risk, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+2 units.
+DISTRIBUTION
+NJ and PA.
+_______________________
+PRODUCT
+a) Red Blood Cells, Leukocytes Reduced, Recall # B-1841-2;
+b) Recovered Plasma, Recall # B-1842-2.
+CODE
+a) and b) Unit 4789809.
+RECALLING FIRM/MANUFACTURER
+Coffee Memorial Blood Center, Inc., Amarillo, TX, by letters dated May 15 and June 18, 2001.  Firm initiated recall is complete.
+REASON
+Blood products, collected from an unsuitable donor due to behavior associated with an increased risk of infection with the human immunodeficiency virus (HIV), were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+2 units.
+DISTRIBUTION
+TX and Switzerland.
+_______________________
+PRODUCT
+a) Red Blood Cells, Recall # B-1866-2;
+b) Recovered Plasma, Recall # B-1867-2.
+CODE
+a) and b) Unit Y101756.
+RECALLING FIRM/MANUFACTURER
+Puget Sound Blood Center and Program, Seattle, WA, by letter dated April 3, 2002.  Firm initiated recall is complete.
+REASON
+Blood products, which were collected from a donor who had a history of multiple high-risk behaviors, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+2 units.
+DISTRIBUTION
+WA and Switzerland.
+_______________________
+PRODUCT
+a) Red Blood Cells, Recall # B-1868-2;
+b) Platelets, Recall # B-1869-2;
+c) Fresh Frozen Plasma, Recall # B-1870-2.
+CODE
+a); b) and c) Unit 22GV73236.
+RECALLING FIRM/MANUFACTURER
+American Red Cross Blood Services,	Penn Jersey Region, Philadelphia, PA, by letter dated August 30, 2001.
+Firm initiated recall is complete.
+REASON
+Blood products, which were collected from a donor who had tested positive for hepatitis B, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+3 units.
+DISTRIBUTION
+PA and NJ.
+_______________________
+PRODUCT
+a) Red Blood Cells, Recall # B-1871-2;
+b) Red Blood Cells Leukocytes Removed, Recall # B-1872-2;
+c) Platelets, Recall # B-1873-2;
+d) Fresh Frozen Plasma, Recall # B-1874-2.
+CODE
+a) and c) Unit 22GP88556;
+b) Unit 22LV74399;
+d) Unit 22LV74399 and 22GP88556.
+RECALLING FIRM/MANUFACTURER
+American Red Cross Blood Services,	Penn Jersey Region, Philadelphia, PA, by letter dated August 6, 2001.
+Firm initiated recall is complete.
+REASON
+Blood products, which were collected from a donor who had tested positive for hepatitis (type unknown), were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+5 units.
+DISTRIBUTION
+PA.
+_______________________
+PRODUCT
+a) Red Blood Cells, Recall # B-1875-2;
+b) Platelets, Recall # B-1876-2;
+c) Fresh Frozen Plasma, Recall # B-1877-2;
+d) Cryoprecipitated AHF, Recall # B-1878-2;
+e) Recovered Plasma, Recall # B-1879-2.
+CODE
+a) Units 22LF52950, 22LF21208, 22LF17037, 22FS33584, 22LE55339,     and 22LH65159; 
+b) Units 22LF52950, 22LF21208, 22FS33584, and 22LE55339; 
+c) Units 22LF21208 and 22FS33584; 
+d) Unit  22LF17037; 
+e) Units 22LF52950, 22LE55339, and 22LH65159.
+RECALLING FIRM/MANUFACTURER
+American Red Cross Blood Services,	Penn Jersey Region, Philadelphia, PA, by letters dated June 8 and July 6, 2001.
+Firm initiated recall is complete.
+REASON
+Blood products, which were collected from a donor who had tested positive for hepatitis (type unknown), were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+16 units.
+DISTRIBUTION
+PA, NJ, CA, NY and Switzerland.
+_______________________
+PRODUCT
+a) Red Blood Cells, Leukocytes Reduced, Recall # B-1913-2; 
+b) Recovered Plasma, Recall # B-1914-2.
+CODE
+a) and b) Unit 12GE53454.
+RECALLING FIRM/MANUFACTURER
+The American National Red Cross, Carolinas Region, Charlotte, NC, by letter dated May 28, 2002.  Firm initiated recall is complete.
+REASON
+Blood products, that tested negative for viral markers, but were collected from a donor that subsequently admitted to multiple risk factors for increased incidence of infection with human immunodeficiency virus (HIV), were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+2 units.
+DISTRIBUTION
+AL and CA.
+_______________________
+PRODUCT
+Source Plasma, Recall # B-1915-2.
+CODE
+Unit numbers G67217-076, G66882-076, G66182-076, and G65703-076.
+RECALLING FIRM/MANUFACTURER
+Recalling Firm: Alpha Therapeutic Corp., Los Angeles, CA, by fax on August 3, 2001.
+Manufacturer:	Alpha Therapeutic Corp., Fayetteville, NC.
+Firm initiated recall is complete.
+REASON
+Source Plasma was not properly quarantined after the receipt of information that disqualified the donor of the product.
+VOLUME OF PRODUCT IN COMMERCE
+4 units.
+DISTRIBUTION
+Switzerland.
+_______________________
+PRODUCT
+Source Plasma, Recall # B-1916-2.
+CODE
+Unit numbers FN043604, FN043213, FN039989, FN039464, FN039031, FN038494, FN038198, and FN037586.
+RECALLING FIRM/MANUFACTURER
+BioLife Plasma Services L.P., Sera-Tec Biologicals L.P.,  Fayetteville, NC, by letter on January 28, 2002.
+Firm initiated recall is complete.
+REASON
+Blood products, collected from an ineligible donor due to previous blood product administration, were distributed. 
+VOLUME OF PRODUCT IN COMMERCE
+8 units.
+DISTRIBUTION
+NC.
+_______________________
+PRODUCT
+Red Blood Cells, Recall # B-1934-2.
+CODE
+Units GT01666, GT01668, GT01671, GT01678, GT01681, GT01687, GT01690, GT01693, GT01696, GT01697, GT01699, GT01711, GT01714, GT01715, GT01718, GT01720, GT01722, GT01723, GT01726, GT01728, GT01730, GT01732, GT01734, GT01736, GT01738, GT01740, GT01742, GT01744, GT01747, GT01750, GT01754, GT01757, GT01759, GT01761, GT01763, GT01838, GT01840, GT01841, GT01843, GT01844, GT01846, GT01848, GT01849, GT01850, GT01852, GT01853, GT01854, GT01856, GT01857, GT01859, GT01860, GT01861, GT01863, GT01866, GT01868, GT01869, GT01929, GT01933, GT01937, GT01939, GT01943, GT01945, GT01946, GT01957, GT01959, GT01962, GT01969, GT01970, GT01972, GT01974, GT01977, GT01979, GT01982, GT01984, GT01987, GT02061, GT02065, GT02071, GT02076, GT02081, GT02083, GT02086, GT02090, GT02093, GT02101, GT02103, GT02108, GT02134, GT02136, GT02138, GT02140, GT02142, GT02143, GT02145, GT02147, GT02151, GT02154, GT02157, GT02159, GT02163, GT02166, GT02167, GT02169, GT02170, GT02171, GT02173, GT02175, GT02176, GT02177, GT02178, GT02179, GT02180, GT02182, GT02183, GT02184, GT02185, GT02187, GT02188, GT02191, GT02193, GT02195, GT02197, GT02200, GT02203, GT02205, GT02207, GT02208, GT02210, GT02211, GT02212, GT02215, GT02217, GT02242, GT02245, GT02246, GT02249, GT02251, GT02252, GT02253, GT02255, GT02257, GT02260, GT02261, GT02263, GT02265, GT02270, GT02275, GT02276, GT02279, GT02280, GT02285, GT02290, GT02292, GT02295, GT02296, GT02299, GT02301, GT02303, GT02306, GT02308, GT02310, GT02312, GT02314, GT02317, GT02319, GT02321, GT02323, GT02325, GT02327, GT02358, GT02364, GT02371, GT02373, GT02377, GT02380, GT02383, GT02385, GT02391, GT02396, GT02402, GT02404, GT02406, GT02409, GT02412, GT02414, GT02416, GT02417, GT02419, GT02423, GT02426, GT02428, GT02432, GT02434, GT02436, GT02438, GT02440, GT02659, GT02660, GT02661, GT02662, GT02663, GT02664, GT02665, GT02666, GT02667, GT02668, GT02669, GT02670, GT02671, GT02672, GT02673, GT02674, GT02676, GT02678, GT02679, GT02680, GT02681, GT02682, GT02683, GT02684, GT02685, GT02710, GT02711, GT02712, GT02713, GT02714, GT02715, GT02716, GT02717, GT02718, GT02719, GT02720, GT02774, GT02968, GT02970, GT02971, GT02977, GT02980, GT02983, GT02985, GT03053, GT03056, GT03058, GT03063, GT03064, GT03066, GT03071, GT03073, GT03075, GT03077, GT03079, GT03085, GT03089, GT03090, GT03092, GT03094, GT03096, GT03099, GT03101, GT03103, GT03105, GT03107, GT03112, GT03113, GT03117, GT03119, GT03121, GT03123, GT03126, GT03128, GT03130, GT03132, GT03135, GT03136, GT03139, GT03142, GT03144, GT03147, GT03150, GT03152, GT03154, GT03160, GT03161, GT03166, GT03167, GT03170, GT03172, GT03175, GT03177, GT03180, GT03181, GT03183, GT03185, GT03189, GT03191, GT03193, GT03194, GT03196, GT03197, GT03211, GT03212, GT03217, GT03220, GT03221, GT03226, GT03229, GT03231, GT03233, GT03236, GT03238, GT03245, GT03248, GT03250, GT03252, GT03255, GT03257, GT03259, GT03261, GT03264, GT03265, GT03266, GT03267, GT03269, GT03270, GT03273, GT03274, GT03276, GT03277, GT03279, GT03281, GT03283, GT03285, GT03286, GT03287, GT03288, GT03290, GT03292, GT03295, GT03296, GT03298, GT03299, GT03301, GT03303, GT03308, GT03309, GT03312, GT03313, GT03315, GT03317, GT03319, GT03321, GT03323, GT03325, GT03326, GT03354, GT03356, GT03359, GT03363, GT03366, GT03368, GT03371, GT03372, GT03373, GT03375, GT03376, GT03377, GT03379, GT03380, GT03382, GT03384, GT03386, GT03388, GT03389, GT03391, GT03393, GT03395, GT03397, GT03399, GT03400, GT03402, GT03404, GT03406, GT03409, GT03411, GT03413, GT03415, GT03422, GT03425, GT03427, GT03429, GT03431, GT03433, GT03436, GT03439, GT03442, GT03445, GT03447, GT03450, GT03452, GT03454, GT03455, GT03459, GT03460, GT03462, GT03463, GT03465, GT03467, GT03469, GT03471, GT03475, GT03477, GT03481, GT03484, GT03486, GT03487, GT03488, GT03491, GT03492, GT03494, GT03497, GT03499, GT03500, GT03501, GT03502, GT03503, GT03505, GT03507, GT03510, GT03511, GT03513, GT03517, GT03545, GT03547, GT03548, GT03549, GT03550, GT03551, GT03552, GT03553, GT03554, GT03556, GT03557, GT03586, GT03589, GT03591, GT03594, GT03596, GT03598, GT03600, GT03640, GT03641, GT03642, GT03643, GT03644, GT03645, GT03646, GT03647, GT03648, GT03649, GT03650, GT03651, GT03652, GT03653, GT03654, GT03655, GT03656, GT03658, GT03659, GT03661, GT03662, GT03663, GT03664, GT03665, GT03666, GT03669, GT03670, GT03671, GT03673, GT03674, GT03675, GT03676, GT03677, GT03679, GT03680, GT03683, GT03684, GT03749, GT03752, GT03753, GT03754, GT03756, GT03757, GT03758, GT03759, GT03760, GT03761, GT03762, GT03763, GT03764, GT03765, GT03766, GT03767, GT03768, GT03804, GT03806, GT03808, GT03810, GT03813, GT03815, GT03819, GT03821, GT03823, GT03825, GT03827, GT03828, GT03831, GT03833, GT03837, GT03841, GT03843, GT03846, GT03847, GT03848, GT03967, GT03970, GT03973, GT03974, GT03976, GT03977, GT03978, GT03980, GT03982, GT03983, GT03986, GT03991, GT03992, GT03994, GT03995, GT03996, GT03997, GT03999, GT04000, GT04002, GT04003, GT04005, GT04009, GT04012, GT04016, GT04017, GT04019, GT04022, GT04023, GT04026, GT04030, GT04031, GT04032, GT04034, GT04036, GT04037, GT04039, GT04040, GT04125, GT04131, GT04133, GT04135, GT04139, GT04142, GT04145, GT04149, GT04155, GT04158, GT04163, GT04174, GT04178, GT04195, GT04199, GT04201, GT04206, GT04218, GT04232, GT04234, GT04235, GT04238, GT04241, GT04243, GT04244, GT04246, GT04247, GT04251, GT04253, GT04256, GT04260, GT04262, GT04265, GT04266, GT04268, GT04270, GT04273, GT04276, GT04278, GT04339, GT04340, GT04342, GT04345, GT04347, GT04350, GT04352, GT04354, GT04356, GT04357, GT04360, GT04363, GT04365, GT04366, GT04368, GT04371, GT04375, GT04377, GT04379, GT04382, GT04387, GT04394, GT04399, GT04400, GT04402, GT04404, GT04407, GT04412, GT04414, GT04416, GT04418, GT04420, GT04423, GT04454, GT04456, GT04458, GT04460, GT04462, GT04464, GT04466, GT04468, GT04470, GT04471, GT04473, GT04476, GT04477, GT04532, GT04536, GT04540, GT04547, GT04552, GT04553, GT04561, GT04562, GT04572, GT04574, GT04580, GT04582, GT04585, GT04587, GT04591, GT04595, GT04597, GT04607, GT04610, GT04611, GT04615, GT04618, GT04621, GT04623, GT04628, GT04636, GT04645, GT04650, GT04656, GT04659, GT04669, GT04671, GT04674, GT04678, GT04685, GT04687, GT04690, GT04693, GT04695, GT04699, GT04700, GT04706, GT04709, GT04710, GT04713, GT04717, GT04744, GT04746, GT04751, GT04756, GT04761, GT04772, GT04774, GT04776, GT04787, GT04790, GT04792, GT04794, GT04796, GT04797, GT05026, GT05035, GT05060, and GT05100.
+RECALLING FIRM/MANUFACTURER
+Mississippi Valley Regional Blood Center, Davenport, IA, by fax, telephone and/or letter dated November 11, 13 and 14, 2001.
+Firm initiated recall is complete.
+REASON
+Blood products, which were collected from donors whose suitability was not adequately determined (high risk questions), were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+710 units.
+DISTRIBUTION
+Nationwide and Switzerland.
+
+RECALLS AND FIELD CORRECTIONS: 
+  BIOLOGICS -- CLASS III
+_______________________
+PRODUCT
+a) Blood Cells, Leukocytes Reduced, Recall # B-1807-2;
+b) Blood Cells, Autologous, Recall # B-1808-2;
+c) Platelets, Pheresis, Leukocytes Reduced, Irradiated, Recall #    B-1809-2;
+d) Platelets, Pheresis, Leukocytes Reduced, Recall # B-1810-2.
+CODE
+a) Units 04G32454, 04R83499, 04G32448, 04G32459, 04N05464,          04S39268, 04N05474, 04N05473, 04N05468, 04N05452, 04N05475,      04R83508, 04R83504, 04S39274, 04R83516, 04R83502, 04G32443,      04R83491, 04S39284, 04S39301, 04S39309, 04S39323, 04S39299,      04R83524, 04G32438, 04N05448, 04R83510, 04R83503, 04R83514,      04G32453, 04N05467, 04N05463;
+b) Units 04R83507, 04N05460, 04N05462, 04N05469;
+c) Unit 04LP49174
+d) Units 04LP49173, 04LP49167-parts 1 & 2, 04LP49170-parts 1 & 2,    04LP49168.
+RECALLING FIRM/MANUFACTURER
+American Red Cross Blood Services, New England Region, Dedham, MA, by telephone on February 4 and 8, 2002 and by letter dated February 27, 2002.  Firm initiated recall is complete.
+REASON
+Blood products, which may have been incorrectly tested for unexpected antibodies, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+a) 32 units;
+b) 4 units;
+c) 1 unit;
+d) 6 units.
+DISTRIBUTION
+MA, NY, ME and NH.
+_______________________
+PRODUCT
+Recovered Plasma, Recall # B-1814-2.
+CODE
+Units  42E35413, 42E35415, 42FF70742, 42FW89706, 42Y21938.
+RECALLING FIRM/MANUFACTURER
+American Red Cross Blood Services,	Northern Ohio Region, Cleveland, OH, by telephone on December 27, 2001 and by letters dated February 19 and March 25, 2002.  Firm initiated recall is complete.
+REASON
+Blood products, corresponding to units that were implicated in an adverse transfusion reaction, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+5 units.
+DISTRIBUTION
+OH.
+_______________________
+PRODUCT
+Platelets, Recall # B-1840-2.
+CODE
+Unit T44262.
+RECALLING FIRM/MANUFACTURER
+HCSC Blood Center, t/a Miller Memorial Blood Center, Bethlehem, PA, by letter dated May 8, 2001.  Firm initiated recall is complete.
+REASON
+Blood product, collected from a donor who failed to answer the question regarding having received a rabies shot in the past 12 months, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+PA.
+_______________________
+PRODUCT
+a) Red Blood Cells Leukocytes Removed, Recall # B-1880-2;
+b) Fresh Frozen Plasma, Recall # B-1881-2.
+CODE
+a) Units 224214908, 224214909, 224214910, 224214911, 224214913,     224214914, 224214915, 224214916, 224214919, 224214921,           224214923, 224214925, 224214926, 224214927, 224214928,           224214929;
+b) Units 224214909.
+RECALLING FIRM/MANUFACTURER
+Blood Systems, Inc., Las Vegas, NV, by telephone and by letter dated April 24, 2001.  Firm initiated recall is complete.
+REASON
+Blood products, which were possibly collected using a method which could not guarantee maximum sterility, were distributed.
+VOLUME OF PRODUCT IN COMMERCE
+17 units.
+DISTRIBUTION
+NV.
+_______________________
+PRODUCT
+Red Blood Cells, Recall # B-1882-2.
+CODE
+Unit  LH13316.
+RECALLING FIRM/MANUFACTURER
+Southern California Permanente Medical Group, Laboratory Blood Bank, Woodland Hills, CA, by letter dated February 22, 2002.
+Firm initiated recall is complete.
+REASON
+Blood product, which was incorrectly tested for the antibody for hepatitis C virus encoded antigen (anti-HCV) but was subsequently negative for anti-HCV upon repeat testing, was distributed.
+VOLUME OF PRODUCT IN COMMERCE
+1 unit.
+DISTRIBUTION
+CA.
+_______________________
+  PRODUCT
+  Recovered Plasma, Recall # B-1935-2.
+  CODE
+  Units GT01666, GT01668, GT01671, 
+  GT01678, GT01681, GT01687, GT01690, 
+  GT01693, GT01696, GT01697, GT01699, 
+  GT01711, GT01714, GT01715, GT01718, 
+  GT01720, GT01722, GT01723, GT01726, 
+  GT01728, GT01730, GT01732, GT01734, 
+  GT01736, GT01738, GT01740, GT01742, 
+  GT01744, GT01747, GT01750, GT01754, 
+  GT01757, GT01759, GT01761, GT01763, 
+  GT01838, GT01840, GT01841, GT01843, 
+  GT01844, GT01846, GT01848, GT01849, 
+  GT01850, GT01852, GT01853, GT01854, 
+  GT01856, GT01857, GT01859, GT01860, 
+  GT01861, GT01863, GT01866, GT01868, 
+  GT01869, GT01929, GT01933, GT01937, 
+  GT01939, GT01943, GT01945, GT01946, 
+  GT01957, GT01959, GT01962, GT01969, 
+  GT01970, GT01972, GT01974, GT01977, 
+  GT01979, GT01982, GT01984, GT01987, 
+  GT02061, GT02065, GT02071, GT02076, 
+  GT02081, GT02083, GT02086, GT02090, 
+  GT02093, GT02101, GT02103, GT02108, 
+  GT02134, GT02136, GT02138, GT02140, 
+  GT02142, GT02143, GT02145, GT02147, 
+  GT02151, GT02154, GT02157, GT02159, 
+  GT02163, GT02166, GT02167, GT02169, 
+  GT02170, GT02171, GT02173, GT02175, 
+  GT02176, GT02177, GT02178, GT02179, 
+  GT02180, GT02182, GT02183, GT02184, 
+  GT02185, GT02187, GT02188, GT02191, 
+  GT02195, GT02197, GT02200, GT02203, 
+  GT02205, GT02207, GT02208, GT02210, 
+  GT02211, GT02212, GT02215, GT02217, 
+  GT02242, GT02245, GT02246, GT02249, 
+  GT02251, GT02252, GT02253, GT02255, 
+  GT02257, GT02260, GT02261, GT02263, 
+  GT02265, GT02270, GT02275, GT02276, 
+  GT02279, GT02280, GT02285, GT02290, 
+  GT02292, GT02295, GT02296, GT02299, 
+  GT02301, GT02303, GT02306, GT02308, 
+  GT02310, GT02312, GT02314, GT02317, 
+  GT02319, GT02321, GT02323, GT02325, 
+  GT02327, GT02358, GT02364, GT02371, 
+  GT02373, GT02377, GT02380, GT02383, 
+  GT02385, GT02391, GT02396, GT02402, 
+  GT02404, GT02406, GT02409, GT02412, 
+  GT02414, GT02416, GT02417, GT02419, 
+  GT02423, GT02426, GT02428, GT02432, 
+  GT02434, GT02436, GT02438, GT02440, 
+  GT02659, GT02660, GT02661, GT02662, 
+  GT02663, GT02664, GT02665, GT02666, 
+  GT02667, GT02668, GT02669, GT02670, 
+  GT02671, GT02672, GT02673, GT02674, 
+  GT02676, GT02677, GT02678, GT02679, 
+  GT02680, GT02681, GT02682, GT02683, 
+  GT02684, GT02685, GT02686, GT02710, 
+  GT02711, GT02712, GT02713, GT02714, 
+  GT02715, GT02716, GT02717, GT02718, 
+  GT02719, GT02720, GT02774, GT02968, 
+  GT02970, GT02971, GT02977, GT02980, 
+  GT02983, GT02985, GT03053, GT03056, 
+  GT03058, GT03063, GT03064, GT03066, 
+  GT03069, GT03071, GT03073, GT03075, 
+  GT03077, GT03079, GT03081, GT03085, 
+  GT03087, GT03089, GT03090, GT03092, 
+  GT03094, GT03096, GT03099, GT03101, 
+  GT03103, GT03105, GT03107, GT03112, 
+  GT03113, GT03117, GT03119, GT03121, 
+  GT03123, GT03126, GT03128, GT03130, 
+  GT03132, GT03135, GT03136, GT03139, 
+  GT03142, GT03144, GT03147, GT03150, 
+  GT03152, GT03154, GT03160, GT03161, 
+  GT03166, GT03167, GT03170, GT03172, 
+  GT03175, GT03177, GT03180, GT03181, 
+  GT03183, GT03185, GT03189, GT03191, 
+  GT03193, GT03194, GT03196, GT03197, 
+  GT03236, GT03238, GT03245, GT03248, 
+  GT03250, GT03252, GT03255, GT03257, 
+  GT03259, GT03261, GT03264, GT03265, 
+  GT03266, GT03267, GT03269, GT03270, 
+  GT03273, GT03274, GT03276, GT03277, 
+  GT03279, GT03281, GT03283, GT03290, 
+  GT03295, GT03298, GT03299, GT03301, 
+  GT03303, GT03308, GT03309, GT03312, 
+  GT03313, GT03315, GT03317, GT03319, 
+  GT03321, GT03325, GT03326, GT03354, 
+  GT03356, GT03359, GT03363, GT03366, 
+  GT03368, GT03371, GT03372, GT03373, 
+  GT03375, GT03376, GT03379, GT03380, 
+  GT03382, GT03384, GT03386, GT03388, 
+  GT03389, GT03391, GT03393, GT03395, 
+  GT03397, GT03399, GT03400, GT03402, 
+  GT03404, GT03406, GT03409, GT03411, 
+  GT03413, GT03415, GT03422, GT03425, 
+  GT03427, GT03429, GT03431, GT03433, 
+  GT03436, GT03439, GT03442, GT03445, 
+  GT03447, GT03450, GT03452, GT03454, 
+  GT03455, GT03459, GT03460, GT03462, 
+  GT03463, GT03465, GT03467, GT03469, 
+  GT03471, GT03475, GT03477, GT03481, 
+  GT03484, GT03486, GT03487, GT03488, 
+  GT03491, GT03492, GT03494, GT03497, 
+  GT03499, GT03500, GT03501, GT03502, 
+  GT03503, GT03505, GT03507, GT03510, 
+  GT03511, GT03513, GT03517, GT03545, 
+  GT03547, GT03548, GT03549, GT03550, 
+  GT03551, GT03552, GT03553, GT03554, 
+  GT03556, GT03557, GT03586, GT03589, 
+  GT03591, GT03594, GT03596, GT03598, 
+  GT03600, GT03640, GT03641, GT03642, 
+  GT03643, GT03644, GT03645, GT03646, 
+  GT03647, GT03648, GT03649, GT03650, 
+  GT03651, GT03652, GT03653, GT03654, 
+  GT03655, GT03656, GT03658, GT03659, 
+  GT03661, GT03662, GT03663, GT03664, 
+  GT03665, GT03666, GT03669, GT03670, 
+  GT03671, GT03673, GT03674, GT03675, 
+  GT03676, GT03677, GT03679, GT03680, 
+  GT03683, GT03684, GT03749, GT03752, 
+  GT03753, GT03754, GT03756, GT03757, 
+  GT03758, GT03759, GT03760, GT03762, 
+  GT03763, GT03764, GT03765, GT03766, 
+  GT03767, GT03768, GT03804, GT03806, 
+  GT03808, GT03810, GT03813, GT03815, 
+  GT03819, GT03821, GT03823, GT03825, 
+  GT03827, GT03828, GT03831, GT03833, 
+  GT03837, GT03841, GT03843, GT03846, 
+  GT03847, GT03848, GT03967, GT03970, 
+  GT03973, GT03974, GT03976, GT03977, 
+  GT03978, GT03980, GT03982, GT03983, 
+  GT03986, GT03991, GT03992, GT03994, 
+  GT03995, GT03996, GT03997, GT03999, 
+  GT04000, GT04002, GT04003, GT04005, 
+  GT04009, GT04012, GT04016, GT04017, 
+  GT04019, GT04022, GT04023, GT04026, 
+  GT04030, GT04031, GT04032, GT04034, 
+  GT04036, GT04037, GT04039, GT04040, 
+  GT04125, GT04131, GT04133, GT04135, 
+  GT04139, GT04142, GT04145, GT04149, 
+  GT04155, GT04158, GT04163, GT04174, 
+  GT04178, GT04195, GT04199, GT04201, 
+  GT04206, GT04218, GT04232, GT04234, 
+  GT04235, GT04238, GT04241, GT04243, 
+  GT04244, GT04246, GT04247, GT04251, 
+  GT04253, GT04256, GT04260, GT04262, 
+  GT04265, GT04266, GT04268, GT04270, 
+  GT04273, GT04274, GT04276, GT04278, 
+  GT04339, GT04340, GT04342, GT04345, 
+  GT04350, GT04352, GT04354, GT04356, 
+  GT04357, GT04359, GT04360, GT04363, 
+  GT04365, GT04366, GT04368, GT04371, 
+  GT04375, GT04377, GT04382, GT04387, 
+  GT04390, GT04394, GT04399, GT04400, 
+  GT04402, GT04404, GT04407, GT04412, 
+  GT04414, GT04416, GT04418, GT04420, 
+  GT04423, GT04454, GT04456, GT04458, 
+  GT04460, GT04462, GT04464, GT04466, 
+  GT04470, GT04471, GT04473, GT04476, 
+  and GT04477.
+  RECALLING FIRM/MANUFACTURER
+  Mississippi Valley Regional Blood 
+  Center, Davenport, IA, by fax, telephone 
+  and/or letter dated November 11, 
+  13 and 14, 2001.
+  Firm initiated recall is complete.
+  REASON
+  Blood products, which were collected 
+  from donors whose suitability was 
+  not adequately determined (high-risk 
+  questions), were distributed.
+  VOLUME OF PRODUCT IN COMMERCE
+  632 units.
+  DISTRIBUTION
+  Nationwide and Switzerland.
+
+ END OF ENFORCEMENT 
+  REPORT FOR SEPTEMBER 11, 2002
+####
+
+ Enforcement 
+  Report Index   | FDA 
+  News Page   |   FDA 
+  Home Page 
+
+ Office of Public Affairs
+  Hypertext uploaded by clb 
+  2002-SEP-10.

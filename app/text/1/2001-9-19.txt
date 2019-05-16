@@ -1,0 +1,912 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      30 captures
+	      14 Jan 2002 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+
+FDA 
+
+Enforcement Report
+
+The FDA Enforcement Report is published weekly by the Food and
+
+Drug Administration, Department of Health and Human Services. 
+
+It contains information on actions taken in connection with agency
+
+Regulatory activities.
+
+
+
+September 19, 2001                                        01-37
+
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS I
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-547-1, Fresh, halved and seeded Red Bell Peppers in 5 pound plastic
+bags, Codes: Use by date of 2/11/01 or before.
+REASON:
+The product was contaminated with Listeria monocytogenes.
+MANUFACTURER/RECALLING FIRM:
+Farmer's Best International LLC Rio Rico,
+RECALLED BY:
+Boskovich Fresh Cut Oxnard, CA, by telephone on February 8, 2001
+FIRM INITIATED RECALL
+Completed
+DISTRIBUTION:
+Southern CA
+QUANTITY:
+20 cases equaling 200 pounds
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS II_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-546-1, Snack bar in a metalized/poly film candy wrapper labeled in 
+part: "BUMBLE BAR ORGANIC ENERGY Chocolate Crisp Net Wt 1.6oz***
+Ingredients:***Organic dairy-free chocolate***"
+Codes: The following affected lot codes are printed on the 
+exterior of the case near the label, on the carton bottom 
+or inside the flap of the carton: 21802, 22302, 31402,
+31702, 32202, 32402, 32902, 40602, 41202, 41902,42302, 
+42602,51602, and 52302.
+REASON:
+Product contains undeclared milk.
+MANUFACTURER/RECALLING FIRM:
+Golden Temple, Inc. Eugene, OR
+RECALLED BY:
+Manufacturer, by letter, telephone, and press release on 8/7/01
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+WA, CA, CO, FL, IN, AZ>
+QUANTITY:
+83 cases, 19,920 individual units
+_________________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-548-1, Vitarroz Naranja Agria Bitter Orange in 24 oz. bottles,
+REASON: 
+The product contained undeclared FD&C Yellow No. 6.
+MANUFACTURER/ RECALLING FIRM:
+Roduvisa-Cagua, Venezuela
+RECALLED BY:
+Vitarroz Corp., Jersey City, NJ, by telephone on March 20, 2001
+FIRM INITIATED RECALL:
+Completed
+DISTRIBUTION: 
+NY, NJ, PA, MA
+QUANTITY:
+421 cs. x 12/24oz bottles		
+______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+a) F-549-1, Uncle Ray's Sour Cream & Onion Flavored Puffs packaged
+in 2.0 oz. and 5.0 oz. bags.
+b) F-550-1, Cabana Onion Flavored Rings packaged in 4.5 oz. bag.
+Codes: All lots manufactured from 1/1/01 to 7/12/01.
+REASON:
+The products contained undeclared FD&C Yellow No. 5.
+MANUFACTURER/RECALLING FIRM:
+Jenkins Foods, LLC Dearborn, MI
+RECALLED BY:
+Jenkins Foods, LLC, Detroit, MI recalled the product by
+telephone beginning on 7/12/01 followed by a letter on the same date.
+FIRM INITIATED RECALL:
+Completed
+DISTRIBUTION:
+IN, KY, MI, OH, TN, and Canada
+QUANTITY:
+a) 2,760 bags, 2.0 oz each; b) 3,630 bags, 5.0 oz each;
+c) 390 bags, 4.5 oz eachRECALLS AND FIELD CORRECTIONS: FOODS -- CLASS III
+______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-551-1, Ritchey's Strawberry Ice Cream;
+F-552-1, Black Raspberry Ice Cream. 
+The products are sold in 5 quart, one half gallon, and one pint sizes.
+Codes: The product is not coded so all products shipped between 
+April 1, 2001 and June 11, 2001 are included in the recall.
+REASON:
+Strawberry ice cream contains undeclared Red #3 and Red #40.
+Black raspberry contains undeclared Red #40 and Blue #1.
+MANUFACTURER/RECALLING FIRM:
+Ritchey's Dairy, Inc. Martinsburg, PA
+RECALLED BY:
+Recalling Firm, by visit on June 12, 2001 and by letteron June 18, 2001
+FIRM INITIATED RECALL:
+Completed
+DISTRIBUTION:
+PA
+QUANTITY:
+209 units
+RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS I
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+D-299-1
+a) Good Sense brand Children's Pain Reliever, acetaminophen 
+suspension liquid, great tasting rich cherry flavor, 4 fl oz (118 mL),
+80mg per 1/2 teaspoon, OTC, NDC #01130-175-26, Perrigo, Allegan, MI
+b) Kroger brand Children's Pain Reliever, Acetaminophen Pain 
+Reliever, Fever Reducer, Suspension Liquid, Rich Cherry Flavor, 4 FL OZ
+(118 mL), 80 mg per 1/2 teaspoon, OTC, NDC #30142-175-26, Distributed
+by the Kroger Co., Cincinnati, Ohio
+c) Hy-Vee brand Children's Non-Aspirin, Pain Relief Suspension 
+Liquid, Acetaminophen, Rich Cherry Flavor, 80 mg per 1/2 teaspoon
+(160 mg per 5 ml), 4 FL OZ (118 mL), OTC, NDC #42507-175-26, 
+Distributed by Hy-Vee, Inc., West Des Moines, IA
+Codes: a), b) and c) Lot #1AD0228
+REASON:
+SUPER-POTENT (ACETAMINOPHEN)
+MANUFACTURER/RECALLING FIRM:
+Perrigo Company Allegan, MI
+RECALLED BY:
+Manufacturer, by letter on 6/25/01 and press release on 8/15/01.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+United States
+QUANTITY:
+a), b) and c) 7,788 units total	RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS II______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+D-059-1Tegretol® (Carbamazepine USP) 200 mg tablets, in bottles of
+100 and 1000 tablets, Rx product 
+Initial 10 lots recalled on 9/18-11/27/00:
+150B2289 (10/2002), 155B2289 (10/2002), 121B9991 (4/2002), 128B1120 
+(6/2002), 137B1238 (6/2002), 144B1825 (8/2002), 156B3063 (10/2002), 
+158B3063 (10/2002),170D4247 (1/2003), 1T237018 (9/2001).
+First extension (2/2001):179D5121 (2/2003) - bottles of 100s
+179D5216 (2/2003) - bottles of 1000s
+Second Extension (8/9/01):Lot 232E9126 (exp. 3/2004) - bottles of 1000s
+Third Extension (9/6/01):Lot 205D6684 (9/2003) � bottles of 1000s
+Lot 206D6684 (9/2003) � bottles of 1000s
+REASON:
+Dissolution Failure<
+MANUFACTURER/RECALLING FIRM:
+Novartis Pharmaceuticals, Corp., Suffern, New York
+RECALLED BY:
+Manufacturer, by "Urgent: Drug Product Recall" letters on 9/6/01
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide and Puerto Rico.
+QUANTITY:
+Recall now covers a total of 15 lots.
+A total of 172,586 bottles (150,223 bottles of 100s 
+and 22,363 bottles of 1000s) for the 10 initial lots of Tegretol®
+200 mg were distributed (by lot) as follows: 
+Lot #150B2289: 3784 bottles of 1000s 
+Lot #155B2289: 3787 bottles of 1000s
+Lot #121B9991: 3641 bottles of 1000s
+Lot #128B1120: 36,734 bottles of 100s
+Lot #137B1238: 3750 bottles of 1000s
+Lot #144B1825: 3756 bottles of 1000s
+Lot #156B3063: 37,444 bottles of 100s
+Lot #158B3063: 38,137 bottles of 100s
+Lot #170D4247: 37,908 bottles of 100s
+Lot #1T237018: 3645 bottles of 1000s
+First Extension (2/5/01):
+Lot #179D5216: 2689 bottles of 1000s 
+Lot #179D5121: 11,047 bottles of 1000s.. 
+Second Extension (8/9/01): Lot 232E9126: 3823 bottles.
+*** Third Extension (9/6/01):Lot 205D6684: 3814 bottles.
+Lot 206D6684: 3752 bottles.
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+D-297-1Temodar Capsules (Temozolomide) 250mg, 20 capsules per bottle,
+Lot Number 9-PHT-4, Exp. Date August 2002. Rx only
+Each bottle packaged in an individual folding carton, for oral
+administration, Rx only. Codes: Lot# 9-PHT-4 Exp. August 2002
+REASON:
+UNDER FILLED CAPSULES
+MANUFACTURER/RECALLING FIRM:
+University of Iowa - College of Pharmacy, Iowa City, IA
+RECALLED BY:
+Schering Corp. Kenilworth, NJ, by letters faxed and mailed
+on 7/2/01.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide
+QUANTITY:
+738 bottles of 20 capsules
+
+RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS III
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+D-041-1, Premarin Tablets,(Conjugated Estrogen Tablets USP) 1.25 mg. 
+Bottles of 5,000. New Lot numbers
+Codes: Lot 9010249, exp. Sept. 2003
+Lot 9010403, exp. Sept. 2003
+REASON:
+DISSOLUTION FAILURE
+MANUFACTURER/RECALLING FIRM:
+Ayerst Laboratories Rouses Point, NY
+RECALLED BY:
+Wyeth Ayerst Pharmaceuticals Richmond, VA, by letters
+sent August 8, 2001.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+AL, FL, NJ, NY, OH, TN, and TX
+QUANTITY:
+2,070 bottles
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+D-298-1,TRAV-L-TABS (Meclizine HCl) 25 mg per tablet, 60 tablets
+per bottleCodes: lots: 191002 Exp 9-01; 
+191111 Exp 10-01
+REASON:
+PRODUCTION VALIDATION DEVIATION (Extended Holding Times for
+Powdered Ingredients)
+MANUFACTURER/RECALLING FIRM:
+Wendt Laboratories, Inc., Belle Plaine, MN
+RECALLED BY:
+Manufacturer, by letter dated July 20, 2001
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+ID, IL, NE, WI
+QUANTITY:
+770 bottlesRECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS II
+______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1595-1, Red Blood Cells, Leukocytes Reduced, unit number 2210864
+B-1596-1, Cryoprecipitated AHF, unit number 2210864
+REASON:
+Blood products, corresponding to a unit of plasma possibly
+contaminated with Staphylococcus epidermidis bacteria, 
+were distributed.
+MANUFACTURER/RECALLING FIRM:
+LifeShare, Inc., Elyria, OH
+RECALLED BY:
+Recalling Firm, by letter dated February 15, 2001
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+OH and MS
+QUANTITY:
+2 units
+
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1897-1, Red Blood Cells, (4 units), unit numbers 2104363, 2204393,
+2140793, and 2206400
+B-1898-1, Fresh Frozen Plasma, (2 units), unit numbers 2104363 
+and 2204393
+REASON:
+Blood products, corresponding to units of Platelets which were
+pooled and possibly contaminated with coagulase negative Staphylococcus
+sp. bacteria, were distributed.
+MANUFACTURER/RECALLING FIRM:
+LifeShare, Inc., Elyria, OH
+RECALLED BY:
+Recalling firm, by letter dated February 15, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+OH
+QUANTITY:
+6 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1903-1 Red Blood Cells, unit number 21GW18707;
+B-1904-1 Recovered Plasma, unit number 21GW18707 
+REASON:
+Blood products, collected from an unsuitable donor due to
+a history von Willebrand�s disease and medication with clotting
+factor concentrates, were distributed.
+MANUFACTURER/RECALLING FIRM:
+The American National Red Cross, Pacific Northwest Region, 
+Portland, 
+RECALLED BY:
+Recalling Firm, by letters on July 18 and 26, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+WA and NY
+QUANTITY:
+2 units_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1905-1, Platelets Pheresis, Leukocytes Reduced, unit number 10708-3157
+REASON:
+Blood product, that was labeled leukoreduced but had an elevated
+white blood cell count, was distributed.
+MANUFACTURER/RECALLING FIRM:
+Blood Systems, Inc. Scottsdale, AZ
+RECALLED BY:
+Recalling Firm, by telephone on February 21, 2001 and letter
+dated March 19, 2001
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+AZ
+QUANTITY:
+1 unit
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS III_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1594-1,Platelets Pheresis, unit number LT12515
+REASON:
+An investigational blood product was distributed and transfused
+to an individual that was not part of the clinical study.
+MANUFACTURER/RECALLING FIRM:
+Central Blood Bank, Pittsburgh, PA
+RECALLED BY:
+Institute for Transfusion Medicine Clinical Services, Pittsburgh, PA,
+by visit on August 22 and 23, 2000. 
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+PA
+QUANTITY:
+1 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1899-1, Red Blood Cells, Leukocytes Reduced, 
+unit numbers 15387-4761 and 15387-4762
+REASON:
+Blood products, labeled with the incorrect expiration date,
+were distributed.
+MANUFACTURER/RECALLING FIRM:
+Blood Systems, Inc., Lubbock Center, Lubbock, TX
+RECALLED BY:
+Recalling Firm, by telephone on March 22, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Texas
+QUANTITY:
+2 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1900-1, Red Blood Cells, Irradiated, unit number 49FE03081;
+B-1901-1, Red Blood Cells, Leukocytes Reduced, Irradiated (9 units),
+unit numbers 49LL08111, 49LH46709, 49LQ13934, 49FJ77288, 49FJ77301,
+49LG52436, 49GR30383, 49FF41676, and 49FF41683
+REASON:
+Blood products, labeled with the incorrect expiration date, were 
+distributed.
+MANUFACTURER/RECALLING FIRM:
+The American National Red Cross, Southwest Region, Wichita Falls, TX
+RECALLED BY:
+Recalling Firm, by letter dated August 31, 2000 and follow-up letter
+on October 2, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+TX
+QUANTITY:
+10 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1902-1, Platelets, unit number 4792509
+REASON:
+Blood Product, labeled with the incorrect expiration date, 
+was distributed.
+MANUFACTURER/RECALLING FIRM:
+Coffee Memorial Blood Center, Inc., Amarillo, TX.
+RECALLED BY:
+Recalling Firm, by letter dated June 5, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+TX
+QUANTITY:
+One unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1906-1, Red Blood Cells, Leukocytes Reduced, unit number FM34636.
+REASON:
+Blood product, that was labeled as leukoreduced but failed quality
+control testing due to an elevated white blood cell count, was distributed.
+MANUFACTURER/RECALLING FIRM:
+/Healthcare Provider Services, Inc., dba Rhode Island Blood Center,
+Providence, RI
+RECALLED BY:
+Recalling Firm, by telephone on May 23, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+RI
+QUANTITY:
+1 unit
+
+RECALLS AND FIELD CORRECTIONS: DEVICES -- CLASS II______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-1041-1, Valleylab LigaSure vessel sealing system,
+CODES: Catalog Number: LS1000, Lot ANH000503.
+REASON:
+Previously recalled product, not released for distribution, 
+was distributed.
+MANUFACTURER/RECALLING FIRM:
+Valleylab, Inc., Boulder, CO
+RECALLED BY:
+Recalling Firm, by letter dated 05/04/2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+CA, CO, and PA.
+QUANTITY:
+18 units
+______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-1106-1 - Z-1108-1
+Programmable Multi-Axis Controller (PMAC 2 Lite) circuit board 
+installed in E.CAM Emission Imaging Computed Tomography Systems 
+used for all common nuclear medicine procedures;
+Codes: a) Model 4380213 - E.CAM Gantry Single Head, 
+serial numbers 0001 through 2016
+b) Model 4380221 - E.CAM Gantry Dual Head, 
+serial numbers 0005 through 2038, and 31827
+c) Model 5242826 - E.CAM Gantry Dual Head,serial numbers 1001 through 2012
+REASON:
+Resistor Packs installed backward causes software errors.
+MANUFACTURER/RECALLING FIRM:
+SIEMENS MEDICAL SYSTEMS, INC. HOFFMAN ESTATES, IL
+RECALLED BY:
+Recalling Firm, by visit on 12/4/98. No end user 
+notifications were issued.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Nationwide and worldwide
+QUANTITY:
+229 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-1116-1/Z-1148-1
+Various sterile surgical convenience kits and trays, including biopsy,
+pacemaker, and cardiac catheterization procedural trays manufactured 
+and labeled by AVID Medical, Inc., identified by catalog, lot number 
+and date of manufacture on each product, and containing vialed 
+injectables:
+Ephedrine Sulfate 1 ml/50mg
+Heparin Sodium, 10 ml vial
+Heparin Injection 10 ml 1000 unit/ml
+Heparin Lock 10 ml, 100 u/ml
+Z Heparin Lock, 1 ml, 100 units
+Lidocaine, 1% 30 mL MDV
+Lidocaine, 50 mL 2% Vial M-Dose
+Lidocaine 30 ml 2% Vial
+Lidocaine, 30ml 1% VL Sng Dose
+Lidocaine, 2%hcl 20 ml
+Lidocaine, 50 ml 1% multidose
+Lidocaine, 20 ml 1% multidose
+Polocaine, 50 ml, 2% vial
+Sensorcaine, .5% w/EPI 30 ml
+Sodium Bicarbonate, 4%, 5ml VL
+Sodium Chloride, 30 ml .9% vial
+Sodium Chloride, 5cc vial
+Codes:CAT # Lot # Kit Description
+PLAS0001 #301893 Hair transplant 
+AV011303-02 #307827 Needle Core Breast Biopsy
+AV011225 #306259,307312 Breast Pack
+SUBE0007-01 #308133 Angio
+SUBE0003 #308006  U.S/C.T. Biopsy
+FOHF0010-02 #307711,307832 Biopsy Myelogram
+FOHF0011-02 #307553,308271 Angio
+MGHM0002 #306109,306644 Biopsy
+NAVY001 #306554,307816 Cardiac Cath
+SUBE0002 #303596 Breast Biopsy
+AMBL0002 #307750 Vasectomy
+AMBL0004 #307597 Vasectomy 
+SMHC0001 #307015,307658 Cardiac Cath
+STMH0001-01 #306586,307891 Angio
+MGHM0001 #307763 Angio 
+SMHC0005-01 #308245 Suture Tray
+SMHC0004-01 #306815,307821 Angio
+MINN0005-04 #307559, Angio
+AC010928-01 #307275 E-P Tray 
+AV010929 #308036 Pacemaker
+NAPO0035-01 #306481 AV Fistula
+NAPO0036-01 #306482,307489 	Carotid Endart
+AV010913-01 #308024 Arthroscopy
+VMCC0001 #306904,307594 Cardiac Cath
+AV010767 #307051 Femoral 
+AV010992-02 #307795 Angio
+TUCP0012-03 #307018 Neuro Angio
+TUCP0020-03 #307975 Angio
+TUCP0022-02 #307022,306475 Vascular 
+PMCP0002 #307543,307818 Special Angio
+AV010892-01 #307394 Cardiac Cath
+HOUS0030-02 #304837 Heart tray
+MEDE0015 #307477 Cardiac Cath
+Each containing one or more of following lot numbers of injectables:
+VIAL INJECTABLE DESCRIPTION: ALL EXPIRY BETWEEN MAY 2001-SEP 2003
+LIDOCAINE VIAL 30ML Lot 69-303-DK
+LIDOCAINE 20ML VIAL Lot 63-249-DK, 69-03-DK, 52-572-DK
+LIDOCAINE VIAL 30ML Lot 63-264-DK
+EPHEDRINE SULFATE 1ML LOT 50-218-DK-01 
+LIDOCAINE VIAL 30ML+ LOT 59-275-DK-01, 61-061-DK-01, 59-220-
+SODIUM BICARBONATE 5ML VL DK-01 
+SODIUM CHLORIDE VIAL 5CC LOT 9K003 
+SODIUM CHLORIDE VIAL 10CC LOT 66-394-DK
+SODIUM CHLORIDE VIAL 10CC LOT 67-021-DK
+SODIUM CHLORIDE VIAL 10CC LOT K150061
+EPHEDRINE SULFATE 1ML LOT K150050
+EPHEDRINE SULFATE 1ML LOT 46-349-DK
+EPHEDRINE SULFATE 1ML LOT 46-349-DK-01
+EPHEDRINE SULFATE 1ML LOT 64-510-DK-01
+HEP SODIUM 10ML VIAL LOT 089138, 66-394-DK
+LIDOCAINE VIAL 30ML LOT 65-364-DK
+HEP SODIUM 10ML VIAL LOT 089138, 66-394-DK
+LIDOCAINE 20ML VIAL+ LOT 50-298-DK, 58-691-DK, 58-465-DK
+SODIUM CHLORIDE 30ML VIAL
+LIDOCAINE 30ML VIAL LOT 040025
+LIDOCAINE VIAL 30ML LOT 64-411-DK-01
+LIDOCAINE 50ML VIAL LOT 65-290-DK-01 
+LIDOCAINE VIAL 30ML LOT 65-364-DK
+LIDOCAINE 50ML VIAL LOT 59-113-DK
+HEPARIN INJ 10ML VIAL LOT 030091
+HEPARIN INJ 10ML VIAL LOT 030093
+LIDOCAINE VIAL 30ML LOT 66-637-DK
+LIDOCAINE VIAL 30ML LOT 66-636-DK
+LIDOCAINE VIAL 30ML LOT 65186-DK01, 66636-DK01
+LIDOCAINE 30ML 2% VIAL LOT 070128
+LIDOCAINE VIAL 30ML LOT 66-636-DK-01, 64-568-DK-01
+LIDOCAINE 50ML VIAL LOT 68-690-DK01, 68-690-DK02
+LIDOCAINE VIAL 30ML LOT 65-061-DK, 65-364-DK
+LIDOCAINE 30ML 2% VIAL LOT 040150
+LIDOCAINE VIAL 30ML LOT 66-636-DK,66-673-DK
+POLOCAINE 50ML VIAL+ LOT 001098,030119,119035
+HEP LOCK 10ML
+SODIUM BICARBONATE 5ML VL LOT 67-129-DK-01
+LIDOCAINE 20ML VIAL LOT 68-364-DK,61-046-DK,LOT 67-027-DK-01
+LIDOCAINE 50ML VIAL LOT 69-201-DK01 
+LIDOCAINE 50ML VIAL LOT 66-506-DK
+SODIUM BICARBONATE 5ML VL+ LOT 67-129-DK-01
+SODIUM CHLORIDE 10ML VIAL LOT 65-230-DK
+LIDOCAINE VIAL 30ML LOT 66-636-DK,68-567-DK
+LIDOCAINE 20ML VIAL LOT 69-233-DK-01
+LIDOCAINE VIAL 30ML LOT 68-583-DK
+HEPARIN INJ 10ML VIAL LOT 080082
+LIDOCAINE 50ML VIAL LOT 69-201-DK, 63-157-DK
+LIDOCAINE VIAL 30ML LOT 68-657-DK-01, 68-867-DK-01, 66-636-DK-01
+LIDOCAINE 30ML 2% VIAL LOT 070128, 080184
+LIDOCAINE 20ML VIAL+ LOT 69-048-DK
+SODIUM BICARBONATE 5ML VL LOT 67-129-DK
+LIDOCAINE 50ML VIAL LOT 68-690-DK-01, 69-203-DK-02
+LIDOCAINE 20ML VIAL LOT 69-233-DK
+LIDOCAINE 20ML VIAL LOT 69-233-DK-01
+LIDOCAINE 30ML 2% VIAL LOT 070128
+LIDOCAINE 30ML 2% VIAL LOT 040150
+LIDOCAINE VIAL 30ML LOT 69-303-DK, 68-583-DK
+HEPARIN LOCK 1ML LOT 050147
+SENSORCAINE 30ML VIAL LOT 004031 
+LIDOCAINE 50ML VIAL LOT 68-690-DK
+SODIUM BICARBONATE 5ML VL LOT 69-258-DK-01,67-129-DK-01
+LIDOCAINE VIAL 30ML LOT 69-303-DK
+SODIUM BICARBONATE 5ML VL+ LOT 61-044-DK-01
+SODIUM CHLORIDE 10ML VIAL
+LIDOCAINE 50ML VIAL LOT 69-159-DK
+LIDOCAINE 50ML VIAL LOT 69-265-DK-01, LOT 69-338-DK-01
+LIDOCAINE VIAL 30ML LOT 69-293-DK
+REASON:
+Stability and potency of kit injectable components cannot be 
+assured after sterilization
+MANUFACTURER/RECALLING FIRM:
+Avid Medical, Inc., Toano, VA
+RECALLED BY:
+Recalling Firm, by letters on 1/24/2001.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide
+QUANTITY:
+3408 kits and/or trays
+______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-1149-1,BVS 5000i Bi-Ventricular Support Console
+S/N's: 1599, 1601, 1602, 1609, 1611-1646
+Codes: BVS 5000i Bi-Ventricular Support Console
+S/N's: 1599, 1601, 1602, 1609, 1611-1646
+REASON:
+Leaking Compressor gaskets may cause low flow
+MANUFACTURER/RECALLING FIRM:
+Abiomed, Inc., Danvers, MA.
+RECALLED BY:
+Recalling Firm, by fax on 5/25/01.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Nationwide; Foreign: Australia, Netherlands,
+(Hospital Laval, Quebec) Canada, Spain, Mexico
+QUANTITY:
+40
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-1150-1 - Z-1151-1,CryoValve Allograft (Heart Valve)
+Codes: Model AV00 - Serial Number 3936694
+Model PV00 - Serial Number 3936708
+REASON:
+Does not meet current guidelines regarding serodilution of
+plasma.
+MANUFACTURER/RECALLING FIRM:
+CRYOLIFE, INC. KENNESAW, GA
+RECALLED BY:
+Recalling Firm by letters on 12/12/00
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+NC and OK
+QUANTITY:
+2 values
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-1152-1 - Z-1153-1
+Olympic Medical Vac Pac - primarily used to assist in maintaining
+patient position during surgery. 
+Codes: Catalog #51630, size 30, serial #s 69862 through 70114 Catalog 
+#51635, size 35, serial #s 69787 through 69830
+REASON:
+Weak Seam Seal - Product not remaining firm as intended.
+MANUFACTURER/RECALLING FIRM:
+OLYMPIC MEDICAL CORP. SEATTLE, WA 
+RECALLED BY:
+Recalling Firm, by letter on 6/14/01, follow-up fax on 
+7/9/01 and telephone on 7/16/01.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide and Canada, Ireland, Korea, New Zealand, Thailand,
+The Netherlands, United Kingdom and Germany
+QUANTITY:
+Catalog #51630 - 209; Catalog #51635 - 33
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-1154-1, Roche/Hitachi Modular P Laboratory Clinical Chemistry
+Analyzer,Catalog No. 766-4019, All Serial Numbers;
+REASON:
+Incorrect results are obtained if the wash rack is placed on
+the instrument before placing the instrument in standby or stop mode.
+MANUFACTURER/RECALLING FIRM:
+Roche Diagnostics Corp., Indianapolis, IN
+RECALLED BY:
+Recalling Firm, by Product Correctionletter (Customer Bulletin) dated
+August 1, 2001.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide
+QUANTITY:
+150
+________________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-1170-1 - Z-1183-1
+Intravenous Administration Sets for use with Gemstar infusion pumps.
+Z-1170-1: 13009-01 Latex-Free GemStar Pump Set-SL, Non-Vented, 110 " 
+(w/ Yellow Striped Tubing)
+Z-1171-1: 13012-01 GemStar Pump Set with 0.2 Micron Filter,
+LIFESHIELD Prepierced Reseal Y Site, Non-Vented, 96 Inch- SL
+Z-1172-1: 13013-01 GemStar Nonphthalate Pump Set with 1.2 Micron, 
+Filter, LIFESHIELD Prepierced Reseal Y Site Nonvented, 96"-SL
+Z-1173-1: 13014-01 GemStar Primary Pump Piggyback Set, with 
+Convertible Piercing Pin, 110 inch with Backcheck
+Injection Site, Prepierced/Prepierced Y-Injection Site SL
+Z-1174-1: 13015-01 LifeShield Latex-Free GemStar Pump Set-SL, 
+Nonvented, 96 inch (with Orange Polyethylene-lined resistant Tubing)
+Z-1175-1: 13016-01 Latex-Free GemStar I.V. Pump Set w/ PCA
+Extension-SL, Nonvented, 110 inch
+Z-1176-1: 13030-01 GemStar HEMA II Y-Type Blood Pump Set 
+Z-1177-1: 13042-01 LifeShield Latex-Free Microdrip Soluset GemStar 
+150 mL Burette Pump Set - SL, Convertible Pin, 110 inch
+Z-1178-1: 13043-01 GemStar Primary Pump Set
+Z-1179-1: 13044-01 GemStar Pump I.V. Set
+Z-1180-1: 13046-01 Latex-Free GemStar Pump Set-SL, Nonvented, 
+96 inches
+Z-1181-1: 13242-01 LifeShield Latex-Free Microdrip Soluset 
+GemStar 150 mL Burette Pump Set-OL, Convertible Pin, 110 inch with
+3 Clave Ports
+Z-1182-1: 13243-01 LifeShield Latex-Free GemStar Piggyback Pump Set-
+OL, Convertible Pin, 110 inch with 0.2 Micron Filter and 3 Claves
+Z-1183-1: 13245-01 LifeShield Latex-Free GemStar Primary Piggyback 
+Pump Set - OL, Convertible Pin, 110 inch with 2 Claves
+Codes: 
+List No. 13009-01
+Lots 45307HG, 70011HG, 75084HG, 77070HG, 78090HG
+List No. 13012-01
+Lots 79099HG, 75105HG, 73141HG, 70136HG, 68165HG, 45295HG
+List No. 13013-01
+Lots 76068HG, 75088HG, 73151HG, 70224HG, 68144HG, 46256HG
+List No. 13014-01
+Lots 68148HG, 60303HG, 47205HG, 43289HG, 75094HG
+List No. 13015-01
+Lots 69172HG, 48246HG, 74076HG
+List No. 13016-01
+Lots 45308HG, 77158HG
+List No. 13030-01
+Lots 63127HG, 70268HG, 75061HG
+List No. 13042-01
+Lots 70107HG, 63107HG
+List No. 13043-01
+Lots 68247HG, 74070HG, 78120HG
+List No. 13044-01
+Lots 70226HG, 68229HG
+List No. 13242-01
+Lot 76211HG
+List No. 13243-01
+Lot 77262HG
+List No. 13245-01
+Lots 78233HG, 77263HG
+List No. 13046-01
+Lots 75108HG, 76140HG, 73146HG, 70204HG, 71117HG, 53128HG, 50352HG, 
+67212HG
+REASON:
+Sets over infuse with user error during setup
+MANUFACTURER/RECALLING FIRM:
+Abbott Laboratories, Inc. Laurinburg, NC 
+RECALLED BY:
+Abbott Laboratories, Inc. San Diego, CA, by letter dated July 30, 2001.
+FIRM INITIATED RECALL: 
+Ongoing
+DISTRIBUTION:
+Nationwide and to United Kingdom, France, Canada, Australia 
+QUANTITY: 
+89,468
+________________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-1184-1 - Z-1185-1
+AxSYM Troponin-I; a Microparticle Enzyme Immunoassay (MEIA) for the
+quantitative determination of cardiac troponin-I in human serum or 
+plasma on the AxSYM System. Troponin-I values are used to assist in 
+the diagnosis of acute myocardial infarction (AMI). Abbott 
+Laboratories, Diagnostics Division, Abbott Park, IL 60064
+Codes: Reagent Lots - list 3C29-20; lots 69644M300, 69644M301, 70246M300, 
+70246M301, 70974M300, 70974M301, 71096M200, 71096M201, 71112M200, 71112M201,
+71113M200, 71113M201, 71115M200, 71115M201, 71214M100, 71214M101, 71215M100,
+71215M101
+Calibrator Lots - list 3C29-01: Lots 70525M100, 70525M101, 
+70525M102
+REASON:
+Falsely high results
+MANUFACTURER/RECALLING FIRM:
+Abbott Laboratories, Inc. Abbott Park, IL 
+RECALLED BY:
+Recalling Firm, by letters dated 2/20/01.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide, and International
+QUANTITY:
+35523 -reagent, 3241 -calibratorRECALLS AND FIELD CORRECTIONS: DEVICES -- CLASS III_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-1115-1
+Disposable Glass Tip (P/N 10,010,142), a single use component used 
+with Dermabrader DMS1000 handpiece, for scar revision and tattoo removal.
+Instrument is classified as a Dermatome, class I device. Disposable tips 
+packaged in cartons, 24 pieces/carton.
+Codes: Lots 637, 691, 11, and 39
+REASON:
+Burr on plastic tip of dermabrasion instrument could cause injury to 
+skin.
+MANUFACTURER/RECALLING FIRM:
+Mattioli Engineering Corporation, SRA, Firenze Italy.
+RECALLED BY:
+Mattioli Engineering Corporation, Arlington, VA, issued e-mails
+on 4/3/2001 and 5/7/2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+CA, SC, FL, NY, TX, and CO, and Canada
+QUANTITY:
+3032 pieces
+______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-1155-1
+Steris Quick Connect, Model C1665, is designed to process the Olympus
+20D Series and BF-XT20 Bronchoscopes in STERIS SYSTEM I Sterile Processing
+System, with C1160 Universal Processing Tray.
+Codes: Lot Number: CA22900.
+Catalogue Number: #QC 1665.
+REASON:
+The tubing in the kits are labeled with an incorrect endoscope model 
+number.
+MANUFACTURER/RECALLING FIRM:
+STERIS CORP. MENTOR, OH 
+RECALLED BY:
+Recalling Firm, by telephone on 9/15/2000 
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+GA
+QUANTITY:
+2 units
+END OF ENFORCEMENT REPORT FOR SEPTEMBER 19, 2001
+ 
+ ####
+
+ 
+
+ FDA News Page   
+  |   FDA Home Page 
+                                                          
+  
+
+Office of Public Affairs
+  Hypertext uploaded by tg 2001-SEPT-20.

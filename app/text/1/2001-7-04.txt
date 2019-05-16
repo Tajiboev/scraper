@@ -1,0 +1,1034 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      30 captures
+	      26 Jul 2001 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA 
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and
+Drug Administration, Department of Health and Human Services. 
+It contains information on actions  taken in connection with agency
+Regulatory activities.
+
+
+
+
+July 04, 2001                                                    01-26
+
+
+
+RECALLS AND FIELD CORRECTIONS: FOODS -- CLASS III
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+F-435-1
+Product labeled as: "Nature's Wealth brand Chelated Potassium 99 mg 
+Dietary Supplement", 100-tablets bottles.  Firm identified on the label:  
+"Natural Welath Nutrition Corp Bohemia, Ny".
+REASON:
+Bottles labeled as "Chelated Potassium 99 mg" actually contained a 
+different product, "Ultra Vita-Min Ultra Potency Vitamin & Mineral 
+Formula".
+MANUFACTURER:
+NBTY, Inc., Bohemia, NY 
+RECALLED BY:
+The firm sent a recall letter, dated 12/01/00.
+FIRM INITIATED RECALL:
+Complete.
+DISTRIBUTION:
+Nationwide
+QUANTITY:
+1086 - 100 tablet bottles 
+
+RECALLS AND FIELD CORRECTIONS: DRUGS -- CLASS II
+________________________________
+RECALL NUMBER, PRODUCT AND CODE:
+D-240-1, ADAGEN (pegademase bovine injection) 250 units per mL.  
+Intramuscular use only 1.5 mL single-dose vials (units of 4) 
+Rx only. 
+NDC 57665-001-01
+NDA 19-818
+REASON:
+Cross contamination with FOMEPIZOLE (4-METHYL-PYRAZOLE)
+MANUFACTURER/RECALLING FIRM:  
+Enzon, Inc, Piscataway, NJ
+RECALLED BY:
+Manufacturer, on March 23, 2001, by telephone. 
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+CA, FL, IL, LA, MD, MA, NY, NC, OH, OK, TN, TX, UT and 
+including Japan, Australia, Canada, Denmark, Croatia, France, Germany, 
+Italy, Switzerland, and Spain
+QUANTITY
+792 vials 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+D-241-1, Serostim, 6 mg. vials (somatropin rDNA origin for injection), 7 
+vials per carton with 7 vials of sterile diluent.  Lot Number MNH605A, 
+Exp. 4/02
+REASON:
+COUNTERFEIT 
+MANUFACTURER:
+Unknown
+RECALLED BY:
+Distributor or recalling firm, issued recall notice via letter on 
+5/15/01. 
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+GA, SC and SC
+QUANTITY:
+4 cartons, 7 x 6 mg. vials per carton
+
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS II
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-887-1, Red Blood Cells, unit 4056710
+B-888-1, Platelets, unit 4056710
+REASON:
+Blood products, collected from a donor with Crohn�s disease, were 
+distributed.	
+MANUFACTURER/RECALLING FIRM: 
+Community Blood Center, Dayton, OH
+RECALLED BY:
+The recalling firm, by letters dated September 28, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+OH
+QUANTITY:
+2 units
+_______________________________
+RECALL NUMBER,PRODUCT AND CODE:
+B-1130-1, Red Blood Cells Leukoreduced, unit 12GR03564
+REASON:
+Blood product, which was collected from a donor with active post-
+poliomyelitis muscular atrophy, was distributed.
+MANUFACTURER/RECALLING FIRM:
+American Red Cross, Carolinas Region, Charlotte, NC
+RECALLED BY:
+The recalling firm, by telephone on February 18, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+NC
+QUANTITY:
+1 unit
+________________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1449-1, Red Blood Cells, unit 1727888.
+REASON:
+Blood products, collected from a donor with a history of Hodgkin�s Disease, were 
+distributed.
+MANUFACTURER/RECALLING FIRM:
+Central Indiana Regional Blood Center, Indianapolis, Indiana
+RECALLED BY:
+The recalling firm, by letter dated September 8, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+IN and Switzerland
+QUANTITY
+1 unit
+________________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1461-1, Red Blood Cells, unit number 04R64529
+REASON:
+Blood product, collected from an unsuitable donor based on living in an 
+area considered endemic for malaria, was distributed.
+MANUFACTURER/RECALLING FIRM:
+The American National Red Cross, New England Region, Dedham, MA
+RECALLED BY:
+The recalling firm, by letter dated January 22, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MA
+QUANTITY
+1 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1462-1, Red Blood Cells (2 units), unit number 04GJ02418 (split unit)
+REASON:
+Blood products, collected from an unsuitable donor based on travel to an 
+area considered endemic for malaria, were distributed.
+MANUFACTURER/RECALLING FIRM:
+The American National Red Cross, New England Region, Dedham, MA
+RECALLED BY:
+The recalling firm, by letter dated January 23, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MA
+QUANTITY
+2 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1463-1, Red Blood Cells, unit number 04FC79460
+REASON:
+Blood product, collected from an unsuitable donor based on living in an 
+area considered endemic for malaria, was distributed.
+MANUFACTURER/RECALLING FIRM:
+The American National Red Cross, New England Region, Dedham, MA
+RECALLED BY:
+The recalling firm notified the consignee, by letter dated January 24, 
+2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MA
+QUANTITY
+1 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1464-1, Red Blood Cells, unit number 53H77398
+REASON:
+Blood product, collected from an unsuitable donor based on travel to an 
+area considered endemic for malaria, was distributed.
+MANUFACTURER/RECALLING FIRM:
+The American National Red Cross, Greater Chesapeake and Potomac Region, 
+Baltimore, MD
+RECALLED BY:
+The recalling firm, by letters dated December 8, 2000, and December 14, 
+2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MD
+QUANTITY
+1 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1465-1, Red Blood Cells, Leukocytes Reduced, unit number 29GX12243
+REASON:
+Blood product, collected from an unsuitable donor based on living in an 
+area considered endemic for malaria, was distributed.
+MANUFACTURER/RECALLING FIRM:
+The American National Red Cross, Mid-Atlantic Region, Norfolk, VA
+RECALLED BY:
+The recalling firm, by letter dated January 29, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+NC
+QUANTITY
+1 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1466-1, Red Blood Cells, unit number 29FW40076
+REASON:
+Blood product, collected from an unsuitable donor based on living in an 
+area considered endemic for malaria, was distributed.
+MANUFACTURER/RECALLING FIRM:
+The American National Red Cross, Mid-Atlantic Region, Norfolk, VA
+RECALLED BY:
+The recalling firm, by letter dated November 16, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+VA
+QUANTITY
+1 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1467-1, Red Blood Cells, Leukocytes Reduced, unit number 49GN04187
+REASON:
+Blood product, collected from an unsuitable donor based on travel to an 
+area considered endemic for malaria, was distributed.
+MANUFACTURER/RECALLING FIRM:
+The American National Red Cross, Southwest Region, Ponca City, OK
+RECALLED BY:
+The recalling firm, by letter dated January 8, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+OK
+QUANTITY
+1 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1497-1, Red Blood Cells, units 12FQ48437, 12FP34499, 12FP34084, and 
+12FR52236
+B-1498-1, Fresh Frozen Plasma, unit 12FP34084
+B-1499-1, Cryoprecipitated AHF, unit 12FQ48437
+B-1500-1, Recovered Plasma, units 12FQ48437, 12FP34499, 12FQ44113, and 
+12FR52236
+REASON:
+Blood products, which were collected from a donor with a history of 
+Behcet�s Syndrome, were distributed.
+MANUFACTURER/RECALLING FIRM:
+American Red Cross, Charlotte, NC
+RECALLED BY:
+The recalling firm, by telephone on June 4, 1999 or by letter dated June 
+8, 1999.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+NC and Switzerland
+QUANTITY
+10 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1506-1, Red Blood Cells, units 1233721, 1242026, 1246035, 1256941
+B-1507-1, Platelets, units 1233721, 1246035
+B-1508-1. Plasma, unit 1242026
+B-1509-1, Fresh Frozen Plasma, unit 1246035			
+B-1510-1, Red Blood Cells, Leukocytes Reduced, unit 1274972
+B-1511-1, Recovered Plasma, unit 1256941
+REASON:
+Blood products, collected from an unsuitable donor due to previously 
+testing positive for HIV, were distributed.	
+MANUFACTURER/RECALLING FIRM:
+Community Blood Center of Greater Kansas City, Kansas City, MO
+RECALLED BY:
+The recalling firm, by letters dated December 6, 1999.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MO, KS, CA
+QUANTITY
+10 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1523-1, Red Blood Cells (6 units), unit numbers 2201304, 8071111, 
+5032285, 5025214, 5016026, and 5005762
+B-1524-1, Platelets (2 units), unit numbers 2201304 and 5032285
+B-1525-1. Cryoprecipitated AHF (2 units), unit numbers 8071111 and 
+5025214
+B-1526-1, Fresh Frozen Plasma (3 units), unit numbers 2201304, 5016026, 
+and 5005762
+B-1527-1, Plasma, Cryoprecipitate Removed (1unit), unit number 8071111
+B-1528-1, Recovered Plasma (2 units), unit numbers 5032285 and 5025214
+REASON:
+Blood products, that tested negative for hepatitis, but were collected 
+from an unsuitable donor based on previous reactive hepatitis testing, 
+were distributed.
+MANUFACTURER/RECALLING FIRM:
+LifeShare, Inc., Elyria, OH
+RECALLED BY:
+The recalling firm notified consignees in Ohio, Florida, and Tennessee.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+OH, FL, TN
+QUANTITY
+16 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1513-1, Red Blood Cells, Leukocytes Reduced, units 0344150, 0345460, 
+0347722, 0347726, 0347733, 0347738
+REASON:
+Blood products, which were labeled as leukoreduced but did not undergo 
+leukoreduction, were distributed.
+MANUFACTURER/RECALLING FIRM:
+Community Blood Center of Greater Kansas City, Kansas City, MO
+RECALLED BY:
+The recalling firm, by telephone on October 13, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+KA
+QUANTITY
+6 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1514-1, Platelets Pheresis, Leukocytes Reduced (2 units), unit number 
+0079513 (split unit - 2 aliquots distributed)
+B-1515-1, Platelets Pheresis, Leukocytes Reduced Irradiated (3 units), 
+unit numbers 0079516 (split unit - 1 aliquot distributed) and 0079518 
+(split unit - 2 aliquots distributed)
+REASON:
+Blood products, that were labeled leukoreduced but were not tested to 
+determine the white blood cell count as required in the firm's standard 
+operating procedures, were distributed.
+MANUFACTURER/RECALLING FIRM:
+Michigan Community Blood Center, Grand Valley Blood Program, Grand 
+Rapids, MI
+RECALLED BY:
+The recalling firm, by letter on January 2, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MI
+QUANTITY
+5 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1529-1, Platelet, Pheresis, Leukoreduced , unit 3872596		
+REASON:
+Blood product, with a low platelet count, was distributed.
+MANUFACTURER/RECALLING FIRM:
+Gulf Coast Regional Blood Center, Houston, Texas
+RECALLED BY:
+The recalling firm, by fax dated June 30, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+TX
+QUANTITY
+1 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1537-1, Red Blood Cells, unit number 3809631
+B-1538-1, Cryoprecipitated AHF, unit number 3809631
+B-1539-1, Plasma, Cryoprecipitate Removed, unit number 3809631
+REASON:
+Blood products, collected from a donor who should have been deferred due 
+to use of the medication Arthrotec, were distributed.
+MANUFACTURER/RECALLING FIRM:
+Gulf Coast Regional Blood Center, Houston, Texas
+RECALLED BY:
+The recalling firm, by letter on July 7, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+TX
+QUANTITY
+3 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1540-1, Red Blood Cells, unit numbers 42W06650 and 42M97944
+B-1541-1, Red Blood Cells, Leukocytes Reduced, unit number 42FH96660
+B-1542-1, Platelets, unit number 42FH96660
+REASON:
+Blood products, that tested negative for antibody to hepatitis B core 
+antigen (anti-HBc), but were collected from a donor that previously 
+tested repeatedly reactive for anti-HBc on more than one occasion, were 
+distributed.
+MANUFACTURER/RECALLING FIRM:
+The American National Red Cross, Northern Ohio Region, Cleveland, OH
+RECALLED BY:
+The recalling firm, by letter dated February 26, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+OH
+QUANTITY
+4 units.
+
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1543-1, Red Blood Cells, Leukocytes Reduced, unit number 18GG34166
+REASON:
+Blood product, that tested negative for antibody to hepatitis B core 
+antigen (anti-HBc), but was collected from a donor that previously tested 
+repeatedly reactive for anti-HBc on more than one occasion, was 
+distributed.
+MANUFACTURER/RECALLING FIRM:
+The American National Red Cross, Great Lakes Region, Lansing, MI
+RECALLED BY:
+The recalling firm, by letter dated July 25, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MI
+QUANTITY
+1 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1544-1, Red Blood Cells, Leukocytes Reduced, unit numbers 18FX26150 and 
+18FX26162
+B-1545-1, Platelets, unit numbers 18FX26150, 18FX26158, 18FX26161, and 
+18FX26162
+REASON:
+Blood products, collected from donors whose donor suitability 
+determinations were inadequately performed, were distributed.
+MANUFACTURER/RECALLING FIRM:
+The American National Red Cross, Great Lakes Region, Lansing, MI.
+RECALLED BY:
+The recalling firm, by telephone on January 18, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MI and MN
+QUANTITY
+6
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1585-1, Red Blood Cells, Leukocytes Reduced, unit number 13GQ40747
+B-1586-1, Platelets, unit number 13GQ40747
+REASON:
+Blood products, collected from an unsuitable donor based on travel to an 
+area considered endemic for malaria, were distributed.
+MANUFACTURER/RECALLING FIRM:
+The American National Red Cross, Southeastern Michigan Region, Detroit, 
+MI
+RECALLED BY:
+The recalling firm, by letter dated February 2, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MI
+QUANTITY
+2 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1587-1, Platelets, unit number C24942
+REASON:
+Blood product, collected from an unsuitable donor based on travel to an 
+area considered endemic for malaria, was distributed.
+MANUFACTURER/RECALLING FIRM:
+Aurora Area Blood Bank, Heartland Blood Centers, Aurora, IL
+RECALLED BY:
+The recalling firm, by letter dated March 19, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+IL
+QUANTITY
+1 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1588-1, Red Blood Cells (4 units), unit numbers 3879151 and 3758915 
+(split units)
+	B-1589-1 Platelets Pheresis (1 unit), unit number 3850090
+REASON:
+Blood products, collected from an unsuitable donor based on travel to an 
+area considered endemic for malaria, were distributed.
+MANUFACTURER/RECALLING FIRM:
+Gulf Coast Regional Blood Center, Houston, TX  
+RECALLED BY:
+The recalling firm, by letters on October 20, 2000, and November 1, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+TX
+QUANTITY
+5 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1590-1, Red Blood Cells, unit number S60865
+B-1591-1, Platelets, unit number S60865
+REASON:
+Blood products, collected from an unsuitable donor based on travel to an 
+area considered endemic for malaria, were distributed.
+MANUFACTURER/RECALLING FIRM:
+Michigan Community Blood Center, Grand Valley Blood Program, Grand 
+Rapids,MI
+RECALLED BY:
+The recalling firm, letter on November 29, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MI
+QUANTITY
+2 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1597-1, Red Blood Cells, Leukocytes Reduced, unit number 3824411
+B-1598-1, Platelets, unit number 3824411
+B-1599-1, Source Leukocytes, unit number 3824411
+B-1600-1, Recovered Plasma, unit number 3824411
+REASON:
+Blood products, collected from an unsuitable donor due to a history of 
+residing in the United Kingdom for more than 6 months, were distributed.
+MANUFACTURER/RECALLING FIRM:
+Gulf Coast Regional Blood Center, Houston, TX
+RECALLED BY:
+The recalling firm, by letters on August 2, 2000, and April 23, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+TX, NJ and NY
+QUANTITY
+4 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1601-1, Red Blood Cells, units 6241118, 6144105	
+B-1602-1, Recovered Plasma, units 6241118, 6144105
+REASON:
+Blood products, collected from a donor with a history of having tested 
+positive for anti-HCV, were distributed.	
+MANUFACTURER
+Michigan Community Blood Center, Saginaw Valley Blood Program, Saginaw, 
+Michigan 
+RECALLED BY:
+Michigan Community Blood Center, Grand Valley Blood Program, Grand 
+Rapids, Michigan, by letters on or about September 19, 2000 and a Swiss 
+consignee by fax on September 21, 2001
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MI and Switzerland
+QUANTITY
+4 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1606-1, Source Plasma, units 0420888166, 0420888436, 0420890211, 
+420890474, 0420891296, 0420891501, 0420892022, 0420892407, 0420893055, 
+0420893454
+REASON:
+Blood products, collected from a donor who engaged in high-risk behavior, 
+were distributed.	
+MANUFACTURER
+North American Biologicals, Inc., Lansing, MI
+RECALLED BY:
+North American Biologicals, Inc., Boca Raton, FL, by fax dated September 
+19, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+NC
+QUANTITY
+10
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1607-1, Red Blood Cells, units 5068746, 5021652, 5006567, 4917781, 
+4865822, 4809574, 4750536
+B-1608-1, Platelets, units	5068746, 4089574
+B-1609-1, Plasma, unit 5021652
+B-1610-1, Cryoprecipitate, units 	5021652, 5006567
+B-1611-1, Recovered Plasma, units 5068746, 4917781, 4089574, 4750536	
+REASON:
+Blood products, collected from a donor with a history of hepatitis, were 
+distributed.
+MANUFACTURER/RECALLING FIRM:
+Carter BloodCare, Dallas, TX
+RECALLED BY:
+The recalling firm, by letters dated January 15, 1999.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+TX
+QUANTITY
+16 units
+_______
+RECALL NUMBER, PRODUCT AND CODE:
+B-1617-1, Hormodendrum cladosporioides, lot 202032000
+REASON:
+Allergenic extract, which failed initial bulk sterility testing, was 
+distributed.
+MANUFACTURER/RECALLING FIRM:
+Allergy Laboratories, Inc., Oklahoma City, OK
+RECALLED BY:
+The recalling firm, by letter dated February 13, 2001.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+OK
+QUANTITY
+1 lot
+RECALLS AND FIELD CORRECTIONS: BIOLOGICS -- CLASS III 
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-533-1, Red Blood Cells, unit 18FT32301
+REASON:
+Blood product, which was determined to have a hematocrit value greater 
+than 80%, was distributed.
+MANUFACTURER/RECALLING FIRM:
+American Red Cross, Great Lakes Region, Lansing, MI
+RECALLED BY:
+The recalling firm, by telephone and letter on April 25, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MI
+QUANTITY
+1 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1517-1, Red Blood Cells   Units 38L44237, 38FE33563, 38FE33278, 
+38K59003, 38E70908, 38K59036, 38E70946, 38E77059, 38FE35349, 38FE33509, 
+38FE32769, 38L43220. 
+B-1518-1, Red blood cells, Leukoreduced, Unit 38FC36671
+B-1519-1, Platelets, Units 38FC36671, 38E70946 
+B-1520-1, Fresh Frozen Plasma, Units 38E70946, 38FE32769
+B-1521-1, Recovered Plasma, Units 38L44550, 38FE33563, 38K59003, 
+38K59036,38L43220	
+REASON:
+Blood products, collected from donors who were not asked the question 
+regarding the use of the drug Propecia, were distributed.
+MANUFACTURER/RECALLING FIRM:
+American Red Cross Blood Services, Fort Wayne, IN
+RECALLED BY:
+The recalling firm, by letters or fax dated February 16, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+CA, IN, MI, NY, OH and Switzerland
+QUANTITY
+22 units
+________________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1530-1, Whole Blood (1 unit), unit number 0276103
+B-1531-1, Red Blood Cells (4 units), unit numbers 0249088,     2145854, 
+4102609, and 4112519
+B-1532-1, Red Blood Cells, Leukocytes Reduced (4 units), unit numbers 
+0269990, 2166487, 0306783, and 2178914
+B-1533-1, Platelets (3 units), unit numbers 0249088, 2145854, and 4102609
+B-1534-1, Cryoprecipitated AHF (1 unit), unit number 2178914
+B-1535-1, Plasma (1 unit), unit number 2178914
+B-1536-1, Fresh Frozen Plasma (4 units), unit numbers 0249088, 2145854, 
+4102609, and 0269990
+REASON:
+Blood products tested negative for antibodies to human immunodeficiency 
+virus, types 1 and 2 (anti-HIV-1/2), but were collected from a donor that 
+previously tested repeatedly reactive for anti-HIV-1, were distributed.. 
+MANUFACTURER/RECALLING FIRM:
+Community Blood Center of Greater Kansas City, Kansas City, MO
+RECALLED BY:
+The recalling firm, by letter dated July 11, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MO, KS, NE
+QUANTITY
+18 units
+________________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1450-1, Recovered Plasma for use in Manufacturing Injectable products, unit 
+1727888
+REASON:
+Blood product, collected from a donor with a history of Hodgkin�s Disease, were 
+distributed.
+MANUFACTURER/RECALLING FIRM:
+Central Indiana Regional Blood Center, Inc., Indianapolis, IN
+RECALLED BY:
+The recalling firm, by letters, dated September 8, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Switzerland
+QUANTITY
+1 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1472-1, Limulus Amebocyte Lysate (LAL) Reagent Water, lot numbers 
+8L5410 and 9L3690
+REASON:
+LAL Reagent Water, that may cause inhibition of the LAL assay, was 
+distributed.
+MANUFACTURER/RECALLING FIRM:
+BioWhittaker, Inc., Walkersville, MD
+RECALLED BY:
+The recalling firm, by telephone or facsimile on August 4, 2000 and 
+November 1, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Nationwide and Mexico, Brazil, South Africa, Italy, Belgium, Sweden, 
+Canada, and Pakistan
+QUANTITY
+2 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1505-1, Platelets, unit 01KX48677
+REASON:
+Blood product, prepared from a unit of Whole Blood with an extended 
+collection time, was distributed. 
+MANUFACTURER/RECALLING FIRM:
+American Red Cross Blood Services, New York-Penn Region, West Henrietta, 
+NY
+RECALLED BY:
+The recalling firm notified the consignee by letters dated December 22, 
+2000 and February 20, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+NY
+QUANTITY
+1 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1512-1, Red Blood Cells, unit 53FL89870
+REASON:
+Blood product, which was determined to have a hematocrit value greater 
+than 80%, was distributed.
+MANUFACTURER/RECALLING FIRM:
+American Red Cross, Greater Chesapeake and Potomac Region, Baltimore, MD
+RECALLED BY:
+The recalling firm, by telephone on December 16, 2000 and by letter dated 
+December 27, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MD
+QUANTITY:
+1 unit
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1522-1, Red Blood Cells, unit number 13FY56324
+REASON:
+Blood product, incorrectly tested for the Kell antigen, was distributed.
+MANUFACTURER/RECALLING FIRM:
+The American National Red Cross, Southeastern Michigan Region, Detroit, 
+MI
+RECALLED BY:
+The recalling firm, of the recall by letter on July 11, 2000.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MI
+QUANTITY:
+1 unit.
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1546-1, Red Blood Cells, unit numbers 38FC69047 and 38FC69035
+REASON:
+Blood products, labeled with a volume that was below the firm�s minimum 
+specification, were distributed.
+MANUFACTURER/RECALLING FIRM:
+The American National Red Cross, Indiana-Ohio Region, Fort Wayne, IN
+RECALLED BY:
+The recalling firm, by telephone on January 16, 2001, and by letter dated 
+February 5, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+IN
+QUANTITY
+2 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+B-1615-1, American Elm Allergenic Extract, lot B710241A
+B-1616-1, White Ash Allergenic Extract, lot B712022A
+REASON:
+Allergenic extracts, which were labeled with incorrect expiration dates, 
+were distributed.
+MANUFACTURER/RECALLING FIRM:
+Allergy Laboratories of Ohio, Inc., Columbus, OH
+RECALLED BY:
+The recalling firm, by facsimile on February 9, 2001, and by letter dated 
+February 8, 2001.
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+MD
+QUANTITY
+2 lots
+
+RECALLS AND FIELD CORRECTIONS: DEVICES -- CLASS II
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-327-1, X-Ray Table, XRT 600
+REASON:
+The units were found defective under 21 CFR 1003.2, in that they fail to comply 
+with performance standards with regards to: importation, establishing and 
+maintaining manufacturing records and finished device records, no product report 
+submitted and an inadequate certification program.
+MANUFACTURER:
+Imago Radiology, Abbiategrosso, Italy.
+RECALLED BY:
+Wuestec Medical, Mobile AL, telephoned the firm on June 7, 2001.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide
+QUANTITY
+2 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0631-1 
+Linear MC150-C Manual Collimator, catalog #70-631xx
+Z-0632-1 
+Linear MC150 Manual Collimator, catalog #70-630xx
+Z-0633-1
+Linear II Automatic Collimator, catalog #70-4300x
+Z-0634-1
+Linear III Automatic Collimator, catalog #70-53xxx
+Z-0635-1
+Linear IV Automatic Continuous SID Collimator, catalog #70-750xx
+REASON:
+Collimator housing may separate from the tube mounting plate
+MANUFACTURER/RECALLING FIRM:
+PROGENY, INC. Buffalo Grove, IL 
+RECALLED BY:
+Recalling Firm, by letters dated 1/24/01.
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide, Canada, Turkey
+QUANTITY
+224 collimators
+________________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0636-1, Osmo 23G series reverse osmosis machine with the Permeate 
+Divert Option.  These are intended to purify the water for use in 
+hemodialysis applications.
+REASON:
+Potential failure of Permeate valve could allow feed water into permeate 
+stream 
+MANUFACTURER/RECALLING FIRM:
+OSMONICS, INC. Minnetonka, MN 
+RECALLED BY:
+OSMONICS, INC. KENT, WA, on 3/2&5/01 by letters, and by telephone on 
+3/6/01. 
+FIRM INITIATED RECALL:
+Ongoing
+DISTRIBUTION:
+Nationwide and Canada
+QUANTITY
+386
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+Z-0637-01 thru Z-0638-01
+Intra-Ocular Lens. Silicone based. These lens are sterile and foldable. 
+The affected lens come in two styles - plated haptics and a modified C 
+loop haptic. Various models and diopters are involved. Each IOL is 
+contained inside a small cardboard box that is labeled in part, �STAAR 
+IOL FOLDABLE INTRAOCULAR LENS *** FOR SINGLE USE ONLY *** STERILE *** 
+*** MODEL *** DIOPTER�.
+
+510K/PMA PMA P910059 for models AA; and P910060 for models AQ
+
+Only model numbers with a prefix of "AA" (plate haptic) 
+or "AQ" (loop haptic) may be affected.
+
+Serial numbers are too numerous to list as they are not 
+consecutive.
+REASON:
+Increased tear rate of lens upon insertion into the eye. 
+MANUFACTURER/RECALLING FIRM:
+STAAR SURGICAL CO., MONROVIA, CA 
+RECALLED BY:
+Recalling Firm by First Class letter dated 4/5/2001. 
+FIRM INITIATED RECALL:
+Complete
+DISTRIBUTION:
+Nationwide. Internationally to Canada, Newfoundland, Puerto Rico, Nova 
+Scotia. 
+QUANTITY
+25,000 lenses
+
+RECALLS AND FIELD CORRECTIONS: VETMED -- CLASS II
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+V-351-1, Veterinary Device - Anesco brand Mapleson C breathing circuits, Ref 
+#A1003.
+REASON:
+Potential occlusion due to excess plastic in the fresh gas inlet of the elbow
+MANUFACTURER/RECALLING FIRM:
+King Systems Corportion, Noblesville, Indiana
+RECALLED BY:
+Recalling Firm, by letters on January 30, 2001.
+FIRM INITIATED RECALL:
+Ongoing.
+DISTRIBUTION:
+Nationwide, Canada, Japan and Mexico
+QUANTITY:
+21,680 units
+_______________________________
+RECALL NUMBER, PRODUCT AND CODE:
+V-352-1, Bulk Lamb Meal, All lots of bulk lamb meal shipped by the recalling 
+firm
+REASON:
+The product is not labeled with the required caution statement �Do not feed to 
+Cattle or other Ruminants.�
+MANUFACTURER/RECALLING FIRM:
+International Proteins Corporations (IPC), St. Paul MN
+RECALLED BY:
+Recalling Firm, Revised labeling by letter on April 17, 2001.
+FIRM INITIATED RECALL:
+Ongoing.
+DISTRIBUTION:
+MN, IL, MO, AR and TX
+QUANTITY
+3,094 tons
+
+END OF ENFORCEMENT REPORT FOR July 04, 2001.
+
+####
+
+
+
+
+
+
+
+FDA News Page   |   FDA Home Page 
+                                                          
+  
+
+Office of Public Affairs
+Hypertext uploaded by smc 2001-JUL-03.
