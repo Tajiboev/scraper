@@ -172,7 +172,7 @@ const getters = {
     let pos_start = element.indexOf("reason");
     let pos_end = element.indexOf("volume of", pos_start);
     if (pos_start != -1 && pos_end != -1) {
-      let raw = element.slice(pos_start, pos_end).remove("reason").trim()
+      let raw = element.slice(pos_start, pos_end).remove("reason")
       if(raw[0] != undefined){
         let result = `${raw[0].toUpperCase() + raw.substr(1)}`
         return result

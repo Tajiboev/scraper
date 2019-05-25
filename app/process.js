@@ -121,9 +121,7 @@ const singlify = (text, info) => {
   let single = text.slice(pos_start, pos_end);
   accumulatorArray.push(`${info} ${single}`);
   let remaining = text
-    .remove(single)
-    .remove(".")
-    .trimLeft();
+    .remove(single, '.')
   singlify(remaining, info);
 };
 
