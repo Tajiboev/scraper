@@ -1,8 +1,28 @@
-const fs = require("fs");
-const _ = require("lodash");
-const Excel = require("exceljs");
-const moment = require("moment");
+const fs = require("fs"),
+      _ = require("lodash"),
+      get = require('./get'), // methods for getting necessary information from a paragraph 
+      Excel = require("exceljs"); // for exporting data to a spreadsheet
 
+
+// remove first occurence of given argument(s) from a string
+String.prototype.remove = function (...args) {
+  let initialString = this.toString();
+
+  return args.reduce((acc, current) => {
+    return acc.replace(current, "");
+  }, initialString).trim();
+};
+
+// make result look more beautiful
+const beautify = text => {
+  return _.words(text, /[^, ]+/g)
+    .map(word => _.capitalize(word))
+    .join(" ")
+    .trim();
+};
+
+
+// read the file and initiate main logic
 const textjs = filename => {
   fs.readFile(`text/${year}/${filename}`, "utf8", (err, data) => {
     if (err) {
@@ -13,28 +33,32 @@ const textjs = filename => {
   });
 };
 
+// main logic goes here
 const accumulatorArray = [];
+
 const process = data => {
   let transformedText = transform(data);
   let dividedAndFiltered = divideAndFilter(transformedText);
+  
   for (i of dividedAndFiltered) {
     let extra = `${category(i)} class ${classification(i)}`;
     singlify(i, extra);
   }
-  // console.log(accumulatorArray);
   getTheInfo(accumulatorArray);
 };
 
+// manipulate the raw text to make it easier to work with
 const transform = text => {
-  var transformed = text
+  let transformed = text
     .toLowerCase()
     .replace(/\s\s+/g, " ")
     .replace(/([ ]{2,})/g, " ")
     .replace(/\. /g, ".\n")
-    .replace(/Recalls and Field Corrections/gi, "KEYWORDHERE");
+    .replace(/recalls and field corrections/gi, "KEYWORDHERE");
   return transformed;
 };
 
+// divide the transformed text to paragraphs that contain Biologics, Drugs or Devices
 const divideAndFilter = rawtext => {
   let keywordcount = rawtext.match(/KEYWORDHERE/g).length;
   let arr = [];
@@ -75,68 +99,56 @@ const divideAndFilter = rawtext => {
 };
 
 const classification = element => {
-  let classX = element.substr(element.indexOf("class"), 9).replace("class", "");
+  let classX = element.substr(element.indexOf("class"), 9).remove("class");
   return _.words(classX.toUpperCase()).join(" ");
 };
 
 const category = element => {
-  let categoryX = element
-    .substr(element.indexOf("KEYWORDHERE:"), 17)
-    .replace("KEYWORDHERE:", "")
-    .trim();
-
-  switch (categoryX) {
-    case "drug":
-      categoryX = "Drugs";
-      break;
-    case "biol":
-      categoryX = "Biologics";
-      break;
-    case "devi":
-      categoryX = "Devices";
-      break;
-    default:
-      categoryX = "Not Found";
-  }
-
-  return beautify(categoryX);
+  let result = element.includes('bio') && 'Biologics' || element.includes('drug') && 'Drugs' || element.includes('device') && 'Devices'
+  return result
 };
 
-const singlify = (text, cc) => {
-  let info = cc;
-  let product = text.indexOf("product");
-  if (product == -1) return;
-  let reason = text.indexOf("reason", product);
-  let end = text.indexOf(".", reason);
-  let single = text.slice(product, end);
+// divide to single product
+const singlify = (text, info) => {
+  let pos_start = text.indexOf("product");
+  let pos_check = text.indexOf("distribution", pos_start);
+  if (pos_start == -1) return;
+  let pos_end = text.indexOf("product", pos_check);
+  if (pos_end == -1) {
+    pos_end = text.length
+  }
+
+  let single = text.slice(pos_start, pos_end);
   accumulatorArray.push(`${info} ${single}`);
   let remaining = text
-    .replace(single, "")
-    .replace(".", "")
+    .remove(single)
+    .remove(".")
     .trimLeft();
   singlify(remaining, info);
 };
 
+// collect all needed information for each product
 const getTheInfo = container => {
-  let lastResult = container.map(element => {
+  let informationForEachProduct = container.map(product => {
     return {
-      date: `${working_file_name.replace("Report-", "").replace(".txt", "")}`,
-      category: getCategory(element),
-      class: getClass(element),
-      name: getProductName(element),
-      recall_number: getRecallNumber(element),
-      manufacturer: getManufacturer(element),
-      distribution: getDistribution(element),
-      recall_date: getRecallDate(element),
-      recalled_by: getRecaller(element),
-      quantity: getQuantity(element),
-      reason: getReason(element)
+      date: `${working_file_name.remove("Report-", ".txt")}`,
+      category: get.category(product),
+      class: get.class(product),
+      name: get.productName(product),
+      recall_number: get.recallNumber(product),
+      manufacturer: get.manufacturer(product),
+      distribution: get.distribution(product),
+      recall_date: get.recallDate(product),
+      recalled_by: get.recaller(product),
+      quantity: get.quantity(product),
+      reason: get.reason(product)
     };
   });
-  createXLSX(lastResult);
+  createXLSX(informationForEachProduct);
 };
 
-const createXLSX = last_arr => {
+// export information to an excel spreadsheet
+const createXLSX = infoGathered => {
   var workbook = new Excel.Workbook();
   var worksheet = workbook.addWorksheet(
     `${working_file_name.replace(".txt", "")}`
@@ -188,7 +200,7 @@ const createXLSX = last_arr => {
     }
   ];
 
-  for (i of last_arr) {
+  for (i of infoGathered) {
     worksheet.addRow({
       date: i.date,
       category: i.category,
@@ -214,171 +226,15 @@ const createXLSX = last_arr => {
     });
 }; //--fn create excel end
 
-const getClass = element => {
-  let classX = element.slice(
-    element.indexOf("class") + 5,
-    element.indexOf("product")
-  );
-  return _.words(classX.toUpperCase()).join(" ");
-};
 
-const getCategory = element => {
-  let category = element.substr(0, element.indexOf("product"));
-
-  if (category.includes("Drug")) {
-    category = "Drugs";
-  } else if (category.includes("Device")) {
-    category = "Devices";
-  } else if (category.includes("Bio")) {
-    category = "Biologics";
-  } else {
-    category = "Not-Found";
-  }
-
-  return beautify(category);
-};
-
-String.prototype.remove = function (...args) {
-  let initialString = this.toString();
-
-  return args.reduce((acc, current) => {
-    return acc.replace(current, "")
-  }, initialString)
-};
-
-
-const getProductName = element => {
-  if (element.includes('products:')) {
-    element = element.replace('products:', 'product')
-  }
-  let product = element.indexOf("product");
-  let till = element.indexOf("code", product);
-  if (till - product < 10) {
-    till = element.indexOf(",", product);
-  }
-  let name = beautify(element.slice(product, till).remove('product', ":"));
-  if (name[0] == 'S ') {
-    return name.remove('S ')
-  }
-  return name;
-};
-
-const getManufacturer = element => {
-  let mIndex = element.indexOf("manufacturer:");
-  let dotIndex = element.indexOf(".", mIndex);
-  if (dotIndex - mIndex < 15) {
-    dotIndex = element.indexOf(",", mIndex);
-  }
-  let manufacturer = element
-    .slice(mIndex, dotIndex)
-    .remove("manufacturer", ":");
-  return beautify(manufacturer);
-};
-
-const getDistribution = element => {
-  if (element.includes("distribution")) {
-    let disIndex = element.indexOf("distribution:");
-    let dotIndex = element.indexOf(".", disIndex);
-    let distribution = element
-      .slice(disIndex, dotIndex)
-      .remove("distribution:");
-    return beautify(distribution);
-  } else {
-    return "NOT_FOUND";
-  }
-};
-
-const getRecaller = element => {
-  let recIndex = element.indexOf("recalled by:");
-  let dotIndex = element.indexOf(",", recIndex);
-  let recaller = element.slice(recIndex, dotIndex).remove("recalled by", ":");
-  return beautify(recaller);
-};
-
-const getRecallDate = element => {
-  let working_string = element.slice(
-    element.indexOf("recalled by:"),
-    element.length
-  );
-
-  let checkRGX = /(\d+)\/(\d+)\/(\d{2,4})/
-  let date = working_string.match(checkRGX)
-  if (date) {
-    return new Date(date[0])
-  }
-
-  let rgxMM = working_string.match(
-    /(January|February|March|April|May|June|July|August|September|October|November|December)/i
-  );
-  let rgxDD = working_string.match(/\d{1,2}/);
-  let rgxYY = working_string.match(/\d{4}/);
-
-  let recalldate = "NOT_FOUND";
-
-  if (rgxMM != null && rgxMM != null && rgxYY != null) {
-    recalldate = `${_.capitalize(rgxMM[0])} ${rgxDD[0]}, ${rgxYY[0]}`;
-  }
-
-  return recalldate;
-};
-
-const getQuantity = element => {
-  let qIndex = element.indexOf("quantity:");
-  let reaIndex = element.indexOf("reason:", qIndex);
-  let quantity = element.slice(qIndex, reaIndex).replace("quantity:", "");
-
-  return beautify(quantity);
-};
-
-const getReason = element => {
-  let reason = element.indexOf("reason:");
-  let dot = element.indexOf(".", reason);
-  let nextDot = element.indexOf(".", dot);
-  if (dot == -1) {
-    var reasonX = element.slice(reason, element.length);
-  } else {
-    var reasonX = element.substring(reason, dot);
-  }
-
-  if (reasonX.length < 15) {
-    reasonX = element.slice(reason, nextDot);
-  }
-  return beautify(reasonX.replace("reason:", ""));
-};
-
-const getRecallNumber = element => {
-  if (element.includes("recall nos.")) {
-    let nx = element.indexOf("recall nos.");
-    let dx = element.indexOf(".", nx + 11);
-    let recallnumber = element
-      .slice(nx, dx)
-      .remove("recall nos.")
-      .trim();
-    return recallnumber;
-  }
-  let numIndex = element.indexOf("recall #");
-  let dotIndex = element.indexOf(".", numIndex);
-  let recallnumber = element
-    .slice(numIndex, dotIndex)
-    .remove("recall #")
-    .trim();
-  if (recallnumber.includes(';')) {
-    return recallnumber.slice(0, recallnumber.indexOf(";"))
-  }
-  return recallnumber;
-};
-
-const beautify = text => {
-  return _.words(text, /[^, ]+/g)
-    .map(word => _.capitalize(word))
-    .join(" ")
-    .trim();
-};
-
-let year = "2001";
+let year = "2002";
 let files = fs.readdirSync(`text/${year}`);
-let nm = 9;
+let nm = 30;
 const working_file_name = files[nm];
 console.log(working_file_name, "working number:", nm);
+const errorFiles = [{
+  'year': '2002',
+  'fileNumber': '30'
+}]
 
 textjs(working_file_name);
