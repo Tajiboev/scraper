@@ -1,0 +1,483 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  May
+		  SEP
+		  Mar
+		
+		
+		
+		  
+		  26
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      28 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dm
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+06/09/1993
+
+Recalls and Field Corrections:  Foods -- Class I -- CORRECTED COPY --
+06/09/1993
+
+
+                             CORRECTED COPY
+
+June 9, 1993
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+==========================
+_______________
+PRODUCT         Chunk Light Tuna and Solid White Tuna, in 6-1/8 ounce metal
+                cans, in shrink wrapped packages of 4, 6, or 8 cans. 
+                Recall #F-346-3.
+CODE            All lots shrink wrapped by Laney and Duke Company prior to
+                February 15, 1993.
+MANUFACTURER    Laney and Duke Company, Jacksonville, Florida (repacker).
+RECALLED BY     Van Camp Seafood Company, Inc., San Diego, California, by
+                salesman visit on or about March 29, 1993.  Firm-initiated
+                field correction complete.
+DISTRIBUTION    Florida, New York.
+QUANTITY        Undetermined.
+REASON          The possibility for some cans to be punctured or cut during
+                repackaging which provided the potential to be contaminated
+                with Clostridium botulinum bacteria or spores with
+                subsequent production of neurotoxin.
+
+________________
+PRODUCT         Fresh crabmeat in 16 ounce plastic containers with plastic
+                snap-on lids:  (a) Jumbo Lump Crabmeat; (b) Backfin
+                Crabmeat; (c) Special Crabmeat; (d) Claw Special Crabmeat. 
+                Recall #F-442/445-3.
+CODE            All crabmeat processed during the period of 3/9-17/93. 
+MANUFACTURER    Craven Crab Company, New Bern, North Carolina.
+
+RECALLED BY     Manufacturer, by telephone followed by letter March 26,
+                1993.  Firm-initiated recall complete.
+DISTRIBUTION    North Carolina, Maryland, Pennsylvania, New York.
+QUANTITY        (a) 857 pounds; (b) 2,212 pounds; (c) 483 pounds; (d) 58
+                pounds were distributed.
+REASON          Products are contaminated with Listeria monocytogenes.
+
+________________
+PRODUCT         Dried Apricots, in 2.5 ounce cello bags.  Recall #F-446-3.
+CODE            None.
+MANUFACTURER    California Products of New Jersey, East Brunswick, New
+                Jersey.
+RECALLED BY     Manufacturer, by visit on or about December 17, 1992.  
+                Firm-initiated field correction (relabeling) complete.
+DISTRIBUTION    New York.
+QUANTITY        Approximately 450 bags were distributed.  All products were
+                relabeled in December 1992.
+REASON          Products contain undeclared sulfites.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+========================
+________________
+PRODUCT         (a) Borden artificially flavored drinks having the
+                following flavors and bottle sizes:
+                1.  Orange Drink, gallon, 10 ounce and 1/2 pint
+                2.  Fruit Punch, gallon, 10 ounce
+                3.  Grape Drink, gallon, 10 ounce
+                4.  Lemon Drink, gallon, 10 ounce
+                5.  Papaya Drink, gallon, 10 ounce
+                (b) Borden Cottage Cheeses having the following varieties
+                and container sizes:
+                1.  Large Curd, 25 pound, 5 pound, 24 ounce, 16 ounce
+                2.  Small Curd, 25 pound, 5 pound, 24 ounce, 16 ounce, 8    
+                    ounce
+                3.  Lowfat, 5 pound, 24 ounce, 16 ounce
+                4.  Lowfat with Pineapple Added, 16 ounce
+                5.  Lowfat with Chive Added, 16 ounce
+                (c) Four types of Cottage cheese put up under two private
+                labels for Pritikin, Inc:
+                1.  Becker Large Curd, 5 pound, 24 ounce, 12 ounce
+                2.  Becker Small Curd, 5 pound, 24 ounce, 12 ounce
+                3.  Becker Low Fat, 24 ounce, 12 ounce
+                4.  Mid-City Large Curd, 5 pound
+                5.  Becker Dry Curd, 30 pound.  Recall #F-347/360-3.
+CODE            Drink products in gallon containers -- All product with a
+                lot number of 187 and below.
+                Small Sizes (10 ounce and 1/2 pint) of drinks -- All
+                product with a lot number of 132 and below.
+                Cottage products -- All product with pull-dates of Apr 4
+                through Apr 27.
+MANUFACTURER    Borden, Inc., West Allis, Wisconsin.
+
+RECALLED BY     Manufacturer, by telephone April 8 and 9, 1993, followed by
+                letters of April 9 and 15, 1993.  Firm-initiated recall
+                complete.
+DISTRIBUTION    Wisconsin, Illinois, Indiana.
+QUANTITY        Approximately 21,000 gallons of the fruit drinks and 72,000
+                pounds of cottage cheese were distributed.
+REASON          Products were manufactured using water that may be
+                contaminated with cryptosporidium.
+
+_______________
+PRODUCT         Various party foods: 
+                (a) Herring Party Bites in Wine Sauce, all sizes (16 oz.,
+                24 oz, 40 oz, 60 oz, 8 pound pail, 15 pound pail, 30 pound
+                pail, and 45 pound pail); 
+                (b) Herring Party Bites in Sour Cream, all sizes (16 oz, 24
+                oz, 40 oz, 60 oz, 8 pound pail, 15 pound pail, 30 pound
+                pail, and 45 pound pail);
+                (c) Herring Rollmops in Wine Sauce, all sizes (24 oz 40 oz,
+                60 oz);
+                (d) Hard-Boiled Pickled Eggs Packed in Vinegar Brine, all
+                sizes (16 oz jars and boxes holding 20 individual 35-cent
+                packets of the eggs). Recall #F-362/365-3.
+CODE            All products shipped to consignees from 3/15/93 to 4/16/93.
+MANUFACTURER    Bay View Packing Company, Milwaukee, Wisconsin.
+RECALLED BY     Manufacturer, by telephone April 16, 1993, followed by
+                letter April 19, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION    Wisconsin, Minnesota.
+QUANTITY        Approximately 5,000 pounds were distributed.
+REASON          Products were manufactured using water that may be
+                contaminated with cryptosporidum.
+
+________________
+PRODUCT         The following prepared salad products were recalled (where
+                not otherwise stated, below, the brand name of the products
+                is Garden-fresh): 
+                1.  American Potato Salad
+                2.  Antipasto Salad 
+                3.  Antipasto Supreme
+                4.  Broccoli Cheese Salad
+                5.  Broccoli Cheese Base 
+                6.  Broken Glass Gelatin
+                7.  Carmel Dip 
+                8.  Carrot Raisin Salad 
+                9.  Cheddar Pasta Salad
+                10. Cheese Tortellini 
+                11. Cherry Ribbon Gelatin 
+                12. Chicken Salad 
+                13. Chopped Cole Slaw 
+                14. Claremont Salad 
+                15. Combo Bean Salad 
+                16. Country Style Potato Salad  
+                17. Creamy Pasta Salad 
+                18. Creeme Potato Salad  
+                19. Diced Strawberry Gelatin 
+                20. Egg Salad 
+                21. Egg Salad Spread 
+                22. French Potato Salad 
+                23. Fruit Melody 
+                24. Gourmet Potato Salad Base 
+                25. Gourmet Seafood and Shrimp  
+                26. Greek Olive Salad  
+                27. Italian Pasta Base  
+                28. Italian Spaghetti Salad  
+                29. Kidney Bean Salad  
+                30. King Krab Health Salad  
+                31. King Krab Seafood Salad 
+                32. Lemon Walnut Dessert 
+                33. Lime Leprechaun Gelatin  
+                34. Lime Pear Gelatin 
+                35. Lime Whip Gelatin 
+                36. Macaroni Salad 
+                37. Mandarin Orange Gelatin  
+                38. Manny's Mild Salsa 
+                39. Mild Cole Slaw  
+                40. Fresh Mushroom Supreme 
+                41. Mustard Potato Salad 
+                42. Old Fashion Potato Salad  
+                43. Old Fashion Sour Cream Cuke  
+                44. Olive Supreme   
+                45. Orange Whip Gelatin  
+                46. PCI Macaroni Salad  
+                47. PCI Cole Slaw 
+                48. PCI Potato Salad 
+                49. Pasta by the Season  
+                50. Pasta Salad  
+                51. Pickled Beets & Onions
+                52. Pineapple Walnut Dessert 
+                53. Premium Cole Slaw  
+                54. Rainbow Gelatin  
+                55. Red Jacket Potato Salad 
+                56. Homestyle Potato Salad  
+                57. Fresh Salsa, Mild   
+                58. Seafood Fettuccine 
+                59. Seafood Royale  
+                60. Seafood Salad  
+                61. Sentry American Potato Salad 
+                62. Shredded Cole Slaw  
+                63. Shrimp Dip   
+                64. Shrimp Salad 
+                65. Shrimp Base  
+                66. Sour Cream Cucumber 
+                67. Strawberry Fruit Gelatin 
+                68. Strawberry Whip Gelatin  
+                69. Sweet and Sour Cole Slaw 
+                70. Tortellini Marinara 
+                71. Tuna Pasta Salad  
+                72. Tuna Salad  
+                73. Tuna Base 
+                74. Tuna Spread 
+                75. Vegi Pasta  
+                76. Western Salad. Recall F-366/441-3.
+                Also fresh-cut produce dated 4/07/93, 4/08/93 and 4/09/93
+                was recalled. 
+ CODE           Lots (pull dates) affected:
+                1.  4-20, 4-21, 4-26, 4-27, 4-29, 5-3, 5-4, 5-5, 5-7,       
+                    5-11, 5-13 
+                2.  4-23, 5-7 
+                3.  4-23, 4-30 
+                4.  4-16, 4-22, 4-24, 4-30, 5-1, 5-6 
+                5.  4-16, 4-19, 4-23, 4-24, 4-26, 4-30, 5-1, 5-6 
+                6.  5-22, 5-24, 7-1, 7-2, 7-6 
+                7.  5-6 
+                8.  4-19, 4-29, 5-4 
+                9.  4-23, 4-31, 5-7 
+                10. 4-16, 4-17, 4-18, 4-22, 4-31 
+                11. 6-16, 7-6 
+                12. 4-18, 4-23, 4-25, 4-30, 5-1, 5-6, 5-8 
+                13. 4-27 
+                14. 4-21 
+                15. 4-26, 5-4, 5-11 
+                16. 5-5 
+                17. 4-19 
+                18. 4-20, 4-27, 5-6, 5-7, 5-13 
+                19. 6-23, 6-25, 6-30, 6-31, 7-2, 7-6, 7-7 
+                20. 4-23, 5-6 
+                21. 4-30, 5-5 
+                22. 4-21, 4-28, 5-5, 5-13 
+                23. 4-20 
+                24. 4-31, 5-7 
+                25. 4-16, 4-25, 5-6 
+                26. 4-16, 4-30, 5-6 
+                27. 5-1 
+                28. 4-24, 5-6 
+                29. 4-20, 4-26, 4-28, 5-5, 5-11 
+                30. 4-16, 4-17, 5-1 
+                31. 4-17, 5-1 
+                32. 4-1, 4-30 
+                33. 7-6 
+                34. 7-16, 7-31, 8-5 
+                35. 6-15, 6-23, 7-6 
+                36. 4-22, 4-26, 4-27, 4-28, 5-6, 5-7, 5-5, 5-12 
+                37. 7-1, 8-7 
+                38. 5-13, 5-15, 5-28 
+                39. 4-20, 5-7 
+                40. 4-23, 5-1 
+                41. 4-21, 4-26, 4-28, 4-29, 5-3, 5-5, 5-6, 5-7, 5-11, 5-13 
+                42. 4-26 
+                43. 4-22, 5-6, 5-13 
+                44. 4-19, 4-24, 5-6 
+                45. 6-16, 6-29 
+                46. 4-27, 5-3, 5-11 
+                47. 4-21, 4-27, 5-3, 5-11 
+                48. 4-21, 5-11 
+                49. 4-20, 4-23, 4-30, 5-6 
+                50. 4-22, 5-7, 5-13 
+                51. 4-28, 5-12 
+                52. 4-24, 5-6, 5-7 
+                53. 4-20, 4-21, 4-23, 4-29 5-5, 5-12 
+                54. 5-15, 5-17, 5-18, 5-19, 5-22, 5-24, 5-25, 5-30, 
+                    6-2, 6-5, 6-7 
+                55. 4-17, 4-23, 4-31, 5-7 
+                56. 4-22, 4-26, 5-6, 5-13 
+                57. 4-17, 4-30, 4-29, 5-7 
+                58. 4-24, 5-1, 5-7 
+                59. 4-19, 4-25, 5-1, 5-8 
+                60. 4-16, 4-23, 5-5 
+                61. 4-20, 4-22, 4-23, 4-27, 4-28, 5-5, 5-7, 5-12, 5-13 
+                62. 4-19, 4-20, 4-21, 4-22, 4-23, 4-27, 4-28, 5-3, 
+                    5-4, 5-5, 5-6, 5-7, 5-11, 5-12 
+                63. 5-18, 5-23, 6-7 
+                64. 4-19, 4-25 
+                65. 4-22, 4-28, 5-4, 5-5, 5-11, 5-13 
+                66. 4-29 
+                67. 7-30 
+                68. 6-16, 6-26, 7-7 
+                69. 4-19, 4-20, 4-22 
+                70. 4-23 
+                71. 4-23 
+                72. 4-16, 4-26, 5-5 
+                73. 4-20, 4-26, 5-12 
+                74. 4-23 
+                75. 4-24, 5-6 
+                76. 4-20, 4-26, 5-5, 5-12 
+MANUFACTURER    Garden-Fresh Foods, Inc., Milwaukee, Wisconsin.
+RECALLED BY     Manufacturer, by letter dated April 15, 1993.  Firm-
+                initiated recall complete.
+DISTRIBUTION    Wisconsin, Illinois.
+QUANTITY        Approximately 60,000 pounds were distributed.
+REASON          Products were manufactured with city water that may have
+                been contaminated with cryptosporidum. 
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=======================
+_______________
+PRODUCT         Doxepin Hydrochloride Capsules, USP, (a) 100 mg, in bottles
+                of 100; (b) 150 mg, in bottles of 50, a Rx anti-depressant.
+                Recall #D-272/273-3. 
+CODE            Control numbers:  346-154 EXP 11/94; 346-155 EXP 12/94.
+MANUFACTURER    Lederle Arzneimittel Cyanamid GmbH, West Germany.
+RECALLED BY     Lederle Laboratories, Division of American Cyanamid
+                Company, Pearl River, New York, by letter May 21, 1993. 
+                Firm-initiated recall ongoing.
+DISTRIBUTION    Alabama, Arkansas, Colorado, Connecticut, Florida,
+                Louisiana, Maine, Pennsylvania, Kentucky, New Jersey,
+                Virginia, West Virginia, South Carolina, Tennessee, Texas.
+QUANTITY        (a) 1,201 bottles; (b)  1,553 bottles were distributed.
+REASON          Products do not meet dissolution specifications.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+=======================
+_______________
+PRODUCT         Multi-Symptom Non-Aspirin Cold Formula Tablets, 24 tablets
+                per blister package, an OTC product.  Recall #D-270-3.
+CODE            Lot #104151D EXP 5/93.
+MANUFACTURER    Able Laboratories, Division of A.L. Laboratories,
+                Plainfield, New Jersey.
+RECALLED BY     Manufacturer, by letter January 13, 1993.  Firm-initiated
+                recall ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        9,486 units were distributed.
+REASON          Firm extended expiration date without supporting stability
+                data.
+_______________
+PRODUCT         Chloromycetin Cream, 1% (Chloramphenicol Cream, USP), in 1
+                ounce tubes, Rx topical used for the treatment of surface
+                skin infections.  Recall #D-271-3.
+CODE            Lot #00172B EXP 7/93.
+MANUFACTURER    Parke Davis Canada, Inc., Ontario, Canada.
+RECALLED BY     Warner-Lambert Company, Parke-Davis Division, Morris
+                Plains, New Jersey, by letter dated April 26, 1993.  Firm-
+                initiated recall ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        6,216 tubes were distributed; firm estimates 2,000 tubes
+                remain on the market.
+REASON          Product does not meet specifications for the propylparaben
+                ingredient.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS II
+===========
+_______________
+PRODUCT         Aveco Brand Amforol Veterinary Oral Suspension, in 16 ounce
+                plastic bottles, a Rx product used for the treatment of
+                bacterial enteritis in dogs, and the symptomatic relief of
+                associated diarrhea.  Recall #V-028-3.
+
+CODE            Lot numbers:  404106, 404107, 404108.
+MANUFACTURER    Fort Dodge Laboratories, Inc., Fort Dodge, Iowa.
+RECALLED BY     Aveco Company, Inc., Fort Dodge, Iowa, by letter dated May
+                21, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        3,370 bottles of lot 404106, 3,495 bottles of lot 404107,
+                1,495 bottles of lot 404108 were distributed.
+REASON          Lot 404106 - Subpotent in Attapulgite and Bismuth
+                             Subcarbonate.
+                Lot 404107 - Superpotent in Bismuth Subcarbonate.
+                Lot 404108 - Insufficient stability data to justify
+                             expiration date.
+
+
+RECALLS AND FIELD CORRECTION:  VETERINARY PRODUCTS -- CLASS III
+===========
+_______________
+PRODUCT         Two tons 42% Protein Hog G Feed.  Recall #V-027-3.
+CODE            None.
+MANUFACTURER    Agway, Inc., Winfield, Pennsylvania.
+RECALLED BY     Manufacturer. All feed was returned to the Agway Feed Mill
+                on April 15, 1993.  Firm-initiated recall complete.
+DISTRIBUTION    Pennsylvania.
+QUANTITY        Firm estimates none remains on the market.
+REASON          1/2 ton pig starter containing Pyrantel Tartrate and
+                Carbadox was inadvertently mixed with a two ton shipment of
+                non-medicated 42% hog concentrate.
+
+                                     
+END OF ENFORCEMENT REPORT FOR JUNE 9, 1993.  BLANK PAGES MAY FOLLOW.
+                                   ####

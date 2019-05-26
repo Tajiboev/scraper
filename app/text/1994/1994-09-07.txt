@@ -1,0 +1,599 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      30 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+09/07/1994
+
+Recalls and Field Corrections:  Foods -- Class II -- 09/07/1994
+
+September 7, 1994                                               94-36
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+========================
+______________
+PRODUCT        Tofutti Brand Nondairy frozen dessert,
+               vanilla flavored.  Recall #F-765-4.
+CODE           1413/42097.
+MANUFACTURER   Kemp's Foods, Inc., Lancaster, Pennsylvania
+RECALLED BY    Tofutti Brands, Inc., Cranford, New Jersey by letter
+               July 27, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   California, Texas, New York, Illinois, New Hampshire,
+               Georgia, Ohio.
+QUANTITY       1,381 containers were distributed.  Firm estimates little if
+               any remains on the market.
+REASON         The product is labeled as a nondairy frozen dessert and
+               contains lactose.
+
+______________
+PRODUCT        Pistachio N' Cream Ice Cream.  Recall #F-817-4.
+CODE           All codes
+MANUFACTURER   West Lynn Creamery, Lynn, Massachusetts.
+RECALLED BY    Albert Essay Ice Cream Company, Southampton, New York by
+               visit with followup letter August 15, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   New York.
+QUANTITY       60 sleeves were distributed. Each sleeve contains 8 pints.
+REASON         The product contains undeclared FD&C; Yellow #5 and FD&C; Blue
+               #1.
+ 
+
+RECALLS AND FIELD CORRECTIONS:  FOODS  --  CLASS III
+=====================
+
+______________
+PRODUCT        Sunrise brand Mineral Free Water in plastic jugs,
+               Recall #F-752-4.
+CODE           092594.
+MANUFACTURER   Arcadia Dairy Farm Inc., Arden, North Carolina
+RECALLED BY    Manufacturer, by telephone with follow-up letter April 21,
+               1994.  Firm-initiated recall complete.
+DISTRIBUTION   Oklahoma.
+QUANTITY       1,024 jugs were distributed.
+REASON         The product is contaminated with coliform.
+
+______________
+PRODUCT        Shop n Save Orange Juice from Concentrate.  Recall #F-766-4.
+CODE           Sell by 8/12 A3947, Sell by 8/15 - A3947, Sell by 8/16 -
+               A3947.
+MANUFACTURER   Tamarack Farms Dairy, Newark, Ohio.
+RECALLED BY    SuperValu, Inc., Chaska, Minnesota by memorandum August 8,
+               1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Maryland, Ohio, Pennsylvania, West Virginia.
+QUANTITY       11,976 cases/6 bottles per case were distributed.
+REASON         The product is contaminated with mold.
+
+
+______________
+PRODUCT        Frozen Tuna Steaks.  Recall #F-816-4.
+CODE           AL-23.
+MANUFACTURER   Long Beach Enterprises (dba Sea One Seafoods), Santa Fe
+               Springs, California.
+RECALLED BY    Food Services of America, Kent-Washington by telephone
+               July 8, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Washington state, Alaska.
+QUANTITY       65/10 pound cases were distributed.
+REASON         The product is decomposed.
+
+                                  -2-
+______________
+PRODUCT        Mint Chocolate Chip Ice Cream.  Recall #F-818-4.
+CODE           All lots.
+MANUFACTURER   West Lynn Creamery, Lynn, Massachusetts.
+RECALLED BY    Albert Essay Ice Cream Company, Southampton, New York by
+               letter August 15, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   28 sleeves were distributed.
+QUANTITY       New York. 
+REASON         The product contains undeclared FD&C; Blue #1.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS  -- CLASS II
+=======================
+
+______________
+PRODUCT        CompuMed brand "TMP/SMZ Oral Suspension packed in 100 ml,
+               120 ml, 150, 180 ml, and 200 ml bottles.  Recall #D-376-4.
+CODE           RL3711-A, RL3711, Exp date 05-96.
+MANUFACTURER   Barre-National, Inc., Baltimore, Maryland
+RECALLED BY    CompuMed Inc., Pharmaceuticals, Harahan, Louisiana
+               (repacker) by letter on or about August 10, 1994.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Alabama, California, Georgia, Louisiana, Maryland,
+               Mississippi, Missouri, New York, Ohio, South Carolina,
+               Tennessee, Virginia, Wyoming.
+QUANTITY       860 bottles were distributed.
+REASON         Subpotency of trimethoprim ingredient.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS  -- CLASS III
+======================
+
+______________
+PRODUCT        Norton brand Chemdal-HD Plus (Hydrocodone Bitartrate, 2.5
+               mg; Phenylephrine Hydrochloride; 5mg; Chlorpheniramine
+               Maleate, 2mg.  Recall #D-377-4.
+CODE           Lot #7617.
+MANUFACTURER   H. N. Norton Company, Shreveport, Louisiana.
+RECALLED BY    Manufacturer by telephone and followup letter July 20, 1994. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       4,123 bottles were distributed.
+REASON         Subpotency.
+
+
+______________
+PRODUCT        Amiloride Hydrochloride and Hydrochlorothiazide Tablets,
+               USP, 5 mg/50mg packaged in 100 tablets per box, an Rx oral
+               drug for the treatment of hypertension.  Recall #D-378-4.
+CODE           Lot #'s 3I249, 3M680, 4A044, 4C389.
+
+                                  -3-
+MANUFACTURER   Biocraft laboratories, Inc., Elmwood Park, New Jersey.
+RECALLED BY    UDL Laboratories, Inc., Rockford, Illinois (repacker) by
+               letter August 24, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       2,826 cartons of 100 unit dose were distributed.  Firm
+               estimates that 35% of the product remains on the market.
+REASON         Current good manufacturing practice deficiencies.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS I
+=====================
+
+______________
+PRODUCT        (a) Platelets; (b) Fresh Frozen Plasma. Recall #B-440/441-4.
+CODE           Unit number KG50275 for both platelets and fresh frozen
+               plasma.
+MANUFACTURER   Central Blood Bank, Pittsburgh, Pennsylvania.
+RECALLED BY    Manufacturer by telephone February 19, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Pennsylvania.
+QUANTITY       2 units.
+REASON         Blood products, corresponding to Red Blood Cells
+               contaminated with Staphylococcus aureus distributed.
+
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+
+_______________
+PRODUCT        Baxter Fenwal Transfer Packs and Plasma Transfer Sets;    
+               Rx device used to transfer blood products:
+               (a) Baxter Fenwal Transfer Packs 
+               (i) product 4R2001A: Baxter Fenwal Transfer Pack Container, 
+               150 ml, with Coupler, 12 units per carton 
+               (ii) product 4R2004: Baxter Fenwal Quadruple Transfer Pack 
+               Container, 150 ml, with Coupler, 6 units per carton 
+               (iii) product 4R2014A: Baxter Fenwal Transfer Pack
+                Container, 300 ml, with Coupler, 12 units per carton  
+               (iv) product code C4R2016 - European labeling 
+               (v) product R4R2074: Baxter Fenwal Transfer Pack, 400 ml, 
+               with Coupler - European labeling and distribution only 
+               (vi) product 4R2023: Baxter Fenwal Transfer Pack Container, 
+               600 ml, with Coupler, 12 units per carton 
+               (vii) product R4R2021 - European labeling  
+               (viii) product C4R2026 - European labeling 
+
+                                   -4-               (ix) product 4R2027: Baxter Fenwal Transfer Pack Container, 
+               600 ml, with 8 Couplers, 1 unit per carton 
+               (x) product 4R2054: Baxter Fenwal Transfer Pack Container, 
+               800 ml, with 2 Couplers and no Outlet Ports, 12 units per 
+               carton 
+               (xi) product R4R2053 - European labeling 
+               (xii) product 4R2055: Baxter Fenwal Transfer Pack Container,
+               800 ml, with 2 Couplers and Outlet Ports, 12 units per 
+               carton 
+               (xiii) product 4R2032: Baxter Fenwal Transfer Pack
+               Container, 1000 ml, with Coupler, 12 units per carton 
+               (xiv) product R4R2031 - European labeling 
+               (xv) product 4R2041A: Baxter Fenwal Transfer Pack Container,
+               2000 ml, with Coupler, 1 unit per carton 
+               (xvi) product 4R2422: Baxter Fenwal Cryocyte Pack Freezing 
+               Container, 2000 ml, 1 unit per carton 
+               (b) Baxter Fenwal Plasma Transfer Sets 
+               (i) product 4C2240: Baxter Fenwal Plasma Transfer Sets with 
+               Spike and Needle Adapter, 2 units per carton 
+               (ii) product 4C2243: Baxter Fenwal Plasma Transfer Sets with
+               Two Spikes, 2 units per carton 
+               (iii) product 4C2244: Baxter Fenwal Plasma Transfer Sets
+               with Spike and Stopper Puncture Needle, 2 units per carton 
+               Recall #B-443/444-4.
+CODE           (a) Transfer Packs: 
+               (i) product 4R2001A: lots A93K19014R, A93K25011R,
+               A94B04021R, A94C01033R 
+               (ii) product 4R2004:lots A93J26029R, A93K11011R, A93K20012R,
+               A94A31018R, A94B28012R 
+               (iii) product 4R2014A: lots A93I20015R, A93I28018R,
+               A93J14025R, A93K01012R, A93K01020R, A93K04016R, A93K10013R, 
+               A93K12027R, A94A14014R, A94A17017R, A94B07016R, A94C01017R 
+               (iv) product code C4R2016 - European labeling, lot
+               A94A25036R 
+               (v) product R4R2074: European labeling, lots A93I27010R, 
+               A93J27019R 
+               (vi) product 4R2023: lots A93J06021R, A93K04024R,
+                A93K12019R, A93L02026R, A94A20011R, A94B02017R 
+               (vii) product R4R2021 - European labeling, lots A93I22011R, 
+               A93J21020R 
+               (viii) product C4R2026 - European labeling, lots A94A25010R,
+               A94B23021R, A94C02015R 
+               (ix) product 4R2027: lots A93J21012R, A94A27024R, A94B15027R
+               (x) product 4R2054: lot A93J14017R 
+               (xi) product R4R2053 - European labeling, lot A94B15019R 
+               (xii) product 4R2055: lots A93I23019R, A93J25021R,
+
+                                       -5-               A93J29015R, A93K23024R, A93L07025R, A94A31026R, A94B23013R 
+               (xiii) product 4R2032: lots A93J07011R, A93K27025R,
+               A94B03015R  
+               (xiv) product R4R2031 - European labeling, lot A93I23027R 
+               (xv) product 4R2041A: lots A93J13019R, A93K29021R,
+               A94B28020R 
+               (xvi) product 4R2422: lots A93J26011R, A93J29023R,
+               A94B14020R 
+               (b) Transfer sets:
+               (i) product 4C2240: lots U210377R, U213025R, U221101R, 
+               U226225R, U234484R, U237263R, U237412R, U239087R 
+               (ii) product 4C2243: lots U201921R, U201897R, U203893R, 
+               U204149R, U214841R, U226100R, U227603R, U232256R, 
+               U234351R, U235713R 
+               (iii) product 4C2244: lots U221010R, U224899R, U230227R.
+MANUFACTURER   (a) Baxter S.A. Fenwal Division, Parque Industrial De Haina,
+               Haina San Cristobal, Republica Dominicana; (b) Baxter
+               Healthcare Corporation of Puerto Rico, Aibonito, Puerto
+               Rico.
+RECALLED BY    Baxter Healthcare Corporation, Biotech Fenwal Division,
+               Deerfield, Illinois, by letter July 6, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 923,000 packs and 474,000 sets were
+               distributed; firm estimates that little product remained on
+               market at time of recall.
+REASON         Transfer packs and Plasma Transfer Sets, which on numerous
+               occasions the tubing of the device separated from the
+               coupler sub-assembly, were distributed.
+
+
+______________
+PRODUCT        (a) Red Blood Cells; (b) Fresh Frozen Plasma; (c) Recovered
+               Plasma.  Recall #B-445/447-4.
+CODE           Unit numbers: (a) M59173, M59859, M59863, M60207, M60741,
+               M60743, M60855, M60860, M60879, M62679, T63336, T64118,
+               T64359, T64723, T65400, T65674, T66203, T66502, T66546; (b)
+               M59859, M59863, T63336, T64118, T66203, T66546; (c) M59173,
+               M60207, M60741, M60743, M60855, M60860, M60879, M62679,
+               T64359, T64723, T65400, T66502.
+MANUFACTURER   Topeka Blood Bank, Topeka, Kansas.
+RECALLED BY    Manufacturer by letters January 25, 1994 and February 24,
+               1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   (a) Massachusetts, Florida, Kansas, Alabama; (b) Kansas,
+               Missouri; (c) Florida.
+QUANTITY       (a) 19 units; (b) 6 units; (c) 12 units were distributed.
+REASON         Blood products, collected from donors whose health history
+               screening was inadequately performed, were distributed.
+
+                                    -6-______________
+PRODUCT        
+Source Plasma.  Recall #B-454-4.
+CODE           Units numbers: XA53864, XA54165, XA55438, XA55806, XA56409,
+               XA56447, XA56745, XA56789, XA57665, XA58413, XA59562,
+               XA59802, XA60350, XA60543, XA60751, XA60863, XA61417,
+               XA61588, XA61777, XA61948, XA62379, XA62600, XA62902,
+               XA63498, XA63839, XA64592, XA64897, XA69449, XA69786,
+               XA70354, XA70907, XA71578, XA71632, XA71882, XA72998,
+               XA74699, XA74116, XA75167, XA75915, XA76303, XA77323,
+               XA77854, XA78295, XA81914, XA82199, XA82758, XA83197,
+               XA83800, XA84002, XA84957, XA88089, XA88722, XA92060.
+MANUFACTURER   Community Bio-Resources, Inc./Immuno-U.S., Inc., Birmingham,
+               Alabama.
+RECALLED BY    Community Bio-Resources, Inc., Birmingham, Alabama by
+               letters dated January 17 & 28, 1994.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Maine, Austria.
+QUANTITY       54 units.
+REASON         Blood products, collected from ineligible donors due to
+               intravenous (IV) drug use, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Howmedica Dall-Miles Trochanter Cable Grip System, used to
+               provide fixation of the greater trochanter following
+               osteotomy in total hip arthroplasty.  Recall #Z-1105-4.
+CODE           Lot numbers BTIYBA, BTIYCA, Catalog #6704-8-020.
+MANUFACTURER   Howmedica U.S.A. (Medical Device Manufacturer, repacker,
+               relabeler) Howmedica Inc., Rutherford, New Jersey.
+RECALLED BY    Manufacturer by telephone May 19 and May 24, 1994.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide, Ireland.
+QUANTITY       200 cables were distributed.
+REASON         The device package is labeled for a 2 mm diameter cable,
+               when in fact a 1.6 m diameter cable is actually in the
+               package. 
+
+______________
+PRODUCT        Battery Cable for Delphin II Centrifugal Pump.
+               Recall #Z-1217.
+CODE           Not coded, Part #78-8067-3763-7.
+MANUFACTURER   Sarns 3M Health Care, Ann Arbor, Michigan.
+RECALLED BY    Manufacturer by telephone or about October 6, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   South Carolina, Ohio, Minnesota, Colorado.
+QUANTITY       10 cables were distributed.
+REASON         Cables lacked necessary jumper which relays the battery
+               signal to the digital display and audio alarm systems of the
+               device resulting in the failure of the device to function as
+               intended.
+
+                                    -7-
+______________
+PRODUCT        (A)  Patient Monitors as follows:
+                    (1) Horizon XL
+                    (2) Mercury
+                    (3) Horizon 2000
+                    (4) Horizon 3000
+                    (5) MR 1200 & 1300 Series Monitors
+                    (6) Horizon 1100
+                    (7) Microsolo (425-330 Module)
+                    (8) 743 Neonatal Portable Monitor and 744 Portable      
+                    Monitors; (9) ECG and heart Rate Module, No. 425-010
+                    (10) Respiration Module, No. 427-010.
+                    Non-APNEA Monitors:
+                    (1) Series 419 ECG Telemetry
+                    (2) MG Series 936 Cardio/Pak Defibrillator
+                    (3) Cardio/Pak 100 Defibrillator (310-010-010)
+                    (4) Cardio/Pak 2000 Defibrillator (310-200-010)
+                    (5) Cardio/Rite :Model 350 Potable EKG
+                    (6) Model #S 740, 741, 742 Portable Monitors
+                    (7) Portascope 931
+                    (8) Horizon 1000
+                    (9) Horizon 9000 Cardiac Cath Lab System
+                    (10) Cath Lab 12 Lead EKG Option
+                    (11) 910 ECG Modules;
+                (B) Patient Cables:
+                    800-030-030             800-030-040
+                    800-030-100             800-030-380
+                    800-030-300             800-030-390
+                    800-030-360             800-030-400
+                    800-030-370             800-030-460
+                    800-030-372             800-030-480
+                    800-030-500
+
+               (D)  Lead Wires:
+                    800-030-110,  -120,  -130,  -140,  -150,  -152
+                    800-030-210,  -220,  -230,  -240   -250,  -252
+                    800-030-310,  -320,  -330,  -340,  -340,  -352
+                    800-030-410,  -420,  -430,  -440,  -450,  -452
+                    800-030-510,  -520,  -530,  -540,  -550,  -552
+                    800-030-610,  -620,  -630,  -640,  -650,  -652.
+               Recall #Z-1229/1231-4
+CODE           All serial and lot numbers.
+MANUFACTURER   Mennen Medical Corporation, Clarence, New York.
+RECALLED BY    Manufacturer by letter August 4, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide, international.
+
+                                   -8-QUANTITY       Unknown.
+REASON         Labeling fails to provide adequate directions for use and
+               the devices pose an unwarranted risk of injury to patients,
+               because the devices are not labeled to warrant against the
+               hazards of unprotected electrode lead wires being connected
+               to electrical power sources.
+
+
+______________
+PRODUCT        Howmedica Grosse & Kempf Left Femoral Locking Nail, 12 mm
+               diameter, 36 cm length.  Recall #Z-1237-4.
+CODE           Lot numbers BTEKB, BTEKC, Catalog #3515-1-236
+MANUFACTURER   Howmedica GMBH, Kiel, Germany.
+RECALLED BY    Howmedica Inc., Rutherford, New Jersey by telephone June 9
+               and June 13, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       10 packages were distributed.  
+REASON         The device package is labeled for a left oriented nail, when
+               in fact a right oriented nail is actually in the package.
+
+______________
+PRODUCT        Howmedica Gamma Locking Nail 14 mm 125o stainless steel
+               packaged individually within a tyvek/poly blister pack. 
+               Recall #Z-1238-4.
+CODE           Lot number BHFLA, Catalog #3370-0-425.
+MANUFACTURER   Howmedica GMBH, Kiel, Germany.
+RECALLED BY    Howmedica Inc., Rutherford, New Jersey by telephone May 12
+               and June 9, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       10 each were distributed.
+REASON         The device package is labeled for a 125o orientation, while
+               a 130o nail is actually in the package.
+
+______________
+PRODUCT        Endosonics Ultrasound Imaging Catheters, used for diagnostic
+               intravascular imaging in the peripheral and coronary
+               vasculature:
+               (a) Vision 3.5F Model 54700;
+               (b) Vision F/X Model 52700.  Recall #Z-1278/1279-4.
+CODE           (a) Serial Nos. 05394319, 07794304, 08194351, 09694312,
+               10194305, 10294332, 10394309, 10694309, 10894303, 10894340,
+               10994305, 10994323, 11094306, 11094308, 34993316. 
+               (b) Serial Nos. 07594319,  08394334, 10894341, 10994322,
+               11094303, 11093405, 11094311, 11094322, 11194303, 11194314,
+               11194318, 11194319, 11194322, 11194338, 11294315, 11394304,
+               11394315, 11594301, 11594302, 11594306, 11594309, 11594315,
+               11594317, 11594318, 11594321, 11694312, 11794320. 
+
+                                -9-MANUFACTURER   Endosonics Corporation, Pleasanton, California.
+RECALLED BY    Endosonics Corporation, Rancho Cordova, California, by
+               telephone or in person on June 15, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Georgia, North Carolina, Tennessee, Texas, Washington state,
+               Germany.
+QUANTITY       64 units were distributed.
+REASON         The catheters failed the minimum bond strength requirement
+               due to use of an unauthorized assembly line procedure.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+=====================
+
+______________
+PRODUCT        Dade Fibrinogen Degradation Detection Set, in vitro
+               diagnostic product which determines the presence of fdp in
+               serum or urine.  Recall #Z-1322.
+CODE           Lot #FDPK-344, FDPK-345, (kit contains Fibroninogen Control
+               lot #FC-89), Catalog #B4233-10, Exp. date 9/30/94.
+MANUFACTURER   Baxter Diagnostic of Puerto Rico Inc., Aguada, Puerto, Rico
+RECALLED BY    Baxter Diagnostic Inc., Miami, Florida by letter April 8,
+               1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Canada.
+QUANTITY       1,060 vials were distributed.
+REASON         The fibrinogen control was giving a negative instead of a
+               positive reaction when diluted 1:5 for the qualitative or
+               semi-quantitative testing.
+
+
+______________
+PRODUCT        (a) Dade Fibrinogen Degradation (FDP) Detection Set,
+               (b) Dade Latex Anti-Fibrinogen Suspension.
+               Recall #Z-1323/1324-4.
+CODE           Lot numbers: (a) FDPK-326/329, 330/332, 334/338, 343/345.
+               Catalog #B4233-10; (b) LAF-261/270, 272/275,
+               Catalog #B4233-11 .
+MANUFACTURER   Baxter Diagnostics of Puerto Rico, Aguada, Puerto, Rico.
+RECALLED BY    Baxter Diagnostics, Inc., Miami, Florida. by letter April 8,
+               1994 and June 8, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Canada.
+QUANTITY       (a) 5,577 sets; (b) 17,571 vials were distributed.
+REASON         (a) The fibrinogen (FDP) control was giving a positive
+               reaction when diluted 1:20 for use as a negative control. 
+               (b) the product had a contaminant that could cause
+               precipitation, which caused increased sensitivity by giving
+               a weakly positive reaction when used to prepare the negative
+               control.
+
+CORRECTION:
+               August 24, 1994 Enforcement Report, Recall #Z115/116-4
+               should read:  Code: (a) All serial numbers lower than 8579
+               instead of 859.  The 7 was inadvertently left out.
+
+                                 -10-
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS III
+==========
+_______________
+PRODUCT        Purina Mills brand Start & Grow MP 0.0125%, in 25 pound and
+               50 pound bags, medicated, complete and balanced poultry
+               feed.  Recall V-069-4.
+CODE           Lot numbers:  6043E3I (25 pound bags), 6043E21 (50 pound
+               bags).
+MANUFACTURER   Purina Mills, Inc., Lubbock, Texas.
+RECALLED BY    Manufacturer, by telephone June 13, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTiON   New Mexico, Texas.
+QUANTITY       Approximately 500 25-pound bags and 3,000 50-pound bags were
+               distributed; firm estimates none remains on the market.
+REASON         Mislabeled.  A non-medicated feed bag was used by mistake
+               for the medicated product.
+
+                                    ####
+                                     -11-END OF ENFORCEMENT REPORT FOR SEPTEMBER 7, 1994.  BLANK PAGES MAY
+FOLLOW.

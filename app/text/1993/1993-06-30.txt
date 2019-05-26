@@ -1,0 +1,563 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      32 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+06/30/1993
+
+Recalls and Field Corrections:  Foods -- Class II -- 06/30/1993
+
+June 30, 1993                                              93-26
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+========================
+______________
+PRODUCT       Various cookies, breadsticks, and pretzels:
+              (a) Animal Crackers
+              (b) Bulk Oatmeal/Iced Oatmeal Cookies
+              (c) Choco Chip Cookies
+              (d) Kraft Pretzels
+              (e) Kraft Breadsticks
+              (f) Vanilla Wafers
+              (g) Butter Cookies
+              (h) Hershey Tote Bins - Dutch Nuggets
+              (i) 7 ounce Toasties Marshmallow
+              (j) 7 ounce Stripes
+              (k) 2/$1 Shortbread Cookies
+              (l) Charles Butterscotch Pecan Cookies
+              (m) Real Chocolate Chip Cookies, 18 ounces
+              (n) Sysco Homestyle Assorted
+              (o) Homestyle Assorted
+              (p) 3# Deluxe.  Recall #F-464/479-3.
+CODE          Item numbers:  (a) 11030, 11023, 56092, 975,
+              14840;
+              (b) n/a; (c) 10068; (d) 11250; (e) 11251; (f)
+              12721F, 1107;
+              (g) 13313F; (h) H9006T; (i) 15208A; (j) 16108A;
+              (k) 13303F; (l) C4009; (m) DV41497; (n) 1299; (o)
+              1385; (p) 19325.
+MANUFACTURER  D.F. Stauffer Biscuit Company, Inc., York,
+              Pennsylvania.
+RECALLED BY   Manufacturer, by telephone April 7-8, 1993,
+              followed by letter dated April 15 or 16, 1993. 
+              Firm-initiated recall complete
+DISTRIBUTION  East Coast.
+QUANTITY      240,000 pounds of product were distributed.
+REASON        Product was contaminated with plastic styrene
+              pellets.
+
+_______________
+UPDATE        Trail Mix products which appeared in the June 23,
+              1993 Enforcement Report should read:
+              PRODUCT:  Trail Mix Products:  (a) California
+              Aloha Trail Mix; (b) Royal Deluxe Trail Mix,
+              Recall #F-482/483-3.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+=======================
+______________
+PRODUCT       Novie Chunk Light Canned Tuna Fish, in 6.125 ounce
+              cans.  Recall #F-361-3.
+CODE          Lot #2C313 CLVYX.
+MANUFACTURER  Crown Brands, Inc., Newark, New Jersey.
+RECALLED BY   Manufacturer, by letter April 23, 1993.  Firm-
+              initiated recall complete.
+DISTRIBUTION  New York.
+QUANTITY      153 cases (48 cans per case) were distributed.
+REASON        Product is decomposed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+========================
+______________
+PRODUCT       Enconopred Plus (Prednisolone Acetate) 1%, 10 ml
+              sterile Rx ophthalmic suspension.  Recall #D-283-
+              3.
+CODE          2RLDV.
+MANUFACTURER  Alcon (PR), Inc., Humacao, Puerto Rico.
+RECALLED BY   Alcon Laboratories, Inc., Fort Worth, Texas, by
+              visit May 27, 1993.  Firm-initiated recall
+              complete.
+DISTRIBUTION  South Dakota.
+QUANTITY      Approximately 200 units were distributed.
+REASON        Lack of assurance of sterility.
+
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+======================
+_______________
+PRODUCT       Software Versions 3.0 and 3.1 for the Omnitro
+              Model 2000 High Dose Rate Remote Afterloader
+              System, used to administer radiation
+              interstitially directly to the tumor bed of a
+              cancer patient.  Recall #Z-546/547-3.
+CODE          Serial numbers:  102, 104, 109, 114, 115, 116,
+              1212, 132, 134. (All units with active source
+              wires when the bulletin was issued).
+MANUFACTURER  Omnitro International, Inc., Houston, Texas.
+
+RECALLED BY   Manufacturer, by technical bulletin dated March
+              19, 1993.  Firm-initiated field correction
+              ongoing.
+DISTRIBUTION  Arizona, California, Florida, Louisiana,
+              Mississippi, New Jersey, Pennsylvania, Texas.
+QUANTITY      10 units were distributed.
+REASON        If the function keys are randomly depressed or
+              control keys are pressed in conjunction with other
+              keys totally unexpected results may occur.  These
+              may include lock-up and/or interference with the
+              movement or retraction of the source wire or
+              premature termination of treatment.
+
+_______________
+PRODUCT       Biconvex Posterior Chamber One-Piece Intraocular
+              Lenses, Model 815A with powers 25.00, 24.00,
+              23.00, 22.50, 22.00, 21.00, 20.50, 19.50, 19.00,
+              18.50, 16.50, 14.50, 13.50, 11.00.  Recall #Z-550-
+              3.
+CODE          Serial numbers:  25.0 power -- 
+              2133313-6, 2133314-4, 2133315-2, 2133316-0,
+              2133317-8, 2133318-6, 2133319-4, 2133320-1,
+              2133321-9, 2133322-7, 2133323-5, 2133324-3,
+              2133325-1, 2133326-9, 2133327-7, 2133328-5,
+              2133329-3, 2133330-0, 2133331-8, 2133332-6, 
+              2133333-4, 2133334-2, 2133335-0, 2133336-8,
+              2133337-6, 2133338-4, 2133339-2, 2133340-9,
+              2133341-7.
+              24.00 power -- 2133393-0, 2133394-8, 2133395-6,
+              233396-4, 2133397-2, 2133398-0, 2133399-8,
+              2133400-3, 2133401-1, 2133402-9, 2133403-7,
+              2133404-5, 2133405-3, 2133406-1, 2133407-9,
+              2133408-7, 2133409-5, 2133410-2, 2133411-0,
+              2133412-8, 2133413-6, 2133414-4, 2133415-2,
+              2133416-0, 2133417-8, 2133418-6.
+              23.00 power -- 2133284-3, 2133285-1, 2133286-9,
+              2133287-7, 2133288-5, 2133289-3, 2133290-0,
+              2133291-8, 2133292-6, 2133293-4, 2133294-2,
+              2133295-0, 2133296-8, 2133297-6, 2133298-4,
+              2133299-2, 2133300-7, 2133301-5, 2133302-3,
+              2133303-1, 2133304-9, 2133305-7, 2133306-5,
+              2133307-3, 2133308-1, 2133309-9, 2133310-6,
+              2133311-4, 2133312-2.
+              22.50 power -- 2133466-4, 2133467-2, 2133468-0,
+              2133469-8, 2133470-5, 2133471-3, 2133472-1,
+              2133473-9, 2133474-7, 2133475-5, 2133476-3,
+              2133477-1, 2133478-9, 2133479-7, 2133480-4,
+              2133481-2, 2133482-0, 2133483-8, 2133484-6,
+              2133485-4, 2133486-2.
+              22.00 power -- 2133025-3, 2133026-1, 2133027-9,
+              2133028-7, 2133029-5, 2133030-2, 2133031-0,
+              2133032-8, 2133033-6, 2133034-4, 2133035-2,
+              2133036-0, 2133037-8, 2133038-6, 2133039-4,
+              2133040-1, 2133041-9, 2133042-7, 2133043-5,
+              2133044-3, 2133045-1, 2133046-9, 2133047-7,
+              2133048-5, 2133049-3, 2133050-0, 2133051-8,
+              2133052-6, 2133053-4, 2133054-2, 2133055-0,
+              2133056-8, 2133057-6, 2133058-4, 2133059-2,
+              2133060-9, 2133152-4, 2133153-2, 2133154-0,
+              2133155-8, 2133156-6, 2133157-4, 2133158-2,
+              2133159-0, 2133160-7, 2133161-5, 2133162-3,
+              2133163-1, 2133164-9, 2133165-7, 2133166-5,
+              2133167-3, 2133168-1, 2133169-9, 
+              2133525-3, 2133526-1, 2133527-9, 2133528-7,
+              2133529-5, 2133530-2, 2133531-0, 2133532-8,
+              2133533-6, 2311534-4, 2133535-2, 2133536-0,
+              2133537-8, 2133538-6, 2133539-4, 2133540-1,
+              2133541-9, 2133542-7, 2133543-5, 2133544-3. 
+              21.00 power:  2133342-3, 2133343-1, 2133344-9,
+              2133345-7, 2133346-5, 2133347-3, 2133348-1,
+              2133349-9, 2133350-6, 2133351-4, 2133352-2,
+              2133353-0, 2133354-8, 2133355-6, 2133356-4,
+              2133357-2, 2133358-0, 2133359-8, 2133360-5,
+              2133361-3, 2133362-1, 2133363-9, 2133364-7,
+              2133365-5, 2133370-4, 2133371-2, 2133372-0.
+              20.50 power:  2133597-1, 2133598-9, 2133602-8,
+              2133551-7, 2133552-5, 2133553-3, 2133554-1,
+              2133555-9, 2133556-7, 2133557-5, 2133558-3,
+              2133559-1, 2133560-8, 2133561-6, 2133562-4,
+              2133563-2, 2133564-0, 2133565-8, 2133566-6,
+              2133567-4, 2133568-2, 2133599-7, 2133600-2,
+              2133601-0, 2133603-6, 2133604-4, 2133605-2,
+              2133606-0, 2133607-8, 2133608-6, 2133609-4,
+              2133610-1, 2133611-9, 2133545-0, 2133546-8,
+              2133548-4, 2133547-6, 2133549-2, 2133550-9.
+              19.50 power:  2133233-4, 2133234-2, 2133235-0,
+              2133236-8, 2133237-6, 2133238-4, 2133239-2,
+              2133240-9, 2133241-7, 
+              2133242-5, 2133243-3, 2133244-1, 2133245-9,
+              2133246-7, 2133247-5, 2133248-3, 2133249-1,
+              2133250-8, 2133251-6, 2133252-4, 2133253-2.
+              19.00 power:  2133061-4, 21330062-2, 2133063-0,
+              2133064-8, 2133065-6, 2133066-4, 2133067-2,
+              2133068-0, 2133069-8, 2133070-5, 2133071-3,
+              2133072-1, 2133073-9, 2133074-7, 2133075-5,
+              2133076-3, 2133077-1, 2133078-9, 2133079-7,
+              2133080-4, 2133081-2, 2133082-0, 2133083-8,
+              2133084-6, 2133085-4, 2133086-2, 2133087-0,
+              2133088-8, 2133089-6, 2133090-3, 2133091-1,
+              2133092-9, 2133093-7, 2133094-5.
+              18.50 power:  2133170-0, 2133171-8, 2133172-6,
+              2133173-4, 2133174-2, 2133175-0, 2133176-8,
+              2133177-6, 2133178-4, 2133179-2, 2133180-9,
+              2133181-7, 2133182-5, 2133183-3, 2133184-1,
+              2133185-9, 2133186-7, 2133187-5, 2133188-3,
+              2133189-1, 2133190-8, 2133191-6, 2133192-4,
+              2133193-2, 2133194-0, 2133195-8, 2133196-6,
+              2133197-4, 2133198-2, 2133199-0, 2133200-5,
+              2133373-0, 2133374-8, 2133375-6, 2133376-4,
+              2133377-2, 2133378-0, 2133379-8, 2133380-5,
+              2133381-3, 2133382-1, 2133383-9, 2133384-7,
+              2133385-5, 2133386-3, 2133387-1, 2133388-9,
+              2133389-7, 2133390-4, 2133391-2, 2133392-0.
+              16.50 power:  2133255-4, 2133256-2, 2133257-0,
+              2133258-8, 2133259-6, 2133260-3, 2133261-1,
+              2133262-9, 2133263-7, 2133264-5, 2133265-3,
+              2133266-1, 2133267-9, 2133268-7, 2133269-5,
+              2133270-2, 2133271-0, 2133272-8, 2133273-6,
+              2133274-4, 2133275-2, 2133276-0, 2133277-8,
+              2133278-6, 2133279-4, 2133280-1, 2133281-9,
+              2133282-7, 2133283-5.
+              14.50 power:  2133487-7, 2133488-5, 2133489-3,
+              2133494-2, 2133490-0, 2133491-8, 2133492-6,
+              2133493-4, 2133495-0, 2133496-8, 2133497-6,
+              2133498-4, 2133499-2, 2133500-7, 2133501-5,
+              2133502-3, 2133503-1, 2133504-9, 2133505-7,
+              2133506-5, 2133507-3, 2133508-1, 2133509-9,
+              2133510-6, 
+              2133511-4, 2133512-2, 2133513-0, 2133514-8,
+2133515-6,    2133516-4, 2133517-2, 2133518-0, 2133519-8,
+2133520-5,    2133521-3, 2133522-1, 2133523-9, 2133524-7.
+              13.50 power:  2133575-2, 2133576-0, 2133577-8,
+              2133578-6, 2133579-4, 2133580-1, 2133581-9,
+              2133582-7, 2133583-5, 2133584-3, 2133586-9,
+              2133587-7, 2133585-1, 2133588-5, 2133589-3,
+              2133590-0, 2133591-8, 2133592-6, 2133593-4,
+              2133594-2, 2133595-0, 2133596-8, 2133569-5,
+              2133570-2, 2133571-0, 2133572-8, 2133573-6,
+              2133574-4.
+              11.00 power:  2133419-1, 2133420-8, 2133421-6,
+              2133422-4, 2133423-2, 2133424-0, 2133425-8,
+              2133426-6, 2133427-4, 2133428-2, 2133429-0,
+              2133433-1, 2133430-7, 2133431-5, 2133432-3,
+              2133434-9, 2133435-7, 2133436-5, 2133437-3,
+              2133438-1, 2133439-9, 2133440-6, 2133441-4,
+              2133442-2.
+MANUFACTURER  Kabi Pharmacia Ophthalmic, Inc., Monrovia,
+              California.
+RECALLED BY   Manufacturer, by telephone September 3, 1992,
+              followed by visit.  Firm-initiated recall
+              complete.
+DISTRIBUTION  Arizona, California, Colorado, Idaho, Kansas,
+              Louisiana, Oregon, Texas, Utah, Washington state.
+QUANTITY      90 units were distributed.
+REASON        Product contains an incorrect lens graphic on the
+              end of the package label.
+
+_______________
+PRODUCT       Commercial Sun Tanning Beds manufactured by Alisun
+              America, Alisun Professional and Alisun Holland
+              for distribution by ETS, Inc., Indianapolis, IN:
+              (a) Sunquest Wolff Super ZX 41 (digital timer, 41
+              Wolff System lamps)
+              Sunquest Wolff Super ZX 41-2F (digital timer, 41
+              Wolff System lamps, 2 400-watt high-speed face
+              tanners)
+              Sunquest Wolff Super ZX 30 (30 Wolff System lamps)
+              Sunquest Wolff Super ZX 30-F (30 Wolff System      
+                       lamps, 1 400-watt high-speed face tanner)
+              Sunquest Wolff Super ZX 30-2F (30 Wolff System
+              lamps, 2 400-watt high-speed face tanners). 
+              Recall #Z-560/561-3.
+CODE          All serial numbers.
+MANUFACTURER  Alisun America, Ltd., McHenry, Illinois.
+RECALLED BY   Manufacturer.  FDA approved the firm's corrective
+              action plan June 4, 1993.  Firm-initiated field
+              correction ongoing.
+DISTRIBUTION  Nationwide, Canada, Japan.
+QUANTITY      29 - ZX 41, 18 - ZX 41-2F, 196 - ZX 30, 50 - ZX
+              30F, and 136 ZX 30-2F sunbeds were distributed,
+              with all of the units estimated to remain on the
+              market.
+REASON        Noncompliance with the performance standards for
+              sunlamp products in that timers are capable of
+              being set for exposure times exceeding the
+              products' maximum recommended exposure times.
+
+_______________
+PRODUCT       Ohmeda Modulus CD Anesthesia Systems,
+              computer-based integrated anesthesia systems with
+              Central Displays.  Recall #Z-562-3.
+CODE          Stock Numbers:
+              0397-2012-043 MOD CD 3G LH O2 N2O AIR 220V 10A ISO
+              NETH
+              0397-2080-000 MOD CD 3G O2 N2O AIR 220V 10A KUWAIT
+              0397-2080-001 MOD CD 4G LH O2 N2O AIR CO2 120V 15A
+              ISO
+              0397-2080-002 MOD CD 3G O2 N2O AIR 100V 15A JAPAN
+              0397-2112-112 CD MFG BUILD 2/MODII+ 3G AIR O2 N2O
+              1202-8173-000 MOD CD UPRIGHT/PNEUM 3G O2 N2O AIR
+              JAPAN
+              1202-9000-000 MOD CD 3G O2 N2O AIR 120V 15A
+              1202-9001-000 MOD CD 4G O2 N2O AIR HELIOX 120V 15A
+              1202-9002-000 MOD CD 4G O2 N2O AIR CO2 120V 15A
+              51202-9003-000 MOD CD 4G UK ISO O2 N2O AIR CO2
+              240V 10A
+              1202-9004-000 MOD CD 3G O2 N2O AIR 220V 10A ISO
+              NETH
+              1202-9005-000 MOD CD 3G O2 N2O AIR 120V 12A CANADA
+              1202-9007-000 MOD CD 3G AIR 220V 10A IEC GER
+              1202-9008-000 MOD CD 3G O2 N2O AIR 100V 15A JAPAN
+              1202-9009-000 MOD CD 4G CO2 240V 10A IEC UK
+              1202-9016-000 MOD CD 3G AIR 220V 10A IEC NETH
+              1202-9017-000 MOD CD 3G AIR 220V 10A IEC FRENCH
+              1202-9018-000 MOD CD 3G AIR 220V 10A IEC ITALIAN
+              1202-9019-000 MOD CD 3G AIR 220V 10A IEC SPANISH
+              1202-9021-000 MOD CD 3G AIR 220V 10A IEC AUSTRIA
+              Serial Numbers: ABZU00426 through ABZW00240.
+MANUFACTURER  Ohmeda, Madison, Wisconsin.
+RECALLED BY   Manufacturer, by letter May 13, 1993.  Firm-
+              initiated recall ongoing.
+DISTRIBUTION  Nationwide and international.
+QUANTITY      622 units were distributed.
+REASON        The product can provide false blood pressure
+              readings during surgery.  Electrical noise can
+              cause the control circuit of the product's non-
+              invasive blood pressure module to stop taking
+              intermittent blood pressure readings, and the most
+              recent blood pressure readings becomes locked into
+              the display, with no indication of any error.
+
+_______________
+PRODUCT       Focus Clear Contact Lenses, in single foil trial
+              packages.  Recall #Z-566-3.
+CODE          Lot 3014751 EXP 5/98.
+MANUFACTURER  Ciba Vision, Atlanta, Georgia.
+RECALLED BY   Manufacturer, by letter April 23, 1993.  Firm-
+              initiated recall ongoing.
+DISTRIBUTION  Nationwide, Canada.
+QUANTITY      362 lenses were distributed.
+REASON        The label indicates an incorrect base curve, 8.9
+              instead of 8.6.
+
+_______________
+PRODUCT       Promotional materials for Miraflow Extra Strength
+              Daily Cleaner.  Sales Aid entitled "Go Beyond
+              Clean", a letter from CIBA Vision; and 2 journal
+              article reprints (Journal of the American
+              Optometric Association, Ghajar et al, 1989; CLAO
+              Journal, Penley et al, 1989).  Recall #Z-571-3.
+CODE          None.
+MANUFACTURER  CIBA Vision Corporation, Duluth, Georgia.
+RECALLED BY   Manufacturer, by returns and letter April 2, 1993. 
+              February 19, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION  Nationwide.
+QUANTITY      Unknown.
+REASON        The promotional material's claim for use as a
+              disinfectant exceed the product's PMA approved
+              indication as a daily cleaner for contact lenses.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+=====================
+_______________
+PRODUCT       Raichem Lipase Reagent In-vitro Diagnostic Test
+              Kit, used for the quantitative enzymatic
+              measurement of Lipase activity in human serum. 
+              Recall #Z-496/497-3.
+CODE          Product #85279 (5 x 10 ml pack), lot 84001 and
+              Product 85284 (5 x 30 ml pack), lot 84002.
+MANUFACTURER  Toyo Jozo, Company, Ltd., Shizuoka, Japan.
+RECALLED BY   Reagents Applications, Inc., San Diego,
+              California, by telephone late January 1992 or
+              early February 1992.  Firm-initiated recall
+              ongoing.
+DISTRIBUTION  California, Ohio, Illinois, Florida, Portugal,
+              Canada, Ecuador, Greece.
+QUANTITY      1 30-ml pack and 89 10-ml packs were distributed.
+REASON        There is a vial to vial variation in the
+              concentration of lyophilized Lipase Standard, Lot
+              #4747, included in each kit and/or the value of
+              the Lipase Standard was incorrectly assigned.
+
+________________
+PRODUCT       Sterile Cleaning Solution for Soft (hydrophilic)
+              contact lenses, in 1 fluid ounce containers with
+              the following labels:
+              (a) Revco Sterile Cleaning Solution, distributed
+              by Revco D.S., Inc.; (b) Thrifty Sterile Cleaning
+              Solution, distributed by Thrifty Drug Stores, a
+              Division of Thrifty Corporation; (c) Fays Quality
+              Sterile Cleaning Solution, distributed by Fay's
+              Drug Stores, Division of Fay's Inc.; (d) Genovese
+              Sterile Cleaning Solution, distributed by Genovese
+              Drug Stores, Inc.  Recall #Z-567/570-3.
+CODE          EC0011C EXP 5/8/92, E0020/E0020A EXP 10/22/92.
+MANUFACTURER  Paco Pharmaceutical Services, Inc., Lakewood, New
+              Jersey.
+RECALLED BY   Manufacturer, by letter May 8, 1992.  Firm-
+              initiated recall ongoing.
+
+DISTRIBUTION  California, Michigan, North Carolina, Nevada, New
+              York, Pennsylvania, South Carolina.
+QUANTITY      (a) 1,170 cases; (b) 2,911 cases were distributed.
+REASON        The firm's tests detected a low sorbic acid value
+              which could cause yellowing of the solution.
+
+SEIZURES:
+================================================================
+_______________
+PRODUCT         Frozen tuna steaks (92-556-582).
+CHARGE          Adulterated - The article consists in whole or in
+                part of a decomposed substance and is otherwise
+                unfit for food because it is rancid.
+FIRM            Transfresh, Miami, Florida.
+FILED           February 11, 1993; U.S. District Court for the       
+                Southern District of Florida; Civ.                   
+                93-0322-CIV-UNGARO; FDC #66654.
+SEIZED          March 11, 1993 - goods valued at approximately $715.
+
+_______________
+PRODUCT         Dried garlic bulbs (93-594-211, et al.).
+CHARGES         Adulterated - The article consists in part of filthy 
+                and decomposed substances.  Misbranded - The article 
+                is in package form and it fails to bear a label      
+                containing:  the name and place of business of the   
+                manufacturer, packer, or distributor; and a          
+                declaration of net quantity of contents
+                in terms of avoirdupois pound and ounce as required.
+FIRM            Fundora Produce, Miami, Florida.
+FILED           April 7, 1993; U.S. District Court for the
+                Southern District of Florida; Civil
+                #93-0663-CIV-UNGARO-BENAGES; FDC #66682.
+SEIZED          May 10, 1993 - goods valued at approximately $708.
+
+_______________
+PRODUCT         MLC Normal Serum in vitro diagnostic device          
+                (93-635-542).
+CHARGES         Adulterated - The article is a class III medical
+                device which does not have in effect the required
+                approved premarket approval application.  The
+                article is further adulterated because the
+                methods used in, and the facilities and controls
+                used for, its manufacture, packing, and storage
+                are not in conformity with current good
+                manufacturing practice requirements for devices. 
+                Misbranded - The article's labeling contains a
+                statement which is false and misleading and
+                otherwise contrary to fact.  The article's
+                labeling also fails to bear adequate directions
+                for use for the purposes for which it is
+                intended.
+FIRM            RJO Biologicals, Inc., Kansas City, Missouri.
+FILED           June 18, 1993; U.S. District Court for the Western   
+                District
+                of Missouri, Western Division; Civ. #93-0591-CV-W-8;
+                FDC #66711.
+SEIZED          June 24, 1993 - goods valued at approximately        
+                $13,260.
+
+                                    -8-
+END OF ENFORCEMENT REPORT FOR JUNE 30, 1993.  BLANK PAGES MAY FOLLOW.
+                                   ####

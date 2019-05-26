@@ -8,12 +8,10 @@ async function scrape(page) {
         const $ = cheerio.load(mainHtml);
         const text = $('body').text().trim();
 
-        let str = page.text
-        let monthDay = str.match(/\d{1,2}/g)
-        let year = str.match(/\d{4}/)
-        let fileName = `${year[0]}-${monthDay[0]}-${monthDay[1]}`
+        let nameArr = page.text.match(/(\d+)\/(\d+)\/(\d{2,4})/);
+        let fileName = nameArr[1] > 12 ? `${nameArr[3]}-${nameArr[2]}-${nameArr[1]}` : `${nameArr[3]}-${nameArr[1]}-${nameArr[2]}`
 
-        fs.writeFile(`text/2000/${fileName}.txt`, text, (err) => {
+        fs.writeFile(`text/pre-1995/${fileName}.txt`, text, (err) => {
             if (err) {
                 console.log('error (while writing)', err.message);
             } else {
@@ -27,17 +25,17 @@ async function scrape(page) {
 };
 
 
-const fetchText = (year) => {
+const fetchText = year => {
     fs.readFile(`links/${year}-link.json`, (err, data) => {
         if (err) {
             console.log('error while reading', err.message)
         } else {
             let links = JSON.parse(data);
-            for (let i = 50; i < 60; i++) {
+            for (let i = 240; i < 260; i++) {
                 scrape(links[i]);
             }
         }
     });
 }
 
-fetchText(2000);
+fetchText('pre-1995');

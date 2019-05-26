@@ -1,0 +1,906 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      30 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+12/08/1993
+
+Recalls and Field Corrections:  Cosmetics -- Class III -- 12/08/1993
+
+December 8, 1993                                           93-49
+
+RECALLS AND FIELD CORRECTIONS:  COSMETICS -- CLASS III
+====================
+_______________
+PRODUCT        Longs Vitamin E Creme, in 4-ounce plastic jars, a
+               moisturizing supplement for the skin.  Recall #F-106-4.
+CODE           Lot numbers:  3174EC1 and 3236EC1.
+MANUFACTURER   HPC Laboratories, Inc., doing business as Hunt Products,
+               Dallas, Texas.
+RECALLED BY    Manufacturer, by telephone October 1, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   California.
+QUANTITY       11,184 jars were distributed; firm estimates that 50 percent
+               of the product distributed remained on the market when
+               recall was initiated.
+REASON         Product is mislabeled.  Label states the product contains
+               aloe vera, collagen, and Vitamin A & D, but product does not
+               contain these ingredients.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+========================
+_______________
+PRODUCT        USP Oxygen in Size E Cylinders.  Recall #D-039-4.
+CODE           Batch numbers C570 through C610.
+MANUFACTURER   HealthCor, Inc. (formerly Permian Medical, Inc.) Midland,
+               Texas.
+RECALLED BY    Manufacturer, by visits between May 8, 1993, and July 23,
+               1993.  Firm-initiated recall complete.DISTRIBUTION   Texas. 
+QUANTITY       206 cylinders were distributed; firm estimates none remains
+               on the market. 
+REASON         Current good manufacturing practice deficiencies.
+
+---------------
+PRODUCT        Hydrocodone Bitartrate and Acetaminophen, 5 mg/500 mg
+               Tablets, in bottles of 100, 500 and 1,000, for the relief of
+               pain, under the following labels:  Blue Cross, Schein
+               Pharmaceuticals, Aligen Independent Laboratories, Goldline,
+               Qualitest, Mason, Moore, IDE Star, URL, Par-Med, Major
+               Pharmaceuticals, and Halsey Drug.  Recall #D-046-4.
+CODE           All lots, sizes and labels.
+MANUFACTURER   Halsey Drug Company, Inc., Brooklyn, New York.
+RECALLED BY    Manufacturer, by letter November 10, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 450 batches of 1,000,000 tablets each, were
+               distributed in the last 3 years.
+REASON         Abbreviated New Drug Application discrepancies.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        SPS Suspension (Sodium Polystyrene Sulfonate Suspension
+               USP), 473 ml 120 ml and 60 ml.  Recall #D-036-4.
+CODE           Lot numbers:  473 ML - lots - 192271, 292241, 492101,
+               692111, 792311, 1092081, 1292011, 193221, 293151, 393161,
+               593061, 693171, 893191, 993031
+               120 ML - LOTS 492031, 1092271, 993271
+               60 ML - LOTS 192081, 192151, 292123, 392131, 592081, 792141,
+               892133, 992171, 1092291, 1292031, 193112, 293191, 393101,
+               493291, 693031, 793291, 893301
+MANUFACTURER   Carolina Medical Products Company, Farmville, North
+               Carolina.
+RECALLED BY    Manufacturer, by letters sent the week of November 8, 1993,
+               followed by telephone.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,500 473-ml bottles; 200 120-ml bottles; 21,000 60-ml units
+               were distributed.
+REASON         Use of non-approved formulation.
+
+_______________
+PRODUCT        Guaifenesin and Codeine Phosphate Syrup cough preparations: 
+               Tusscidin AC Expectorant Cough Suppressant, 4-fluid ounces,
+               and 8-fluid ounces;
+               Tusscidin AC Expectorant Cough Suppressant, 128-fluid
+               ounces;
+               Guiatuss AC Syrup, cough suppressant expectorant, 4-fluid
+               ounces, 1 pint and 1 gallon, manufactured for Goldline
+               Laboratories;
+               Guaifenesin A.C. Syrup, 1 pint (473 ml), manufactured for
+               United Research Laboratories, Inc.   Recall #D-037-4.
+                                    -2-CODE           All lots and codes manufactured between September 25, 1993
+               and October 13, 1993.
+MANUFACTURER   H.R. Cenci Laboratories, Inc., Fresno, California.
+RECALLED BY    Manufacturer, by letter October 1993.  Firm-initiated field
+               correction complete.
+DISTRIBUTION   California, Hawaii, Florida, New Jersey, Ohio, Oregon,
+               Pennsylvania, Texas.
+QUANTITY       Firm estimates that about 10,000 units covering all sizes
+               remain on the market.
+REASON         Product does not meet USP specifications for pH.
+
+_______________
+PRODUCT        Trifluoperazine Hydrochloride Concentrate 10 mg/ml, in 2-
+               fluid ounce containers, indicated for the management of
+               manifestations of psychotic disorders as well s the short
+               term treatment of non-psychotic anxiety, where it is
+               considered second-line therapy.  Recall #D-038-4.
+CODE           Lot #73416.
+MANUFACTURER   Geneva Pharmaceuticals, Inc., Broomfield, Colorado.
+RECALLED BY    Manufacturer, by letter November 22, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       10,023 units were distributed.
+REASON         Product does not meet stability specifications.
+
+_______________
+PRODUCT        Norwich brand Enteric Safety Coated Aspirin, 325 mg, in
+               bottles of 150.  Recall #D-040-4.
+CODE           Lot numbers 92G5 and 92G6 EXP 7/94.
+MANUFACTURER   Granutec, Inc., Wilson, North Carolina.
+RECALLED BY    Chattem, Inc., Chattanooga, Tennessee, by memorandum and
+               letter November 16, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       71,370 bottles were distributed.
+REASON         Product does not meet dissolution specifications though
+               expiration date.
+
+_______________
+UPDATE         Percodan Tablets, Recall #D-029-4, which appeared in the
+               November 24, 1993 Enforcement Report should read:
+               CODE:  Lot #EEA-001A.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        (a) Whole Blood; (b) Red Blood Cells; (c) Red Blood Cells,
+               for further manufacture; (d) Platelets; (e) Platelets,
+               Expired; (f) Cryoprecipitated AHF; (g) Fresh Frozen Plasma;
+               (h) Plasma; (i) Recovered Plasma.  Recall #B-050/058-4.
+CODE           Unit numbers:
+               (a) 05C02839, 05C91259, 05F23060, 05F25709, 05F25837,
+               05F27321, 05F27490 , 05F29420, 05F30368, 05F30521, 05F32902,
+               
+                                    -3-               05F33684, 05F34063, 05F34287, 05F35859, 05F37175, 05F50071,
+               05F52001, 05G31808, 05G34412, 05G37333, 05H47770, 05LF02960,
+               05LV00781, 05LV01372, 05LW03622, 05Q25823, 05Q25857,
+               05Q28177, 05Q28333, 05R56848, 05S58395, 05V27450, 05Y54751,
+               53GV05302, 53GV05557, 53KF12035, 53KF18633, 53KF27180,
+               53KQ15486, 53KQ19692, 53KQ25435, 53KT08056, 53KT08259,
+               53KT22346, 53KW19575, 53KY20266, 53KY29351, and 53KZ09958;
+               (b) 05C01620, 05C01950, 05C21184, 05C60533, 05C61484,
+               05C63014, 05C63982, 05C64567, 05C71402, 05C76831, 05C86166,
+               05C92410, 05C95331, 05C99426, 05E03574, 05E07302, 05F25302,
+               05F43185, 05F44510, 05F44751, 05F45487, 05F47946, 05F48616,
+               05F54478, 05F55636, 05F55919, 05F57464, 05F58043, 05G29214,
+               05G36558, 05G41680, 05G42366, 05G43383, 05G48602, 05G61517,
+               05G70464, 05G70789, 05G71346, 05GL03236, 05GN01946,
+               05GN04280, 05GV00316, 05GZ00419, 05H47741, 05H54893,
+               05H61216, 05H63092, 05H63168, 05H64277, 05H66448, 05J41473,
+               05J42050, 05J46275, 05J55798, 05J60078, 05J60224, 05J68091,
+               05J76009, 05K27339, 05K28013, 05K30890, 05K31571, 05K35579,
+               05K35767, 05K50032, 05K68133, 05K71777, 05KY10412, 05L17166,
+               05L19941, 05L30379, 05L33799, 05L49578, 05L52178, 05L53343,
+               05L54550, 05L54865, 05LF00274, 05LF01535, 05LH01084,
+               05LH03324, 05LH04834, 05LL02896, 05LL04439, 05LR02483,
+               05LR02931, 05LR04245, 05LS00604, 05LT00319, 05LT00361,
+               05LT01697, 05LT02070, 05LV00092, 05LV00259, 05LV00731,
+               05LV00793, 05LV01271, 05LW00032, 05LW02471, 05LX00184,
+               05LX01436, 05LX03815, 05M30393, 05M42835, 05N07314,
+               05N08879, 05N11529, 05N11718, 05N13072, 05N25618, 05N26143,
+               05N27866, 05N28517, 05N88613, 05N94709, 05N95017, 05N96718,
+               05R21326, 05R36435, 05R40421, 05R43857, 05R43927, 05S60977,
+               05S72512, 05S83268, 05V19281, 05V19464, 05V19819, 05V20574,
+               05V20594, 05V21334, 05V21759, 05V22096, 05V22647, 05V23017,
+               05V23308, 05V23813, 05V24701, 05V25239, 05V25773, 05V26283,
+               05V26845, 05V27206, 05V27995, 05V28310, 05V28533, 05V29132,
+               05V29280, 05V29372, 05V29651, 05V29728, 05W51496, 05W52608,
+               05W60300, 05W76956, 05W93940, 05X54405, 05X56806, 05X60686,
+               05X63207, 05X69237, 05X75816, 05X78296, 05X80589, 05X82358,
+               05Y25119, 05Y27607, 05Y29591, 05Y30603, 05Y32349, 05Y32459,
+               05Z08109, 05Z16766, 27FC00853, 27FC06001, 27FC16339,
+               27Y00431, 27Y01117, 27Y03078, 27Y05795, 27Y09032, 27Y11957,
+               27Y15104, 29FN11543, 53FC04124, 53FE01112, 53GH17789,
+               53GH19871, 53GJ11635, 53GJ20021, 53GJ21289, 53GJ24047,
+               53GJ27765, 53GJ29990, 53GJ30447, 53GJ31279, 53GL14388,
+               53GL17842, 53GL18002, 53GL18691, 53GL21034, 53GL24593,
+               53GL26132, 53GL28057, 53GL29634, 53GL31099, 53GL32036,
+               53GL32264, 53GN12287, 53GN14688, 53GN15434, 53GN18792,
+               53GN20986, 53GN27751, 53GN28676, 53GN29672, 53GN36183,
+               53GN38050, 53GN39659, 53GN43053, 53GQ08243, 53GV03346,
+               53GV03373, 53GV03443, 53GV03861, 53GV03950, 53GV03966,
+               53GV04492, 53GV04541, 53GV05044, 53GV06029, 53GV06587,
+               53GZ24130, 53GZ25905, 53GZ29053, 53GZ33609, 53GZ34028,
+               53KE11494, 53KE15226, 53KE15480, 53KF06791, 53KF07463,
+               53KF07704, 53KF08936, 53KF09967, 53KF10066, 53KF10862, 
+
+                                    -4-               53KF11896, 53KF13047, 53KF20217, 53KF22258, 53KF22789,
+               53KF24110, 53KF25103, 53KF25980, 53KF30395, 53KF30480,
+               53KF32600, 53KF32938, 53KF34040, 53KL18146, 53KL24550,
+               53KL32559, 53KL35236, 53KL35886, 53KL37429, 53KM18023,
+               53KM21021, 53KM24308, 53KM27356, 53KN15345, 53KN18418,
+               53KN19804, 53KN26687, 53KN27362, 53KQ12636, 53KQ15192,
+               53KQ16965, 53KQ18439, 53KQ19616, 53KQ20715, 53KQ21265,
+               53KQ24648, 53KQ25290, 53KQ25413, 53KQ26950, 53KQ37007,
+               53KQ40595, 53KQ41018, 53KR13854, 53KR17498, 53KR19467,
+               53KR24954, 53KR28813, 53KR29114, 53KR29880, 53KS14230,
+               53KS16609, 53KS21622, 53KT13471, 53KT14595, 53KT18217,
+               53KT18243, 53KT21270, 53KT22554, 53KT22638, 53KT28823,
+               53KT29710, 53KT32694, 53KT34036, 53KT35410, 53KW16876,
+               53KW20639, 53KW23085, 53KW23962, 53KW25878, 53KX13649,
+               53KX21835, 53KY08743, 53KY34806, 53KY37735, 53KY39213,
+               53KY43255, 53KY43890, 53KZ06978, 53KZ07935, 53KZ10594,
+               53KZ14195, 53KZ17499, 53KZ19603, 53KZ21068, 53KZ25373,
+               53KZ32649, 53KZ32689, 53L86085, and 53LK02324;
+               (c) 05H45752, 05H55532, 05J62146, 05LH04133, 05N16977,
+               05N26675, 05W58402, 05X63191, 05X78408, 05Y27135, 05Z15894,
+               53G31121, 53GN24437, 53GN25450, 53GV07082, 53KN29550, and
+               53KZ32970;
+               (d) 05C00385, 05C60533, 05C76831, 05C86166, 05C92410,
+               05C99426, 05F25302, 05F54478, 05F55636, 05G29214, 05G36558,
+               05G41680, 05G42366, 05G43383, 05G61517, 05G64168, 05H45752,
+               05H47741, 05H54893, 05H63092, 05J55798, 05J60078,  05J60224,
+               05J62146, 05K27339, 05K30890, 05K31571, 05K35579, 05L17166,
+               05L30379, 05L33799, 05L49578, 05L52178, 05LV00731,
+               05LV00793, 05M21268, 05M30393, 05N07314, 05N08879, 05N11529,
+               05N13072, 05N25618, 05N26143, 05N26675, 05N88613, 05N94709,
+               05N95017, 05R40421, 05R43857, 05S60977, 05S72512, 05V28310,
+               05X73644, 05Y27607, 05Y29591, 05Y30603, 27Y07602, 29FN11543,
+               53FC04124, 53GL18002, 53GL18691, 53GL21034, 53GL28057,
+               53GN15434, 53GN38050, 53GN39659, 53GV03861, 53GV04492,
+               53GV04541, 53GV05044, 53GV06029, 53GV06587, 53GZ34028,
+               53KE11494, 53KE15226, 53KE15480, 53KF06791, 53KF07704,
+               53KF08936, 53KF10862, 53KF11887, 53KF13047, 53KF20217,
+               53KF30395, 53KF32600, 53KF32938, 53KF34040, 53KL35886,
+               53KL37429, 53KN27362, 53KQ18439, 53KQ19616, 53KQ21265,
+               53KQ24648, 53KQ37007, 53KQ40595, 53KR13854, 53KR29880,
+               53KT13471, 53KT14595, 53KT22554, 53KT35410, 53KX13649,
+               53KY39213, 53KZ19603, 53KZ21068, 53LF13184
+               (e)  05C63014, 05C63982, 05N11718;
+               (f) 05J68091, 05L17166, 05R43927, 05S69396, 53KN26687,
+               53KR19467, 53KT18217, 53KY35424, 53KY43255, and 53KZ32970 
+               (g) 05C64567, 05F25302, 05F43185, 05F45487, 05F47946,
+               05F54478, 05J41473, 05K30890, 05L49578, 05L52178, 05M30393,
+               05N13072, 05N94709, 05R43857, 05S60977, 05Z08109, 27Y07602,
+               53GL32036;
+               (h) 05C60533, 05H63092, 05K31571, 53KF07704, 05LV00793,
+               05P19690, 05P20672A, 05P20672B, 05P21054A, 05P21684A,
+               05P21684B, 05P24228A, 05P24228B, 05P24841, 05P26264B, 
+
+                                    -5-               05P30263A, 05P30263B, 05P30263C, 53GJ21289, 53GJ24047,
+               53GJ31279, 53GL26132, 53GL29634, 53GL32264, 53GN27751,
+               53GN28676, 53GN29672, 53GN43053, 53GV03373, 53GV03861,
+               53GV04492, 53KF06791, 53KF07463, 53KF30480, 53KL35236,
+               53KM21021, 53KM27356, 53KN18418, 53KQ16965, 53KQ18439,
+               53KQ21265, 53KQ37007, 53KQ41018, 53KR13854, 53KR24954,
+               53KR28813, 53KR29114, 53KS21622, 53KS27832, 53KT13471,
+               53KT21270, 53KT22554, 53KT32694, 53KW23085, 53KW23962,
+               53KX21835, 53KY34806, 53KZ32649, 53KZ32689;
+               (i) 05C01620, 05C01950, 05C61484, 05C63014, 05C63982,
+               05C71402, 05C76831, 05C86166, 05C92592, 05C95331, 05C97134,
+               05C99426, 05E03574, 05E07302, 05F42804, 05F44510, 05F44751,
+               05F55636, 05F55919, 05F57464, 05F58043, 05G36558, 05G41680,
+               05G42366, 05G43383, 05G61517, 05G64168, 05G70464, 05G70789,
+               05G71346, 05GL03236, 05GN01946, 05GN04280, 05GV00316,
+               05GZ00419, 05GZ02980, 05H45752, 05H47741, 05H54893,
+               05H55532, 05H59335, 05H63168, 05H64277, 05H66448, 05J42050,
+               05J43563, 05J46275, 05J55798, 05J60078, 05J60224, 05J62146,
+               05J68091, 05J76009, 05K27339, 05K28013, 05K35579, 05K35767,
+               05K50032, 05K68133, 05K71777, 05KY10412, 05L17166, 05L19941,
+               05L30379, 05L33799, 05L47842, 05L53343, 05L54550, 05L54865,
+               05LF00274, 05LF01535, 05LH01084, 05LH03324, 05LH04133,
+               05LH04834, 05LL02896, 05LL04439, 05LR02483, 05LR02931,
+               05LR04245, 05LS00604, 05LT00319, 05LT00361, 05LT01697,
+               05LV00092, 05LV00259, 05LV01271, 05LW00032, 05LW02471,
+               05LX00184, 05LX01436, 05LX03815, 05M31502, 05M42835,
+               05N07314, 05N08879, 05N11529, 05N11718, 05N16977, 05N18639,
+               05N25618, 05N26143, 05N27866, 05N28517, 05N88613, 05N95017,
+               05N96718, 05P28141, 05R21326, 05R36435, 05R40421, 05R43507,
+               05R43927, 05S69396, 05S72512, 05S80233, 05S83268, 05V19281,
+               05V19464, 05V19819, 05V20574, 05V20594, 05V21334, 05V21759,
+               05V22096, 05V22647, 05V23017, 05V23308, 05V23813, 05V24701,
+               05V25239, 05V25773, 05V26283, 05V26845, 05V27206, 05V27995,
+               05V28310, 05V28533, 05V29132, 05V29280, 05V29372, 05V29651,
+               05V29728, 05W51496, 05W52608, 05W58402, 05W60300, 05W76956,
+               05W91071, 05W91328, 05W93940, 05W97663, 05X54405, 05X56806,
+               05X60686, 05X63191, 05X63207, 05X69237, 05X73644, 05X75816,
+               05X78296, 05X78408, 05X80589, 05X82358, 05Y25119, 05Y27135,
+               05Y27607, 05Y29591, 05Y32349, 05Y46355, 05Y48311, 05Y56015,
+               05Y56361, 05Z16766, 27FC00853, 27FC05503, 27FC06001,
+               27FC11818, 27FC16339, 27Y00431, 27Y00698, 27Y01117,
+               27Y02481, 27Y03078, 27Y04897, 27Y05795, 27Y09032, 27Y11706,
+               27Y11957, 27Y15104, 29FN11543, 53FC04124, 53FE01112,
+               53G31121, 53GH17789, 53GH19871, 53GJ11635, 53GJ30447,
+               53GL11221, 53GL14388, 53GL17842, 53GL18002, 53GL18691,
+               53GL21034, 53GL24593, 53GL28057, 53GN12287, 53GN14688,
+               53GN15434, 53GN18792, 53GN20986, 53GN25450, 53GN36183,
+               53GN38050, 53GN39659, 53GQ08243, 53GV03346, 53GV03443,
+               53GV03950, 53GV03966, 53GV04541, 53GV05044, 53GV06029,
+               53GV06587, 53GV07082, 53GZ24259, 53GZ34028, 53KE11494,
+               53KE15226, 53KE15480, 53KF09967, 53KF10066, 53KF10862,
+               53KF11887, 53KF11896, 53KF13047, 53KF20217, 53KF20221, 
+
+                                    -6-               53KF22258, 53KF22789, 53KF24110, 53KF25103, 53KF25980,
+               53KF30395, 53KF32600, 53KF32938, 53KF34040, 53KL18146,
+               53KL24550, 53KL32559, 53KL35886, 53KL37429, 53KM18023,
+               53KM24308, 53KN15345, 53KN19804, 53KN26687, 53KN27362,
+               53KN29550, 53KQ12636, 53KQ15192, 53KQ19616, 53KQ20715,
+               53KQ24648, 53KQ25290, 53KQ25413, 53KQ26950, 53KQ40595,
+               53KR17498, 53KR19467, 53KS14230, 53KS16521, 53KS16609,
+               53KS27986, 53KS28415, 53KT07079, 53KT09143, 53KT14595,
+               53KT18217, 53KT18243, 53KT22638, 53KT26851, 53KT29710,
+               53KT32946, 53KT34036, 53KT35410, 53KW16876, 53KW20639,
+               53KW22315, 53KW24362, 53KW25878, 53KY35424, 53KY37735,
+               53KY39213, 53KY43890, 53KZ06978, 53KZ07935, 53KZ08996,
+               53KZ10594, 53KZ14195, 53KZ17499, 53KZ19603, 53KZ21068,
+               53KZ32970, 53L15571, 53L80673, 53L86085, 53LK02324,
+               53T63863;
+MANUFACTURER   American Red Cross Blood Services, Washington, D.C.
+RECALLED BY    American Red Cross, Baltimore, Maryland, by letters dated
+               from August 15, 1991 through September 13, 1992.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   California, New York, Pennsylvania, Florida, Switzerland.
+QUANTITY       (a) 49 units; (b) 336 units; (c) 17 units; (c) 17 units; (d)
+               107 units; (e) 3 units; (f) 10 units; (g) 18 units; (h) 60
+               units; (i) 309 units. 
+REASON         Blood products which tested non-reactive for the antibody to
+               the human immunodeficiency virus type 1 (anti-HIV-1) but
+               were collected from donors, who previously tested either
+               initially reactive for anti-HIV-1 and were not retested in
+               duplicate or repeatedly reactive for anti-HIV-1, were
+               distributed.
+
+_______________
+PRODUCT        Platelets.  Recall #B-071-4.
+CODE           Unit #1195202.
+MANUFACTURER   Carter Blood Center, Fort Worth, Texas.
+RECALLED BY    Manufacturer, by telephone August 3, 1993, followed by
+               letter August 23, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       1 unit.
+REASON         Blood product labeled with the incorrect expiration date was
+               distributed.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-072-4.
+CODE           Unit #FX70212.
+MANUFACTURER   Fairfax Hospital System, Inc., doing business as Fairfax
+               Hospital Blood Donor Center.
+RECALLED BY    Manufacturer, by letter September 22, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   New Jersey.
+QUANTITY       1 unit.
+
+                                    -7-REASON         Blood product which tested nonreactive for the antibody to
+               the human immunodeficiency virus type 1 (anti-HIV-1), but
+               was collected from a donor who previously tested repeatedly
+               reactive for anti-HIV-1, with multiple Western Blot test
+               results ranging from negative to positive, was distributed.
+
+_______________
+PRODUCT        Platelets.  Recall #B-073-4.
+CODE           Unit #11044-6388.
+MANUFACTURER   United Blood Services, Inc., El Paso, Texas.
+RECALLED BY    Manufacturer, by telephone October 31, 1992, followed by
+               letter November 1, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       1 unit.
+REASON         Blood product containing anti-Kell antibodies, but labeled
+               as negative for unexpected antibodies, was distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-076-4.
+CODE           Unit #12FC58196.
+MANUFACTURER   American Red Cross, Charlotte, North Carolina.
+RECALLED BY    Manufacturer, by letter July 16, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   North Carolina.
+QUANTITY       1 unit.
+REASON         Blood product was collected from a donor who had visited an
+               area designated as endemic for malaria and had taken
+               prophylactic anti-malarial medications two years prior to
+               donation. 
+
+_______________
+PRODUCT        Source Plasma.  Recall #B-077-4.
+CODE           Unit #049000475.
+MANUFACTURER   North American Biologicals, Inc., Dallas, Texas.
+RECALLED BY    North American Biologicals, Inc., Miami, Florida, by
+               telephone on or about March 22, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   California.
+QUANTITY       1 unit.
+REASON         Blood product tested repeatedly reactive for hepatitis B
+               surface antigen (HBsAg). 
+
+_______________
+PRODUCT        Source Leukocytes.  Recall #B-080-4.
+CODE           Unit #9325273.
+MANUFACTURER   Hoxworth Blood Center, Cincinnati, Ohio.
+RECALLED BY    Manufacturer, by letters dated April 20 and 22, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Florida, New York.
+QUANTITY       1 unit.
+REASON         Source Leukocytes tested repeatedly reactive for anti-HIV-1.
+
+
+                                    -8-RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III 
+===================
+_______________
+PRODUCT        (a) Whole Blood; (b) Whole Blood, For Further Manufacture;
+               (c) Red Blood Cells; (d) Red blood Cells, For Further
+               Manufacture; (e) Platelets; (f) Platelets, Pheresis; (g)
+               Platelets, Expired; (h) Granulocyte, Pheresis; (i)
+               Cryoprecipitated AHF; (j) Fresh Frozen Plasma; (k) Plasma;
+               (l) Recovered Plasma.  Recall #B-059/070-4.
+CODE           (a) 05C95279, 05C95570, 05F25471, 05F29812, 05F32162,
+               05F33913, 05G45114, 05G68500, 05G71594, 05G72188, 05G73193,
+               05GL01659, 05J55174, 05J56869, 05J59675, 05J61400,
+               05KF11696, 05L53509, 05LF01728, 05LL04828, 05N01062,
+               05Y49374, 53GV05360, 53KF13849, 53KF15882, 53KF19732,
+               53KF21716, 53KQ11593, and 53KQ23658;
+               (b) 05Z28883;
+               (c) 05C00623, 05C00971, 05C01717, 05C01833, 05C67312,
+               05C73192, 05C73922, 05C81156, 05C83657, 05C92485, 05C98878,
+               05C98924, 05C99854, 05E03550, 05E10324, 05E10442, 05F25407,
+               05F25676, 05F27583, 05F30301, 05F36178, 05F38545, 05F54623,
+               05FC02842, 05FC05116, 05FC08026, 05FG01774, 05G31838,
+               05G32166, 05G34423, 05G37347, 05G38481, 05G39391, 05G50726,
+               05G52400, 05G58817, 05G59818, 05G61766, 05G64764, 05G68187,
+               05G68728, 05G70645, 05G71101, 05G73194, 05G73439, 05GH00867,
+               05GH01170, 05GJ00235, 05GL00430, 05GL00787, 05GL01122,
+               05GL02192, 05GZ04764, 05H31057, 05H31409, 05H32679,
+               05H48652, 05H51835, 05H56676, 05H61211, 05J46512, 05J57178,
+               05J59169, 05J59866, 05J68914, 05J71083, 05J74126, 05K29247,
+               05K30532, 05K31907, 05K36233, 05K37913, 05K57126, 05K69901,
+               05K71899, 05K74033, 05KY07461, 05KY09402, 05KY09859,
+               05KY10459, 05KY10460, 05L17931, 05L17950, 05L26250,
+               05L29135, 05L32206, 05L33309, 05L38262, 05L42505, 05L42932,
+               05L43561, 05L44433, 05L47406, 05L48173, 05L50758, 05L51668,
+               05L55665, 05LE00740, 05LF03384, 05LH01001, 05LL01845,
+               05LL02709, 05LL03651, 05LL04370, 05LL04502, 05LL05395,
+               05LR04838, 05LS00965, 05LT02304, 05LT02739, 05LT03245,
+               05LT03929, 05LT04094, 05LV00785, 05LV01225, 05LW00707,
+               05LW03543, 05LW06116, 05LX01116, 05N09375, 05N23422,
+               05N27227, 05N28369, 05R21061, 05R25426, 05R53533, 05R53769,
+               05R55963, 05R58924, 05S66857, 05S69962, 05S72058, 05S79206,
+               05S82502, 05V19211, 05V19697, 05V20194, 05V20993, 05V21210,
+               05V22001, 05V22418, 05V22533, 05V23157, 05V23582, 05V23811,
+               05V24490, 05V24579, 05V25190,  05V25706, 05V26731, 05V27934,
+               05V28257, 05V28534, 05V29093, 05V29130, 05V29895, 05W49501,
+               05W52337, 05W52479, 05W55264, 05W57323, 05W57633, 05W58064,
+               05W65584, 05W67999, 05W70798, 05W74856, 05W75208, 05W77725,
+               05W78335, 05W80552, 05W89110, 05W93425, 05W96107, 05X48848,
+               05X53164, 05X55363, 05X61161, 05X66636, 05X74249, 05X74858,
+               05X79360, 05X82087, 05X82177, 05X82204, 05X83134, 05Y18544,
+               05Y28905, 05Y34564, 05Y35298, 05Y47736, 05Y52631, 05Y55974,
+               05Z14695, 05Z17376, 05Z18118, 05Z22961, 05Z25473, 05Z26505,
+               05Z27949, 05Z29263, 05Z30130, 27FC01550, 27FC04439,
+               27FC09074, 27Y01602, 27Y02028, 27Y04176, 27Y04479, 27Y13829,
+               
+                                    -9-               27Y14839, 27Y17202, 27Y18984, 29KC00278, 29KC04482,
+               29KC09138, 29KC09940, 29KC10319, 29KH01971, 29KH05383,
+               29KH07832, 29KH08765, 29KH11091, 53G53646, 53GH13254,
+               53GH14129, 53GH22582, 53GJ00177, 53GJ11056, 53GJ16370,
+               53GJ19691, 53GJ21164, 53GJ22406, 53GJ22608, 53GJ25376,
+               53GJ26066, 53GJ27637, 53GJ29034, 53GJ30354, 53GJ31121,
+               53GJ31164, 53GJ31838, 53GL12754, 53GL13539, 53GL15708,
+               53GL16740, 53GL22160, 53GL23716, 53GL29173, 53GN11596,
+               53GN12081, 53GN15122, 53GN18421, 53GN23171, 53GN30678,
+               53GV03508, 53GV04831, 53GV05839, 53GV07141, 53GZ14870,
+               53GZ16796, 53GZ20590, 53GZ22840, 53GZ24958, 53GZ26707,
+               53GZ28957, 53GZ29590, 53GZ35179, 53GZ35372, 53KE12968,
+               53KE13227, 53KE13471, 53KF22337, 53KF22356, 53KF24326,
+               53KF26135, 53KF28164, 53KF31131, 53KF31740, 53KL24037,
+               53KL25059, 53KL27447, 53KL31286, 53KL33017, 53KL33115,
+               53KL34080, 53KL35491, 53KL35547, 53KL36007, 53KL37519,
+               53KL37810, 53KL38211, 53KL39132, 53KL39383, 53KM17621,
+               53KM19332, 53KM22519, 53KN14826, 53KN17115, 53KN21142,
+               53KN21524, 53KN21879, 53KN25884, 53KN26449, 53KN27360,
+               53KN27385, 53KN27478, 53KN30328, 53KN30371, 53KQ13901,
+               53KQ14081, 53KQ14447, 53KQ16593, 53KQ17606, 53KQ17632,
+               53KQ18265, 53KQ19784, 53KQ20406, 53KQ20555, 53KQ21144,
+               53KQ22409, 53KQ23493, 53KQ24672, 53KQ27936, 53KQ28242,
+               53KQ29856, 53KQ32020, 53KQ34703, 53KQ35449, 53KQ36119,
+               53KQ41633, 53KR10492, 53KR14139, 53KR22124, 53KR24478,
+               53KR27568, 53KR28068, 53KS12227, 53KS13891, 53KS16839,
+               53KS17394, 53KS18970, 53KS20523, 53KS20884, 53KS22161,
+               53KS22231, 53KS26795, 53KS27778, 53KS28094, 53KT06964,
+               53KT07480, 53KT08197, 53KT08910, 53KT10408, 53KT11391,
+               53KT11875, 53KT11926, 53KT14404, 53KT16717, 53KT18087,
+               53KT18601, 53KT19023, 53KT20965, 53KT22479, 53KT23435,
+               53KT23498, 53KT24435, 53KT25909, 53KT27630, 53KT28331,
+               53KT29531, 53KT31047, 53KT31103, 53KT32203, 53KT33442,
+               53KT35290, 53KW11833, 53KW14079, 53KW17900, 53KW18025,
+               53KW20407, 53KW23058, 53KX09794, 53KX18044, 53KX19874,
+               53KY17222, 53KY18148, 53KY19765, 53KY21315, 53KY23330,
+               53KY24916, 53KY27376, 53KY28711, 53KY29940, 53KY30297,
+               53KY35964, 53KY39090, 53KY42281, 53KY43296, 53KZ07378,
+               53KZ11725, 53KZ15122, 53KZ19105, 53KZ19809, 53KZ20519,
+               53KZ21915, 53KZ29125, 53KZ31727, 53M95755, and 53R41547 
+               (d) 05C68202, 05K50729, 05L45943, 05N26019, 05Y53536,
+               05Z29383, 53GN36269, 53KR12822, and 53KR16808
+               (e) 05C00971, 05C73192, 05C83657, 05C92485, 05C99854,
+               05F25676, 05G31838, 05G32166, 05G34423, 05G37347, 05G38481,
+               05G50726, 05G52400, 05G58817, 05G61766, 05G68187, 05G70645,
+               05G71101, 05H31057, 05H48652, 05H51835, 05H56676, 05H61211,
+               05J57178, 05J59169, 05J59866, 05J68914, 05K57126, 05K69901,
+               05L17950, 05L25684, 05L26250, 05L29135, 05L33309, 05L38262,
+               05L41931, 05L42505, 05L42932, 05L44433, 05L45943, 05L48173,
+               05L50758, 05L51668, 05LE00740, 05LV01225, 05LW03543,
+               05N09375, 05N27227, 05R21061, 05R25426, 05R53533, 05R53769,
+               05R55963, 05S66857, 05V26731, 05X79360, 05Y18544, 05Y34564, 
+
+                                   -10-               05Y35298, 05Y47736, 05Y52631, 05Y53536, 05Z17376, 05Z17759,
+               05Z26505, 29KC00278, 29KC04482, 29KC09940, 29KH01971,
+               29KH05383, 29KH07832, 29KH08765, 53G53646, 53GJ27637,
+               53GL15708, 53GL16740, 53GL22160, 53GL23062, 53GN18421,
+               53GV04831, 53GV05839, 53GV07141, 53GZ28957, 53KE13227,
+               53KE13471, 53KF14343, 53KF16426, 53KF20552, 53KF28651,
+               53KF33524, 53KL24037, 53KL39132, 53KL39383, 53KN27360,
+               53KN27385, 53KQ13901, 53KQ17606, 53KQ19784, 53KQ20406,
+               53KQ20555, 53KQ23493, 53KQ24672, 53KT11926, 53KT16717,
+               53KT18087, 53KT20965, 53KT22479, 53KT27630, 53KT29531,
+               53KT31103, 53KT32748, 53KT35290, 53KW11833, 53KW14079,
+               53KX09794, 53KX18044, 53KX19874, 53KY21315, 53KY23330,
+               53KY24916, 53KY27376, 53KY29940, 53KY30297, 53KY35964,
+               53KZ21915, 53LT13150, 53LT15212, 53LT15805, 53LT16602,
+               53LT22153, 53LT22678, 53LT23325, 53M95755, and 53R41547
+               (f) 05P26222, 05P27129, 05P28663, 05P30350;
+               (g) 05F25407, 53KY19765;
+               (h) 05P31328;
+               (i) 05H31409, 05K31907, 05Y28905, 53GJ31838, 53KF26135,
+               53KF26864, 53KT18601, 53KY42281;
+               (j) 05C83657, 05C92485, 05C98878, 05F25676, 05F38545,
+               05F38890, 05G52400, 05G58817, 05J68914, 05K37913, 05L38262,
+               05L43561, 05L44433, 05L45943, 05L50758, 05L51668, 05LW06116,
+               05N26019, 05R25426, 05R53533, 05Y34564, 05Y35298, 05Y52631,
+               05Y53536, 05Z17376, 05Z26505, 53GL15708;
+               (k) 05C00623, 05C67312, 05F27583, 05F30301, 05F52002,
+               05G39391, 05G68187, 05G71101, 05J59169, 05J59866, 05S82502,
+               05Z22961, 29KH11091, 53GJ22406, 53GJ22608, 53GL23716,
+               53GN30678, 53GV03508, 53GZ26707, 53GZ29590, 53KF22337,
+               53KF28164, 53KF30334, 53KL33017, 53KL33115, 53KL35491,
+               53KL36007, 53KL37810, 53KL38211, 53KN21879, 53KN30328,
+               53KQ13901, 53KQ21144, 53KQ27936, 53KQ32020, 53KQ41633,
+               53KR28068, 53KS22161, 53KS23126, 53KS26795, 53KS27778,
+               53KT22479, 53KT23435, 53KT23498, 53KT25909, 53KT33442,
+               53KW14079, 53KX18044, 53KY21315, 53KY30297, 53KY39090,
+               53KZ07378, 53KZ19809, 53KZ21915, 53KZ31727, 53R41547;
+               (l) 05C00971, 05C01717, 05C01833, 05C73192, 05C73922,
+               05C81156, 05C94038, 05C98924, 05C99854, 05E03550, 05E05705,
+               05E10324, 05E10442, 05F25407, 05F33670, 05F35649, 05F36178,
+               05F53218, 05F53460, 05F54623, 05FC02842, 05FC04135,
+               05FC05116, 05FC08026, 05FG01774, 05G31838, 05G32166,
+               05G38481, 05G48096, 05G50726, 05G61766, 05G64764, 05G70645,
+               05G73194, 05G73439, 05GH00867, 05GH01170, 05GJ00235,
+               05GL00430, 05GL00787, 05GL01122, 05GL02192, 53GL16740,
+               05GZ04764, 05H31057, 05H31409, 05H32679, 05H48652, 05H51835,
+               05H56676, 05H61211, 05J46512, 05J57178, 05J66936, 05J71083,
+               05J74126, 05J76095, 05K29247, 05K30532, 05K31907, 05K36233,
+               05K57126, 05K69901, 05K71899, 05KY06986, 05KY07461,
+               05KY09402, 05KY09859, 05KY10459, 05KY10460, 05L17931,
+               05L17950, 05L19581, 05L26250, 05L29135, 05L33309, 05L41931,
+               05L42505, 05L47406, 05L48173, 05L51261, 05L55665, 05LF03384,
+               05LH01001, 05LL01845, 05LL03651, 05LL04370, 05LL04502, 
+
+                                   -11-               05LL05395, 05LR04838, 05LS00965, 05LT00158, 05LT02304,
+               05LT02739, 05LT03245, 05LT03929, 05LV00785, 05LV01225,
+               05LW00707, 05LW04926, 05LX01116, 05N00899, 05N07383,
+               05N09375, 05N17014, 05N23422, 05N27227, 05N28369, 05R25409,
+               05R53769, 05R55963, 05R58924, 05S66857, 05S69962, 05S79206,
+               05V19211, 05V19697, 05V20194, 05V20993, 05V21210, 05V22001,
+               05V22418, 05V22533, 05V23157, 05V23582, 05V23811, 05V24490,
+               05V24579, 05V25190, 05V25706, 05V26731, 05V27934, 05V28257,
+               05V28534, 05V29093, 05V29895, 05W49501, 05W52337, 05W52479,
+               05W52692, 05W55264, 05W57323, 05W65584, 05W67999, 05W70798,
+               05W74856, 05W75208, 05W78335, 05W80552, 05W81069, 05W88634,
+               05W88867, 05W88901, 05W89110, 05W93425, 05W96107, 05X48848,
+               05X55363, 05X61161, 05X66636, 05X72800, 05X73863, 05X74249,
+               05X79360, 05X82087, 05X82177, 05X82204, 05X83134, 05Y18544,
+               05Y28905, 05Y54991, 05Y55974, 05Z14695, 05Z17759, 05Z25060,
+               05Z25473, 05Z27949, 05Z29263, 05Z29383, 05Z30130, 27FC01550,
+               27FC04439, 27FC09074, 27Y01602, 27Y02028, 27Y04176,
+               27Y04479, 27Y06247, 27Y13829, 27Y14839, 27Y17202, 27Y18984,
+               29KC00278, 29KC04482, 29KC09138, 29KC09940, 29KC10319,
+               29KC11113, 29KH01971, 29KH05383, 29KH07832, 29KH08765,
+               53G53646, 53GH13254, 53GH14129, 53GH22582, 53GJ00177,
+               53GJ11056, 53GJ16370, 53GJ19691, 53GJ20002, 53GJ21164,
+               53GJ26066, 53GJ27637, 53GJ30354, 53GJ31164, 53GJ31838,
+               53GL12754, 53GL13539, 53GL22160, 53GL23062, 53GL29173,
+               53GN11596, 53GN12081, 53GN15122, 53GN18421, 53GN23171,
+               53GN36269, 53GV04831, 53GV05839, 53GV07141, 53GZ14870,
+               53GZ16796, 53GZ20590, 53GZ22840, 53GZ24958, 53GZ28957,
+               53KE12968, 53KE13227, 53KE13471, 53KF14343, 53KF16426,
+               53KF18280, 53KF20552, 53KF22356, 53KF26864, 53KF28651,
+               53KF28822, 53KF31131, 53KF33524, 53KL24037, 53KL25059,
+               53KL27447, 53KL31286, 53KL33405, 53KL34080, 53KL35547,
+               53KL35973, 53KL37519, 53KL39132, 53KL39383, 53KM17621,
+               53KM19332, 53KM22519, 53KN14826, 53KN17115, 53KN21142,
+               53KN21524, 53KN25884, 53KN27360, 53KN27385, 53KN27478,
+               53KQ14081, 53KQ16593, 53KQ17606, 53KQ17632, 53KQ18265,
+               53KQ19784, 53KQ20406, 53KQ20555, 53KQ22409, 53KQ23493,
+               53KQ24672, 53KQ26603, 53KQ28242, 53KQ29856, 53KQ34703,
+               53KQ36119, 53KR12822, 53KR14139, 53KR16808, 53KR22124,
+               53KR27568, 53KS12227, 53KS13891, 53KS16839, 53KS17394,
+               53KS18970, 53KS20523, 53KS20884, 53KS28094, 53KT06964,
+               53KT07480, 53KT08910, 53KT10408, 53KT11391, 53KT11875,
+               53KT11926, 53KT14404, 53KT16717, 53KT18087, 53KT18601,
+               53KT19023, 53KT19175, 53KT20965, 53KT24435, 53KT27630,
+               53KT28331, 53KT29531, 53KT31103, 53KT32203, 53KT32748,
+               53KT35290, 53KW11833, 53KW17900, 53KW18025, 53KW20294,
+               53KW20407, 53KW20566, 53KW22932, 53KW23058, 53KW23658,
+               53KX09794, 53KX14678, 53KX17025, 53KX19874, 53KY18148,
+               53KY19765, 53KY23330, 53KY24916, 53KY27376, 53KY28711,
+               53KY29940, 53KY35964, 53KY42281, 53KY43296, 53KZ11725,
+               53KZ15122, 53KZ19105, 53KZ20519, 53KZ26560, 53KZ29125,
+               53M95755.
+MANUFACTURER   American Red Cross Blood Services, Washington, D.C.
+
+                                   -12-RECALLED BY    American Red Cross, Baltimore, Maryland, by letters dated
+               from August 15, 1991 through September 13, 1992. Firm-
+               initiated recall complete.
+DISTRIBUTION   California, New York, Pennsylvania, Florida, Switzerland.
+QUANTITY       (a) 29 units; (b) 1 unit; (c) 410 units; (d) 9 units; 
+               (e) 134 units; (f) 4 units; (g) 2 units; (h) 1 unit;
+               (i) 8 units; (j) 27 units; (k) 56 units; (l) 354 units.
+REASON         Blood products which tested non-reactive for the antibody to
+               the human immunodeficiency virus type 1 (anti-HIV-1), but
+               were collected from donors, who previously tested either
+               initially reactive for anti-HIV-1 and were not retested in
+               duplicate, or repeatedly reactive for anti-HIV-1, were
+               distributed.
+
+_______________
+PRODUCT        Resolve Panel A Reagent Red Blood Cells.  Recall #B-074-4.
+CODE           Lot #RA757 EXP 7/20/93.
+MANUFACTURER   Ortho Diagnostic Systems, Inc., Raritan, New Jersey.
+RECALLED BY    Manufacturer, by letter June 30, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       949 panels.
+REASON         Xga positive cells were incorrectly labeled as Xga negative.
+
+_______________
+PRODUCT        Resolve Panel A Reagent Red Blood Cells.  Recall #B-075-4.
+CODE           Lot #RA742 EXP 4/6/93.
+MANUFACTURER   Ortho Diagnostic Systems, Inc., Raritan, New Jersey.
+RECALLED BY    Manufacturer, by letter March 22, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       623 panels.
+REASON         Ytb negative reagent cells incorrectly labeled as Ytb
+               positive. 
+
+_______________
+PRODUCT        (a) Platelets; (b) Fresh Frozen Plasma.
+               Recall #B-078/079-4.
+CODE           Unit numbers:  (a) BUI 15036-7241; (b) BUI 15036-7243.
+MANUFACTURER   United Blood Services Blood System, Inc., Scottsdale,
+               Arizona. 
+RECALLED BY    United Blood Services Blood Systems, Inc., Lubbock, Arizona,
+               by telephone between September 2 and 11, 1991.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       1 unit of each component.
+REASON         Blood products, prepared more than eight hours after
+               phlebotomy, were distributed.
+
+_______________
+PRODUCT        Source Leukocytes.  Recall #B-081-4.
+CODE           9306102, 9306103, 9039643, 9311736, 9311737, 9317886,
+               9322507, 9325544, 9346626.
+                                   -13-MANUFACTURER   Hoxworth Blood Center, Cincinnati, Ohio.
+RECALLED BY    Manufacturer, by letters dated April 20 and 22, 1993.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Florida, New York.
+QUANTITY       9 units.
+REASON         Source Leukocytes, which either:  tested repeatedly reactive
+               for the antibody to human immunodeficiency virus type 1
+               (anti-HIV-1); tested repeatedly reactive for the antibody to
+               hepatitis B core antigen (anti-HBc); tested reactive for
+               syphilis; or were untested for the hepatitis B surface
+               antigen (HBsAg), the antibody to human T-lymphotropic virus
+               type I (anti-HTLV-I), anti-HBc, and anti-HIV-1, were
+               distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+UPDATE         The Enforcement Report of November 17, 1993 reported Recall
+               #Z-089/093-4 (Inflatable penile prosthesis preparation
+               packages) as ongoing.  Please note that the recall is
+               completed.  Also, the reason for recall should read:  The
+               Tyvek lids of the sterile packaging in a small number of the
+               above products were found to have an incidence of seal
+               separation which could compromise package integrity.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+
+_______________
+UPDATE         Recall #Z-117-4 which appeared in the November 24, 1993
+               Enforcement Report should read:
+PRODUCT        Promotional literature for Miracle Ear Hearing Aids.  These
+               brochures have the following numbers and titles:
+               1-550161-334 Miracle-Ear Canal Hearing Systems;
+               1-550161-335 Miracle-Ear Clarifier Technology;
+               1-550161-301 El Clarificador (Spanish brochure);
+               1-550161-300 Sistemas Auditivos Intracanal (Spanish 
+                            brochure);
+               1-550161-338 Miracle-Ear/Straight Talk about Hearing Loss;
+               1-550158-030 What Everyone Should Know About Hearing  
+                            Loss...America's Quiet Health Problem.
+CODE           All versions of the promotional literature featuring the
+               Clarifier Circuit. 
+MANUFACTURER   Dahlberg, Inc., Golden Valley, Minnesota (hearing aids)
+RECALLED BY    Manufacturer, by letter dated April 29, 1993, requesting
+               that franchisees destroy the promotional literature.  Firm-
+               initiated field correction complete.  See also FDA press
+               release P93-14, April 26, 1993.
+QUANTITY       The number of the promotional literature still at
+               franchisees, when the recall began, is unknown.
+REASON         Mislabeling -- Unsubstantiated claims in labeling
+               promotional literature caused the hearing aids to be
+               misbranded.
+                                   -14-_______________
+UPDATE         Recall #Z-114/116-4 which appeared in the November 24, 1993
+               Enforcement Report should read:
+PRODUCT        Promotional literature for Starkey CE7 and CE8 in-the-ear
+               Hearing Aids, SA S7 and SA S8 Custom Canal/SecretEar Mini
+               in-the-ear hearing Aids and Trilogy Programmable Hearing
+               Aids.  The promotional literature is identified below:
+               (a) Brochures Titled:
+               Let Our Secret be your secret
+               Introducing an Egg Cellent Sales Opportunity
+               So I'm not getting any younger-Discovery
+               Your Reasons For Not Hearing Well Have Virtually
+               Disappeared-Intra IV
+               Your Hearing is a Priceless Gift
+               Discover the Pleasure and Value of Better Hearing-CE8
+               Now, Fine-Tuning Your Hearing is As Easy As 123-Trilogy
+               Peace and Quite are Sometimes The Best Reasons for SecretEar
+               Finally a tiny, feather-light, attractive solution to your
+                  hearing loss
+               Call us and find out how building your patient's peace of
+                  mind can build your bottom line-worry free protection
+                  plan
+               If you haven't seen our hearing aids yet, we're not
+                  surprised
+               A Hearing Loss is More Noticeable...Than a Hearing Aid
+               How's your Hearing? -- EGG chair
+               Understanding life's Most Important, Most Intimate, Most
+                  Cherished, Most Anticipated sounds and Conversations
+               Discovery Series Nine - Discovery I, Discovery II - Applica.
+                  Spec. Tech.
+               Intra IV-The New Revolution
+               (b) Counter Cards Titled:
+               Peace and Quiet are Sometimes the Best Reasons...-Secret Ear
+               People Buy Our Hearing Aids For A Lot Of Little Reasons-     
+                 SecretEar
+               (c) Printed Material for Mailing Titled:
+               People Buy Our Hearing Aids For A lot Of Little Reasons
+               Peace and Quiet Are Sometimes the Best Reasons For SecretEar
+               If You Haven't Seen Our Hearing Aids Yet, We're Not          
+                 Surprised
+               How's Your Hearing - EGG Chair
+               Why keep doing this, this, and this...when you can push      
+                 1,2,3
+               Hearing Health Quiz/Better Living thru Better Hearing
+               Special Consultation/Special Invitation
+               Tomorrow's Technology is Hear Today
+               Now You Can See How You Hear/Better Hearing Is now made  
+                  easier
+               (d) Printed In Touch Technology Updates:
+               Automatic Signal Processing
+               Circuit Selection
+               Glossary
+                                   -15-               (e) Printed Technology Updates for the Following Hearing Aid
+                   Options:
+               CRR II                   ISP/OSP
+               FRC                      HDP/PPF
+               ISP/OSP                  CRRII
+               Series 9, Discovery I    IFC
+CODE           All copies of these pieces of promotional literature
+               distributed prior to May 7, 1993.
+MANUFACTURER   Starkey Laboratories, Inc., Eden Prairie, Minnesota (hearing
+               aids)
+RECALLED BY    Manufacturer by memorandum dated May 7, 1993, requesting
+               that the dealers destroy the promotional literature.  Firm-
+               initiated field correction complete.  See also FDA press
+               release P93-14, April 26, 1993.
+QUANTITY       The number of pieces of promotional literature still at
+               dealers when the recall began is unknown.
+REASON         Mislabeling -- Unsubstantiated claims in labeling
+               promotional literature caused the hearing aids to be
+               misbranded.
+
+                                   -16-
+END OF ENFORCEMENT REPORT FOR DECEMBER 8, 1993.  BLANK PAGES MAY
+FOLLOW.
+                                   ####

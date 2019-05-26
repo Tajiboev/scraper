@@ -1,0 +1,609 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Feb
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  18
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      21 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+12/02/1992
+
+RECALLS AND FIELD CORRECTIONS: December 2, 1992
+
+                                 FOODS -- CLASS II
+                                                                92-49
+              
+PRODUCT        Refined Cane Sugar packed 9/14-17/92, in 1/8 ounce individual    
+               paper packets, 2,000 per box, 1/10 ounce individual paper        
+               packets, 2,000 per box, 24/10 canisters (20 ounces), and 1       
+               pound cartons.  The sugar is labeled under the following labels:
+               7 Eleven Sugar, catalog #15-515-01006, 200 1/8 ounce packets     
+               per case;
+               Dixie Crystals Pure Sugar, catalog #15-515-00883, 2000 1/10      
+               ounce packets per case, Savannah Food Service;
+               Kraft Sugar Packets, catalog #12-515-00582, 2000 1/10 ounce      
+               packets per case, distributed by Sysco Corporation;
+               Sysco Classic Sugar, Catalog #15-515-00013, 2000 1/10 ounce      
+               packets per case, distributed by Sysco Corporation;
+               Dixie Crystals Pure Sugar, ink stamped with "Hyatt" or "Bombay   
+               Bicycle", catalog #15-515-00538 (generic code), 200 1/10 ounce   
+               packets per case, Savannah Food service;
+               Bakers & Chefs Pure Cane Sugar Extra Fine Granulated, 2000 1/10  
+               ounce packets per case;
+               Dixie Crystals Coffee Service Sugar, Catalog #15-510-00697, 24   
+               1-pound cartons, Savannah Foodservice;
+               Coffee Service Sugar, ink stamped with Neighbors, catalog        
+               #15-505-00 268 (generic case), 24 20-ounce canisters;
+               Coffee Service Sugar, ink stamped with Showboat, catalog         
+               #15-505-00 268 (generic case), 24 20-ounce canisters;
+               Coffee Service Sugar, ink stamped with Flavorite, catalog        
+               #15-505-00 268 (generic case), 24 20-ounce canisters;
+                                       
+               Dixie Crystals Extra Fine Granulated Sugar for Institutional     
+               Use Only, 40 pound boxes, Savannah Foods & Industries, Inc.,
+               Dixie Crystals Sugar Bowl Extra Fine Sugar in Envelopes,         
+               catalog #15-509-00973, 12 cartons, 100 count envelopes,          
+               manufactured by Savannah Foods & Industries, Inc.
+               Recall #F-116-3.
+CODE           Production codes:  G258C, G259C, G260C, G261C.
+MANUFACTURER   Savannah Foodservice, Inc., Savannah, Georgia.
+RECALLED BY    Manufacturer, by letter September 18, 1992, or by telephone.
+               Firm-initiated recall complete.
+DISTRIBUTION   Louisiana, Florida, Alabama, Mississippi, Oklahoma,              
+               Pennsylvania, Missouri, Texas.
+QUANTITY       80,342 pounds were distributed; firm estimates none remains on   
+               the market.
+REASON         Product is contaminated with glass particles.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+              
+PRODUCT        Rx vitamin oral liquids as follows:
+               (a) Triple-Vita-Flor Drops 0.25 mg, a Rx alcohol-free vitamin    
+               packaged in 50 ml plastic bottles with droppers, sold under the  
+               following labels:
+               PBI Triple-Vita-Flor Drops 0.25 mg dietary vitamin A,D,C
+               & fluoride supplement infants' drops, Manufactured by:
+               Pharmaceutical Basics, Inc.,
+               GG Triplevite with Fluoride dietary vitamin A,D,C &
+               fluoride supplement infants' drops 0.25 mg, Dist. by Geneva      
+               Pharmaceuticals, Inc., Pharmacist's Choice Triple-Vita-Flor      
+               Infants' Drops, dietary vitamin A,D,C & Fluoride supplement,     
+               fluoride 0.25 mg, Pharmacist's Choice, Manufactured by           
+               Pharmaceutical Basics, Inc.,
+               (b) Triple-Vita-Flor Drops 0.5 mg, a Rx sugar-free,              
+               alcohol-free vitamin packaged in 50 ml plastic bottles with      
+               droppers, sold under the following labels:
+               PBI Triple-Vita-Flor Drops 0.5 mg dietary vitamin A, D, C &      
+               fluoride supplement infants' drops, Manufactured by:             
+               Pharmaceutical Basics, Inc.,
+               GG Triplevite with Fluoride dietary vitamin A,D,C & fluoride     
+               supplement infants' drops 0.5 mg, Dist. by Geneva                
+               Pharmaceuticals, Inc.  Recall #D-071/072-3.
+CODE           Lot numbers:  (a) 18756, 18836, 19055, 19247, 19252;
+               (b) 19035, 19138, 19212, 19329, 19382.
+MANUFACTURER   Pharmaceutical Basics, Inc., Morton Grove, Illinois.
+RECALLED BY    Manufacturer, by letter November 13, 1992.  Firm-initiated       
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 355,849 bottles; (b) 31,039 bottles were distributed; firm   
+               estimates 33 percent of product remains on the market.
+REASON         Preservative system not effective through expiration date.
+
+                                      -2-
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+              
+PRODUCT        Literature promoting Pro Med's capability to compound unit dose  
+               bronchodilator medications, Rx new drugs without approved drug   
+               applications.  Recall #D-068-3.
+CODES          All literature distributed.
+MANUFACTURER   Pro Med Pharmacies, Amarillo, Texas.
+RRECALLED BY   Manufacturer, by telephone May 15, 1992.  Firm-initiated field   
+               correction complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       Firm estimates none of the literature remains on the market.
+REASON         Literature promoted firm's capability to compound drugs          
+               regarded by FDA as unapproved new drugs.
+
+              
+PRODUCT        Rx multivitamin oral liquids:
+               (a) Multi-Vita Drops w/Fluoride 0.25 mg, a Rx sugar-free,        
+               alcohol-free vitamin packaged in 50 ml plastic bottles with      
+               droppers, sold under the following labels:
+               PBI Multi-Vita Drops with Fluoride 0.25 mg multivitamin
+               & fluoride supplement infants' drops, Manufactured by            
+               Pharmaceutical Basics, Inc.,
+               GG Polyvite with Fluoride multivitamin & fluoride supplement     
+               infants' drops 0.25 mg, Dist. by Geneva Pharmaceuticals, Inc.,
+               (b) Multi-Vita Drops w/Fluoride 0.5 mg, a Rx sugar-free,         
+               alcohol-free vitamin packaged in 50 ml plastic bottles with      
+               droppers, sold under the following labels:
+               PBI Multi-Vita Drops with Fluoride 0.5 mg multivitamin &         
+               fluoride supplement infants' drops, Manufactured by              
+               Pharmaceutical Basics, Inc.,
+               GG Polyvite with Fluoride multivitamin & fluoride
+               supplement infants' drops 0.5 mg, Dist. by Geneva
+               Pharmaceuticals, Inc.  Recall #D-069/070-3.
+CODE           Lot numbers:  (a) 19090, 19159, 19264, 19390, 19421
+               (b) 18904, 19070, 19320, 19392.
+MANUFACTURER   Pharmaceutical Basics, Inc., Morton Grove, Illinois.
+RECALLED BY    Manufacturer, by letter November 13, 1992.  Firm-initiated       
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 75,916 bottles; (b) 33,225 bottles were distributed.
+REASON         Subpotency of Vitamin C ingredient prior to expiration date.
+
+              
+UPDATE         "Excel" 0.9% Sodium Chloride Injection U.S.P. in 500 ml plastic  
+               containers, Recall #D-469-2, manufactured by McGaw, Inc.,        
+               Irvine, California, which appeared in the September 2, 1992      
+               Enforcement Report has been extended to include all lots (422    
+               lots) of the product manufactured from 2/14/90 through 6/8/92.   
+               Lot numbers J0B718 through J2H462.
+
+                                      -3-
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+              
+PRODUCT        Platelets, Pheresis.  Recall #B-071-3.
+CODE           Unit #24FL11265.
+MANUFACTURER   American Red Cross Blood Services, Louisville, Kentucky.
+RECALLED BY    Manufacturer, by letter August 5, 1991.  Firm-initiated recall   
+               complete.
+DISTRIBUTION   Kentucky.
+QUANTITY       1 unit.
+REASON         Blood product from a donor who was immunized with Measles,       
+               Mumps and Rubella (MMR) vaccine seven days prior to donation,    
+               was distributed.
+
+              
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma.  Recall #B-072/073-3.
+CODE           Unit #1403763.
+MANUFACTURER   Hunter Blood Center, Inc., Clearwater, Florida.
+RECALLED BY    Manufacturer, by letter March 9, 1992.  Firm-initiated recall    
+               complete.
+DISTRIBUTION   Florida.
+QUANTITY       1 unit of each component.
+REASON         Blood products, which tested negative for the antibody to the    
+               human immunodeficiency virus type 1 (anti-HIV-1), but were       
+               collected from a donor who previously tested repeatedly          
+               reactive for anti-HIV-1, were distributed.
+
+              
+PRODUCT        Single Donor Plasma Liquid, Expired.  Recall #B-074-3.
+CODE           Unit numbers:  101913251, 101919388, 101913237, 101942041,       
+               101922943.
+MANUFACTURER   United Blood Services, Scottsdale, Arizona.
+RECALLED BY    Scottsdale Memorial Hospital, Scottsdale, Arizona, by letter     
+               September 25, 1991.  Firm-initiated recall ongoing.
+DISTRIBUTION   Pennsylvania.
+QUANTITY       5 units.
+REASON         Blood components for further manufacture were distributed        
+               labeled for transfusion.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+              
+PRODUCT        (a) Fresh Frozen Plasma, Expired; (b) Platelets, Expired;
+               (c) Platelets Pheresis, Expired.  Recall #B-059/061-3.
+CODE           (a) 2213436, 2274141, 2283612, 2311449, 2311473, 2494452,        
+               2497035, 2500364, 2503359, 2505087, 2508922, 2513701, 2596095,   
+               2609009, H04931, H06901, J00972, J01222, J01398, J01606,         
+               J01608, J01613, J03667, J03896, J04069, J04500, J04556, J04738,  
+               J05467, J05636, J05977, J05981, J05995, J07471, J07475, J09191,  
+               J09532, J09636;
+               (b) 226256, 226719, 249863, 250456, 2216352, 2216362, 2216364,   
+               2244464, 2244482, 2253960, 2256505, 2256644, 2256687, 2256918,   
+               2257335, 2257343, 2257540, 2257555, 2257593, 2257749, 2257760, 
+
+                                      -4-
+               2257850, 2257860, 2260082, 2260136, 2260462, 2260500, 2260789,   
+               2261440, 2262647, 2264568, 2264802, 2265724, 2265983, 2265999,   
+               2266570, 2266966, 2267722, 2267724, 2267825, 2268292, 2268751,   
+               2269464, 2269977, 2272648, 2274026, 2274876, 2274892, 2275050,   
+               2275083, 2275094, 2275097, 2275116, 2276166, 2276293, 2276529,   
+               2276654, 2277317, 2278504, 2278526, 2279390, 2279392, 2279565,   
+               2279571, 2279572, 2280042, 2280056, 2280058, 2280196, 2280535,   
+               2280544, 2280556, 2280591, 2280718, 2280719, 2281764, 2281948,   
+               2281962, 2283698, 2284681, 2287327, 2287406, 2287730, 2287739,   
+               2287743, 2287746, 2287918, 2287919, 2288149, 2288157, 2288163,   
+               2288560, 2288996, 2290016, 2290408, 2290441, 2290658, 2290680,   
+               2290881, 2290883, 2291004, 2291224, 2291274, 2292445, 2292472,   
+               2294980, 2295954, 2295981, 2296533, 2296722, 2296724, 2297298,   
+               2298045, 2298165, 2300171, 2300636, 2301460, 2302988, 2304995,   
+               2304996, 2307735, 2307854, 2308442, 2308684, 2489607, 2489634,   
+               2489680, 2489710, 2489746, 2491211, 2491218, 2493222, 2493228,   
+               2493246, 2493254, 2493913, 2493965, 2493975, 2494392, 2494673,   
+               2494674, 2494776, 2494844, 2494863, 2494871, 2495428, 2495567,   
+               2495569, 2495611, 2495666, 2495670, 2495859, 2495869, 2495882,   
+               2496534, 2497825, 2497838, 2498459, 2499377, 2499473, 2500519,   
+               2501626, 2502333, 2502346, 2502501, 2503569, 2503953, 2504008,   
+               2504034, 2504047, 2504087, 2504100, 2504113, 2504513, 2504522,   
+               2504524, 2505883, 2505986, 2506228, 2506248, 2506729, 2507161,   
+               2507165, 2507167, 2508184, 2508242, 2508254, 2508286, 2508296,   
+               2508302, 2508319, 2508503, 2509769, 2509774, 2509775, 2509776,   
+               2509790, 2510018, 2510033, 2510546, 2510577, 2510579, 2510586,   
+               2510827, 2510831, 2510848, 2510863, 2511193, 2511201, 2511411,   
+               2511412, 2511413, 2511424, 2511833, 2511883, 2511888, 2511967,   
+               2511980, 2512735, 2513550, 2514473, 2514602, 2514872, 2514873,   
+               2514894, 2514913, 2515611, 2516370, 2521730, 2521861, 2522051,   
+               2522112, 2522140, 2522447, 2522459, 2522598, 2522950, 2525638,   
+               2525644, 2525736, 2526442, 2526461, 2526479, 2526487, 2526730,   
+               2526733, 2526735, 2526747, 2527114, 2527595, 2527623, 2528004,   
+               2528011, 2528032, 2528180, 2530154, 2532625, 2533230, 2533231,   
+               2533234, 2533235, 2533302, 2533529, 2533570, 2533580, 2533588,   
+               2533593, 2535075, 2535077, 2355351, 2535365, 2535385, 2535386,   
+               2535406, 2535407, 2535413, 2535416, 2535427, 2535556, 2535587,   
+               2535597, 2535611, 2591639, 2591644, 2591648, 2591780, 2593009,   
+               2593030, 2593034, 2593101, 2593141, 2593702, 2593703, 2593750,   
+               2593763, 2593790, 2595875, 2596680, 2596706, 2596868, 2597016,   
+               2598647, 2598648, 2598658, 2598823, 2600120, 2600190, 2600192,   
+               2601156, 2601170, 2606744, 2606811, 2611189, 2901982, H08516,    
+               J00972, J04162, J04383, J04387, J04391, J04394, J04397, J04455,  
+               J04456, J04500, J04501, J04691, J04809, J04821, J04998, J05000,  
+               J05038, J05044, J05115, J05139, J05140, J05141, J05142, J05146,  
+               J05152, J05269, J05467, J05631, J05636, J05647, J06200, J06201,  
+               J06202, J06204, J06219, J06246, J06248, J06255, J06256, J06318,  
+               J06597, J06600, J06676, J06685, J06686, J06688, J06690, J06694,  
+               J06695, J06698, J06795, J06798, J06799, J06800, J06801, J06827,  
+               J06828, J06878, J06972, J06976, J07003, J07004, J07005, J07006,  
+               J07044, J07046, J07047, J07051, J07054, J07232, J07254, J07274,  
+               J07470, J07471, J07474, J07511, J07512, J07522, J07523, J07524, 
+
+                                      -5-
+               J07628, J07638, J07657, J07658, J07659, J07661, J07662, J07666,  
+               J07667, J07668, J07674, J07721, J07753, J07754, J07755, J07756,  
+               J07758, J07804, J07817, J07821, J07919, J08035, J08125, J08126,  
+               J08200, J08203, J08204, J08206, J08207, J08268, J08279, J08386,  
+               J08389, J08390, J08409, J08416, J08419, J08420, J08430, J08518,  
+               J08571, J08573, J08583, J08893, J08956, J08959, J08961, J08983,  
+               J08984, J09022, J09023, J09098, J09105, J09140, J09163, J09165,  
+               J09166, J09217, J09220, J09449, J09451, J09455, J09456, J09460,  
+               J09461, J09462, J09466, J09470, J09475, J09479, J09530, J09635,  
+               J09636, J09651, J09653, J09654, J09655, J09685, J09690, J09697,  
+               J09712, J09713, J09714, J09741, J09794, J09795, J09874, J09876,  
+               J09879, J09882, J09885, J09941 J09945, J09949, J09950, J09951,   
+               J09953, J09956;
+               (c) 249915, 2228084, 2261901, 2261915, 2267674, 2267789,         
+               2267838, 2267846, 2267982, 2286142, 2286147, 2286151, 2286154,   
+               2289613, 2289730, 2421300, 2421442, 2445458, 2458251, 2458254,   
+               2476573, 2490022, 2490038, 2490277, 2490328, 2490367, 2490370,   
+               2490384, 2490397, 2490418, 2490495, 2494878, 2499129, 2499261,   
+               2499264, 2499319, 2499329, 2499337, 2499344, 2499349, 2499392,   
+               2499393, 2499473, 2499474, 2499478, 2499480, 2513176, 2513194,   
+               2513244, 2513246, 2513259, 2513281, 2513304, 2513350, 2513360,   
+               2513393, 2513395, 2513396, 2513398, 2513410, 2513411, 2530522,   
+               2530531, 2530617, 2530651, 2530658, 2530674, 2530681, 2530728,   
+               2530816, 2530821, 2530831, 2530869, 2530875, 2350882, 2530883,   
+               2530895, 2534557, 2534560, 2534566, 2534570, 2534571, 2534572,   
+               2534580, 2600540, 2600674, 2600803, 2600834, 2600854, 2600898,   
+               2600915, 2600947, 2605581, 2609503, 2609653, 2609671, 2609858,   
+               J04076, J04424, J06131, J06796, J06804, J07256, J08045, J09649.
+MANUFACTURER   Long Island Jewish Medical Center, New Hyde Park, New York.
+RECALLED BY    Manufacturer, by letter August 16, 1992.  Firm-initiated recall  
+               complete.
+DISTRIBUTION   Pennsylvania.
+QUANTITY       (a) 38 units; (b) 494 units; (c) 106 units.
+REASON         Blood components for further manufacture were distributed        
+               labeled for transfusion.
+
+              
+PRODUCT        (a) Single Donor Plasma Liquid, Expired; (b) Platelets,          
+               Expired; (c) Pooled Platelet Concentrates, Expired; (d) Fresh    
+               Frozen Plasma, Expired.  Recall #B-075/078-3.
+CODE           Unit numbers:  (a) 101895383, 101895390, 101907354, 101907385,   
+               101917149;
+               (b) 101900288, 101902149, 101902170, 101903037, 101903476,       
+               101903523, 101903524, 101903672, 101903673, 101903674,           
+               101903675, 101904090, 101904096, 101904100, 101904102,           
+               101904214, 101904215, 101905561, 101905562, 101905563,           
+               101905566, 101905579, 101905581, 101905587, 101905590,           
+               101905628, 101905635, 101905636, 101907287, 101907444,           
+               101908962, 101908983, 101908986, 101908994, 101910366,           
+               101910377, 101913552, 101914269, 101914272, 101915515,           
+               101915516, 101915556, 101916747, 101917394, 101918203,           
+               101918207, 101918700, 101918931, 101918952, 101918959,           
+               101918969, 101919310, 101919585, 101921771, 101921779,
+
+                                      -6-
+               101922183, 101923076, 101923206, 101924182, 101924700,           
+               101925130, 101926504, 101926515, 101926530, 101926536,           
+               101932474, 101932638, 101933530, 101935823, 101936019,           
+               101939666, 101941776, 101944286, 101946014, 101946034,           
+               101946055, 101946056, 101946058, 101952742, 101960652,           
+               101962251, 101963093, 101963097, 101964168, 101966752,           
+               101966754, 101966755, 101966760, 101966777, 101966779,           
+               101967576, 101969047, 101969207, 101969209, 101969481,           
+               101971664, 101971674, 101971676, 101971694, 101971705,           
+               101971914, 101972229, 101972246, 101972734, 101972743,           
+               101972745, 101972750, 101972753, 101972769, 101972777,           
+               101974301, 101974459, 101974688, 101976461, 101977575,           
+               101977939, 101978991, 101980416, 101980419, 101983117,           
+               101983120, 101983132, 101985752, 101987639, 101987642,           
+               101987776, 101987777, 101988199, 101988930, 101988933,           
+               101989072, 101989085, 101989087, 101989351, 101989690,           
+               101989697, 101989767, 101990245, 101990410, 101990454,           
+               101990678, 101991912, 101991917, 101991918, 101992725,           
+               120771724, 120772390, 197-7119, 197-7121, 198-1286, 198-3398,    
+               198-4109, 198-4114, 198-6812, 1983397, 523498.
+               (c) 68782 (consisting of Platelets, Expired; units 101889591,    
+               101894577, 101894578, 101898839, 101899552, 101900097,           
+               101900516, 101901316, 190296770, 190296771) and 68995            
+               (consisting of Platelets, Expired; units 101937985, 101937987,   
+               101939303, 101941408, 101941427, 101941461, 101942035,           
+               101942039);
+               (d) 101877887, 101884392, 101890716, 101901350, 101915013,       
+               101917795, 101922536.
+MANUFACTURER   United Blood Services, Scottsdale, Arizona.
+RECALLED BY    Scottsdale Memorial Hospital, Scottsdale, Arizona, by letter     
+               September 25, 1991.  Firm-initiated recall complete.
+DISTRIBUTION   Pennsylvania.
+QUANTITY       (a) 5 units; (b) 156 units; (c) 2 pools; (d) 7 units.
+REASON         Blood components for further manufacture were distributed        
+               labeled for transfusion.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+              
+PRODUCT        Ultramark 9 High Definition Imaging (UM 9 HDI) Diagnostic        
+               Ultrasound System, an integrated ultrasound system that          
+               provides anatomic, dynamic flow, and color flow information for  
+               the hospital and clinic.  Recall #Z-041-3.
+CODE           All units.
+MANUFACTURER   Advanced Technology Laboratory (ATL), Bothell, Washington.
+RECALLED BY    Manufacturer, by voice mail March 4, 1992.  Firm-initiated       
+               field correction complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 741 units were distributed.
+REASON         Incorrect software configuration codes, may have resulted in     
+               10% measurement error.
+
+                                      -7-
+              
+PRODUCT        Nitroglycerin-Lipid Set under the Smith & Nephew Sigma label,    
+               used in conjunction with infusion pumps:
+               (a) Part #96115; (b) 86101; (c) 86941.  Recall #Z-059/061-3.
+CODE           Lot numbers:  (a) 029218162, 039218456, 059218959, 079219145     
+               (McGaw); (b) 029218160, 049218801 (Travenol); (c) 029218161,     
+               039218161, 069218939 (Abbott).
+MANUFACTURER   AVI, Inc., 3M Healthcare, St. Paul, Minnesota.
+RECALLED BY    Sigma International, (formerly known as Smith & Nephew (SIGMA),  
+               Medina, New York, by telephone August 20 and 21, 1992, followed  
+               by letter August 24, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       5,095 sets were distributed.
+REASON         Roller clamp has potential for failure to stop fluid flow.
+
+              
+PRODUCT        Dinamp Vital Sign Monitors:
+               (a) Model 1846SX, Catalog  numbers 8260 through 8264;
+               (b) Model 1846SX/P, Catalog numbers 8270 through 8276;
+               (c) Model 1846SX/OXYTRAK Oximeter, Catalog numbers 8280 through  
+               8286.  Recall #Z-092/094-3.
+CODE           Catalog No.    Serial Nos.
+               8260           K7200 - K9999, L1000 - L1135
+               8270           J2170 - J3442
+               8280           H1500 - H2664
+               8261           H1860 - H2033
+               8262           H2760 - H2978
+               8263           H1725 - H1949
+               8264           H1275 - H1433
+               8271           H1540 - H1731
+               8272           H1700 - H1988
+               8273           H1550 - H1576
+               8274           H1640 - H1940
+               8276           H1500 - H1511
+               8281           H1095 - H1138
+               8282           H1100 - H1199
+               8283           H1110 - H1330
+               8284           H1080 - H1196
+               8286           H1019 - H1046.
+MANUFACTURER   Circuit Assembly Corporation, Irvine, California (component).
+RECALLED BY    Critikon, Inc., Tampa, Florida, by letter on or about January    
+               17, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       8,508 units were distributed.
+REASON         The display segments and indicators, and push buttons have the   
+               potential to malfunction, due to a defective connector material  
+               utilized in the front panel display connector assembly.
+
+              
+PRODUCT        Branemark System Drill/Countersink, Model SDIB 180, 3.15 x 10    
+               mm, used with special drilling equipment to prepare the jawbone  
+               to receive a self-tapping fixture.  Recall #Z-108-3.
+CODE           Batch #507783 EXP 6/97.
+
+                                      -8-
+MANUFACTURER   Les Fils d'Auguste Maillefer SA, Ballaigues, Switzerland.
+RECALLED BY    Noblepharma USA, Inc., Chicago, Illinois, by telephone October   
+               2, 1992, followed by letter October 13, 1992.  Firm-initiated    
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       436 units were distributed; firm estimates 50 percent of the     
+               product remains on the market.
+REASON         The glass ampule labeled as 10 mm long drill/countersink may     
+               contain a 13 mm long drill/countersink.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+              
+PRODUCT        MDT Biologic Spor-Test Biological Indicator, for monitoring      
+               chemical and steam sterilization.  Recall #Z-091-3.
+CODE           All lots of catalog numbers 30-2040-01, 30-2020-01, 30-2010-01,  
+               260566, 260567, 260055, 30-2050-01, 30-2000-01, 230231001,       
+               230231511.
+MANUFACTURER   MDT Biologic Company, Rancho Dominguez, California.
+RECALLED BY    Manufacturer, by letter March 30, 1992.  Firm-initiated field    
+               correction ongoing.
+DISTRIBUTION   Nationwide, Switzerland, Canada.
+QUANTITY       Approximately 15,162 kits were distributed.
+REASON         The device contains inadequate storage instructions on some      
+               packaging and instruction cards, in that it does not contain     
+               instructions to allow the strips to come to room temperature     
+               for two weeks before using if frozen.
+
+
+MEDICAL DEVICE SAFETY ALERTS:
+              
+PRODUCT        Theraplan and TP-11 Treatment Planning Systems, computerized     
+               workstations used to calculate and determine appropriate         
+               radiation treatment programs for doctors to administer to        
+               cancer patients.  Safety Alert #M-004/005-3.
+CODE           Theraplan Treatment Planning System - 
+               Serial Numbers TH-01, TH-04, TH-07, TH-09, TH-23, TH-24,
+               TH-35, TH-37, TH-49, TH-53, TH-56, TH-64, THL-201, THL-203,
+               THL-204, THL-209, THL-216, THL-217, THL-218, THL-219,
+               THL-227, THL-228, THL-229, THL-230, THL-233, THL-234,
+               THL-235, THL-238, THL-244, THL-245, THL-254, THL-258,
+               THL-259, THL-262, THL-264, THL-266, THL-269, THL-272,
+               THL-276, THL-277, THL-278, THL-279, THL-284, THL-286,
+               THL-287, THL-290, THL-291, THL-300, THL-301, THL-302,
+               THL-304, THL-305, THL-306, THL-307, THL-310, THL-311,
+               THL-314, THL-318, THL-319, THL-320, THL-321, THL-322,
+               THL-323, THL-324, THL-325, THL-328, THL-330, THL-332,
+               THL-333, THL-334, THL-335, THL-337, THL-340, THL-341,
+               THL-342, THL-343, THL-345, THL-346, THL-347, THL-348,
+               THL-349, THL-351, THL-353, THL-358, THL-360, THL-361,
+               THL-365, THL-366, THL-368, THL-370, THL-373, THL-374,
+
+                                      -9-
+               THL-375, THL-377, THL-379, THL-383, THL-384, THL-385,
+               THL-386, THL-387, THL-390, THL-391, THL-392, THL-393,
+               THL-394, THL-395, THL-396, THL-397, THL-398, THL-399,
+               THL-400, THL-401, THL-402, THL-403, THL-404, THL-405,
+               THL-406, THL-407, THL-408, THL-411, THL-413, THL-414,
+               THL-415, THL-416, THL-417, THL-420, THL-422, THL-425,
+               THL-426, THL-427, THL-428, THL-429, THL-430, THL-431,
+               THL-433, THL-434, THL-435, THL-436, THL-437, THL-438,
+               THL-441, THL-443, THL-445, THL-446, THL-448, THL-449,
+               THL-450, THL-451, THL-452, THL-453, THL-454, THL-456,
+               THL-457, THL-458, THL-459, THL-460, THL-461, THL-462,
+               THL-463, THL-464, THL-468, THL-469, THL-470, THL-471,
+               THL-472, THL-473, THL-475, THL-476, THL-500, THL-501,
+               THL-503, THL-404, THL-505, THL-510, THL-512, THL-513,
+               THL-514, THL-515, THL-517, THL-528, THL-529, THL-530,
+               THL-531, THL-533, THL-535, THL-536, THL-539, THL-545,
+               THL-3100, THL-3102, THL-3103
+               TP-11 Treatment Planning System -
+               Serial Numbers TP-07, TP-08, TP-17, TP-20, TP-22,
+               TP-27, TP-30, TP-31, TP-41, TP-42, TP-47, TP-53,
+               TP-58, TP-63, TP-64, TP-67, TP-72, TP-74, TP-78,
+               TP-82, TP-83, TP-88, TP-89, TP-91, TP-92, TP-93,
+               TP-96,  TP-100, TP-103, TP-109, TP-115, TP-125,
+               TP-127, TP-136, TP-139, TP-142, TP-149, TPL-200,
+               TPL-220, TPL-221, TPL-251, TPL-255, TPL-267, TPL-268,
+               TPL-285, TPL-292, TPL-294, TPL-309, TPL-316, TPL-338,
+               TPL-364, TPL-367, TPL-371, TPL-543
+MANUFACTURER   Theratronics International, Ltd, [formerly Atomic Energy of      
+               Canada, Ltd. (AECL Medical)], Carrollton, Texas (assembler of    
+               device/importer of components).
+               Theratronics International, Ltd., [formerly Atomic Energy of     
+               Canada, Ltd. (AECL Medical)], Kanata, Ontario, Canada.
+ALERTED BY     Manufacturer, by letter September 4, 1992.
+DISTRIBUTION   Nationwide.
+QUANTITY       245 units.
+REASON         Systems must be used with caution with all simulations           
+               performed and be checked for accuracy by independent means.
+
+                                     -10-
+
+END OF ENFORCEMENT REPORT FOR DECEMBER 2, 1992.  BLANK PAGES MAY
+FOLLOW.
+
+                                     ###

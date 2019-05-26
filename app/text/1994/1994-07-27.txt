@@ -1,0 +1,523 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Feb
+		  AUG
+		  Dec
+		
+		
+		
+		  
+		  15
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      24 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dm
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+07/27/1994
+
+Recalls and Field Corrections:  Foods -- Class I -- 07/27/1994
+
+July 27, 1994                                                     94-30
+               
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+==========================
+_______________
+PRODUCT        C. Ochoa White Cheese in 8 and 12 ounce vacuum packed
+               plastic packages.  Recall #F-737-4.
+CODE           One uncoded lot manufactured March 29, 1994.
+MANUFACTURER   C. Ochoa Cheese, Brownsville, Texas.
+RECALLED BY    Manufacturer, by visit April 4 and 5, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Product had the potential to support the outgrowth of
+               Clostridium botulinum toxin.
+
+_______________
+PRODUCT        Pepperidge Farm Goldfish Snack Mix Nutty Deluxe with Honey
+               Roasted Cashews/Almonds, in 9-1/4 ounce cartons.
+               Recall #F-738-4.
+CODE           All pull dates through Sell By 10/07/94.
+MANUFACTURER   Pepperidge Farm, Inc., Willard, Ohio.
+RECALLED BY    Pepperidge Farm, Inc., Norwalk, Connecticut, by press
+               release May 27, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and the Caribbean.
+QUANTITY       Approximately 14,000 to 15,000 cases (24 boxes per case).
+REASON         Product contains nuts which were roasted in cold pressed
+               peanut oil and the label fails to declare the peanut oil
+               ingredient.
+_______________
+PRODUCT        Hot Smoked Catfish Fillets, random weights, in either vacuum
+               packed plastic bags, vacuum packed plastic/foil bags or
+               loose in a box.  Recall #F-739-4.
+CODE           41223 and 41263.
+MANUFACTURER   Horton's Downeast Foods, Inc., Waterboro, Maine.
+RECALLED BY    Manufacturer, by telephone May 31, 1994, followed by letter
+               June 1, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Maine, Florida, New York, Massachusetts.
+QUANTITY       21.16 pounds were distributed.
+REASON         Product is contaminated with Listeria monocytogenes.
+
+_______________
+PRODUCT        Cold Smoked Tuna, placed on foil/cardboard support vacuum
+               packed in plastic, wholesale size 1-3 pounds and retail size
+               4 ounces.  Recall #F-740-4.
+CODE           Lot numbers:  11092, 11095, 911092, 121092, 911222, 910952.
+MANUFACTURER   Horton's Downeast Foods, Waterboro, Maine.
+RECALLED BY    Manufacturer, by telephone May 18 1994, followed by letter. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Florida, Massachusetts, Maine, Missouri, North Carolina, New
+               Hampshire, New York, Texas.
+QUANTITY       196.55 pounds were distributed.
+REASON         Product is contaminated with Listeria monocytogenes.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Keebler Zesty Meal Ground Saltine Crackers, in 15 pound
+               cartons.  Recall #F-741-4.
+CODE           Lot numbers:  080E, 081F, 081D, 081E, 082F, 082D, 083F,
+               083E, 084F (manufactured 3/21-25/94).
+MANUFACTURER   Keebler Company, Denver, Colorado.
+RECALLED BY    Keebler Company, Elmhurst, Illinois, by letter June 21,
+               1994, by fax and telephone June 22, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Iowa, Mississippi, New Jersey, Maryland, Pennsylvania,
+               Florida, Indiana, Kentucky, Ohio, Tennessee, Texas,
+               Minnesota, New Mexico.
+QUANTITY       770 cases were distributed; firm estimates less than 20%
+               remains on the market.
+REASON         Product contains pieces of metal and plastic.
+
+_______________
+PRODUCT        Sutliff's Creme Candy Wafers, in 1 pound and 2 pound boxes
+               in the following colors and flavors:  (a) Yellow; (b)
+               Orchid; (c) Pink; (d) Apricot; (e) Ivory.  
+               Recall #F-743/747-4.
+CODE           None.
+MANUFACTURER   Sutliff Candy Company, Inc., Seattle, Washington.
+RECALLED BY    Manufacturer, by telephone June 15, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Washington state.
+                                    -2-QUANTITY       Firm estimates none remains on the market.
+REASON         Products contained undeclared FD&C; Yellow #5.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        Salted-In-Shell Sunflower Seeds, in 9.5 ounce plastic bags. 
+               Recall #F-742-4.
+CODE           13C4113, 14C4113, 17C4113, 18C4113, 19C4113, 21C4113,
+               23C4113, 25C4113, 13P4113, 18P4113, 22P4113, 12R4113,
+               15R4113, 18R4113, 21R4113, 23R4113, and 24R4113. 
+MANUFACTURER   Sathers Inc., Round Lake, Minnesota (repacker).
+RECALLED BY    Repacker, by telephone June 29, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide and Chile.
+QUANTITY       4,620 cases (12 bags per case) were distributed.
+REASON         Product bears an incorrect ingredient statement.
+
+_______________
+PRODUCT        Sutliff Creme Candy Wafers, Blue, in 1 pound and 2 pound
+               boxes.  Recall #F-748-4.
+CODE           None.
+MANUFACTURER   Sutliff Candy Company, Inc., Seattle, Washington.
+RECALLED BY    Manufacturer, by telephone June 15, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Washington state.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Product contains undeclared FD&C; Blue #1.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Slo-Phyllin 80 mg Syrup (Theophylline), in 16 fluid ounce
+               glass bottles, taken orally for asthmatic relief.  
+               Recall #D-332-4.
+CODE           Lot #89559 EXP 5/95.
+MANUFACTURER   Rhone-Poulenc Rorer, Fort Washington, Pennsylvania.
+RECALLED BY    Rhone-Poulenc Rorer, Collegeville, Pennsylvania, by letter
+               June 13, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       7,931 bottles were distributed.
+REASON         Potency is marginally above the upper specification limit of
+               107%.
+
+_______________
+PRODUCT        Sterile Aerosol Talc Spray, in 4 g. cans, used for recurrent
+               or persistent pneumothorax and recurrent or persistent
+               pleural effusions.  Recall #D-333-4.
+CODE           All lots.
+MANUFACTURER   Talc de Luzenac, Cedex-France.
+RECALLED BY    Bryan Corporation, Woburn, Massachusetts, by letter July 15,
+               1994.  Firm-initiated recall ongoing.
+
+                                    -3-DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 2,000 units.
+REASON         Product marketed without new drug approval.
+
+_______________
+PRODUCT        Baker Norton brand Proglycem (diazoxide, USP) 50 mg
+               capsules, in bottles of 100, used for treatment of chronic
+               hypoglycemia.  Recall #D-334-4.
+CODE           Lot #4C01871 EXP 3/96.
+MANUFACTURER   Baker Norton Pharmaceuticals, Inc., Miami, Florida.
+RECALLED BY    Manufacturer, by letter July 12, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       429 bottles were distributed.
+REASON         Product does not meet content uniformity specifications.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Cardiotec Kit for the preparation of Technetium Tc 99m
+               Teboroxime, a radioactive diagnostic.  Recall #D-330-4.
+CODE           Lot 2F48395 of the formulation was packaged as three kits: 
+               List #03206, lot #2F48395 (10 vials per kit);
+               List #03205, lot #2F49441 (5 vials per kit);
+               List #03207, lot #2F49452 (25 vials per kit).
+MANUFACTURER   Bristol-Myers Squibb Company, New Brunswick, New Jersey.
+RECALLED BY    Bristol-Myers Squibb Company, Princeton, New Jersey, by
+               telephone December 9, 1993, followed by letter December 10,
+               1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Canada.
+QUANTITY       4,110 vials were distributed.
+REASON         Vials may not meet the reconstituted physical appearance
+               description as stated in the package insert.
+
+_______________
+PRODUCT        H.L. Moore brand Diazepam Tablets, USP 5 mg in bottles of
+               100, indicated for the management of anxiety disorders or
+               for the short-term relief of the symptoms of anxiety.  
+               Recall #D-331-4.
+CODE           Lot #3926-1014 EXP 4/96.
+MANUFACTURER   Zenith Laboratories Caribe, Inc., Cidra, Puerto Rico.
+RECALLED BY    Manufacturer, by telephone June 2, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Connecticut, Illinois.
+QUANTITY       216 bottles were distributed; firm estimates none remains on
+               the market.
+REASON         A shipment erroneously contained package outserts for
+               Prazosin.
+
+
+                                    -4-
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Tech Attach Connection Systems, EEG cables that can be
+               purchased separately or as part of a Wyler Sphenoidal
+               Electrode package.  Recall #Z-890-4.
+CODE           All lots/codes of the Tech Attach Connection Systems,
+               distributed prior to 12/1/93.  All models with unprotected
+               electrode lead wires.
+MANUFACTURER   Ad-Tech Medical Instrument Corporation, Racine, Wisconsin.
+RECALLED BY    Manufacturer, by letter sent on or about December 1, 1993. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,368 cables.
+REASON         Product labeling fails to provide adequate directions for
+               use and the devices pose an unwarranted risk of injury to
+               patients, because the products are not labeled to
+               contraindicate use with apnea monitors.
+
+_______________
+PRODUCT        Siemens Conventional Mevatron Linear Accelerator System,
+               equipped with an electron high dose rate (HI-E) mode and/or
+               electron rotational therapy (EL-ROT) mode, used in the
+               treatment of cancer with radiation.  Recall #Z-1098-4.
+CODE           All lots.
+MANUFACTURER   Siemens Medical Systems, Inc., Oncology Care Systems,
+               Concord, California.
+RECALLED BY    Manufacturer, by letter February 11, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 100 units.
+REASON         In the Hi-E or EL-ROT mode, the display gives a decimal
+               shift of one place to the right.  If not changed, the dose
+               delivered will be ten times too much.
+
+_______________
+PRODUCT        MicroScan Rapid Positive Combo Type I, used for
+               identification to species level and/or antimicrobial
+               susceptibility of facultative and some fastidious aerobic
+               gram-positive cocci and limonocytognes.  Recall #Z-1110-4.
+CODE           Catalog #B1017-23, lot #09AUG93.
+MANUFACTURER   Baxter Diagnostics, Microscan Division, West Sacramento,
+               California.
+RECALLED BY    Manufacturer, by telephone April 3, 1993, and letter April
+               7, 1993. Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       347 boxes.
+REASON         When Quality control testing was performed with E. faecalis
+               ATCC 29212, Erythromycin demonstrated lower minimum
+               inhibitory concentrations (MCI's) than the expected quality
+               control range.
+
+                                    -5-_______________
+PRODUCT        Counter Recessed Three-Chamber Ultrasonic Cleaning System,
+               Model E488, used to clean debris from dental instruments. 
+               Recall #Z-1161-4.
+CODE           All serial numbers beginning with 488.
+MANUFACTURER   Esmadent Division, Esma Chemicals, Inc., South Holland,
+               Illinois.
+RECALLED BY    Manufacturer, by undated letter sent in October 1993.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       144 units were distributed.
+REASON         Device appears to have component parts that are not properly
+               grounded in the original factory configuration, which can
+               result in electric shock and/or fire.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+=====================
+_______________
+PRODUCT        Microdase Disk - Modified Oxidase Test for Differentiation
+               of Micrococci from Staphylococci.  Recall #Z-1111-4.
+CODE           Lot #4711 EXP 5/31/94.
+MANUFACTURER   Remel Limited Partnership, Lenexa, Kansas.
+RECALLED BY    Manufacturer, by telephone December 15, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nebraska, Missouri, Kansas, Oklahoma, New York, Georgia,
+               Oregon, Kentucky, Puerto Rico, Canada, Japan.
+QUANTITY       46 vials were distributed.
+REASON         The device should have been made of ashless paper and was
+               not.  Ashless paper carries less risk of interference with
+               the test.
+
+_______________
+PRODUCT        Bacti-Disks, In Vitro Diagnostic, Microbiology Quality
+               Control Organisms, which are stabilized, lyophilized,
+               cultures of bacteria in solid disk form:  
+               (a) Catalog #19-280; (b) Catalog #19-177; (c) Catalog # 19-
+               052; (d) Catalog #19-060; (e) Catalog #19-035.  
+               Recall #Z-1112/1116-4.
+CODE           Lot numbers:  (a) 3330; (b) 2021; (c) 2340; (d) 3730; (e)
+               4240.
+MANUFACTURER   Remel Limited Partnership, Lenexa, Kansas.
+RECALLED BY    Manufacturer, by telephone (a) January 18, 1993; (b) January
+               31, 1994; (c) November 30, 1992; (d) November 3, 1992; (e)
+               November 16, 1992.  Firm-initiated recall complete
+DISTRIBUTION   (a) California, Pennsylvania, Ohio, New York, Florida, West
+               Virginia; (b) Florida, New Jersey, New York, Michigan,
+               Maryland, Wisconsin, Texas, Pennsylvania, South Carolina,
+               Massachusetts; (c) Pennsylvania, California, New York,
+               Florida; (d) Nationwide and Canada; (e) New Jersey,
+               Massachusetts, North Carolina, Virginia, California,
+               Australia.
+QUANTITY       Firm estimates none remains on the market.
+
+                                    -6-REASON         Some devices were contaminated and did not exhibit normal
+               growth characteristics while other devices were mislabeled.
+
+_______________
+PRODUCT        C.A.T. Reagent Kit, in-vitro diagnostic reagent test for
+               Chloramphenicol Acetyl-transferase.  Recall #Z-1117-4.
+CODE           Lot #2141 EXP 2/28/94.
+MANUFACTURER   Remel Limited Partnership, Lenexa, Kansas.
+RECALLED BY    Manufacturer, by telephone December 29, 1993, and by fax
+               December 30, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide, Australia, Canada.
+QUANTITY       72 units were distributed between 4/23/93 and 12/29/93.
+REASON         The control disk does not give the correct color reaction.
+
+_______________
+PRODUCT        P.R.A.S. Anaerobic Transport Medium:  (a) Anaerobic
+               Transport Medium, used in the transportation of specimens
+               containing anaerobic bacteria, Catalog #05-004 and 05-005;
+               (b) Peptone Yeast (PY) Media with Lactose, used in the study
+               of anaerobic bacteria, Catalog #05-105; (c) Peptone Yeast
+               (PY) Media with Mannitol, used in the study of anaerobic
+               bacteria, Catalog #05-109.  Recall #Z-1118/1120-4.
+CODE           Lot numbers:  (a) All lots; (b) 2141; (c) 2231.
+MANUFACTURER   Remel Limited Partnership, Lenexa, Kansas.
+RECALLED BY    Manufacturer, by telephone (a) January 13, 1994; (b) January
+               6, 1994; (c) January 4, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   (a) California, Virginia, Missouri, Georgia, Michigan,
+               Colorado; (b) Massachusetts; (c) Pennsylvania.
+QUANTITY       Firm estimates none remains on the market.
+REASON         The proper color change did not occur when the media was
+               exposed to air.
+
+_______________
+PRODUCT        (a) Thioglycollate Medium, w/o Indicator w/o Dextrose, 9 ml,
+               used for the cultivation of aerobic and anaerobic bacteria,
+               Catalog #06-4716; (b) Phenol Red Broth w/1% Melibiose, 5 ml,
+               used in the determination of fermentation reactions of
+               microorganisms, Catalog #06-2362; (c) PYR Broth 0.5 ml, used
+               in the rapid, presumptive identification of Group A
+               Streptococci, and Enterococci, Catalog #06-2085.  Recall #Z-
+               1128/1130-4.
+CODE           Lot numbers:  (a) 1031 EXP 12/31/93; (b) 4650 EXP 11/30/93;
+               (c) 4230 EXP 10/31/93.
+MANUFACTURER   Remel Limited Partnership, Lenexa, Kansas.
+RECALLED BY    Manufacturer, (a) Product was discarded on or about May 18,
+               1993; (b) by telephone.  Product was discarded on or about
+               April 9, 1993; (c) by telephone January 12, 1993.  Product
+               was discarded on or about January 2, 1993.  Firm-initiated
+               recall complete. 
+DISTRIBUTION   (a) Rhode Island; (b) Oklahoma, Washington D.C.; (c)
+               Virginia, Colorado, Georgia, California, Nevada.
+
+                                    -7-QUANTITY       (a) 400 tubes; (b) 60 tubes; (c) 340 tubes were distributed. 
+               Firm estimates none remains on the market.
+REASON         Thioglycollate Medium did not contain indicator, Phenol Red
+               Broth was contaminated, and Pyr broth did not show a
+               positive reaction.
+
+_______________
+PRODUCT        (a) Lap Disks, used for the detection of leucine
+               aminopeptidase activity in streptococci and related genera,
+               Catalog #21-129; (b) Bio-Ornithine Disk, used to biotype
+               Haemophilus influenze and Haemophilus parinfluenzae, Catalog
+               #21-024; (c) Pyr/Esculin Disk, used for rapid presumptive
+               identification of Group A Streptococci and Enterococci,
+               Catalog #21-138.  Recall #Z-1131/1133-4.
+CODE           Lot numbers:  (a) 3531 EXP 8/31/94; (b) 3131 EXP 2/28/95;
+               (c) 0521 EXP 8/31/94.
+MANUFACTURER   Remel Limited Partnership, Lenexa, Kansas.
+RECALLED BY    Manufacturer, (a) by telephone December 10, 1993.  Product
+               was discarded on December 8, 1993; (b) by telephone December
+               15, 1993.  Product was discarded on December 15, 1993; (c)
+               by telephone May 12, 1993.  Product was discarded on or
+               about May 4, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   (a) Arizona, New Jersey, Florida, Missouri, Kansas, North
+               Carolina, Texas, California, Washington, D.C., Canada; (b)
+               Wisconsin, Pennsylvania; (c) Nationwide, Australia, New
+               Zealand.
+QUANTITY       (a) 35 vials; (b) 3 vials; (c) 176 vials were distributed.
+REASON         Known positive organisms failed to react or reacted in an
+               atypical manner.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS II
+==========
+_______________
+PRODUCT        Lewis Nursery Crumbles with CSP-250, medicated swine feed,
+               50 pounds.  Recall #V-056-4.
+CODE           Manufacturing dates:  2/1/94, 3/4/94, 3/30/94, 5/2/94,
+               5/17/94.
+MANUFACTURER   MFA Feed Mill, Kirksville, Missouri.
+RECALLED BY    MFA Inc., Columbia, Missouri, by visit May 18, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Missouri.
+QUANTITY       18 tons.
+REASON         Product misformulated to contain only 50% of the drug
+               ingredients.
+
+_______________
+PRODUCT        Orbenin-DC 7.5 G Syringe (Benzathine Cloxacillin) for
+               intramammary infusion in cows.  Recall #V-057-4.
+CODE           TC5833 EXP 3/95, TC5834 EXP 3/95, TC5847 EXP 3/95, TC5848
+               EXP 3/95.
+MANUFACTURER   Smithkline Beecham, Piscataway, New Jersey.
+RECALLED BY    Manufacturer, by letter April 11, 1994.  Firm-initiated
+               recall complete.
+                                    -8-DISTRIBUTION   Nationwide.
+QUANTITY       27,552 units of lot TC5833, 30,744 units of lot TC5834,
+               32,004 units of lot TC5847, 28,152 units of lot TC5848 were
+               distributed.
+REASON         Four lots of the product are subpotent.
+
+
+                                    -9-
+
+
+END OF ENFORCEMENT REPORT FOR JULY 27, 1994.  BLANK PAGES MAY FOLLOW.
+                                   ####

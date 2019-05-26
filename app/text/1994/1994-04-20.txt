@@ -1,0 +1,855 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Jun
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      35 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+04/20/1994
+
+Recalls and Field Corrections:  Foods -- Class II -- 04/20/1994
+
+April 20, 1994                                                 94-16
+   
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Barber's 100% Pure Orange Juice from Concentrate, in 4 fluid
+               ounce cartons.  Recall #F-380-4.
+CODE           All 4 ounce cartons bearing pull dates of FEB 10.
+MANUFACTURER   Barber's Pure Milk Company, Mobile, Alabama.
+RECALLED BY    Manufacturer, by  visits beginning January 31, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Alabama.
+QUANTITY       2,004 cases (75 cartons per case) were distributed; firm
+               estimates none remains on the market.
+REASON         Orange juice contaminated with yeast and Bacilus Cereus and
+               associated with an outbreak of foodborne illness.
+
+_______________
+PRODUCT        Diet Coca Cola Low Calorie Cola, cola flavored carbonated
+               beverage sweetened with Nutrasweet brand aspartame, in 2
+               liter PET plastic bottles, 8 bottles per case; 16 ounce PET
+               plastic bottles, 4 bottles per pack, 6 packs per case; 12
+               ounce cans, 6 cans per pack, 4 packs per case.  
+               Recall #F-383-4.
+CODE           061394MDA, 061394MDB, 061394MDC (followed by a 4 digit
+               military time code).
+MANUFACTURER   Coca-Cola Bottling Company, Niles, Illinois.
+RECALLED BY    Manufacturer, by issuing press release March 21, 1994. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Illinois, Indiana.
+QUANTITY       3,200 cases of 2 liter bottles, 360 cases of 16 ounce
+               bottles and 3,150 cases of 12 ounce cans were distributed;
+               firm estimates that 75 percent of the product remains on the
+               market.
+REASON         Product contains undeclared sugar.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        All strengths and package sizes, including 5 ml physician
+               samples of the following products:
+               Eli Lilly brand Ceclor (Cefaclor, USP), for oral suspension;
+               M-5130, 187mg/5ml, 50ml; M-5130, 187mg/5ml, 100ml
+               M-5132, 375mg/5ml, 50ml; M-5132, 375mg/5ml, 100ml     
+               M-5057, 125mg/5ml, 75ml; M-5057, 125mg/5ml, 150ml     
+               M-5058, 250mg/5ml, 75ml; M-5058, 250mg/5ml, 150ml     
+               Eli Lilly brand Lorabid (Loracarbef) for oral suspension: 
+               M-5135, 100mg/5ml, 50ml; M-5135, 100mg/5ml, 100ml     
+               M-5136, 200mg/5ml, 50ml; M-5136, 200mg/5ml, 100ml     
+               Dista brand Keflex (Cephalexin, USP) for suspension: 
+               M-201, 125mg/5ml, 100ml; M-201, 125mg/5ml, 200ml     
+               M-202, 250mg/5ml, 5ml; M-202, 250mg/5ml, 100ml     
+               M-202, 250mg/5ml, 200ml.  Recall #D-238/245-4.
+CODE           All lots on the market within expiration date.   
+MANUFACTURER   Eli Lilly Industries, Inc., Carolina, Puerto Rico.
+RECALLED BY    Eli Lilly and Company, Indianapolis, Indiana, by press
+               release and by letter March 31, 1994.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       1.2 million bottles plus an equivalent number of physician
+               samples.
+REASON         Several bottles contained a small plastic cap.
+
+_______________
+PRODUCT        Normodyne brand of Labetalol Hydrochloride, USP Tablets, 200
+               mg, in 1000 tablet bottles, indicated in the management of
+               hypertension.  Recall #D-246-4.
+CODE           Lot #93888 EXP 9/96.
+MANUFACTURER   Schering Plough Products, Inc., Las Piedras Operations, Las
+               Piedras, Puerto Rico.
+RECALLED BY    Manufacturer, by telephone beginning March 16, 1994.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Texas, Missouri, Oregon, Wisconsin, Illinois, Alabama,
+               Kentucky, Michigan.
+QUANTITY       5,663 bottles were distributed; firm estimates 2,420 bottles
+               remain on the market.
+REASON         Subpotency.
+
+                                    -2-_______________
+PRODUCT        Procainamide Hydrochloride Extended Release, USP 250 mg, Rx,
+               in bottles of 100 and unit dose packages (10 x 10),
+               indicated for the treatment of ventricular arrhythmias,
+               under the Danbury and Schein labels.  Recall #D-247-4.
+CODE           Lot numbers:  41543D, 41544D (Danbury); 41543D, 44125D,
+               44343D, 44344D, 44392D, 44494D 44495D (Schein); 41543D,
+               44391D Schein unit dose).
+MANUFACTURER   Danbury Pharmacal, Inc., Danbury, Connecticut.
+RECALLED BY    Danbury Pharmacal, Inc., Carmel, New York, by letter March
+               31, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 35,000 100-tablet bottles and 10,000 unit dose
+               packs of 100 tablets were distributed.
+REASON         Product does not meet dissolution specifications.
+
+_______________
+PRODUCT        Theo-Dur Sprinkle Theophylline (anhydrous) Sustained Action
+               Oral Capsules, 50 mg, in 100 tablet bottles, for relief and
+               or prevention of symptoms from asthma and reversible
+               bronchospasm associated with chronic bronchitis and
+               emphysema (bronchodilator).  Recall #D-249-4.
+CODE           Lot numbers:  93624 EXP 3/95, 93738 EXP 3/95.
+MANUFACTURER   Schering Plough Products, Inc., Las Piedras Operations, Las
+               Piedras, Puerto Rico.
+RECALLED BY    Manufacturer, by letter March 22, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       42,708 units were distributed; firm estimates 27,904 units
+               remain on the market.
+REASON         Marginally subpotent.
+
+_______________
+PRODUCT        Bacitracin Ophthalmic Ointment, 500 units/gram, Rx
+               ophthalmic antibiotic used for the treatment of bacterial
+               infections of the eye, packaged in 3.5 gram tubes.  
+               Recall #D-251-4.
+CODE           Lot numbers:  3026175, 3166059, 3137053.
+MANUFACTURER   Pharmafair, Inc., related to Bausch & Lomb), Hauppauge, New
+               York (responsible firm).
+RECALLED BY    Allscrips Pharmaceuticals, Inc., Vernon Hills, Illinois
+               (relabeler), by letter March 22, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   New Mexico, Florida, Illinois, California, Virginia,
+               Maryland, Indiana.
+QUANTITY       133 tubes were distributed; firm estimates 15 percent of the
+               product remains on the market.
+REASON         Potency not assured through expiration date.
+
+_______________
+PRODUCT        Primatene Tablets, 60 tablet size only, packaged in
+               thermoform blister/boxes, bronchodilator for relief and
+               control of attacks of bronchial asthma.  Recall #D-252-4.
+                                    -3-CODE           Lot Nos. and EXP Dates:   12B3 1/96, 08C3 2/96, 09C3 2/96,
+               10C3 2/96, 11C3 2/96,  12C3 2/96, 13C3 3/96, 14C3 3/96, 15C3
+               3/96, 28D3 4/96, 29D3 4/96, 30D3 4/96, 03E3 4/96, 07F3 5/96,
+               08F3 5/96, 09F3 5/96, 10F3 5/96, 11F3 5/96, 13F3 5/96, 14F3
+               5/96, 20H3 8/96, 22H3 8/96, 23H3 8/96, 24H3 8/96, 25H3 8/96,
+               26H3 8/96, 27H3 8/96, 12K3 8/96, 15K3 9/96, 16K3 9/96, 17K3
+               9/96, 18K3 10/96, 19K3 10/96. 
+MANUFACTURER   Whitehall-Robins Labs, Guyama, Puerto Rico.
+RECALLED BY    Whitehall Laboratories, Madison, New Jersey (responsible
+               firm), by letter December 28, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 44,560 dozen 60-tablet blister packs were
+               distributed; firm estimates 20,000 dozen remains on the
+               market.
+REASON         Product label, by error, lacks pregnancy statement.
+
+_______________
+PRODUCT        Loestrin FE 1.5/30 Tablets, Ethinyl Estradiol 30 mcg and
+               Norethindrone 1.5 mg, Rx oral contraceptive, packaged in
+               boxes 5 cards of 28 tablets each.  Recall #D-253-4.
+CODE           Lot #3074048.
+MANUFACTURER   Parke-Davis, Division of Warner Lambert, Fajardo, Puerto
+               Rico (responsible firm).
+RECALLED BY    Allscrips Pharmaceuticals, Inc., Vernon Hills, Illinois
+               (repacker), by telephone February 14, 1994, followed by
+               letter March 18, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Virginia, Ohio.
+QUANTITY       8 boxes of 5 cards of 28 tablets were distributed; firm
+               estimates none remains on the market.
+REASON         Product may not meet content uniformity specifications.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Vitamin A Palmitate 15 mg (50,000 USP Units) Capsules,
+               packaged in bottles of 100 and 1000 soft-gel capsules, Rx,
+               effective for the treatment of Vitamin A deficiency, under
+               the following labels:  Schein, URL, and Rugby. 
+               Recall #D-248-4.
+CODE           Lot #55377 EXP 11/94.  
+MANUFACTURER   Pharmacaps, Inc., Elizabeth, New Jersey.
+RECALLED BY    Manufacturer, by telephone January 21, 1994, followed by
+               letters of January 21, 1994, and February 15, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   New York, Pennsylvania.
+QUANTITY       5,904 bottles of 100 capsules, and 168 bottles of 1000 were
+               distributed; firm estimates none remains on the market.
+REASON         Subpotency.
+
+                                    -4-_______________
+PRODUCT        Iodohippurate Sodium I-131 Injection, multi dose, a sterile,
+               non-pyrogenic intravenous solution for diagnostic use in
+               determining renal function, renal blood flow, urinary tract
+               obstruction and as a renal imaging agent.  Recall #D-250-4.
+CODE           Lot #473, calibration date: March 22, 1993.
+MANUFACTURER   Sorin BioMedica, Saluggia, Italy.
+RECALLED BY    Cis-Us, Inc., Bedford, Massachusetts, by telephone and by
+               letter March 4, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       39 vials were distributed.
+REASON         Label bears incorrect calibration date of 3/22/93 instead of
+               3/22/94.
+
+_______________
+UPDATE         The following are updates for E-Z-EM products which appeared
+               in the March 16, 1994, Enforcement Report:  
+               Recall #D-190-4, Magnesium Citrate Effervescent Laxative, 
+               should read:  Manufacturer:  E-Z-EM, Inc., Westbury, New
+               York.
+
+_______________
+UPDATE         Recall #D-190-4, Magnesium Citrate Effervescent Laxative;
+               #D-191-4, E-Z-Gas II Effervescent Granules
+               Antiacid/Antiflatulent (citric acid formula); and #D-192-4,
+               E-Z-Gas Effervescent Granules Antacid/Antiflatulent
+               (Tartaric acid formula), should read:
+               CODE:  All lots manufactured between January 1992 and
+               December 1993.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        Source Plasma.  Recall #B-195-4.
+CODE           Unit G-21457-073.
+MANUFACTURER   M.P.S., Inc., doing business as Leesville Plasma Center,
+               Leesville, Louisiana.
+RECALLED BY    M.P.S., Inc., Opelousas, Louisiana, by telephone December 28
+               or 29, 1993, and by letter January 4, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   California, Kentucky, Germany.
+QUANTITY       1 unit.
+REASON         Blood product, untested for viral markers, was distributed.
+
+_______________
+PRODUCT        (a) Whole Blood; (b) Red Blood Cells; (c) Platelets; (d)
+               Platelets, Pheresis.  Recall #B-196/199-4.
+CODE           Unit numbers:  (a) 0165179, 0165182; (b) 0165175, 0165176,
+               0165177, 0165178, 0165181, 0165184, 0165187, 0165189,
+               1065191, 0165194, 0165195, 0165196, 0165198, 0165208,
+               0165210, 0165212, 0165218, 0165220, 0165225, 1158302,
+               1158303, 1158309, 1158315, 1158316, 1158319, 1158325, 
+                                    -5-               1158333, 1158334, 1158338, 1158342, 1158343, 1158349,
+               1158351, 1158353, 1158355, 1158357, 1158358, 1158362,
+               2089885, 2089889, 2089890, 2089891, 2089898, 2089901,
+               2089911, 2089913, 8705885;
+               (c) 0165171, 0165175, 0165177, 0165178, 0165181, 0165184,
+               0165185, 0165187, 0165189, 0165194, 0165195, 0165196,
+               0165200, 0165201, 0165205, 0165206, 0165208, 0165210,
+               0165212, 0165214, 0165218, 0165220, 0165221, 0165223,
+               0165224, 1158296, 1158298, 1158301, 1158302, 1158303,
+               1158305, 1158309, 1158310, 1158311, 1158312, 1158313,
+               1158315, 1158316, 1158320, 1158321, 1158323, 1158324,
+               1158325, 1158326, 1158328, 1158329, 1158330, 1158333,
+               1158334, 1158338, 1158342, 1158343, 1158349, 1158351,
+               1158353, 1158355, 1158357, 1158358, 1158359, 1158361,
+               1158362, 2089890, 2089891, 2089895, 2089898, 2089901,
+               2089911, 2989913;
+               (d) 9016738, 9016739, 9016742.
+MANUFACTURER   The Community Blood Center of Greater Kansas City, Kansas
+               City, Missouri.
+RECALLED BY    Manufacturer, by telephone April 10, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Kansas, Missouri.
+QUANTITY       (a) 2 units; (b) 47 units; (c) 68 units; (d) 3 units.
+REASON         Blood products, incorrectly tested for the antibody to human
+               immunodeficiency virus type 1/2 (anti-HIV-1/2), were
+               distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Battery packs with poor sonic weld seals, which seal the
+               battery pack assembly case of the LP-300 (LifePak 300
+               Defibrillator).  Recall #Z-049-4.
+CODE           All battery packs manufactured between 4/1/91 and 5/4/93,
+               with non continuous serial numbers from 000021 through
+               13320.  Part numbers: 804901-00, English; 804901-01, French;
+               804901-02, German; 804901-03, Spanish; 804901-04, Japanese.
+MANUFACTURER   Physio Control Corporation, Redmond, Washington.
+RECALLED BY    Manufacturer, by letter March 1994.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 11,088 battery packs were distributed.
+REASON         The weld seals fail, resulting in damage to diodes on the
+               battery pak's charging circuity causing improper charging of
+               the battery.
+
+_______________
+PRODUCT        Glucose 3 and Glucose V Test Strips under the following
+               labels: (a)  Biocare M, 50 strip bottles;
+               (b) Biocare VT, 50 strip bottles;
+               (c) Biotel 3, 25 and 50 strip bottles 
+               (d) Biotel V, 14, 25 and 50 strip bottles 
+                                    -6-               (e) Glucose 3, 50 strip bottles 
+               (f) Glucose V, 50 strip bottles.  Recall #Z-497/502-4.
+CODE           90141192       90011292        90021293       90041292 
+               90061292       90071292        90081292       90091292 
+               90101292       90111292        90131292       90141292 
+               90151292       90161292        90171292       90181292 
+               90191292       90211292        90221292       90231292 
+               90241292       90251292        90261292       90271292 
+               90281292       90291292        90301292       90311292 
+               90010193       90040193        90090193       90100193 
+               90110193       90120193        90140193       90010293 
+               90020293       90040293        90050293       90060293 
+               90070293       90090393        90120493       90081092 
+               90131192       90201292        90020193       90030193 
+               90050193       90060193        90070193       90080193 
+               90130193       90030293        90090293       90110293 
+               90130293       90140293        90160293       90190293 
+               90010393       90020393        90030393       90040393 
+               90060393       90070393        90140393       90150393 
+               90010493       90020493        90030493       90040493 
+               90050493       90070493        90090493       90110493 
+               90130493       90150493        90160493       90170493 
+               90180493       90190493        90200493       90210493 
+               90010593       90020593        90070593       90090593 
+               90100593       90110593        90130593       90140593 
+               90150593       90160593        90260593       90270593 
+               90040693       90100693        90170693       90180693 
+               90190693       90200693        90210693       90220693 
+               90230693       90240693        90250693       90020993 
+               90031292       90051292        90100293       90170293 
+               90180293       90100393        90110393       90120393 
+               90130393       90080693        90090693       90010893 
+               90080293       90120293        90150293       90050393 
+               90080393       90060493        90080493       90100493 
+               90140493       90030593        90040593       90050593 
+               90060593       90080593        90120593       90170593 
+               90180593       90190593        90200593       90210593 
+               90220593       90230593        90240593       90250593 
+               90010693       90020693        90030693       90050693 
+               90060693       90070693        90110693       90120693 
+               90130693       90140693        90150693       90160693 
+               90010793       90020893        90030893       90040893 
+               90050893       90060893        90070893       90080893 
+               90090893       90100893        90110893       90120893.
+MANUFACTURER   Caromed, Inc., Chester, South Carolina, by telephone October
+               6, 1993, followed by letters of October 8, 1993, and
+               November 23, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Undetermined.
+                                    -7-REASON         Certain batches of CaroMed Glucose V and CaroMed Glucose 3
+               Blood Glucose Monitoring Strips have been marketed with
+               shelf-lives shorter than that indicated on the package. 
+               This error could result in consumers receiving values lower
+               than their actual glucose levels.
+
+_______________
+PRODUCT        Cards HCG-Serum/Urine Pregnancy Test Kits, an in-vitro
+               diagnostic device and its purpose is to detect Human
+               Chorionic Gonadotropin (HCG) in serum or urine to aid in the
+               diagnosis of pregnancy:
+               (a) Catalog #CR7503; (b) Catalog #CR7504; (c) Catalog
+               CR7506.  Recall #Z-503/505-4.
+CODE           Lot numbers:  650213.1, 650214.1, 650215.1, 650215.2; (b)
+               650216.1, 650216.2; (c) 650217.1, 650217.2, 650217.3.
+MANUFACTURER   Pacific Biotech, Inc., San Diego, California.
+RECALLED BY    Manufacturer, by letter December 27, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       (a) 1,344 units; (b) 130 units; (c) 1,498 units.
+REASON         There is a loss of sensitivity which may result in failure
+               of the test to detect early pregnancy.
+
+_______________
+PRODUCT        ALP Respiratory Therapy Solution Transfer Sets, Sterile Rx
+               devices used to fill and feed sterile solutions to adult and
+               pediatric respiratory therapy humidifier and nebulizer
+               reservoirs from flexible solution containers, 48 sets per
+               case; Manufactured for: Automatic Liquid Packaging, Inc.,
+               Healthcare Products Division, Woodstock, Illinois: 
+               (a) Catalog #AL5002: ALP Luer Tip Respiratory Transfer       
+               Set, 97 cm (38" long), for use with humidifiers which
+               incorporate their own float feed liquid level control and
+               humidifiers requiring manual filling;
+               (b) Catalog #AL5003: ALP Respiratory Transfer Set, 97 cm
+               (38" long), for use with the Bird Micronebulizer (4144)
+               which does not contain a float feed liquid level control
+               device;
+               (c) Catalog #AL5003-A: ALP Respiratory Transfer Set, 97      
+                cm (38" long), this set is similar to the AL5003, but has a
+               larger luer adapter tip;
+               (d) Catalog #AL5004: ALP Respiratory Transfer Set, 97       
+               cm (38" long), for use with humidifiers and nebulizers which
+               incorporate their own float feed liquid level control
+               (e) Catalog #AL5008: ALP Respiratory Transfer Set, 97 cm
+               (38" long) (same configuration as the AL5003-A set); 
+               (f) Catalog #AL5009: ALP Ventilator Transfer Set with 22 mm
+               elbow and spring to close clamp, 99 cm (39" long), for use
+               with heated humidifiers and nebulizers which do not contain
+               float feed liquid level control devices.  
+               Recall #Z-506/511-4.
+
+                                    -8-CODE           Lot numbers:  (a) lot #7040675, 70401963, 70402162,
+               70402679, 70402679B, 70402679BR, 70402872R, 70402881,
+               70402881B, 70403037, 70403091, 70403202, 70403381, 70403683,
+               70403746, 70404248, 70404067;
+               (b) 7050676, 7050676B, 7050676R, 70502781R, 70502781BR,
+               70503144, 70503203, 70504096, 70504106, 7050676BR;
+               (c) 69903412; (d) 7060677, 70601964, 70602680B, 70602680,
+               70603204, 70604206; (e) 69904292; 
+               (f) 7070678, 7070678B, 7070678C, 7070678D, 7070678ER,
+               7070678G, 7070678R, 7070678H, 7070678F, 70703892, 70704166,
+               70703972, 70703865.
+MANUFACTURER   The Mextrix Company, Dubuque, Iowa.
+RECALLED BY    Automatic Liquid Packaging, Inc., Woodstock, Illinois, by
+               letters of February 9 and 11, 1994.  Firm-initiated recall
+               ongoing. 
+DISTRIBUTION   Nationwide, the Netherlands, Italy, Canada.
+QUANTITY       5,686 cases were distributed; firm estimates 542 cases
+               remain on the market.
+REASON         Products fail to perform as intended in that the
+               clamp/delivery is in the "shut-off" position.  Further, the
+               firm made significant changes to the devices, for which no
+               510(k) was submitted to FDA for clearance prior to
+               marketing, catalog numbers AL5003A and AL5008.
+
+_______________
+PRODUCT        Aerosol Cloud Enhancer Component Accessories And Kits,
+               single-patient use prescription devices for use with metered
+               dose inhalers or other breathing devices:
+               (a) Ace Spacer Kits, Catalog #11-1020;
+               (b) Ace Adaptor Kits, Catalog #11-1030;
+               (c) Ace Hospital Evaluation Sampler Kit, Catalog 11-1099;
+               (d) Ace (Pharmacy/Homecare package), Catalog #11-2020;
+               (e) Ace/Coach Training System: Pediatric Model, Catalog #11-
+               0002.  This kit contains an ACE 11-1020 and a 2000cc Coach
+               Jr. (22-20002);
+               (f) Ace/Coach Training System: Adult Model, Catalog #11-
+               0004.  This kit contains an ACE 11-1020 and a 4000cc Coach
+               22-400; (g) Nif-Tee Kit, Inspiratory Force Monitoring Kit,
+               Catalog #55-4900; (h) Nif-Tee, Non-breathing T-Piece,
+               Catalog #33-3500; (i) Nif-Tee with Reducer and Extension
+               Tube, Catalog #33-3500.  Recall #Z-520/528-4.
+CODE           Lot numbers:  (a) 223606, 224581, 226407, 227406, 227417,
+               227447, 227486, 230219, 231078; (b) 224998; (c) 225000; (d)
+               223623 and 227448; (e) 227444; (f) 227443; (g) 227445; (h)
+               225111, 225115, 228045, 230555; (i) 225116, 231420.
+MANUFACTURER   DHD Diemolding Healthcare Division, Wampsville, New York.
+RECALLED BY    DHD Diemolding Healthcare Division, Canastota, New York, by
+               letter February 14, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Australia, Canada, England, Korea, Lebanon,
+               Netherlands, Singapore.
+
+                                    -9-QUANTITY       Catalog No.    Quantity Shipped
+               11-0002        23 units
+               11-0004        21 units
+               11-1020        64,950 units
+               11-1030        2,125 units
+               11-1099        64 units
+               11-2020        1,096 units
+               33-3500        21,144 units
+               33-3505        528 units
+               55-4900        3 units.
+REASON         The one way valve sticks to the valve housing and requires a
+               pressure to open the valve that is higher than desired. 
+               This would affect the function of the product in which the 
+               valve is used, possibly resulting in less than adequate
+               performance.
+
+_______________
+PRODUCT        Patient Transport Stretcher, Model 910.  Recall #Z-570-4.
+CODE           All codes.
+MANUFACTURER   Basic American Metal Products, Fond DuLac, Wisconsin
+               (contract manufacturer).
+RECALLED BY    Hausted, Inc., Medina, Ohio, by letter sent on or about
+               September 11, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       279 units were distributed.
+REASON         The stretcher frame may break while carrying an injured
+               patient and the patient could suffer more injury, causing a
+               serious condition to become critical.
+
+_______________
+PRODUCT        Vision Sciences Endosheath System (disposable) for use with
+               the VSI 2000 sigmoidoscope, 13.8 mm distal head, sterile,
+               provides a protective covering for the endoscope and
+               includes channels for air, water, and suction/biopsy. 
+               Recall #Z-574-4.
+CODE           Catalog #06-2101-12, lot #0800077B.
+MANUFACTURER   Vision Sciences, Inc., Natick, Massachusetts.
+RECALLED BY    Manufacturer, by telephone between November 4, 1993 and
+               November 16, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Alabama, California, Florida, Georgia, Indiana,
+               Massachusetts, New York.
+QUANTITY       120 units were distributed.
+REASON         There is a potential for leaks at the distal head cap of the
+               sheath.
+
+_______________
+PRODUCT        Cascade I Series Humidifiers, designed to add heat and
+               moisture to inspired gases delivered to patients during
+               ventilation:  (a) Model 1; (b) Model 1A.
+               Recall #Z-575/576-4.
+CODE           All serial numbers.
+
+                                   -10-MANUFACTURER   Puritan-Bennett Corporation, Ventilator Systems Division,
+               Carlsbad, California.
+RECALLED BY    Manufacturer, by letter sent October 18, 1993.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide, Canada.
+QUANTITY       149,083 units were distributed.
+REASON         Devices may pose a fire hazard under certain conditions and
+               modes of operation; if the units are not properly
+               maintained, used, and monitored (for example, thermoswitch
+               not replaced per owners manual, no water in jar, no thermal
+               well, and no temperature alarm).
+
+_______________
+PRODUCT        Ophthalmic microsurgical accessory vitrectomy packs:
+               (a) Deluxe Posterior Vitrectomy Packs, sterile/single
+               patient use,  packaged 6 packs/box, Catalog #DP4800.  The
+               pack provides instruments and accessories necessary to
+               perform a pars plana vitrectomy;
+               (b) Basic Posterior Vitrectomy Packs, sterile/single patient
+               use, packaged 6 packs/box, Catalog #DP4801.  The pack
+               provides a vitrectomy cutter,  tubing and cassette to
+               perform a pars plana vitrectomy;
+               (c) Anterior Vitrectomy Packs, sterile/single patient use,
+               packaged 2 packs/box, Catalog #DP4400.  The pack provides
+               vitrectomy cutter and tubing to assist with vitreous
+               prolapses into the anterior chamber (anterior vitrectomy). 
+               (d) Anterior Vitrectomy Packs with Variable Port Cutter,
+               sterile/single patient use, packaged 2 packs/box, Catalog
+               #DP4400VP.  The pack provides a vitrectomy cutter and tubing
+               for the anterior chamber when vitreous prolapses into the
+               anterior chamber (anterior vitrectomy);
+               (e) Microvit Systems Vitrectomy Probe Pack, sterile/single
+               patient use, packaged 2 packs/box, Catalog #MVS-3201.  The
+               pack is used to assist with vitreous prolapses into the
+               anterior chamber (anterior vitrectomy).  
+               Recall #Z-581/585-4. 
+CODE           (a) 1663AF     1723AF     1753AF     2093AF 
+                   2093BF     2103AF     2103BF     2143AF 
+                   2143BF     2443AF     2573BF     2653AF 
+                   2713BF     2773BF     2993BF     3063AF 
+                   3143AF     3093AF     3343AF     3363AF 
+                   3413BF     3473BF 
+               (b) 2393BF     3333AF 
+               (c) 3203AF     3233AF     3233BF     3233F 
+               (d) 3223AF 
+               (e) 2393BF     2743BF     3023AF 
+MANUFACTURER   Storz Instrument Company, St. Louis, Missouri.
+RECALLED BY    Manufacturer, by Federal Express packages sent on December
+               30, 1993, and by letter January 3, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       (a) 3,280 packs; (b) 189 boxes; (c) 211 boxes; (d) 82 boxes;
+               (e) 44 boxes were distributed.
+                                   -11-REASON         The actuation (air) and aspiration lines connected to the
+               vitrectomy probe may be reversed.
+
+_______________
+PRODUCT        Chemcard Cholesterol Test, a screening device for
+               identification of elevated blood cholesterol levels.  
+               Recall #Z-589-4.
+CODE           All lots of modified version, distinguished by the test
+               color chart in strip form instead of color chart wheel.
+MANUFACTURER   Chem-Elec, Inc., North Webster, Indiana.
+RECALLED BY    Manufacturer, by letter December 9, 1992.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 127 boxes of 24 test cards were distributed.
+REASON         The firm has not demonstrated that their present product
+               using a pull out color chart is substantially equivalent to
+               the original color wheel chart.
+
+_______________
+PRODUCT        Cobe CMS Hardshell Oxygenator, sold as stand-alone units. 
+               Recall #Z-590-4.
+CODE           Catalog #050202-000, Lot 04Y6041.
+MANUFACTURER   Cobe Cardiovascular, Inc., Arvada, Colorado.
+RECALLED BY    Manufacturer, by telephone September 30, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Michigan, Indiana, Illinois.
+QUANTITY       20 2-unit cases were distributed.
+REASON         A potential reversal of arterial and venous sample line
+               connections may exist, which could cause an embolism to be
+               created.
+
+_______________
+PRODUCT        Sirecust 404 patient monitors with software version VJ1-BTH. 
+               The monitor measures signals for EKG, Dual EKG + RESP, SP02,
+               NIBH/NP Ventilator, pCo2 or C+C02.  Recall #Z-611-4.
+CODE           Software version VJ1-BTH.
+MANUFACTURER   Siemens Medical Systems, Inc., Danvers, Massachusetts.
+RECALLED BY    Manufacturer, by Customer Notification No. SME-CN-09-1292,
+               dated December 1992.  Firm-initiated field correction
+               ongoing.
+DISTRIBUTION   California, Tennessee, Minnesota, Illinois, Wisconsin, North
+               Carolina, Georgia, Iowa, New York, Ohio, and international.
+QUANTITY       1,240 copies of software version VJ1-BTH were distributed.
+REASON         When the device is used with software version VJ1-BTH, the
+               monitor does not alarm for asytole when an artifact alarm is
+               in effect for channel due to the presence of a cartridge in
+               the second cartridge slot of the monitor.
+
+                                   -12-_______________
+PRODUCT        Siredoc 60 recorders with software version VFO-GXX or VF1-
+               GXX, a two-channel recorder that prints timed or continuous
+               strip recordings that contain waveforms, alarm messages,
+               patient data, numerical parameter values and the date and
+               time.  Recall #Z-612-4.
+CODE           Software version VFO-GXX and VF1-GXX.
+MANUFACTURER   Siemens Medical Systems, Inc., Danvers, Massachusetts.
+RECALLED BY    Manufacturer, by letter January 12, 1994.  Firm-initiated
+               field corrections ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       1,731 units were distributed.
+REASON         When the recorder is used with either software version VFO-
+               GXX or VF1-GXX, the recorder output contains waveforms not
+               belonging to the patient currently being monitored due to
+               memory buffer interferes with real-time recording.  The
+               occurrence of such a malfunction could lead to the
+               inappropriate assessment of a patient's cardiopulmonary
+               condition.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Asserchrom Anti-Phospholipid Antibodies (APA) kits, an
+               enzyme immunoassay of anti-phospholipid antibodies for in-
+               vitro diagnostic use.  Recall #Z-546-4.
+CODE           Catalog #0443, lot numbers:  931205 and 931206.
+MANUFACTURER   Diagnostica Stago, Franconville, France.
+RECALLED BY    American Bioproducts Company, Parsippany, New Jersey, by
+               telephone September 15, 1993, followed by letter.  Firm-
+               initiated recall complete.
+DISTRIBUTION   New Mexico, Massachusetts, Texas, Tennessee, Pennsylvania,
+               Maryland.
+QUANTITY       29 kits were distributed.
+REASON         The device was found to have the negative control and the
+               cut-off control mislabeled.
+
+_______________
+PRODUCT        DSA Coordinate Indicator Anterior Plate, Part #A0860-03,
+               included in the 11/15/90, 1/24/91, and 4/24/91 shipments. 
+               Recall #Z-560-4.
+CODE           None.
+MANUFACTURER   Elekta Instruments, AB, Stockholm, Sweden.
+RECALLED BY    Elekta Instruments, Inc., Atlanta, Georgia, by telephone
+               November 12, 1991, and by letter July 13, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   California, Connecticut, New York, Pennsylvania, Texas,
+               Virginia, Wisconsin, Michigan.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Fiducial marking on some of the plates are improperly
+               placed.
+
+                                   -13-_______________
+PRODUCT        Abbott IMx CK-MB Calibrators, Controls, Mode 1 Calibrator:
+               (a) Abbott IMx CK-MB Calibrators, for calibration of IMx
+               Analyzer when used for the determination of human CK-MB, in
+               4 ml bottles, list #2207-01;
+               (b) Abbott IMx CK-MB Controls, for verification of the
+               calibration of the IMx Analyzer when used for the
+               determination of human CK-MB, in 8 ml bottles, list #2207-
+               10; (c) Abbott IMx CK-MB Mode 1 Calibrator, for in-vitro
+               diagnostic use with IMx CK-MB, in 4 ml bottles, list #2207-
+               40.  Recall #Z-578/580-4.
+CODE           Lot numbers:  (a) 71138Q100 EXP 8/4/93; (b) 70649Q100 EXP
+               8/17/93; (c) 70695Q100 EXP 8/4/93.
+MANUFACTURER   Abbott Laboratories, Diagnostics Division, Abbott Park,
+               Illinois.
+RECALLED BY    Manufacturer, by telephone beginning April 5, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       1,624 calibrator packs, 5,348 control packs and 3,534 Mode 1
+               calibrators were distributed.
+REASON         The device was found to have lost potency over time, which
+               may result in controls reading outside specifications and
+               thus giving invalid assay results.
+
+_______________
+PRODUCT        Axiom Knee Tibial Punch/Alignment Guide Handle, sizes 70-90,
+               used to prepare the tibia for implant of the Axiom Knee
+               Prosthesis.  Recall #Z-591-4.
+CODE           Catalog #2275-PG01, Lot #017540001.
+MANUFACTURER   Orthomet, Inc., Minneapolis, Minnesota.
+RECALLED BY    Manufacturer, by telephone and by letter December 22, 1993. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Kentucky, Maine, Louisiana.
+QUANTITY       3 units.
+REASON         A "dovetail" area was machined onto the wrong side of the
+               instrument which resulted in the slope being oriented in the
+               wrong direction.
+
+_______________
+PRODUCT        Abbott IMx MEIA #2 Diluent Buffer, an in-vitro diagnostic
+               reagent for use with the IMx test kits, in 1000 ml bottles,
+               list #8374.  Recall #Z-620-4.
+CODE           Lot #61061M401 EXP 1/16/93.
+MANUFACTURER   Abbott Laboratories, Diagnostics Division, Abbott Park,
+               Illinois.
+RECALLED BY    Manufacturer, by telephone April 17-27, 1992.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide, Mexico, Taiwan, Korea, France, Italy.
+QUANTITY       860 boxes (4 bottles per box) were distributed.
+REASON         The buffer was found to inappropriately contain phosphate
+               which could cause decreased rates with IMx assays.
+
+                                   -14-MEDICAL DEVICE SAFETY ALERTS: 
+============================================
+_______________
+PRODUCT        Optima Hollow Fiber Oxygenators:
+               (a) Catalog #050-212-000 Optima Open System with Integral
+               Filter;
+               (b) Catalog No. 050-214-000 Optima Open System;
+               (c) Catalog No. 050-255-000 Optima Open Adult Hollow Fiber
+               Oxygenator.  Safety Alert #N-044/046-4.
+CODE           All lots manufactured prior to lot #10Y7000.
+MANUFACTURER   Cobe Cardiovascular, Inc., Arvada, Colorado.
+ALERTED BY     Manufacturer, by letter October 27, 1993.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       3,656 units were distributed.
+REASON         Reports of air being drawn across the microporous membrane
+               into the blood side of the membrane sections have been
+               received by the firm.
+
+
+SEIZURES:
+=================================================================
+_______________
+PRODUCT        Ground Cinnamon (94-314-743).
+CHARGES        Adulterated -  The article is unfit for food by reason of
+               the presence therein of a gritty substance resembling sand;
+               and a gritty substance resembling sand has been substituted
+               in part for ground cinnamon.
+LOCATION       T. J. Harkins Basic Commodity Brokers, Inc., Addison,
+               Illinois.
+FILED          April 5, 1994; U.S. District Court for the Northern District
+               of Illinois, Eastern Division; Civil #94C 2100; FDC #66951.
+SEIZED         April 5, 1994 - goods valued at approximately $1,692.
+
+_______________
+PRODUCT        Prune Culls (93-673-113).
+CHARGE         Adulterated - The article consists in part of a filthy 
+               substance.
+LOCATION       Allied Frozen Storage, Inc., Cheektowaga, New York.
+FILED          March 2, 1994; U.S. District Court for the Western
+               District of New York; Civil #94-CV-144; FDC #66908.
+SEIZED         March 31, 1994 - goods valued at approximately $79,000.
+
+                                   -15-
+
+END OF ENFORCEMENT REPORT FOR APRIL 20, 1994.  BLANK PAGES MAY
+FOLLOW.
+                                   ####

@@ -1,0 +1,383 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  AUG
+		  Dec
+		
+		
+		
+		  
+		  15
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      31 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dm
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+01/26/1994
+
+Recalls and Field Corrections:  Foods -- Class I -- 01/26/1994
+
+January 26, 1994                                             94-4
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+==========================
+_______________
+PRODUCT        Champignon (a) Camembert Soft-Ripened Cheese and (b) Brie
+               Soft-Ripened Cheese, hermetically sealed and packaged in 4-
+               1/2 ounce cans.  Recall #F-175/176-4.
+CODE           (a) 93351 stamped on the foil wrapper inside the can and on
+               the master carton.  14064 found on 12-pack display unit; (b)
+               93323 stamped on the foil wrapper inside the can and on the
+               master.  14074 found on 12-pack display unit.
+MANUFACTURER   Kaserei Champignon, Bavaria, Germany.
+RECALLED BY    Champignon North America, Inc., Englewood Cliffs, New
+               Jersey, by, letters of October 7, 1993, and December 1,
+               1993.  Firm-initiated recall ongoing.  See also FDA press
+               release P93-44, December 7, 1993.
+DISTRIBUTION   Nationwide.
+QUANTITY       Firm estimates that as of September 23, 1993 (when
+               distribution was discontinued), 20,784 units of Camembert
+               and 19,968 units of Brie had been distributed.
+REASON         Product has the potential to support the growth of and toxin
+               production by Clostridium botulinum spores.
+_______________
+PRODUCT        Yoder's Potato Salad, in 5 pound plastic tubs.  
+               Recall #F-173-4.
+CODE           DEC09Y.
+MANUFACTURER   I & K Distributors, Inc., Delphos, Ohio.
+RECALLED BY    Manufacturer, by letter dated December 2, 1993, and by
+               telephone and or visits by December 10, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Ohio, Michigan, Illinois, Kentucky, Pennsylvania, Indiana.
+QUANTITY       Approximately 697 cases (2 units per case) were distributed;
+               firm estimates none remains on the market.
+REASON         Product is contaminated with Listeria monocytogenes.
+
+_______________
+PRODUCT        Nova Lox Spread, in 7 ounce plastic containers.  
+               Recall #F-174-4.
+CODE           12/4 on bottom of container.
+MANUFACTURER   Sabra Food Products Corporation, Brooklyn, New York.
+RECALLED BY    Manufacturer, by letter dated November 30, 1993.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   New York, Maryland.
+QUANTITY       290 units were distributed; firm estimates none remains on
+               the market.
+REASON         Product is contaminated with Listeria monocytogenes.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Kraft Velveeta Shells & Cheese, Original, Creamy Velveeta
+               Cheese Sauce and Shell Pasta, a foil laminate 6 ounce packet
+               of cheese sauce in a box with 6 ounce uncooked shell
+               macaroni, packaged as follows:
+               (a) Product #5891 - 24 individual 12 ounce boxes per case;
+               (b) Product #5891-115 -- 3-individual 12 ounce boxes shrink
+               wrapped together, 8 per case;
+               (c) Product #5391 - 48 ounce module:  4 6-ounce packets of
+               cheese sauce and 4 6-ounce packets of shell macaroni in a
+               box;
+               (d) Product #5840 - 4 6-ounce cheese sauce packets and 4 6-
+               ounce packets of shell macaroni in a box for retail sale. 
+               Recall #F-126-4.
+CODE           Cheese sauce foil packet coded 242C3 contained in the
+               following dinners:
+               (a) Best when purchased by JUN 28 94S, JUN 29 94S, JUL 07
+               94S, JUL 09 94S, JUL 10 94S, JUL 11 94S JUL 12 94S, JUL 17
+               94S, AUG 01 94S, JUN 28 94C, JUN 29 94C, JUL 04 94C, JUL 08
+               94C, JUL 24 94C, AUG 10 94C, JUL 08 94CG;
+               (b) Best when purchased by JUL 08 94CG;
+               (c) Best when purchased by JUN 30 94CG, JUL 04 94CG, JUL 05
+               94CG, JUL 07 94CG;
+               (d) Best when purchased by JUL 05 94CG.
+MANUFACTURER   Kraft USA, Division of Kraft General Foods, Inc., Champaign,
+               Illinois.
+RECALLED BY    Kraft General Foods, Inc., Glenview, Illinois, by telephone
+               November 16, 1993, followed by visit.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       123,566 cases (24 units per case) were distributed; firm
+               estimates that 20-25% of the product remained on the market
+               at time of recall.
+REASON         The firm found positive protease activity and proteolysis in
+               the product and several incidents of gastrointestinal
+               problems have been made.
+
+_______________
+PRODUCT        Smith Dairy Snickers Candy Bar Ice Cream, which consists of
+               vanilla ice  cream (flavored like candy bars) with crushed
+               Snickers bars, in 3 gallon cans.  Recall #F-172-4.
+CODE           Lot numbers:  93246, 93285, 93320.
+MANUFACTURER   Smith's Dairy Products Company, Orrville, Ohio.
+RECALLED BY    Manufacturer, by telephone December 2, 1993, followed by
+               letter.  Firm-initiated recall ongoing.
+DISTRIBUTION   Ohio.
+QUANTITY       Approximately 99 cans were distributed.
+REASON         Product contains metal fragments.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        Reno's Cheese Pizza in 2.5 ounce and 12 ounce packages.  The
+               12 ounce packages contain 2 pieces x 6 ounce pizzas.  
+               Recall #F-171-4.
+CODE           2.5 ounce - lot #M-27, N-8, and N-27; 12 ounce - lot #DEC 2,
+               DEC 20, DEC 24, and DEC 31.
+MANUFACTURER   I & K Distributors, Inc., Delphos, Ohio.
+RECALLED BY    Manufacturer, by letter dated December 6, 1993.  Firm-
+               initiated field correction ongoing.
+DISTRIBUTION   Ohio, Michigan, Illinois, Kentucky, Pennsylvania, Indiana.
+QUANTITY       118 cases x 90 pieces x 2.5 ounces and 818 cases x 12 pieces
+               x 12 ounces each were distributed; firm estimates 10 cases x
+               90 pieces x 2.5 ounces each and 100 cases x 12 pieces x 12
+               ounces each remained on market at time of recall.
+REASON         Product contains undeclared sodium erythorbate and natural
+               smoke flavoring.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Imipramine Hydrochloride USP, 25 mg, sugar coated tablets,
+               packed in bottles of 100 and 1,000, Rx for relief of
+               depression, under the Rugby label.  Recall #D-109-4.
+CODE           Control #A10092 EXP 4/94.
+MANUFACTURER   Par Pharmaceutical, Inc., Spring Valley, New York.
+RECALLED BY    Manufacturer, by letter December 30, 1993.  Firm-initiated
+               recall ongoing.
+
+DISTRIBUTION   New York.
+QUANTITY       10,896 bottles of 100 and 2,759 bottles of 1,000 were
+               distributed.
+REASON         Product does not meet dissolution specifications.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS I
+========================
+_______________
+PRODUCT        Laederal Heartstart Semi-Automatic Defibrillators,portable
+               battery powered units having an LCD monitor for displaying
+               ECG and use audio and visual messages to guide the operator
+               during use.  These units determine if the patient's
+               condition can be treated by defibrillation.  The units can
+               also be converted to manual operation:
+               (a) HS 3000 - This is the basic unit as described above. 
+               Each analysis of the patient has to be initiated by the
+               operator;
+               (b) HS 3000ATS - This model is essentially the same as the
+               HS 3000 except that it will automatically reanalyze the
+               patient after a shock is delivered for a series of 3 shocks. 
+                (c) HS 3000QR - This is a HS 3000 unit with a Quick
+               Reporter (QR) printing option added.  This option provides
+               the ability to print out an event or patient ECG.  The
+               operating instructions for this model would be those for the
+               HS 3000 model and additional instructions for the HS 3000QR. 
+               Recall #Z-722/724-3.
+CODES          The following ranges of serial numbers for each model are
+               involved, but the range of numbers is not all inclusive. 
+               HS 3000:    6205 to 6648 
+               HS 3000ATS: 1122 to 1171 
+               HS 3000QR:  6213 to 6707 
+               These are the serial numbers of units manufactured from the
+               initial receipt of the suspect control boards (approximately
+               9-92 to 3-3-93). 
+MANUFACTURER   Siemens Electronics Malaysia, Penang, Malaysia (component).
+RECALLED BY    Laerdal Manufacturing Corp. (LMC), Tualatin, Oregon, by
+               letter May 10, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       545 units.
+REASON         Potential for failure of the optocoupler because of its
+               susceptibility to the effects of elevated temperature.  Such
+               failure will render the device inoperable with a "check
+               electrode" message that cannot be cleared.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Puritan-Bennett Companion Aluminum Cylinder Valve, Part
+               #231547, designed to act as a safety relief for the pressure
+               in the oxygen cylinders.  Recall #Z-175-4.
+CODE           339.
+MANUFACTURER   Puritan-Bennett, Lenexa, Kansas.
+RECALLED BY    Manufacturer, by telephone on or before October 11, 1993. 
+               Firm-initiated complete.
+DISTRIBUTION   Kansas, Tennessee, California.
+QUANTITY       103 units were distributed.
+REASON         An incorrect rupture disk, rated at 4500-5000 PSIG, was used
+               in the valve.  The correct rupture disk is rated at 3300
+               PSIG.
+
+_______________
+PRODUCT        Software Versions 3.03.10 and 1.03.03 used in Model 90489
+               Spacelabs Pulse Oximetry Modules, Models 90465/66/67 Pulse
+               Oximetry/Non-Invasive Blood Pressure Modules, and Model
+               90651A-08 Monitor with 12 pin pulse oximetry input
+               connectors.  Recall #Z-189-4.
+CODE           All codes/serial numbers.
+MANUFACTURER   Spacelabs Medical Inc., Hillsboro, Oregon (Model 90651A-08);
+               Spacelabs Medical, Inc., Chatsworth, California (all other
+               models).
+RECALLED BY    Spacelabs Medical, Inc., Redmond, Washington, by letter June
+               23, 1993.  Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       15,820 units.
+REASON         A software error may cause erroneous, low oxygen saturation
+               levels to be indicated when a patient being monitored with
+               Nellcor sensors has an actual saturation level of 99-100%.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS I
+============
+_______________
+PRODUCT        Nonmedicated and medicated animal feed base mixes, Type B,
+               Category I and II; and complete nonmedicated and medicated
+               animal feeds fed as free choice minerals as follows: 
+               (a) F & F Feeds Pasture Mineral CTC, 50-lb. bags, product
+               #NAACJ 8061 
+               (b) F & F Feeds Hy-Ly Amino Base, 50-lb. bags, product
+               #NAAEJ 
+               (c) F & F Feeds 10% Phos Base G-F (animal feed base mix),
+               50-lb. bags, product #NAABU 
+               (d) F & F Feeds Pasture Mineral (free choice pasture
+               mineral), 50-lb. bags, product #NAACP 8060 
+               (e) F & F Feeds Pig Base Concentrate B-M, 50-lb. bags,
+               product #NAACA 
+               (f) F & F Feeds Hog Finisher Base Premium, 50-lb. bags,
+               product #NAABY 
+               (g) F & F Feeds Hog Finisher Base Premium PS, 50-lb. bags,
+               product #NAABV 8033 
+               (h) F & F Feeds Sow Lactation Premium, 50-lb. bags, product
+               #NAABX 43 
+               (i) F & F Feeds Pig Base 60, 50-lb. bags, product #NAAAL 
+               (j) F & F Feeds Pig Starter Base Plus M, 50-lb. bags,
+               product #NAAFI 
+               (k) F & F Feeds Pasture Mineral-BOV, 50-lb. bags, product
+               #NAACB 
+               (l) F & F Feeds Feedlot Finisher 1-11 B, 50-lb. bags,
+               product #NAABZ 8079 
+               (m) F & F Feeds Silage Starter-90, 50-lb. bags, product
+               #NAACM 
+               (n) F & F Feeds Nursery Concentrate, 50-lb. bags, product
+               #NAAAE-FF 
+               (o) F & F Feeds Sow Base 70, 70-lb. bags, product #NAABW 
+               (p) F & F Feeds Sow Gestation, 40-lb. bags, product #NAACF 
+               (q) F & F Feeds Pig Starter Concentrate PL, 50-lb. bags,
+               product #NAACN 8001 
+               (r) F & F Feeds Pasture Mineral CTC with Rabon, 50-lb. bags,
+               product #NAAFF 8061 
+               (s) F & F Feeds Hi-Phos Dry Cow Premix, 50-lb. bag, product
+               #NAAEV 8090 
+               (t) F & F Feeds Sheep Mineral, 50-lb. bag, product #NAACR
+               8095 
+               (u) F & F Feeds Oklahoma Wheat Pasture Mineral, 50-lb. bag,
+               product #NAAEK 
+               (v) F & F Feeds Receiving Ration B-5, 50-lb. bag, product
+               #NAAEL.   Recall #V-007/028-4.
+  CODE         Undetermined.  Product manufactured from June through
+               September 1993.
+MANUFACTURER   National Additives, Inc., Liberty, Missouri.
+RECALLED BY    Manufacturer verbally notified distributors to cease
+               distribution on September 27, 1993.  Follow-up letter dated
+               November 20, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Kansas, Nebraska, Oklahoma.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Possible contamination with high concentrations of selenium
+
+                                    -6-
+END OF ENFORCEMENT REPORT FOR JANUARY 26, 1994.  BLANK PAGES MAY
+FOLLOW.
+                                   ####

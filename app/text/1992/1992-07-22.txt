@@ -1,0 +1,815 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      31 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+07/22/1992
+
+RECALLS AND FIELD CORRECTIONS: July 22, 1992
+
+                                   FOODS - CLASS I
+                                                                  92-30
+              
+PRODUCT        Butter and Butterine (60% butter and 40% margarine), various     
+               brands, various weights in portion control sizes in 5 gm         
+               weights, cups in 5 gm portions, continentals (foil wrapped       
+               pieces), in 7-1/2 to 10 gm portions, and reddies (cardboard      
+               bottom/paper hat) in 5 gm portions and two bulk sizes of         
+               butter, 10 pound or 68 pound:
+               (a) Butter Continentals;
+               (b) Butter Readies;
+               (c) Butter Cups;
+               (d) Whipped Butter Cups;
+               (e) Unsalted Butter Continentals;
+               (f) Butterine Readies;
+               (g) Butterine Continentals;
+               (h) Butterine Patties;
+               (i) AA Butter Bulk;
+               (j) AA Unsalted Butter Bulk;
+               (k) A Butter Bulk;
+               (l) Unsalted Butter Bulk;
+               (m) Butterine Bulk.  Recall #F-398/410-2.
+               Brand names of portion control sizes are as follows:
+               a.  Gilt Edge 47 Cut Continentals
+               b.  Gilt Edge 59 Cut Continentals
+               c.  Margate 47 Cut Continentals
+
+                                       
+               d.  Margate 108 Cut Reddies
+               e.  Margate 90 Cut Reddies
+               f.  Margate 90 Ct. Cups
+               g.  Margate 90 Ct. Whip Cups
+               h.  Meadow Gold 90 Cut Reddies
+               i.  Mortenson's 90 Cut Reddies
+               j.  Oak Farms 47 Cut Continentals
+               k.  SS Pierce 59 Cut Continentals
+               l.  Portion Pac 90 Cut Reddies
+               m.  Portion Pac 108 Cut Reddies
+               n.  Portion Pac 72 Ct. Cups
+               o.  Portion Pac 90 Ct. Cups
+               p.  Portion Pac 47 Cut Continentals
+               q.  Portion Pac Unsalted 47 Cut Continentals
+               r.  Portion Pac 59 Cut Continentals
+               s.  Portion Pac 60/40 Cut Reddies
+               t.  Portion Pac 60/40  59 Cut Continentals
+               u.  Portion Pac 60/40  90 Cut Patties
+               v.  SYSCO 47 Cut Continentals
+               w.  SYSCO 59 Cut Continentals
+               x.  Velda Farms 47 Cut Continentals
+               Bulk descriptions are as follows:
+               a.  10# AA Bulk
+               b.  10# AA Unsalted Bulk
+               c.  10# WIS AA Unsalted Bulk
+               d.  68# WIS A Bulk
+               e.  68# WIS AA Bulk
+               f.  68# WIS AA Unsalted Bulk
+               g.  68# AA Bulk
+               h.  68# Margate AA Bulk
+               i.  68# Margate Unsalted Bulk
+               j.  68# 60/40 Butterine Bulk
+               k.  68# Food Service Bulk
+CODE           All bulk butter manufactured on 1/24-30/92 and 3/18-23/92        
+               (codes 92024 through 92030 and 92078 through 92083.  All butter  
+               chips, butter portions and butterine portions made from the      
+               bulk churned on 1/24-30/92 and 3/18-23/92 were recalled.
+MANUFACTURER   Zander's Creamery, Inc., Cross Plains, Wisconsin.
+RECALLED BY    Manufacturer, by letters dated March 14, 24, March 27, 1992,     
+               April 14 and 15, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Arizona, California, Florida, Illinois, Maryland,                
+               Massachusetts, Michigan, Minnesota, Mississippi, Missouri, New   
+               Jersey, Ohio, Wisconsin.
+QUANTITY       Firm estimates that little remains on the market due to rapid    
+               consumption.
+REASON         Products are contaminated with Listeria monocytogenes.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS - CLASS II
+              
+PRODUCT        Imported (Ecuador) Fresh Headed and Gutted Tuna Fish.
+               Recall #F-331-2.
+CODE           Uncoded.
+
+                                      -2-
+MANUFACTURER   Chamega S.A., Guayaquil, Ecuador.
+RECALLED BY    E.D.E. International, Inc., Miami, Florida, by letter May 7,     
+               1992.  Firm-initiated recall complete.
+DISTRIBUTION   Florida.
+QUANTITY       1,963 pounds were distributed.
+REASON         Product contains excessive levels of histamine.
+
+              
+PRODUCT        Tree Ripe brand Lemonade in 16 ounce cardboard cartons.
+               Recall #F-421-2.
+CODE           Sell By 5-25Al, 6-10A1, 6-17A1.
+MANUFACTURER   Tuscan Dairy Farms, Inc., Union, New Jersey.
+RECALLED BY    Manufacturer, by letter May 14, 1992.  Firm-initiated recall     
+               complete.
+DISTRIBUTION   Northeastern United States.
+QUANTITY       160 cases (42 units per case) were distributed; firm estimates   
+               none remains on the market.
+REASON         Product contains undeclared FD&C; Yellow No. 5.
+
+              
+PRODUCT        La Cena Pineapple Syrup, in 24 ounce glass bottles.
+               Recall #F-422-2.
+CODE           None.
+MANUFACTURER   Halcon Baker, Inc., Caguas, Puerto Rico.
+RECALLED BY    La Cena Fine Foods, Ltd., Saddle Brook, New Jersey, by           
+               telephone on or about September 19, 1991.  Firm-initiated        
+               recall ongoing.
+DISTRIBUTION   New York, New Jersey, Pennsylvania, Massachusetts, Connecticut.
+QUANTITY       7,068 bottles were distributed.
+REASON         Product contains undeclared FD&C; Yellow No. 5.
+
+              
+UPDATE         Classification for Recall #F-371/392-2, various frozen baked     
+               goods or frozen products used as ingredients in the manufacture  
+               of baked goods, manufactured by Rich Products Corporation,       
+               Buffalo, New York has been changed from Class III to Class II.   
+               This action appeared in the July 15, 1992 Enforcement Report.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS - CLASS III
+              
+PRODUCT        Herdez brand Mexican Green Sauce, in 7 ounce metal cans, used    
+               as a dip, in tacos, enchiladas, eggs and meats, etc.
+               Recall #F-395-2.
+CODE           All lots with codes beginning with K12 through K18.
+MANUFACTURER   Herdez, S.A. De C.V., Mexico, D.E.
+RECALLED BY    Festin Food Corporation, Carlsbad, California, by letter April   
+               28, 1992.  Firm-initiated recall ongoing.
+
+                                      -3-
+DISTRIBUTION   Arizona, Arkansas, California, Colorado, Florida, Georgia,       
+               Hawaii, Idaho, Iowa, Illinois, Indiana, Louisiana, Minnesota,    
+               North Carolina, Nevada, New York, Oregon, Texas, Utah,           
+               Virginia, Washington state.
+QUANTITY       109,559 cases were distributed.  On May 15, 1992 firm estimated  
+               that 500 cases remained on the market.
+REASON         Product is contained in swollen cans.
+
+              
+PRODUCT        Spaghetti Sauce in 6 pound and 10 ounce metal cans, under the    
+               following labels:  Cento Spaghetti Sauce, Monarch Spaghetti      
+               Sauce, Nugget Spaghetti Sauce; Nugget Nutri Gold Spaghetti       
+               Sauce No Salt or Sugar Added.  Recall #F-396/397-2.
+CODE           Product codes:  1153 CM12, 1153 C18M, 1153 C19M.
+MANUFACTURER   DiLullo and Son, Westville, New Jersey, by telephone October 21  
+               & 24, 1991, followed by letter December 27, 1991.                
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Connecticut, New Jersey, Pennsylvania.
+QUANTITY       240 cases were distributed; firm estimated that 29 cases         
+               remained on market at time of recall initiation.
+REASON         Product is contained in swollen and exploding cans.
+
+              
+PRODUCT        Hi-C Fruit Drinks in 46 ounce cans:
+               (a) Boppin Berry; (b) Cherry; (c) Double Fruit Cooler;
+               (d) Ecto Cooler; (e) Fruit Juice; (f) Fruity Bubble Gum;
+               (g) Grape Drink; (h) Hula Cooler Drink; (i) Hula Punch;
+               (j) Orange Drink; (k) Peach; (l) Wild Berry Drink.
+               Recall #F-423/434-2.
+CODE           All lots manufactured from May 25, 1992 through June 5, 1992.
+MANUFACTURER   Coca-Cola Foods, Hightstown, New Jersey.
+RECALLED BY    Coca-Cola Foods, Houston, Texas, by visit June 19, 1992.         
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Connecticut, New Jersey, New York, Pennsylvania.
+QUANTITY       4,287,800 cases (12 units per case) were distributed.
+REASON         Product has defective can seams.
+
+
+RECALLS AND FIELD CORRECTIONS:  COSMETICS - CLASS III
+              
+PRODUCT        So White & Lite Ultra Frosting & Highlighting Bleach, in 1 and   
+               2 pound boxes.  Recall #F-226-2.
+CODE           All lots.
+MANUFACTURER   Hair Systems, Inc., Englishtown, New Jersey.
+RECALLED BY    Matrix Essentials, Inc., Solon, Ohio, by telephone and Fax May   
+               5, 1992, followed by letter May 6, 1992.  Firm-initiated recall  
+               ongoing.
+DISTRIBUTION   Nationwide, Canada, United Kingdom, Italy, Australia.
+QUANTITY       6,636 1-pound boxes and 13,224 2-pound boxes were distributed.
+REASON         Heat from product reaction damages the hair and skin.
+
+
+                                      -4-
+RECALLS AND FIELD CORRECTIONS:  DRUGS - CLASS I
+              
+PRODUCT        (a) Magnesium-ATP in glass vials, l00 micromoles/cc, l0 ml       
+               vials, and all other sizes, an injectable product;
+               (b) Unlabeled clear glass vials containing hydrocortisone        
+               sodium succinate in 30 mg and l0 ml sizes.  Includes all sizes   
+               and lot numbers. (Lyophilized product to be reconstituted for    
+               injection).  Recall #D-411/412-2.
+CODE           All lot numbers.
+MANUFACTURER   For Your Health, Inc., Kent, Washington.
+RECALLED BY    Manufacturer, by letters dated July 7 or 8, 1992.  FDA           
+               requested recall ongoing. (See Press release P92-18, June 19,    
+               1992.
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+REASON         Non-sterility.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS - CLASS II
+              
+PRODUCT        Various injectable products, lyophilized products to be          
+               reconstituted for injection and Vitamin A & C eyedrops:
+               (a) Chromium liquid in glass vials, l00 mcg/ml, 100 ml vials,    
+               to include all other sizes and lot numbers. (injectable          
+               product); 
+               (b) Copper liquid in glass vials, 2 mg/ml, l00 ml vials, to
+               include all other sizes and lot numbers.  (injectable product);
+               (c) Manganese liquid in glass vials, l00 mcg/ml, l00 ml vials,   
+               to include all other sizes and lot numbers.  (injectable         
+               product);
+               (d) Molybdenum in glass vials, l00 mcg/ml, l00 ml vials, to
+               include all other sizes and lot numbers.  (injectable product);
+               (e) Selenium liquid in glass vials, 200 mcg/ml, l00 ml vials,    
+               to include all other sizes and lot numbers.  (injectable         
+               product);
+               (f) Vanadium liquid in glass vials, 200 mcg/ml, l00 ml vials,    
+               to include all other sizes and lot numbers.  (injectable         
+               product);
+               (g) Zinc liquid in glass vials, l0 mcg/ml, l00 ml vials, to      
+               include all other sizes and lot numbers.  (injectable product);
+               (h) Trace Mineral in glass vials, l00 ml, to include all other   
+               sizes and lot numbers.  (injectable product);
+               (i) Vitamin A & C eyedrops, Liquid (possibly yellow in color)    
+               in plastic eyedrop bottles.  The bottles include all sizes and   
+               all lot numbers;
+               (j) Saline Solution in l00 ml glass vials possibly labeled       
+               "Normal Saline 0.9% NaCl" followed by a batch number.  Product   
+               includes all sizes and all lot numbers.  (injectable product);
+               (k) Glutathione in glass vials possibly labeled in part,         
+               "Glutathione 600mg/vial" followed by a lot number and an EXP 
+
+                                      -5-
+               date.  Product includes all sizes and lot numbers.               
+               (Lyophilized product to be reconstituted for injection).         
+               Recall #D-413/423-2.
+CODE           All lot numbers.
+MANUFACTURER   For Your Health, Inc., Kent, Washington.
+RECALLED BY    Manufacturer, by letters dated July 7 or 8, 1992.  FDA           
+               requested recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+REASON         Lack of assurance of sterility.
+
+              
+PRODUCT        (a) Acetaminophen, 80 mg per 1/2 teaspoon, labeled Children's
+               Non-aspirin Elixir, Cherry Flavored in 4 fluid ounce bottles     
+               under the following labels:  Mediguard, Spectrum, Life Line,     
+               Bi-Mart, Valco, Scolari's, IGA, Basha's, Erickson's, Med-Plus,   
+               Source, Hy-Top;
+               (b) Acetaminophen, 80 mg per 1/2 teaspoon, labeled Children's
+               Non-aspirin Elixir, Grape Flavored, in 4 fluid ounce bottles     
+               under the following labels:  Mediguard, Med-Plus, Hy-Top;
+               (c) Acetaminophen, 80 mg per 0.8 ml, labeled Infants             
+               Non-aspirin Drops, Fruit Flavored in 1/2 fluid ounce bottles,    
+               with droppers, under the following labels:  Mediguard,           
+               Life-Line, Bi-Mart, Scolari's, Hy-Top.  Recall #D-424/425-2.
+CODE           (a) All lots shipped between October 1, 1991 through February    
+               26, 1992.  All products specifically identified with product     
+               number 8351-810-## for Acetaminophen, 80 mg per 1/2 teaspoon,    
+               cherry flavored.  "##" designates brand type as follows:
+               - 01  Mediguard                - 16  Basha's
+               - 02  Spectrum                 - 31  Erickson's
+               - 03  Life-Line Pharmaceutical - 44  Med-Plus
+               - 05  Bi-Mart                  - 55  Source
+               - 06  Valco                    - 60  Mediguard
+               - 07  Scolari's                - 73  Hy-Top
+               - 13  IGA
+               (b) All lots shipped between October 1, 1991 through February    
+               26, 1992.  All products specifically identified with product     
+               number 8360-810-## for Acetaminophen, 80 mg per 1/2 teaspoon,    
+               grape flavored.   "##" designates brand type as follows:
+               -01  Mediguard
+               -44  Med-Plus
+               -73  Hy-Top
+               (c) All lots shipped between October 1, 1991 through February    
+               26, 1992.  All products specifically identified with product
+               number 7180-802- for Acetaminophen, 80 mg per 0.8 ml, fruit
+               flavored, "##" designates brand type as follows:
+               - 01 Mediguard                    - 07 Scolari's
+               - 03 Life-Line Pharmaceuticals    - 73 Hy-Top
+               - 05 Bi-Mart.
+MANUFACTURER   Life-Line Nutritional Products, Inc, Hayward, California.
+RECALLED BY    Manufacturer, by telephone between February 28, 1992 to March    
+               2, 1992 with a follow letter March 6, 1992.  Firm-initiated      
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+                                      -6-
+QUANTITY       (a) 7,216 units; (b) 3,312 units; (c) 18,672 units were          
+               distributed.
+REASON         (a&b;) Markings on dosage cups not totally compatible with label  
+               dosage instruction.
+               (c) Labeling provides dosage information not in accordance with  
+               Regulation.21.
+
+              
+PRODUCT        Tobramycin Sulfate Injection USP: (a) 10 mg/ml, 2 ml multiple    
+               dose vial shipped as 25-2 ml vial shelf packs.
+               (b) 40 mg/ml, 2 ml multiple dose vial shipped as 25-2 ml vial    
+               shelf packs.
+               (c) 40 mg/ml, 30 ml multiple dose vial shipped as individual 30  
+               ml vials.
+               (d) 40 mg/ml, 2ml syringe shipped as 25-2 ml syringe shelf       
+               packs, injectable prescription sterile solutions for             
+               intramuscular or intravenous use as an antibiotic.
+               Recall #D-426/427-2.
+CODES          Lot numbers:  (a) 022304 EXP 8/93;
+               (b) 022302 EXP 8/93; (c) 022162 EXP 8/93; (d) 022024 EXP 8/93.
+MANUFACTURER   Elkins-Sinn, Inc., subsidiary of A. H. Robins Company, Cherry    
+               Hill, New Jersey.
+RECALLED BY    Manufacturer, by letter June 16, 1992.  Firm-initiated recall    
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 12,550 2-ml vials manufactured and shipped as 502 25-unit    
+               shelf packs, firm estimates 645 2-ml vials remain on the market.
+               (b) 129,800 2-ml units shipped as 5,192 25-2 ml vials shelf      
+               packs; firm estimates 13,560 2-ml vials remain on the market.
+               (c) 14,650 2-ml syringe units shipped as 586 25 2-ml syringe     
+               shelf packs; firm estimates 1395 2 ml-syringes remain on the     
+               market.
+               (d) 8,820 30-ml units packaged individually were distributed;    
+               firm estimates 593 30-ml vials remain on the market.
+REASON         Products distributed prior to process validation.
+
+              
+PRODUCT        Zantac (ranitidine hydrochloride) injection, 50 mg, 25 mg/ml,    
+               in 2 ml single dose, syringe,  Recall #D-428-2.
+CODE           Lot #lGl375, EXP Nov l992.
+MANUFACTURER   Survival Technology Inc. (Manufacturer), Bethesda, Maryland.
+RECALLED BY    Glaxo, Inc., Zebulon, North Carolina (own label distributor),    
+               by telephone July 1, 1992, followed by letter July 9, 1992.      
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       8,487 cartons were distributed; firm estimates 7,827 cartons     
+               remain on the market.
+REASON         Several unit cartons of Zantac contained 2 ml syringes of        
+               Toradol.
+                                      -7-
+              
+PRODUCT        Oral Morphine Solution, 10 mg/5 ml, in 120 ml bottles, a Rx and  
+               DEA Schedule II controlled substance for relief of moderate to   
+               severe pain.  Recall #D-430-2.
+CODE           Lot #WAO.
+MANUFACTURER   P.F. Laboratories, Totowa, New Jersey.
+RECALLED BY    The Purdue Frederick Company, Inc., Norwalk, Connecticut, by     
+               telephone June 18-19, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       3,600 bottles were distributed.
+REASON         A bottle of 10 mg/5 ml strength was labeled as 20 mg/5 ml        
+               strength.
+
+
+              
+UPDATES        Various injectable drug products, manufactured by Lyphomed,      
+               Division of Fujisawa USA, Inc., Recall #D-365/371-2, which       
+               originally appeared in the June 10, 1992 Enforcement Report and  
+               as an update in the July 2, 1992 Enforcement Report, has been    
+               extended a second time as follows:  Sodium Chloride Injection,   
+               USP, 0.9% has been extended to include lot numbers 320073 EXP    
+               1/94 and 311312 EXP 12/93.
+
+               Various injectable drug products, manufactured by Lyphomed,      
+               Division of Fujisawa USA, Inc., Recall #D-401/403-2, which       
+               appeared in the July 2, 1992 Enforcement Report has been         
+               extended as follows: Gentamicin Sulfate Injection, USP           
+               (Pediatric), has been extended to include lot #320049 EXP 1/94.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS - CLASS III
+              
+PRODUCT        Theo-Organidin Elixir, a Brochodilator Mucolytic-Expectorant     
+               available by prescription, a clear amber liquid, in 1 pint       
+               bottles.  Recall #D-429-2.
+CODE           All codes on product's immediate label or bottle or on 16 ounce  
+               bottles.   Lot #2A6003B, LB-051E8-05 (LABEL Code).
+MANUFACTURER   Denver Chemical Inc., Subsidiary of CW Inc., Humacao, Puerto     
+               Rico 
+Recalled by    Carter Wallace, Cranbury, New Jersey, by telephone May 12 and    
+               14, 1992, followed by letter May 18, 1992.  Firm-initiated       
+               recall ongoing.
+DISTRIBUTION   New Jersey, Illinois, Nevada, Georgia, Puerto Rico.
+QUANTITY       3,244 bottles were distributed.
+REASON         Label error - label declares tablespoon as 5 ml instead of
+               15 ml.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS - CLASS II 
+              
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Cryoprecipitated AHF;
+               (d) Fresh Frozen Plasma; (e) Recovered Plasma.
+               Recall #B-334/338-2.
+
+                                      -8-
+CODE           Unit numbers:  (a) 1811569, 4469193, 4509310, 5185597, 5826321,  
+               5828515, 7107214, 7238501, 7274641, 7395125, 7396738, 7451251,   
+               7488335
+               (b) 4509310, 5828515, 7238501, 7395125;
+               (c) 4509310, 5828515, 7274641, 7396738;
+               (d) 7395125, 7451251, 7488335;
+               (e) 1811569, 4469193, 4509310, 5185597, 5826321, 5828515,        
+               7107214, 7238501, 7274641, 7396738.
+MANUFACTURER   J. K. and Susie L. Wadley Research Institute and Blood Bank      
+               Dallas, Texas.
+RECALLED BY    Manufacturer, by letters dated July 23, 1991, October 25, 1991,  
+               December 12 and 30, 1991, January 29, 1992, February 18, 1992,   
+               March 23, 1992, April 21, 1992, and May 22, 1992.                
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Texas, Florida, California, New Jersey.
+QUANTITY       (a) 13 units; (b) 4 units; (c) 4 units; (d) 3 units;
+               (e) 10 units were distributed.
+REASON         Blood products, which either had the identical unit number as    
+               another product of the same type, or tested negative for all     
+               required viral markers, but were collected from donors who 1)    
+               previously tested repeatedly reactive for the antibody to human  
+               immunodeficiency virus type 1 (anti-HIV-1); 2) participated in   
+               high risk behavior; 3) reported receiving a blood transfusion;   
+               4) reported a history of hepatitis; or 5) received treatment     
+               for rabies, were distributed.
+
+              
+PRODUCT        Recovered Plasma.  Recall #B-340-2.
+CODE           Unit #24-08576.
+MANUFACTURER   Huron Regional Medical Center, Huron, South Dakota.
+RECALLED BY    Manufacturer, by telephone February 14, 1992, followed by        
+               letter February 25, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Pennsylvania.
+QUANTITY       1 unit.
+REASON         Recovered Plasma, which tested repeatedly reactive for the       
+               antibody to the hepatitis C virus (anti-HCV) and which was       
+               distributed for further manufacture into non-injectable          
+               products, was not labeled as reactive for anti-HCV.
+
+              
+PRODUCT        Red Blood Cells.  Recall #B-341-2.
+CODE           Unit #LM37104.
+MANUFACTURER   The Blood Center of Southeastern Wisconsin, Milwaukee,           
+               Wisconsin. 
+RECALLED BY    Manufacturer, by visit April 16, 1991.  Firm-initiated recall    
+               complete.
+DISTRIBUTION   Wisconsin.
+QUANTITY       1 unit.
+REASON         Blood product, which tested negative for the antibody to human   
+               immunodeficiency virus type 1 (anti-HIV-1), but was collected    
+               from a donor who previously tested repeatedly reactive for       
+               anti-HIV-1, was distributed.
+
+                                      -9-
+              
+PRODUCT        Red Blood Cells.  Recall #B-342-2.
+CODE           Unit numbers:  40FE94047, 40FZ02611.
+MANUFACTURER   American Red Cross Blood Services, Peoria, Illinois.
+RECALLED BY    Manufacturer, by telephone February 12, 1992, followed by        
+               letter March 6, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       2 units.
+REASON         Blood products, improperly tested for the antibody to human      
+               immunodeficiency virus type 1 (anti-HIV-1), were distributed.
+
+              
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Fresh Frozen Plasma.     
+               Recall #B-346/348-2.
+CODE           Unit #56919.
+MANUFACTURER   Metropolitan Washington Blood Banks, Inc., Sliver Spring,        
+               Maryland.
+RECALLED BY    Manufacturer, by letter February 26, 1992.  Firm-initiated       
+               recall complete.
+DISTRIBUTION   Washington, D.C.
+QUANTITY       1 unit of each component.
+REASON         Blood products, collected from a donor who previously tested     
+               repeatedly reactive for the antibody to the human                
+               immunodeficiency virus type 1 (anti-HIV-1), were distributed.
+
+              
+PRODUCT        Platelets.  Recall #B-353-2.
+CODE           Unit #MU25703.
+MANUFACTURER   East Texas Blood Center, Inc., Nacogdoches, Texas.
+RECALLED BY    Manufacturer, by telephone June 27, 1990.  Firm-initiated        
+               recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       1 unit.
+REASON         Blood product, which tested positive for rapid plasma reagin     
+               (RPR/syphillis), was distributed.
+
+              
+PRODUCT        Platelets.  Recall #B-354-2.
+CODE           Unit #49FF01374.
+MANUFACTURER   American Red Cross Blood Services, Wichita Falls, Texas.
+RECALLED BY    American Red Cross Blood Services, Tulsa, Oklahoma, by           
+               returning the unit to ARC, Tulsa on January 10, 1992.            
+               Firm-initiated recall complete.
+DISTRIBUTION   Oklahoma.
+QUANTITY       1 unit.
+REASON         Blood product labeled with the incorrect expiration date was     
+               distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS - CLASS III
+              
+PRODUCT        Platelets.  Recall #B-339-2.
+CODE           Unit #7764646.
+
+                                     -10-
+MANUFACTURER   J. K. and Susie L. Wadley Research Institute and Blood Bank,     
+               Dallas, Texas.
+RECALLED BY    Manufacturer, by letters dated July 23, 1991, October 25, 1991,  
+               December 12 and 30, 1991, January 29, 1992, February 18, 1992,   
+               March 23, 1992, April 21, 1992, and May 22, 1992.                
+               Firm-initiated recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       1 unit.
+REASON         A unit of platelets, labeled with the identical unit number as   
+               another unit of platelets, was distributed.
+
+              
+PRODUCT        Platelets.  Recall #B-356-2.
+CODE           Unit #42Y06963.
+MANUFACTURER   American Red Cross, Cleveland, Ohio.
+RECALLED BY    Manufacturer, by December 18, 1990.  Firm-initiated recall       
+               complete.
+DISTRIBUTION   Ohio.
+QUANTITY       1 unit.
+REASON         Blood product, not tested for the antibody to human              
+               immunodeficiency virus type 1 (anti-HIV-1), was distributed.
+
+              
+PRODUCT        Red Blood Cells.  Recall #B-358-2.
+CODE           Unit #27029-4057.
+MANUFACTURER   United Blood Services, Hot Springs, Arizona.
+RECALLED BY    United Blood Services, Texarkana, Texas, by telephone on or      
+               about April 8, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Arizona.
+QUANTITY       1 unit.
+REASON         Blood product labeled with an incorrect expiration date was      
+               distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES - CLASS I
+             
+UPDATE         Recall #Z-772-2, VIP Bird Infant/Pediatric Ventilator, Part      
+               #15003, which appeared in the July 15, 1992 Enforcement Report,  
+               inadvertently located under the Class III drug category, is a    
+               Class I recall.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES - CLASS II
+              
+PRODUCT        Soft Thoracic Catheter, size FR 16, used as an accessory to a    
+               Thoracic Drainage System.  Recall #Z-857-2.
+CODE           Catalog #DSTC 16S, lot #02131.
+MANUFACTURER   Mallinckrodt Anesthesiology, Argyle, New York.
+RECALLED BY    Deknatel, Inc., Fall River, Massachusetts, by letter May 14,     
+               1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       897 units were distributed.
+REASON         The blue tip of the catheter may become dislodged during use.
+
+
+                                     -11-
+              
+PRODUCT        Soft Thoracic Catheter, size FR 32, used as an accessory to a    
+               Thoracic Drainage System.  Recall #Z-858-2.
+CODE           Catalog #DSTC 32S, lot numbers:  02478, 02358, 02371A, 02371B.
+MANUFACTURER   Mallinckrodt Anesthesiology, Argyle, New York.
+RECALLED BY    Deknatel, Inc., Fall River, Massachusetts, by letter April 22,   
+               1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Canada, Europe.
+QUANTITY       7,380 units were distributed; firm estimates very few units      
+               remain on the market.
+REASON         The blue tip of the catheter may become dislodged during a       
+               routine chest drainage procedure.
+
+              
+PRODUCT        Mega Mini Lab Series E-Z Lumbar Puncture Kits:
+               (a) Sterile  Lumbar Puncture Kit, Infant, Catalog #B21001;
+               (b) Sterile  Lumbar Puncture Kit, Infant/Child Catalog #B21002;
+               (c) Sterile  Lumbar Puncture Kit, Child, Catalog #B21003;
+               (d) Sterile  Lumbar Puncture Kit, Adult, Catalog #B21004;
+               (e) Sterile  Lumbar Puncture Kit, Adult, Catalog #B21005;
+               (f) Sterile  Lumbar Puncture Kit, Adult, Catalog #B21006.        
+               Recall #Z-859/864-2.
+CODE           Lot 911143 EXP 11/93.
+MANUFACTURER   Mega Medical, Inc., Tampa, Florida.
+RECALLED BY    Manufacturer, by letter on or about April 9, 1992.               
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Colorado, Florida, Utah, Alabama, Pennsylvania, Georgia,         
+               Wisconsin, Missouri, Virginia, Washington, D.C.
+QUANTITY       353 kits were distributed.
+REASON         The sterility of the device has been compromised by loss of      
+               package integrity or lack of adequate sterilization.
+
+              
+PRODUCT        Prosorba Column, used as a plasma filter for the treatment of    
+               Idiopathic Thrombocytopenic Purpura (ITP).  Recall #Z-865-2.
+CODE           l23l9lA, l23l9lB, l23l9lC, l23l9lD, l23l9lE, 0l0292A, 0l0292B,   
+               0l0292C, 0l0292D, 0l0292E, 0l2892A.
+MANUFACTURER   IMRE Corporation, Seattle, Washington (manufacturer).
+               Melrath Gasket, Philadelphia, Pennsylvania (component supplier).
+RECALLED BY    Manufacturer, by telephone May 12, 1992, followed by letter.     
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       414 units were distributed.
+REASON         Columns may leak.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES - CLASS III
+              
+PRODUCT        Schneider Teflon Fixed Core .025 inches, 145 cm, Straight Tip    
+               Guidewires, used to percutaneously deliver a diagnostic          
+               catheter to a specific part of the body.  Recall #Z-866-2.
+
+                                     -12-
+CODE           Lot numbers:  17999, 18342, 18890.
+MANUFACTURER   Schneider Pittsburgh, Inc., Pittsburgh, Pennsylvania.
+RECALLED BY    Manufacturer, by telephone March 5, 1992 followed by letter      
+               March 6 and 12, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Florida, Texas.
+QUANTITY       Firm estimates none remains on the market.
+REASON         One shelf box, labeled as moveable core guidewires, contained    
+               packages labeled as moveable core guidewires but were actually   
+               fixed core guidewires.
+
+MEDICAL DEVICE SAFETY ALERTS
+              
+PRODUCT        Medtronic SynchroMed Pumps, designed to contain and to           
+               administer parenteral drugs to specific sites:
+               (a) SynchroMed Model 8615 Implantable Infusion Pump with Filter  
+               and Attached Access Port;
+               (b) SynchroMed Model 8611H Drug Administration Device with       
+               Model 8500-1 Access Port added as an accessory.
+               Safety Alert #M-061/062-2.
+CODE           All serial numbers.
+MANUFACTURER   Medtronic, Inc., Neurological Division, Minneapolis, MN
+ALERTED BY     Manufacturer, by letter June 15, 1992.
+DISTRIBUTION   Nationwide, Argentina, Australia, Canada, Hong Kong, Japan,      
+               Mexico, The Netherlands.
+QUANTITY       (a) 900 units; (b) 1,533 units were distributed.
+REASON         Drugs intended for the pump reservoir were inadvertently         
+               injected into the catheter access port during a refill           
+               procedure. 
+
+MASS SEIZURES
+              
+PRODUCT        Oxygen, USP (92-555-816/7).
+CHARGE         Adulterated - The methods used in, and the facilities and        
+               controls used for, the products' processing, packing, and        
+               holding do not conform to and are not operated and administered  
+               in conformity with current good manufacturing practice           
+               requirements.
+FIRM           Sun Medical Equipment Company, Inc., Clawson, Michigan.
+FILED          May 12, 1992 - U.S. District Court for the Eastern District of   
+               Michigan, Southern Division; Civil #92-CV72620DT, FDC #66423.
+SEIZED         May 18, 1992 - goods valued at approximately $5,600.
+
+              
+PRODUCT        Prescription and over-the-counter drugs (92-506-615).
+CHARGE         Adulterated - The methods used in, and the facilities and        
+               controls used for, the products' manufacture, processing,        
+               packing, and holding do not conform to and are not operated and  
+               administered in conformity with current good manufacturing       
+               practice requirements.
+FIRM           Esquire Pharmaceuticals, Inc., Westmont, Illinois.
+FILED          June 5, 1992 - U.S. District Court for the Northern District of  
+               Illinois, Eastern Division; Civil #92C3743, FDC #66446.
+
+                                     -13-
+SEIZED         June 9, 1992 - goods valued at approximately $224,000.
+
+SEIZURES
+
+              
+PRODUCT        Attenuating examination gloves (92-607-569).
+CHARGE         Adulterated - The methods used in, and the facilities and        
+               controls used for the product's manufacture are not in           
+               conformity with current good manufacturing practice              
+               requirements. 
+               Misbranded - The product's premarket notification submitted to   
+               FDA did not provide for resterilization and reuse of the gloves.
+FIRM           F & L Medical Products Company, Vandergrift, Pennsylvania.
+FILED          April 9, 1992 - U.S. District Court for the Western District of  
+               Pennsylvania; Civil #92-1052, FDC #66426.
+SEIZED         April 10, 1992 - goods valued at approximately $42,670.
+
+              
+PRODUCT        Oxygen, USP and Nitrogen NF (92-674-648/9).
+CHARGE         Adulterated - The methods used in, and the facilities and        
+               controls used for, the products' processing, packing, and        
+               holding do not conform to and are not operated and administered  
+               in conformity with current good manufacturing practice           
+               requirements.
+FIRM           Thornton Enterprises, also known as South Jersey Welding Supply  
+               Company, Vineland, New Jersey.
+FILED          June 26, 1992 - U.S. District Court for the District of New      
+               Jersey; Civil #92 CIV 2340(JFG), FDC #66438.
+SEIZED         July 8, 1992 - goods valued at approximately $52,000.
+
+                                     -14-
+
+
+END OF ENFORCEMENT REPORT FOR JULY 22, 1992.  BLANK PAGES MAY FOLLOW.
+
+                                     ###

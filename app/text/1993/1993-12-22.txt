@@ -1,0 +1,586 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      36 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+12/22/1993
+
+Recalls and Field Corrections:  Foods -- Class II -- 12/22/1993
+
+December 22, 1993                                           93-51
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Oysters harvested at Cabbage Reef or Grand Pass, Louisiana:
+               (a) Shellstock Oysters packed in burlap sacks; (b) Shucked
+               Oysters in plastic tubs, 1 gallon.  Recall #F-140/141-4.
+CODE           Shellstock is dated as to date of harvest on affixed oyster
+               tag.  Shucked stock is dted as to date product shucked. 
+               All product dated from 9-8-93 through 11-16-93.
+SHIPPER/       Bayou Caddy Fisheries, Inc., Lakeshore, Mississippi,
+RECALLER       by telephone and fax November 19 or 20, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Virginia, Alabama, Mississippi, Texas, Florida, Louisiana,
+               Georgia.
+QUANTITY       45,599 sacks shellstock oysters and 350 gallons shucked
+               oyststers were distributed; firm estimates none remains on
+               the market.
+REASON         The oysters harvested at Cabbage Reef and Grand Pass have
+               been associated with at least 16 discrete outbreaks of
+               gastroenteritis.
+
+
+_______________
+PRODUCT        Shucked Oysters, in 8-ounce plastic containers harvested at
+               Cabbage Reef or Grand Pass, Louisiana.  Recall #F-142-4.
+CODE           All products are coded "Sell By" date of December 2, 1993.
+SHIPPER/       Carlo's Oyster, Inc., Amite, Louisiana, by telephone and
+RECALLER       letter November 24, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Missouri.
+QUANTITY       300 cases (12 units per case) were shipped within a
+               commingled lot of 785 cases of oysters harvested from other
+               areas.
+REASON         The oysters harvested at Cabbage Reef and Grand Pass have
+               been associated with at least 16 discrete outbreaks of
+               gastroenteritis.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Slo-Phyllin, (Theophylline) 250 mg extended release
+               capsules, unit dose and in bottles of 100 and 1,000, used as
+               a bronchodilator.  Recall #D-051-4.
+CODE           Product         RPR lot Nos.    EXP         Geneva Lot Nos.
+               1000's          86575          5/94         70103
+               100's           91606         12/95         74151
+               Unit dose       91977         12/94         74151
+MANUFACTURER   Geneva Pharmaceuticals (formerly Cord), Broomfield,
+               Colorado.
+RECALLED BY    Rhone Poulenc Rorer, Inc., Collegeville, Pennsylvania, by
+               letter on or about December 12, 1993.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide, Puerto Rico.
+QUANTITY       1,446 units of lot 86575; 1,350 units of lot 91977; 12,200
+               units of lot 91606 were distributed; firm estimates 72 units
+               of lot 86575; 610 units lot 91606; and 135 units of lot
+               91977 remain on the market.
+REASON         Product does not meet dissolution specifications.
+
+_______________
+PRODUCT        Amoxicillin for Oral Suspension USP, 250 mg/5 ml, 150 ml
+               when mixed, Rx antibiotic.  Recall #D-054-4.
+CODE           Lot #27718 EXP 8/1/95.
+MANUFACTURER   Biocraft Laboratories, Inc., Elmwood Park, New Jersey.
+RECALLED BY    Manufacturer, by letter July 2, 1993.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   California, Louisiana, Oklahoma, Oregon, Pennsylvania, South
+               Carolina, Texas.
+QUANTITY       6,540 bottles were distributed; firm estimates 300 bottles
+               remain on the market.
+REASON         Product does not meet potency specifications through
+               expiration date.
+
+                                    -2-_______________
+PRODUCT        Kaolin Pectin Suspension, an oral suspension, in 12 ounce
+               and 16 ounce bottles, used as anti-diarrheal treatment,
+               nonprescription.  Recall #D-055-4.
+CODE           Lot #14770 EXP 6/95.
+MANUFACTURER   Ambix Laboratories, Division of Organics of America, East
+               Rutherford, New Jersey.
+RECALLED BY    Manufacturer, by telephone June 25, 1993, followed by letter
+               dated June 30, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Michigan, New York.
+QUANTITY       FDA estimates none remains on the market.
+REASON         Microbiological contamination.
+
+_______________
+PRODUCT        Isosorbide Tablets, 10 mg, solid dosage form, 100 tablets,
+               unit dose 10 x 10, Rx used for maintenance therapy for
+               angina pectoris.  Recall #D-056-4.
+CODE           Lot #340A13.
+MANUFACTURER   Danbury Pharmacal, Inc., Danbury, Connecticut.
+RECALLED BY    Medirex, Inc., Pine Brook, New Jersey, by telephone May 19,
+               1993.  Firm-initiated recall complete.
+DISTRIBUTION   New Jersey, New York, Virginia, Indiana. 
+QUANTITY       104 100-tablets units were distributed.
+REASON         Packages labeled as 10 mg contain 5 mg tablets.
+
+_______________
+PRODUCT        Oral contraceptives:
+               (a) Loestrin Fe (Norethindrone Acetate and Ethinyl Estradiol
+               Tablet, USP and Ferrous Fumarate Tablets, USP), 1.5 mg/30
+               mcg, institutional package;
+               (b) Loestrin 21 (Norethindrone Acetate and Ethinyl Estradiol
+               Tablets, USP), package of 5 dispensers.  
+               Recall #D-057/058-4.
+CODE           Lot numbers:  (a) 035DFA EXP 11/95 (institutional package),
+               01502FA EXP 10/95 (package of 5 dispensers); (b) 01502FB EXP
+               10/95 (package of 5 dispensers), 035D2FD EXP 11/95 (package
+               of 5 dispensers).
+MANUFACTURER   Warner Lambert, Fajardo, Puerto Rico.
+RECALLED BY    Parke-Davis, Division of Warner Lambert, Morris Plains, New
+               Jersey, by letter dated September 28, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       Lot 01502FA -- 6,226 units of 21's (pkg of 5); 18,218 units
+               of ferrous fumarate (pkg of 5); 100,760 cycles as 33,552
+               canadian units of physician samples.
+               Lot 035D2FA -- 23,177 units of 21s (pkg of 5), 1,122 units
+               of ferrour fumarate (inst. pkg 3 x 30 carton); 6,600 cycles
+               packaged as 1,315 Canadian units were distributed.
+REASON         Products may not meet content uniformity specifications.
+
+                                    -3-RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Compazine Injection MDV (Prochlorperazine as the Edisylate
+               Injection), 10 ml vial/5 mg/ml, indicated for control of
+               severe nausea and vomiting, and for management of the
+               manifestations of psychotic disorders.  Recall #D-052-4.
+CODE           1-3C43 EXP 12/95.
+MANUFACTURER   Smithkline Beecham Pharmaceuticals Company, Cidra Puerto.
+RECALLED BY    Manufacturer, by letter December 6, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       15,336 vials were distributed.
+REASON         Product bears an extended expiration date of 12/96 instead
+               of 12/95.
+
+_______________
+PRODUCT        Semicid Vaginal Contraceptive Inserts, a nonprescription
+               drug indicated for the prevention of pregnancy.  Recall #D-
+               053-4.
+CODE           C324 EXP 3/95, C325 EXP 3/95 and C326 EXP9/95.
+MANUFACTURER   Whitehall Laboratories, Inc., Hammonton, New Jersey.
+RECALLED BY    Manufacturer, by letter July 1, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 14,000 dozen units were distributed.
+REASON         Superpotency.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Erbium-Doped Fiber Amplifier, Model 1702, used in
+               telecommunications.  Recall #Z-100-4.
+CODE           No serial numbers. 
+MANUFACTURER   AT&T; Bell Laboratories, Murray Hill, New Jersey.
+RECALLED BY    Manufacturer.  FDA approved the firm's corrective action
+               plan November 20, 1993.  Firm-initiated field correction
+               ongoing.
+DISTRIBUTION   Maryland, New York.
+QUANTITY       4 units.
+REASON         Noncompliance with performance standards for laser products
+               in that it did not incorporate a beam attenuator and display
+               all the required labels.
+
+_______________
+PRODUCT        Davol Laparoscopic Suction Irrigation Probe, trumpet valve
+               probe with preattached 5 mm irrigation tip with side eyes. 
+               Recall #Z-119-4.
+CODE           Reorder #0038300, lot #41JCST05.
+MANUFACTURER   Davol, Inc., Subsidiary of C.R. Bard, Inc., Cranston, Rhode
+               Island.
+
+                                    -4-RECALLED BY    Manufacturer, by telephone June 4, 1993, followed by letter. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,793 units were distributed.
+REASON         The laparoscopic probe is fitted with a handle which will
+               connect with an electrosurgical connector.  End users
+               (doctors) believe the device is to be used during
+               electrosurgery, when in fact it is not intended for this
+               type of electrical connection.
+
+_______________
+PRODUCT        Lens Holder Tray for Intraocular Lens:
+               Model No. GL55A distributed by DGR; Model No. SL550
+               distributed by Cirrus; Model No. PH550 distributed by
+               Acuity; Model No. U515A distributed by Isotech; and Model
+               No. P152A/ distributed by MDR;
+               Model No. GL55B distributed by DGR; Model No. SL550-2
+               distributed by Cirrus; Model No. PL55B distributed by
+               Acuity; Model No. U515B/ distributed by Isotech; Model No.
+               PL52B distributed by MDR;
+               Model No. GL65B distributed by DGR; GL650-2/ distributed by
+               Cirrus; PH650 distributed by Acuity; U615B/ distributed by
+               Isotech; PN55C distributed by MDR;
+               Model No. GL65C distributed by DGR; PN55C/ Distributed by
+               MDR;
+               Model No. PL52A distributed by DGR; PN148A/ distributed by
+               MDR;
+               Model No. PL52B distributed by DGR; PN148B/ distributed by
+               MDR.  Recall #Z-123-4.
+CODE           The affected IOLS are the models above whose carton label
+               does not state a batch number or the batch number stated is
+               287 or below.
+MANUFACTURER   DGR, Inc., St. Petersburg, Florida.
+RECALLED BY    Manufacturer, by letter September 10, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Florida, Louisiana, Georgia, Arizona, Michigan, Ohio,
+               Tennessee, Alabama, South Carolina, Iowa, Illinois.
+QUANTITY       FDA estimates little product remains on the market.
+REASON         Packaging design defect may subject the lens to damage when
+               lens is removed from the holder tray.
+
+_______________
+PRODUCT        Vision Image Intensifiers (a) Model T3C-2; (b) Model T3C-3. 
+               Recall #Z-127-4.
+CODE           None.
+MANUFACTURER   Novosibirsk Instrument Making Plant, Russian Federation.
+RECALLED BY    JNL Trading Company, Inc., New York, New York (importer). 
+               FDA approved the firm's corrective action plan October 18,
+               1993.  Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       486 units.
+                                    -5-REASON         The night vision equipment contained a radiation defect, in
+               that the products emitted x-radiation that is unnecessary to
+               the accomplishment of the purpose of the product, and
+               creates a risk of injury to users.
+
+_______________
+PRODUCT        XLUHP-C Series Ultrasonic Handpiece, Part #52-0017-70, for
+               use with Model PHACO-XL, a phacoemulsification unit, to be
+               inserted into the eye to break up and aspirate a cataractous
+               lens, and also provides irrigation to maintain the anterior
+               chamber.  Recall #Z-141-4.
+CODE           All serial numbers.
+MANUFACTURER   Zevex, Inc., Monrovia, California.
+RECALLED BY    Manufacturer, by letter September 30, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Arizona, California, Connecticut, Florida, Georgia, Indiana,
+               Minnesota, North Carolina, Nevada, Oklahoma, Utah.
+QUANTITY       55 units were distributed.
+REASON         Device may cause electrical shock to patient or physician
+               while using instrument.
+
+_______________
+PRODUCT        Retractable Laparoscope Electrodes Series E2787R and E2788R,
+               used in conjunction with Valleylab Disposable Pistol Grip
+               Laparoscopic Handsets for use in laparoscopic surgery. 
+               Recall #Z-150/151-4.
+CODE           E2787R-28 (blunt) Lot numbers:  17191, 17839;
+               ER2788R-36 (sharp) lot #17806.
+MANUFACTURER   Valleylab, Inc., Pfizer Hospital Products Group, Boulder,
+               Colorado.
+RECALLED BY    Manufacturer by visit October 21, 1993, and by telephone
+               October 25, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nevada, Switzerland, Bolivia.
+QUANTITY       7 units of lot #17191, 1 case (10 units per case) of lot
+               17,839, 1 case (10 units per case) of lot 17806.
+REASON         Devices are labeled as sterile, but the packaging enclosing
+               the electrodes may be perforated, thereby, compromising the
+               sterility.
+
+_______________
+PRODUCT        Adult REM PolyHesive II Disposable Patient Return Electrode,
+               used in electrosurgery in conjunction with a generator to
+               return electrical current from the patient back to the
+               generator.  Recall #Z-152-4.
+CODE           Catalog #E7507, lot #17913.
+
+                                    -6-MANUFACTURER   Valleylab, Inc., Pfizer Hospital Products Group, Boulder,
+               Colorado.
+RECALLED BY    Manufacturer, by letter october 29, 1993.  Firm-initiated
+               recall ongoing.   
+DISTRIBUTION   Eastern coast of the United States.
+QUANTITY       568 cases (50 units per case) were distributed.
+REASON         The packaging label reads Model E7507 while the electrode
+               contained within may be Model E5706.  Improper use of this
+               electrode significantly increases the potential risk of a
+               burn to the user.
+
+_______________
+PRODUCT        One Touch Foil-Wrapped Blood Glucose Test Strips, for use
+               with the One Touch or One Touch II Blood Glucose Meters. 
+               (a) One Touch Foil Wrapped Test Strips (Consumer) 010-340,
+               010-368, 010-262; (b) One Touch Wrapped Test Strips
+               (Hospital) 010-342, 010-296; (c) One Touch II System 010-
+               270; (d) One Touch/One Touch II Patient Starter Kits 010-
+               299.  Recall #Z-153/156-4.
+CODE           All lots.
+MANUFACTURER   Lifescan, Inc., A Johnson & Johnson Company, Cabo Rojo,
+               Puerto Rico.
+RECALLED BY    Manufacturer, by letter October 13, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 51.9 million test strips were distributed.
+REASON         The test strips may be exposed to moisture and may give
+               inaccurate low test results.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Diascan Strips, used in conjunction with the Home
+               Diagnostics Diascan Glucose Meter to determine Glucose
+               Levels in fresh whole blood:
+               (a) Product Code 150500 - 50 Strips per vial;
+               (b) Product Code 152000 - 25 strips per vial;
+               (c) Product Code 107500 - Diascan Starter Kit;
+               (d) Product Code 151000 - Accessory Kit.  
+               Recall #Z-074/077-4.
+CODE           Lot numbers:  M633735A EXP 5/31/93; 633735A EXP 5/31/93;
+               633738A,B,C EXP 6/30/93; 633746A EXP 8/31/93; 633804A EXP
+               6/30/93
+MANUFACTURER   Behringwerke Diagnostics, Division of Hoechst A.G., Marburg,
+               Germany.
+RECALLED BY    Home Diagnostics, Inc., Eatontown, New Jersey, by letter
+               March 22, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       268,015 units were distributed; firm estimates less than 1
+               percent of product remains on the market.
+
+                                    -7-REASON         Devices could provide erroneously low glucose readings.
+
+_______________
+PRODUCT        Urease + TDA (URTDA) for in-vitro diagnostic use only, in
+               bottles containing 50 tablets.  Recall #Z-078-4.
+CODE           Product #R0115, Lot #57-52112 EXP 1/96.
+MANUFACTURER   Rosco Diagnostica, Taastrup, Denmark.
+RECALLED BY    Pro-Lab Diagnostic, Inc., Austin, Texas, by telephone
+               February 10, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Maryland.
+QUANTITY       12 bottles were distributed; firm estimates none remains on
+               the market.
+REASON         Fourteen bottles of Urease, Lot 57-52112 was repacked and 10
+               bottles were mislabeled as Urease + TDA, Lot 57-52112.
+
+_______________
+PRODUCT        Hybritech Icon Immunoconcentration Assay Kits, 
+               (a) Strep A, Catalog Numbers: 4504 (48 test), 4509 (24 test)
+               in-vitro diagnostics for the detection and confirmation of
+               Group A Streptococcus antigen from throat swab;
+               (b) Strep B Catalog #4520 (24 test), for the detection of
+               Group B Streptococcus Antigen in urine from vaginal and
+               cervical swabs, and for the confirmation of Group B
+               Streptococci from blood agar culture.  Recall #Z-097/098-4.
+CODE           Lot numbers:  Catalog #4504 -- 292259, 292260, 292261,
+               292393, 292516, 292517, 390120 390122, 390138, 390172,
+               390273, 390274, 390275, 390276, 390677, 390481, 390493,
+               390494, 390495, 390600, 390672, 390673, 390695, 390858,
+               390859, 390993, 391210M;
+               Catalog #4509 -- 292381, 292382, 390030, 390072, 390319,
+               390320, 390321, 390497, 390498, 390592, 390733, 390772,
+               391075M, 391213M, 390041, 390042, 390048, 390091, 390092,
+               390139, 390140, 390141, 390142, 390143, 390288, 390289,
+               390437, 390438, 390457, 390468, 390477, 390618, 390619,
+               390732, 390799, 390800, 390861, 391062, 391063, 391064,
+               391065, 391211M;
+               Catalog #4520 -- 292381, 292382, 390030, 390072, 390319,
+               390320, 390321, 390497, 390498, 390592, 390733, 390772,
+               391075, 391213M.  Lot numbers followed by "M" indicate kits
+               were packaged with global packaging.
+MANUFACTURER   Hybritech, Inc., San Diego, California.
+RECALLED BY    Manufacturer, by letter August 24, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Catalog #4504 -- 12,603 units distributed; firm estimates
+               2,000 remain on market; Catalog #4509 -- 25,770 units
+               distributed; firm estimates 4,000 remain on market; Catalog
+               #4520 -- 9,062 units distributed; firm estimates 1,300
+               remain on the market.
+
+                                    -8-REASON         The wash reagent will change color from clear to purple
+               after prolonged exposure to light.  Using the purple wash
+               will interfere with reading the test results.
+
+_______________
+PRODUCT        Pregnancy Test hCG Urine Kit and Bulk:
+               (a) hCG Best Test, Catalog #BHF1001; 
+               (b) hCG One Step, Catalog #BHF2201;
+               (c) hCG Optitec-Plus, Catalog #68355.  Recall #Z-138/140-4.
+CODE           Nine lots of hCG urine tests are being recalled: 
+               Lot #     Exp     Label   
+               B10008    5/94    Kits - Optitec-Plus 
+               B10007    5/94    Bulk - hCG 
+               B10006    5/94    Bulk - Optitec-Plus 
+               M16670    4/94    Bulk - BESTest 
+               M16767    5/94    Bulk - hCG 
+               M16583    3/94    Bulk - hCG 
+               M16237    1/94    Bulk - hCG 
+               M16236    1/94    Bulk - hCG 
+               M16145    1/94    Bulk - hCG 
+MANUFACTURER   Medix Biotech, Inc., Foster City, California.
+RECALLED BY    Manufacturer, by letter August 31, 1993 through September
+               15, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Spain Italy, Portugal, Israel, UK.
+QUANTITY       114 kits (30 tests each); 36,930 test (bulk pouched tests)
+               were distributed; firm estimates less than 25 percent of the
+               product remains on the market.
+REASON         The loss of intensity observed in the test band could result
+               in a false negative interpretation.
+
+_______________
+PRODUCT        HLA DR Select Tray, 72 wells per tray, used for human
+               lymphocyte antigen analysis for tissue typing, sold under
+               the Gentrak label.  Recall #Z-142-4.
+CODE           Lot #S-3075, serial numbers 118-157 EXP 6/8/94.
+MANUFACTURER   Gen Trak, Inc., Plymouth Meeting, Pennsylvania.
+RECALLED BY    Manufacturer, by telephone August 19, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Pennsylvania.
+QUANTITY       4 boxes were distributed; firm estimates none remains on the
+               market.
+REASON         The trays were stamped backwards as a result of being
+               incorrectly loaded in a processing machine.  The wrong
+               reagents were pipetted into the wrong wells of the tray.
+
+_______________
+PRODUCT        10/0 Ophthalmic Nylon Suture.  Recall #Z-149-3.
+CODE           Product Code 1532-38, Lot numbers:  915766, 916729, 917796.
+MANUFACTURER   Davis & Geck, Inc., Division of American Cyanamid Company,
+               Manati, Puerto Rico.
+
+                                    -9-RECALLED BY    Davis & Geck, Division of American Cyanamid Company,
+               Danbury, Connecticut, by letters of August 24 and 31, 1993.
+               Firm-initiated recall complete.
+DISTRIBUTION   New York, Illinois, Kansas, Indiana, New Jersey,
+               Pennsylvania, Argentina, Canada.
+QUANTITY       201 boxes (12 dozen per box) were distributed.
+REASON         The outer box label incorrectly states  that the product is
+               absorbable rather than nonabsorbable.  The individual suture
+               packages are correctly labeled as nonabsorbable.
+
+
+SEIZURES: 
+================================================================
+_______________
+UPDATE         The seizure of Ear Candles, which appeared in the December
+               15, 1993 Enforcement Report was incomplete as reported. 
+               This update is the complete text:
+
+PRODUCT        Ear candles, components, and brochures (93-671-958).
+CHARGES        Adulterated - The article is a class III medical device for
+               which no approved premarket approval application is in
+               effect; and, the methods used in, and the facilities and
+               controls used for, its manufacture, packing, and storage are
+               not in conformity with current good manufacturing practice. 
+               Misbranded - The article's labeling represents and suggests
+               that it is adequate and effective for reducing ear wax,
+               fever, and infections associated with a ruptured ear drum,
+               and that it may be used as a replacement for surgical tubes
+               inserted in the ear, which representations and suggestions
+               are contrary to fact.  The article's labeling fails to bear
+               adequate directions for use for the purposes for which it is
+               intended.  The article is dangerous to health when used in
+               the manner recommended and suggested in the labeling.  The
+               article was manufactured, prepared, propagated, compounded,
+               or processed in an establishment not duly registered and was
+               not included in a required list; a notice or other required
+               information was not provided as required prior to its
+               introduction into interstate commerce.  
+FIRM           Quality Health Products, Fayette, Ohio.     
+FILED          December 7, 1993; U.S. District Court for the Northern
+               District of Ohio, Western Division; Civ. #3:93CV7702;
+               FDC #66785.
+SEIZED         December 7, 1993 - goods valued at approximately $6,250.
+
+                                   -10-
+
+END OF ENFORCEMENT REPORT FOR DECEMBER 22, 1993.  BLANK PAGES MAY
+FOLLOW.
+                                   ####

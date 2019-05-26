@@ -1,0 +1,960 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      31 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ Enforce
+08/20/1991   
+
+Enforcement Report for Week of August 21, 1991
+
+
+                                                          August 21, 1991 
+
+Recalls and Field Corrections:
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  Product will cause serious adverse health consequences or 
+                  death.
+
+
+Product:          Uneviscerated Salted Yellow Croaker Fish (from Macao).
+                  Recall #F-510-1.
+Code:             Uncoded.
+anufacturer:     New York Frozen Food Inc., Astoria, New York. 
+Recalled by:      Manufacturer, by telephone on or about July 2, 1991, and
+                  by letter July 8, 1991.  Firm-initiated recall ongoing. 
+Distribution:     New Jersey, New York. 
+Quantity:         Approximately 500 pounds were distributed.
+Reason:           Potential Clostridium botulinum toxin hazard. 
+
+                                     ---- 
+
+                                      -1- 
+
+
+
+
+
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the 
+                  probability of serious adverse health consequences is 
+                  remote. 
+
+
+Product:          Dry Roasted Peanut Granules, packaged in 30 pound brown 
+                  cardboard boxes.  Recall F-423-1. 
+Code:             Uncoded.
+anufacturer:     John B. Sanfilippo and Son, Inc., Elk Grove Village,
+                  Illinois (processor/shipper). 
+Recalled by:      Sunshine Nut Company, Inc., San Antonio, Texas, by
+                  telephone January 8-10, 1991.  Firm-initiated recall
+                  ongoing.
+Distribution:     Arkansas, Texas, Florida, Washington state, Alabama.
+Quantity:         393 cartons were distributed; firm estimates none 
+                  remains on the market.
+Reason:           Product contains aflatoxin in excess of tolerance level.
+
+                                     ---- 
+
+Product:          (a) Vernell's Black Jelly Bird Eggs, in 12 ounce packages;
+                  (b) Vernell's Fruitti Bears Candy, in 30 pound cartons; 
+                  Recall #F-439/440-1.
+Code:             Lot numbers: (a) 021216; (b) 109210.
+anufacturer:     Vernell's Fine Candies, Inc., Bellevue, Washington. 
+Recalled by:      Manufacturer, by letter April 26, 1991.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     (a) Oregon, California, Washington state; 
+                  (b) Utah, Oklahoma, Oregon, Idaho, Washington state.
+Quantity:         (a) 1,053 cases (24 packages/case); (b) 1,056 cartons 
+                  were distributed. 
+Reason:           Product contains undeclared FD&C; Yellow No. 5.
+
+                                     ---- 
+
+                  Class III - A situation in which the use of, or exposure
+                  to a violative product is not likely to cause adverse 
+                  health consequences.
+
+                                     NONE 
+
+                                      -2- 
+
+
+
+
+
+                                   COSMETICS
+
+                  Class I 
+                                     NONE 
+                  Class II -
+                                     NONE 
+                  Class III - 
+
+Product:          Baby Shampoo under Pennex and 25 private labels in
+                  2 oz. & 4 oz. bottles in cases of 24; 16 oz. & 32 oz. 
+                  bottles in cases of 12; THE FOLLOWING LABELS ARE INVOLVED:
+
+                  GOOD HEALTH, 16 FL. OZ., DISTRIBUTED BY PENNEX PRODUCTS CO.,
+                  INC. VERONA, PA.
+                  PIC N' SAVE DRUGS, 16 FL. OZ., DISTRIBUTED BY NATIONAL
+                  MERCHANDISE CO. , JACKSONVILLE, FL. 
+                  DRUG GUILD, 32 FL. OZ., DISTRIBUTED BY DRUG GUILD 
+                  DISTRIBUTORS, INC., SECAUCUS, NJ. 
+                  NYSCO, 16 FL. OZ., DISTRIBUTED BY NYSCO INTERNATIONAL CO.,
+                  MASS. 
+                  VONS, 16 FL. OZ., DISTRIBUTED BY VONS COMPANIES INC., 
+                  GENERAL OFFICE, LOS ANGELES, CA.
+                  SEAWAY, 16 FL. OZ., DISTRIBUTED BY SEAWAY FOODS, INC., DIV. 
+                  OF AMERICAN SEAWAY FOODS, INC., CLEVELAND, OHIO.
+                  SUPER TRU, 16 FL. OZ., DISTRIBUTED BY SCRIVNER, INC., 
+                  OKLAHOMA CITY, OK.
+                  SHOP N' SAVE, 16 FL. OZ., DISTRIBUTED BY HANNAFORD BROS.
+                  CO., SCARBOROUGH, ME. 
+                  SWEET LIFE, 16 FL. OZ., DISTRIBUTED BY SWEET LIFE PRODUCTS
+                  CORP., SUFFIELD, CONN.
+                  SHUR FINE, 16 FL. OZ., DISTRIBUTED BY 1986 SHURFINE-CENTRAL 
+                  CORP., NORTHLAKE, IL. 
+                  BI LO, 16 FL OZ, DISTRIBUTED BY BI-LO, INC., DRAWER 99, 
+                  MAULDIN, SC.
+                  PHARMACIST PREFERRED, 16 FL OZ., DISTRIBUTED BY PHARMACY
+                  PROVIDER SERVICES CORP., TALLAHASSEE, FL. 
+                  FEDCO, 16 FL. OZ., DISTRIBUTED BY FEDCO, INC., SANTA FE 
+                  SPRINGS, CA.
+                  RELIABLE DRUGS, 16 FL. OZ., DISTRIBUTED BY RELIABLE DRUG
+                  STORES, INC., INDIANAPOLIS, IN. 
+                  WELLBY SUPER DRUG, 16 FL. OZ., DISTRIBUTED BY HANNAFORD 
+                  BROS. CO., SCARBOROUGH, ME. 
+                  HAPPY HARRY, 16 FL. OZ., DISTRIBUTED BY MERCHANDISERS, INC.,
+                  NEWARK, DEL.
+                  SHOP N BAG, 16 FL. OZ., DISTRIBUTED BY SHOP' N BAG
+                  MARKETING, PHILADELPHIA, PA.
+                  LEGEND, 16 FL. OZ., DISTRIBUTED BY LEGEND PHARMACEUTICALS,
+                  INC., SYRACUSE, NY. 
+                  HEALTH BRANDS, 4 FL. OZ., DISTRIBUTED BY HEALTH BRANDS, 
+                  BUFFALO, NY. 14207
+                  KEY SELECTION, 16 FL. OZ., DISTRIBUTED BY BEN FRANKLIN, 
+                  DES PLAINES, IL.
+
+                                      -3- 
+
+
+
+
+
+                  MARSH, 16 FL. OZ., DISTRIBUTED BY MARSH SUPERMARKETS, INC., 
+                  YORKTOWN, IN. 
+                  MEDI-GUARD, 16 FL. OZ., DISTRIBUTED BY LKS PRODUCTS, INC.,
+                  GEN OFFICE, DUBLIN CA.
+                  PMW PACE MEMBERSHIP WAREHOUSE, 32 FL. OZ., DISTRIBUTED BY 
+                  PACE MEMBERSHIP WAREHOUSE, INC., ENGLEWOOD, CO. 
+                  FINAST, 2 & 16 FL. OZ., DISTRIBUTED BY FIRST NATIONAL 
+                  SUPERMARKETS, INC., WINDSOR LOCKS, CT.
+                  YANKEE PRIDE, 16 FL. OZ., DISTRIBUTED BY YANKEE PRIDE (DIV. 
+                  OF CHANDI, INC. ), FT. LEE, NJ. 
+                  BILL'S DRUGS 2 & 16 FL. OZ., DISTRIBUTED BY BILL'S DRUGS, 
+                  LAFAYETTE, CA.
+Code:             GOOD HEALTH -- E1368E, E1300E, D1492E, D1039E, C1394E,
+                  C1055E, B1215E, 
+                  A1476E, A1170E, A1169E, A1168E, A1167E, M1305D, M1304D, 
+                  M1303D, M1025D, L1597D, L1596D, L1595D, L1594D, L1460D, 
+                  K1575D, H1807D, H1420D, H1419D, G1593D, G1592D, G1586D, 
+                  G1585D, G1589D, G1588D, G1587D, G1584D, G1583D, G1047D, 
+                  G1046D, F1031D, E1403D, D1292D, D1116D, D1115D, C1502D, 
+                  C1191D, B1595D, B1436D, B1161D, B1160D, B1159D, A1629D, 
+                  A1306D, M1400C, K1091C, K1085C, J1506C, J1199C, J1081C, 
+                  H1536C, G1300C, G1299C, G1178C, F1403C, E1172C, E1037C, 
+                  D1333C, D1028C, C1265C, A1166E, A1165E, A1164E, A1163E, 
+                  A1162E, M1307D, M1306D
+                  (LOT E1490E WAS INCLUDED IN THE RECALL NOTICE, HOWEVER, IT
+                  WAS NEVER DISTRIBUTED)
+                  PIC N' SAVE DRUGS -- E1490E, D1492E, C1394E, K1418D, G1591D,
+                  D1548D, C1078D, A1629D, M1400C, C1055C, B1387C, A1528C
+                  DRUG GUILD -- E1368E, D1039E, K1418D, H1807D, F1031D, 
+                  D1292D, L1458C, L1133C, E1106C, B1387C
+                  NYSCO -- E1490E,
+                  VONS -- D1492E, A1163E, A1162E, G1046D, D1292D, D1114D, 
+                  C1191D, B1436D, A1306D, L1458C, L1133C, J1506C, F1106C, 
+                  E1038C, D1028C, C1265C, A1528C
+                  SEAWAY -- E1368E, M1400C, M1249C, L1133C, J1081C, E1038C, 
+                  D1028C
+                  SUPER TRU -- A1164E, L1594D, K1575D, K1418D, H1807D, H1419D,
+                  G1591D, F1031D, E1403D, D1548D, D1292D, C1078D, B1436D, 
+                  A1306D, M1400C, M1249C, L1458C, L1133C, K1085C, J1506C, 
+                  F1106C, E1038L, D1333C, B1387C
+                  SHOP N' SAVE -- C1394C, A1164E, M1307D, M1305D, L1594D, 
+                  H1807D, H1419D, G1047D, G1197D, D1292D, C1078D, M1400C, 
+                  M1249C, J1506C, H1486C, C1265C, C1055C, A1528C, F1271E
+                  SWEET LIFE -- D1492E, G1591D, B1159D, L1458C, J1081C, 
+                  H1486C, G1178C, C1055C, A1528C
+                  SHUR FINE -- D1492E, M1025D, K1575D 
+                  BI LO -- C1394E, H1419D, G1590D, G1046D, E1403D, J1506C,
+                  J1199C, F1403C
+                  PHARMACIST PREFERRED -- M1303D, L1594D, C1055C
+                  FEDCO -- L1460D, E1197D, D1548D, D1114D, A1629D, M1249C,
+                  L1458C
+                  RELIABLE DRUGS -- L1460D, K1418D, G1047D
+                  WELLBY SUPER DRUG -- G1046D, B1595D, J1199C 
+
+                                      -4- 
+
+
+
+
+
+                  HAPPY HARRY -- E1038C 
+                  SHOP N BAG -- H1419D, M1400C
+                  LEGEND -- L1458C, C1055C
+                  HEALTH BRANDS -- C1620C 
+                  KEY SELECTION -- E1038C, E1085C, A1629D 
+                  MARSH -- A1528C 
+                  MEDI-GUARD -- D1333C, B1387C
+                  PMW PACE MEMBERSHIP WAREHOUSE -- H1421D, G1594D, G1348D,
+                  E1312D, D1118D, D1117D, C1498D, C1078D, A1630D, A1306D, 
+                  M1150C, K1086C, J1310C, H1233C, C1266C, C1054C, B1388C, 
+                  A1343C
+                  (K1092C WAS INCLUDED IN THE PACE NOTIFICATION AS BEING
+                  FILLED, HOWEVER, IT WAS NOT DISTRIBUTED)
+                  FINAST -- A1528C
+                  YANKEE PRIDE -- G1590D
+                  BILL'S DRUGS -- G1590D. 
+anufacturer:     Pennex Products Company, Inc., Verona, Pennsylvania.
+Recalled by:      Manufacturer, by telephone on or about June 25, 1991, 
+                  followed by letter.  Firm-initiated recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         Firm estimates that 3,500 dozen remain on market. 
+Reason:           Formaldehyde not declared on label. 
+
+                                     ---- 
+
+                           HUMAN DRUGS AND BIOLOGICS
+
+                  Class I - 
+                                     NONE 
+                  Class II -
+
+Product &         Various unit-dose, strip packed Rx and OTC drugs, in
+Codes:            tablet form.  Recall #D-520/605-1:
+                  Product/Strength/Size                  Lot Number 
+                  1.  Allopurinol, 300 mg., 1/2's        71733, 15061, 15425
+                  2.  Anturane, 100 mg., 1/2's           1T131499 
+                      (Sulfinpyrazone)
+                  3.  Armour Thyroid, 60 mg., 1/2's      05187
+                  4.  Bumex, 0.5 mg., 1/2's              0100 
+                      (Bumetanide)
+                  5.  Calan, 80 mg., 1/2's               0191386
+                      (Verapamil HCl) 
+                  6.  Calan SR, 240 mg., 1/2's           1090368
+                      (Verapamil HCl)                    1090369, 1190450 
+                                                         1190451, 1290010R
+                  7.  Capoten, 12.5 mg., 1/2's           0G31862
+                      (Captopril)                        OG31873, 0H31895 
+                                                         0H31906, 0J31686 
+                                                         0K31697, 0K31708 
+                                                         0L31620, 0L31626 
+                                                         0L31638, 0L31638R
+                                                         0L31678, 0M31578 
+
+                                      -5- 
+
+
+
+
+
+                  8.  Carafate, 1 g., 1/2's              K03949 
+                      (Sucralfate)
+                  9.  Cardizem, 30 mg., 1/2's            K05782 
+                      (Diltiazem HCl) 
+                  10. Cardizem, 90 mg., 1/2's            K04543 
+                      (Diltiazem HCl) 
+                  11. Catapres, 0.1 mg., 1/2's           060011A
+                      (Clonidine HCl) 
+                  12. Chlorpheniramine Maleate, 4 mg.,   0B045
+                      1/2's 
+                  13. Chlorpropamide, 250 mg., 1/2's     72368
+                  14. Cipro, 500 mg., 1/2's              OJEL, OKFD, OKFZ 
+                      (Ciprofloxacin HCl) 
+                  15. Clonidine HCl, 0.1 mg., 1/2's      106891 
+                  16. Constant-T, 300 mg., 1/2's         171461 
+                      (Theophylline)
+                  17. Corgard, 20 mg., 1/2's             0G51918
+                      (Nadolol) 
+                  18. Coumadin, 2 mg., 1/2's             CH170A 
+                      (Warfarin Sodium) 
+                  19. Coumadin, 2 mg., 1 1/2's           CF145A, CJ182A 
+                      (Warfarin Sodium) 
+                  20. Cyclobenzaprine HCl, 10 mg., 1/2's 396120 
+                  21. Cyproheptadine HCl, 4 mg., 1/2's   292952, 292955 
+                                                         292958, 292958R
+                  22. Cytotec, 200 mcg., 1/2's           1290244
+                      (Misoprostol) 
+                  23. Decadron, 0.5 mg., 1/2's           50404, 50809 
+                      (Dexamethasone) 
+                  24. Diazepam, 2 mg., 1/2's             3925727
+                  25. Diazepam, 5 mg., 1/2's &           3925728R, 3926829
+                      1 1/2's                             3926845 
+                  26. Didronel, 200 mg., 1/2's           203847R
+                      (Etidronate Disodium) 
+                  27. Florinef Acetate, 0.1 mg., 1/2's   1E4725 
+                      (Fludrocortisone Acetate) 
+                  28. Furosemide, 20 mg., 1/2's          292143, V012D, W065A 
+                  29. Furosemide, 40 mg., 1/2's          V093L
+                  30. Furosemide, 40 mg., 1 1/2's        900883 
+                  31. Glucotrol, 5 mg., 1/2's            0842A, 0852A, 0857A
+                      (Glipizide)                        0857A, 0872A, A041A
+                                                         A690E, D530AR, D540A 
+                  32. Halcion, 0.25 mg., 1/2's           223YB
+                      (Triazolam) 
+                  33. Haloperidol, 0.5 mg., 1/2's        71541, 72038 
+                  34. Haloperidol, 1 mg., 1/2's          039H0
+                  35. Haloperidol, 2 mg., 1/2's          01479DA
+                  36. Haloperidol, 5 mg., 1/2's          335490 
+                  37. Hydrochlorothiazide, 25 mg.,       0L019AI, 71724 
+                      1/2's 
+                  38. Isosorbide Dinitrate, 5 mg.,       116689 
+                      1/2's                              513189 
+
+                                      -6- 
+
+
+
+
+
+                  39. Klonopin, 0.5 mg, 1/2's            0501 
+                      (Clonazepam)
+                  40. Lanoxin, 0.125 mg., 1/2's          0T3140 
+                      (Digoxin)                          0Z1442 
+                  41. Lanoxin, 0.125 mg., 1 1/2's        0R1448, OT3140 
+                      (Digoxin)                          0X2529, 0Z1442 
+                  42. Levatol, 20 mg., 1/2's             4NK79A 
+                      (Penbutolol Sulphate) 
+                  43. Lioresal, 10 mg., 1 1/2's          1T127251 
+                      (Baclofen)
+                  44. Lopid, 600 mg., 1/2's              06111VA
+                      (Gemfibrozil) 
+                  45. Lopressor, 50 mg., 1/2's           0T0081 
+                      (Metoprolol Tartrate)              1T002357, 1T135719 
+                  46. Lorazepam, 0.5 mg., 1/2's          W029A, W030A 
+                  47. Magonate, 500 mg., 1/2's           1031252
+                      (Magnesium Gluconate Dihydrate) 
+                  48. Maxzide, 37.5 mg./25 mg., 1/2's    304317P
+                      (Triamterene/Hydrochlorothiazide) 
+                  49. Maxzide, 75 mg./50 mg., 1/2's      292305P
+                      (Triamterene/Hydrochlorothiazide)  294312P, 296312P 
+                  50. Medrol, 4 mg., 3/4's               459DP
+                      (Methylprednisolone)
+                  51. Mestinon, 60 mg., 1/2's            1157 
+                      (Pyridostigmine Bromide)
+                  52. Metoclopramide, 5 mg., 1/2's       0M03 
+                  53. Metoclopramide, 10 mg., 1/2's      14634, 007PR026
+                                                         009PR007, 011PR001 
+                                                         012PR009, 012PR009R
+                                                         103PR001, 104PR007 
+                                                         104PR007R, 71739, 0A40 
+                                                         0A45, 0J08, 0J08R
+                                                         1A36, H48602, 023A13 
+                                                         0300699, 90B045, 
+                                                         90C058, 91C082, 91C107 
+                  54. Metoclopramide, 10 mg., 2 1/2's    14634, 0A40, 0A45
+                  55. Moduretic, 5 mg./50 mg., 1/2's     50862
+                      (Amiloride/Hydrochlorothiazide) 
+                  56. Orap, 2 mg., 1/2's                 9193 
+                      (Pimozide)                         9193R
+                  57. Oxybutynin Chloride, 5 mg., 1/2's  H35303, H50801,
+                                                         0210507, 0210509 
+                                                         0410874, 0411040R
+                                                         1001727
+                  58. Parlodel, 2.5 mg., 1/2's           775P1496 
+                      (Bromocriptine Mesylate)           790P1502, 791P1504 
+                                                         80051777 
+                  59. Pepcid, 20 mg., 1/2's              T0244
+                      (Famotidine)                       T0413, T0527R
+                  60. Prednisone, 5 mg., 1/2's           15660
+                  61. Primidone, 250 mg., 1/2's          04042C, 04486CR
+                  62. Proloid, 32 mg., 1/2's             06420VA
+                      (Thyroglobulin) 
+
+                                      -7- 
+
+
+
+
+
+                  63. Reglan, 5 mg. 1/2's                90339
+                      (Metoclopramide)                   91552, 91593, 91694R 
+                  64. Regroton, 50 mg./0.25 mg., 1/2's   01402
+                      (Chlorthalidone/Reserpine)
+                  65. Sinemet, 10 mg./100 mg., 1/2's     51082
+                      (Carbidopa/Levodopa)               T0381, T0381R
+                  66. Sinemet, 25 mg./100 mg., 1/2's     T0220
+                      (Carbidopa/Levodopa)               T0498
+                  67. Sinemet, 25 mg./250 mg., 1/2's     51152
+                      (Carbidopa/Levodopa)               51153, T0006, T0468
+                                                         T0565, T0653, T0712R 
+                  68. Sulfamethoxazole/Trimethoprim,     102NC030R
+                      400 mg./80 mg., 1/2's 
+                  69. Sulindac, 200 mg., 1/2's           39176D 
+                  70. Tegretol, 100 mg., 1/2's           1T001955 
+                      (Carbamazepine) 
+                  71. Tenormin, 50 mg., 1/2's            AD801
+                      (Atenolol)                         AD891, AD941, AE221
+                                                         AE231, AE271, AE371
+                                                         AE511R 
+                  72. Theo-Dur, 100 mg., 1 1/2's         90284
+                      (Theophylline)
+                  73. Trazadone HCl, 50 mg., 1/2's       110207, 0110032
+                                                         0110055, 0310706 
+                                                         0310710, 0901739 
+                                                         1102181
+                  74. Trazadone HCl, 50 mg., 1 1/2's     0110056
+                  75. Trazadone HCl, 150 mg., 1/2's      0310727, 0310729R
+                                                         0310818, 1002032 
+                                                         1102190
+                  76. Triamterene/Hydrochlorothiazide,   01444DJ
+                      75 mg./50 mg., 1/2's               34802X0, 34807G0 
+                                                         34807M0, 92641W
+                  77. Trihexyphenidyl HCl, 2 mg., 1/2's  39057D, 39386D 
+                                                         39936DR, 40295D
+                  78. Vasotec, 2.5 mg., 1/2's            58728
+                      (Enalapril Maleate)                58809R 
+                  79. Vasotec, 5 mg., 1/2's              58682
+                      (Enalapril Maleate)                T8506, T8514, T9701
+                  80. Verapamil HCl, 80 mg., 1/2's       03686C, 34302E0
+                                                         34303B0, 34303J0 
+                  81. Verapamil HCl, 120 mg., 1/2's      T085K
+                  82. Vitamin B6, 50 mg. 1/2's           0EF0014
+                  83. Xanax, 0.25 mg., 1/2's             383YD
+                      (Alprazolam)                       414YD, 437YD, 438YD
+                                                         438YDR, 452YDR 
+                  84. Zestril, 5 mg., 1/2's              4497L
+                      (Lisinopril)
+                  85. Zestril, 10 mg., 1/2's             0438L
+                      (Lisinopril)
+                  86. Zinc, Chelated, 50 mg., 1/2's      14898
+anufacturer:     Various.
+Recalled by:      Pharmaceutical Services of Middle Tennessee, Inc.,
+                  Nashville, Tennessee (repacker/responsible firm), 
+
+                                      -8- 
+
+
+
+
+
+                  by telephone August 6, 1991 and letter August 7, 1991.
+                  Firm-initiated recall ongoing.
+Distribution:     Tennessee.
+Quantity:         71,389 unit dose packets were distributed; firm 
+                  estimates none remains on the market. 
+Reason:           Cutting of tablets and unit-dose repacking of partial 
+                  tablets.
+                                     ---- 
+
+Product:          (a) Whole Blood; (b) Red Blood Cells; (c) Recovered 
+                  Plasma.  Recall #B-361/363-1. 
+Code:             Unit numbers: (a) NA18707; (b) NA18617, NA18697;
+                  (c) NA18617, NA18697. 
+anufacturer:     East Texas Blood Center, Inc., Nacogdoches, Texas.
+Recalled by:      Manufacturer, by visit February 6, 1991, and by letter
+                  dated February 8, 1991.  Firm-initiated recall ongong.
+Distribution:     Texas.
+Quantity:         (a) 1 unit; (b) 2 units; (c) 2 units. 
+Reason:           Blood products, incorrectly tested for the antibody 
+                  to the human immunodeficiency virus type 1 (anti-HIV-1),
+                  and for the antibody to the hepatitis C virus (anti-HCV), 
+                  were distributed. 
+                                     ---- 
+
+NOTE:             Code section for Recall #B-338/342-1, blood products
+                  distributed by the American Red Cross, Wichita, Kansas, 
+                  which appeared in the July 31, 1991 Enforcement Report has
+                  been amended: 
+
+                  Granulocytes, Pheresis, Recall #B-341-1 - delete units
+                  02P09833 and 02P09834.
+
+                                     ---- 
+
+                  Class III - 
+
+Product:          (a) Whole Blood; (b) Red Blood Cells; (c) Platelets;
+                  (d) Fresh Frozen Plasma; (e) Recovered Plasma.
+                  Recall #B-364/368-1.
+Code:             Unit numbers: (a) NA18607, NA18655, NA18661, NA18709, 
+                  NA18711, NA18724, NA18752, NA18789, NA18791, NA18796: 
+                  (b) NA18602, NA18603 NA18604, NA18605, NA18606, NA18608,
+NA18609, NA18610, NA18611, NA18612, NA18613, NA18614, NA18615, NA18616, 
+NA18618, NA18619, NA18620, NA18621, NA18622, NA18623, NA18624, NA18625, 
+NA18626, NA18627, NA18628, NA18629, NA18630, NA18631, NA18632, NA18633, 
+NA18634, NA18635, NA18636, NA18637, NA18638, NA18639, NA18640, NA18641, 
+NA18642, NA18643, NA18644, NA18645, NA18646, NA18647, NA18648, NA18649, 
+NA18650, NA18651, NA18652, NA18653, NA18654, NA18656, NA18658, NA18659, 
+NA18660, NA18662, NA18663, NA18664, NA18665, NA18666, NA18667, NA18668, 
+NA18669, NA18670, NA18671, NA18673, NA18674, NA18675, NA18676, NA18677, 
+NA18678, NA18679, NA18680, NA18682, NA18683, NA18684, NA18685, NA18686, 
+
+                                      -9- 
+
+
+
+
+
+NA18687, NA18688, NA18689, NA18690, NA18691, NA18692, NA18693, NA18696, 
+NA18698, NA18700, NA18701, NA18702, NA18704, NA18705, NA18706, NA18708, 
+NA18710, NA18714, NA18715, NA18716, NA18717, NA18718, NA18719, NA18720, 
+NA18721, NA18722, NA18723, NA18725, NA18726, NA18727, NA18728, NA18729, 
+NA18730, NA18731, NA18732, NA18733, NA18734, NA18735, NA18736, NA18737, 
+NA18738, NA18739, NA18740, NA18741, NA18742, NA18743, NA18744, NA18745, 
+NA18750, NA18753, NA18754, NA18755, NA18756, NA18757, NA18758, NA18759, 
+NA18760, NA18762, NA18763, NA18764, NA18765, NA18766, NA18767, NA18768, 
+NA18769, NA18770, NA18771, NA18772, NA18773, NA18774, NA18775, NA18776, 
+NA18777, NA18778, NA18779, NA18780, NA18781, NA18782, NA18783, NA18784, 
+NA18785, NA18786, NA18787, NA18788, NA18790, NA18792, NA18793, NA18794, 
+NA18797, NA18798, NA18799, NA18800, NA18801, NA18802, NA18803, NA18804, 
+NA18805, NA18806, NA18808, NA18809, NA18810, NA18811, NA18812, NA18813, 
+NA18814, NA18815, NA18816, MU27217, MU27218, MU27220, MU27221, MU27222, 
+U27223, MU27224, MU27225, MU27226, MU27228, MU27229, MU27230, MU27231, 
+U27232, MU27233, MU27234, MU27235, MU27236, MU27258, MU27259, MU27260, 
+U27261, MU27262, MU27263, MU27264, MU27265, MU27266, MU27267, MU27269, 
+U27270, MU27271, MU27273, MU27274, MU27275, MU27276, MU27277, MU27278, 
+U27279, MU27280, MU27281, MU27282, MU27283, MU27284, MU27285, MU27286, 
+U27287, MU27288, MU27289, MU27290, MU27291, MU27292, MU27293, MU27294, 
+U27295, MU27296, MU27297, MU27298, MU27299, MU27300, MU27301, MU27302, 
+U27303, MU27304, MU27305, MU27306, MU27307, MU27308, MU27309, MU27310, 
+U27312, MU27313, MU27314, MU27315, MU27316, MU27317, MU27319, MU27320, 
+U27321, MU27322, MU27323, MU27324, MU27325, MU27326, MU27328, MU27329, 
+U27330, MU27331, MU27332, MU27334, MU27337, MU27338, MU27339, MU27340, 
+U27341, MU27342, MU27343, MU27344, MU27345, MU27347, MU27348, MU27349, 
+U27350, MU27351, MU27352, MU27353, MU27354, MU27355, MU27356, MU27358, 
+U27359, MU27360, MU27362, MU27363, MU27366, MU27367. 
+(c) NA18602, NA18651, NA18652, NA18653, NA18654, NA18655, NA18656, NA18659, 
+NA18660, NA18662, NA18663, NA18664, NA18665, NA18666, NA18667, NA18668, 
+NA18669, NA18670, NA18671, NA18672, NA18673, NA18674, NA18675, NA18708, 
+NA18710, NA18714, NA18715, NA18716, NA18717, NA18718, NA18719, NA18720, 
+NA18721, NA18722, NA18723, NA18725, NA18726, NA18727, NA18728, NA18729, 
+NA18730, NA18731, NA18732, NA18733, NA18734, NA18735, NA18736, NA18737, 
+NA18738, NA18739, NA18740, NA18742, NA18743, NA18744, NA18763, NA18775, 
+NA18776, NA18777, NA18778, NA18779, NA18780, NA18781, NA18782, NA18783, 
+NA18784, NA18785, NA18790, NA18792, NA18793, NA18794, NA18797, NA18798, 
+NA18799, NA18800, NA18801, NA18802, NA18803, NA18804, NA18809, NA18810, 
+NA18811, NA18812, NA18813, NA18814, NA18815, NA18816, MU27217, MU27218, 
+U27220, MU27221, MU27222, MU27223, MU27224, MU27225, MU27226, MU27228, 
+U27229, MU27230, MU27231, MU27232, MU27233, MU27234, MU27235, MU27236, 
+U27258, MU27259, MU27260, MU27261, MU27262, MU27263, MU27264, MU27265, 
+U27267, MU27269, MU27270, MU27271, MU27273, MU27274, MU27275, MU27276, 
+U27277, MU27278, MU27279, MU27280, MU27281, MU27282, MU27298, MU27299, 
+U27300, MU27301, MU27302, MU27303, MU27304, MU27305, MU27306, MU27307, 
+U27308, MU27309, MU27310, MU27312, MU27313, MU27315, MU27316, MU27319, 
+U27320, MU27321, MU27358, MU27359, MU27360, MU27362, MU27363, MU27366, 
+U27367.
+(d) NA18621, NA18736, NA18802, NA18803, NA18804, NA18805, MU18806,
+U27218, MU27259, MU27360.
+(e) NA18602, NA18603, NA18604, NA18605, NA18606, NA18608, NA18609, NA18610, 
+NA18611, NA18612, NA18613, NA18614, NA18615, NA18616, NA18618, NA18619, 
+NA18620, NA18622, NA18623, NA18624, NA18625, NA18626, NA18627, NA18628, 
+
+                                     -10- 
+
+
+
+
+
+NA18629, NA18630, NA18631, NA18632, NA18633, NA18634, NA18635, NA18637, 
+NA18638, NA18639, NA18640, NA18641, NA18642, NA18643, NA18644, NA18645, 
+NA18646, NA18647, NA18648, NA18649, NA18650, NA18651, NA18652, NA18653, 
+NA18654, NA18656, NA18658, NA18659, NA18660, NA18662, NA18663, NA18664, 
+NA18665, NA18666, NA18667, NA18668, NA18669, NA18670, NA18671, NA18673, 
+NA18674, NA18675, NA18676, NA18677, NA18678, NA18679, NA18680, NA18682, 
+NA18683, NA18684, NA18685, NA18686, NA18687, NA18688, NA18689, NA18690, 
+NA18691, NA18692, NA18693, NA18696, NA18698, NA18700, NA18701, NA18702, 
+NA18704, NA18705, NA18706, NA18708, NA18710, NA18714, NA18715, NA18716, 
+NA18717, NA18718, NA18719, NA18720, NA18721, NA18722, NA18723, NA18725, 
+NA18726, NA18727, NA18728, NA18729, NA18730, NA18731, NA18732, NA18733, 
+NA18734, NA18735, NA18736, NA18737, NA18738, NA18739, NA18740, NA18741, 
+NA18742, NA18743, NA18744, NA18745, NA18750, NA18753, NA18754, NA18755, 
+NA18756, NA18757, NA18758, NA18759, NA18760, NA18762, NA18763, NA18764, 
+NA18765, NA18766, NA18767, NA18768, NA18769, NA18770, NA18771, NA18772, 
+NA18773, NA18774, NA18775, NA18776, NA18777, NA18778, NA18779, NA18780, 
+NA18781, NA18782, NA18783, NA18784, NA18785, NA18786, NA18787, NA18788, 
+NA18790, NA18792, NA18793, NA18794, NA18797, NA18798, NA18799, NA18800, 
+NA18801, NA18808, NA18809, NA18810, NA18811, NA18812, NA18813, NA18814, 
+NA18815, NA18816, MU27217, MU27220, MU27221, MU27222, MU27223, MU27224, 
+U27225, MU27226, MU27228, MU27229, MU27230, MU27231, MU27232, MU27233, 
+U27234, MU27235, MU27236, MU27258, MU27260, MU27261, MU27262, MU27263, 
+U27264, MU27265, MU27266, MU27267, MU27269, MU27270, MU27271, MU27273, 
+U27274, MU27275, MU27276, MU27277, MU27278, MU27279, MU27280, MU27281, 
+U27282, MU27283, MU27284, MU27285, MU27286, MU27287, MU27288, MU27289, 
+U27290, MU27291, MU27292, MU27293, MU27294, MU27295, MU27296, MU27297, 
+U27298, MU27299, MU27300, MU27301, MU27302, MU27303, MU27304, MU27305, 
+U27306, MU27307, MU27308, MU27309, MU27310, MU27312, MU27313, MU27314, 
+U27315, MU27316, MU27317, MU27319, MU27320, MU27321, MU27322, MU27323, 
+U27324, MU27325, MU27326, MU27328, MU27329, MU27330, MU27331, MU27332, 
+U27334, MU27337, MU27338, MU27339, MU27340, MU27341, MU27342, MU27343, 
+U27344, MU27345, MU27347, MU27348, MU27349, MU27350, MU27351, MU27352, 
+U27353, MU27354, MU27355, MU27356, MU27358, MU27359, MU27362, MU27363, 
+U27366, MU27367. 
+anufacturer:     East Texas Blood Center, Inc., Nacogdoches, Texas.
+Recalled by:      Manufacturer, by visit February 6, 1991 and by
+                  letter February 8, 1991.  Firm-initiated recall complete. 
+Distribution:     Texas.
+Quantity:         (a) 10 units; (b) 300 units; (c) 153 units; 
+                  (d) 10 units; (e) 290 units.
+Reason:           Blood products, incorrectly tested for the antibody 
+                  to the human immunodeficiency virus type 1 (anti-HIV-1),
+                  and for the antibody to the hepatitis C virus (anti-HCV), 
+                  were distributed. 
+                                     ---- 
+
+NOTE:             Code section for Recall #B-343/345-1, blood products
+                  distributed by the American Red Cross, Wichita, Kansas, 
+                  which appeared in the July 31, 1991 has been amended: 
+                  Granulocytes, Recall #B-341-1  Pheresis - add units 02P09833
+                  and 02P09834; 
+                  Platelets, Recall #B-345-1 - delete units 02P09833 and
+                  02P09834. 
+
+                                     ---- 
+
+                                     -11- 
+
+
+
+
+
+                       DEVICES AND RADIOLOGICAL PRODUCTS
+
+                  Class I - 
+                                     NONE 
+                  Class II -
+
+Product:          Dilapan Hygroscopic Cervical Dilator. 
+                  Recall #Z-891-1.
+Code:             Batch #D040490D.
+anufacturer:     Gynotech, Inc., Middlesex, New Jersey.
+Recalled by:      Manufacturer, by telephone January 18, 1991.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         1,825 units were distributed. 
+Reason:           The device may break and fragments could be retained
+                  in the patient.  Premarket approval supplement for
+                  manufacturing this device at Middlesex, N.J. location 
+                  has also not been approved. 
+
+                                     ---- 
+
+Product:          ConFirm Biological Sterilization Indicator System Test
+                  Strips, indicated for use in determining efficiency of
+                  steam, dry heat, or EO sterilization: 
+                  (a) Reorder No. CST010 (1 test set);
+                  (b) Reorder No. CST060 (6 test sets).  Recall #Z-895/896-1. 
+Code:             All lots of product distributed in 1989 and 1990. 
+                  Product has 2 year expiration.
+anufacturer:     Cottrell, Ltd., Englewood, Colorado.
+Recalled by:      Manufacturer, by letter July 24, 1991.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         Approximately 3,348 units were distributed. 
+Reason:           The affected test strips are indicated for use as a 
+                  biological indicator in monitoring the unsaturated chemical 
+                  vapor (chemiclave) sterilization process, without 
+                  510(k) approval for this specific application.
+
+                                     ---- 
+
+Product:          Beckman Synchron Control, Multi-Level Assayed Kit, an 
+                  in-vitro control kit intended for use with "Synchron" 
+                  Analyzer Systems, to monitor changes in calibration and 
+                  linearity along with analytical error and imprecision.
+                  Recall #Z-897-1.
+Code:             Part #657365, Lot #M007190, Control Lot numbers:
+                  M003011 (Level 1), M003012 (Level 2), M003013 (Level 3) 
+                  EXP 11/30/91. 
+anufacturer:     Beckman Instruments, Inc., Carlsbad, California.
+Recalled by:      Beckman Instruments, Inc., Brea, California, by 
+
+                                     -12- 
+
+
+
+
+
+                  letter February 5, 1991.  Firm-initiated field
+                  correction ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         1,660 units were distributed; firm estimates that 
+                  little product remains on the market. 
+Reason:           The AST and total bilirubin analytes in this lot of 
+                  product are recovering below the published insert 
+                  range on level 3 assayed control in the kit on some 
+                  SYNCHRON AS, CX4, and CX5 systems.  Additionally, the 
+                  level 3 control may be decaying and form a precipitate
+                  before the published expiration date which may cause
+                  the magnesium recovery. 
+
+                                     ---- 
+
+Product:          Beckman Vigil PRX Multi-Level Protein Control,
+                  an in-vitro control kit used to monitor the reliability and 
+                  overall performance of specific protein and therapeutic 
+                  drug test systems.  Recall #Z-898-1.
+Code:             Part #442621, Lot #M002118 EXP 11/30/91.
+anufacturer:     Beckman Instruments, Carlsbad, California.
+Recalled by:      Beckman Instruments, Brea, California, by letter
+                  February 28, 1991.  Firm-initiated field correction ongoing.
+Distribution:     California, Connecticut, Indiana, Kentucky, Missouri, 
+                  North Carolina, New York, Oklahoma, Pennsylvania, 
+                  Wisconsin, Wyoming, Hawaii. 
+Quantity:         21 units were distributed.
+Reason:           The IA, IG, IM, Albumin and Transferrin analytes may
+                  recover above the published insert range for the control
+                  material when it is used for nephelometric assays in
+                  conjunction with the "Array" Protein System Analyzers.
+
+                                     ---- 
+
+Product:          Beckman Dri-Stat Reagent, an in-vitro reagent for use 
+                  in in-vitro diagnostic determinations of C02 levels.
+                  Recall #Z-899-1.
+Code:             Lot #M909197 EXP 9/30/91. 
+anufacturer:     Beckman Instruments, Inc., Carlsbad, California.
+Recalled by:      Beckman Instruments, Brea, California, by letter March 11,
+                  1991.  Firm-initiated field correction ongoing. 
+Distribution:     California, Colorado, Georgia, Michigan, Minnesota, 
+                  New Jersey, Texas, Puerto Rico. 
+Quantity:         629 units were distributed; FDA estimates that very 
+                  little remains on the market. 
+Reason:           Product does not maintain reconstituted eight hour
+                  stability as specified in the published insert. 
+
+                                     ---- 
+
+Product:          3M Maxi-Driver II (TM) Oscillating Saws:
+                  (a) Model No. L120B;
+                  (b) Model No. L220; 
+                  (c) Model No. L120A/B.  Recall #Z-901/903-1.
+
+                                     -13- 
+
+
+
+
+
+Code:             All serial numbers. 
+anufacturer:     3M Orthopedic Products Division, Irvine, California.
+Recalled by:      3M Orthopedic Products Division, St. Paul, Minnesota, by
+                  telephone April 10, 1991 followed by letter.  Firm-initiated
+                  recall complete.
+Distribution:     (a) Nationwide; (b & c) Nationwide, Canada, The 
+                  Netherlands.
+Quantity:         (a) 137 units; (b) 93 units; (c) 6 units were distributed.
+Reason:           Longer, heavier knee blades may disengage from the
+                  device during use.
+
+                                     ---- 
+
+Product:          Acetabular Shell Liner, Model 3820, an ultra-high 
+                  molecular weight polyethylene (UHMWPE) liner used in
+                  combination with a metal acetabular shell.
+                  Recall #Z-904-1.
+Code:             All production lots prior to and including P90L0229.
+anufacturer:     Orthomet, Inc., Minneapolis, Minnesota. 
+Recalled by:      Manufacturer, by telephone January 1991.  Firm-initiated
+                  recall complete.
+Distribution:     Nationwide, Sweden, Germany, Austria, Belgium, Spain, 
+                  Italy, France.
+Quantity:         2,068 liners were distributed.
+Reason:           When the fit between the liner and shell are poor the 
+                  shell liner can toggle and/or rotate within the metal 
+                  acetabular shell. 
+
+                                     ---- 
+
+Product:          Tecnomed TEC 1405 Generator, used for medical diagnostic
+                  x-ray examination, Recall #Z-905-1. 
+Code:             All serial numbers. 
+anufacturer:     Tecnomed USA, Bay Shore, New York.
+Recalled by:      Manufacturer.  FDA approved the firm's corrective action
+                  plan July 26, 1991.  Firm-initiated field correction
+                  ongoing.
+Distribution:     Alabama.
+Quantity:         1 unit was distributed. 
+Reason:           Noncompliance with performance standard for x-ray 
+                  products in that there is no visible signal to
+                  indicate that back-up time has been reached, nor is there 
+                  a means to prevent another exposure from being made before
+                  the back-up timer has been reset. 
+
+                                     ---- 
+
+
+                  Class III - 
+
+Product:          Adjustable Wishbone Assembly, a component of a Set-Up 
+                  Module 5000 Adjustable Wishbone Retraction System,
+                  used for retraction during surgery,  Recall #Z-881-1. 
+Code:             Serial numbers 3460.
+
+                                     -14- 
+
+
+
+
+
+anufacturer:     Omni-Tract Surgical, Division of Minnesota Scientific 
+                  Inc., St. Paul, Minnesota.
+Recalled by:      Manufacturer, by letter May 28, 1991.  Firm initiated 
+                  recall ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         99 units were distributed.
+Reason:           User misalignment during set-up may possibly cause the
+                  retaining ring to loosen and not allow the device 
+                  assembly (clamp) to be properly tightened.
+
+                                     ---- 
+
+Product:          Auto ICS Flow Cell/Stirrer Kit, Part #663495, an in-vitro 
+                  diagnostic product used for quantitation components of
+                  biological fluids, Recall #Z-892-1. 
+Code:             Lot numbers: PO-10-25, PO-09-27.
+anufacturer:     Beckman Instruments, Inc., Fullerton, California. 
+Recalled by:      Beckman Instruments, Inc., Brea, California, by letter
+                  December 21, 1990.  Firm-initiated recall ongoing.
+Distribution:     Nationwide and international
+Quantity:         489 kits were distributed.
+Reason:           A portion of the stirrers were not magnetized, which if 
+                  used, would result in a nonhomogenous reagent mixture 
+                  that would be out of range values for the controls. 
+
+                                     ---- 
+
+Product:          Beckman Synchron CX Systems T-Uptake Reagent, an in-vitro 
+                  diagnostic kit for use with Synchron CX System Analyzers
+                  for the quantitative determination of the unoccupied
+                  thyroxine-binding capacity in serum and plasma. 
+                  Recall #Z-900-1.
+Code:             Part #445999, Lot numbers: 5258A, L5258A EXP 10/31/91.
+anufacturer:     Microgenics Corporation, Concord, California. 
+Recalled by:      Beckman Instruments, Inc., Brea, California, by 
+                  telephone December 3, 1990.  Firm-initiated recall ongoing. 
+Distribution:     Washington D.C., California, Connecticut, Georgia, Hawaii,
+                  Illinois, Kansas, Kentucky, Louisiana, New York, Oregon,
+                  South Carolina, Tennessee, Virginia, West Virginia, Oklahoma. 
+Quantity:         26 units were distributed; firm estimates none remains
+                  on the market.
+Reason:           The calibrator components are not performing to labeling
+                  specifications due to a loss in reconstituted stability.
+                  The stability loss can be attributed to the effect of 
+                  lyophilization on the human serum raw materials used in 
+                  the product.
+                                     ---- 
+
+                              VETERINARY PRODUCTS 
+
+                                     NONE 
+
+                                     -15-

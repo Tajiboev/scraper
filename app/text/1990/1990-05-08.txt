@@ -1,0 +1,831 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      28 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+05/08/1990       
+
+FDA Enforcement for the week of May 9, 1990 
+
+
+
+                            FDA ENFORCEMENT REPORT
+                                FOR MAY 9, 1990 
+
+                                                              May 9, 1990 
+Recalls and Field Corrections:
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  Product will cause serious adverse health consequences or 
+                  death.
+
+                                     NONE 
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the 
+                  probability of serious adverse health consequences is 
+                  remote. 
+
+
+Product:          Yellow molded candy products in the shapes of:
+                  (a) Bunnies - 2 ounces Suckers and 4 ounce, 7 ounce,
+                  12 ounce, 20 ounce, 27 ounce and 4 pound size figures;
+                  (b) Ducks, 7 ounces; (c) Crosses, 3 ounces; 
+                  (d) Baskets, 12 ounces, 20 ounces, and 24 ounces; 
+                  (e) Yellow Pretzel Delights, in 12 pound bulk boxes.
+                  Recall #F-507/511-0.
+
+                                      -1- 
+
+
+
+
+
+
+Code:             All lots containing undeclared FD&C; Yellow No. 5. 
+Manufacturer:     Ben Heggy Candy Company, Canton, Ohio.
+Recalled by:      Manufacturer, by letter April 12, 1990.  Firm-initiated 
+                  field correction ongoing. 
+Distribution:     Ohio, Indiana, Pennsylvania (yellow molded candy products); 
+                  Ohio, West Virginia, Pennsylvania (yellow pretzels).
+Quantity:         Firm estimates 400 pounds of the yellow molded Easter 
+                  candy remains on market.
+Reason:           Products contain undeclared FD&C; Yellow No. 5.
+
+                                     ---- 
+
+Product:          Lou-Retta's Chocolate brand (a) Red & Yellow Candy Roses, 
+                  1 ounce each piece, shipped in bulk;
+                  (b) Chocolate and Red Candy Lipsticks, 1 ounce each,
+                  shipped in bulk.  Recall #F-512/513-0.
+Code:             Not coded.
+Manufacturer:     Lou-Retta's Custom Chocolates Inc., Buffalo, New York.
+Recalled by:      Manufacturer, by letter and telephone February 26, 1990.
+                  Firm-initiated recall ongoing.
+Distribution:     New York. 
+Quantity:         (a) 500 units; (b) 2,000 units were distributed.
+Reason:           Products contain undeclared FD&C; Yellow No. 5.
+
+                                     ---- 
+
+Product:          Honey Boy brand Canned Pink Salmon, in 15-1/2 ounce cans. 
+                  Recall #F-516-0.
+Code:             Lot #029P/2113. 
+Manufacturer:     Annette Island Packing Company, Metlakatla, Alaska. 
+Recalled by:      Annette Island Packing Company, Seattle, Washington, by 
+                  visit to retailers on or about March 1, 1990. 
+                  Firm-initiated recall complete. 
+Distribution:     Texas, New Mexico.
+Quantity:         800 cases (24 cans/case) were distributed; 722-1/2 cases
+                  were recovered. 
+Reason:           Defective cans. 
+
+                                     ---- 
+
+                  Class III - A situation in which the use of, or exposure to 
+                  a violative product is not likely to cause adverse health 
+                  consequences. 
+
+
+Product:          Gaeta Balsamic Vinegar, in 16.5 ounce, 120 ounce and
+                  8.45 ounce glass bottles.  Recall #F-514-0. 
+Code:             All codes.
+Manufacturer:     Adrano Groboli, Modena, Italy.
+Recalled by:      Gaeta Imports Inc., Babylon, New York, by telephone 
+                  December 6, 1989 followed by letter December 19, 1989.
+                  Firm-initiated recall complete. 
+Distribution:     Rhode Island, New Jersey, New York. 
+Quantity:         1,006 bottles were distributed. 
+
+                                      -2- 
+
+
+
+
+
+Reason:           Product contains undeclared sulfites. 
+
+                                     ---- 
+
+Product:          Fresco Premium Garlic in water, in 32 ounce jars. 
+                  Recall #F-515-0.
+Code:             VIBBI.
+Manufacturer:     Victoria Packing Corporation, Brooklyn, New York. 
+Recalled by:      Manufacturer, by letter February 21, 1990.  Firm-initiated
+                  recall complete.
+Distribution:     New Jersey. 
+Quantity:         240 cases (12 jars/case) were distributed.
+Reason:           Product is contaminated with lactobacillus and is 
+                  undergoing decomposition. 
+
+                                     ---- 
+
+                           HUMAN DRUGS AND RADIOLOGY
+
+                  Class I - 
+                                     NONE 
+                  Class II -
+
+Product:          Nitrous Oxide USP liquid and gas in the following 
+                  size cylinders: E - 1,560 liters, F - 4,840 liters, 
+                  G - 13,515 liters, H - 15,490 liters, VGL - 375 pounds, 
+                  R - 5 pounds.  Recall #D-265-0. 
+Code:             All nitrous oxide filled and shipped between 3-21-90
+                  and 4-5-90. 
+Manufacturer:     Puritan Bennett Corporation, Indianapolis, Indiana
+                  (repacker). 
+Recalled by:      Manufacturer, by telephone April 5, 1990 followed by
+                  letter.  Firm-initiated recall ongoing. 
+Distribution:     Indiana.
+Quantity:         Undetermined. 
+Reason:           A cylinder was found adulterated with 15 percent
+                  carbon dioxide. 
+
+                                     ---- 
+
+Product:          Tesuloid Kit for the preparation of Technetium Tc 99m Sulfur
+                  Colloid, an Rx product used for radioactive imageing. 
+                  Recall #D-269-0.
+Code:             Lot #9G06807. 
+Manufacturer:     Bristol-Myers Squibb Company, New Brunswick, New Jersey.
+Recalled by:      Manufacturer, by letter March 8-9, 1990.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         1,325 units were distributed. 
+Reason:           Kit components include a syringe of sterile .25N hydro- 
+                  chloric acid which is mislabeled as the buffer solution 
+                  component.
+                                     ---- 
+
+                                      -3- 
+
+
+
+
+
+Product:          Hyperstat I.V. Injection, USP (Diazoxide), 300 mg/20 ml 
+                  ampul, an Rx drug for short-term use in the emergency 
+                  reduction of blood pressure in severe, nonmalignant and 
+                  malignant hypertension in hospitalized adults.
+                  Recall #D-268-0.
+Code:             Lot numbers:  8-APJ-1002 EXP 4/91, 8-APJ-1003 EXP 6/91; 
+                  8-APJ-1004 EXP 7/91, 8-APJ-1005 EXP 8/91, 8-APJ-1006
+                  EXP 8/91. 
+Manufacturer:     Schering Corporation, Manati, Puerto Rico.
+Recalled by:      Schering Labs, Union, New Jersey, by letter March 8,
+                  1990.  Firm-initiated recall ongoing. 
+Distribution:     Nationwide, Puerto Rico.
+Quantity:         8,560 ampuls (8-APJ-1002), 9,394 ampuls (8-APJ-1003), 
+                  8,874 ampuls (8-APJ-1004), 7,288 ampuls (8-APJ-1005), 
+                  8,352 ampuls (8-APJ-1006) were distributed. 
+Reason:           Product does not meet pH specifications which may cause 
+                  crystallization.
+
+                                     ---- 
+
+Product:          (a) Red Blood Cells; (b) Platelets; (c) Fresh Frozen
+                  Plasma; (d) Recovered Plasma.  Recall #B-133/136-0. 
+Code:             Unit numbers: (a) 17P48297, 17M83110; (b) 17P48297, 
+                  17M83110; (c) 17M83110; (d) 17P48297. 
+Manufacturer:     American Red Cross Blood Services, St. Paul, Minnesota. 
+Recalled by:      Manufacturer, by letter December 1, 1989.  Firm-initiated 
+                  recall complete.
+Distribution:     Minnesota, California.
+Quantity:         (a) 2 units; (b) 2 units; (c) 1 unit; (d) 1 unit were 
+                  distributed.
+Reason:           Blood products, drawn from donors who 1) participated 
+                  in high-risk behavior or 2) were exposed to hepatitis,
+                  were distributed. 
+
+                                     ---- 
+
+                  Class III - 
+
+Product:          Conjugated Estrogens Tablets USP, in 100 and 1,000
+                  tablet bottles, an Rx drug used primarily for moderate
+                  to severe vasomotor symptoms associated with menopause, 
+                  under the Zenith, Interstate Drug Exchange, Best
+                  Generics, Major Pharmaceutical labels: (a) 0.3 mg;
+                  (b) 0.625 mg; (c) 1.25 mg.  Recall #D-234/236-0.
+Code:             Lot numbers: 3636-18 EXP 3/90, 2042-213 EXP 3/90, 
+                  2042-216 EXP 4/90, 2042-218 EXP 5/90, 2045-242 EXP 3/90,
+                  2045-243 EXP 3/90, 2045-245 EXP 4/90, 2045-247 EXP 6/90.
+Manufacturer:     Zenith Laboratories, Inc., Northvale, New Jersey. 
+Recalled by:      Manufacturer, by telephone March 13, 1990 followed by 
+                  letters March 9-10, 1990.  Firm-initiated recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         51,849 (100 tablet bottles), 15,166 (1000 tablet bottles) 
+                  were distributed; firm estimates very little or no
+                  product remains on market.
+                                      -4- 
+
+
+
+
+
+Reason:           Products fail content uniformity requirements.
+
+                                     ---- 
+
+Product:          Somophyllin-CRT (timed-release) Capsules, 250 mg, in
+                  bottles of 100, an Rx drug used for bronchial asthma. 
+                  Recall #D-237-0.
+Code:             Lot #M0292 EXP 11/91. 
+Manufacturer:     D.M. Graham Laboratories, Inc., Hobart, New York. 
+Recalled by:      Fisons Corporation, Rochester, New York, by visit 
+                  beginning on or about April 16, 1990. 
+                  Firm-initiated field correction ongoing.
+Distribution:     California, Georgia, New York.
+Quantity:         Firm estimates none remains on market.
+Reason:           Some shipping cartons were found which declared a 
+                  strength of 300 mg.  The individual bottles were
+                  properly labeled. 
+                                     ---- 
+
+Product:          H.L. Moore brand Valproic Acid 250 mg. Soft Gel Capsules, 
+                  in 100 capsule bottles, an Rx anti-convulsant.
+                  Recall #D-242-0.
+Code:             Lot numbers:  149209 EXP 11/91, 990198 EXP 1/92.
+Manufacturer:     Chase Chemical Company, Newark, New Jersey. 
+Recalled by:      Manufacturer, by telephone March 22, 1990 followed by 
+                  letter March 23, 1990.  Firm initiated recall ongoing.
+Distribution:     Connecticut.
+Quantity:         884 bottles of lot #149209, 1,488 bottles of lot #990198
+                  were distributed. 
+Reason:           Label does not state name and address of manufacturer or
+                  address of distributor. 
+
+                                     ---- 
+
+Product:          Various Rx drugs, small volume parenterals, of various
+                  strengths and sizes per product:
+                  1.  Aminocaproic Acid Injection, USP, 250 mg/ml, 20 cc, 
+                  250 mg/ml, 96 cc, under DuPont & Quad labels; 
+                  2.  Dexamethasone Sodium Phosphate Injection, USP 
+                  4 mg/ml in 5 cc vials and 4 mg/ml in 30 cc vials, 
+                  under the Quad label; 
+                  3.  Dexamethasone Sodium Phosphate Injection, USP,
+                  10 mg/ml, in 10 cc vials, under the Quad label; 
+                  4.  Dexamethasone Sodium Phosphate Injection, USP,
+                  20 mg/ml, in 5 cc vials, under the Quad label;
+                  5.  Dexamethasone Sodium Phosphate Injection, USP,
+                  24 mg/ml, in 5 cc vials, under the Quad label;
+                  6.  Estradiol Cypionate Injection, USP, 5 mg/ml, in 10
+                  cc vials, under the Rugby label;
+                  7.  Fluphenazine Decanoate Injection, 25 mg/ml, in 5 cc 
+                  vials, under the Quad, DuPont and Rugby labels; 
+                  8.  Glycopyrrolate Injection, USP, 0.2 mg/ml, in 1 cc,
+                  2 cc, 5 cc and 20 cc vials, under the Quad label; 
+
+                                      -5- 
+
+
+
+
+
+                  9.  Haloperidol Injection, USP, 5 mg/ml, in 1 and 10
+                  cc vials, under the DuPont and Quad labels; 
+                  10. Hydrocortisone Sodium Phosphate Injection, USP, 
+                  50 mg/ml, in 2 cc and 10 cc vials, under the Quad label;
+                  11.  Methotrexate Sodium Injection, USP, 25 mg/ml, in 2 cc, 
+                  4 cc, and 8 cc vials, under the Quad label; 
+                  12.  Methyldopate Hydrochloride Injection, USP, 50 mg/ml, 
+                  in 5 cc and 10 cc vials, under the Quad label;
+                  13.  Nalbuphine Hydrochloride Injection, 10 mg/ml, in 
+                  1 cc vials under the DuPont and Quad labels, and in 
+                  10 cc vials, under the Bioline, DuPont, Goldline, Quad, 
+                  Rugby, and Schein labels; 
+                  14. Nalbuphine Hydrochloride Injection, 20 mg/ml, in 1 cc 
+                  vials, under the DuPont and Quad labels; and in 10 cc 
+                  vials under the Quad, Rugby and Schein labels;
+                  15.  Naloxone Hydrochloride Injection, USP, 0.4 mg/ml, in 
+                  1 cc and 10 cc vials, under the Quad label; 
+                  16.  Naloxone Hydrochloride Injection, USP, 0.02 mg/ml, in
+                  2 cc vials, under the Quad label; 
+                  17.  Naloxone Hydrochloride Injection, USP, 1 mg/ml, in 
+                  2 cc vials, under the Quad label; 
+                  18.  Procainamide Hydrochloride Injection, USP, 100 mg/ml,
+                  in 10 cc vials, under the DuPont and Quad labels; 
+                  19.  Procainamide Hydrochloride Injection, USP, 500 mg/ml,
+                  in 2 cc vials, under the DuPont and Quad labels;
+                  20.  Ritodrine Hydrochloride Injection, USP, 10 mg/ml, in 
+                  5 cc vials, under the DuPont and Quad labels; 
+                  21.  Ritodrine Hydrochloride Injection, USP, 15 mg/ml,
+                  in 10 cc, under the DuPont and Quad labels; 
+                  22.  Vincristine Sulfate Injection, USP, in 1 mg/ml, 5 cc 
+                  vials, under the Quad label.  Recall #D-243/264-0.
+Code:                        Lot Nos.      EXP
+                  1.(20 cc)     901H27        7/90
+                                901H41A       10/90 
+                                901J03        1/91
+                                901J10        3/91
+                                901J32        8/91
+                    (96 cc)     901H19        5/90
+                                90141B        10/90 
+                                901H52        12/90 
+                                901J17        4/91
+                                901J31        8/91
+                  2. (5 cc)     405H51        6/90
+                                405J14        10/90 
+                                405J32        2/91
+                     (30 cc)    405H43        4/90
+                                405J09        8/90
+                                405J29        1/91
+                  3. (10 cc)    406H50        6/90
+                                406J31        2/91
+                  4.  (5 cc)    407H43        4/90
+                                407J41        4/91
+                  5.  (5 cc)    408H46        5/90
+                                408J35        2/91
+                                      -6- 
+
+
+
+
+
+                  6. (10cc)     417J12        9/90
+                  7.  (5 cc)    907H24        6/90
+                                907H36        9/90
+                                907H44        10/90 
+                                907J03        1/91
+                                907J08        2/91
+                                907J20        11/90 
+                  8.  (1 cc)    506H47        5/90
+                                506J07        8/90
+                                506J15        10/90 
+                                506J26A       12/90 
+                      (2cc)     506H40        4/90
+                      (5 cc)    506H42        4/90
+                                506J08        8/90
+                     (20 cc)    506H52        6/90
+                  9. (1 cc)     513H40A       4/90
+                                513H47        5/90
+                                513J04A       7/90
+                                513J04B       7/90
+                                513J15A      10/90
+                                513J15B      10/90
+                     (10 cc)    513H40B      4/90 
+                                513J12       9/90 
+                                513J21       11/90
+                  10. (2 cc)    442J11       9/90 
+                  (2cc, 10cc)   442H41       4/90 
+                                442J14       10/90
+                  11. (2cc)     206H50       12/90
+                                206J33       8/91 
+                      (4cc)     206J07A      8/90 
+                      (8cc)     206J07B      8/90 
+                  12. (5cc)     610H44A      5/90 
+                                610J23       12/90
+                                610J45       5/91 
+                      (10cc)    610H44B      5/90 
+                                610J50       6/91 
+                  13. (1cc)     504H22       6/90 
+                                504H29       7/90 
+                                504H37A      9/90 
+                                504H45       11/90
+                                504H50       12/90
+                                504J10       3/91 
+                                504J19       5/91 
+                                504J45       11/91
+                      (10cc)    504H15       4/90 
+                                504H34       8/90 
+                                504H37B      9/90 
+                                504H52       12/90
+                                504J40       10/91
+                  14. (1cc)     505H50       6/90 
+                                505K01       7/91 
+                      (10cc)    505H52       6/90 
+                                505J36       3/91 
+
+                                      -7- 
+
+
+
+
+
+                  15. (1cc)     501J15       10/90
+                      (10cc)    501J17       10/90
+                  16. (2cc)     502J22       12/90
+                                502J44       5/91 
+                  17. (2cc)     503J10       9/90 
+                  18. (10cc)    904H44       11/90
+                                904J01       1/91 
+                                904J12       3/91 
+                                904J26       6/91 
+                  19. (2cc)     905H49       12/90
+                                905J11       3/91 
+                                905J26       6/91 
+                  20. (5cc)     902J08       8/90 
+                                902J46       5/91 
+                  21. (10cc)    903J12       9/90 
+                                903J22       11/90
+                  22. (5cc)     200H40       4/90 
+                                200J08       8/90 
+Manufacturer:     Quad Pharmaceuticals, Inc., Indianapolis, Indiana.
+Recalled by:      Manufacturer, by letter April 2-3, 1990.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         5,080,479 units were distributed. 
+Reason:           Unapproved overages in active ingredients and/or
+                  preservatives.
+
+                                     ---- 
+ Product:         Conray 325 Sterile Solution, in 50 ml vials, distributed
+                  individually and as part of the Conray Angio-Pak
+                  (Angiourography Administration Kit) which contains 2/50 
+                  ml vials of Conray 325.  Recall #D-266-0. 
+Code:             Lot #D151A EXP 10/92, D151A1 EXP 10/92. 
+Manufacturer:     Mallinckrodt Parenterals, Raleigh, North Carolina.
+Recalled by:      Mallinckrodt Medical, Inc., St. Louis, Missouri, by 
+                  telephone April 9, 1990 and by letter APril 12, 1990. 
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide. 
+Quantity:         13,500 vials and 24 kits were distributed.
+Reason:           Label incorrectly declares chemical name as Iothalamate 
+                  Meglumine instead of iothalmate sodium.  Usage section of 
+                  label has correct declaration.
+
+                                     ---- 
+
+Product:          Medical Oxygen USP, a compressed gas in metal D and E 
+                  size tanks.  Recall #D-267-0. 
+Code:             Lot Numbers   Tank Numbers
+                  091189        846, 868
+                  111889        867, 871, 940 
+                  120489        933, 877, 857, 823
+                  120589        878, 805
+                  021490        932, 807
+                  031990        938.
+Manufacturer:     Four Rivers Home Healthcare, Sullivan, Missouri (repacker). 
+Recalled by:      Manufacturer, by visit beginning March 22, 1990.
+                  Firm-initiated recall complete. 
+
+                                      -8- 
+
+
+
+
+
+Distribution:     Missouri. 
+Quantity:         14 tanks were subject to recall; firm estimates none
+                  remains on market.
+Reason:           Current Good Manufacturing Practice deficiencies. 
+
+                                     ---- 
+
+Product:          Lederle brand Nystatin Powder, USP for Extemporaneous 
+                  Preparation of Oral Suspension, in 150 million unit package,
+                  an Rx drug.  Recall #D-270-0. 
+Code:             Lot #253-471 EXP 4/91, 250-346 EXP 3/91.
+Manufacturer:     Lederle Laboratories Division, Pearl River, New York. 
+Recalled by:      telephone April 9, 1990 and by letter April 23, 1990. 
+                  Firm-initiated recall ongoing.
+Distribution:     Illinois, Texas, California, Pennsylvania.
+Quantity:         3,990 units were distributed. 
+Reason:           Product does not meet loss on drying specifications.
+
+                                     ---- 
+
+Product:          West-ward brand Docusate Calcium Capsules, 240 mg., 
+                  in boxes of 100, an OTC stool softener. 
+                  Recall #D-271-0.
+Code:             Lot #50114 EXP 3/91.
+Manufacturer:     West-ward Pharmaceutical Corporation, Eatontown, New Jersey.
+Recalled by:      Manufacturer, by telephone on or about March 2, 1990
+                  followed by letter March 14, 1990.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         638 boxes were distributed. 
+Reason:           Label error - One of every twenty unit dose labels
+                  declares docusate sodium instead of docusate calcium. 
+
+                                     ---- 
+
+Product:          Aminophylline Tablets (a) 100 mg; (b) 200 mg., in 100, 1,000
+                  tablet bottles and in 100 tablet unit dose packages,
+                  an Rx product used as a bronchodilator, under the Rugby,
+                  West-ward, Schein, and Moore labels.  Recall #D-272/273-0.
+Code:             Lot numbers: (a) 50254 EXP 4/91, 50560 EXP 8/91,
+                  50561 EXP 8/91, 50561 B EXP 8/91, 50561 C EXP 8/91, 
+                  50561 D EXP 8/91; 
+                  (b) 50271 A EXP 7/91, 50271 EXP 3/91, 50286 EXP 3/91, 
+                  50286 EXP 3/91. 
+Manufacturer:     West-ward Pharmaceutical Corporation, Eatontown, New Jersey.
+Recalled by:      Manufacturer, by telephone March 5, 1990 followed by letter 
+                  March 9, 1990.  Firm-initiated recall ongoing.
+Distribution:     Nationwide. 
+Quantity:         (a) 2,407 bottles of 1,000, 2,546 bottles of 100 and
+                  144 unit dose packages; (b) 420 bottles of 1,000 and
+                  1,360 bottles of 100 were distributed.
+Reason:           Subpotency of the ethylenediamine component.
+
+                                     ---- 
+
+                                      -9- 
+
+
+
+
+
+Product:          Circular of Information for the Use of Human Blood and
+                  Blood Components.  Recall #B-143-0. 
+Code:             Unknown.
+Manufacturer:     J.K. and Susie L. Wadley Research Institute and Blood Bank, 
+                  doing business as The Blood Center at Wadley, Dallas, Texas.
+Recalled by:      Manufacturer, by letters November 22, 1989 and December 11, 
+                  1989.  Firm-initiated field correction complete.
+Distribution:     Texas.
+Quantity:         New circulars were issued.
+Reason:           Promoting the use of the antibody to the hepatitis C virus
+                  (anti-HCV) testing of blood components as safe and effective
+                  while the test is under investigational status. 
+
+                                     ---- 
+
+Product:          Reagent Red Blood Cells, BCA Spectrogen-Duo, in 10 ml.
+                  vials.  Recall #B-144-0.
+Code:             Lot #90119 EXP 4/20/90. 
+Manufacturer:     Organon Teknika Corporation, West Chester, Pennsylvania.
+Recalled by:      Manufacturer, by letter March 28, 1990.  Firm-initiated 
+                  recall complete.
+Distribution:     Nationwide and international. 
+Quantity:         685 kits were distributed; firm estimates none remains
+                  on market.
+Reason:           Fy (b+) Reagent Red Blood Cells labeled as Fy (b-) were 
+                  distributed.
+                                     ---- 
+
+                         MEDICAL DEVICES AND RADIOLOGY
+
+                  Class I - 
+                                     NONE 
+                  Class II -
+
+Product:          Gambro P-M-G Tranducer Protectors, sterile, non-
+                  pyrogenic, single patient use devices used to prevent blood 
+                  and aerosol contamination of transducers on hemodialyzers.
+                  Recall #Z-553-0.
+Code:             Product #AD 200, lot numbers: 9-2006-N, 9-2007-N. 
+Manufacturer:     Gambro-Hospal, Inc., Newport News, Virginia.
+Recalled by:      Manufacturer, by letter April 6, 1990.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         57,450 units were distributed; firm estimates little
+                  or none of the product remains on market. 
+Reason:           Dimensional characteristics of the male/female luer 
+                  connectors of these lots could cause air to enter into, 
+                  or blood to leak from, the system during hemodialysis 
+                  treatment.
+
+                                     ---- 
+
+                                     -10- 
+
+
+
+
+
+Product:          Stockert-Shiley CAPS Multi-FLow Roller Pump Module, 
+                  one of several different modules which comprise the 
+                  Stockert-Shiley Computer Assisted Perfusion System
+                  (CAPS) used during cardiac or thoracic surgery for
+                  perfusion control.  Recall #Z-555-0.
+Code:             Product designation 10-10-00 -- All pumps are involved
+                  (serial numbers begin with 10H followed by three digits). 
+Manufacturer:     Stockert Instrumente, Munchen, West Germany.
+Recalled by:      Shiley, Inc., Irvine, California, by letter, December 23, 
+                  1988.  Firm-initiated field correction completed
+                  May 30, 1989. 
+Distribution:     Nationwide, West Germany. 
+Quantity:         414 units were distributed. 
+Reason:           Local resistance heating occurs at several positions on 
+                  the power supply board and results in premature or
+                  unanticipated shutdown of the pump. 
+
+                                     ---- 
+
+Product:          CDI System 300 Extracorporeal Blood Gas Monitor, a
+                  component of the CDI Extracorporeal Blood Monitoring
+                  System 300, used to provide continuous, on-line 
+                  monitoring of partial pressures of oxygen and carbon
+                  dioxide, pH, and blood temperature during cardio- 
+                  pulmonary bypass.  Recall #Z-556-0. 
+Code:             Serial numbers:  3216, 3218, 3228, 3245, 3264, 3269, 3272,
+                  3276, 3281, 3284, 3288, 3293, 3298, 3336, 3339, 3340, 3342, 
+                  3350, 3355, 3361, 3362, 3367, 3383, 3388, 3393, 3407, 3409, 
+                  3412, 3421, 3422, 3424, 3432, 3435, 3458, 3460, 3465, 3476, 
+                  3480, 3489, 3492, 3495, 3500, 3502, 3506, 3508, 3538, 3542, 
+                  3545, 3549, 3564, 3601, 3602, 3610, 3616, 3617, 3625, 3626, 
+                  3635, 3637, 3641, 3648, 3661, 3663, 3669, 3674, 3693, 3710, 
+                  3712, 3716, 3729, 3734, 3744, 3747, 3770, 3775, 3812, 3822, 
+                  3825, 3831, 3835, 3842, 3849, 3852, 3855, 3865, 3875, 3876, 
+                  3888, 3892, 3893, 3894, 3895, 3896, 3897, 3902, 3913, 3915, 
+                  3924, 3928, 3941, 3943, 3944, 3945, 3946, 3947, 3948, 3949, 
+                  3950, 3952, 3953 through 4007, 4009 through 4021, 4023, 4024, 
+                  4025, 4028, 4030, 4031, 4033 through 4039, 4047, 4048, 4050.
+Manufacturer:     CDI/3M Health Care, Irvine, California. 
+Recalled by:      Manufacturer, by letter January 17, 1990.  Firm-initiated 
+                  field correction ongoing. 
+Distribution:     Nationwide, Denmark, Finland, France, Italy, Japan, 
+                  The Netherlands, Norway, Scotland, Spain, Sweden, 
+                  Switzerland, West Germany.
+Quantity:         188 units were distributed. 
+Reason:           An error in the device's software program component can 
+                  result in erroneous oxygen saturation measurements. 
+
+                                     ---- 
+
+                                     -11- 
+
+
+
+
+
+                  Class III - 
+
+Product:          K509 DAKO Pap Immunoenzymatic Staining Kit System 40
+                  for the demonstration and identification of Prostate
+                  Specific Antigen (PSA).  Recall #Z-562-0. 
+Code:             Lot #059-8. 
+Manufacturer:     DAKO Corporation, Carpinteria, California.
+Recalled by:      Manufacturer, by letter January 25, 1990.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Connecticut, Florida, Iowa, Illinois, Louisiana, Maryland,
+                  Mississippi, North Carolina, North Dakota, New York,
+                  Pennsylvania, Wisconsin, Australia, Canada, Denmark, Mexico.
+Quantity:         30 kits were distributed; firm estimates none remains on
+                  market. 
+Reason:           The PAP reagent in the kit is unstable and does not meet
+                  the firm's staining standard. 
+
+                                     ---- 
+
+                              VETERINARY PRODUCTS 
+
+                  Class I-
+
+                                     NONE 
+                  Class II -
+
+                                     NONE 
+
+                  Class III - 
+
+Product:          Norden brand Filaribits Plus (Diethylcarbamazine Citrate
+                  and Oxibendazole), in 200 tablet bottles, an Rx dog wormer. 
+                  Recall #V-041-0.
+Code:             Lot #5706090. 
+Manufacturer:     Smith Kline Beecham Animal Health, Lincoln, Nebraska. 
+Recalled by:      Manufacturer, by letter April 4, 1990.  Firm-initiated
+                  recall complete.
+Distribution:     Virginia, Texas, Florida. 
+Quantity:         2,920 bottles were distributed; firm estimates none 
+                  remains on market.
+Reason:           Mslabeling -- Five bottles of Filaribits Plus, 180 mg/136 
+                  mg, were mislabeled as Filaribits Plus 60 mg/45 mg. 
+
+                                     ---- 
+
+Seizure Actions Filed:
+
+Product:          Latex Examination Gloves (90-552-360).
+Charge:           Adulterated - Product contains excessive holes; 
+                  Misbranded - Label fails to bear name and place of
+                  business of manufacturer, packer or distributor.
+Firm:             Scitech Medical Products, New Hyde Park, New York.
+
+                                     -12- 
+
+
+
+
+
+Filed:            March 28, 1990 - U.S. District Court for the Western
+                  District of Missouri; Civil #90-0305-CV-W-6, FDC #65844.
+
+                                     ---- 
+
+Product:          Fresh Frozen Peeled Shrimp (90-527-509).
+Charge:           Adulterated/Misbranded - Peeled and deveined shrimp were
+                  soaked in a solution containing food additive, sodium 
+                  tripolyphosphate (stp), which caused the shrimp to
+                  absorb excess water and increase their weight (basis on 
+                  which shrimp is sold) by as much as 18 percent. 
+Firm:             Indian Ridge Shrimp Company.
+Filed:            March 29, 1990 - U.S. District Court for the Northern 
+                  District of Texas, Lubbock Division; Civil #CA5-90-0072,
+                  FDC #65851. 
+                                     ---- 
+
+Product:          Medical Examination Gloves (90-456-995).
+Charge:           Product contains excessive holes. 
+Firm:             Health Management International Corporation, Carmel,
+                  Indiana.
+Filed:            April 4, 1990 - U.S. District Court for the Southern
+                  District of Indiana; Civil #IP90-425C, FDC #65849.
+
+                                     ----

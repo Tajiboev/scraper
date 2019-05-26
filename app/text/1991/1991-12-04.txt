@@ -1,0 +1,336 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Mar
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      26 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+12/04/1991
+
+Recalls and Field Corrections: December 4, 1991
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  Product will cause serious adverse health consequences or
+                  death.
+
+
+Product:          Gulf Coast Crabmeat, Inc., refrigerated crabmeat in
+                  16 ounce plastic cups:  (a) Special Crabmeat;
+                  (b) Claw Crabmeat; (c) Backfin Crabmeat.
+                  Recall #F-053/055-2.
+Code:             None.
+Manufacturer:     Gulfcoast Crabmeat, Inc., Panama City, Florida.
+Recalled by:      Manufacturer, by telephone October 28, 1991.  Firm-
+                  initiated recall complete.
+Distribution:     Maryland, Florida.
+Quantity:         Firm estimates none remains on the market.
+Reason:           Product is contaminated with Listeria monocytogenes.
+
+                                     ----
+
+                                      -1-
+                                       
+
+
+
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the
+                  probability of serious adverse health consequences is
+                  remote.
+
+                                     NONE
+
+                  Class III - A situation in which the use of, or exposure
+                  to a violative product is not likely to cause adverse
+                  health consequences.
+
+
+                                   COSMETICS
+
+                                     NONE
+
+                           HUMAN DRUGS AND BIOLOGICS
+
+                  Class I -
+                                     NONE
+                  Class II - 
+
+                  Class III -
+
+Product:          Rectagene II Medicated Rectal Suppositories, used to
+                  relieve hemorrhoidal pain and burning.  Recall #D-096-2.
+Code:             9135-3 EXP 6/92.
+Manufacturer:     G & W Laboratories, South Plainfield, New Jersey.
+Recalled by:      Pfeiffer Pharmaceutical, Inc., Wilkes Barre, Pennsylvania,
+                  by telephone October 10 and 11, 1991.  Firm-initiated recall
+                  ongoing.
+Distribution:     California, Florida, Illinois, Indiana, Michigan,
+                  Mississippi, New Jersey, New Mexico, New York, Ohio,
+                  Oklahoma, Wisconsin.
+Quantity:         Firm estimates 345 boxes (12 units per box) remain on
+                  the market.
+Reason:           Product distributed after August 5, 1991 is not in
+                  compliance with regulations for OTC anorectal drug products.
+
+                                     ----
+
+                       DEVICES AND RADIOLOGICAL PRODUCTS
+
+                  Class I -
+
+                  Class II -
+
+Product:          Intertech/Inspiron Medication Nebulizer Kits:
+                  (a) Intertech/Inspiron Medication Nebulizer Kit with Aerosol
+                  "T", Mouthpiece and "Fits-all" Universal Oxygen Tubing;
+                  (b) Intertech/Inspiron Medication Nebulizer Kit with
+
+                                      -2-
+
+
+                  Aerosol "T", Mouthpiece, Flex Tube and "Fits-all" Universal
+                  Oxygen Tubing.  Recall #Z-127/128-2.
+Code:             (a) Catalog Number 007761, Lot Number DBBU00208;
+                  (b) Catalog Number 007763, Lot Numbers DBDU00206 DBDU00306.
+Manufacturer:     Intertech Resources, Inc., Fort Myers, Florida.
+                  Intertech Resources, Inc., Lincolnshire, Illinois.
+Recalled by:      Manufacturer, by telephone April 10, 1991.
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide and The Netherlands.
+Quantity:         Approximately 2,155 cases (50 units per case) were
+                  distributed.
+Reason:           The nebulization flow rate for some kits was lower than
+                  normal.
+                                     ----
+
+Product:          MEVATRON medical linear accelerators, digital controlled
+                  versions for x-ray and electron radiation therapy:
+                  (a) MEVATRON Medical Linear Accelerator, Model Series M2;
+                  (b) MEVATRON Medical Linear Accelerator, Model Series KD2.
+                  Recall #Z-129/130-2.
+Code:             Serial numbers: 1772, 1874, 1901, 1911, 1935, 1938, 1941,
+                  1944, 1949, 1966, 1987, 1784, 1881, 1974, 1976, 1981, 1803,
+                  1821, 1918, 1718, 1825, 1876, 1894, 1912, 1928, 1989.
+Manufacturer:     Siemens Medical Laboratories, Inc., Concord, California.
+Recalled by:      Manufacturer.  FDA approved the firm's corretive
+                  action plan April 4, 1990.  Firm-initiated field correction
+                  complete.
+Distribution:     California, Georgia, Illinois, Massachusetts,
+                  North Carolina, Ohio, Texas, Canada, United Kingdom,
+                  The Netherlands, Germany.
+Quantity:         26 units.
+Reason:           Design deficiency in accessory interlocks allowed patients
+                  to be exposed to x-rays when electron beams were the
+                  intended treatment mode.
+
+                                     ----
+
+                  Class III -
+
+Product:          Sodium Chloride 0.85% (0.15M NaCl), saline solution, in
+                  polyethylene bag within corrugated cardboard outer box,
+                  containing 20 liters of saline, suitable for
+                  immunohematological use.  Recall #Z-123-2.
+Code:             Catalog #S100G, Lot #1017.
+Manufacturer:     Biochemical Sciences, Inc., Bridgeport, New Jersey.
+Recalled by:      Manufacturer, by letter March 22, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Nationwide.
+Quantity:         285 boxes were distributed.
+Reason:           A weak false positive reaction described as the
+                  appearance of a reddish-brown color and micro-agglutination
+                  of red blood cells in an Anti-D Blood Grouping Reagent
+                  was reported.
+                                     ----
+
+                                      -3-
+
+
+
+
+
+Product:          Repliplate Cathra 16 mcg/ml Cefazolin (CZL) Antibiotic
+                  Media Plates, used for in-vitro testing of patient
+                  serum.  Recall #Z-124-2.
+Code:             Lot #08060CZL16.
+Manufacturer:     AutoMed, Inc., Shoreview, Minnesota.
+Recalled by:      Manufacturer, by telephone August 16, 1990.  Firm-initiated
+                  recall ongoing.
+Distribution:     Canada.
+Quantity:         20 plates were distributed.
+Reason:           The product was formulated to a concentration of 32
+                  micrograms/ml rather than 16 micrograms/ml.
+
+                                     ----
+
+Product:          CRP-Reactive Protein Kit, an in-vitro diagnostic for
+                  detection of C-reactive protein associated with
+                  inflammation or necrosis.  Recall #Z-125-2.
+Code:             Lot #1220T001A1 EXP 6/1/90.
+Manufacturer:     Texas Immunology, Inc., Division of V-Tech, Inc.,
+                  Tyler, Texas.
+Recalled by:      V-Tech, Inc., Pomona, California, by letter October 24,
+                  1989.  Firm-initiated recall complete.
+Distribution:     California.
+Quantity:         1,987 kits were distributed; firm estimates none
+                  remains on the market.
+Reason:           The test may give false positive results.
+
+                                     ----
+
+Product:          Sera-Tek MHA-TP (Treponemal Antibody Test),
+                  Product Code 2910.  Recall #Z-126-2.
+Code:             Control #0621051 EXP 12/92.
+Manufacturer:     Fujirebio, Inc., Tokyo, Japan.
+Recalled by:      Miles, Inc., Diagnostics Division, Mishawaka, Indiana,
+                  by letter September 13, 1991, followed by telephone
+                  October 1, 1991.  Firm-initiated recall complete.
+Distribution:     Nationwide.
+Quantity:         339 kits were distributed; firm estimates 74 kits
+                  remain on the market.
+Reason:           The product may yield false positive results.
+
+                                     ----
+
+                              VETERINARY PRODUCTS
+
+                                     NONE
+
+                                      -4-
+
+
+
+
+
+Medical Device Safety Alerts:
+
+Product:          Olympus REPLY Analyzer Software, Version 2.5.
+                  Safety Alert #M-006-2.
+Code:             All units of the software Catalog #ZM1599, Version 2.5.
+Manufacturer:     Olympus Optical, Ltd., Tokyo, Japan.
+Alerted by:       Olympus Corporation, Lake Success, New York, by letter
+                  July 2, 1991.
+Distribution:     Nationwide.
+Quantity:         52 units were distributed.
+Reason:           If a specific testing sequence occurs while using the
+                  STAT analysis, the resulting data output may contain the
+                  incorrect accession numbers and test run.
+
+                                     ----
+
+Prosecution Action Filed:
+
+Against:          Mary L. Donnelly, Bay City, Michigan.
+Product:          Prescription Drug Sample - Zantac 150 (91-555-054).
+Charge:           No person may sell, purchase, or trade or offer to
+                  sell, purchase, or trade any drug sample.
+Filed:            October 24, 1991 - U.S. District Court for the Eastern
+                  District of Michigan, Northern Division;
+                  Criminal #92-CR-20064BC.
+
+                                      -5-
+
+                                     ###

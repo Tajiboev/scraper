@@ -1,0 +1,597 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Apr
+		  SEP
+		  Nov
+		
+		
+		
+		  
+		  26
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      31 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dm
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+09/09/1992
+
+RECALLS AND FIELD CORRECTIONS: September 9, 1992
+
+                              FOODS -- CLASS I
+                                                             92-37
+
+              
+PRODUCT:          Smoked Black Cod (Sable Fish) in 2 lb. plastic bags.
+                  Recall #F-464-2.
+CODE:             None.
+MANUFACTURER:     Inter Ocean Sales, Inc., Kensington, Maryland.
+RECALLED BY:      Manufacturer, by letter July 13,1992.  Firm initiated
+                  recall ongoing.
+DISTRIBUTION:     Maryland, Washington, D.C.
+QUANTITY:         60 pounds were distributed.
+REASON:           Product was contaminated with Listeria monocytogenes.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+
+              
+PRODUCT:          Sysco brand "IMPERIAL Artichoke Hearts" in 14 ounce cans.
+                  Recall #F-497-2.
+CODE:             AL640P8 in cartons bearing purchase order numbers SC 4149
+                  and 4165.
+MANUFACTURER:     Jose Hernandez Perez & Sons, Murcia, Spain.
+
+
+
+RECALLED BY:      Sysco Corporation (importer), Houston, Texas, by telex May
+                  29, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION:     Nationwide, international.
+QUANITY:          2,831 cases were distributed between October 1, 1991 and
+                  May 28, 1992.
+REASON:           Swollen cans indicate product may be underprocessed with a
+                  remote probability for the outgrowth of Clostridium
+                  botulinum.
+
+              
+PRODUCT:          Licorice Twist, Sour Licorice in 5 pound plastic bags in
+                  the following flavors: Green Apple; Peach; Lemon;
+                  Lemon-lime; Lime, Orange and Spearmint. Recall
+                  #F-524/537-2.
+CODE:             All codes.
+MANUFACTURER:     Kenny's Candy Company, Perham, Minnesota.
+RECALLED BY:      The Sweetery (repacker), Minneapolis, Minnesota, by letter
+                  August 11, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION:     Minnesota, Wisconsin.
+QUANTITY:         Approximately 100 pounds of licorice is still in commerce.
+REASON:           Product contains undeclared FD&C; Yellow No. 5.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS  --  CLASS III
+
+             
+PRODUCT:          Shoppers Value Mandarin Orange Segments in Light Syrup in
+                  11 ounce cans.  Recall #F-442-2
+CODE:             Three line code with "601" in the bottom line and "11 2"
+                  in the top line.
+MANUFACTURER:     Super Valu Inc., Chaska, Minnesota.
+RECALLED BY:      Manufacturer, by a code clarification dated June 4, 1992.
+                  Firm-initiated recall ongoing.
+DISTRIBUTION:     Colorado, New Mexico, Wyoming, Kansas, North Dakota,
+                  Minnesota, Wisconsin, South Dakota.
+QUANTITY:         3,119 cases were distributed.
+REASON:           Product is in swollen cans caused by hydrogen formation
+                  due to product reaction with can lining.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS  --  CLASS II
+
+             
+PRODUCT:          Fluoracaine (Fluorescein/Proparacaine) a Rx
+                  ophthalmic solution in glass screw-cap bottles. Recall
+                  #D-473-2
+CODE:             19148, exp. date 11/92; 19166, exp. date 12/92; 19223,
+                  exp. date 2/93; 19262, exp. date 3/93; 19329, exp. date
+                  5/93; 19349, exp. date 6/93; 19392, exp. date 7/93; 19149
+                  exp. date 11/92; 19167, exp. date 12/92; 19224 exp. date
+
+
+                                     -2-
+
+
+
+                  2/93; 19263, exp. date 3/93; 19330, exp. date 4/93; 19350,
+                  exp. date 6/93; 19401, exp. date 7/93; 19161, exp. date
+                  12/92; 19183, exp. date 1/93; 19253, exp. date 3/93;
+                  19333, exp. date 4/93; 19359, exp. date 5/93; 19162, exp.
+                  date 12/92; 19184, exp. date 1/93; 19254, exp. date 4/93;
+                  19268, exp. date 3/93; 19336, exp. date 4/93; 19391, exp.
+                  date 7/93.
+MANUFACTURER:     Walnut Pharmaceuticals, Inc., Los Angeles, California
+RECALLED BY:      Walnut Pharmaceuticals, Inc., Abita Springs, Louisiana
+                  by letter April 16, 1992.  Firm-initiated recall
+                  ongoing.
+DISTRIBUTION:     Louisiana, California, Texas, Oklahoma, Tennessee, Canada.
+QUANTITY:         316,605 units were distributed.
+REASON:           Presence of trace quantities of mercury.
+
+             
+PRODUCT:          Dexamethasone Sodium Phosphate Injection, a Rx
+                  corticosteroid.  Recall #D-474-2
+CODE:             Lot Numbers: 18970 exp. date 5/93; 19037, exp. date 7/93,
+                  19299, exp. date 4/94.
+MANUFACTURER:     Walnut Pharmaceuticals, Inc., Los Angeles, California.
+RECALLED BY:      Walnut Pharmaceuticals, Inc., Abita Springs, Louisiana
+                  by letter April 21 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION:     Tennessee, Missouri, Louisiana, Virginia, Kansas, Georgia.
+QUANTITY:         25,365 units were distributed.
+REASON:           Lack of assurance of potency through expiration date.
+
+              
+PRODUCT:          Folic Acid Injection in 10 ml amber glass vials, an Rx
+                  drug, used for the treatment of megablastic anemias.
+                  Recall #D-475-2.
+CODE:             Lot number 19096, exp. date 10/92.
+MANUFACTURER:     Walnut Pharmaceuticals, Inc., Los Angeles, California.
+RECALLED BY:      Walnut Pharmaceuticals, Inc., Abita Springs, Louisiana,
+                  by letter April 21, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION:     California, Louisiana.
+QUANTITY:         10,803 units were distributed.
+REASON:           Lack of assurance of potency through expriation date.
+
+              
+PRODUCT:          Chloramphenicol Solution, 0.5%, a Rx drug used as an
+                  antibiotic.  Recall #D-476-2.
+CODE:             Lot number 19177, exp. date 1/93; 19430, exp. date 7/93.
+MANUFACTURER:     Walnut Pharmaceuticals, Inc., Los Angeles, California.
+RECALLED BY:      Walnut Pharmaceuticals, Inc., Abita Springs, Louisiana,
+                  by letter April 21, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION:     Louisiana, Missouri.
+QUANTITY:         29,463 units were distributed.
+REASON:           Product does not meet stability specifications.
+
+
+                                     -3-
+
+
+
+             
+PRODUCT:          Slo-Bid (Theophylline, Extended Release Capsules, USP),
+                  200 mg gyrocaps in bottles of 100 capsules used for
+                  maintenance therapy in the treatment of asthma.  Recall
+                  #D-477-2.
+CODE:             Lot numbers:  07155, exp. date 8/94; 07130, exp. date
+                  8/94; 07152, exp. date 8/94; 07154, exp. date 8/94.
+MANUFACTURER:     Rhone-Poulenc Rorer, Fort Washington, Pennsylvania.
+RECALLED BY:      Manufacturer by letter July 17, 1992.  Firm-initiated recall
+                  ongoing.
+DISTRIBUTION:     Nationwide.
+QUANTITY:         38,865 units were distributed.
+REASON:           Lot 07155 does not meet dissolution specifications.  Other
+                  lots lack assurance for this specification.
+
+              
+PRODUCT:          Naloxone HCI Injection, USP, Neonatal, 0.02 mg/ml a Rx
+                  drug for IV, IM, SC, use as a narcotic antagonist.
+                  Recall #D-478-2.
+CODE:             Lot number 61-062DK, exp. date 1/94.
+MANUFACTURER:     Abbott Laboratories, Rocky Mount, North Carolina.
+RECALLED BY:      Abbott Laboratories, Abbott Park, Illinois, by letter
+                  August 19, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION:     Nationwide.
+QUANTITY:         6,550 vials were distributed.
+REASON:           Potency not assured through expiration date.
+
+              
+PRODUCT:          Bulk Neomycin Sulfate, USP, Powder.  Recall #D-479-2.
+CODE:             Lot numbers: 765FY, 430HR; 073HT; 177FU; 178FU.
+MANUFACTURER:     UpJohn Company, Kalamazoo, Michigan.
+RECALLED BY:      Manufacturer by letter August 18, 1992.
+DISTRIBUTION:     Nationwide and International.
+QUANTITY:         Approximately 4,035 Kilograms were distributed.
+REASON:           Elevated levels of sodium fluoride.
+
+             
+PRODUCT:          Indomethacin, 75 mg, Extended-release Capsules in bottles of
+                  60 and 100 capsules.  Recall #D-480-2.
+CODE:             Lot number 1K032, exp. date 12/93.
+MANUFACTURER:     Inwood Laboratories, Inc., Inwood, New York.
+RECALLED BY:      Manufacturer, by telephone July 24, 1992, and by letter
+                  August 18, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION:     New Jersey, Florida, Pennsylvania, Texas, Nevada, Ohio,
+                  and Washington state.
+QUANTITY:         11,257 bottles were distributed.
+REASON:           Product does not meet dissolution specifications.
+
+
+                                     -4-
+
+
+
+             
+PRODUCT:          Acetaminophen, 325 mg tablets, Regular Strength Non-Asprin
+                  Pain Reliever.  Recall #D-481-2.
+CODE:             Lot number OE449, exp. date August1993.
+MANUFACTURER:     Life-Line Pharmaceuticals, Hayward, California.
+RECALLED BY:      Manufacturer by letter June 24, 1992.  Firm-initiated
+                  recall ongoing.
+DISTRIBUTION:     Pennsylvania and Tennessee.
+QUANTITY:         6,462 units were distributed.
+REASON:           Presence of metal shavings.
+
+              
+UPDATE:           Kenalog Cream, .025% Triamcinolone Acetonide, Recall
+                  #D-471-2, which appeared in the September 2, 1992,
+                  Enforcement Report should read:
+                  MANUFACTURER:  Bristol-Myers Squibb, Humacoa, Puerto Rico.
+                  RECALLED BY:   Westwood Squibb Pharmaceuticals, Inc.,
+                  Buffalo, New York.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS  --  CLASS II
+
+              
+PRODUCT:          Recovered Plasma.  Recall #B-425-2.
+CODE:             Unit number 9119946.
+MANUFACTURER:     Morristown Memorial Hospital, Morristown, New Jersey.
+RECALLED BY:      Manufacturer by telephone January 24, 1992.  Firm-
+                  initiated recall complete.
+DISTRIBUTION:     Pennsylvania, California.
+QUANTITY:         1 unit was distributed.
+REASON:           Blood product, which tested negative for the antibody to
+                  human immunodeficiency virus type 1 (anti-HIV-1) but was
+                  colleced from a donor who previously tested repeatedly
+                  reactive for antiHIV-1, was distributed.
+
+              
+PRODUCT:          Red Blood Cells.  Recall #B-426-2.
+CODE:             Unit number 12Q73077.
+MANUFACTURER:     American Red Cross, Charlotte, North Carolina.
+RECALLED BY:      Manufacturer, by telephone March 16, 1992, and by letter
+                  March 19, 1992.  Firm-initiated recall complete.
+DISTRIBUTION:     Tennessee.
+QUANTITY:         1 unit was distributed.
+REASON:           Blood product, which tested repeatedly reactive for the
+                  antibody to the hepatitis C virus encoded antigen
+                  (anti-HCV), was distributed.
+
+
+                                     -5-
+
+
+
+              
+PRODUCT:          (a) Whole Blood, (b) Red Blood Cells, (c) Platelets, (d)
+                  Fresh Frozen Plasma, (e) Recovered Plasma.  Recall
+                  #B-427/431-2.
+CODE:             Unit numbers:  (a) 06GM70185; (b) 06GG06760, 06GN85419,
+                  06GN89282; 06GJ21939; 06LP46173; 06GR75014; 06GG60927;     
+                  06GH65014; 06GG80692; 06GR12136; 06LQ33415; (c) 06GG06760;
+                  06GN85419; 06GN89282; 06GJ21939; 06LP46173; 06GG60927;     
+                  06GG80692, 06GR12136; 06LQ33415; 06GH45017; (d) 06GN85419,
+                  06GN89282; 06GJ21939; 06GG80692; 06LQ33415; (e) 06GG06760;
+                  06LP46173; 06GR75014; 06GG60927; 06GH45017; 06GR12136.
+MANUFACTURER:     American Red Cross, Los Angeles, California.
+RECALLED BY:      Manufacturer, by letter April 3, 1992.  Firm-initiated
+                  recall ongoing.
+DISTRIBUTION:     California, Switzerland, The Netherlands.
+QUANTITY:         (a) 1 unit; (b) ll units; (c) 10 units; (d) 5 units; (e) 6
+                  units were distributed.
+REASON:           Blood products which were collected from a donor with a
+                  prior history of hepatitis were distributed.
+
+              
+PRODUCT:          (a) Red Blood Cells, (b) Platelets, (c) Cryoprecipitated
+                  AHF.   Recall #B-432/434-2.
+CODE:             Unit numbers: (a) 32GQ33311, 32GQ33390; (b) 32GQ33311 (c)
+                  32GQ33390.
+MANUFACTURER:     American Red Cross Blood Badger Region, Madison, Wisconsin.
+RECALLED BY:      Manufacturer by letter June 1, 1992.  Firm-initiated
+                  recall complete.
+DISTRIBUTION:     Massachusetts, Wisconsin.
+QUANTITY:         (a) 2 units; (b) 1 unit; (c) 1 units were distributed.
+REASON:           Blood products, incorrectly tested for the antibody to the
+                  hepatitis C virus encoded antigen (anti-HCV), were
+                  distributed.
+
+              
+PRODUCT:          Source Plasma.  Recall #B-435-2.
+CODE:             Unit number: N-18663-126.
+MANUFACTURER:     Knoxville Plasma Center, Inc., Knoxville, Tennessee.
+RECALLED BY:      Manufacturer, by letter April 24, 1990, and by telephone   
+                  April 2, 1990. Firm-initiated recall complete.
+DISTRIBUTION:     California.
+QUANTITY:         1 unit was distributed.
+REASON:           Source Plasma, which tested repeatedly reactive for the
+                  antibody to human immunodeficiency virus type 1
+                  (anti-HIV-1), was distributed.
+
+              
+PRODUCT:          Recovered Plasma.  Recall #B-437-2.
+CODE:             Unit number 7285892.
+MANUFACTURER:     LifeSource, Glenview, Illinois.
+RECALLED BY:      Manufacturer by telephone and letter May 19, 1992.
+                  Firm-initiated recall ongoing.
+
+
+                                     -6-
+
+
+
+DISTRIBUTION:     California.
+QUANTITY:         1 unit was distributed.
+REASON:           Recovered Plasma which tested repeatedly reactive for
+                  hepatitis B surface antigen (HBsAg) was distributed.
+
+              
+PRODUCT:          Platelets.  Recall #B-438-2.
+CODE:             Unit number EO5356.
+MANUFACTURER:     San Diego Blood Bank, San Diego, California .
+RECALLED BY:      Manufacturer, by telephone September 4, 1991 and by letter 
+                  September 20, 1991.  Firm-initiated recall complete
+DISTRIBUTION:     California.
+QUANTITY:         1 unit was distributed.
+REASON:           Platelets, collected from an ineligible donor due to a
+                  previous history of hepatitis, were distributed.
+
+              
+PRODUCT:          Source Plasma.  Recall #B-442-2.
+CODE:             Unit numbers:  5290, 5305, 5313, 5362.
+MANUFACTURER:     Allegheny Biologicals, Inc., Pittsburgh, Pennsylvania.
+RECALLED BY:      Manufacturer, by letters January 14, 1992, and June 23,
+                  1992.  Firm-initiated recall complete.
+DISTRIBUTION:     Georgia, Montana, Switzerland, France.
+QUANTITY:         4 units were distributed.
+REASON:           Blood products, which tested repeatedly reactive for the
+                  antibody to the human immunodeficiency virus type 1
+                  (anti-HIV-1), or which tested non-reactive for anti-HIV-1,
+                  but were collected from a donor who previously tested
+                  repeatedly reactive, were distributed.
+
+              
+PRODUCT:          (a) Red Blood Cells, (b) Recovered Plasma.  Recall
+                  #B-443/444-2.
+CODE:             Unit numbers: (a) TM14170; (b) TM14170.
+MANUFACTURER:     Timken Mercy Medical Center, Canton, Ohio.
+RECALLED BY:      Firm notified the consignee by letter July 20, 1992.  Firm.
+                  initiated recall ongoing.
+DISTRIBUTION:     Maryland, Ohio.
+QUANTITY:         2 units were distributed.
+REASON:           Blood products, which tested negative for the antibody to
+                  human immunodeficiency virus type 1 (anti-HIV-1) but were
+                  collected from a donor who previously tested repeatedly
+                  reactive for anti-HIV-1, were distributed.
+
+
+RECALLS AND FIELD CORRECTION:  BIOLOGICS  -- CLASS III
+
+              
+PRODUCT:          Red Blood Cells.  Recall #B-436-2.
+CODE:             Units E20344, E20345.
+
+
+                                     -7-
+
+
+
+MANUFACTURER:     Regional Health Resource Center, Champaign County Blood Bank,
+                  Urbana, Illinois.
+RECALLED BY:      Manufacturer, by telephone March 20,1992.  Firm-initiated
+                  recall complete.
+DISTRIBUTION:     Illinois.
+QUANTITY:         2 units were distributed.
+REASON:           Red Blood Cells, untested for the antibody to hepatitis C
+                  virus encoded antigen (antigen (anti-HCV), were
+                  distributed.
+
+
+RECALLS AND FIELD CORRECTION:  DEVICES  --  CLASS II
+
+
+              
+PRODUCT:          "Causse Piston"-Inner Ear Implant.  Recall #Z-1246-2
+CODE:             Catalog No. 11-56314, Lot Nos. 81831-00, 84428-00.
+MANUFACTURER:     Xomed-Treace, Jacksonville, Florida.
+RECALLED BY:      Manufacturer by letter March 19, 1992.  Firm-initiated
+                  recall ongoing.
+DISTRIBUTION:     Nationwide and International.
+QUANTITY:         450 units were distributed.
+REASON:           The device has incorrect dimensions.  The label of the
+                  product denotes the size to be 0.4 mm x 6.0 mm when the
+                  actual size of the product was 0.4 x 6.4 mm.
+
+              
+PRODUCT:          Halogen Light Products, (a) Outpatient Light with Fleximount,
+                  Single Ceiling Mount Kit; (b) Cool Spot Light with Fleximount
+                  Single Ceiling Mount; (c) Fleximount Single Ceiling Mount
+                  Kit; (d) Single Ceiling Trolley.  Recall #Z-1247/1250-2.
+CODE              Model numbers: (a) 0114122; (b) 0134122; (c) 0100140; (d)
+                  0100180.
+MANUFACTURER:     Burton Medical Products Corp., Van Nuys, California.
+RECALLED BY:      Manufacturer by letter on or around May 12, 1989.
+                  Firm-initiated recall ongoing.
+DISTRIBUTION:     Nationwide and International.
+QUANTITY:         (a) 1,297; (b) 940; (c) 2834; (d) 408 kits were distributed.
+REASON:           The devices contain a component called a clam shell (also
+                  called a switch housing) that is separating, causing the
+                  connected light and extension arm to fall during
+                  examinations and surgery.
+
+              
+PRODUCT:          Shiley Blood Cardioplegia Delivery (BCD) Sets Heat
+                  Exchanger used to mix, cool and deliver oxygenated
+                  blood/cardioplegic solutions during bypass surgery.
+                  Recall #Z-1252-2.
+
+
+                                     -8-
+
+
+
+CODE:             Product designation (catalog #)      Lots Numbers
+
+                                      BCD'S
+                  BCD Plus 1                              9210182000 and Below
+                  BCD Plus 2                              9200009400 and below
+                  BCD Plus 4                              9101294400 and below
+                  BCD HE                                  9101210800 and below
+                  BCD ADV 1                               9101225900 and below
+                  BCD ADV 2                               9200099100 and below
+                  BCD ADV 4                               9200117800 and below
+
+                  Shiley Cardiopulmonary Profusion Systems (SCPS)
+                  SCPS 2186                               9101234100 and below
+                  SCPS 3048                               9210262600 and below
+                  SCPS 3340                               9101281900 and below
+                  SCPS 3511                               9001484400 and below
+                  SCPS 3528                               9210261800 and below
+                  SCPS 5072                               9210243300 and below
+
+                                      PTS Sets
+                  PTS 3192                                9001453600 and below
+                  PTS 3256                                9100368100 and below
+                  PTS 3548                                9200070100 and below
+                  PTS 3665                                9210220700 and below
+                  PTS 5001                                9100910600 and below
+                  PTS 5007                                9216244200 and below
+                  PTS 5014                                8800168400 and below
+                  PTS 5015                                9200003700 and below
+                  PTS 5017                                9210243800 and below
+                  PTS 5020                                9200131400 and below
+                  PTS 5037                                8900390200 and below
+                  PTS 5049                                9101182000 and below
+                  PTS 5087                                9200133600 and below
+                  PTS 5088                                9210260100 and below
+                  PTS 5092                                9001207500 and below
+                  PTS 5098                                9200028700 and below
+                  PTS 5101                                9200080800 and below
+                  PTS 5105                                9000920900 and below
+                  PTS 5108                                9001032400 and below
+                  PTS 5109                                9101161400 and below
+                  PTS 5113                                9101006300 and below
+                  PTS 5115                                9200028300 and below
+                  PTS 5137                                9101227100 and below
+                  PTS 5139                                9200121400 and below
+                  PTS 5141                                9101265900 and below
+                  PTS 5149                                9210174700 and below
+                  PTS 5150                                9200166200 and below
+
+
+                                      -9-
+
+
+
+MANUFACTURER:     Shiley, Inc. and Sorin Biomedical Inc., Irvine California.
+RECALLED BY:      Sorin Biomedical, Inc., Irvine, California, by letters
+                  June 2-4, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION:     Nationwide and international.
+QUANTITY:         314,910 units were distributed between January 1, 1987, and
+                  May 28, 1992.
+REASON:           The pressure monitoring ports on the heat exchanger
+                  housing may break.
+
+              
+UPDATE:           COBE CentrySystem 2 Dialysis Control Units, Recall
+                  #Z-992/1000-2, which appeared in the Enforcement Report
+                  August 12, 1992 should read:
+                  Serial numbers: (1-7) 2C51092 through 2C51184, 2C51231
+                  through 2C51420.  The "5" was left out of the last two
+                  serial numbers in both series.
+
+
+                                    -10-
+
+
+END OF ENFORCEMENT REPORT FOR SEPTEMBER 9, 1992.  BLANK PAGES MAY
+FOLLOW.
+
+                                    ###

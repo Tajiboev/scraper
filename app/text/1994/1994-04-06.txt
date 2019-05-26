@@ -1,0 +1,785 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      34 captures
+	      25 Feb 1997 - 25 Mar 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+04/06/1994
+
+Recalls and Field Corrections:  Drugs -- Class II -- 04/06/1994
+
+APRIL 6, 1994                                                   94-14
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Food Industry Sanitizing Soap (GOJO), distributed under ten
+               (10) private labels and product names in addition to the
+               firm's GOJO brand; and is packaged in five (5) different
+               sizes as follows:  
+               1.  GOJO brand E-2 Food Industry Sanitizing Soap, in 800 ml
+               cartridges, 1000 ml cartridges, 2000 ml cartridges, 5000 ml
+               cartridges, and in 4 ounce bottles; 
+               2.  Easterday Janitorial Supply brand E-2 Germicidal Soap
+               Plus, in 1000 ml cartridges, 6 units per case;
+               3.  Hillyard Chemical brand E-2 Plus Food Industry 
+               Sanitizing Soap, in 4 ounce bottles, 12 units per case; 1000
+               ml cartridges, 6 units per case; 2000 ml cartridges, 4 units
+               per case;
+               4.  Peninsular Paper brand E-2 1000 Food Industry Sanitizing
+               Soap in 1000 ml cartridges,  6 units per case;
+               5.  North American Paper brand Spectrum E-2 Food Industry
+               Sanitizing Soap, in 1000 ml cartridges, 6 units per case;
+               6.  Penn Jersey brand Sanitary Supply Sani-Soap Food
+               Industry Sanitizing Soap, in 1000 ml cartridges, 6 units per
+               case;
+               7.  Massco brand Food Prep Sanitizing Soap, in 1000 ml
+               cartridges, 6 units per case; 
+               8.  SourceOne brand E-2 Food Industry Sanitizing Soap, in
+               1000 ml cartridges, 6 units per case;
+               9.  International Distribution System (IDS), brand E-2 Food
+               Industry Sanitizing Soap, in 1000 ml cartridges, 6 units per
+               case, 5000 ml cartridges, 6 units per case;
+               10.  Selig Chemical Industries brand Sootho Food Processing  
+               Sanitizing Lotion Soap E-2, in 800 ml cartridge, 12 units
+               per case; 
+               11.  Zep Manufacturing brand, Handstand TM E-2 Hand Soap, in 
+               800 ml cartridges, 12 units per case.  Recall #D-221-4.
+CODE           Batch numbers:  91537, 92357, 05475, and 12778.
+MANUFACTURER   GOJO Industries, Inc., Cuyahoga Falls, Ohio. 
+RECALLED BY    Manufacturer, by letter March 15, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       4,100 cases were distributed.
+REASON         Presence of Pseudomonas cepacia and Serratia marcescens.
+
+_______________
+PRODUCT        Various Rx injectable drug products, 25 vials per tray:
+               (a) Aminophylline Injection, USP, 25 mg/ml, 100 ml vials,
+               pharmacy bulk pack; for IV use only after dilution for the
+               relief of acute bronchial asthma;
+               (b) Clindamycin Phosphate Injection, USP, 150 mg/ml, a
+               semisynthetic antibiotic for IM or IV use for the treatment
+               of serious infections caused by susceptible anaerobic
+               bacteria; 2 ml vials, 4 ml vials, 6 ml vials;
+               (c) Glycopyrrolate Injection, USP, 0.2 mg/ml, an
+               anticholinergic for the use as a preoperative antimuscarinic
+               to reduce salivary, tracheobronchial and pharyngeal
+               secretions, 1 ml vials, 2 ml vials, 5 ml vials, 20 ml vials;
+               (d) Heparin Sodium Injection, USP, for anticoagulant therapy
+               in prophylaxis and treatment of venous thrombosis and the
+               prevention of postoperative deep venous thrombosis and
+               pulmonary embolism:  1000 USP units/ml 10 ml vial, 30 ml
+               vials, (private label) - Rx/Dx Hemochron Heparin Sodium
+               Injection, USP, 1,000 USP units/ml, 10 ml multiple dose
+               vial, Manufactured for International Technidyne Corp., 
+               Edison, NJ;  10,000 USP units/ml 5 ml vials; 
+               (e) Heparin Lock Flush Solution, USP, 10 units/ml, for the
+               maintenance of patency of an indwelling venipuncture device
+               designed for intermittent injection of infusion therapy or
+               blood sampling 10 ml vial, 30 ml vials;
+               (f) MVC 9 + 3 Multivitamin Concentrate, a daily multivitamin
+               dosage for adults and children aged 11 and above receiving
+               parenteral nutrition (for infusion after dilution) 10 ml
+               covial, 50 ml vials;
+               (g) Potassium Chloride Injection Concentrate, USP, 2 mEq/ml,
+               IV infusion after dilution for the treatment potassium
+               deficiency states when oral replacement is not feasible; 100
+               ml vial, 200 ml vials;
+                                    -2-               (h) Sterile Cefazolin Sodium, USP, a semisynthetic
+               cephalosporin antibiotic for parenteral administration for
+               the treatment of respiratory tract infections, genital tract
+               infections and other serious infections due to susceptible
+               organisms:  500 mg, 10 ml vial, 100 ml vial;  1 g, 10 ml
+               vial, 100 ml vial;  10 g, 100 ml vial;
+               (i) Vincristine Sulfate Injection, USP, 1 mg/ml, used for
+               the treatment of acute leukemia; 1 ml vial; 2 ml vial,       
+               5 ml vial.  Recall #D-222/233-4.
+CODE           All lots within expiration date.   (Note: Cefazolin Sodium
+               products with lot numbers ending in "A" are not subject to
+               recall). 
+MANUFACTURER   Lyphomed/Fujisawa USA, Inc., Melrose Park, Illinois 
+               (products a, b, c, f, g, i). 
+               Lyphomed/Fujisawa USA, Inc., Grand Island, New York
+               (products d, e, h).
+RECALLED BY    Fujisawa USA Deerfield, Illinois, by letter March 7, 1994. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Aminophylline - Nationwide; Clindamycin - Nationwide, Malta,
+               Qatar; Glycopyrrolate - Nationwide; Heparin - Nationwide,
+               Israel, Chile, Mexico, Palau, and the Bahamas;
+               MVC 9+3 - Nationwide and international;
+               Potassium Chloride - Nationwide and Israel;
+               Cefazolin - Nationwide and New Zealand;
+               Vincristine - Nationwide and Belize.
+QUANTITY       5,400 vials of aminophylline, 50,600 vials of clindamycin,
+               3,833,220 vials of glycopyrrolate, 3,575,075 vials of 1,000
+               unit heparin, 1,011,775 vials of 10,000 unit heparin,
+               452,300 vials of heparin lock flush, 818,325 vials of MVC
+               9+3, 520,700 vials of potassium, 197,200 vials of 500 mg
+               cefazolin, 743,990 vials of 1 g cefazolin, 27,450 vials of
+               10 g cefazolin, and 56,544 vials of vincristine were
+               distributed, with the firm estimating that 15-20% of the    
+               product remains on the market. 
+REASON         Abbreviated New Drug Application/Abbreviated Antibiotic
+               Ddrug Application discrepancies.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Bisacodyl Tablets, 5 mg, nonprescription laxative.  
+               Recall #D-220-4.
+CODE           54073B and 53073B.
+MANUFACTURER   Vintage Pharmaceuticals, Inc., Charlotte, North Carolina.
+RECALLED BY    Manufacturer, by telephone and by letter February 6, 1994. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Minnesota, New Jersey.
+QUANTITY       485,697 tablets of lot 54073B and 323,798 tablets of lot
+               53073B were distributed.
+REASON         Use of non-food grade ink on tablets.  Ink manufacturer
+               responsible for error.
+
+                                    -3-RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II ---------------------
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets.  Recall #B-165/166-4.
+CODE           Unit numbers: (a) 04G43485, 04G43488, 04G43491, 04G43492,
+               04G43493, 04G43495, 04G43497, 04G43499, 04G43501, 04G43502,
+               04G43503, 04G43504, 04G43505, 04G43506, 04G43507, 04G43508,
+               04G43511, 04G43512, 04G43513, 04G43514, 04G43515, 04G43516,
+               04G43518, 04G43519, 04G43521, 04G43523, 04H91883, 04H91885,
+               04H91886, 04H91887, 04H91891, 04H91892, 04H91893, 04H91894,
+               04H91895, 04H91896, 04H91898, 04H91899, 04H91901, 04H91903,
+               04H91906, 04H91908, 04H91909, 04H91910, 04H91914, 04H91916,
+               04H91918, 04H91920, 04H91922, 04H91924, 04H91925, 04H91926,
+               04H91927, 04H91928, 04H91930, 04H91931, 04H91932, 04H91933,
+               04H91936, 04H91940, 04H91941, 04H91942, 04H91946, 04H91947,
+               04H91949, 04H91950, 04H91951, 04H91952, 04H91953, 04H91954,
+               04H91957, 04H91958, 04H91960, 04H91961, 04H91962, 04H91963,
+               04H91964, 04H91965, 04GF18083, 04GF18084, 04GF18085,
+               04GF18087, 04GF18089, 04GF18090, 04GF18091, 04GF18092,
+               04GF18095, 04GF18096, 04GF18097, 04GF18101, 04GF18104,
+               04GF18105, 04GF18106, 04GF18108, 04GF18109, 04GF18110,
+               04GF18113, 04GF18114, 04GF18117, 04GF18120, 04GF18122,
+               04GF18123, 04GF18125, 04GF18127, 04GF18128, 04GF18130,
+               04GF18135, 04GF18137;
+               (b) 04G43485, 04G43488, 04G43489, 04G43491, 04G43492,
+               04G43493, 04G43494, 04G43495, 04G43497, 04G43499, 04G43501,
+               04G43511, 04G43512, 04G43513, 04G43515, 04G43516, 04G43517,
+               04G43518, 04G43519, 04G43521, 04G43522, 04G43523, 04H91886,
+               04H91888, 04H91891, 04H91892, 04H91893, 04H91894, 04H91895,
+               04H91896, 04H91897, 04H91902, 04H91903, 04H91904, 04H91905,
+               04H91906, 04H91907, 04H91908, 04H91909, 04H91911, 04H91912,
+               04H91913, 04H91915, 04H91916, 04H91917, 04H91918, 04H91920,
+               04H91922, 04H91924, 04H91928, 04H91930, 04H91931, 04H91933,
+               04H91936, 04H91939, 04H91941, 04H91942, 04H91944, 04H91945,
+               04H91946, 04H91947, 04H91949, 04H91950, 04H91952, 04H91953,
+               04H91954, 04H91956, 04H91959, 04H91960, 04H91963, 04H91965,
+               04H91966, 04GF18081, 04GF18083, 04GF18086, 04GF18087,
+               04GF18088, 04GF18090, 04GF18093, 04GF18099, 04GF18100,
+               04GF18102, 04GF18104, 04GF18106, 04GF18107, 04GF18108,
+               04GF18110, 04GF18111, 04GF18112, 04GF18116, 04GF18117,
+               04GF18118, 04GF18119, 04GF18121, 04GF18125, 04GF18127,
+               04GF18128, 04GF18130, 04GF18131, 04GF18133, 04GF18134,
+               04GF18136. 
+MANUFACTURER   American Red Cross Blood Services, Dedham, Massachusetts.
+RECALLED BY    Manufacturer, by telephone July 10, and 15, 1991, and by
+               letter July 24, 1991.  Firm-initiated recall complete.
+DISTRIBUTION   Massachusetts, Maine.
+QUANTITY       (a) 108 units; (b) 102 units.
+REASON         Blood products incorrectly tested for syphilis were
+               distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-188-4.
+CODE           Unit #28027-4218.
+                                    -4-MANUFACTURER   United Blood Services Blood Systems, Inc., San Angelo,
+               Texas.
+RECALLED BY    Manufacturer, by letter March 31, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       1 unit.
+REASON         Red Blood Cells, collected from a donor who had visited an
+               area endemic for malaria and had taken prophylactic anti-
+               malarial medication two years prior to donation, were
+               distributed.
+
+_______________
+UPDATE         The February 9th Enforcement Report identified Wheaton
+               Tubing Products ("Wheaton") as the manufacturer of recalled
+               sterile glass vials for use with diluents and allergenic
+               extracts (Recall #B-140/141-4).  Although the glass vials, a
+               component of the final product, were supplied by Wheaton,
+               the manufacturer is Allergy Laboratories, Inc.  The
+               Enforcement should have identified Allergy Laboratories,
+               Inc. as both the recalling and manufacturing firm of the
+               final distributed product.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets.  Recall #B-167/168-4.
+CODE           Unit numbers: (a) 04C05639, 04C05640, 04C05643, 04C05644,
+               04C05649, 04C05652, 04C05653, 04C05654, 04C05655, 04C05657,
+               04J21634, 04N84567, 04N84568, 04N84572, 04N84576, 04N84578,
+               04R64824, 04R64833, 04W68142, 04FS12369, 04FS12372,
+               04FS12373, 04FS12375, 04FS12379, 04FS12381, 04FS12382,
+               04FS12385, 04FS12392, 04FS12397, 04FS12407, 04FS12413,
+               04FS12414, 04FS12415;
+               (b) 04J21629, 04J21630, 04J21631, 04J21633, 04J21634,
+               04M01140, 04M01141, 04M01143, 04M01144, 04M01145, 04M01146,
+               04M01152, 04M01155, 04M01156, 04M01158, 04M01161, 04M01164,
+               04N84567, 04N84568, 04N84572, 04N84573, 04N84578, 04N84581,
+               04R64795, 04R64800, 04R64801, 04R64806, 04R64814, 04R64815,
+               04R64817, 04R64822, 04R64826, 04R64828, 04R64829, 04R64830,
+               04R64831. 
+MANUFACTURER   American Red Cross Blood Services, Dedham, Massachusetts.
+RECALLED BY    Manufacturer, by telephone July 10 and 15, 1991, followed by
+               letter July 24, 1991.  Firm-initiated recall complete.
+DISTRIBUTION   Massachusetts, Maine.
+QUANTITY       (a) 33 units; (b) 36 units.
+REASON         Blood products incorrectly tested for syphilis were
+               distributed. 
+
+                                    -5-_______________
+PRODUCT        Source Plasma.  Recall #B-185-4.
+CODE           Unit numbers:  C05877-109 through C05896-109, C05898-109
+               through C05908-109, C05910-109 through C05912-109, 
+               G26345-109 through G26369-109, G26371-109 through 
+               G26399-109, G26401-109 through G26417-109, 
+               G26419-109 through G26421-109, G26423-109 through 
+               G26463-109, G26465-109 through G26531-109, 
+               G26533-109 through G26536-109, G26538-109 through 
+               G26547-109, G26549-109 through G26572-109, 
+               G26574-109 through G26621-109, G26624-109 through 
+               G26682-109, G26684-109 through G26711-109, 
+               K05023-109 through K05028-109.
+MANUFACTURER   San Juan Plasma, Inc., Farmington, New Mexico.
+RECALLED BY    Manufacturer, by letter August 17, 1993, and by telephone
+               March 7, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   California, Massachusetts.
+QUANTITY       395 units.
+REASON         Source Plasma, exposed to elevated storage temperatures and
+               not properly relabeled as Source Plasma, Salvaged, was
+               distributed.
+
+_______________
+PRODUCT        Platelets.  Recall #B-186-4.
+CODE           Unit #C24894.
+MANUFACTURER   Northern Illinois Blood Bank, Rockford, Illinois.
+RECALLED BY    Manufacturer, by telephone September 27, 1993, followed by
+               letter September 29, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Illinois.
+QUANTITY       1 unit.
+REASON         Blood product, which tested initially reactive for hepatitis
+               B surface antigen (HBsAg) by EIA, was distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-187-4.
+CODE           Unit #1M99786.
+MANUFACTURER   Community Blood Center of Mercer County, Trenton, New
+               Jersey.
+RECALLED BY    Manufacturer, by telephone June 1, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   New Jersey.
+QUANTITY       1 unit.
+REASON         Blood product, which was labeled with the incorrect
+               expiration date, was distributed.
+
+_______________
+PRODUCT        (a) Whole Blood; (b) Platelets, Pheresis; (c) Red Blood
+               Cells; (d) Platelets; (e) Recovered Plasma.
+               Recall #B-189/193-4.
+CODE           Unit numbers:  (a) 1075092; (b) 2604250; (c-e) 8100569.
+MANUFACTURER   LifeSource, Glenview, Illinois.
+
+                                    -6-RECALLED BY    Manufacturer, by letters of January 17 and 18, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Illinois, New York.
+QUANTITY       1 unit of each component.
+REASON         Blood products which tested reactive to serologic test for
+               syphilis were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        I.V. Administration Sets:  (a) "Mini Set", Order #28-60-125,
+               designed to connect to the extension set used with the
+               Siemens Infusion System, contained in a cardboard box, 20
+               per box;
+               (b) "Uni Set", Order #28-60-265, used with the Siemens
+               Infusion System.  The product has two Y-sites with a check
+               valve, it's priming volume is approximately 16 ml, packaged
+               in a plastic pouch, contained in a cardboard box, 70 per
+               box;
+               (c) "Custom Set", Order #25-25-01, same as "Uni Set" with
+               the exception that this product contains a filter which
+               renders the custom name.  In addition, the priming volume is
+               approximately 26 ml.  Recall #Z-787/789-3.
+CODE           Lot numbers:  (a) Q1470 AND Q1501; (b) Q1720; 
+               (c) Q1721, Q1729, Q1733, Q1737. 
+MANUFACTURER   Siemens Infusion Systems, Sylmar, California.
+RECALLED BY    Manufacturer, by letters of April 20, 1993, May 12 and 19,
+               1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   (a) California, Illinois, Texas, Virginia, Florida, North
+               Carolina, New Jersey, Virginia, Illinois; (b) Illinois; (c)
+               Illinois, Kentucky, Missouri, Mississippi, North Carolina,
+               New Jersey, Texas, Virginia, West Virginia, California,
+               Hawaii, Minnesota, Montana, Oklahoma, Tennessee, Wisconsin,
+               Indiana.
+QUANTITY       (a) 1,800 units of lot Q1470, 6,120 units of lot Q1501; (b)
+               840 units of lot Q1720; (c) 2,170 units of lot Q1721, 6,090
+               units of lot Q1729, 18,1690 units of lot Q1733, 14,210 units
+               of lot Q1737.
+REASON         The Mini-Set was manufactured with a 12" Macrobore upper
+               tubing section instead of a Microbore upper tubing section
+               as labeled which also increases the priming volume by
+               approximately 1 ml.  The custom set and Uni set have kinking
+               tubing and pinholes that may compromise package integrity.
+
+_______________
+PRODUCT        Hafcon brand Head Activated Fluoroscopic Controller,
+               mechanism for regulating fluoroscopic infared light
+               transmitters.  Recall #Z-297-4.
+CODE           All serial numbers.
+MANUFACTURER   Electrotechnics, Corporation, Shreveport, Louisiana. 
+RECALLED BY    Manufacturer, December 7, 1993.  Firm-initiated recall
+               ongoing.
+
+                                    -7-DISTRIBUTION   Louisina Indiana, Ohio, Texas, Virginia.
+QUANTITY       35 units.
+REASON         The firm does not have any manufacturing documents showing
+               that the product was made to specification.
+
+_______________
+PRODUCT        IVAC Needleless IV Sets, used for the administration of IV
+               solutions.  Recall #Z-301-4.
+CODE           All lots.
+MANUFACTURER   IVAC Corporation, San Diego, California.
+RECALLED BY    Manufacturer, by telephone November 18, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   California, Kansas, Ohio, South Carolina, Utah, Canada,
+               England, France, New Zealand.
+QUANTITY       13,900 units were distributed.
+REASON         Leaking caused by defective manufacturing material.
+
+_______________
+PRODUCT        Cobe Centry System 3 Blood Tubing Set, Catalog #003110-500. 
+               Recall #Z-302-4.
+CODE           Lot numbers:  07Y15317, 07Y15318.
+MANUFACTURER   CGH Medical, Inc., Tijuana, Mexico.
+RECALLED BY    Cobe Renal Care, Inc., Lakewood, Colorado, by telephone
+               November 9, 1993, and November 30 through December 3, 1993,
+               followed by letter February 11, 1994.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide, Bermuda, Santiago, Chile, Taiwan.
+QUANTITY       21,390 sets were distributed.
+REASON         The solvent used to bond the tubing with the luer was
+               contaminated with alcohol during manufacturing due to a
+               manufacturing operator error which could result in a
+               disconnection of the tubing at the luer.
+
+_______________
+PRODUCT        Ohmeda Rascal II Anesthetic Gas Monitor, a dedicated
+               respiratory gas monitoring system that identifies anesthetic
+               agents and measures inspired and expired oxygen as well as
+               nitrogen.  Recall #Z-303-4.
+CODE           Serial numbers:  FZAU00001 to FZAU00394, FZAV00395 to
+               FZAV00886 to FZAW00887 to FZAW01697, with software versions
+               1.10 or lower.
+MANUFACTURER   Ohmeda Medical Systems Division, Salt Lake City, Utah.
+RECALLED BY    Ohmeda Medical Systems Division, Madison, Wisconsin, by
+               letters dated January 17 and 18, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide, Canada.
+QUANTITY       1,222 units were distributed.
+REASON         The anesthetic gas monitoring equipment could misidentify
+               the anesthetic gas after long periods of continuous use, and
+               if the misidentification involves halothane, the displayed a
+               concentrate could be twice the actual concentration, due to
+               a defect with software version 1.10 or lower.
+
+                                    -8-_______________
+PRODUCT        Baxter Auto Syringe Model AS40A Infusion Pump, product code
+               1M8565, Rx medical device used for accurate continuous or
+               intermittent infusion delivery of fluids and drugs via
+               intravenous, intra-arterial, epidural, or subcutaneous
+               routes of administration.  Recall #Z-305-4.
+CODE           All units with D1 or D2 decal adjacent to the serial number.
+MANUFACTURER   Baxter Healthcare Corporation PTE Ltd., Singapore.
+RECALLED BY    Baxter Healthcare Corporation, I.V. Systems Division, Round
+               Lake, Illinois, by letters dated February 14, 1994.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,993 units were distributed.
+REASON         The infusion pump's optional drug library contains drug
+               delivery protocols which may be in conflict with the drug
+               manufacturers' package insert protocols for the drugs. 
+               Confusion over and misinterpretation of various protocols
+               presented in the insert and in the drug library could result
+               in over infusion or under infusion of fluids/medications. 
+               Also, concentration of fluids could be faulty.
+
+_______________
+PRODUCT        Stryker Auxiliary Video Organizer, Catalog #240-085-000.
+               Recall #Z-306-4.
+CODE           All serial numbers.
+MANUFACTURER   Stryker Endoscopy, San Jose, California.
+RECALLED BY    Manufacturer, by letter March 25, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       9 carts.
+REASON         The bottom frame of the cart was bent.
+
+_______________
+PRODUCT        Gonochek II, used for in-vitro diagnostic for the rapid
+               identification of pathogenic Neisseria species.  
+               Recall #Z-372-4.
+CODE           Product code 13-003-25.
+MANUFACTURER   EY Laboratories (HK), Ltd., Tsuen Wan, New Purritories, Hong
+               Kong.
+RECALLED BY    EY Laboratories, Inc., San Mateo, California, December 17,
+               1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       4,845 tests.
+REASON         The test will result in a false negative result when used
+               for isolates of Neisseria species grown on certain media.
+
+_______________
+PRODUCT        Epics Brand Cytometers and Dye Laser:
+               (a)  Epics C Series Flow Cytometer; Catalog Nos. 6602370,
+               6602808, 6603235, 6602741, 6603376, 6602809, 6602812,
+               6602813, 6603365, 6603375, 6603534/6603538, 6603440,
+               6603530/6603533, 6603670; 
+
+                                    -9-               (b) Epics 500 Series Flow Cytometer; Catalog Nos.           
+               6602837, 66022838, 6603207, 6603102/6603104,
+               6603489/6603493; 
+               (C) Epics 700 Series Flow Cytometer; Catalog Nos. 6602666,
+               6602669, 6602674, 6602121, 6602317, 6602557,
+               6603166/6603168, 6603430, 6603669, 6603054, 6603666,
+               6603169, 6603171, 6603431, 6603187, 6603246, 6603247,
+               6603248, 6603432, 6602645, 6602661, 6603172, 6603173,
+               6603433, 6603655; 
+               (d) Epics Dye Laser; Catalog No. 6603234; 
+               (e) Epics IV Flow Cytometer; Catalog Nos. 6601394, 
+               6602295; 
+               (f) Epics V Flow Cytometer; Catalog Nos. 6601395, 6601396,
+               6602541; 
+               (g) Epics Elite Flow Cytometer; Catalog Nos.
+               6604042/6604045.  Recall #Z-381/387-4.
+CODE           All serial numbers.
+MANUFACTURER   Coulter Corporation, Epics Group, Miami Lakes, Florida.
+RECALLED BY    Coulter Corporation, Miami Florida, by letter January 21,
+               1992.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+REASON         There is a potential for electrical shock which may result
+               into burns to the operator.
+
+_______________
+PRODUCT        LC Jet D Disposable Nebulizer used to administer/inhale a
+               prescribed dosage of medication.  Recall #Z-461-4.
+CODE           Lot #011293.
+MANUFACTURER   Paul Ritzau Pari-Werk, GmbH, Starnberg, Germany.
+RECALLED BY    Pari Respiratory Equipment, Inc., Richmond, Virginia, by
+               telephone January 26 and 27, 1994, followed by letter dated
+               January 28, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       5,302 units were distributed.
+REASON         A portion of the dose of the drug is ejected as small
+               droplets through the filler port at the top of the device
+               rather than being nebulized out the side of the device as
+               intended.
+
+_______________
+PRODUCT        Model MGU-10A Mammography System, used for mammographic
+               studies.  Recall #Z-465-4.
+CODE           None.
+MANUFACTURER   Toshiba Corporation, Tokyo, Japan.
+RECALLED BY    Toshiba America Medical Systems, Inc., Tustin, California.
+               FDA approved the firm's corrective action plan March 29,
+               1994.  Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       11 units.
+
+                                   -10-REASON         Device failed to comply with the Federal Performance
+               Standard for Diagnostic X-Ray System and their major
+               components for user information as required.
+
+_______________
+PRODUCT        Stiegmann-Goff Endoscopic Ligator Kits, for endoscopic
+               ligation of varices and hemorrhoids:
+               (a) Stiegmann-Goff Endoscopic Ligator, Catalog #200220 (5
+               bands);
+               (b) Stiegmann-Goff Endoscopic Ligator, Catalog #200221 (10
+               bands);
+               (c) Stiegmann-Goff Endoscopic Ligator, Catalog #200219, 1
+               per box.  Recall #Z-529/531-4.
+CODE           All lots.
+MANUFACTURER   Superior Health Care Group, Inc., Cumberland, Rhode Island.
+RECALLED BY    Bard Interventional Products, Tewksbury, Massachusetts, by
+               letter December 3, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       37,710 ligators and 3,414 overtubes were distributed.
+REASON         No 510(k) has been filed for the Esophageal use of the
+               ligator and no 510(k) was filed for the overtube used as an
+               accessory to the endoscopic procedure.
+
+_______________
+PRODUCT        Allergan Medical Optics (AMO) Prestige Pack Disposable
+               Tubing Sets: 
+               (a) Model OPO-30S Phaco I/A Tubing Set, Small Bore, provides
+               items necessary to perform one irrigation/aspiration
+               procedure or one phacoemulsification procedure with AMO
+               cataract equipment;
+               (b) Model OPO-30C Phaco I/A Tubing Set, provides items
+               necessary to perform one irrigation/aspiration procedure or
+               one phacoemulsification procedure with AMO cataract
+               equipment;
+               (c) Model OPO-40, Phaco I/A Tubing Set, provides items
+               necessary to perform one irrigation/aspiration procedure or
+               one phacoemulsification procedure with AMO prestige advanced
+               cataract extraction system.  Recall #Z-532/534-4.
+CODE           All lots manufactured since 12/91 as follows:  M8514, M8517,
+               M2566, M8679, M9247, M9350, M9365, M9527, M9558, M9559,
+               M9700, M9725, M9753, M9915, M10217, M10279, M10375, M11074,
+               M11192, M11221.
+MANUFACTURER   Allergan Medical Optics, subsidiary of Allergan, Inc.,
+               Lenoir City, North Carolina.
+RECALLED BY    Allergan Medical Optics, Division of Allerlgan, Inc.,
+               Irvine, California, by telephone November 9, 1993, followed
+               by letter November 10, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       (a) 175,790 sets; (b) 12,036 sets; (c) 390 sets were
+               distributed; firm estimates the following amounts remain on
+               the market: (a) 7,324 sets; (b) 1,504; (c) 97.
+
+                                   -11-REASON         Cracks have been found on outer trays used to package
+               sterile tubing sets.  The cracks result from excessive
+               brittleness of the high-impact polystyrene after gamma
+               irradiation, therefore compromising the sterility of the
+               tubing product inside the package.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        SMA Reference Reagent, intended for in-vitro diagnostic use
+               in the calibration of SMA analyzers.  Recall #Z-443-4.
+CODE           Lot #181180 EXP 6/94.
+MANUFACTURER   Amresco, Inc., Solon, Ohio.
+RECALLED BY    Manufacturer, by telephone September 3, 1993, followed by
+               letter. Firm-initiated recall complete.
+DISTRIBUTION   California, North Dakota, Canada.
+QUANTITY       100 vials.
+REASON         The device was found to have been assigned an incorrect lot
+               number.
+
+_______________
+PRODUCT        NAMIC Angiographic Guidewires, intended for use in the
+               percutaneous introduction of catheters:
+               (a) Catalog #96000105; (b) Catalog #96000106; (c) Catalog
+               #96000204; (d) Catalog #96000207; (e) Catalog #96000208; 
+               (f) Catalog #96000209.  Recall #Z-444/449-4.
+CODE           Lot numbers:  (a) 01-043580; (b) 01-043564; (c) 01-043512,
+               02-043512; (d) 01-043568, (e) 01-043569, (f) 01-043555.
+MANUFACTURER   Lake Region Manufacturing Company, Inc., Chaska, Minnesota.
+RECALLED BY    NAMIC (North American Instrument Company), Glens Falls, New
+               York, by telephone January 11, 1993, followed by letter
+               January 12, 1994.  Firm-initiated recall ongong.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       5,575 units were distributed.
+REASON         Labeling does not correctly identify the shape of the tip.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS I
+============
+_______________
+PRODUCT        (a) Phase II Horse Feed; (b) Phase III Horse Feed;
+               (c) Horse and Pony Feed.  Recall #V-034/036-4.
+CODE           Manufacturing codes are dates of production:  11/9/93,
+               11/11/93, 11/23/93, 12/10/93, 1/14/94.
+MANUFACTURER   Molinos de Puerto Rico, Inc., Guaynabo, Puerto Rico.
+RECALLED BY    Manufacturer, by visit February 7, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Puerto Rico.
+QUANTITY       Horse and Pony Feed - 48,000 pounds; Phase Two and Phase
+               Three Horse Feed - 155,000 pounds.
+REASON         Possible cross-contamination of horse feed with monensin.
+
+                                   -12-
+SEIZURES:
+=================================================================
+_______________
+PRODUCT        Love Land Food Supplement, Good News for Pets Food
+               Supplement, Love Land Conditioning Shampoo, Good News for
+               Pets Skin and Coat Treatment, accompanying labeling, and the
+               drug component precipitated sulfur (93-603-143/6).
+CHARGES        Adulterated - The articles are not generally reconized by 
+               qualified experts as safe and effective for their intended
+               use and there are no approved applications in effect. 
+               Misbranded - One of the articles is a drug which is
+               fabricated from two or more ingredients and its label fails
+               to bear the established name and quantity of each
+               ingredient, nor does it bear adequate directions for its
+               intended use for the treatment of dermatitis.  All of the
+               articles were manufactured in an establishment not duly
+               registered and they were not included in a required list.
+LOCATION       Normera Resources Corporation, Syracuse, New York.
+FILED          February 15, 1994; U.S. District Court for the Northern 
+               District of New York; Civil #94-CV-197(FJS); FDC #66903.
+SEIZED         March 11, 1994 - goods valued at approximately $22,000.
+
+_______________
+PRODUCT        Oxygen USP, Helium USP, Nitrous Oxide USP, and Carbon
+               Dioxide USP (94-710-343, et al). 
+CHARGE         Adulterated - The methods used in, and the facilities and 
+               controls used for, the articles' manufacture and processing,
+               do not conform to and are not operated and administered in
+               conformity with current good manufacturing practice
+               regulation.  
+LOCATION       BOC Airco Gases, Carol Stream, Illinois.
+FILED          March 29, 1994; U.S. District Court for the Northern
+               District of Illinois, Eastern Division; Civil #94C 1948;
+               FDC #66937.
+SEIZED         March 29, 1994 - goods valued at approximately $195,000.
+
+_______________
+PRODUCT        Love Land Food Supplement, Good News for Pets Food
+               Supplement, Love Land Conditioning Shampoo, Good News for
+               Pets Skin and Coat Treatment, accompanying labeling, and the
+               drug component precipitated sulfur (93-603-143/6).
+CHARGES        Adulterated - The articles are not generally reconized by 
+               qualified experts as safe and effective for their intended
+               use and there are no approved applications in effect. 
+               Misbranded - One of the articles is a drug which is
+               fabricated from two or more ingredients and its label fails
+               to bear the established name and quantity of each
+               ingredient, nor does it bear adequate directions for its
+               intended use for the treatment of dermatitis.  All of the
+               articles were manufactured in an establishment not duly
+               registered and they were not included in a required list.
+LOCATION       Normera Resources Corporation, Syracuse, New York.
+
+                                   -13-FILED          February 15, 1994; U.S. District Court for the Northern 
+               District of New York; Civil #94-CV-197(FJS); FDC #66903.
+SEIZED         March 11, 1994 - goods valued at approximately $22,000.
+
+_______________
+PRODUCT        Oxygen USP, Helium USP, Nitrous Oxide USP, and Carbon
+               Dioxide USP (94-710-343, et al). 
+CHARGE         Adulterated - The methods used in, and the facilities and 
+               controls used for, the articles' manufacture and processing,
+               do not conform to and are not operated and administered in
+               conformity with current good manufacturing practice
+               regulation.  
+LOCATION       BOC Airco Gases, Carol Stream, Illinois.
+FILED          March 29, 1994; U.S. District Court for the Northern
+               District of Illinois, Eastern Division; Civil #94C 1948;
+               FDC #66937.
+SEIZED         March 29, 1994 - goods valued at approximately $195,000.
+
+                                   -14-
+END OF ENFORCEMENT REPORT FOR APRIL 6, 1994.  BLANK PAGES MAY FOLLOW.
+                                   ####

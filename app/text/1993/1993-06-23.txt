@@ -1,0 +1,452 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  11
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      39 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+06/23/1993
+
+Recalls and Field Corrections:  Foods -- Class II -- 06/23/1993
+
+June 23, 1993                                           93-25
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+========================
+_______________
+PRODUCT         Dutch Chocolate Cake, gluten and lactose free, 12 ounces. 
+                Recall #F-447-3.
+CODE            Lot numbers KM1A and BQ2A.
+MANUFACTURER    Red Mill Farms, Inc., Brooklyn, New York.
+RECALLED BY     Manufacturer, by letter May 5, 1993.  Firm-initiated recall
+                ongoing.
+DISTRIBUTION    Undetermined.
+QUANTITY        Approximately 270 cases (12 units per case) were distributed.
+REASON          Product is contaminated with undeclared walnuts.
+
+_______________
+PRODUCT         Meijer brand Apple Sauce, Natural, No sugar Added, in 50
+                ounce glass jars.  Recall #F-481-3.
+CODE            Lot numbers:  0832LR and 11093/MBK17H.
+MANUFACTURER    Comstock Michigan Fruit Division, Rochester, New York (lot
+                0832LR); Knouse Foods, Inc., Paw Paw, Michigan.
+RECALLED BY     Meijer, Inc., Grand Rapids, Michigan, by telephone October 2,
+                1992.  Firm-initiated recall ongoing.
+DISTRIBUTION    Michigan, Ohio.
+QUANTITY        30,096 jars were distributed.
+REASON          The labels for the unsweetened applesauce were placed on the
+                sweetened applesauce.
+_______________
+PRODUCT         Trail Mix products:  (a) California Aloha Trail Mix;
+                (b) R & E Deluxe Trail Mix, each packed and distributed by
+                Royal Candy Co., Inc., in clear cellophane bags, 1/2 ounces. 
+                Recall #F-482/483-2.
+CODE            None.
+MANUFACTURER    Royal Candy Company, Inc., Brooklyn, New York (repacker).
+RECALLED BY     Repacker, by telephone on or about May 12, 1993. Firm-
+                initiated recall ongoing.
+DISTRIBUTION    New York, Georgia, Illinois, Virginia, Maryland.
+QUANTITY        Approximately 15 dozen bags of each product were distributed.
+REASON          Product contains undeclared sulfites.
+
+_______________
+PRODUCT         Smoked Salmon:  (a) Lemon Pepper Smoked Salmon, in , in
+                plastic vacuum packed bag with a stick on label; (b) Cajun
+                Style Smoked Salmon, in plastic vacuum packed bag with a
+                stick on label.  Recall #F-484/485-3.
+CODE            All codes that do not contain the proper color declaration.
+MANUFACTURER    Sea Sausage, Inc., Sea-Tac, Washington.
+RECALLED BY     Manufacturer, by visit after May 20, 1993.  Firm-initiated
+                field correction (relabeling) ongoing.
+DISTRIBUTION    Washington state.
+QUANTITY        Approximately 500-800 pounds are distributed weekly.
+REASON          Product contains undeclared FD&C; Yellow No. 5 & 6, and Red
+                No. 40.
+
+_______________
+PRODUCT         Hostess brand Walnut Brownie Bites, in multi-package 8 ounce
+                cartons.  Recall #F-486-3.
+CODE            Lot #533214.  Carton marked with a pick-up date of 9/5/92 and
+                EXP 9/9/92.
+MANUFACTURER    Continental Baking Company, Inc., Indianapolis, Indiana.
+RECALLED BY     Continental Baking Company, Inc., St. Louis, Missouri, by
+                letter September 4, 1992.  Firm-initiated recall complete.
+DISTRIBUTION    Nationwide.
+QUANTITY        2,239 cartons were recalled.
+REASON          Product does not declare walnuts on the carton label.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+=======================
+_______________
+PRODUCT         Instant tea:  (a) Tea with Lemon Drink, in bulk 50 pound bags
+                of instant tea; (b) Keefe Instant Tea with Lemon and Sugar,
+                in 12 ounce envelopes.  Recall #F-462-463-3.
+CODE            Lot numbers:  (a) 111217922020 through 111217922029;
+                (b) FEB 11 1993 and FEB 12 1993.
+MANUFACTURER    Consolidated Flavors Corporation, Bridgeton, Missouri.
+RECALLED BY     Manufacturer, by telephone approximately February 17, 1993. 
+                Firm-initiated recall complete.
+DISTRIBUTION    Nationwide.
+QUANTITY        (a) 602 bags; (b) 1,282 cases (18 envelopes per case) were
+                distributed.
+REASON          Product is contaminated with pieces of shredded teflon
+                sealer.
+
+_______________
+PRODUCT         Health for Life brand L-Carnitine, 250 mg Caplets, in bottles
+                of 30, nutritional supplement.  Recall #F-487-3.
+CODE            05739 3/95.
+MANUFACTURER    Gemini Pharmaceuticals, Inc., Bohemia, New York.
+RECALLED BY     Triage Pharmaceutical, Inc., Syracuse, New York, by
+                Administrative Bulletin 93-02, dated May 13, 1993.  Firm-
+                initiated recall ongoing.
+DISTRIBUTION    Pennsylvania, New Jersey, Virginia, Maryland, Georgia, North
+                Carolina, Texas, Ohio, Florida, Minnesota, Wisconsin,
+                Arizona, Kentucky, Indiana, California, Washington state,
+                Oregon.
+QUANTITY        1,056 bottles were distributed.
+REASON          Product is subpotent.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+========================
+_______________
+PRODUCT         Neomycin Sulfate Tablets, 500 mg, in bottles of 100, a Rx
+                antibiotic,  Recall #D-282-3.
+CODE            All lots.
+MANUFACTURER    Eon Labs Manufacturing, Inc., Laurelton, New York.
+RECALLED BY     Manufacturer, by telephone by letter June 11, 1993.  Firm-
+                initiated recall ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        21,000 bottles were distributed.
+REASON          Discrepancies in manufacturing procedures.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+=======================
+_______________
+PRODUCT         (a) Donnazyme Tablets, in 100 tablet bottles, Pancreatin, USP
+                equivalent 500 mg; (b) Entozyme Tablets, in 100 tablet
+                bottles, Pancreatin, USP equivalent 300 mg.
+                Recall #D-280/281-3.
+CODE            All lots.
+MANUFACTURER    Whitehall-Robins, Richmond, Virginia.
+RECALLED BY     Manufacturer, by letter May 25, 1993.  Firm-initiated recall
+                ongoing.
+DISTRIBUTION    Nationwide, Puerto Rico, Canada.
+QUANTITY        Undetermined.
+REASON          Potency not assured through expiration date.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+====================
+_______________
+PRODUCT         Red Blood Cells.  Recall #B-277-3.
+
+CODE            Unit #6045192.
+MANUFACTURER    Community Blood Center, Inc., Appleton, Wisconsin.
+RECALLED BY     Manufacturer, by letter January 12, 1993.  Firm-initiated
+                recall complete.
+DISTRIBUTION    Wisconsin.
+QUANTITY        1 unit.
+REASON          Red Blood Cells, prepared from a Whole Blood unit stored at
+                room temperature more than eight hours after collection, were
+                distributed.
+
+_______________
+PRODUCT         (a) Red Blood Cells; (b) Platelets; (c) Cryoprecipitated AHF. 
+                Recall #B-282/284-3.
+CODE            Unit numbers:  (a) 10193-5281, 10193-6148, 10195-3814, 10195-
+                8635, 10196-3751, 10196-8214, 10196-9243, 10197-2858, 10197-
+                4035, 10197-4601, 10198-6137;
+                (b) 10193-5281, 10193-6148, 10195-8635; 
+                (c) 10196-9243, 10197-4601, 10198-6137.
+MANUFACTURER    United Blood Services Blood Systems, Inc., Scottsdale,
+                Arizona.
+RECALLED BY     Manufacturer, by letter June 4, 1992.  Firm-initiated recall
+                complete.
+DISTRIBUTION    Arizona.
+QUANTITY        (a) 11 units; (b) 3 units; (c) 3 units.
+REASON          Blood products which tested reactive for syphilis were
+                distributed.
+
+_______________
+PRODUCT         Source Plasma.  Recall #B-297-3.
+CODE            Unit #CU6645.
+MANUFACTURER    Sera-Tec Biologicals, Salt Lake City, Utah.
+RECALLED BY     Consignee notified firm by telephone September 21, 1992, and
+                Manufacturer sent facsimile on September 22, 1992.  Firm-
+                initiated recall complete.
+DISTRIBUTION    North Carolina.
+QUANTITY        1 unit.
+REASON          Blood product untested for viral markers was distributed for
+                further manufacture into injectable products.
+
+_______________
+PRODUCT         Platelets.  Recall #B-298-3.
+CODE            Unit numbers:  19GJ03779, 19GJ03781, 19GJ03798, 19GJ03791,
+                19GJ03808, 19GJ03810.
+MANUFACTURER    American Red Cross, Blood Services, Paducah, Kentucky.
+RECALLED BY     Manufacturer, by telephone March 2, 1992, and by letter March
+                9, 1992.  Firm-initiated recall complete.
+DISTRIBUTION    Kentucky.
+REASON          Blood products labeled with the incorrect expiration dates
+                were distributed.
+
+_______________
+PRODUCT         (a) Red Blood Cells; (b) Plasma.  Recall #B-299/300-3.
+CODE            Unit numbers:  (a) 53FJ07015, 53FJ07016, 53G70895, 53L44087,
+                53T94586, 53X70635, 53X70636; (b) 53X70635, 53X70635,
+                53X70636.
+MANUFACTURER    American Red Cross Blood Services, Baltimore, Maryland
+RECALLED BY     Manufacturer, by letter December 18, 1992.  Firm-initiated
+                recall complete.
+DISTRIBUTION    Washington, D.C., Maryland. 
+QUANTITY        (a) 7 units; (b) 3 units. 
+REASON          Blood products, corresponding to units of Platelets which
+                were pooled and possibly contaminated with Staphylococcus
+                epidermidis, were distributed.
+
+_______________
+PRODUCT         Immu-Sal Immunohematological Saline.  Recall #B-302-3.
+CODE            Lot numbers:  2100, 2105, 2120, 2131, 2142, 2169, 2173.
+MANUFACTURER    Baxter Diagnostics, Inc., Miami, Florida.
+RECALLED BY     Manufacturer, by letter in July 1992.  Firm-initiated recall
+                ongoing.
+DISTRIBUTION    Nationwide, Canada, Spain.
+QUANTITY        601 units were distributed.
+REASON          Diagnostic reagents, which demonstrated unexpected negative
+                or weakly reactive reactions, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+===================
+_______________
+PRODUCT         Recovered Plasma.  Recall #B-301-3.
+CODE            Unit numbers:  53FJ07015, 53FJ07016, 53G70895, 53L44087.
+MANUFACTURER    American Red Cross Blood Services, Baltimore, Maryland
+RECALLED BY     Manufacturer, by letter December 18, 1992.  Firm-initiated
+                recall complete.
+DISTRIBUTION    Washington, D.C., Maryland, California.
+QUANTITY        4 units.
+REASON          Blood products, corresponding to units of Pooled Platelets
+                which were possibly contaminated with Staphylococcus
+                epidermidis, were distributed for further manufacture into
+                injectable products.
+
+
+CRIMINAL INFORMATIONS: ==============================================
+_______________
+AGAINST         Mark Saur, owner and officer, and Apple Valley
+                International, Inc., a corporation, Sparta, Michigan.
+CHARGES         Mr. Saur pled guilty to a three-count misdemeanor           
+                Information for interstate shipment of adulterated food
+                that had been labeled and represented as unsweetened orange
+                juice concentrate, but was adulterated by substituting
+                invert beet sugar for part of the orange juice concentrate. 
+                
+                Apple Valley International also pled guilty, but to a
+                three-count felony Information.  The felony counts were
+                charged because interstate shipments were made with the
+                intent to defraud and mislead.  Mr. Saur was sentenced to a
+                fine of $99,999, plus a special assessment of $25 per
+                count.  Apple Valley was fined a total of $480,000, plus a
+                special assessment of $600 per count.  The fines must be
+                paid within 90 days and the assessments must be paid
+                immediately.  
+FILED           April 1, 1993 - Information; May 28, 1993 - Sentencing;
+                U.S. District Court for the Western District of Michigan,   
+                Southern Division; Criminal Nos. 1:93-M-373 and 1:93:CR:49;
+                FDC #65991.
+
+
+INJUNCTION ACTIONS:
+======================================================
+_______________
+PRODUCT        Thyroid Tablets, et al (92-633-613).
+AGAINST        Richlyn Laboratories, Inc., a corporation and Richard S. 
+               Weinberg, an individual, Philadelphia, Pennsylvania.
+CHARGE         The defendants are permanently enjoined from the interstate
+               shipment of any drug that is misbranded because its labeling
+               is false or misleading.  They are further enjoined from the
+               interstate shipment of drugs that are adulterated because
+               the methods used in, or the facilities or controls used for,
+               their manufacture, processing, packing, or labeling are not
+               in conformity with current good manufacturing practice
+               regulations.  Further, the defendants must comply with the
+               specific terms and obligations in the order of permanent
+               injunction.
+FILED          September 21, 1992 - Restraining Order; October 1, 1992 -
+               Order for Preliminary Injunction signed; May 25, 1993 -
+               Order for Permanent Injunction; U.S. District Court for the
+               Eastern District of Pennsylvania; Civil #92-CV-5464;
+               INJ #1296.
+
+_______________
+PRODUCT         Drug products (91-613-667).
+AGAINST         Able Laboratories, Inc., a corporation; and Murty Vepuri
+                and Paul Manning, individuals, South Plainfield, New
+                Jersey.
+CHARGE          Adulterated - The methods used in, or the facilities or     
+                controls used for, the manufacture, processing, packing, or 
+                holding do not conform to or are not operated or            
+                administered in conformity with current good manufacturing  
+                practice regulations.
+FILED           November 6, 1991 - U.S. District Court for the District of  
+                New Jersey; March 2, 1992 - Agreed Order of Permanent       
+                Injunction, signed by both parties and the District Court   
+                Judge. 
+CONTEMPT        May 25, 1993 - U.S. District Court for the District of New
+ACTION          Jersey, Civil #91-4916 (AJL); INJ #1268 and 1268A;
+                Stipulated Order, amending the Agreed Order of Permanent
+                Injunction.  
+DISPOSITION     The Stipulated Order limits the individual defendants' 
+                activities at the firm, sets financial penalties for
+                violations of the agreed order, and names the manner in
+                which the firm will be notified if a partial or complete
+                shutdown is required.  As a separate part of the overall
+                settlement, A.L. Laboratories, the owner of Able            
+                Laboratories, paid to the U.S. Treasury a total of
+                $45,611--The costs for prosecuting the contempt action. 
+
+MASS SEIZURE ACTIONS:
+====================================================
+_______________
+PRODUCT         Disopyramide Phosphate 100 mg. Extended Release Capsules
+                and other quantities of in-process and finished solid
+                dosage form drugs (tablets and capsules only) (93-605-588
+                et al.).
+CHARGE          Adulterated - The methods used in, and the facilities and   
+                controls used for, the articles' manufacture, processing,   
+                packing, and holding do not conform to and are not operated 
+                or administered in conformity with current good          
+                manufacturing practice requirements.
+FIRMS           KV Pharmaceutical Company, at seven different locations,    
+                St. Louis, Missouri; and, at Highland Packaging Company,    
+                St. Louis, Missouri.
+FILED           April 20, 1993; U.S. District Court for the Eastern
+                District of Missouri, Eastern Division; Civil ##4:93CV00919
+                and 4:93CV00918; FDC ##66706 and 66709.
+SEIZED          April 21 , 1993 - goods valued at $28 million and           
+                $3 million.
+
+SEIZURE ACTION:
+==========================================================
+_______________
+PRODUCT         Cathy's EXTRA STRENGTH Guarana Capsules and Cathy's Herbal  
+                Cellulite Treatment and accompanying labeling               
+                (93-700-038, et al.).
+
+CHARGES         New drug - No approved applications are in effect for such  
+                drugs.  Misbranded - The articles' labels fail to bear      
+                adequate directions for use.
+FIRM            Bill's Wholesale, Inc., and Bill's Health Foods, Inc.,      
+                Albany, Georgia.
+FILED           May 13, 1993; U.S. District Court for the Middle District
+                of Georgia; Civil #93-56-ALB-AMER; FDC #66699.
+SEIZED          May 28, 1993 - goods valued at approximately $65,000.
+
+
+                                    -7-
+
+END OF ENFORCEMENT REPORT FOR JUNE 23, 1993.  BLANK PAGES MAY FOLLOW.
+                                   ####

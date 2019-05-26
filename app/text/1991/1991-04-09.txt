@@ -1,0 +1,752 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      31 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+04/09/1991     
+
+FDA Enforcement for the week of April 10, 1991
+
+
+
+                            FDA ENFORCEMENT REPORT
+                              FOR APRIL 10, 1991
+
+                                                           April 10, 1991 
+
+Recalls and Field Corrections:
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  Product will cause serious adverse health consequences or 
+                  death.
+
+                                     NONE 
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the 
+                  probability of serious adverse health consequences is 
+                  remote. 
+
+
+Product:          Glen Confections brand (a) Syrup Filled Wax Bottles;
+                  (b) Syrup Filled Jumbo Sticks, in 20 pound bulk pack
+                  cases.  Both products are candy novelty items 
+                  manufactured in lemon-lime, cherry, orange, 
+                  and pineapple flavors.  Recall #F-300/301-1.
+Code:             All lots. 
+
+                                      -1- 
+
+
+
+
+
+
+Manufacturer:     W & F Products, Inc., Buffalo, New York.
+Recalled by:      Manufacturer, by telephone beginning February 26, 1991
+                  followed by letter February 27, 1991.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Nationwide, Canada. 
+Quantity:         (a) 38,864 cases; (b) 61,396 cases were distributed.
+Reason:           Product contains undeclared FD&C; Yellow No. 5.
+
+                                     ---- 
+
+Product:          Italian Muscat Grapes.  Recall #F-302-1.
+Code:             Not coded.
+Manufacturer:     DMA Enterprises Importers & Exporters Inc., Astoria,
+                  New York. 
+Recalled by:      Manufacturer.  The firm is unable to inform their retail
+                  customers, since no records were kept of their cash and 
+                  carry sales.  Firm-initiated recall ongoing.
+Distribution:     Unknown.
+Quantity:         1,000 cartons were distributed. 
+Reason:           Product contains illegal pesticide residues.
+
+                                     ---- 
+
+Product:          Vermont Cheddar Cheese Omelletes, 3.75 ounces, packaged in
+                  boxes of 108 pieces.  Recall #F-303-1.
+Code:             Cartons stamped FEB 25, 1991 or FEB 26, 1991, Item #1537. 
+Manufacturer:     Mack Brothers Ltd., Goshen, New York. 
+Recalled by:      Manufacturer, by telephone February 26, 1991 followed by
+                  FAX.  Firm-initiated recall ongoing.
+Distribution:     Nationwide. 
+Quantity:         11,516 pieces contained in 109 boxes were distributed.
+Reason:           Product manufactured using salmonella contaminated eggs.
+
+                                     ---- 
+
+Product:          Gist Brocades Eagle brand Bakers Yeast in 50 pound bags,
+                  a live yeast used by industrial bakers in either fresh, 
+                  frozen or fresh-frozen baked goods.  Recall #F-304-1. 
+Code:             Lot numbers 017, 017B, 017C.
+Manufacturer:     Gist-Brocades Food Ingredients, Inc., East Brunswick, 
+                  New Jersey. 
+Recalled by:      Gist-Brocades Food Ingredients, Inc., King of Prussia,
+                  Pennsylvania, by telephone February 7, 1991 followed by 
+                  letter February 8, 1991.  Firm-initiated recall complete. 
+Distribution:     Alabama, Connecticut, Georgia, Louisiana, Maryland, 
+                  Maine, North Carolina, New York, Pennsylvania, South
+                  Carolina, Tennessee, Virginia, West Virginia. 
+Quantity:         Firm estimates none remains on the market.
+Reason:           Yeast was contaminated with brass shavings. 
+
+                                     ---- 
+
+                                      -2- 
+
+
+
+
+
+                  Class III - A situation in which the use of, or exposure
+                  to a violative product is not likely to cause adverse 
+                  health consequences.
+
+
+Product:          Vine Fresh brand Tomato Juice, Grade A Fancy, in 46 fluid 
+                  ounce cans.  Recall #F-283-1. 
+Code:             Lot #ETJ0292A.
+Manufacturer:     Red Giant foods, Inc., Elwood, Indiana. 
+Distribution:     Illinois. 
+Quantity:         3,151 cases (12 cans/case) were distributed.
+Reason:           Product contained in swollen cans.
+
+                                    ----
+
+                                 COSMETICS
+
+                                    NONE
+
+                         HUMAN DRUGS AND BIOLOGICS
+
+                  Class I - 
+
+Product:          Pegasus Products, Inc., Homeopathic Formula Eye Wash, 
+                  1 fluid ounce clear liquid, for relief of symptoms of eye 
+                  injuries, and also for external application as an eye 
+                  wash.  Recall #D-307-1. 
+Code:             All lots. 
+Manufacturer:     Standard Homeopathic, Los Angeles, California.
+Recalled by:      Pegasus Products, Inc., Boulder, Colorado, by letter
+                  February 28, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide. 
+Quantity:         Firm estimates less than 100 bottles remain on the market.
+Reason:           Non-sterility.
+
+                                    ----
+
+                  Class II -
+
+Product:          Sinumist-SR, Sustained Release 500 mg Guaifenesin 
+                  Tablets, in bottles of 14 and 100 tablets and in strip
+                  packages containing 2 tablets each, an Rx product 
+                  labeled for the temporary relief of coughs associated 
+                  with respiratory tract infections and related 
+                  conditions.  Recall #D-308-1. 
+Code:             Lot #D-151 EXP 11/92. 
+Manufacturer:     Mallard, Inc., Detroit, Michigan. 
+Recalled by:      Manufacturer, by letter March 8, 1991.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Georgia.
+
+                                    -3- 
+
+
+
+
+
+Quantity:         301/14 tablet bottles, 1,531/100 tablet bottles and 
+                  19,944 sample envelopes were distributed; firm estimates
+                  approximately 1,100 packages (2 tablet envelopes),
+                  225 bottles (14 tablet bottles) and 230 bottles (100
+                  tablet bottles) remain on the market. 
+Reason:           Possible metal wire fragment contamination. 
+
+                                    ----
+
+Product:          Gamma Hydroxy Butyrate (GHB) 100 Gram Powder, 950 mg, 
+                  an Rx product used by weightlifters as a substitute for 
+                  anabolic steroids.  Recall #D-309-1.
+Code:             Lot numbers: 17208, 17606, 17676, 18264, 18511, 18568,
+                  18765, 19143, 18358, 19839. 
+Manufacturer:     Universal Laboratories, New Brunswick, New Jersey.
+Recalled by:      Manufacturer, by telephone February 19, 1991 followed 
+                  by letter March 14, 1991.  Firm-initiated recall ongoing. 
+                  See also FDA press release P90-53, November 8, 1990.
+Distribution:     Connecticut, Ohio, Illinois, South Dakota.
+Quantity:         2,596 units were distributed; firm estimates that less
+                  than 1 percent remains on the market. 
+Reason:           Product was marketed without new drug approval. 
+
+                                    ----
+
+Product:          Blenoxane Sterile Bleomycin Sulfate, 15 units per 
+                  vial, 10 vials per carton, an Rx oncology drug. 
+                  Recall #D-311-1.
+Code:             Lot numbers: MDC84, MDC85, MEC86, MEC87, MFC88, MFC89.
+Manufacturer:     Nippon Kayaku Company, Ltd., Chiyoda-ku, Tokyo, Japan.
+Recalled by:      Mead Johnson Oncology Products, Evansville, Indiana,
+                  by letter February 22, 1991.  Firm-initiated recall 
+                  ongoing.
+Distribution:     Nationwide. 
+Quantity:         51,296 vials were distributed.
+Reason:           Some units were found to have loose aluminum overseals. 
+
+                                    ----
+
+Product:          Unasyn IM/IV 3 g (Ampicillin Sodium), in 3 gram vials,
+                  an Rx antibiotic.  Recall #D-312-1. 
+Code:             Lot #V330A. 
+Manufacturer:     Wyeth-Ayerst Labs, West Chester, Pennsylvania.
+Recalled by:      Pfizer, Inc., New York, New York, by letter March 20, 
+                  1991.  Firm-initiated recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         6,509 units were distributed. 
+Reason:           Lack of assurance of sterility. 
+
+                                    ----
+
+Product:          Red Blood Cells.  Recall #B-167-1.
+Code:             Unit #7380416.
+
+                                    -4- 
+
+
+
+
+
+Manufacturer:     Erling Berquist Strategic Hospital, Offutt Air Force
+                  Base, Nebraska. 
+Recalled by:      Manufacturer, by telephone and by letter June 29, 1991. 
+                  Firm-initiated recall complete. 
+Distribution:     Nebraska. 
+Quantity:         1 unit. 
+Reason:           Unit improperly tested for the hepatitis B surface antigen
+                  (HBsAg) was distributed.
+
+                                    ----
+
+Product:          (a) Red Blood Cells; (b) Platelets; 
+                  (c) Cryoprecipitated AHF; (d) Recovered Plasma. 
+                  Recall #B-188/191-1.
+Code:             Unit numbers:  (a) 04FC80350, 04G30742; (b) 04G35865; 
+                  (c & d) 04G30742. 
+Manufacturer:     American Red Cross, Dedham, Massachusetts.
+Recalled by:      Manufacturer, by letters of September 21, 24 and 27, 1990,
+                  October 26, 1990 and by telephone September 24, 1990. 
+                  Firm-initiated recall ongoing.
+Distribution:     Massachusetts, Switzerland. 
+Quantity:         (a) 2 units; (b) 1 unit; (c) 1 unit; (d) 1 unit.
+Reason:           Blood products collected from donors who 1) participated
+                  in high risk behavior, or 2) took anti-malaria
+                  prophylaxis during travel in an area endemic for malaria, 
+                  were distributed. 
+
+                                    ----
+
+                  Class III - 
+
+Product:          Barre National brand Alamag, in 12 ounce plastic bottles, 
+                  an OTC antacid drug.  Recall #D-306-1.
+Code:             All lots within expiration date:  72021, 72456, 72457,
+                  82225, 82535, 82641, 92144, 92381, 92620, 92876, 03229. 
+Manufacturer:     Barre National, Inc., Baltimore, Maryland.
+Recalled by:      Manufacturer, by letter January 28, 1991.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         380,062 bottles were distributed. 
+Reason:           Product fails to meet stability requirements. 
+
+                                    ----
+
+Product:          Boric Acid NF Powder, in 16 ounce plastic bottles, an 
+                  OTC product used as an anti-fungal.  Recall #D-310-1. 
+Code:             Lot #910103.
+Manufacturer:     Lex, Inc., Medley, Florida (repacker).
+Recalled by:      Repacker, by visit beginning March 20, 1991.
+                  Firm-initiated recall ongoing.
+Distribution:     Florida.
+Quantity:         46 bottles were distributed.
+
+                                    -5- 
+
+
+
+
+
+Reason:           Product was found to be approximately 4 ounces
+                  shortweight.
+                                    ----
+
+Product:          Red Blood Cells.  Recall #B-155-1.
+Code:             Unit #14G63935. 
+Manufacturer:     American Red Cross Blood Services, Yakima, Washington.
+Recalled by:      Manufacturer, by telephone June 11, 1990.  Firm-initiated 
+                  recall complete.
+Distribution:     Washington state. 
+Quantity:         1 unit. 
+Reason:           Blood product collected from a donor who was
+                  vaccinated with Measles, Mumps and Rubella (MMR)
+                  vaccine three weeks prior to donation was distributed.
+
+                                    ----
+
+Product:          Red Blood Cells.  Recall #B-168-1.
+Code:             Unit numbers: 7380469, 7380330, 7380481, 7384767. 
+Manufacturer:     Erling Berquist Strategic Hospital, Offutt Air Force
+                  Base, Nebraska. 
+Recalled by:      Manufacturer, by letter June 29, 1990.  Firm-initiated
+                  recall complete.
+Distribution:     Nebraska. 
+Quantity:         4 units.
+Reason:           Units improperly tested for the hepatitis B surface 
+                  antigen (HBsAg) were distributed. 
+
+                                    ----
+
+Product:          Plateletcell Disposable Sets.  Recall #B-170-1. 
+Code:             Product Code     Lot No.
+                  4R2260           H124750, H122887 
+                  4R2261           SPO-814, 8292-01, 8329-02, 9006-09,
+                                   9030-07, 9040-08, 9041-10, 9051-10,
+                                   9058-14, 9063-11, 9074-11, 9087-10,
+                                   9100-12, 9111-10, 9125-10, 9136-10,
+                                   9144-02, 9158-09, 9199-12, 9261-09 
+                  4R2261P          SPO-878, 0172-07, 0184-07, 0185-09,
+                                   1098-07, 0205-07, 0221-07, 0229-08,
+                                   0239-08, 0241-09 
+                  4R2262           SPO-755, SPO-824, SPO-853, SPO-862,
+                                   0089-10, 0099-10, 0100-12
+                  4R2262P          SPO-827, SPO-860, SPO-884, 0108-11,
+                                   0136-10, 0143-09, 0151-08, 0158-08,
+                                   0171-10, 0178-10, 0186-09, 0213-08 
+Manufacturer:     Baxter Healthcare Corporation, Santa Ana, California. 
+Recalled by:      Manufacturer, by telephone October 1, 1990 and by 
+                  letters dated October 1, 2 and 22, 1990.  Firm-initiated
+                  recall complete.
+Distribution:     California and international. 
+
+                                    -6- 
+
+
+
+
+
+Quantity:         62,422 sets were distributed; firm estimates that 
+                  no product remains in domestic commerce and that
+                  very little product remains in international commerce.
+Reason:           Platelets, Pheresis collection sets, with inadequate
+                  bonding of the tubing to the concentration bags, were 
+                  distributed.
+                                    ----
+
+                       MEDICAL DEVICES AND RADIOLOGY
+
+                  Class I - 
+
+Product:          Padeco brand Poly-Tac Disposable External 
+                  Pacing/Defibrillation Electrodes: 
+                  (a) Catalog #2001B (Back pad only); 
+                  (b) Catalog #2001F (Front pad only);
+                  (c) Catalog #2001 (2 pairs per package).
+                  Recall #Z-472/474-1.
+Code:             Lot numbers: Y071190, Y071190-1, Y071890, Y071890-1.
+                  All lots bear a use by date of 07 92. 
+Manufacturer:     Katecho, Inc., Des Moines, Iowa.
+Recalled by:      Manufacturer, by letter February 14, 1991.  Firm- 
+                  initiated recall ongoing. 
+Distribution:     Oregon, Pennsylvania. 
+Quantity:         220 units were distributed. 
+Reason:           The electrodes were manufactured with an apparently 
+                  nonconductive liner on the conductive metal layer 
+                  within the electrode pad.  The liner is intended
+                  to be removed prior to completion of the
+                  manufacturing procedure.
+
+                                    ----
+
+                  Class II -
+
+Product:          Sterile Laparotomy Sponges, 18" x 18", packed five per
+                  pouch.  Recall #Z-440-1.
+Code:             Lot numbers 33891, 10204. 
+Manufacturer:     South Mountain Medical Inc., doing business as Medical
+                  Action Industries, Inc., Asheville, North Carolina. 
+Recalled by:      Manufacturer, by letter February 12, 1991.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         3,630 (40 units/case) were distributed. 
+Reason:           Defective packaging which could compromise the sterility
+                  of the product. 
+
+                                    ----
+
+                                    -7- 
+
+
+
+
+
+Product:          Phototheraphy devices:
+                  (a) Model No. Spectra 305/350;
+                  (b) Model No. Spectra 350;
+                  (c) Model No. Spectra 305;
+                  (d) Model No. Spectra Mini.  Recall #Z-490/493-1. 
+Code:             Serial numbers: Undetermined. 
+Manufacturer:     The Daavlin Distributing Company, Bryan, Ohio.
+Recalled by:      Manufacturer.  FDA approved the firm's corrective 
+                  action plan February 28, 1991.  Firm-initiated field
+                  correction ongoing. 
+Distribution:     Nationwide. 
+Quantity:         421 units.
+Reason:           The units failed to terminate radiation exposure after
+                  a pre-set dosage/time causing unnecessary exposures to
+                  ultraviolet radiation.
+
+                                    ----
+
+Product:          Model SVG Series 90 Indexer, used for processing
+                  semi-conductors.  Recall #Z-495-1.
+Code:             Serial numbers:  Undetermined.
+Manufacturer:     Silicon Valley Group, San Jose, California. 
+Recalled by:      Manufacturer.  FDA approved the firm's corrective 
+                  action plan February 28, 1991.  Firm-initiated field
+                  correction ongoing. 
+Distribution:     New York. 
+Quantity:         8 units were distributed. 
+Reason:           Noncompliance with performance standard for laser 
+                  products in that the levels of laser radiation emitted
+                  were not within the Class I limits and that no initial
+                  report for the product had been submitted.
+
+                                    ----
+
+Product:          Femoral Head Trial or Dimension Hip Instrumentation 
+                  Head/Neck Trial with 32 mm head diameter and -5 mm
+                  neck length adjustment, made of black celcon plastic, 
+                  individually wrapped in plastic bag.  Recall #Z-499-1.
+Code:             Lot numbers 066L, 018J. 
+Manufacturer:     Kirschner Medical Corporation, Timonium, Maryland.
+Recalled by:      Manufacturer, by letter March 5, 1991.  Firm-initiated
+                  recall ongoing. 
+Distribution:     California, Kentucky, Maryland, Minnesota, Missouri,
+                  Nevada, Oregon, Pennsylvania, Tennessee, Texas, 
+                  Washington state, Israel, England, South Africa, Mexico.
+Quantity:         56 units were distributed.
+Reason:           The device did not seat properly on the femoral neck
+                  trunion during hip prosthesis fitting.
+
+                                    ----
+
+                                    -8- 
+
+
+
+
+
+Product:          Suprima II and Quantum 8mm Cardiac Pulse Generators 
+                  that may be programmed to operate in the demand 
+                  inhibited (VVI), demand synchronous (VVT), or 
+                  asynchronous (V00) modes: 
+                  (a) Suprima II Model 253-23 
+                  (b) Suprima II Model 254-26 
+                  (c) Suprima II Model 254-28 
+                  (d) Quantum Model 253-19
+                  (e) Quantum Model 254-18
+                  (f) Quantum Model 254-20
+                  (g) Quantum Model 254-20V.  Recall #Z-500/506-1.
+Code:             21,690 units with various serial numbers shipped from 
+                  October 1985 through October 24, 1990.
+Manufacturer:     Intermedics, Inc., Freeport, Texas. 
+Recalled by:      Manufacturer, by letter March 6, 1991.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         21,690 units were distributed.
+Reason:           There is a potential for an internal short circuit that 
+                  could lead to sudden battery failure, causing sudden
+                  loss of output and other failure modes. 
+
+                                    ----
+
+Product:          AOSOFT Superthin (tetrafilon A) sterile soft contact lens.
+                  Recall #Z-507-1.
+Code:             The recalled lot involves a comingled group of
+                  remanufactured lens sizes and AO manufacturing lots.  The 
+                  EXP date on all of the lenses is EXP 12/94.  This date
+                  was added by N&N; Contact Lens International, Inc. 
+Manufacturer:     AO American Optical Soft Contact Lens Business or 
+                  Contact Lens Business (depending on label version), 
+                  Framingham, Massachusetts.
+Recalled by:      N & N Contact Lens International, Inc., Bothell,
+                  Washington, by letter on or about February 25, 1991.
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide. 
+Quantity:         From 925 to 937 lenses were distributed.
+Reason:           The devices were marketed from January 11 to February 
+                  15, 1991, past their PMA-approved expiration date.  The 
+                  devices had been remanufactured (resterilized and 
+                  relabeled with a new expiration date), but no 
+                  PMA or supplement was filed or approved for the process.
+
+                                    ----
+
+                                    -9- 
+
+
+
+
+
+Product:          Electrosurgical systems:
+                  (a) Beamer One Argon Coagulation Cart, intended to be 
+                  used with a standard electrosurgical generator which has
+                  a spray coagulation  mode output; 
+                  (b) B-101 Hand Control Argon Pencils, Catalog #4019 and 
+                  4020, handswitching electrosurgical pencils used with 
+                  the Beamer One for coagulation during patient surgery;
+                  (c) B-300 COMBO Pencil, Catalog #4030, handswitching
+                  electrosurgical pencils used with the Beamer One for
+                  coagulation during patient surgery.  Recall #Z-508/510-1. 
+Code:             Serial numbers affect units (with hand control feature) 
+                  shipped between 12/89 and 12/20/90: 
+                  1003, 1006, 1008, 1009, 1012, 1013, 1016, 1019, 1020, 
+                  1022, 1023, 1024, 1027, 1030, 1031, 1032, 1034 through
+                  1037, 1041, 1042, 1045 through 1048, 1051, 1053, 1055,
+                  1061, 1062, 1064, 1067 through 1074, 1076, 1078, 1080 
+                  through 1084, 1087, 1088, 1090, 1093, 1095, 1097, 1099, 
+                  1101, 1102, 1104 through 1110, 1112, 1113, 1115 through 
+                  1181, 2001 through 2012, 2015 through 2021, 2023, E001
+                  through E022. 
+Manufacturer:     Beacon Laboratories, Inc., Broomfield, Colorado.
+Recalled by:      Manufacturer, by letter February 25, 1991.  Firm- 
+                  initiated recall ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         174 Beamer One units were distributed.
+Reason:           When used with ground-referenced or isolated
+                  electrosurgical units (E.S.U.) that have become ground
+                  referenced due to the operating room set-up, it is
+                  possible for the unit to remain activated ("latch on")
+                  after the Beacon pencil push button has been released.
+                  The unintended RF electrosurgical energy and argon gas
+                  flow may cause thermal injury to tissue if the activation 
+                  is not noticed. 
+
+                                    ----
+
+Product:          Injector Ceiling Mount System, used to support
+                  angiographic injector power heads.  Recall #Z-522-1.
+Code:             No serial numbers are indicated.
+Manufacturer:     Burkhardt Roentgen Inc., Cornwall Bridge, Connecticut.
+Recalled by:      Liebel-Flarsheim Company, Cincinnati, Ohio, by
+                  letter June 11, 1990.  Firm-initiated recall ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         15 units were distributed.
+Reason:           The ceiling suspension may have defective welds.
+
+                                    ----
+
+                                    -10-
+
+
+
+
+
+Product:          Angiographic Injection System (retaining collar), 
+                  used to support the connection between the angiographic 
+                  injector power head and the support arm on the ceiling
+                  and wall mount suspension systems:
+                  (a) Mounting System, Catalog as Part No. 241011;
+                  (b) Mounting System, Catalog as Part No. 241022;
+                  (c) Mounting System, Catalog as Part No. 241023;
+                  (d) Mounting System, Catalog as Part No. 241024;
+                  (e) Injection Ceiling Mount System, Catalog as
+                  Part No. 241015.  Recall #Z-523/527-1.
+Code:             Components are not identified with any serial numbers.
+Manufacturer:     Burkhardt Roentgen Inc., Cornwall Bridge, Connecticut.
+Recalled by:      Liebel-Flarsheim Company, Cincinnati, Ohio, by
+                  telephone February 7, 1989.  Firm-initiated field 
+                  correction complete.
+Distribution:     Nationwide. 
+Quantity:         12 units were distributed.
+Reason:           The retaining collar may break.  This may expose patient
+                  or user to injury by falling parts. 
+
+                                    ----
+
+                 Class III -
+
+Product:          KM-4 Acetabular Component Cancellous Bone Screw with
+                  15 mm length and 6.5 mm diameter, Catalog #76-0015-5B,
+                  Recall #Z-496-1.
+Code:             Lot #402N.
+Manufacturer:     Kirschner Medical Corporation, Timonium, Maryland.
+Recalled by:      Manufacturer, by letter February 11, 1991.  Firm-initiated
+                  recall ongoing. 
+Distribution:     California, Florida, Kentucky, Nevada, New York, Oregon,
+                  Pennsylvania, Texas, Washington, Finland. 
+Quantity:         324 screws were distributed.
+Reason:           The device may be labeled for use with the KM-3A model
+                  acetabular cup instead of the KM-4 system.
+
+                                    ----
+
+Product:          Abbott Spectrum EPx Diagnostic Chemistry Analyzer.
+                  Recall #Z-517-1.
+Code:             All units with serial numbers 932 through 1259. 
+Manufacturer:     Abbott Laboratories, Irving, Texas. 
+Recalled by:      Abbott Laboratories, Abbott Park, Illinois, by
+                  telephone March 5-6, 1991 followed by letter March 5, 
+                  1991.  Firm-initiated field correction ongoing. 
+Distribution:     Nationwide, Germany, USSR, Australia, New Zealand,
+                  Hong Kong, Korea, Canada, Taiwan, Singapore.
+Quantity:         256 units were distributed. 
+
+                                    -11-
+
+
+
+
+
+Reason:           There is a potential for the EPx to report incorrect
+                  ratio results to the host computer due to software
+                  error.  The condition if it occurs, appears by
+                  attaching results from one calculated ratio to the
+                  following reported ratio name.
+
+                                    ----
+
+Product:          Liquid Bicarbonate Dialysate, in opaque plastic one 
+                  gallon bottles, used in hemodialysis.  Recall #Z-521-1. 
+Code:             01012581. 
+Manufacturer:     Dial Medical of Florida, Inc., Deland, Florida. 
+Recalled by:      Manufacturer, by telephone March 28, 1990.
+                  Firm-initiated recall complete. 
+Distribution:     Mississippi, Iowa, Texas, Tennessee, Georgia, Virginia, 
+                  Pennsylvania, South Carolina, Florida.
+Quantity:         396 cases were distributed; firm estimates 5.5 cases
+                  remain on the market. 
+Reason:           Product may contain mold contamination. 
+
+                                    ----
+
+Seizure Actions Filed:
+
+Product:          Frozen Whole Mullet (90-592-715). 
+Charge:           Product contains unknown toxin. 
+Firm:             Monterey Fish Company, Seaside, California. 
+Filed:            May 30, 1990 - U.S. District Court for the Northern 
+                  District of california; Civil #90-1554-DLJ, FDC #65874. 
+
+                                    ----
+
+Product:          Oxygen, USP (91-610-137/8). 
+Charge:           Current good manufacturing practice deficiencies. 
+Firm:             DeLille Oxygen Company, Zanesville, Ohio. 
+Filed:            March 19, 1991 - U.S. District Court for the Southern 
+                  District of Ohio, Eastern Division; Civil #C2-91-217, 
+                  FDC #66032.

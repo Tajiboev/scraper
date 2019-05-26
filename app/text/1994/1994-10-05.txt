@@ -1,0 +1,626 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      43 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+10/05/1994
+
+Recalls and Field Corrections:  Foods -- Class I -- 10/05/1994
+
+October 5, 1994                                              94-40
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+==========================
+_______________
+PRODUCT        Cold Smoked Salmon Fillets, vacuum packed, pre-sliced, ready
+               to eat, labeled as Norwegian Salmon.  Recall #F-839-4.
+CODE           Lot numbers 380 and 381.
+MANUFACTURER   Sotra Smoked Fish U.S.A., Inc., Kingston, New York.
+RECALLED BY    Manufacturer, by letter July 25, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   New York, Vermont.
+QUANTITY       134.92 pounds were distributed; firm estimates none remains
+               on the market.
+REASON         Product was contaminated with Listeria monocytogenes.
+
+_______________
+PRODUCT        Casey's Chesapeake Bay's Finest Crabmeat, denoted on
+               container lids as Jumbo, Lump, Special, Backfin, or claw,
+               packaged in plastic 1 pound containers.  Recall F-840-4.
+CODE           None.   All crabmeat produced 7/11/94.
+MANUFACTURER   Casey's Seafood, Inc., Newport News, Virginia.
+RECALLED BY    Manufacturer, by telephone on or about July 18, 1994.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   New York, Pennsylvania, New Jersey, Virginia.
+QUANTITY       590 pounds.
+REASON         Product is contaminated with Listeria monocytogenes.
+
+_______________
+PRODUCT        Torte Loaf Cheeses in approximate 1/2 pound (random weight)
+               packages, under the following labels:  Dutch Garden Torte
+               Loaf, Swiss-American Inc., and Schnucks Torte Loaf Layered
+               Cheese Cold Pack Cheese Food.  Recall #F-844-4.
+CODE           Pull dates ranging from 09-09-94 to 09-11-94.
+MANUFACTURER   Swiss American Importing Company, St. Louis, Missouri.
+RECALLED BY    Manufacturer, by telephone August 11 and 12, 1994, followed
+               by visit.  Firm-initiated recall complete.
+DISTRIBUITON   Missouri, Illinois, Indiana, Kansas, Texas, Louisiana.
+QUANTITY       301 pounds were distributed.
+REASON         Product is contaminated with Listeria monocytogenes.
+
+_______________
+PRODUCT        Salted Schmaltz Herring, Whole/Dressed, sold in 30 pound
+               pails.  Recall #F-852-4.
+CODE           None.
+MANUFACTURER   Gold Star Smoked Fish, Woodbridge, Ontario, Canada.
+RECALLED BY    Beluga Caviar International Foods, Inc., Brooklyn, New York,
+               by telephone August 17, 1994.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   New York, New Jersey, Pennsylvania.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Product is contaminated with Listeria monocytogenes.
+
+_______________
+PRODUCT        Various crabmeat in 1 pound containers:
+               (a) Backfin; (b) Claw; (c) Cocktail Claw Fingers;
+               (d) Jumbo Lump; (e) Lump.  Recall #F-859/863-4.
+CODE           None.  All product manufactured between July 11, 1994 to
+               August 11, 1994.
+MANUFACTURER   Donald Johnson Seafood, Inc., Coden, Alabama.
+RECALLED BY    Manufacturer, by telephone August 3, 1994, and on or about
+               August 15, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Alabama, Florida, Louisiana, Pennsylvania.
+QUANTITY       (a) 4,030 pounds; (b) 1,264 pounds; (c) 2,468 pounds; (d)
+               2,287 pounds; (e) 8 pounds were distributed.
+REASON         Product is contaminated with Listeria monocytogenes.
+
+_______________
+PRODUCT        Swiss cold pack cheese food:
+               (a) Swiss Almond Cold Pack Cheese Food in 5 pound tubs; (b)
+               Swiss Cheese Cold Pack Cheese Food in 10 pound tubs.  
+               Recall #F-864/865-4.
+CODE           (a) Pull date of FEB 15 - 95B; (b) Pull date of FEB 15 - 95.
+MANUFACTURER   Fromageries Bel, Inc., Hilbert, Wisconsin.
+RECALLED BY    Fromageries Bel, Inc., Fort Lee, New Jersey, by telephone
+               August 11 and 12, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   (a) Missouri; (b) Ohio.
+QUANTITY       (a) 25 cases (2 tubs per case); (b) 13 cases (2 tubs per
+               case) were distributed.
+REASON         Product is contaminated with Listeria monocytogenes.
+
+                                    -2-_______________
+PRODUCT        Hansen's Sneakers Bar Light Ice Cream, in 1/2 gallon and 
+               2-1/2 gallon sizes.  Recall #F-866-4.
+CODE           223 (Julian date on the bottom of each of the product
+               containers).
+MANUFACTURER   Hansen's Dairy, Inc., Green Bay, Wisconsin.
+RECALLED BY    Manufacturer, by telephone September 1, 1994, followed by
+               letter September 2, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Wisconsin, Michigan.
+QUANTITY       234 half-gallon containers and 20 of the 2-1/2 gallon
+               containers were distributed.
+REASON         Product is contaminated with Listeria monocytogenes.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Hilton's Condensed New England Style Clam Chowder, in 10 1/2
+               ounce cans.  Recall #F-848-4.
+CODE           SEP96    SEP96    SEP96   SEP96
+               E2633    F2633    G2633   H2633
+MANUFACTURER   Borden, Inc., Cape May, New Jersey.
+RECALLED BY    Borden, Inc., Columbus, Ohio, by letter November 22, 1993. 
+               Firm-initiated recall complete.
+DISTRIBUTION   South Carolina, North Carolina, Kentucky, Tennessee,
+               Alabama, Nebraska, Kansas, Indiana, Illinois.
+QUANTITY       34,824 cans were distributed.
+REASON         Product contains ingredients that are not listed on the
+               label.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        Salsa, in 14 ounce plastic tubs.  Recall #F-841-4.
+CODE           7/27 pull date.
+MANUFACTURER   Essential Foods, Inc., Seattle, Washington.
+RECALLED BY    Manufacturer, by visit July 6, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Washington State.
+QUANTITY       162 cases (12 units per case) were distributed.
+REASON         Product is contaminated with yeast.
+
+_______________
+PRODUCT        Bottled Water, in 16 ounce, 1 liter and 2 liter plastic
+               bottles, under the Springtime and Flowing Well labels. 
+               Recall #F-846/847-4.
+CODE           3/22/95C, 4/18/95C, 4/19/95C, 5/09/95C, 5/27/95C, 5/31/95C
+               (Springtime label); 3/21/95C (Flowing Well label).
+MANUFACTURER   Southern Beverage Packers, Inc.,  Harlem, Georgia.
+RECALLED BY    Manufacturer, by visit on or about July 15, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Southeastern United States.
+
+                                    -3-QUANTITY       5 million containers were distributed; firm estimates none
+               remains on the market.
+REASON         Product contained brown precipitates.
+
+_______________
+PRODUCT        Maple Walnut Ice Cream, in 3 gallon containers.
+               Recall #F-855-4.
+CODE           Product manufactured from 3/6/94 through 9/6/94.
+MANUFACTURER   Schneider's Dairy, Pittsburgh, Pennsylvania.
+RECALLED BY    Manufacturer, by letter August 26, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Pennsylvania.
+QUANTITY       Firm estimates very little, if any, product remain on the
+               market.
+REASON         Product contained undeclared walnuts.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Cephradine Capsules USP, 500 mg, antibiotic, in bottles of
+               100.  Recall #D-393-4.
+CODE           Lot numbers:  51642 EXP 9/1/94.
+MANUFACTURER   Biocraft Laboratories, Inc., Fairfield, New Jersey.
+RECALLED BY    Biocraft Laboratories, Inc., Fair Lawn, New Jersey, by
+               telephone June 24-28, 1994, followed by letter June 30,
+               1994.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       7,245 bottles were distributed; firm estimates less than 10%
+               of product remains on the market.
+REASON         Potency not assured through expiration date.
+
+_______________
+PRODUCT        Brompheril Extended Release Tablets, OTC antihistamine/nasal
+               decongestant, under the following labels:  Copley - in 100
+               tablet bottles, 10 tablet blister cards, 20 tablets (2
+               blister card of 10's/box); Goldline - 100 tablets; Roberts
+               Pharmaceutical blister card of 10 tablets.  Product is sold
+               in bulk units of 500 blister cards, 10 tablets per cards
+               under the following labels:  Granutec, LNK International,
+               Leiner, P., Perrigo, Private Formulation, Rempak Industries,
+               Republic Drug, Roberts Labs, Weeks & Leo.  Recall #D-394-4.
+CODE           All lots with EXP 9/94 through EXP 1/96.
+MANUFACTURER   Copley Pharmaceutical, Inc., Canton, Massachusetts.
+RECALLED BY    Manufacturer, by letter September 13, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       54,914,680 tablets were distributed.
+REASON         Lack of assurance that the coating process was performed as
+               reflected in the batch records.
+
+                                    -4-_______________
+PRODUCT        Compazine Syrup, brand of Prochlorperzine Edysilate, 5 mg/5
+               ml and 4 fluid ounces, indicated for control of severe
+               nausea, vomiting, and for management of manifestations of
+               psychotic disorders.  It is also effective for the short-
+               term treatment of generalized non-psychotic anxiety.  
+               Recall #D-395-4.
+CODE           All lots ending in C63.
+MANUFACTURER   Smithkline Beecham Pharmaceuticals Company, Cidra, Puerto
+               Rico.
+RECALLED BY    Manufacturer, by letter September 12, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       112,986  packaged units were distributed; firm estimates
+               7,000 units remain on the market.
+REASON         Potency not assured through expiration date.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Various OTC drugs in various sizes and containers.  Products
+               are manufactured for own label (National Home Care Products
+               and Alert Health Products) and contract manufactured for
+               firm in Pine Bluff, Arkansas (Select brand).  
+               Recall #D-391-4.
+               Alert Health Products:
+               1.  Aspirin, 325 mg (5 gr), 100 tablets
+               2.  Aspirin, 325 mg (5 gr), 300 tablets
+               National Home Care Products:
+               3.  Ibuprofen 200 mg, 100 coated tablets
+               4.  Ibuprofen 200 mg, 250 coated tablets
+               5.  Extra Strength Pain Reliever Tablets (Acetaminophen), 
+                   100 coated tablets
+               6.  Extra Strength Pain Reliever Caplets (Acetaminophen)
+                   250 coated tablets
+               7.  Extra Strength Pain Reliever Caplets (Acetaminophen)
+                   100 coated tablets
+               8.  Added Strength Pain Reliever Analgesic, 100 coated
+                   tablets
+               9.  Adult Strength Pain Reliever Analgesic, 100 coated
+                   tablets
+               10. Adult Strength Pain Reliever, 250 coated tablets
+               11. Multi Symptom Cough & Cold Formula (non-aspirin),
+                   100 coated tablets
+               12. Antihistamine w/decongestant, 100 coated tablets
+               Select brand:
+               13. Regular Strength Non-Aspirin Pain Reliever, 100 tablets
+               14. Extra Strength Non-Aspirin Pain Reliever, 30 tablets
+               15. Extra Strength Non-Aspirin Pain Reliever, 60 tablets
+               16. Extra Strength Non-Aspirin Pain Reliever, 100 tablets
+               17. Extra Strength Non-Aspirin Pain Reliever, 24 caplets
+
+                                    -5-               18. Extra Strength Non-Aspirin Pain Reliever, 50 caplets
+               19. Extra Strength Non-Aspirin Pain Reliever, 100 caplets
+               20. Fast Acting Pain Reliever, 30 tablets
+               21. Fast Acting Pain Reliever, 50 tablets
+               22. Fast Acting Pain Reliever, 100 tablets
+               23. Antihistamine w/decongestant Blister, 24 tablets
+               24. Aspirin, 5 gr, 24 tablets
+               25. Aspirin, 5 gr, 50 tablets
+               26. Aspirin, 5 gr, 100 tablets
+               27. Multi Symptom Cold Relief Blister, 24 tablets
+               28. Docusate Sodium 100 mg Softgel, 60 softgels
+               29. Extra Strength Pain Reliever, 30 tablets
+               30. Extra Strength Pain Reliever, 60 tablets
+               31. Extra Strength Pain Reliever, 100 tablets
+               32. Ibuprofen 200 mg Caplets, 24 coated caplets
+               33. Ibuprofen 200 mg Caplets, 50 coated caplets
+               34. Ibuprofen 200 mg, 24 coated tablets
+               35. Ibuprofen 200 mg, 50 coated tablets
+               36. Sinus Tablets, 24 tablets
+               37. Enhanced Pain Reliever, 24 tablets
+               38. Safety Coated Aspirin, 100 tablets
+               39. Tri-Buffered Aspirin, 5 gr, 30 tablets
+               40. Tri-Buffered Aspirin, 5 gr, 60 tablets
+               41. Tri-Buffered Aspirin, 5 gr, 100 tablets
+               42. Chlorpheniramine 4 mg Blister, 24 tablets
+               43. Children's Fruit Non-Aspirin Pain Reliever, 30 chewable
+                   tablets
+               44. Children's Grape Non-Aspirin Pain Reliever, 30 
+                   chewable tablets.  
+CODE           All lots of all OTC drugs produced in the past calendar year
+               as follows:  
+               1.   A4-22, D4-24, D4-25, G4-08, H4-58, J4-35, J4-36, J4-37,
+               J4-38, O3-36, S3-26, S3-27, S3-28. 
+               2.  A4-21, A4-22, D4-23, D4-24, G4-07, H4-57, H4-58, H4-59,
+               J4-38, O3-36, S3-26, S3-27, S3-28, U3-57 
+               3.  K4-55, P3-52 
+               4.  K4-55, P3-52 
+               5.  J4-66, T3-63, T3-65 
+               6.  A4-33, D4-27, G4-64, U3-51 
+               7.  A4-33, G4-62, G4-64, U3-51 
+               8.  T3-66 
+               9.  S3-22 
+               10. S3-22 
+               11. B4-82, S3-49 
+               12. J4-63 
+               13. A4-34, D4-20, S3-44 
+               14. T3-62, T3-63 
+               15. O3-38, T3-62, T3-63, T3-65 
+               16. J4-66, O3-38, S3-46, T3-63, T3-64, T3-65 
+               17. A4-33, D4-26, G4-64 
+               18. A4-33, D4-26, G4-63, G4-64, O3-43, O3-44, S3-45, U3-51 
+
+                                    -6-               19. A4-32, D4-27, D4-28, G4-62, G4-63, G4-65, O3-43, O3-44,
+               S3-45, U3-51 
+               20. O3-37, S3-22 
+               21. A4-31, O3-37, S3-13, S3-22 
+               22. D4-29, D4-30, O3-37, S3-13, S3-22 
+               23. G4-06, S3-48 
+               24. D4-25, S3-25, U3-56 
+               25. G4-07, H4-59, S3-25, U3-56 
+               26. D4-25, G4-07, H4-59, J4-35, O3-36, S3-25, U3-56 
+               27. G4-05, S3-49 
+               28. G4-33, S3-34 
+               29. G4-61, T3-66 
+               30. S3-24 
+               31. G4-61, S3-24, T3-66 
+               32. P3-51 
+               33. H4-24, I4-34, P3-51 
+               34. P3-52 
+               35. P3-52 
+               36. U3-52 
+               37. D4-21, S3-23 
+               38. C4-87, F4-69, I4-30, P3-34, T3-61 
+               39. U3-55 
+               40. U3-55 
+               41. O4-22, U3-55 
+               42. U3-53 
+               43. G4-04, G4-60, O3-39 
+               44. S3-47, U3-54.
+MANUFACTURER   National Vitamin Company, Inc., Porterville, California.
+RECALLED BY    Manufacturer, by letter September 13, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide, Czechoslovakia, Mexico, Paraguay and other Latin
+               American countries.
+QUANTITY       (1)  54,441; (2) 35,417; (3) 1,694; (4) 366; (5) 643; 
+               (6) 499; (7) 791; (8) 142; (9) 181; (10) 64; (11) 351;
+               (12) 40; (13) 12,128; (14) 11,307; (15) 12,946;
+               (16) 21,652; (17) 16,499; (18) 36,930; (19) 45,690;
+               (20) 3,619; (21) 6,587; (22) 9,648; (23) 18,394;
+               (24) 14,161; (25) 23,080; (26) 24,215; (27) 18,017;
+               (28) 2,448; (29) 10,166; (30) 5,194; (31) 8,637;
+               (32) 7,815; (33) 12,250; (34) 5,510; (35) 4,854;
+               (36) 7,911; (37) 7,035; (38) 21,653; (39) 2,415;
+               (40) 2,790; (41) 6,741; (42) 8,053; (43) 25,887;
+               (44) 17,095.
+REASON         Current good manufacturing practice deficiencies identified
+               by State of California Food and Drug Branch.
+
+_______________
+PRODUCT        Drixoral Cough & Congestion Liquid Soft Gelatin Capsules, 10
+               capsules per blister pack.  Recall #D-392-4.
+CODE           Lot #4H044 EXP 5/96.
+MANUFACTURER   R.P. Scherer North America, St. Petersburg, Florida.
+
+                                    -7-RECALLED BY    Schering-Plough Healthcare Products, Memphis, Tennessee
+               (repacker), by telephone and by letter September 16, 1994. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       62,052 boxes were distributed.
+REASON         Presence of small quantities of acetaminophen.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS I
+========================
+_______________
+PRODUCT        Matrx Life Defense Plus (LDP) Portable
+               Defibrillator/Monitor/Pacer.  Recall #Z-1277-4.
+CODE           Serial numbers 0141, 0162, 0192, 0250, 0326, 0607, 0608,
+               0624, 0658, 0659, 0673, 0841, 0857-1503.
+MANUFACTURER   Nectochigi, Japan.
+RECALLED BY    Matrx Medical, Inc., Orchard Park, New York, by letter July
+               6, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       656 units were distributed.
+REASON         The D3 diode fails on the DKG high voltage circuit boards
+               resulting in the unit displaying an 001 error code which
+               disables the device.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES CLASS II
+==========================
+_______________
+PRODUCT        (a) All unprotected "non-safety" electrode, disposable pre-
+               wired infant electrode with male pins, Part numbers:  H82V,
+               H82P, H22V, H22P; (b) All unprotected "non-safety" lead
+               wires with male pins, Part numbers:  ARBO N12, ARBO T12.
+               Recall #Z-1086-4.
+CODE           All codes.
+MANUFACTURER   (a) Arbo Medizin Technologie, GMBH; 
+               (b) Merritt Industries, Costa Mesa, California; 
+RECALLED BY    Arbo Medical, Inc., Stratford, Connecticut, by letter
+               November 29, 1993, and August 5, 1994.  Firm-initiated field
+               correction complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 360,606 pieces; (b) 25,705 pieces were distributed.
+REASON         Device labeling fails to provide adequate directions for use
+               and the devices pose an unwarranted risk of injury to
+               patients, because the product is not labeled to warn against
+               the hazards of unprotected electrode lead wires being
+               connected to electrical power sources.
+
+_______________
+PRODUCT        Unprotected Cables and Leadwires used with Bard STAMP
+               Amplifier Systems and Bard Mapping Systems which could be
+               interfaced to an apnea monitor and to a power source. 
+               Products were packaged separately and as a set as follows:  
+               Cable, ECG Assembly, Item #200369
+               Cable, ECG 4-Lead, Item #200370
+
+                                    -8-               ECG Assembly, ECG 4-Lead (set), Item #200254;
+               Distributed as a component of:
+               Stand Alone STAMPTM, Item #200186
+               LabSystem 3/STAMPTM, Item #200187
+               LabSystem 3/32 Channel STAMPTM, Item #200516
+               32 Channel Stand Alone STAMPTM, Item #200517
+               Cardiac Mapping System (CMS), Item #200433
+               Cardiac Mapping System Plus, Item #200437
+               Start-Up Kit (CSM), Item #200033.  Recall #Z-1187/1188-4.
+CODE           All lots/codes.
+MANUFACTURER   Bard Electrophysiology Division, Tewksbury, Massachusetts.
+RECALLED BY    Manufacturer, by letter September 16, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       168 units.
+REASON         Device labeling fails to provide adequate directions for use
+               and the devices pose an unwarranted risk of injury to
+               patients, because the products are not labeled to
+               contraindicate use with apnea monitors.
+
+_______________
+PRODUCT        Lifepak 10 - Upper Case of the Lifepak 10, a portable
+               battery operated, pre-hospital and hospital defibrillator.  
+               Recall #Z-1433-4.
+CODE           Upper case date codes 9401, 9402, 9403.
+               Lifepak serial numbers:  514 through 31659 (non continuous).
+MANUFACTURER   Physio-Control, Redmond, Washington.
+RECALLED BY    Manufacturer, by hand delivering letters beginning June 15,
+               1994.  Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       660 units were distributed.
+REASON         Holes were noted in upper cases of the Lifepak 10 which
+               could allow water to enter the unit and cause it to
+               malfunction.
+
+_______________
+PRODUCT        Dual Channel SEP Stimulator used with the Sentinel Four
+               Neurological Monitor, Model SS102.  Recall #Z-1434-4.
+CODE           All codes and serial numbers.
+MANUFACTURER   Axon Systems, Inc., Hauppauge, New York.
+RECALLED BY    Manufacturer, by letter August 23, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide, Canada.
+QUANTITY       131 units were distributed.
+REASON         The device could cause a burn in a patient by sending a
+               positive current into the body without a negative current
+               returning creating a positive net current being stored in
+               the body (capacitance effect).
+
+                                    -9-_______________
+PRODUCT        OptiCon Multi-Use Connector Adapter, Model AR3030, used on
+               fiberoptic delivery system for use with Laserscope lasers. 
+               Recall #Z-1435-4.,
+CODE           Model AR030.  
+MANUFACTURER   Xintec Corporation, Oakland, California.
+RECALLED BY    Manufacturer.  FDA approved the firm's corrective action
+               plan September 20, 1994.  Firm-initiated field correction
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       65 units.
+REASON         Device was found to modify certified Laserscope laser
+               systems in that the Laserscope safety interlocks in the
+               connector port would be overridden, allowing unnecessary
+               access to laser radiation.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Rhesus Monkey Kidney Cell Culture (RHMK), used for isolation
+               of virus in clinical specimens.  Recall #Z-1436-4.
+CODE           Catalog #70-103M, lot #3C0062.
+MANUFACTURER   Whittaker Bioproducts, Inc., Walkersville, Maryland.
+RECALLED BY    Manufacturer, by telephone February 29, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide and Jeddah. 
+QUANTITY       1,388 units were distributed.
+REASON         The RHMK device was contaminated with a fungus identified as
+               Streptomyces species.  This has the potential for causing
+               inaccurate test results when testing a patient for viral
+               infection.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS II
+===========
+_______________
+PRODUCT        Listeria Selective Supplement (MOX) Test Kit, a freeze-dried
+               selective supplement for the isolation of Listeria
+               monocytogenes.  Recall #V-063-4.
+CODE           Catalog #SR157E, lot 93031 EXP 10/94.
+MANUFACTURER   Unipath Ltd., Hampshire, England.
+RECALLED BY    Unipath Division of UL Canada, Inc., Ogdensburg, New York,
+               by letter May 30, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Michigan, New Jersey, Tennessee.
+QUANTITY       90 vials were distributed.
+REASON         Failure of test kit to detect Listeria on meat/poultry.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS III
+==========
+_______________
+PRODUCT        Cattle-Swine Wormer Medicated Feed, for the treatment of
+               gastrointestinal worms and lung worms, in 50 pound bags.
+               Recall #V-062-4.
+
+                                   -10-CODE           Lot #94080.
+MANUFACTURER   Mountaire Feeds, Inc., North Little Rock, Arkansas.
+RECALLED BY    Manufacturer, by letter dated July 18, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Arkansas, Texas, Tennessee, Louisiana, Mississippi.
+QUANTITY       76 bags were distributed; firm estimates none remains on the
+               market.
+REASON         Product was subpotent in levamisole hydrochloride.
+
+                                   -11-
+
+END OF ENFORCEMENT REPORT FOR OCTOBER 5, 1994.  BLANK PAGES MAY
+FOLLOW.
+                                   ####

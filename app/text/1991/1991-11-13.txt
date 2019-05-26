@@ -1,0 +1,598 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  18
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      28 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+11/13/1991
+
+Recalls and Field Corrections: November 13, 1991
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  Product will cause serious adverse health consequences or
+                  death.
+
+                                     NONE
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the
+                  probability of serious adverse health consequences is
+                  remote.
+
+
+Product:          Orzo Pasta, 2 pounds.  Recall #F-043-2.
+Code:             None.
+Manufacturer:     Ital Pasta Limited, Brampton, Ontario, Canada.
+Recalled by:      Ferro Foods Corporation, Brooklyn, New York, by
+                  letter July 17, 1991.  Firm-initiated recall ongoing.
+
+                                      -1-
+
+Distribution:     New York.
+Quantity:         252 cartons were distributed.
+Reason:           Product is contaminated with Candida Glabrata and S. Aureus.
+
+                                     ----
+
+Product:          Queso Fresco Margarita Mexican Style Fresh White Cheese,
+                  in 5 ounce plastic packages.  Recall #F-038-2.
+Code:             AUG 16 1991.
+Manufacturer:     The Quay Corporation, Skokie, Illinois.
+Recalled by:      Manufacturer, by visit July 29, 1991.  Firm-initiated
+                  recall complete.
+Distribution:     Chicago, Indiana, Wisconsin.
+Quantity:          30 - 40 cartons (70 packages per carton) were
+                  distributed.
+Reason:           Product is contaminated with Enterotoxigenic E. coli.
+
+                                     ----
+
+                  Class III - A situation in which the use of, or exposure
+                  to a violative product is not likely to cause adverse
+                  health consequences.
+
+
+Product:          Isosweet 100 High Fructose Corn Syrup in bulk tank
+                  shipments.  Recall #F-039-2.
+Code:             Bulk shipments made on 10-15-91, 10-16-91, 10-17-91,
+                  10-18-91.
+Manufacturer:     A.E. Staley Manufacturing Co., Decatur, Illinois.
+Recalled by:      Manufacturer, by telephone October 18, 1991.
+                  Firm-initiated recall ongoing.
+Distribution:     Missouri, Kentucky, Michigan, Wisconsin, Indiana, Illinois.
+Quantity:         31 shipments of approximately 47,000 pounds each were
+                  distributed; firm estimates 75% of the product remains
+                  on the market.
+Reason:           Product contains high sulfite levels.
+
+                                     -----
+
+Product:          Bottled Spring Water, in 8 ounce bottles.
+                  Recall #F-041-2.
+Code:             RD1641 and 1631.
+Manufacturer:     West Virginia Spring Water Company, Berkeley Springs,
+                  West Virginia.
+Recalled by:      Manufacturer, by letter September 29, 1991.  Firm-
+                  initiated recall ongoing.
+Distribution:     North Carolina.
+Quantity:         936 cases (12 bottles per case) were distributed.
+Reason:           Product is contaminated with mold.
+
+                                     ----
+
+                                      -2-
+
+Product:          Spring Water packaged under the following labels:
+                  Monadnock Mountain Water, Inc. (Naturally Sodium Free),
+                  Mountain Spring, Idelnot Spring Water, Shop 'N save 100%
+                  Natural Spring Water, Shaw's Spring Water, Farm Fare Natural
+                  Spring Water, Crystal Spring Water, and Buck Natural
+                  Spring.  Recall #F-042-2.
+Code:             (1206-1220).  Product manufactured between July 25, and
+                  August 8, 1991.
+Manufacturer:     Idlenot Farm Dairy, Inc., Wilton, New Hampshire.
+Recalled by:      Manufacturer, by telephone and FAX September 6, 1991,
+                  followed by letter September 7, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     New Hampshire, Massachusetts, Vermont.
+Quantity:         Approximately 19,500 gallons were distributed.
+Reason:           Off odor and off taste due to tetrahydrofuran.
+
+                                     ----
+
+                                   COSMETICS
+
+                                     NONE
+
+                           HUMAN DRUGS AND BIOLOGICS
+
+                  Class I -
+
+                                     NONE
+                  Class II - 
+
+Product:          Phentermine HCl Capsules, USP, 30 mg, in bottles of
+                  100, a Rx controlled drug used for management of exogenous
+                  obesity as a short term adjunct (few weeks).
+                  Recall #D-018-2.
+Code:             Lot #B3303 EXP 7/93.
+Manufacturer:     Rexar Pharmacal Corporation, Valley Stream, New York.
+Recalled by:      Manufacturer, by letter August 27, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Pennsylvania.
+Quantity:         Approximately 2,976 bottles were distributed.
+Reason:           The label does not bear the required symbol for controlled
+                  substances.
+
+                                     ----
+
+Product:          Suprax - Cefixime Powder for oral suspension, 100 mg,
+                  5 ml in 75 ml bottle, an Rx antibiotic.
+                  Recall #D-020-2.
+Code:             313-306, 313-307, 313-308, 313-310.
+Manufacturer:     Biocraft Laboratories, Inc., Elmwood Park, New Jersey.
+Recalled by:      Lederle Laboratories, Pearl River, New York, by
+                  letter on or about October 30, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Nationwide.
+
+                                      -3-
+
+
+Quantity:         10,582 bottles were distributed; firm estimates little
+                  stock remains on the market.
+Reason:           The carton and bottle label incorrectly declare the
+                  contents as 1 gram instead of 1.5 grams.
+
+                                     ----
+
+Product:          (a) Diazepam Tablets, 2 mg, 5 mg and 10 mg, in bottles
+                  of 100 and 500 unit dose packaging 10 x 10 and 4 x 25;
+                  (b) Methyldopa Tablets, 250 mg  in bottles of 100 and
+                  1,000 and 500 mg in bottles of 100 and 500;
+                  (c) Verapamil HCl Tablets, 80 mg in bottles of 100 and
+                  500 and 120 mg in bottles of 100 and 500.  All have
+                  the Warner Chilcott blue print on white labels and 
+                  are Rx designated.  Recall #D-021/027-2.
+Code:             All products with expiration date of 10/91 or later.
+                  (a) 2 mg: N 0047-0141-24, 30, 40, 41;
+                  5 mg: N 0047-0142-24, 30, 40, 41;
+                  10 mg: N 0047-0143-24, 30, 40, 41;
+                  (b) 250 mg: N 0047-0865-24, 32;
+                  500 mg: N 0047-0866-24, 30;
+                  (c) 80 mg: N 0047-0557-24, 30;
+                  120 mg: N 0047-0573-24, 30.
+Manufacturer:     Warner Chilcott Division, Warner-Lambert Company,
+                  Morris Plains, New Jersey.
+Recalled by:      Manufacturer, by letter September 23, 1991.  Firm-
+                  initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         (a) 2 mg: 7,829,300 tablets;
+                      5 mg: 44,583,000 tablets;
+                     10 mg: 14,981,600 tablets;
+                  (b) 250 mg: 9,741,300 tablets;
+                      500 mg: 4,039,800 tablets;
+                  (c) 80 mg: 21,691,000 tablets;
+                     120 mg: 5,554,900 tablets were distributed.
+Reason:           Current good manufacturing practice deficiencies.
+
+                                     ----
+
+Product:          (a) Otrivin Nasal Spray, 0.1%, 15 mL (Xylometazoline HCl,
+                  USP);
+                  (b) Otrivin Nasal Drops, 0.1%, 20 mL (Xylometazoline HCl,
+                  USP);
+                  (c) Otrivin Pediatric Nasal Drops, 0.05%, 20 mL
+                  (Xylometazoline HCl, USP);
+                  (d) Privine Nasal Solution, 0.05%, 20 mL (Naphazoline HCl,
+                  USP);
+                  (e) Privine Nasal Spray, 0.05%, 15 mL (Naphazoline HCl, USP);
+                  All are OTC products administered to the nasal mucosa for
+                  temporary relief of nasal congestion.  Recall #D-029/033-2.
+
+                                      -4-
+
+
+Code:             All lot numbers of the following five products: 
+                     CCP Product    NDC Code        Size
+                  (a)  2701        0028-6188-57     15 mL
+                  (b)  2704        0028-6114-58     20 mL
+                  (c)  2705        0028-6116-58     20 mL
+                  (d)  6529        0083-6511-58     20 mL
+                  (e)  6533        0083-6534-57     15 mL
+Manufacturer:     Ciba-Geigy Pharmaceuticals Division, Summit, New
+                  Jersey.
+Recalled by:      CIBA Consumer Pharmaceuticals, Edison, New Jersey, by
+                  letter April 29, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         Total Privine 2,403,700 (excluding pints);
+                  Total Otrivin      1,384,500.
+                  Total amounts of both products, estimated, that remained on
+                  the market, at the initiation of the recall were 399,800
+                  units (from 1990) and 179,000 units (from 1991), totaling
+                  578,000 units.
+Reason:           Product leakage and evaporation due to package closure
+                  deficiencies in some bottles.
+
+                                     ----
+
+Product:          Brethine 5 mg Tablets, in 100 tablet bottles and
+                  in 100 tablet unit dose blister pack, a bronchodilator
+                  for oral administration.  Recall #D-034-2.
+Code:             Lot numbers: 1B122240 EXP 10/94, (100 tablet bottles),
+                  2B122240 EXP 10/94 (unit dose pack), B122240 (bulk).
+Manufacturer:     Ciba-Geigy Pharmaceuticals, Division of Ciba-Geigy
+                  Corporation, Summit, New Jersey.
+Recalled by:      Manufacturer, by letter July 8, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Nationwide.
+Quantity:         20,148 100-tablet bottles and 21,046 unit dose blister
+                  packs were distributed.
+Reason:           An Acutrim tablet core was found in a unit dose blister
+                  pack of Brethine tablets.
+
+                                     ----
+
+Product:          Whole Blood.  Recall #B-036-2.
+Code:             Unit #AT3810.
+Manufacturer:     Blood Bank of Alaska, Anchorage, Alaska.
+Recalled by:      Manufacturer, by telephone August 2, 1991.
+                  Firm-initiated recall complete.
+Distribution:     Alaska.
+Quantity:         1 unit.
+Reason:           Blood product, untested for hepatitis B surface antigen
+                  (HBsAg), but labeled as nonreactive for HBsAg, was
+                  distributed.
+                                     ----
+
+
+                                      -5-
+
+
+                  Class III -
+
+Product:          Medical Air, USP, distributed in type "E" cylinders.
+                  Recall #D-016-2.
+Code:             Lot number 6000G112.
+Manufacturer:     AGA Gas, Inc., Twinsburg, Ohio.
+Recalled by:      Manufacturer, by visit July 15, 1991.  Firm-initiated
+                  recall complete.
+Distribution:     Ohio.
+Quantity:         15 cylinders were distributed.
+Reason:           Product does not meet specification for CO2 content.
+
+                                     ----
+
+Product:          Kasdenol 10 gram in amber glass bottles, a germicidal
+                  mouth wash and gargle.  Recall #D-017-2.
+Code:             Lot #KA0220 EXP 2/92.
+Manufacturer:     United Guardian, Inc., Hauppague, New York.
+Recalled by:      Manufacturer, by letter July 15, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Nationwide.
+Quantity:         5,186 units were distributed.
+Reason:           Available chlorine is below specification.
+
+                                     ----
+
+Product:          Terpin Hydrate and Codeine Elixir USP, 4 ounce, in
+                  16 ounce, and 128 ounce bottles, under Halsey's
+                  Blue Cross label.  Recall #D-019-2.
+Code:             Lot numbers: 45099, 45149, 45208, 45209, 45238,
+                  45237, 45256, 45289, 45089.
+Manufacturer:     Halsey Drug Co., Brooklyn, New York.
+Recalled by:      Manufacturer, by letter October 10, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     Nationwide.
+Quantity:         224,376 4-oz bottles, 17,294 16-oz bottles, and 776
+                  128-oz bottles were distributed.
+Reason:           Product marketed not in accordance with CFR Part 341.
+
+                                     ----
+
+Product:          Theodrine Tablets, antiasthmatic, in 100 and 1,000
+                  tablet bottles.  Recall #D-028-2.
+Code:             Lot numbers: 902NC083 EXP 2/92, 008NC020 EXP 8/92,
+                  010NC020 EXP 11/92, 011NC001 EXP 11/92, 012NC030
+                  EXP 12/92.
+Manufacturer:     Chelsea Laboratories, Inc., Monroe, North Carolina.
+Recalled by:      Rugby Laboratories, Inc., Rockville Center, New York,
+                  by letter July 24, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+
+                                      -6-
+
+Quantity:         LOT #     PACKAGE SIZE    DISTRIBUTED     AMT ON MKT
+                  902NCO83    100            12,290 BTLS     12,289 BTLS
+                              1000           200 BTLS        200 BTLS
+                  008NCO20    100            11,235 BTLS     11,234 BTLS
+                              1000           323 BTLS        324 BTLS
+                  010NC020    100            8,810 BTLS      8,803 BTLS
+                              1000           600 BTLS        596 BTLS
+                  011NC001    100            7,875 BTLS      7,086 BTLS
+                              1000           675 BTLS        562 BTLS
+                  012NC030    100            9,768 BTLS      9,768 BTLS
+                              1000           486 BTLS        472 BTLS
+Reason:           Product may not meet dissolution specifications through
+                  expiration date.
+
+                                     ----
+
+Product:          Dyazide Capsules (Triamterene 50 mg, Hydrochlorothiazide
+                  25 mg), in bottles of 1,000 and for professional samples
+                  in packages of 30, 2 x 4's, 1 x 4's and 100's, a Rx
+                  diuretic anti-hypertensive.  Recall #D-035-2.
+Code:             Lot numbers:  1296E90, 37E90, 57E90, 67E90, 197E90, 267E90,
+                  307E90, 387E90, 417E90, 517E90, 957E90, 1377E90, 28E90,
+                  68E90, 148E90, 208E90, (REGULAR PRODUCTION) AND 67E90,
+                  1377E90, 168E90 (30'S), 168E90, (2 X 4'S) (PHYSICIAN
+                  SAMPLES).
+Manufacturer:     Smithkline Beecham Pharmaceuticals Company, Cidra,
+                  Puerto Rico.
+Recalled by:      Manufacturer, by letter November 1, 1991.
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide.
+Quantity:         Firm estimates none remains on the market.
+Reason:           Product does not meet dissolution specifications.
+
+                                     ----
+
+Product:          Literature associated with Bacdown Handsoap.
+                  Recall #D-036-2.
+Code:             None.
+Manufacturer:     Decon Laboratories, Inc., Bryn Mawr, Pennsylvania.
+Recalled by:      Manufacturer, by electronic message September 9, 1991
+                  followed by letter mailed November 1, 1991.  Firm-
+                  initiated field correction ongoing.
+Distribution:     New Jersey, Massachusetts, England.
+Quantity:         Approximately 200 reprints were distributed.
+Reason:           Promotional literature misbrands the product.
+
+                                     ----
+
+                       DEVICES AND RADIOLOGICAL PRODUCTS
+
+                  Class I -
+
+                                     NONE
+
+                                      -7-
+
+
+                  Class II -
+
+Product:          15 Coburn Intraocular Lenses (IOLs), various powers,
+                  sizes, and focal lengths.  Recall #Z-058-2.
+Code:             Control     Model     Diopter     Length
+                  I04733      -120UV     +25.5      13.75 mm
+                  I37735      -72        +17.5      13.75 mm
+                  K12213      -72        +17.5      13.75 mm
+                  K12215      -72        +17.5      13.75 mm
+                  K12219      -72        +17.5      13.75 mm
+                  K12220      -72        +17.5      13.75 mm
+                  L42902      -120       +18.0      12.75 mm
+                  M63013      -121UV     +23.0      13.75 mm
+                  N13123      -90        -14.0      12.50 mm
+                  N61916      -121UV     +11.5      13.75 mm
+                  N61930      -121UV     +11.5      13.75 mm
+                  P20931      -107UV     +17.0      13.75 mm
+                  Q57335      -121UV     +20.5      13.75 mm
+                  W49908      -120UV     +19.0      13.75 mm
+                  1K8365      -121       +20.0      13.75 mm.
+Manufacturer:     Storz Ophthalmics, Inc., Clearwater, Florida.
+Recalled by:      Manufacturer, by letter May 14, 1991.  Firm-initiated
+                  recall ongoing.
+Distribution:     New York, Michigan, California, Florida, Maine, Utah,
+                  Maryland, Germany, Sweden.
+Quantity:         15 lenses were distributed.
+Reason:           Implantation of a lens could result in refractive
+                  error or mis-sizing of the lens.
+
+                                     ----
+
+Product:          Visiguide/79 JR4 S Judkins Type Right 4 Coronary w/Side
+                  holes Softip Guiding Catheters, length 100 cm, 8 French.
+                  Recall #Z-059-2.
+Code:             Lot MGA912803.
+Manufacturer:     Schneider (USA), Inc., Plymouth, Minnesota.
+Recalled by:      Manufacturer, by telephone beginning September 25, 1991,
+                  followed by letter.  Firm-initiated recall complete.
+Distribution:     Arkansas, California, Connecticut, Georgia, Louisiana,
+                  Maine, Massachusetts, New Hampshire, New Jersey, New York,
+                  North Carolina, Texas, Wisconsin.
+Quantity:         110 units were distributed.
+Reason:           The catheter is labeled as having side holes, but does
+                  not have the side holes.
+
+                                     ----
+
+                  Class III -
+
+Product:          4C Plus Abnormal Low Coulter Counter Cell Control:
+                  3 ml Lot 613 Exp. Date April 8, 1991 (Product
+                  is packaged in kits only).  Recall #Z-060-2.
+
+                                      -8-
+
+
+Code:             (A)  4C Plus Abnormal Low Cell Control
+                  9x3 ml, Lot 613F;
+                  (B)  4C Plus Tripack Cell Control 9x3 ml
+                  Lots 103339K, 103340K;
+                  (C)  4C Plus Tripack Cell Control 6x3 ml
+                  Lot 108119K.
+Manufacturer:     Coulter Diagnostics, Hialeah, Florida.
+Recalled by:      Manufacturer, by letter March 18, 1991.  Firm-initiated
+                  recall complete.
+Distribution:     Nationwide and international.
+Quantity:         95 kits of lot 613F, 1,521 kits of lot 103339K,
+                  730 kits of lot 108119K and 2,003 kits of lot 103340K
+                  were distributed; firm estimates none remains on the
+                  market.
+Reason:           The control was assayed before it had stabilized which
+                  may result in high mean cell volume values.
+
+                                     ----
+
+Product:          4C Plus Abnormal High Coulter Counter Cell Control:
+                  1.  3 ml Lot 824 EXP June 24, 1991 (Product is packaged
+                  in kits only)
+                  (A)  4C Plus Abnormal High Cell Control 9x3.3 ml
+                  (B) 4C Plus Tripack Cell Control 6x3.3 ML
+                  2.  6 ml Lot 4455 EXP June 16, 1991 (Product is
+                  package in kits only); 4C Plus Abnormal High/Low Cell Control
+                  3.  3 ml Lot 811 EXP April 7, 1991 (Product is packaged
+                  in kits only)
+                  (A) 4C Plus Abnormal High Cell Control 9x3 ml
+                  (B) 4C Plus Tripack Cell Control 9x3 ml
+                  (C) 4C Plus Tripack Cell Control 6x3 ml
+                  4.  3.3 ml Lot 822 EXP June 12, 1991 (Product is
+                  packaged in kits only)
+                  (A) 4C Plus Abnormal High Cell Control
+                  9x3.3 ml.  Recall #Z-061/064-2.
+                  (B) 4C Plus Tripack Cell Control 9x3.3 ml
+                  (C) 4C Plus Tripack Cell Control 6x3.3 ml
+Code:             1. (A) Lots 103367K, 103368K;
+                     (B) Lot 108134K;
+                  2.  Lot 28168K;
+                  3.  (A) Lot 811F (1 Level of Control);
+                      (B) Lots 103336K, 103337K, 103338K, (3 Levels
+                      of Controls);
+                      (C) Lot 108118K.
+                  4.  (A) Lot 822F, 822Fl;
+                      (B) Lots 103363K, 103364K;
+                      (C) Lot 108131K, 108132K.
+Manufacturer:     Coulter Diagnostics, Hialeah, Florida.
+Recalled by:      Manufacturer, by letters of April 5, 1991 and June 5, 1991.
+                   Firm-initiated recall complete.
+Distribution:     Nationwide and international.
+
+                                      -9-
+
+Quantity:         Firm estimates none remains on the market.
+Reason:           The control was assayed before it had stablizied which may
+                  result in low red cell distribution width values.
+
+                                     ----
+
+                              VETERINARY PRODUCTS
+
+                                     NONE
+
+Seizure Actions Filed:
+
+Product:          Crab Meat (91-575-080).
+Charge:           Adulterated - Product was picked and packed under
+                  insanitary conditions whereby it may have become
+                  contaminated with filth.
+Firm:             Fish Market, Inc., Bayou LaBatre, Alabama.
+Filed:            October 29, 1991 - U.S. District Court for the
+                  Southern District of Alabama; Civil #91-0876-AH-S,
+                  FDC #66300.
+
+                                     -10-
+
+                                     ###

@@ -1,0 +1,531 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  18
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      30 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+11/16/1994
+
+Recalls and Field Corrections:  Foods -- Class II -- 11/16/1994
+
+November 16, 1994                                             94-46
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Dried Preserved Prunes, in 2.5 ounce jars.  Recall #F-091-5.
+CODE           None.
+MANUFACTURER   Mei Yuan Preserved Foods Company, Ltd., China.
+RECALLED BY    Great Rich Trading Company, Inc., Brooklyn, New York, by
+               telephone on or about March 7, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   New York.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Product contains undeclared FD&C; Yellow No. 5, FD&C; Yellow
+               No. 6, and Ponceau 4R.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        Hawthorne Berry, cut, dried for use as a tea, in 8 ounce
+               plastic bags.  Recall #F-092-5.
+CODE           Lot #08469 packaged 8/11/94.
+MANUFACTURER   Indiana Botanic Gardens, Hobart, Indiana.
+RECALLED BY    Manufacturer, by letter October 5, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       200 units.
+REASON         Product contains insect contamination.
+
+_______________
+PRODUCT        Suncorn Enriched Corn Meal packaged in 2 pound bags.  
+               Recall #F-093-5.
+CODE           None.
+MANUFACTURER   Intermares Foods, Inc., Catano, Puerto Rico.
+RECALLED BY    Manufacturer, by visit beginning on or about July 28, 1994. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Puerto Rico.
+QUANTITY       252 bags were distributed; firm estimates none remains on
+               the market.
+REASON         Product is mislabeled.  The ingredients listed on the label
+               were not added to the product.
+
+_______________
+PRODUCT        Tofutti brand Vanilla Almond Bark Frozen Desserts, in 3
+               gallon containers.  Recall #F-094-5.
+CODE           All codes manufactured in the past 6 months.
+MANUFACTURER   Kemp's Foods, Inc., Lancaster, Pennsylvania.
+RECALLED BY    Manufacturer, by letters of September 2 and 9, 1994.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Pennsylvania, New Jersey, Delaware, New York, Maryland,
+               Virginia, Connecticut.
+QUANTITY       Firm estimates very little if any product remains on the
+               market.
+REASON         Product contains undeclared almonds.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Slo-Bid Gyrocaps (Theophylline) 50 mg, extended release
+               capsules used in treatment of asthma.  Recall #D-024-5.
+CODE           Lot #CN93251 EXP 7/95.
+MANUFACTURER   Rhone Poulenc Rorer, Fort Washington, Pennsylvania.
+RECALLED BY    Rhone Poulenc Rorer, Collegeville, Pennsylvania, by letter
+               dated October 20, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Firm estimates less than 145 units remain on the market.
+REASON         Product does not meet dissolution specifications.
+
+_______________
+UPDATE         Dexamethasone Sodium, in 5 ml bottles, Recall #D-009-5 which
+               appeared in the October 19, 1994, Enforcement Report is
+               being amended to correct the list of private labels. 
+               Product was distributed under the following labels:   Akorn,
+               Bausch & Lomb, Butler, Equipharm, Goldline, Infinity, Major,
+               Ocusoft, Phoenix, Pro-Vet, Rugby, Qualitest, Vedco, Webster,
+               Richmond and Pharmascience.
+
+
+                                    -2-RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Lozol Tablets, (Indapamide), 1.25 mg, packaged in bottles of
+               100, an oral anti-hypertensive.  Recall #D-023-5.
+CODE           Lot #MN0885 EXP 4/96.
+MANUFACTURER   Rhone Poulenc Rorer, Manati, Puerto Rico.
+RECALLED BY    Rhone Poulenc Rorer, Collegeville, Pennsylvania, by letter
+               June 30, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       4,563 bottles were distributed.
+REASON         Product is slightly below specification for dissolution.
+
+_______________
+PRODUCT        Slo-Bid Gyrocaps (Theophylline) 50 mg, extended release
+               capsules used in treatment of asthma, in unit dose packs of
+               10 capsules per card and 10 cards per carton.  
+               Recall #D-025-5.
+CODE           Lot #CN93755 EXP 5/95.
+MANUFACTURER   Rhone Poulenc Rorer, Fort Washington, Pennsylvania.
+RECALLED BY    Rhone Poulenc Rorer, Collegeville, Pennsylvania, by letter
+               September 22, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       Firm estimates 210 cartons of 10 x 10 blister packs remain
+               on the market.
+REASON         A 75 mg Slo-Bid Gyrocap was found in a unit dose blister
+               cavity.
+
+_______________
+PRODUCT        Dupont Merck brand Naltrexone HCl Tablets, 50 mg, Rx, in
+               amber glass bottles of 14 and 50, Rx, indicated to provide
+               blockage of pharmacologic effect of exogenously administered
+               opioids.  Recall #D-026-5.
+CODE           Lot numbers:  EE156A EXP 7/97, EE156B EXP 7/97, EF172A EXP
+               7/97.
+MANUFACTURER   DuPont Merck Pharmaceutical Company, Garden City, New York.
+RECALLED BY    Manufacturer, by telephone October 7, 1994, followed by
+               letter October 12, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Germany, France, Spain, Switzerland, Portugal, Austria.
+QUANTITY       28,00 tablets of lot EE156A, 17,600 tablets of lot EE156B,
+               and 52,318 tablets of lot EF172A were distributed.
+REASON         Product does not meet total degradation specifications.
+
+_______________
+PRODUCT        Sinclair Pharmacal brand Boroleum Ointment, OTC, used to
+               relieve nasal discomfort due to head colds, hayfever, sinus
+               and minor nasal and skin irritations, packaged in 0.6 ounce
+               tubes.  Recall #D-027-5.
+CODE           Lot numbers:  S284 and 0054. 
+MANUFACTURER   Sinclair Pharmacal Company, Inc., Fishers Island, New York.
+RECALLED BY    Manufacturer, by telephone October 7, 1994, followed by fax. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   New York, New Jersey, Florida, Virginia, Illinois.
+
+                                    -3-QUANTITY       4,824 tubes were distributed.
+REASON         Presence of small amounts of water in the tubes.
+
+_______________
+PRODUCT        Naproxyn (naproxen) Suspension, 16 ounce bottles, a
+               nonsteroidal anti-inflammatory.  Recall #D-028-5.
+CODE           Lot numbers:  40217 EXP 4/97, 40220 EXP 4/97, 40221 EXP
+               4/97.
+MANUFACTURER   Syntex, Inc., Ontario, Canada.
+RECALLED BY    Syntex Puerto Rico, Inc., Humacao, Puerto Rico, by letter
+               October 17, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       9,858 bottles were distributed.
+REASON         Some units were superpotent.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS I
+======================
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-024-5.
+CODE           Unit 18Z65722.
+MANUFACTURER   The American National Red Cross, Lansing, Michigan.
+RECALLED BY    Manufacturer, by telephone August 5, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Michigan.
+QUANTITY       1 unit.
+REASON         Blood product contaminated with coagulase negative
+               Streptococcus agalactiae Group B was distributed for
+               transfusion.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        (a) Summit Sample Handling System; (b) Elisa Computer
+               Software, Version 5.2; (c) Midas Computer Software, Version
+               1.2; (d) Adams Computer Software, Version 1.5, 1.6, and 1.8. 
+               Recall #B-008/011-5.
+CODE           (a) All serial numbers; (b) Software version 5.2; (c)
+               Software version 1.2; (d) Software version 1.5, 1.6, 1.8.
+MANUFACTURER   Ortho Diagnostic Systems, Inc., Raritan, New Jersey.
+RECALLED BY    Manufacturer, (a) by letter in August 1992; (b) by letters
+               of June 1, 1992 and July 2, 1992; (c) telephone February
+               1993; (d) by letter November 8, 1993.  Firm-initiated field
+               correction complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       (a) 200 units; (b) 137 packages; (c) 161 packages;
+               (d) 355 packages.
+REASON         Computer software with design defects that could cause the
+               inadvertent distribution of untested blood and blood
+               products was distributed.
+
+                                    -4-_______________
+PRODUCT        Red Blood Cells.  Recall #B-012-5.
+CODE           Unit numbers:  15G70212, 15KG11359, 15KG06468, 15KG16129,
+               15KG20309, 15KG19594.
+MANUFACTURER   American National Red Cross (The), Boise, Idaho.
+RECALLED BY    Manufacturer, by letter October 29, 1993, November 10, 1993,
+               and December 2, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Michigan, Montana, Arkansas, Florida.
+QUANTITY       6 units.
+REASON         Blood products, collected from donors who had visited areas
+               designated as endemic for malaria, were distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall B-025-5.
+CODE           Unit #18Z65719.
+MANUFACTURER   The American National Red Cross, Lansing, Michigan.
+RECALLED BY    Manufacturer, by telephone August 5, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Michigan.
+QUANTITY       1 unit.
+REASON         Blood product, corresponding to Platelets, Pooled
+               contaminated with coagulase negative Streptococcus
+               agalactiae Group B, was distributed for transfusion.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-035-5.
+CODE           Unit #9401569.
+MANUFACTURER   Lorain County Blood Bank, Inc., Elyria, Ohio.
+RECALLED BY    Manufacturer, by telephone on March 2, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY       1 unit. 
+REASON         Blood product contaminated with coagulase negative
+               Staphylococcus epidermidis was distributed. 
+
+_______________
+PRODUCT        Blood grouping reagents:
+               (a) Anti-A, Anti-B, Anti-D (Anti-RH1), (Monoclonal),
+               Control, Reverse Diluent Ortho BioVue System, Product Code
+               707100; (b) Anti-A, Anti-B, Anti-AB, Anti-D, Anti-CDE,
+               (Monoclonal), Control, Ortho BioVue System, Product Code
+               707190; (c) Anti-C, Anti-D, Anti-E, Anti-e, (Monoclonal),
+               Control, Ortho BioVue System, Product Code 707200; (d) Anti-
+               C, Anti-E, Anti-c, Anti-e, Anti-K, (Monoclonal), Control,
+               Ortho BioVue System, Product Code 707280.  
+               Recall #B-037/040-5.
+CODE           Lot numbers:  ABE601A, ABE601B, ABE601C, ABE601D, ABE602A, 
+               ABE603A, ABE603B, ABE603C1, ABE603D1, ABE603E1, 
+               ABE603F2, ABE603G2, ABE603H2, ABE603I2, ABE604A, 
+               ABE604B, ABE604C, ABE604D, ABE604E, ABE604F, 
+               ABE605A, ABE605B, ABE605C, ABE606A, ABR301A, 
+
+                                    -5-               ABR302A, DEV700A, DEV700B, DEV700C, RHP701A,
+               RHP701B, RHP701C, RHP702A, RHP702B, RHP702C, 
+               RHP702D, RHP702E, RHP703A, RHP704A, RHP704B, 
+               RHP705A, RHP705B, RHP705C, RHP705D.
+MANUFACTURER   Ortho Diagnostic Systems, Inc., Raritan, New Jersey.
+RECALLED BY    Manufacturer, by letter May 4, 1994.  Firm-initiated recall
+               complete. 
+DISTRIBUTION   International.
+QUANTITY       Firm estimates that all of the product has been destroyed or
+               replaced.
+REASON         Blood grouping reagents with mislabeled cassettes were
+               distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Cryoprecipitated AHF; (c) Recovered
+               Plasma.  Recall #B-016/018-5.
+CODE           Unit numbers:  (a) 16J71558, 16J85871, 16J88934, 16F36127,
+               16J24182; (b) 16J71558, 16J85871, 16J88934, 16F36127; (c)
+               16J71558 16J85871, 16J88934, 16F36127, 16J24182.
+MANUFACTURER   American National Red Cross (The), Columbus, Ohio.
+RECALLED BY    Manufacturer, by letter July 26, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Ohio, California, Switzerland.
+QUANTITY       (a) 5 units; (b) 4 units; (c) 5 units.
+REASON         Blood products, which were collected from a donor who had
+               previously tested repeatedly reactive for the antibody to
+               the human immunodeficiency virus type 1 (anti-HIV-1), were
+               distributed.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-026-5.
+CODE           Unit numbers:  18Z65719, 18Z65722, 18Z65723, 18Z65727,
+               18Z65736, 18Z65746.
+MANUFACTURER   The American National Red Cross, Lansing, Michigan.
+RECALLED BY    Manufacturer, by telephone August 5, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Michigan.
+QUANTITY       6 units.
+REASON         Blood products, corresponding to Platelets, Pooled
+               contaminated with coagulase negative Streptococcus
+               agalactiae Group B, were distributed for further
+               manufacture.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-036-5.
+CODE           Unit #9401569.
+MANUFACTURER   Lorain County Blood Bank, Inc., Elyria, Ohio.
+RECALLED BY    Manufacturer, by letter June 24, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Florida.
+
+                                    -6-QUANTITY       1 unit.
+REASON         Blood product contaminated with coagulase negative
+               Staphylococcus epidermidis was distributed for further
+               manufacture.
+
+_______________
+PRODUCT        Platelets.  Recall #B-045-5.
+CODE           Unit numbers:  Unit numbers:  16FN08909, 16FN08911,
+               16GL07852, 16GL07857, 16GL07858, 16GL07863, 16GL07865,
+               16GL07866, 16GL07867, 16GL07868, 16GL07869, 16GL07871,
+               16GL07878, 16GL07884, 16GL07885, 16GL07890, 16GL07891,
+               16GL07894, 16GL07895, 16GL07896, 16GL07898, 16GL07899,
+               16GL07901, 16GL07902, 16GL07904, 16GL07907, 16GL07908,
+               16GL07911, 16GL07912, 16GL07913, 16GL07914, 16GL07915,
+               16GL07916, 16GL07917, 16GL01919, 16GL07921, 16M74952,
+               16M74953, 16M74954.
+MANUFACTURER   American Red Cross Blood Services, Columbus, Ohio.
+RECALLED BY    Manufacturer, by letter March 16 and 17, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Ohio.
+QUANTITY       39 units.
+REASON         Blood products, incorrectly tested for the antibodies to
+               human immunodeficiency virus, types 1 and 2 (anti-HIV-1/2),
+               were distributed.
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Adult Manual Resuscitators with Variable Volume Reservoir:
+               (a) Catalog #008006 
+               (b) Catalog #008006S 
+               (c) Catalog #008006SP  
+               (d) Catalog #008009 
+               (e) Catalog #008106 
+               (f) Catalog #44008-006
+               (g) Catalog #RESC-1007
+               (h) Catalog #RESC-1016
+               (i) Catalog #RESC-1030.  Recall #Z-079/087-5.
+  CODE         Lot Numbers: (a) 4A488, 4C694, 4D680 
+               (b) 4A561, 4C345, 4D679
+               (c) 4A628 
+               (d) 4A302, 4A489, 4B461 
+               (e) 4A562
+               (f) 4A626, 4E610 
+               (g) 4A485, 4B380, 4B523, 4C516, 4D291, 4D455, 4D566, 4E247 
+               (h) 4B192, 4D350, 4E254, 4E564 
+               (i) 4B381, 4D346. 
+MANUFACTURER   Intertech Resources, Inc., Fort Myers, Florida.
+RECALLED BY    Manufacturer, by letter August 15, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide, South Africa, Canada, AbuDhabi U.A.
+QUANTITY       Undetermined.
+
+                                    -7-REASON         Associated oxygen tubing may be occluded by excessive
+               bonding material, thereby preventing or limiting the flow of
+               oxygen.
+
+SEIZURES:
+=================================================================
+_______________
+PRODUCT        Frozen Shrimp (94-557-490 et al).
+CHARGE         Adulterated - The article consists in part of a decomposed
+               substance by reason of the presence therein of decomposed
+               shrimp.
+LOCATIONS      Americold Cold Storage, Tampa, Florida.
+FILED          July 19, 1994, U.S. District Court for the Middle District
+               of Florida, Tampa Division, Civil #94-1131-CIV-T-17C;
+               FDC #66994.
+SEIZED         August 1, 1994 - goods valued at approximately $65,541.
+
+_______________
+PRODUCT        Ultra Slim Diet Nutrition Bars (94-711-111).
+CHARGES        Adulterated - Valuable constituents, namely Vitamin C and
+               Riboflavin, have been partly omitted from the article.
+               Misbranded - The article's labeling is false and misleading
+               because it represents and suggests that the article provides
+               30 percent of the U.S. Recommended Daily Allowance (RDA) of
+               Vitamin C and 33 percent of the U.S. RDA of Riboflavin per
+               serving; whereas, the article provides from 4.07 to 8.2
+               percent of the U.S. RDA of Vitamin C and from 16 to 16.6
+               percent of the U.S. RDA of Riboflavin per serving; and the
+               nutrition information, ingredients statement, and name and
+               place of business of the distributor are not prominently
+               placed on the label with such conspicuousness as to render
+               them likely to be read by the ordinary individual under
+               customary conditions of purchase and use because they do not
+               appear together on the principal display panel or together
+               without intervening material on the information panel, and
+               they appear in a type size of less than 1/16-inch in height.
+LOCATION       Dietary Enterprises, Ltd., doing business as The Diet Store,
+               Ltd., Niles, Illinois.
+FILED          November 3, 1994; U.S. District Court for the Northern
+               District of Illinois; Civil #94C 6593; FDC #67005.
+SEIZED         November 3, 1994 - goods valued at approximately $9,000.
+
+_______________
+PRODUCT        Sphygmomanometers and components (94-614-086/093).
+CHARGES        Adulterated - The strength, purity, or quality of the
+               sphygmomanometer (Model SB-A900, LOT 001) falls below that
+               which it purports or is represented to possess, in that the
+               manometer was inaccurate, exceeding the limitation set
+               forth; and the methods used in, and the facilities and
+               controls used for, the articles' (all lots) manufacture,
+               packing, and storage are not in conformance with the current
+               good manufacturing practice requirements for devices.
+
+                                    -8-LOCATION       Surgical Instrument Company of America, Ridgefield, 
+               New Jersey.
+FILED          November 2, 1994; U.S. District Court for the District of
+               New Jersey; Civil #94-5355; FDC #66950.
+SEIZED         November 3, 1994 - goods valued at approximately $150,000.
+
+_______________
+PRODUCT        Nifedipine Capsules, USP, 10 and 20 mg (93-675-794, et al).
+CHARGES        New drug - No approval of a supplement to an application is
+               in effect for the drug.  Adulterated - The methods used in,
+               and the facilities and controls used for, the article's
+               manufacture, processing, packing, and holding do not conform
+               to and are not operated and administered in conformity with
+               current good manufacturing practice requirements.
+LOCATION       Chase Laboratories, Newark, New Jersey.
+FILED          October 14, 1994; U.S. District Court for the District of
+               New Jersey; Civil #94-4880(NHP); FDC #66914.
+SEIZED         October 24, 1994 - goods valued at approximately $900,000.
+
+                                    -9-
+
+END OF ENFORCEMENT REPORT FOR NOVEMBER 16, 1994.  BLANK PAGES MAY
+FOLLOW.
+                                   ####

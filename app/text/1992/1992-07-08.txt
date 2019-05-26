@@ -1,0 +1,420 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  SEP
+		  Dec
+		
+		
+		
+		  
+		  26
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      41 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dm
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+07/08/1992
+
+RECALLS AND FIELD CORRECTIONS: July 8, 1992
+
+                                 FOODS - CLASS II
+                                                                 92-28
+
+PRODUCT        UCD-2 Amino Acid Mixture with vitamins and minerals, net weight
+               17-1/2 ounces, in powder form in a metal can.  Recall #F-365-2.
+CODE           Lot number 4KM30 USE BY:  1 FEB 93
+MANUFACTURER   Milupa AG, Federal Republic of Germany.
+RECALLED BY    Bristol-Myers Squibb Company, Mead Johnson Nutritional Group,
+               Evansville, Indiana, by telephone May 11, 1992, followed by
+               letters between May 11 and 15, 1992.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide and Puerto Rico.
+QUANTITY       51 cases (2 cans per case) and 1 can were distributed.
+REASON         Some cans labeled as MSUD-2 instead of UCD-2.
+
+
+PRODUCT        Acme brand Canned Sliced Mushrooms, in 4 ounce cans.
+               Recall #F-366-2.
+CODE           Three line can code:  CMS/SK/1518.
+MANUFACTURER   S.K. Foods, Inc., Bangkok, Thailand.
+RECALLED BY    Acme Markets, Inc., Malvern, Pennsylvania, by telephone May 4,
+               1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Pennsylvania, New Jersey, Delaware, New York.
+QUANTITY       3,000 cases (24 cans per case) were distributed.
+REASON         Product is contaminated with Staphylococcus enterotoxin.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS - CLASS III
+
+PRODUCT        Chef Romeo's Hand Rolled Spinach Roll with Cheese.
+               Recall #F-367-2.
+CODE           All date codes.
+MANUFACTURER   Matlaw's Food Products, Inc., West Haven, Connecticut.
+RECALLED BY    Manufacturer, by telephone June 1, 1992, followed by letter
+               June 4, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   New York, New Jersey.
+QUANTITY       1,003 units were distributed.
+REASON         Product makes no preservative claims on the label but contains
+               sorbic acid, a preservative.
+
+
+PRODUCT        Various Chiquita brand 100% fruit juice blends, in 8.45 fluid
+               ounce paper cartons:
+               (a) Calypso Breeze; (b) Orange Banana; (c) Caribbean Splash.
+               Recall #F-368/370-2.
+CODE           All lots.
+MANUFACTURER   Guida Siebert Dairy, New Britain, Connecticut.
+RECALLED BY    Chiquita Brands, Inc., Cincinnati, Ohio, by telephone May 18-19,
+               1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Maryland, Pennsylvania, Rhode Island, New Jersey, Connecticut,
+               New York, Virginia, Delaware, Florida, Maine, Massachusetts,
+               New Hampshire.
+QUANTITY       40,000 cases (24 units per case) were distributed; firm
+               estimates 18,000 cases remain on the market.
+REASON         Product is contaminated with yeast.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS - CLASS II
+
+PRODUCT        Clindamycin Phosphate Injection, USP, 150 mg/ml, in 4 ml single
+               dose vials, a Rx antibiotic.  Recall #D-407-2.
+CODE           Lot #110431 EXP 10/92.
+MANUFACTURER   Lyphomed, Division of Fujisawa USA, Inc., Melrose Park,
+               Illinois.
+RECALLED BY    Manufacturer, by letter June 17, 1992.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide and Ecuador.
+QUANTITY       21,000 vials were distributed; firm estimates 10,000 vials
+               remain on the market.
+REASON         Potency not assured through expiration date.
+
+
+PRODUCT        Milk of Magnesia, USP, 1 pint containers.  Recall #D-408-2.
+CODE           Lot #2A6322.
+MANUFACTURER   Paddock Laboratories, Inc., Minneapolis, Minnesota.
+RECALLED BY    Manufacturer, by letter June 29, 1992.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+                                      -2-
+
+QUANTITY       3,473 pint bottles were distributed; firm estimates that 50
+               percent of the product remains on the market.
+REASON         One or more bottles of Aluminum Acetate Solution was mislabeled
+               as Milk of Magnesia.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS - CLASS III
+
+PRODUCT        Parke-Davis brand Easprin Tablets, aspirin delayed-released
+               tablets, USP, 15 gr.  Recall #D-406-2.
+CODE           Lot numbers and EXP dates:  05850VA 6/91, 04970VA 9/92, 057D0VA
+               1/93, 05770VA 9/92, 04111VA 1/93, 01400VA 11/92, 01500VA 11/92,
+               11090VA 10/92, 09011VA 2/93, 06421VA 2/93, 11190VA 10/92.
+MANUFACTURER   Warner Lambert, Inc., Vega Baja, Puerto Rico.
+RECALLED BY    Parke-Davis Division of Warner Lambert Company, Morris Plains,
+               New Jersey, by letter May 15, 1992.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       99,420 bottles were distributed; firm estimates none remains on
+               the market.
+REASON         Product may not meet drug release specifications through
+               expiration date.
+
+
+PRODUCT        Chlorpropamide, 250 mg, in 100, 500 and 1,000 tablet bottles, a
+               Rx anti-diabetic, under the following labels:  Sidmak, Aligen
+               Independent Laboratories, H.L. Moore Drug Exchange, United
+               Research Laboratories, Harber, Best Generics, Par-Med, Martec,
+               Genetco, Major, Rugby.  Recall #D-405-2.
+CODE           Lot numbers and EXP dates:
+               0511113 EXP 7/93 (Sidmak), 0511114 EXP 7/93 (Sidmak), 0511115
+               EXP 7/93 (Harber, Best Generics, Par-Med, Sidmak), 0511116 EXP
+               7/93 (Rugby, Martec), 0511117 EXP 7/93 (Rugby), 0511118 EXP
+               7/93 (Sidmak), 0511120 EXP 7/93 (Major, Aligen), 0511121 EXP
+               7/93 (Rugby, URL, Sidmak), 0511122 EXP 7/93 (H.L. Moore, Major,
+               Martec, Par-Med, Best Generics, Rugby,) 0511123 EXP 7/93 (URL,
+               Rugby), 0511124 EXP 7/93 (Genetco, Martec, URL, Sidmak),
+               0812092 EXP 11/93 (Aligen, Harber, Sidmak), 0812094 EXP 11/93
+               Sidmak), 0701298 EXP 8/92 (Rugby), 0701299 EXP 8/92 (Rugby).
+MANUFACTURER   Sidmak Laboratories, East Hanover, New Jersey.
+RECALLED BY    Manufacturer, by letter May 21, 1992.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide and Puerto Rico.
+QUANTITY       10,943 1,000-tablet bottles, 566 500-tablet bottles and 33,904
+               100-tablet bottles were distributed; firm estimates 25% to 40%
+               remains on the market.
+REASON         Product may not meet dissolution specifications through
+               expiration date.
+
+                                     -3-
+
+UPDATE         Ibuprofen Tablets, 200 mg, in bottles of 100, Recall #D-122-2,
+               which appeared in the December 26, 1991 Enforcement Report has
+               been extended to include the following lot numbers:
+               #A01191, #B00591, #B00691, #B00791, #E00591 and #M00690.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES - CLASS II
+
+PRODUCT        Dentrol Liquid Denture Adhesive, 1.5 fluid ounces.
+               Recall #Z-968-1.
+CODE           Lot #10019.
+MANUFACTURER   Block Drug Company, Inc., Memphis, Tennessee.
+RECALLED BY    Block Drug Company, Inc., Jersey City, New Jersey, by telephone
+               July 31, 1991.  Firm-initiated recall complete.
+DISTRIBUTION   Arizona, California, Colorado, Nevada, Utah.
+QUANTITY       480 dozen were distributed.
+REASON         Product was contaminated with Pseudomonas aeruginosa.
+
+
+PRODUCT        Nezhat Suction/Irrigation Probe, a reusable device used in
+               laparoscopic surgery.  Recall #Z-763-2.
+CODE           All units shipped prior to 11/8/91.
+MANUFACTURER   Cabot Medical Corporation, Langhorne, Pennsylvania.
+RECALLED BY    Manufacturer, by letter January 16,1991.  Firm-initiated field
+               correction complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       All units were corrected.
+REASON         The sterility status of the KLI Lubricant Grease used to
+               prevent sticking and leaking of the trumpet valves in the probe
+               was not documented.
+
+
+PRODUCT:       AMS 700 pump used with Ultrex Penile Prostheses.  The Ultrex
+               and the Ultrex Plus Penile Prostheses are the same devices
+               except that the Ultrex Plus is pre-filled with saline solution
+               and comes with the pump:
+               (a) AMS 700 Ultrex Plus Penile Prostheses, part numbers
+               72401460, 72401461, 72401463, 72401464, 72401466, 72401467,
+               72401469;
+               (b) AMS 700 Inflate/Deflate Pumps (for penile prostheses), part
+               number 72400151.  Recall #Z-816/817-2.
+CODE           Lot numbers:  (a) 1236P, 1842P, 1844P, 1845P, 1846P, 1848P,
+               1850P, 1853P, 1856P, 2275P, 2276P, 2277P, 2280P, 2281P, 2290P,
+               2293P, 2840P, 3400P;
+               (b) 2023P  2024P  2025P  2026P  2027P  2028P  2029P
+                   2030P  2031P  2032P  2033P  2034P  2035P  2036P
+                   2037P  2038P  2039P  2040P  2041P  2042P  4034R
+                   4035R  4036R  4037R.
+MANUFACTURER   American Medical Systems, Pfizer Hospital Products Group,
+               Minnetonka, Minnesota.
+RECALLED BY    Manufacturer, by telephone May 6 or 7, 1992, followed by letter
+               May 8, 1992.  Firm-initiated recall ongoing.
+
+                                     -4-
+
+DISTRIBUTION   Nationwide, Australia, Belgium, Canada, England, Germany,
+               Italy, Spain.
+QUANTITY       212 units were distributed.
+REASON         A stainless steel component of the pump may be showing evidence
+               of corrosion (shown as a discoloration of the device fluid) in
+               some of the devices which could affect the functionality of the
+               pump over time.
+
+
+PRODUCT        Ames brand Glucometer M+ Diabetes Care System Kit.
+               Recall #Z-818-2.
+CODE           Catalog #NDC-0193-54920-01.  All lots made between 3/91 and
+               12/2/91 with serial numbers between 1000100 and 1005541.
+MANUFACTURER   Miles, Inc., Diagnostic Division, Mishawaka, Indiana.
+RECALLED BY    Manufacturer, by letter December 2,1991.  Firm-initiated field
+               correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 3,000 units were distributed.
+REASON         Readings on the meter were excessive due to leakage of
+               incandescent light into the meter.
+
+
+PRODUCT        Continuous non-invasive blood pressure monitoring devices which
+               measure and display patient blood pressure parameters:
+               (a) Colin CBM-3000 Continuous Arterial Tonometer;
+               (b) Nellcor N-Cat Continuous Non-Invasive Blood Pressure
+               Monitoring Device.  Recall #Z-833/834-2.
+CODE           Lot numbers:
+               (a)  Lot numbers   Serial numbers
+                                  582               330041-330100, inclusive
+               (b)  None          SAM1011, SAM1013, SAM1014
+                                  None              A000013, A000102, A000103, 
+                                                    A000204-A000206,
+                                                    A000210
+                                  002               AA100001-AA100100
+                                  358               AA100101-AA100300
+                                  359               AA100301-AA100600
+                                  360               AA100601-AA100770
+                                  593               AA100771-AA100920
+                                  594               AA100921-AA100990
+                                  631               AA100991-AA101064
+                                  434               UA100001-UA100030
+                                  598               UA100031-UA100055
+                                  614               FA100001-FA100025
+MANUFACTURER   Colin Electronics, Komaki City Aichi-Prep, Japan.
+RECALLED BY    Colin Medical Instruments Corporation, San Antonio, Texas, by
+               letter March 17, 1992.  Firm-initiated field correction ongoing.
+DISTRIBUTION   California, Connecticut, Massachusetts, Minnesota, North
+               Carolina, Texas, Canada.
+QUANTITY       (a) 27 units; (b) 1,085 units were distributed.
+REASON         Reports of erroneous readings of tonometric blood pressure
+               waveforms during the use of both devices.
+
+                                      -5-
+
+PRODUCT        Omniflex Microstructured Hip Stem #13 Stem 40 mm nk Large
+               Distal Stem Taper.  Recall #Z-835-2.
+CODE           Catalog #1008-1340, sterile lot #8911P, case code: FA150XA
+               (also identified as FA150X by firm).
+MANUFACTURER   Ostenoics Corporation, Allendale, New Jersey.
+RECALLED BY    Manufacturer, by letter April 23, 1992.  Firm-initiated recall
+               complete.
+DISTRIBUTION   California, North Carolina, Alabama, Minnesota, Indiana,
+               Wisconsin, Texas, Nebraska.
+QUANTITY       11 units were distributed; firm estimates none remains on the
+               market.
+REASON         Product was labeled with an incorrect size on the inner
+               labeling.
+
+SEIZURES:
+
+PRODUCT        "Suncorn Pure Corn Oil 100% Natural" (91-637-523/5).
+CHARGE         Adulterated - Soybean oil has been substituted in part for
+               corn oil.
+               Misbranded - The products' labeling is false and misleading
+               because:  it represents the products to be pure corn oil; it
+               contains the statement "No Cholesterol," suggesting that the
+               products differ from other corn oils, when, in fact, all
+               vegetable oils are free of cholesterol; and the nutrition
+               information and net quantity of contents statements on the
+               labeling fail to conform to the requirements set forth by
+               regulation.
+FIRM           Intermares Group, Inc., Catano, Puerto Rico.
+FILED          May 5, 1992 - U.S. District Court for the District of Puerto
+               Rico; Civil #Civil 92-1673(JP); FDC #66407.
+SEIZED         June 30, 1992 - goods valued at $45,000.
+
+
+PRODUCT        Hysterosalpingography (H/S) catheter sets and procedure
+               trays (92-588-758).
+CHARGE         Adulterated - The methods used in, and the facilities and
+               controls used for, the manufacture, processing, packing, and
+               holding of the devices are not in conformity with the
+               current good manufacturing practice regulations.
+FIRM           Ackrad Laboratories, Inc., Cranford, New Jersey.
+FILED          June 4, 1992 - U.S. District Court for the District
+               of New Jersey; Civil #92-2349(HAA); FDC #66408.
+SEIZED         June 19, 1992 - goods valued at $167,300.
+
+
+PRODUCT        Mela Folia tea tree oil products and accompanying brochures
+               (92-623-410).
+CHARGE         New drug - The products are unapproved new drugs.
+
+                                     -6-
+
+               Misbranded - The products' labeling is false and misleading
+               because it represents and suggests that the articles are safe
+               and effective for various diseases, which representations and
+               suggestions are false.  In addition, the products' labeling
+               lacks adequate directions for use whereby the products may be
+               used safely and effectively for their intended purposes.
+FIRM           AAAA Self Storage, Chesapeake, Virginia.
+FILED          May 14, 1992 - U.S. District Court for the Eastern District
+               of Virginia; Civil #2:92CV372; FDC #66392.
+SEIZED         May 20, 1992 - goods valued at approximately $46,528, plus
+               brochures.
+
+
+                                     -7-
+
+
+END OF ENFORCEMENT FOR JULY 8, 1992.  BLANK PAGES MAY FOLLOW.
+
+                                    ###

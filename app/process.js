@@ -91,7 +91,8 @@ const divideAndFilter = rawtext => {
     return (
       elem.includes("KEYWORDHERE: drug") ||
       elem.includes("KEYWORDHERE: bio") ||
-      elem.includes("KEYWORDHERE: device")
+      elem.includes("KEYWORDHERE: device") ||
+      elem.includes("KEYWORDHERE: medical device")
     );
   });
 
@@ -104,26 +105,35 @@ const classification = element => {
 };
 
 const category = element => {
-  let result = element.includes('bio') && 'Biologics' || element.includes('drug') && 'Drugs' || element.includes('device') && 'Devices'
+  let working_string = element.slice(0, element.indexOf('class'))
+  let result = working_string.includes('bio') && 'Biologics' || working_string.includes('drug') && 'Drugs' || working_string.includes('device') && 'Devices'
   return result
 };
 
 // divide to single product
 const singlify = (text, info) => {
-  let pos_start = text.indexOf("product");
-  let pos_check = text.indexOf("distribution", pos_start);
-  if (pos_start == -1) return;
-  let pos_end = text.indexOf("product", pos_check);
-  if (pos_end == -1) {
-    pos_end = text.length
+  let working_string = text;
+  let meta = info;
+  if(working_string.includes('product') && working_string.includes('reason')){
+    let pos_start = working_string.indexOf("product");
+    let pos_check = working_string.indexOf("reason", pos_start);
+    let pos_end = working_string.indexOf(".", pos_check);
+    if (pos_end < 25) {
+      pos_end = working_string.indexOf('product', pos_check)
+    }
+    if (pos_end == -1) {
+      pos_end = working_string.length
+    }
+    let single = working_string.slice(pos_start, pos_end + 1);
+    accumulatorArray.push(`${meta} ${single}`);
+    let remaining = working_string.remove(single)
+    if(remaining.includes('product') && remaining.includes('reason')){
+      singlify(remaining, meta)
+    }
   }
-
-  let single = text.slice(pos_start, pos_end);
-  accumulatorArray.push(`${info} ${single}`);
-  let remaining = text
-    .remove(single, '.')
-  singlify(remaining, info);
+  // singlify(remaining, info);
 };
+
 
 // collect all needed information for each product
 const getTheInfo = container => {
@@ -225,14 +235,18 @@ const createXLSX = infoGathered => {
 }; //--fn create excel end
 
 
-let year = "2002";
+let year = "1993";
 let files = fs.readdirSync(`text/${year}`);
-let nm = 30;
+let nm = 18;
 const working_file_name = files[nm];
 console.log(working_file_name, "working number:", nm);
+
 const errorFiles = [{
   'year': '2002',
   'fileNumber': '30'
+},{
+  'year': '1993',
+  'fileNumber': '48, 0'
 }]
 
 textjs(working_file_name);

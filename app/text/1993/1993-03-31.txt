@@ -1,0 +1,884 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      28 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+03/31/1993
+
+Recalls and Field Corrections:  Foods -- Class II -- 03/31/1993
+
+
+March 31, 1993                                             93-13
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+               
+PRODUCT         Assorted Sour Balls Hard Candy, red, yellow, green,
+                and orange, packaged approximately 14-15 balls per
+                clear plastic bag.  Recall #F-262-3.
+CODE            None.
+MANUFACTURER    Royal Candy Company, Inc., Brooklyn, New York.
+RECALLED BY     Manufacturer, by letter February 12, 1993.  Firm-
+                initiated recall ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        40 dozen 3-ounce bags were distributed; firm estimates
+                3 dozen bags remain on the market.
+REASON          Product contains undeclared FD&C; Yellow No. 5.
+
+               
+PRODUCT         Pepsi Cola, in 16 ounce glass bottles, sold
+                individually, in 6-packs, or in cases of 24 bottles.
+                Recall #F-263-3.
+CODE            B023CE2 DE5(cent symbol) 2236, B023CE2 DE5 (cent
+                symbol) 2237, B023CE2 (cent symbol) 2238.
+
+
+--------------------------------------------------------------------------------
+
+MANUFACTURER    Pepsi-Cola Metropolitan Bottling Company, Inc., of
+                Philadelphia, Philadelphia, Pennsylvania.
+RECALLED BY     Manufacturer, by driver pick-up February 25, 1993.
+                Firm-initiated recall complete.
+DISTRIBUTION    New Jersey.
+QUANTITY        93 cases were distributed.
+REASON          Product is contaminated with glass.
+
+               
+PRODUCT         Imported HP brand English Mustard Piccalilli Chow Chow
+                9.5 fluid ounces, for use as a relish.
+                Recall #F-265-3.
+CODE            None.
+MANUFACTURER    Lea & Perrins International, Worchester, England.
+RECALLED BY     Haddon House Food Products, Inc., Medford, New Jersey,
+                by letter December 30, 1992.  Firm-initiated recall
+                complete.
+DISTRIBUTION    Nationwide.
+QUANTITY        212 cases (24 units per case) were distributed.
+REASON          Product contains undeclared FD&C; Yellow No. 5.
+
+               
+PRODUCT         Vineland Syrup brand flavored syrup products, in 1
+                gallon plastic containers:
+                (a) Lemon Syrup; (b) Banana Syrup; (c) Pineapple
+                Syrup; (d) Lime Syrup.  Recall #F-266/269-3.
+CODE            None.
+MANUFACTURER    Vineland Syrup, Vineland, New Jersey.
+RECALLED BY     Manufacturer, by visit beginning November 20, 1992.
+                Firm-initiated recall ongoing.
+DISTRIBUTION    New Jersey, Maryland, Delaware.
+QUANTITY        Approximately 138 gallons of product were distributed.
+REASON          Product contains undeclared FD&C; Yellow No. 5.
+
+
+RECALLS AND FIELD CORRECTIONS:  COSMETICS -- CLASS II
+               
+PRODUCT         Fragrance Free Lubriderm Lotion for dry skin care, in
+                8 ounce plastic bottles.  Recall #F-264-3.
+CODE            Lot #911N1VA.
+MANUFACTURER    Warner Lambert Company, Vega Baja, Puerto Rico.
+RECALLED BY     Warner Lambert Company, Morris Plains, New Jersey, by
+                letter dated September 1, 1992.  Firm-initiated recall
+                ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        61,384 bottles were distributed.
+REASON          Product is contaminated with Pseudomonas Aeruginosa.
+
+                                    -2-
+
+--------------------------------------------------------------------------------
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+               
+PRODUCT         Sulfasalazine Tablets, 500 mg, a Rx anti-bacterial, in
+                500 tablet bottles.  Recall #D-183-3.
+CODE            Lot #3960-31 EXP 4/94.
+MANUFACTURER    Lederle Laboratories, Pearl River, New York.
+RECALLED BY     Manufacturer, by letter January 27, 1993.  Firm-
+                initiated recall ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        1,160 bottles were distributed.
+REASON          Product does not meet dissolution specification
+                through expiration date.
+
+               
+PRODUCT         Nystatin Tablets, USP 500,000 units, in bottles of
+                100, for the treatment of intestinal candidiasis.
+                Recall #D-182-3.
+CODE            Lot #H733-01 EXP 12/93.
+MANUFACTURER    Pharmaceutical Basics, Inc., Denver, Colorado,
+                California.
+RECALLED BY     Manufacturer, by letter March 3,    1993.  Firm-initiated
+                recall ongoing.
+DISTRIBUTION    Washington state, Louisiana, Minnesota, Alabama, New
+                Mexico, California, Florida, Ohio, Oregon.
+QUANTITY        1,105 bottles were distributed.
+REASON          Potency not assured through expiration date.
+
+               
+PRODUCT         Povidone-Iodine 5% Surgical Scrub, packaged in bottles
+                of 16 oz., and 1 gallon sizes, used as a topical
+                antiseptic under the following labels:  Thames, Rugby,
+                IDE, Bioline, Goldline, Schein, Qualitest.
+                Recall #D-184-3.
+CODE            All lots within their expiration date.
+MANUFACTURER    Thames Pharmacal Co. Inc., Ronkonkoma, New York.
+RECALLED BY     Manufacturer, by telephone February 3, 1993, followed
+                by letter February 11, 1993.  Firm-initiated recall
+                ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        Approximately 8,000 16-ounce bottles and 1,500 1-
+                gallon bottles were distributed.
+REASON          Potency not assured through expiration date.
+
+               
+PRODUCT         (a) Zenate, prenatal multivitamin/mineral supplement
+                tablets, in bottles of 100; (b) Creon, pancreatin USP,
+                Capsules, in bottles of 100.  Recall #D-185/186-3.
+CODE            Lot 83774.
+MANUFACTURER    Solvay Pharmaceuticals, Marietta, Georgia.
+RECALLED BY     Manufacturer, by telephone January 8, 1993, followed
+                by letter January 14, 1993.  Firm-initiated recall
+                ongoing.
+DISTRIBUTION    Nationwide.
+                                    -3-
+
+--------------------------------------------------------------------------------
+
+QUANTITY        6,245 bottles labeled as Zenate were distributed; firm
+                estimates that 10% of the product remains on the
+                market.
+REASON          Some units of Zenate Tablets are mislabeled as Creon
+                Capsules.
+
+               
+PRODUCT         Buspar, (Buspirone HCl) 10 mg tablets, an antianxiety
+                agent, in 100 tablet bottles.  Recall #D-188-3.
+CODE            Lot #HIJ91A EXP 10/94.
+MANUFACTURER    Bristol-Myers Squibb, Mayaguez Puerto Rico.
+RECALLED BY     Bristol-Myers Squibb Company, Pharmaceutical Group
+                Technical Operations, New Brunswick, New Jersey, by
+                letter December 10, 1992.  Firm-initiated recall
+                ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        Approximately 29,490 bottles were distributed; firm
+                estimates 15,550 bottles remain on the market.
+REASON          Some tablets are superpotent.
+
+               
+PRODUCT         Diprivan (Propofol) Injection, 10 mg/ml, in single-
+                patient infusion vials, used for intravenous
+                anesthesia.  Recall #D-189-3.
+CODE            Lot numbers:  3049N, 3141N, 3145N, 3210N.
+MANUFACTURER    Kabi Pharmecia, Stockholm, Sweden.
+RECALLED BY     Zeneca Pharmaceutical Group, Wilmington, Delaware, by
+                fax and telephone on February 25, 1993, followed by
+                letter February 26, 1993.  Firm-initiated recall
+                ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        14,000 units were distributed; firm estimates 7,300
+                units remain on the market.
+REASON          Some vials have a potential for cracks which may
+                result in a lack of assurance of sterility.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+               
+PRODUCT         Phenazopyridine Hydrochloride 100 mg sugar coated
+                tablets, in bottles of 100, indicated for the
+                symptomatic relief of pain, burning, urgency,
+                frequency and the discomforts arising from irritation
+                of the lower urinary tract mucosa.  Recall #D-180-3.
+CODE            Lot #11201 which was later changed to AABM.
+MANUFACTURER    Manufacturing Chemists, Inc., Indianapolis, Indiana.
+RECALLED BY     Manufacturer, by telephone October 26, 1992, followed
+                by letters dated October 26 & 27,   1992.  Firm-
+                initiated recall ongoing.
+DISTRIBUTION    New Jersey, Florida, New York, Michigan, California.
+QUANTITY        Approximately 800,000 tablets were distributed.
+
+                                    -4-
+
+--------------------------------------------------------------------------------
+
+REASON          Product does not meet dissolution specifications.
+
+               
+PRODUCT         Nalfon Tablets,Tablet #1900, Fenoprofen Calcium
+                Tablets, USP 600 mg, in bottles of 100 and 500, a Rx
+                drug used for relief of rheumatoid arthritis and
+                osteoarthritis.  Recall #D-181-3.
+CODE            All lots.
+MANUFACTURER    Eli Lilly & Company, Indianapolis, Indiana.
+RECALLED BY     Manufacturer, by letter December 16, 1992.  Firm-
+                initiated recall ongoing.
+DISTRIBUTION    Nationwide, The Netherlands, Puerto Rico.
+QUANTITY        904,192 bottles of 100 tablets and 164,000 bottles of
+                500 tablets were distributed in the United States
+                including Puerto Rico.  1,268 bottles of 100 were
+                distributed in the Netherlands.  Firm estimates 10,000
+                bottles of 100 tablets and 700 bottles of 500 remain
+                on the market.
+REASON          Product does not meet dissolution specifications
+                through expiration date.
+
+               
+PRODUCT         Extra Strength, Cold/Allergy/Flu Medicine Plus Fever
+                and Pain Reliever Tablets, in bottles of 20, an OTC
+                medication.  Recall #D-187-3.
+CODE            Lot numbers and expiration dates:  #Z411 EXP 7/93,
+                #Z412 EXP 7/93, #Z617 EXP 2/94, #Z618 EXP 2/94, #A453
+                EXP 8/94, #A454 EXP 8/94, #A689 EXP 3/95, and #A571
+                EXP 3/95.
+MANUFACTURER    The Reese Chemical Company, Cleveland, Ohio
+RECALLED BY     Manufacturer, by letter March 5, 1993.  Firm-initiated
+                recall ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        27,491 bottles were distributed; firm estimates 6,000
+                bottles remain on the market.
+REASON          Label declares FD&C; Red #3, whereas the manufacturer's
+                formula states that the product contains Red #40
+                Aluminum Lake and Red #27 Aluminum Lake.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+               
+PRODUCT         (a) Red Blood Cells; (b) Red Blood Cells, Expired;
+                (c) Red Blood Cells, Leukocytes Removed;
+                (d) Red Blood Cells, Washed; (e) Platelets;
+                (f) Platelets, Expired; (g) Cryoprecipitated AHF;
+                (h) Fresh Frozen Plasma; (i) Source Leukocytes;
+                (j) Recovered Plasma.  Recall #B-105/114-3.
+CODE            Unit numbers:  (a) 1931999, 1964071, 1981891, 2617936,
+                2661980, 2679951, 2695001, 2702281, 2705007, 2705784,
+
+                                    -5-
+
+
+--------------------------------------------------------------------------------
+
+                3364537, 5450031, 5451611, 5475781, 5479097, 6493253,
+                7210992, 8809899, 9271382, 9280641, 10013457,
+                10032079, 10032399, 10034740, 10035038, 10043861,
+                10103544, 10105390, 10127466, 10388036, 10761583,
+                10855351, 11076922, 11345199, 11587050, 11890885,
+                12261423, 12262455, 12400372, 12404234, 12496905,
+                12676810, 12942545, 12972551, 13812994, 14004660,
+                14025259, 14638445, 16129834, 16132863, 16139743,
+                17504242, 20067878, 21253392, 21253836, 21456491,
+                22597820, 40110747, 40122876, 51009023, 51013899,
+                51013942, 51016608, 51019486, 51030008, 51033674,
+                51045209, 51050813, 51052842, 51081071, 51084488,
+                51087603, 54216140, 72548909, 100192874, 101677201,
+                101749185, 101868134, 101971568, 103596713, 104072601,
+                104761318, 110258092, 110261089, 110277677, 110283208,
+                110318140, 111134056, 111239379, 111464745, 111772164,
+                115946698, 117388624, 117712004, 120330194, 120331920,
+                120346497, 120347798, 122734143, 130840971, 131248592,
+                131248810, 131993961, 132535597, 134773958, 141195212,
+                141707291, 142130154, 142130490, 142131931, 151476051,
+                151519447, 151628199, 151690355, 152037271, 152154396,
+                152710966, 152936191, 154308872, 155021190, 160224245,
+                160451691, 160452718, 160515391, 160529606, 160537919,
+                160538967, 160861762, 160861867, 161020289, 161023377,
+                161283504, 161284388, 161919227, 162066739, 162660620,
+                162895400, 163434303, 163987293, 164357283, 164816996,
+                164937463, 167228095, 167250077, 167765705, 170201078,
+                170210735, 170213320, 170563542, 170575222, 171018456,
+                171091311, 171179705, 171181113, 171316633, 171371785,
+                171753386, 171866078, 173576669, 174131770, 174257521,
+                174790489, 174791669, 175274886, 175508611, 180626210,
+                180630723, 180634757, 180637439, 180882571, 181174717,
+                181537720, 181540378, 181793490, 182287167, 184136909,
+                184284090, 184301091, 185519456, 187213397, 187616273,
+                190234154, 190308769, 190669821, 191718961, 191719587,
+                194156407, 194856358, 195425144, 200664640, 200710890,
+                204840800, 210693927, 211139364, 211425081, 212874133,
+                212962511, 220100152, 220101582, 220439449, 220591727,
+                220594164, 221065365, 221548013, 221695784, 221935635,
+                225237151, 225974423, 250444768, 250474842, 251190302,
+                251191907, 251312010, 252054107, 252160099, 252175273,
+                252664081, 252761218, 254544652, 260298807, 260299215,
+                260299266, 260299449, 260547376, 261068644, 262089766,
+                301305208, 306076041, 627745876, 807174479, and
+                808140409; (b) 160684294; (c) 77449564, 17351850, and
+                12620376; (d) 211142301;
+                (e) 2661980, 2695001, 2696862, 2702281, 2705007,
+                5450031, 5451611, 6493253, 8809899, 9280641, 10010621,
+                10032399, 10034740, 10035038, 10127466, 10761583,
+                12261423, 12496905, 12676810, 12942545, 12972551,
+                13812994, 16129834, 16132863, 17504242, 21456491,
+                51027428, 51033674, 51087603, 101868134, 103596713,
+                                    -6-
+
+--------------------------------------------------------------------------------
+
+                104072601, 110261089, 110277677, 110283208, 110318140,
+                111239379, 115946698, 117388624, 117712004, 120331920,
+                122734143, 131993961, 132535597, 132799782, 134773958,
+                141707291, 142130154, 142130490, 151476051, 151519447,
+                152037271, 152154396, 152710966, 155021190, 160088921,
+                160451691, 160452718, 160515391, 160529606, 160861762,
+                160861867, 161020289, 161284388, 162066739, 163434303,
+                164357283, 164816996, 167765705, 170213320, 171018456,
+                171179705, 171181113, 171371785, 173576669, 174131770,
+                174257521, 174790489, 175274886, 175508611, 180626210,
+                180634757, 180882571, 181174717, 181793490, 184136909,
+                184301091, 185519456, 187213397, 187616273, 191718961,
+                194856358, 195425144, 200710890, 210693927, 220439449,
+                220591727, 220594164, 221695784, 251191907, 252054107,
+                252175273, 260299215, 260547376, and 808140409
+                (f) 1966717, 10043861, 11890885, 225974423, 12400372,
+                120347798, 160538967 and 190669821
+                (g) Units 1964071, 2679951, 5479097, 10031079,
+                10388036, 16139743, 101677201, 101971568, 103596713,
+                142131931, 151690355, 160537919, 161023377, 163987293,
+                164937463, 167228095, 167250077, 170210735, 171371785,
+                171753386, 174791669, 180630723, 181793490, 191719587,
+                194156407, 195425144, 200664640, 221065365, 221695784,
+                225237151, and 251312010;
+                (h) 2705007, 10105390, 11345199, 11890885, 12496905,
+                12676810, 13812994, 17351850, 51013899, 51030008,
+                51087603, 100192874, 110258092, 110261089, 110277677,
+                111239379, 115946698, 117388624, 117712004, 131248592,
+                131304797, 142130154, 155021190, 160515391, 160684294,
+                160861867, 167765705, 170201078, 171179705, 174790489,
+                175274886, 180634757, 181174717, 184136909, 185519456,
+                187616273, 190669821, 191718961, 220594164, 225974423,
+                260547376, 261068644, and 808140409;
+                (i) 10035038, 170213737, 204840800, 211095170, and
+                254544652;
+                (j) 1931999, 1964071, 1966717, 1981891, 2617936,
+                2661980, 2679951, 2695001, 2696862, 2702281, 2705784,
+                3364537, 5450031, 5451611, 5475781, 5479097, 6493253,
+                7190949, 7210992, 8809899, 9271382, 9280641, 10010621,
+                10013457, 10020278, 10032079, 10032399, 10034740,
+                10035038, 10043861, 10103544, 10127466, 10138953,
+                10388036, 10761583, 10855351, 11076922, 11573540,
+                11587050, 12262455, 12400372, 12404234, 12620376,
+                12942545, 12972551, 14004660, 14638445, 16129834,
+                16132863, 16139743, 17504242, 18018292, 20067878,
+                21253392, 21253836, 21456491, 22598811, 40110747,
+                40122876, 51009023, 51013942, 51016608, 51019486,
+                51033674, 51045209, 51050813, 51052842, 51081071,
+                51084488, 51089866, 51833190, 53945168, 54216140,
+                72548909, 77449564, 101677201, 101749185, 101868134,
+                101971568, 103596713, 104072601, 104761318, 110283208,
+                110285939, 110318140, 111464745, 111134056, 111772164,
+                120330194, 120331920, 120346497, 120347798, 122734143,
+                130840971, 131248810, 131993961, 132535597, 132799782,
+                134773958, 141195212, 141707291, 142131931, 142643481,
+                151476051, 151519447, 151628199, 151690355, 152037271,
+                152154396, 152710966, 152936191, 154308872, 160088921,
+                160451691, 160452718, 160529606, 160537919, 160538967,
+                160690777, 160861762, 161020289, 161023377, 161283504,
+                                    -7-
+                161284388, 161919227, 162066739, 162660620, 162895400,
+                163434303, 163987293, 164357283, 164816996, 164937463,
+                167228095, 167250077, 170210735, 170213320, 170563542,
+                170575222, 171018456, 171091311, 171181113, 171316633,
+                171371785, 171753386, 173576669, 174131770, 174257521,
+                174791669, 175508611, 180626210, 180630723, 180637439,
+                180882571, 181537720, 181540378, 181793490, 184284090,
+                184301091, 187213397, 190234154, 190308769, 190551230,
+                191719587, 192090118, 194156407, 194856358, 195425144,
+                200664640, 200710890, 204840800, 210693927, 211142301,
+                211425081, 212962511, 220100152, 220101582, 220439449,
+                220591727, 220945621, 221065365, 221548013, 221695784,
+                221935635, 225237151, 250444768, 251190302, 251191907,
+                251312010, 252054107, 252160099, 252175273, 252664081,
+                252761218, 254544652, 260298807, 260299215, 260299266,
+                260299449, 262089766, 301305208, 627745876, 807174479.
+MANUFACTURER    J. K. and Susie L. Wadley Research Institute and Blood
+                Bank, Dallas, Texas.
+RECALLED BY     Manufacturer, by letters dated May 29, 1992, and July
+                13, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION    Texas, Louisiana, Ohio, Pennsylvania, Illinois,
+                Florida, California, New Jersey.
+QUANTITY        (a) 231 units; (b) 1 unit; (c) 3 units; (d) 1 unit;
+                (e) 105 units; (f) 8 units; (g) 31 units; (h) 43
+                units; (i) 5 units; (j) 203 units.
+REASON          Blood products which tested non-reactive for the
+                antibody to the human immunodeficiency virus type 1
+                (anti-HIV-1), but were collected from donors who
+                previously tested repeatedly reactive for anti-HIV-1,
+                were distributed.
+
+               
+PRODUCT         Red Blood Cells, Deglycerolized.  Recall #B-180-3.
+CODE            Unit #TM0101277.
+MANUFACTURER    Personal Blood Storage of America, Inc., Columbia,
+                South Carolina.
+RECALLED BY     Consignee notified firm by telephone November 24,
+                1992.  Firm-initiated recall complete.
+DISTRIBUTION    South Carolina.
+QUANTITY        1 unit.
+REASON          Blood product labeled with the incorrect expiration
+                date and time was distributed.
+
+               
+PRODUCT         Red Blood Cells.  Recall #B-223-3.
+CODE            Unit #R47748.
+                          -8-
+
+-------------------------------------------------------------------------------
+-
+
+MANUFACTURER    Blood Bank of the Alameda-Contra Costa Medical
+                Association, Oakland, California.
+RECALLED BY     Manufacturer, by telephone April 2, 1992.  Firm-
+                initiated recall complete.
+DISTRIBUTION    California.
+QUANTITY        1 unit.
+REASON          Blood product, which tested repeatedly reactive for
+                the antibody to hepatitis B core antigen (anti-HBc),
+                was distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+               
+PRODUCT         Platelets.  Recall #B-183-3.
+CODE            Unit #53C44120.
+MANUFACTURER    American Red Cross Blood Services, Baltimore,
+                Maryland.
+RECALLED BY     Manufacturer, by letter July 1, 1992.  Firm-initiated
+                recall complete.
+DISTRIBUTION    Maryland.
+QUANTITY        1 unit.
+REASON          Blood product containing anti-E antibodies, but
+                labeled as negative for unexpected antibodies, was
+                distributed.
+               
+PRODUCT         (a) Red Blood Cells; (b) Platelets.
+                Recall #B-196/197-3.
+CODE            Unit #53FK01338.
+MANUFACTURER    American Red Cross Services, Baltimore, Maryland.
+RECALLED BY     Manufacturer, by telephone April 8, 1992, and by
+                letter April 29, 1992.  Firm-initiated recall
+                complete.
+DISTRIBUTION    Maryland.
+QUANTITY        1 unit of each component.
+REASON          Blood products which tested negative for the antibody
+                to human immunodeficiency virus type 1 (anti-HIV-1),
+                but were collected from a donor who previously tested
+                repeatedly reactive for anti-HIV-1, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS I
+               
+PRODUCT         (a) Model 2000W Heart/Respiration Monitors;
+                (b) Model 2000W Option H Heart/Respiration Monitors;
+                (c) Model 700 Recording Device (with monitor and pulse
+                oximeter).  Recall #Z-314/316-3.
+CODE            Serial numbers: (a) - Model 2000W
+                3911      20954  22563   23664 24661               26596
+                3934      20986  22660   23683 24687               26597
+                4005      21002  22776   23706 24799               26598
+                4024      21193  22819   23753 24810               26599
+                4061      21299  22916   23780 24812               26600
+                                   -9-
+
+------------------------------------------------------------------------------
+                4093      21382    22954      23811      24837       26601
+                4212      21385    23175      23867      25049       26602
+                4268      21399    23197      23928      25068       26603
+                4275      21626    23200      24079      25119       26604
+                4358      21957    23265      24090      26584       26605
+                4425      21964    23274      24102      26585       26606
+                4432      22036    23316      24110      26587       26607
+                4486      22078    23338      24125      26588       26608
+                4623      22240    23362      24129      26589       26609
+                20219     22299    23420      24210      26590       26610
+                20334     22312    23429      24249      26591       26611
+                20650     22391    23430      24421      26592       26612
+                20656     22462    23439      24540      26593       26628
+                20906     22466    23551      24541      26594       26629
+                20933     22492    23569      24617      26595       26630
+                26631     26797    26820      26847      26868       26889
+                26632     26798    26821      26848      26869       26890
+                26633     26799    26822      26849      26870       26891
+                26634     26800    26823      26850      26871       26892
+                26635     26801    26824      26851      26872       26893
+                26636     26802    26825      26852      26873       26894
+                26637     26803    26826      26853      26874       26895
+                26640     26804    26827      26854      26875       26898
+                26641     26805    26828      26855      26876       26899
+                26642     26806    26829      26856      26877       26900
+                26643     26807    26830      26857      26878       26901
+                26644     26808    26836      26858      26879       26902
+                26645     26809    26837      26859      26880       26903
+                26646     26810    26838      26860      26881       26904
+                26647     26813    26839      26861      26882       26905
+                26787     26814    26840      26862      26883       26906
+                26792     26815    26841      26863      26884       26907
+                26793     26816    26842      26864      26885       26908
+                26794     26817    26843      26865      26886       26909
+                26795     26818    26844      26866      26887       26910
+                26796     26819    26846      26867      26888       26911
+                26912     26933    26954      26677
+                26913     26934    26955
+                26914     26935    26956
+                26915     26936    26957
+                26916     26937    26958
+                26917     26938    26959
+                26918     26939    26960
+                26919     26940    26961
+                26920     26941    26962
+                26921     26942    26963
+                26922     26943    26964
+                26923     26944    26965
+                26924     26945    26966
+                26925     26946    26967
+                26926     26947    26968
+
+                                  -10-
+
+                26927     26948    26970
+                26928     26949    26971
+                26929      26950   26990
+                26930      26951   26992
+                26931      26952   27022
+                26932      26953   27023
+                The following additional Model 2000W units were
+                recalled on 2/8/93:
+                4070      23124  4118   23134  4122      23318  4369
+                23354     4392   23391  20577  23450  20612  23471
+                20891     23506  20924  23679  21069  23782  21072
+                23861     21379  24050  21664  24083  22095  24207
+                22314     24602  22390  24678  22648  22749  22784
+                22914     23060;
+                (b) Model 2000W Option H:
+                6084 6565 6721 6781 7032 7036 7110 7312 7316 7615 7616
+                7617 7618 7619 7620 7621 7622 7623 7624 7625 7626 7627
+                7628 7629 7630 7631 7632 7633 7634
+                (c) System 700:  70033  70066  70068  70073  70074.
+MANUFACTURER    EdenTec, A Nellcor Company, Eden Prairie, Minnesota.
+RECALLED BY     Manufacturer, by telephone January 18 and 19, 1993,
+                followed by letters of January 20, 1993, and February
+                8, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION    Nationwide and Germany.
+QUANTITY        378 monitors and 5 recording devices were distributed.
+REASON          The devices fail to alarm (both visually and audibly)
+                during an apnea event due to defective capacitor(s).
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+               
+PRODUCT         Quantum 250 Lightsource, for endoscopic surgery:
+                (a) Product #220-136-000 (120 volt model);
+                (b) Product #220-136-220 (220 volt model).
+                Recall #Z-377/378-3.
+CODE            Serial numbers:  (a) Q891005, Q91201, Q91202, Q91302,
+                Q91204, 90013001Q2, 90013003Q2, 90013004Q2,
+                90013005Q2, 90013006Q2, 90013007Q, 90013008Q,
+                90013010Q, 90013011Q, 90013012Q, 90013013Q, 90013014Q,
+                90013007Q, 90013015Q, 90013016Q, 90013027Q, 90020014Q,
+                90020024Q, 90020034Q, 90020044Q, 90020045Q, 90030014Q,
+                90030024Q, 90030034Q, 90030044Q, 90030054Q, 90030064Q,
+                90030074Q, 90030084Q, 90030094Q, 90030104Q, 90030114Q,
+                90030124Q, 90030134Q, 90030144Q, 90120024Q, 90120034Q,
+                90120044Q, 90120054Q, 90120064Q, 90120074Q, 90120084Q,
+                90120094Q, 90120104Q, 90120114Q, 90120124Q, 90120134Q,
+                90120144Q, 90120154Q, 90120164Q, 90120174Q, 90120184Q,
+                90120194Q, 90120204Q, 91090024Q, 91090034Q, 91090044Q,
+                91090054Q, 91090064Q, 91090014Q, 91090024Q2,
+                91090034Q2, 91090044Q2, 91090012Q, 91100014Q2,
+                91100024Q2, 91100184Q, 91100174Q, 91100164Q,
+                91100154Q, 91100144Q, 91100134Q, 91100124Q,
+
+                                  -11-
+                91100114Q, 91100104Q, 91100094Q, 91100084Q, 91100074Q,
+                91100064Q, 91100054Q, 91100044Q, 91100034Q, 91100024Q,
+                9110014Q.
+                (b) 900900940, 90090104, 9009074, 9009084, 90090054,
+                9009034Q, 900100024, 900100054, 9001300102, 90070014,
+                90070024, 90070034, 90070044, 90070054, 90070064,
+                90070074, 90070084, 90070094, 90070104, 90070114,
+                90070124, 90070134, 90070144, 90070154, 90070164,
+                90070714, 90070184, 90070194, 90070204.
+MANUFACTURER    Stryker Endoscopy, San Jose, California.
+RECALLED BY     Manufacturer, by letter July 3,                      1992.     
+Firm-initiated
+                recall ongoing.
+DISTRIBUTION    Nationwide and international.
+QUANTITY        126 units were distributed.
+REASON          The unit may turn off prematurely due to defective
+                switch, and the light adjustment feature may fail,
+                keeping the light output at a constant level.
+
+               
+PRODUCT         Adult and Child Bageasy Disposable Manual
+                Resuscitators, single use units.  Recall #Z-369/370-3.
+CODE            Lot numbers:  B326, B327, B328, B329, B330.
+MANUFACTURER    Respironics, Inc., Murrysville, Pennsylvania.
+RECALLED BY     Manufacturer, by letter between November 5 and 16,
+                1992.  Firm-initiated recall ongoing.
+DISTRIBUTION    Nationwide and Puerto Rico.
+QUANTITY        2,257 units were distributed.
+REASON          Devices may exhibit higher than normal exhalation
+                resistance characteristics.
+
+               
+PRODUCT         FACS Vantage Cell Sorter.  Recall #Z-371-3.
+CODE            None.
+MANUFACTURER    Becton-Dickinson Immunocytometry Systems, San Jose,
+                California.
+RECALLED BY     Manufacturer.  FDA approved the firm's corrective
+                action plan February 19, 1993.  Firm-initiated field
+                correction ongoing.
+DISTRIBUTION    Nationwide and international.
+QUANTITY        28 units were distributed.
+REASON          Noncompliance with the performance standards for laser
+                products in that in one position of the camera
+                subsystem there was a gap in the protective housing
+                allowing unnecessary human access to laser radiation.
+
+               
+PRODUCT         Cardiotronics Adult Multi-Pad Disposable External
+                Pacing/External Defibrillation/ECG Monitoring
+                Electrodes.  Recall #Z-373-3.
+CODE            Lot numbers (used before date):  November 17, 1993,
+                November 24, 1993, December 08, 1993, December 20,
+
+                          -12-
+                1993, December 27, 1993, January 10, 1994, January 24,
+                1994, January 31, 1994, February 28, 1994.
+MANUFACTURER    Cariotronics, Inc., Carlsbad, California.
+RECALLED BY     Manufacturer, by letters dated August 25, 1992.  Firm-
+                initiated recall ongoing.
+DISTRIBUTION    Nationwide, New Zealand, Canada.
+QUANTITY        Approximately 150 boxes (10 units per box) were
+                distributed; firm estimates 45 boxes remain on the
+                market.
+REASON          A recent modification to the electrode has caused
+                unsuitable electrical characteristics, which may
+                result in the lose of the ECG signal.
+
+               
+PRODUCT         Bovie Specialist Electrosurgery Units.
+                Recall #Z-380-3.
+CODE            CM2001, CM2002, CM2003, CM2004, CM2005, CM2006,
+                CM2007, CM2008, CM2009, CM2010, CM2011, CM2012,
+                CM2013, CM2014, CM2015, CM2016, CM2017, CM2018,
+                CM2019, CM2020, CM2021, CM2022, CM2023, CM2024
+MANUFACTURER    MDT Diagnostic Company, N. Charleston, South Carolina.
+RECALLED BY     Manufacturer, by telephone the first week of June
+                1992.  Firm-initiated recall complete.
+DISTRIBUTION    California, Florida, Illinois, Iowa, Massachusetts,
+                Maryland, North Carolina, Nevada, New York, Tennessee,
+                Texas, Virginia.
+QUANTITY        24 units were distributed.
+REASON          The device may contain an assembled wiring harness
+                which will not allow the circuit to sentry red lamp to
+                go off when the dispersive electrode is properly
+                connected to the unit.
+
+               
+PRODUCT         Remstar Choice Nasal CPAP System, used by sufferers of
+                obstructive sleep apnea, to deliver constant air
+                pressure to the patient through a mask that fits over
+                the nose.  Recall #Z-397-3.
+CODE            Serial number range 97131-97215 and 68161-68233.
+MANUFACTURER    Respironics, Inc., Murrysville, Pennsylvania.
+RECALLED BY     Manufacturer, by letter February 15, 1993.  Firm-
+                initiated recall ongoing.
+DISTRIBUTION    California, Alabama, North Dakota, Oklahoma,
+                Connecticut, Texas, Utah, Michigan, Georgia, Iowa,
+                Missouri, Ohio, Minnesota, Colorado, Idaho, Canada.
+QUANTITY        Undetermined.
+REASON          The units were indirectly exposed to dust generated
+                during construction.
+
+                          -13-
+
+
+MEDICAL DEVICE SAFETY ALERTS:
+               
+PRODUCT         (a) CA 72-4 RIA Test Kits; (b) CA 72-2 RIA Standards,
+                in-vitro diagnostic kits used to aid in the management
+                of patients with diagnosed gastric cancer and other
+                malignancies.  Safety Alert #N-033/034-3.
+CODE            Kit lots which contain an implicated set of standards:
+                10K0011  10K0112   10K0261    10K0481    10K0420
+                10K0012  10K0121   10K0271    10K0491    10K0430
+                10K0021  10K0122   10K0281    10K0501    10K0440
+                10K0022  10K0131   10K0291    10K0511    10K0450
+                10K0031  10K0132   10K0301    10K0521    10K0460
+                10K0032  10K0141   10K0311    10K0531    10K0470
+                10K0041  10K0142   10K0321    10K0541    10K0480
+                10K0042  10K0151   10K0331    10K0551    10K0490
+                10K0051  10K0152   10K0341    10K0561    10K0500
+                10K0061  10K0161   10K0351    10K0571    10K0510
+                10K0062  10K0162   10K0371    10K0581    10K0520
+                10K0071  10K0181   10K0411    10K0591    10K0530
+                10K0072  10K0191   10K0421    10K0601    10K0540
+                10K0082  10K0201   10K0431    10K0621    10K0550
+                10K0091  10K0221   10K0451    10K0631    10K0560
+                10K0092  10K0231   10K0461    10K0641    10K0570
+                10K0102  10K0251   10K0471    10K0651
+                Standard Reagent lots:
+                10H0020   10H0021   10H0020/2  10L0020   10L0020/2
+                10L00210  10S0020   10S0020/1  10S0021   10S0040
+                10S0040/1 14L0030   14S0030.
+MANUFACTURER    Centocor, Inc., Malvern, Pennsylvania
+ALERTED BY      Manufacturer, by letter June 16, 1992.
+DISTRIBUTION    Nationwide and international.
+QUANTITY        Undetermined.
+REASON          The antigen standards used were found to have tested
+                positive for antibodies to HIV.  Users are reminded to
+                adhere to the warning precautions specified in the
+                product labeling.
+
+INJUNCTION:
+               
+PRODUCT         Sandwiches (93-689-981).
+CHARGE          The complaint was filed to enjoin defendants from the
+                preparation and holding for sale of sandwiches after
+                the components of such sandwiches have been shipped in
+                interstate commerce, which preparation and holding
+                resulted in the sandwiches becoming adulterated, in
+                that they contained Listeria monocytogenes, a
+                poisonous or deleterious   substance which may render
+                the food injurious to health, and in that the
+                sandwiches have been prepared, packed or held  under
+                insanitary conditions whereby they may have become
+                contaminated with filth or whereby they may have been
+                rendered injurious to health.
+
+                                 -14-
+DEFENDANTS      Finest Foods, Inc., doing business as Mrs. Drake's
+                Sandwiches, a corporation, and James W. Ganus, James
+                W. Ganus, Jr., Robert W. Ganus, and Ronald P.
+                Blanchard, individuals, New Orleans, Louisiana.
+FILED           March 5, 1993; U.S. District Court for the Eastern
+                District of   Louisiana; Civil #93-0746; INJ 1317.
+
+SEIZURES:
+               
+PRODUCT         Canned fruit cocktail, canned pears, and canned
+                peaches(92-271-336).
+CHARGE          Adulterated - The canned peaches consisted in part of
+                a filthy substance because they contained Geotrichum
+                mold.  Misbranded - All of the articles had product
+                labels that expressed net quantity of contents in
+                terms of fluid measure rather than the required
+                avoirdupois pound and ounce.  In addition, the labels
+                of the canned fruit cocktail and canned pears failed
+                to include the packing medium as part of the name as
+                required; the canned fruit cocktail contained only
+                two of the five ingredients required by the standard;
+                and, the quality of the canned peaches and canned
+                pears fell below identified standards of quality
+                because the peaches contained excess pieces of pit and
+                the pears did not conform to the uniformity of size
+                requirement and neither product bore the required
+                label statement that they fell below the  standards.
+FIRM            Econocaribe Consolidators Warehouse, Miami, Florida.
+FILED           February 15, 1993; U.S. District Court for the
+                Southern District of Florida; Civil #92 2840; FDC
+                #66621.
+SEIZED          February 17, 1993 - goods valued at approximately
+                $9,100.
+
+                          -15-
+
+END OF ENFORCEMENT REPORT FOR MARCH 31, 1993.  BLANK PAGES MAY
+FOLLOW.

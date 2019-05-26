@@ -1,0 +1,387 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      37 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+12/01/1993
+
+Recalls and Field Corrections:  Foods -- Class I -- 12/01/1993
+
+December 1, 1993                                             93-48
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+==========================
+_______________
+PRODUCT        Ready-To-Eat Twin Chili Dogs with Cheese.  Recall #F-105-4.
+CODE           Pull dates of 09/03/93 and 09/14/93.
+MANUFACTURER   The Sandwich Man, Inc., Pearl River, Louisiana.
+RECALLED BY    Manufacturer, by visit on or about September 12, 1993. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Louisiana.
+QUANTITY       35 sandwiches.
+REASON         Product is contaminated with Listeria monocytogenes.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Porcelain Dinnerware in yellow Dynasty Pattern, 5-piece
+               setting (dinner, salad, bread and butter, plates and
+               saucer).  Recall #F-047-4.
+CODE           None.
+MANUFACTURER   Fim Herend China, Hungary.
+RECALLED BY    Martin's Herend Imports, Inc., Sterling, Virginia, by letter
+               May 1993.  Firm-initiated recall complete.
+DISTRIBUTION   New York, Pennsylvania, Massachusetts, California.
+QUANTITY       20 5-piece settings
+REASON         Product contains excessive levels of leachable lead.
+_______________
+PRODUCT        Old Fashioned Corn Muffins produced by J.J. Nissen Baking
+               Company, 18 ounces.  Recall #F-107-4.
+CODE           Last sale dates up to and including NOV 5.
+MANUFACTURER   J.J. Nissen Baking Company, Portland, Maine.
+RECALLED BY    Manufacturer, by telephone October 25, 1993, and by
+               memorandum November 3, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   New York and New England.
+QUANTITY       Approximately 22,000 packages were distributed; firm
+               estimates none remains on the market.
+REASON         Product contained undeclared FD&C; Yellow No. 5.
+
+_______________
+PRODUCT        Diet Nestea Drink, 16 ounces.  Recall #F-108-4.
+CODE           3261CC.
+MANUFACTURER   Coca Cola Bottling Company of Chattanooga, United Packers,
+               Inc., Chattanooga, Tennessee.
+RECALLED BY    Coca Cola/Nestle Refreshments, Tampa, Florida, by electronic
+               mail October 7, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Ohio, Nebraska, Illinois, Indiana, Missouri, Virginia, West
+               Virginia, Arkansas, Florida, Mississippi, North Carolina,
+               Louisiana, Maryland.
+QUANTITY       8700 cases.
+REASON         Product contains undeclared sucrose.
+
+_______________
+PRODUCT        Munchie Bunny, crisp rice and marshmallow bunny-shaped
+               snack.  Recall #F-109-4.
+CODE           All codes.
+MANUFACTURER   Angela Marie's, Kaysville, Utah.
+RECALLED BY    Manufacturer, by telephone May 26-28, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       10,995 cases (1,187,460 bunnies) were distributed.
+REASON         Product contains undeclared FD&C; yellow No. 5.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        Green, in-shell boiled peanuts in hermetically sealed metal
+               cans, 8 ounces, under The Roddenberry's Peanut Patch Green
+               Boiled Peanuts label.  Recall #F-104-4.
+CODE           210R3 over SBPB1 or SBPB2.
+MANUFACTURER   W.B. Roddenberry Company,. Division of Dean Foods, Cairo,
+               Georgia.
+RECALLED BY    Manufacturer, by telephone September 3, 1993.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Alabama, Georgia, Florida.
+QUANTITY       Approximately 1,033 cases (24 cans per case) were
+               distributed.
+
+                                    -2-REASON         Product is contained in cans with defective seams which may
+               result in product spoilage.
+
+
+RECALLS AND FIELD CORRECTIONS:  COSMETICS -- CLASS II
+=====================
+_______________
+PRODUCT        Compact containing 16 shades of powder eyeshadow, labeled
+               JCPenny Signature Collection.  Recall #F-091-4.
+CODE           Lot #3317.
+MANUFACTURER   Chao Ling Chemical Industry Company, Hsinchu, Tawian, R.O.C.
+RECALLED BY    St. John Products Int'l, Livermore, California, by letter
+               August 24, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       24,048 kits.
+REASON         Product is contaminated with Pseudomonas stutzeri.
+
+_______________
+PRODUCT        Aloe Vesta Body Wash & Shampoo, in 4-fluid ounce 8-fluid
+               ounce, 16-fluid ounce 27-fluid ounce, 1-gallon and 4-liter
+               plastic containers.  Recall #F-102-4
+CODE           Lot numbers:  201152, 201425, 201595, 201603, 201632, 201636
+               201774, 201795, 202043, 202198, 202199, 202200, 202348,
+               202357, 202358, 202557, 202659, 203357, 203361, 203379,
+               203381, 203396, 203419, 203422, 203432.
+MANUFACTURER   Calgon Vestal Laboratories, St. Louis, Missouri.
+RECALLED BY    Manufacturer, by telephone and by letters of August 3 and
+               19, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Canada.
+QUANTITY       4,825 cases (72 4-ounce bottles); 5,096 (48 8-ounce
+               bottles); 504 (24 16-ounce bottles); 370 cases (12 27- ounce
+               bottles); 1,426 (6 4-liter bottles); 7,204 cases (4 1-gallon
+               bottles) were distributed.
+REASON         Product is contaminated with Klebsiella oxytoca.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Quickly weight-loss capsules, promoted to enhance weight
+               loss, in single-unit dose packets.  Recall #D-030-4.
+CODE           All lots.
+MANUFACTURER   Neways, Inc., Salem, Utah.
+RECALLED BY    Manufacturer, by letter November 8, 1993.  Firm-initiated
+               recall ongoing.  See also FDA press release P93-41, November
+               12, 1993.
+DISTRIBUTION   Nationwide, Canada, Puerto Rico.
+QUANTITY       4,903 units (20 dose packages per container).
+REASON         Product contains undeclared furosemide (a prescription drug)
+               and was marketed without approval.
+
+
+                                    -3-RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Inocor Lactate Injection (brand of amrinone lactate),
+               Sterile Intravenous Solution 100 mg/20 ml, indicated for the
+               short-term management of congestive heart failure.
+               Recall #D-032-4.
+CODE           Lot numbers:  B989KF, B990KF, B986KE, B987KE, B654KF,
+               B988KF.
+MANUFACTURER   Sterling Pharmaceuticals, Inc., a division of Sanofi
+               Winthrop, Barceloneta, Puerto Rico.
+RECALLED BY    Sanofi Winthrop Pharmaceuticals, New York, New York, by
+               letter November 11, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide, Puerto Rico, India, Argentina.
+QUANTITY       86,734 units were distributed.
+REASON         Package insert contains a typographical error in the dosage
+               and administration section.
+
+_______________
+PRODUCT        Banalg Fast Vanishing Lotion, in 16 fluid ounce bottles,
+               OTC, for the temporary relief of minor aches and pains of
+               muscles and joints.  Recall #D-033-4.
+CODE           Lot #20910.
+MANUFACTURER   Forest Pharmaceuticals, Inc., St. Louis, Missouri.
+RECALLED BY    Manufacturer, by telephone April 30, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       3,860 bottles were distributed.
+REASON         Some bottles do not bear a lot number.
+
+_______________
+PRODUCT        Forest Armour Thyroid (Thyroid Tablets, USP), 2 gr, in 100-
+               tablet bottles, Rx used as replacement or supplemental
+               therapy in patients with hypothyroidism.
+               Recall #D-034-4.
+CODE           FP0050 EXP 2/95.
+MANUFACTURER   Rhone Poulenc Rohrer, Manati, Puerto Rico.
+RECALLED BY    Forest Pharmaceuticals, Inc., St. Louis, Missouri, by letter
+               October 20, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       27,678 bottles were distributed.
+REASON         Some bottles do not bear a lot number and/or expiration
+               date.
+
+_______________
+PRODUCT        G.B.S. Tablets, in 100 and 1,000 tablet bottles, Rx, for use
+               as an adjunct, in the management of certain conditions
+               involving the biliary tract.  Recall #D-035-4.
+CODE           Lot # 11905 EXP 1/94.
+MANUFACTURER   Forest Pharmaceuticals, Inc., Cincinnati, Ohio.
+RECALLED BY    Forest Pharmaceuticals, Inc., St. Louis, Missouri, by
+               telephone August 17, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+
+                                    -4-QUANTITY       394 100-tablet bottles and 89 1000-tablet bottles were
+               distributed.
+REASON         Product failed stability specifications.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-044-4.
+CODE           Unit #FF72345.
+MANUFACTURER   Continental Services Group, Inc., Miami, Florida.
+RECALLED BY    Manufacturer, by letter September 15, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Italy.
+QUANTITY       1 unit.
+REASON         Blood product tested repeatedly reactive for the antibodies
+               to the human immunodeficiency virus types 1 and 2 
+               (anti-HIV-1/2). 
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Kontur 55 Toric Hydrophilic Contact Lens, Daily Wear. 
+               Recall #Z-108-4.
+CODE           Lot #872153 and D102R through D1057.
+MANUFACTURER   Kontur Kontac Lens Company, Inc., Richmond, California.
+RECALLED BY    Manufacturer, by letter September 15, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and Puerto Rico.
+QUANTITY       712 lenses (lot 872153) and 680 lenses (lot D102R through
+               D1057).
+REASON         Eighty-three units were potentially distributed nonsterile.
+
+_______________
+PRODUCT        Intra-Arterial Blood Gas Monitor, Model PB3300, intended for
+               the real time measurement and display of arterial blood gas
+               parameters, as well as calculation and display of calculated
+               parameters.  Recall #Z-113-4.
+CODE           All serial numbers distributed from 9/1/92 through 9/19/93. 
+               These are:  4005 through 4026, 4028 through 4033, 4035
+               through 4055, 4058 through 4110, 4112 through 4365.
+MANUFACTURER   Puritan-Bennett Corporation, Carlsbad, California.
+RECALLED BY    Manufacturer, by telephone September 17, 1993, followed by
+               letter September 20, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       284 units.
+REASON         Defective software.  If the monitor is used in the "user
+               select" or "sensor temp" modes of temperature correction,
+               the monitor incorrectly calculates and displays values for
+               base excess, bicarbonate, oxygen saturation, and total C02.
+
+                                    -5-_______________
+PRODUCT        Storz brand Occucoat, a viscoelastic solution used in
+               ophthalmic surgery.  Recall #Z-118-4.
+CODE           Batch number 221.
+MANUFACTURER   Storz Ophthalmics, Clearwater, Florida.
+RECALLED BY    Manufacturer, by letters of August 30, 1993 and September
+               27, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Puerto Rico, Germany, Venezuela, Chile.
+QUANTITY       3,885 units.
+REASON         Product was potentially distributed nonsterile.
+
+
+CRIMINAL INFORMATION
+======================================================
+_______________
+AGAINST        Barry David Garfinkel, Child Psychiatrist and Clinical
+               Investigator, University of Minnesota, who headed a study of
+               the drug, Anafranil, manufactured by Ciba-Geigy. 
+CHARGES        Dr. Garfinkel was convicted of two counts of mail fraud (18
+               U.S.C. 1341) and 3 counts of making false statements (18
+               U.S.C. 1001).  He was sentenced to six months imprisonment,
+               followed by six months home detention, and three years
+               probation.  Dr. Garfinkel was fined $25,000 ($5,000 for each
+               conviction) and $250 (special assessment due immediately). 
+               He was ordered to make restitution to Ciba-Geigy in the
+               amount of $170,394.  To pay for his incarceration Dr.
+               Garfinkel was ordered to pay $1,000 for each month of 
+               incarceration, and $180 a month for the three years
+               probation.  Dr. Garfinkel was further ordered to perform 400
+               hours of community service.  
+FILED          November 19, 1993 - Sentencing; U.S. District Court for the
+               District of Minnesota, Fourth Division; Case No. 4-93-34; 
+               FDC #66144.
+
+                                    -6-
+
+END OF ENFORCEMENT REPORT FOR DECEMBER 1, 1993.  BLANK PAGES MAY
+FOLLOW.
+                                   ####

@@ -1,0 +1,515 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Apr
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      30 captures
+	      25 Feb 1997 - 03 Mar 2016
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+06/16/1993
+
+Recalls and Field Corrections:  Foods -- Class II -- 06/16/1993
+
+June 16, 1993                                            93-24
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+========================
+______________
+PRODUCT         Solo Banana Soda, in 12 ounce glass bottles.
+                Recall #F-450-3.
+CODE            All lots.
+MANUFACTURER    Brooklyn Bottling Corporation, Brooklyn, New York.
+RECALLED BY     Manufacturer, by letter on or about April 26, 1993.  Firm-
+                initiated recall ongoing.
+DISTRIBUTION    New York. 
+QUANTITY        636 cases were distributed.
+REASON          Product contains undeclared FD&C; Yellow No. 5.
+
+_______________
+PRODUCT         Heart Smart Non-Dairy Creamer, in 12 ounce cardboard
+                containers.  Recall #F-451-3.
+CODE            All lots.
+MANUFACTURER    Mark Lynn Industries, Inc., Bremen, Georgia.
+RECALLED BY     Manufacturer, by visit March 17, 1993.  Firm-initiated
+                recall complete.
+DISTRIBUTION    South Carolina.
+QUANTITY        423 cases (24 canisters per case) were distributed.
+REASON          Product is was contaminated with metal shavings.
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+=======================
+_______________
+PRODUCT         Leather Jacket Fillets, frozen, packed in bulk cartons of
+                15kg (33 pounds) per carton.  Recall #F-449-3.
+CODE            None.
+MANUFACTURER    Allied Hock Bee (Canada) Ltd., Ontario, Canada (importer).
+RECALLED BY     Giant Food Stores, Inc., Carlisle, Pennsylvania, by
+                electronic mail May 7, 1993.  Firm-initiated recall
+                complete.
+DISTRIBUTION    Pennsylvania. 
+QUANTITY        3,201 pounds were distributed.
+REASON          Product is decomposed.
+
+_______________
+PRODUCT         Olive Oils, various types and brands including:
+                1.  Rubino Extra Virgin, 1 gallon can
+                2.  Rubino 100% Pure, 1 gallon can
+                3.  Rubino Pomace, 1 gallon can
+                4.  Rubino Pomace 190 kg. drum
+                5.  Rubino 25% Olive Oil & Canola Blend, 1 gallon jug
+                6.  Rubino 10% Olive Oil & Canola Blend, 1 gallon jug
+                7.  Rubino 50% Olive Oil & Canola Blend, 1 gallon jug
+                8.  Regale Extra Virgin, 1 gallon can
+                9.  Regale 100% Pure, 1 gallon can
+                10. Regale Pomace, 1 gallon can.  Recall #F-452/461-3.
+CODE            None. 
+MANUFACTURER    Rubino U.S.A. Inc., Cincinnati, Ohio. 
+RECALLED BY     Manufacturer, by letter April 23, 1993.  Firm-initiated
+                recall ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        Approximate amounts distributed are as follows:
+                (1) 18,276 cans; (2) 35,701 cans; (3) 132,787 cans;
+                (4) 398 drums; (5) 20,974 jugs; (6) 393 jugs; 
+                (7) 320 jugs; (8) 2,000 cans; (9) 3,800 cans; 
+                (10) 14,00 cans.
+REASON          Canola Oil has been substituted for Olive Oil in part
+                and/or a lower grade of Olive Oil was substituted for a
+                higher grade of Olive Oil.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+========================
+_______________
+PRODUCT         Peritrate SA (Pentaerythritol Tetranitrate) Sustained
+                Action Tablets, in bottles of 100, indicated for the relief
+                of angina pectoris.  Recall #D-278-3.
+CODE            All lots within expiration date.
+MANUFACTURER    Warner Lambert, Inc., Vega Baja, Puerto Rico.
+RECALLED BY     Parke-Davis, Division of Warner Lambert Company, Morris
+                Plain, New Jersey, by letter on or about June 1, 1993. 
+                Firm-initiated recall ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        253,550 units were distributed.
+REASON          Dissolution specification not assured through expiration
+                date.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+=======================
+_______________
+PRODUCT         Mallinckrodt Medical Technescan DTPA Kit, for the
+                preparation of Technetium TC 99m Penetate, packaged in 5
+                vial kits and 30 vial kits.  Recall #D-274-3.
+CODE            Lot #2272 EXP 8/95.
+MANUFACTURER    CIS-US, Inc., Bedford, Massachusetts.
+RECALLED BY     Manufacturer, by letters of May 11 and 14, 1993.  Firm-
+                initiated recall ongoing.
+DISTRIBUTION    Nationwide, Panama, Mexico, Jamaica, Phillipines.
+QUANTITY        402 5-packs and 254 30-packs were distributed.
+REASON          Expiration date is August 1994 instead of declared August
+                1995.
+
+_______________
+PRODUCT         Equagesic Tablets (Meprobamate with Aspirin), in bottles of
+                100, used for the treatment of pain in patients with
+                musculoskeletal disease.  Recall #D-275-3.
+CODE            Lot #9920691.
+MANUFACTURER    Wyeth-Ayerst Laboratories, St. Davids, Pennsylvania.
+RECALLED BY     Manufacturer, by letter May 24, 1993.  Firm-initiated
+                recall ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        6,978 bottles were distributed.
+REASON          Some tablets contain only the meprobamate component.
+
+
+_______________
+PRODUCT         First Aid Spray, in 5 ounce spray container, under Pathmark
+                and Shoprite labels.  Recall #D-276-3.
+CODE            Lot #2197 (produced by Bissell).  Pathmark brand code:
+                JUL 1594 EXP 10/94; Shop Rite brand code:  2197 EXP 10/94.
+MANUFACTURER    Bissell, Inc., Barcolene Division, doing business as Penn
+                Champ, East Butler, Pennsylvania.
+RECALLED BY     Manufacturer, by telephone and by letters dated May 21 and
+                24, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION    The east coast.
+QUANTITY        Undetermined.
+REASON          The pyrilamine maleate ingredient is subpotent.
+
+_______________
+PRODUCT         Lidocaine HCl Oral Topical Solution, USP, 2% (viscous), an
+                Rx topical anesthesia for use on irritated mucous membranes
+                of the mouth and pharynx, in 20 ml (PBI label only) and 100
+                ml bottles under the following labels:  PBI, GG (Geneva),
+                Goldline, Rugby, Qualitest, Major.  Recall #D-277-3.
+CODE            Lot #19165 EXP 10/31/94 (100 ml) and 10/31/93 (20 ml).
+MANUFACTURER    Pharmaceutical Basics, Inc., Morton Grove, Illinois.
+
+RECALLED BY     Pennex Pharmaceuticals, Inc., Morton Grove, Illinois, by
+                letter June 4, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION    Nationwide.
+QUANTITY        3,392 20-ml bottles and 86,979 100-ml bottles were
+                distributed.
+REASON          Superpotent.
+
+_______________
+PRODUCT         CO-57 Schilling Test Kit, for oral administration, Rx used
+                for the diagnosis of addisonian (pernicious) anemia and as
+                a diagnostic adjunct in other defects of intestinal
+                absorption.  Recall #D-279-3.
+CODE            Lot #4023002 EXP 9/4/93.
+MANUFACTURER    Mallinckrodt Medical, Inc., Maryland Heights, Missouri.
+RECALLED BY     Manufacturer, by telephone May 20-21, 1993.  Firm-initiated
+                field correction ongoing.
+DISTRIBUTION    New York, Tennessee, California, Buenos Aires.
+QUANTITY        52 kits were distributed.
+REASON          Vials containing the intrinsic factor capsules are labeled
+                with an expiration date of Sept 4, 1993 instead of July 21,
+                1993.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+====================
+_______________
+PRODUCT         (a) Red Blood Cells; (b) Platelets, expired.
+                Recall #B-278/279-3.
+CODE            Unit #10196-6991.
+MANUFACTURER    United Blood Services Blood Systems, Inc., Scottsdale,
+                Arizona.
+RECALLED BY     Manufacturer, by letters dated March 31, 1992, and November
+                3, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION    Arizona, Massachusetts.
+QUANTITY        1 unit of each component.
+REASON          Blood products, which tested repeatedly reactive for the
+                antibody to the hepatitis C virus encoded antigen (anti-
+                HCV), were distributed.
+
+_______________
+PRODUCT         Platelets.  Recall #B-281-3.
+CODE            Unit #Q60973.
+MANUFACTURER    Central Blood Bank, Pittsburgh, Pennsylvania.
+RECALLED BY     Manufacturer, by telephone September 30, 1992.  Firm-
+                initiated recall complete.
+DISTRIBUTION    Pennsylvania.
+QUANTITY        1 unit.
+REASON          Blood product, which tested negative for syphilis, but was
+                collected from a donor who less than 12 months previous
+                tested confirmed positive syphilis, was distributed.
+
+_______________
+PRODUCT         (a) Whole Blood; (b) Red Blood Cells; (c) Platelets;
+                (d) Platelets Pooled, .
+                Recall #B-286/289-3.
+CODE            Unit numbers:  (a) 60K35644; (b) 60E07079, 60E11344,
+                60G37719, 60H60478, 60H81322, 60J10071; (c) 60E11344,
+                60G37719; (d) 60N05249, 60M95271. 
+MANUFACTURER    American Red Cross Blood Services, Miami, Florida.
+RECALLED BY     Manufacturer, by letter September 9, 1991.  Firm-initiated
+                recall complete.
+DISTRIBUTION    Florida.
+QUANTITY        (a) 1 unit; (b) 6 units; (c) 2 units; (d) 2 units.
+REASON          Blood products which were maintained at improper
+                temperatures during shipment; collected from an ineligible
+                donor who traveled to an endemic area for malaria; or
+                labeled with the incorrect expiration date were
+                distributed.
+
+_______________
+PRODUCT         Red Blood Cells.  Recall #B-292-3.
+CODE            Unit numbers:  T58753, T58754.
+MANUFACTURER    Topeka Blood Bank, Inc., Topeka, Kansas.
+RECALLED BY     Manufacturer, by telephone October 19, 1992.  Firm-
+                initiated recall complete.
+DISTRIBUTION    Kansas.
+QUANTITY        2 units.
+REASON          Blood products, which were glycerolized in preparation for
+                freezing but were not frozen within 18 hours, were
+                distributed for freezing and subsequent transfusion.
+
+_______________
+PRODUCT         Recovered Plasma.  Recall #B-293-3.
+CODE            Unit numbers:  6, 19 21, 22, 23, 234, 25, 26, 28.
+MANUFACTURER    Community Hospital of Lancaster, Lancasater, Pennsylvania.
+RECALLED BY     Manufacturer, by letter December 22, 1992.  Firm-initiated
+                recall ongoing.
+DISTRIBUTION    Pennsylvania.
+QUANTITY        9 units.
+REASON          Blood products, untested for syphilis, were distributed.
+
+_______________
+PRODUCT         (a) Red Blood Cells; (b) Plasma.  Recall #B-294/295-3.
+CODE            Unit numbers:  (a) 53T97031; (b) 53FL13851.
+MANUFACTURER    American Red Cross Blood Services, Baltimore, Maryland.
+RECALLED BY     Manufacturer, by telephone January 21, 1993, followed by
+                letter March 22, 1993.  Firm-initiated recall complete.
+DISTRIBUTION    Washington, D.C., Maryland.
+QUANTITY        1 unit of each component.
+REASON          Blood products, corresponding to units of Platelets which
+                were implicated in a case of post-transfusion septicemia
+                with group B Streptococcus sp., were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+===================
+_______________
+PRODUCT         Red Blood Cells.  Recall #B-280-3.
+CODE            Unit #T62174.
+MANUFACTURER    Topeka Blood Bank, Inc., Topeka, Kansas.
+RECALLED BY     Consignee notified firm February 26, 1993.  Firm-initiated
+                recall complete.
+DISTRIBUTION    Kansas.
+QUANTITY        1 unit.
+REASON          Blood product which was labeled with an incorrect
+                expiration date was distributed.
+
+_______________
+PRODUCT         Red Blood Cells.  Recall #B-285-3.
+CODE            Unit numbers:  10190-2752, 10190-5783, 10190-5790,
+                10190-6904, 10190-7375, 10190-7378, 10190-8274.
+MANUFACTURER    United Blood Services Blood Systems, Inc., Scottsdale,
+                Arizona.
+RECALLED BY     Manufacturer, October 24, 1991.  Firm-initiated recall
+                complete.
+DISTRIBUTION    Arizona.
+QUANTITY        7 units.
+REASON          Blood products, which were incorrectly tested for the
+                antibody to the hepatitis C virus encoded antigen (anti-
+                HCV), were distributed.
+
+_______________
+PRODUCT         Red Blood Cells.  Recall #B-290-3.
+CODE            Unit #60W71103.
+MANUFACTURER    American Red Cross Blood Services, Miami, Florida.
+RECALLED BY     Manufacturer, by letter September 9, 1991, and by telephone
+                March 5, 1992.  Firm-initiated recall complete.
+DISTRIBUTION    Florida.
+QUANTITY        1 unit.
+REASON          Blood product was labeled with the incorrect expiration
+                date and was distributed.
+
+_______________
+PRODUCT         Recovered Plasma.  Recall #B-291-3.
+CODE            Unit #12071-1817.
+MANUFACTURER    United Blood Services Blood Systems, Inc., Albuquerque, New
+                Mexico.
+RECALLED BY     United Blood Services Blood Systems, Inc., Scottsdale,
+                Arizona, by letter November 5, 1990.  Firm-initiated recall
+                complete.
+DISTRIBUTION    Switzerland.
+QUANTITY        1 unit.
+REASON          Blood product, corresponding to a unit of Red Blood Cells
+                which was implicated in a case of post transfusion Yersinia
+                Enterocolitica infection, was distributed.
+
+_______________
+PRODUCT         Recovered Plasma.  Recall #B-296-3.
+CODE            Unit numbers:  53H92012 and 53H92014.
+MANUFACTURER    American Red Cross Blood Services, Baltimore, Maryland.
+RECALLED BY     Manufacturer, by fax January 27, 1993.  Firm-initiated
+                recall complete.
+DISTRIBUTION    California.
+QUANTITY        2 units.
+REASON          Blood products, corresponding to units of Platelets which
+                were implicated in a case of post-transfusion spepticemia
+                with group B Streptococcus sp., were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+======================
+_______________
+PRODUCT         20.5 Diopter, Posterior Chamber Silicone Intraocular Lens
+                with UV Absorber, Model SI30NB.  Recall #Z-549-3.
+CODE            Lots 47891 - 49012.
+MANUFACTURER    Allergan Medical Optics, Anasco, Puerto Rico.
+RECALLED BY     Allergan Medical Optics, Irvine, California, by telephone
+                March 23, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION    Florida, Georgia, Kansas, Massachusetts, New Jersey, Ohio,
+                Texas, Iowa, California, Connecticut, Louisiana, New York,
+                Washington state.
+QUANTITY        32 units were distributed.
+REASON          Product was distributed without PMA approval for the Puerto
+                Rico manufacturing location.
+
+
+MEDICAL DEVICE SAFETY ALERTS:
+============================================
+_______________
+PRODUCT         Ventak Automatic Implantable Cardioverter-Defibrillators. 
+                Safety Alert #N-013-3.
+CODE            All serial numbers of the 1500 and 1600 series.
+MANUFACTURER    Cardiac Pacemakers, Inc., St. Paul, Minnesota.
+ALERTED BY      Manufacturer, by letter November 30, 1992.
+DISTRIBUTION    Nationwide and international.
+QUANTITY        20,000 units were distributed.
+REASON          On November 30, 1992, the firm notified physicians and
+                users of the need to avoid static magnetic fields in the
+                vicinity of these devices since these fields are capable of
+                inactivating the device.
+
+CRIMINAL INDICTMENT:
+=====================================================
+______________
+AGAINST:       Peninsular Products Company; Flavor Fresh Foods Corporation;
+               Edward B. Crouse; William B. Laviolette; George R. "Pete"
+               Reynolds; Saad Alhir; James R. Marshall; James E. Benton;
+               and Friedrich R. "Fred" Kohlbach; of Chicago, Illinois,
+               Lansing, Michigan, and the Republic of Germany.  (United
+               States v. Flavor Fresh Foods Corp., et al.)
+CHARGES        In a 33-count Indictment the defendants were charged with 
+               having conspired to violate the Federal Food, Drug, and
+               Cosmetic Act, having conspired to defraud the United States
+               by obstructing and impeding by trickery and deceit the Food
+               and Drug Administration of its functions of monitoring and
+               controlling the manufacture and sale of orange juice from
+               concentrate and concentrated orange juice for manufacturing,
+               with specific acts of adulteration and misbranding of food
+               products, and with violation of mail and wire fraud
+               statutes, in the use of the United States mails and wires to
+               perpetuate a scheme to defraud consumers of juice products. 
+               In an Order for Dismissal dated March 30, 1993, the
+               Indictment was dismissed against the Defendant Peninsular
+               Products Co. because investigation by the United States has
+               determined that Peninsular has sold virtually all of its
+               assets including:  trademarks, goodwill, customers, plant
+               and equipment.  
+FILED          February 18, 1993 - Indictment; March 30, 1993 - Order for 
+               Dismissal of Indictment against Defendant Peninsular
+               Products Co., Criminal #1:93:M:21; U.S. District Court for
+               the Western District of Michigan, Southern Division; FDC
+               #66106.
+
+
+CRIMINAL INFORMATION:
+====================================================
+_______________
+DEFENDANT      Duramed Pharmaceuticals, Inc., Cincinnati, Ohio.
+INFORMATION    Duramed pled guilty to two misdemeanor counts of shipping an
+               unapproved new drug and one misdemeanor count of shipping an
+               adulterated drug in interstate commerce.  The three counts
+               relate to abbreviated new drug applications filed with FDA
+               in mid-1986 for Prochlorperazine Maleate 10 mg Tablets and
+               Propranolol HCl/Hydrochlorothiazide 80/25 mg Tablets.  As
+               part of the plea Duramed agreed to pay a $500,000 fine over
+               a three year period and signed a Consent Decree of Permanent
+               Injunction.  Under the Consent Decree, the firm agreed not
+               to violate certain applicable laws, to continue to cooperate
+               with any further government investigation and to cooperate
+               with FDA during future inspections of the firm's facilities
+               or products.
+
+FILED         Information - May 11, 1993; Plea Agreement - May 24, 1993; 
+               Criminal #HAR-93-0207, FDC #66101; May 24, 1993 - Consent
+               Decree of Permanent Injunction, Civil #HAR93-1515, INJ 1328;
+               U.S. District Court for the District of Maryland. 
+
+SEIZURE:
+=================================================================
+______________
+Product        Prostazinc tablets (93-556-601).
+CHARGES        New drug - The article is an unapproved new drug.  
+               Misbranded - The article's labeling is false and misleading,
+               fails to contain all required words, statements, and other
+               information, and fails to bear adequate directions for use.
+FIRM           Food Health Services & Ideas, Miami, Florida.
+FILED          March 23, 1993; U.S. District Court for the Southern
+               District of Florida; Civ. #93-0521-CIV-ATKINS; FDC #66656.
+SEIZED         March 24, 1993 - goods valued at approximately $50,000.
+
+END OF ENFORCEMENT REPORT FOR JUNE 16, 1993.  BLANK PAGES MAY FOLLOW.
+                                   ####

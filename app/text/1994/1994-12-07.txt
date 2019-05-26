@@ -1,0 +1,420 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Feb
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  18
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      26 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+12/07/1994
+
+Recalls and Field Corrections:  Foods -- Class I -- 12/07/1994
+
+December 7, 1994                                               94-49
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+==========================
+_______________
+PRODUCT        Rainier Farms brand Oat Bran Bread in 24 ounce plastic bags. 
+               Recall #F-124-5.
+CODE           All codes manufactured prior to 9/24/94.
+MANUFACTURER   Snyder's Bakery, Inc., Spokane, Washington.
+RECALLED BY    United States Bakery, Inc., Portland, Oregon, by notices and
+               by press release hand delivered on September 24, 1994. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Washington State.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Product contains undeclared hazelnuts.
+
+_______________
+PRODUCT        Cold Smoked Salmon Fillets, vacuum packed, 1 per package.
+               Recall #F-125-5.
+CODE           0405 printed on label.
+MANUFACTURER   Sotra Smoked Fish, U.S.A., Inc., Kingston, New York.
+RECALLED BY    Manufacturer, by telephone of August 19 and 26, 1994,
+               followed by letter.  Firm-initiated recall complete.
+DISTRIBUTION   New York.
+QUANTITY       165 pounds were distributed; firm estimates none remains on
+               the market.
+REASON         Product is contaminated with Listeria monocytogenes.
+
+_______________
+PRODUCT        Smoked Atlantic Salmon, sliced sides in various weights. 
+               Recall #F-126-5.
+CODE           Batch I.D. 873094, Sell by date 091694, Manufacturing lot
+               0000007.
+MANUFACTURER   Spence & Company, Ltd., South Easton, Massachusetts.
+RECALLED BY    Manufacturer, by telephone September 26, 1994, followed by
+               letter.  Firm-initiated recall complete.
+DISTRIBUTION   Massachusetts.
+QUANTITY       6 cases, approximately 50 pounds, were distributed.
+REASON         Product is contaminated with Listeria monocytogenes.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Various flavored ice cream and sherbet, in 3 gallon bulk
+               containers: (a) Mint Chocolate Chip Ice Cream;
+               (b) Pistachio Almondine Ice Cream;
+               (c) Lime Sherbet; (d) Rainbow Sherbet.  Recall #F-106/109-5.
+CODE           All codes manufactured in the past 6 months.
+MANUFACTURER   Kemp's Foods, Inc., Lancaster, Pennsylvania.
+RECALLED BY    Manufacturer, by letter September 2, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Pennsylvania, New Jersey, Delaware, New York, Maryland,
+               Virginia, Connecticut.
+QUANTITY       Firm estimates very little if any product remains on the
+               market.
+REASON         Product contains undeclared FD&C; Yellow No. 5.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        Calcium Tablets, 600 mg, in bottles of 500, under the
+               Bradlees and FEDCO labels.  Recall #F-028-5. 
+CODE           Lot numbers:  104258 EXP 5/96 (Bradlees), 014102 EXP 5/96
+               (FEDCO).
+MANUFACTURER   Hall Laboratories, Inc., Portland, Oregon.
+RECALLED BY    Manufacturer, by letter September 28, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   California, Massachusetts, Maine, New Hampshire, New Jersey,
+               Pennsylvania, New York, Connecticut.
+QUANTITY       684 bottles of the Bradlees brand and 598 bottles of FEDCO
+               brand were distributed.
+REASON         Bottles contain niacin tablets mixed in with the calcium
+               tablets.
+
+_______________
+PRODUCT        Ice Cream, yogurt, and sherbet in 3 gallon bulk containers:
+               (a) Lime Sherbet; (b) Cherry Vanilla Ice Cream;
+               (c) Strawberry Ice Cream; (d) Rainbow Ice Cream;
+               (e) Strawberry Fountain Ice Cream;
+               (f) Black Raspberry Ice Cream;
+
+                                    -2-               (g) Strawberry Cheesecake Ice Cream;
+               (h) Black Cherry Ice Cream; (i) Red Raspberry Sherbet;
+               (j) Strawberry Frozen Yogurt; (k) Raspberry Frozen Yogurt;
+               (l) Black Cherry Yogurt; 
+               (m) Strawberry Banana Frozen Yogurt;
+               (n) Nonfat Strawberry Yogurt.  Recall #F-110/123-5.
+CODE           All codes manufactured in the past 6 months.
+MANUFACTURER   Kemp's Foods, Inc., Lancaster, Pennsylvania.
+RECALLED BY    Manufacturer, by letter September 2, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Pennsylvania, New Jersey, Delaware, New York, Maryland,
+               Virginia, Connecticut.
+QUANTITY       Firm estimates that very little if any product remains on
+               the market.
+REASON         Product contains undeclared food colors:  Blue #1 and 
+               Red #40.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        Source Plasma.  Recall #B-099-5.
+CODE           Unit #PG46047.
+MANUFACTURER   Immuno-U.S., Inc., Columbus, Georgia.
+RECALLED BY    Community Bio Resources, Inc., Birmingham, Alabama, by
+               letter January 17, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Austria.
+QUANTITY       1 unit.
+REASON         Blood products, which tested non-reactive for hepatitis B
+               surface antigen (HBsAg), but were collected from a donor who
+               previously tested repeatedly reactive for HBsAg, were
+               distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        (a) Whole Blood Cells; (b) Red Blood Cells; (c) Platelets;
+               (d) Platelets, Pheresis.  Recall #B-100/103-5.
+CODE           Unit numbers:  (a) R24442, R26502; 
+               (b) R19134, R19389, R19406, R19409, R19411, R22333, R22334,
+               R22343, R22346, R22348, R22350, R22656, R22663, R22690,
+               R25130, R25132, R25138, R25139, R25140, R25150, R25152,
+               R25157, R25163, R25164, R25168, R25177, R25194, R28740,
+               R28742, R28885, R29843, R29925, R31589, R32241, R32251,
+               R32259, R32263, R32287, R32290, R32295, R32307, R32308,
+               R32678, R32696, R32705, R32717, R32719, R32725, R32726,
+               R32729, R32733, R32735, R32736, R33380, R34016, R34041,
+               R34142, R34153, R34683, R34696, R34735, R35022, R35094,
+               R35096, R35105, R35106, R35541;
+
+                                    -3-               (c) R28736, R31589, R32290, R32293
+               R32308, R33380, R33701, R33708, R34016, R34044,
+               R34050, R34454, R34455, R34457, R34459, R34467,
+               R34504, R34509, R34510, R34511, 534519, R34521,
+               R34522, R34543, R34546, R34553, R34570, R34671,
+               R34683, R34684, R34694, R34953, R35053, R35071,
+               R35102, R35104, R35105, R35107, R35108, R35111,
+               R35113, R35288, R35538; (d) R35132.
+MANUFACTURER   Aurora Area Blood Bank, Aurora, Illinois.
+RECALLED BY    Manufacturer, by telephone September 25, 1994, followed by
+               letter September 28, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Illinois, Indiana.
+QUANTITY       (a) 2 units; (b) 67 units; (c) 43 units; (d) 1 unit.
+REASON         Blood products incorrectly tested for syphilis were
+               distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        BrandtScan 900S, Model 3151, high speed barcode scanner. 
+               Recall #Z-151-5.
+CODE           Model #3151.
+Manufacturer   Brandt, Inc., Bensalem, Pennsylvania.
+RECALLED BY    Manufacturer.  FDA approved the firm's corrective action
+               plan October 7, 1994.  Firm-initiated field correction
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       11 units were distributed
+REASON         Product failed to comply with the Federal laser product
+               performance standard in that it did not incorporate an
+               interlock and failed to display all the required labeling.
+
+_______________
+PRODUCT        Blood Cardioplegia Delivery Sets, indicated for mixing
+               cooling, and warming of oxygenated blood/cardioplegic
+               solution and delivering it to the patient:
+               (a) Model BCD ADV1, individually packaged in trays, 6 per
+               carton; 
+               (b) Model BCD ADV4, individually packaged in trays, 6 per
+               carton;
+               (c) Model BCD ADV C (with shunt), individually packaged in
+               trays, 6 per carton;
+               (d) Model D721 (BCD ADV 1 labeled for Dideco Italy),
+               individually packaged in trays, 6 per carton;
+               (e) Model D724 (BCD ADV 4 labeled for Dideco, Italy),
+               individually packaged in trays, 6 per carton;
+               (f) Model Mono 4116 (kit with BCD ADV 1 and other devices);
+               (g) Model Mono 3744 (kit with BCD ADV 1 and other devices);
+               (h) Model SCPS 3898 (kit with BCD ADV 1 and other devices).
+               Recall #Z-152/159-5.
+
+                                    -4-CODE           Lot numbers:  (a) 9400234500; (b) 9400246200; 
+               (c) 9400229500; (d) 9400247100; (e) 9400226600, 9400226700;
+               (f) 9400273600; (g) 9400271200; (h) 9400256500.
+MANUFACTURER   Halkey Roberts Corporation, St. Petersburg, Florida.
+RECALLED BY    Sorin Biomedical, Inc., Irvine, California, by letter
+               October 11, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Alabama, California, Florida, Georgia, Louisiana, Michigan,
+               North Carolina, Pennsylvania, Tennessee, Texas, Washington
+               State, West Virginia, Canada, Italy, Japan, The Netherlands.
+QUANTITY       3,284 units were distributed; firm estimated that 2,000
+               units remained on market on 10/14/94.
+REASON         Due to a defective clamp on the crystalloid line, leakage
+               may occur, resulting in a variation of infused potassium
+               concentration in the crystalloid solution.
+
+_______________
+PRODUCT        Abbott RV Pacing Lead, heparin coated transluminal RV pacing
+               lead for temporary ventricular pacing only.  
+               Recall #Z-160-5.
+CODE           All lots up to and including 89-391-TS.
+MANUFACTURER   Abbott Laboratories, Mountain View, California.
+RECALLED BY    Abbott Laboratories, Abbott Park, Illinois, by telephone
+               October 18, 1994, followed by letter October 19, 1994. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Taiwan, Switzerland, Argentina, Spain, The
+               Netherlands, Canada, Japan, Italy, Puerto Rico.
+QUANTITY       Approximately 5,000 to 6,000 leads were distributed; firm
+               estimated that 600 leads remained on the market the time the
+               recall was initiated.
+REASON         There is a potential for the tip of the pacing lead to break
+               off and remain in the patient.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Lipase Test Reagent C 091-0192, Model P1 used with the Model
+               No. 91 Amylase-Lipase Analysis System, for in-vitro
+               diagnostic use only.  Recall #Z-101-5.
+CODE           Lot numbers 880218 and 880517.
+MANUFACTURER   Electro-Nucleonics, Inc., Cranbury, New Jersey.
+RECALLED BY    Bacharach, Inc., Pittsburgh, Pennsylvania, by letter July 9,
+               1990.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,089 units were distributed; firm estimates none remains on
+               the market.
+REASON         The reagents when used with the Model 91 Amylase-Lipase
+               analyzer were out of range after calibration.
+
+_______________
+PRODUCT        Difco DuraPak Media Chocolate Agar, a media plate used for
+               isolating and cultivating fastidious microorganisms.  
+               Recall #Z-102-5.
+
+                                    -5-CODE           Product #4140-22-7, Lot numbers:  17268, 18392, 23715,
+               24600, 25903.
+MANUFACTURER   Difco Laboratories, Sun Prairie, Wisconsin.
+RECALLED BY    Difco Laboratories, Livonia, Michigan, by letters of March
+               5, 1993, and July 7, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide, Switzerland, Italy, Spain, France, Uruguay,
+               Portugal, Finland, Belgium.
+QUANTITY       Firm estimates none remains on the market.  All lots of the
+               product have been expired since October 1993. 
+REASON         The plates were failing to grow Hemophilus microorganisms
+               when tested after storage for 2 to 4 months at room
+               temperature.
+
+_______________
+PRODUCT        Epstein-Barr Virus IgM Elisa Test.  Recall #Z-149-5.
+CODE           Kit product #EBE150-E; Kit lot #3LLAYE; Negative control
+               (component) lot #3EEAAQ.
+MANUFACTURER   Gull Laboratories, Inc., Salt Lake City, Utah.
+RECALLED BY    Manufacturer, by telephone and by fax on or about February
+               10, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   California, Illinois, Massachusetts, Maryland, Michigan,
+               Mississippi, Virginia, Austria, Singapore, South Africa,
+               Italy, Switzerland, Uruguay.
+QUANTITY       105 units were distributed; firm estimates none remains on
+               the market.
+REASON         The Negative Control component of the subject device did not
+               meet the specification of s0.5 times the mean (average)
+               absorbance value of the reference serum (low positive
+               control).
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS II
+===========
+_______________
+PRODUCT        Listeria Selective Supplement (MOX), a freeze dried
+               selective supplement for the isolation of Listeria
+               monocytogenes.  Recall #V-002-5.
+CODE           Catalog #SR157E, lot #95927 EXP 11/95.
+MANUFACTURER   Unipath Ltd., (under the Oxoid logo), Basingstoke,
+               Hampshire, England.
+RECALLED BY    Unipath Division of UL Canada, Inc., Ogdensburg, New York,
+               by telephone August 9-26, 1994, and by letter dated August
+               31, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Washington, D.C., Tennessee, Georgia, Michigan, New Jersey,
+               Kansas.
+QUANTITY       19 boxes (10 vials per box) were distributed.
+REASON         Failure of test kit to detect Listeria.
+
+
+                                    -6-RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS III
+==========
+_______________
+PRODUCT        Aureozol (chlortetracycline, sulfathiazole and penicillin)
+               Category II Type A Medicated article, in 50 pound bags,
+               antibacterial premix for swine feeds.  Recall #V-003-5.
+CODE           All lots.
+
+MANUFACTURER   American Cyanamid Company, Wayne, New Jersey.
+RECALLED BY    Farmland Industries,Inc., Eagle Grove, Iowa, by letter July
+               29, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Nebraska.
+QUANTITY       80 50-pound bags were distributed.
+REASON         Product shipped to firms not holding approved FDA 1900.
+
+                                    -7-
+
+
+END OF ENFORCEMENT REPORT FOR DECEMBER 7, 1994.  BLANK PAGES MAY
+FOLLOW.
+
+                                   ####

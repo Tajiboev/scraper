@@ -1,0 +1,750 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      32 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+06/22/1994
+
+Recalls and Field Corrections:  Foods -- Class II -- 06/22/1994
+
+June 22, 1994                                                   94-25
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Vallone's Assorted Butter Style Cookies, in 1 pound, 2
+               pound, and 5 pound boxes.  Recall #F-421-4.
+CODE           Products with expiration dates from 12/93 through 5/94.
+MANUFACTURER   Vallone's, Inc., Carteret, New Jersey.
+RECALLED BY    Manufacturer, by letters in mid-November 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   New Jersey, Florida.
+QUANTITY       4,000 pounds.
+REASON         Product contains undeclared FD&C; Yellow No. 5.
+
+_______________
+PRODUCT        Wheaties Honey Gold Wholesome, Sweetened Whole Wheat & Corn
+               Cereal With Honey, 21.25 ounces.  Recall #F-426-4.
+CODE           Better If Used By date of 21FEB95QQ____.
+MANUFACTURER   General Mills, Inc., Covington, Georgia.
+RECALLED BY    General Mills, Inc., Minneapolis, Minnesota, by electronic
+               mail May 23, 1994, by press release May 20, 1994, and by
+               issuing a notice to the Food Allergy Network May 23, 1994. 
+               Firm-initiated recall ongoing. 
+DISTRIBUTION   Alaska, California, Idaho, Montana, Oregon, Washington
+               state.
+QUANTITY       1,128 cases (14 boxes per case).
+REASON         Product contains undeclared almonds._______________
+PRODUCT        Ice Cream in 3 gallon bulk containers:  (a) Rocky Road; (b)
+               Heavenly Hash.  Recall #F-427/428-4.
+CODE           None other than the flavor of the ice cream written or
+               stamped on container.
+MANUFACTURER   Taylor Milk Company, Ambridge, Pennsylvania.
+RECALLED BY    Tri-Point Ice Cream Sales Company, Ambridge, Pennsylvania,
+               by letter March 25, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Pennsylvania, West Virginia, Ohio.
+QUANTITY       Undetermined.
+REASON         Products contained undeclared almonds.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        Ice Cream in 3 gallon bulk containers:  (a) Butter Pecan;
+               (b) Praline Pecan.  Recall #F-424/425-4.
+CODE           None other than the flavor of the ice cream written or
+               stamped on container.
+MANUFACTURER   Taylor Milk Company, Ambridge, Pennsylvania.
+RECALLED BY    Tri-Point Ice Cream Sales Company, Ambridge, Pennsylvania,
+               by letter dated March 25, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Pennsylvania, West Virginia, Ohio.
+QUANTITY       Undetermined.
+REASON         Products contain undeclared pecans.
+
+_______________
+PRODUCT        Pasta products:  (a) Luigi Vitelli #9 Thin Spaghetti;
+               (b) Luigi Vitelli #17 Linguine, unit weight 16 ounces. 
+               Recall #F-422/423-4.
+CODE           Lot numbers:  (a) 466352; (b) 466395.
+MANUFACTURER   Maktas Makarnacilik, Izmir, Turkey.
+RECALLED BY    Vitelli-Elvea Company, Inc., Hawthorne, New Jersey, by
+               letter issued mid-December 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   New Jersey, New York.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Products are substandard for declared iron.
+
+_______________
+PRODUCT        Toasted Almond Fudge Ice Cream in 3 gallon containers. 
+               Recall #F-429-4.
+CODE           None other than the flavor of the contents written or
+               stamped on the container.
+MANUFACTURER   Taylor Milk Company, Ambridge, Pennsylvania.
+RECALLED BY    Tri-Point Ice Cream Sales Company, Ambridge, Pennsylvania,
+               by letter dated March 24, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Pennsylvania, West Virginia, Ohio.
+QUANTITY       Undetermined.
+REASON         Product contained undeclared almonds.
+
+                                    -2-_______________
+PRODUCT        Pistachio Almond Ice Cream, in 3 gallon bulk containers.  
+               Recall #F-430-4.
+CODE           None other than the flavor of the ice cream written or
+               stamped on container.
+MANUFACTURER   Taylor Milk Company, Ambridge, Pennsylvania.
+RECALLED BY    Tri-Point Ice Cream Sales Company, Ambridge, Pennsylvania,
+               by letter dated March 25, 1994.  Firm-Initiated recall
+               complete.
+DISTRIBUTION   Pennsylvania, West Virginia, Ohio.
+QUANTITY       Undetermined.
+REASON         Product contained undeclared Pistachios.
+
+_______________
+PRODUCT        Kern's Real Fruit Sodas, packed in 12 fluid ounce cans:  (a)
+               Apricot Soda; (b) Guava Soda; (c) Mango-Orange Soda; (d)
+               Peach-Passion Fruit Soda; (e) Strawberry-Kiwi Soda; (f)
+               Tropical Soda.  Recall #F-431/436-4.
+CODE           Although the contaminated cans were only noted in the codes
+               indicated by an *, all of the following codes were recalled:
+               Apricot Soda (Item 28500): 4035 LA, 4082 NA, 4083 NA, 4088
+               NA, 4102 NA*, and 4107 NA*;
+               Mango-Orange Soda (Item 28530): 4035 LA, 4085 NA, 4104 NA*,
+               and 4105 NA*;
+               Guava Soda (Item 28520): 4035 LA, 4084 NA, 4085 NA, 4099
+               NA*, 4100 NA*, and 4101 NA*; 
+               Strawberry-Kiwi Soda (Item 28550): 4035 LA, 4084 NA, 4087
+               NA, 4088 NA, and 4106 NA*; 
+               Peach-Passion Fruit (Item 28510): 4035 LA, 4083 NA, 4103 NA,
+               and 4107 NA;
+               Tropical Soda (Item 28560): 4035 LA, 4086 NA, and 4105 NA. 
+MANUFACTURER   Arrowhead Mountain Spring Water Company, Ontario,
+               California.
+RECALLED BY    Nestle Beverage Company, San Francisco, California, by
+               letter April 21, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   California.
+QUANTITY       Approximately 15,145 cans were distributed; firm estimates
+               none remains on the market.
+REASON         Product was contaminated with mold.
+
+_______________
+PRODUCT        Plochman's Mild Yellow Mustard in 10.5 ounce yellow plastic
+               squeeze bottles.  Recall #F-437-4.
+CODE           Lot numbers 216C3 and 242C3.
+MANUFACTURER   Plochman, Inc., Chicago, Illinois.
+RECALLED BY    Manufacturer, by telephone April 15, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Massachusetts, Georgia, Illinois, South Carolina, Missouri,
+               Michigan, Wisconsin, New York.
+QUANTITY       3,566 cases (24 bottles per case) were distributed; firm
+               estimates none remains on the market.
+REASON         Product contained mold.
+
+                                    -3-RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Various drug products:  (a) Acetic Acid (2%) & Aluminum
+               Acetate Otic Solution, 60 ml, under the following labels: 
+               Bausch & Lomb, H.L. Moore, Mayor, Rugby; (b) Neomycin &
+               Polymyxin B Sulfates and Hydrocortisone Otic Solution, 10
+               ml, under the following labels:  Bausch & Lomb, Akorn, Best,
+               Butler, Clinical, Equipharm, Goldline, Harber, J.J. Balan,
+               Major, OcuSoft, Parmed, Pedinol, Qualitest, Rugby, Teral,
+               URL; (c) Neomycin Polymyxin B Sulfates and Gramicidin
+               Ophthalmic Solution, 2 ml, and 10 ml, under the following
+               labels:  Bausch & Lomb, Akorn, Best, Butler, Equipharm,
+               Genetic, Goldline, Harber, H.L. Moore, J.J. Balan, Major,
+               Medical Ophthalmics, OcuSoft, Parmed, Phoenix, Qualitest,
+               Rugby, Schein, Spectrum, URL, Vedco; (d) Erythromycin
+               Ethylsuccinate Oral Suspension, 200 mg/5 ml, 100 ml, under
+               the following labels:  Bausch & Lomb, Major, Qualitest,
+               Rugby, Schein, URL.  Recall #D-300/303-4.
+CODE           All lots with four digit lot numbers.
+MANUFACTURER   Pharmafair, Inc., Hauppauge, New York.
+RECALLED BY    Pharmafair, Inc., c/o BLP, (Bausch & Lomb Pharmaceuticals),
+               Tampa, Florida, by letters of April 22, 1994 and May 25,
+               1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       5,335,745 total units were distributed; firm estimated that
+               50% of this number remained on market at time of recall.
+REASON         Products were marketed with inadequate documentation to
+               support Abbreviated New Drug Applications.
+
+_______________
+PRODUCT        Liqui-Prep Bowel Evacuant Kit with Magnesium Citrate Oral
+               Solution, USP, in 10 fluid ounce containers,
+               nonprescription, for use in preparation of the patient for
+               surgery, or for preparation of the colon for x-ray and
+               endoscopic examination.  Recall #D-304-4.
+CODE           Catalog #3066, lot numbers:  08243066A, 08743066, 08743066A,
+               08843066, 08943066, 08143066A.
+MANUFACTURER   Cumberland-Swan, Inc., Smyrna, Tennessee (Magnesium Citrate
+               Oral Solution); E-Z-EM, Inc., Westbury, New York (kit).
+RECALLED BY    E-Z-EM, Inc., Westbury, New York (repacker), by letter April
+               20, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       500 cases (24 bottles per case) were distributed.
+REASON         Some bottles of the Magnesium Citrate Solution Kit component
+               contained glass particles.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        Dog Fennel Allergenic Extract (Eupatorium capillifolium), in
+               10 ml, 30 ml, and 50 ml vials.  Recall #B-312-4.
+CODE           Lot #F13083193 EXP 8/30/99.
+
+                                    -4-MANUFACTURER   Antigen Laboratories, Inc., Liberty, Missouri.
+RECALLED BY    Manufacturer, by telephone January 7, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Georgia, South Carolina, Florida, Washington state.
+QUANTITY       2 10-ml vials, 1 30-ml vial, and 2 50-ml vials.
+REASON         Allergenic extracts which were labeled with incorrect
+               species name were distributed.
+
+_______________
+PRODUCT        Source Plasma.  Recall #B-318-4.
+CODE           Unit numbers 82297744 and 82298208.
+MANUFACTURER   North American Biologicals, Inc., doing business as Grand
+               River Donor Center, Detroit, Michigan.
+RECALLED BY    North American Biologicals, Inc., Miami Florida, by letter
+               September 28, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Puerto Rico.
+QUANTITY       2 units.
+REASON         Blood products, which tested negative for the antibodies to
+               human, immunodeficiency virus types 1 and 2 (anti-HIV-1/2),
+               but were collected from a donor who previously tested
+               repeatedly reactive for anti-HIV-1/2, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells for Further Manufacturer; (b) Recovered
+               Plasma.  Recall #B-319/320-4.
+CODE           Unit #03R69097.
+MANUFACTURER   The American National Red Cross, Atlanta, Georgia.
+RECALLED BY    Manufacturer, by letters of November 5 and 15, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Illinois, Switzerland.
+QUANTITY       1 unit of each component.
+REASON         Blood products, that tested negative for hepatitis B surface
+               antigen (HBsAg), but were collected from a donor who
+               previously tested repeatedly reactive for HBsAg, were
+               distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Fresh Frozen Plasma;
+               (d) Platelets for Further Manufacture.  Recall #B-321/324-4.
+CODE           Unit numbers:  (a) 03C53984, 03G47125; (b) 03G47125; (c)
+               03C53984; (d) 03C53984.
+MANUFACTURER   The American National Red Cross, Atlanta, Georgia.
+RECALLED BY    Manufacturer, by letter December 22, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Georgia, Florida.
+QUANTITY       (a) 2 units; (b) 1 unit; (c) 1 unit; (d) 1 unit.
+REASON         Blood products collected from a donor who reported a history
+               of hepatitis were distributed.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-325-4.
+CODE           Unit 158427.
+
+                                    -5-MANUFACTURER   Beth Israel Hospital, Boston, Massachusetts.
+RECALLED BY    Manufacturer, by telephone, fax, and letter April 14, 1994. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Massachusetts.
+QUANTITY       1 unit.
+REASON         Blood product, which tested negative for the antibody to
+               hepatitis C virus encoded antigen (anti-HCV), but was
+               collected from a donor who previously tested repeatedly
+               reactive for anti-HCV, was distributed.
+
+_______________
+PRODUCT        Fresh Frozen Plasma.  Recall #B-326-4.
+CODE           Unit #22GG51332.
+MANUFACTURER   The American National Red Cross, Philadelphia, Pennsylvania.
+RECALLED BY    Manufacturer, by telephone January 14, 1993, followed by
+               letter January 26, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Pennsylvania.
+QUANTITY       1 unit.
+REASON         Blood product, containing anti-D (Rho) antibodies, but
+               labeled as negative for unexpected antibodies, was
+               distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Fresh Frozen Plasma. 
+               Recall #B-330/332-4.
+CODE           Unit numbers:  (a&b;) 03FR02035, 03G25343, 03LM18668,
+               03R81193; (c) 03LM18668.
+MANUFACTURER   The American National Red Cross, Atlanta, Georgia.
+RECALLED BY    Manufacturer, by letter August 6, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Georgia.
+QUANTITY       (a) 4 units; (b) 4 units; (c) 1 unit.
+REASON         Blood products, that tested negative for the antibody to the
+               human immunodeficiency virus type 1 (anti-HIV-1), but were
+               collected from a donor who previously tested repeatedly
+               reactive for anti-HIV-1, were distributed.
+
+_______________
+PRODUCT        Source Plasma.  Recall #B-333-4.
+CODE           Unit #11471935.
+MANUFACTURER   North American Biologicals, Inc., Kansas City, Missouri.
+RECALLED BY    Manufacturer, by telephone January 7, 1993, followed by
+               letter January 12, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       1 unit.
+REASON         Source Plasma, that tested repeatedly reactive for the
+               antibody to hepatitis C virus encoded antigen (anti-HCV),
+               was distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-334-4.
+CODE           Unit #11N75587.
+
+                                    -6-MANUFACTURER   The American National Red Cross, St. Louis, Missouri.
+RECALLED BY    Manufacturer, by telephone December 2, 1992, followed by
+               letter December 3, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Missouri.
+QUANTITY       1 unit.
+REASON         Blood product, that tested negative for the antibody to
+               hepatitis B core antigen (anti-HBc), but was collected from
+               a donor who previously tested repeatedly reactive for anti-
+               HBc on more than one occasion, was distributed.
+
+_______________
+PRODUCT        Source Plasma.  Recall #B-335-4.
+CODE           C-10176-691     C-10232-691    C-10432-691     C-10561-691  
+               C-10653-691     C-10777-691    C-10867-691     C-11007-691  
+               C-11143-691     C-11333-691    C-11411-691     C-11600-691  
+               C-11691-691     C-11808-691    C-11893-691     C-12064-691  
+               C-12161-691     C-12392-691    C-12514-691     C-12762-691  
+               C-12866-691     C-13093-691    C-13095-691     C-13189-691  
+               C-13309-691     C-13341-691    C-13403-691     C-13447-691.
+MANUFACTURER   Premier Bio Resources, Inc., Gulfport, Mississippi.
+RECALLED BY    Premier BioResources, Inc., Fort Worth, Texas, by letters
+               dated March 4 and 7, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Michigan.
+QUANTITY       28 units.
+REASON         Source Plasma, that either tested negative for the
+               antibodies to human immunodeficiency virus types 1 and 2
+               (anti-HIV-1/2), but were collected from a donor who
+               previously tested repeatedly reactive for anti-HIV-1/2; or
+               tested negative for hepatitis B surface antigen (HBsAg) and
+               the antibody to hepatitis C virus encoded antigen (anti-
+               HCV), but were collected from a donor who previously
+               reported a history of hepatitis, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        Cryoprecipitated AHF (Human).  Recall #B-315-4.
+CODE           Unit numbers:  22GL96498, 22GL96511, 22GT51314, 22GT51316,
+               22GX11292, 22GY43319, 22LV14533, 22LV14540, 22LQ26362.
+MANUFACTURER   American Red Cross, Philadelphia, Pennsylvania.
+RECALLED BY    Manufacturer, by telephone May 13, 1993, followed by letter
+               May 21, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Pennsylvania, New Jersey.
+QUANTITY       9 units.
+REASON         Units of Cryoprecipitated AHF (Human), exposed to
+               unacceptable temperature and allowed to thaw, were
+               distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets.  Recall #B-327/328-4.
+CODE           Unit numbers:  (a) 03FF21084; (b) 03FF21084.
+MANUFACTURER   The American National Red Cross, Atlanta, Georgia.
+
+                                    -7-RECALLED BY    Manufacturer, by telephone July 2, 1993, followed by letter
+               July 30, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Georgia.
+QUANTITY       1 unit of each component.
+REASON         Blood products, untested for hepatitis B surface antigen
+               (HBsAg), were distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-329-4.
+CODE           Unit #03K11304.
+MANUFACTURER   The American National Red Cross, Atlanta, Georgia.
+RECALLED BY    Manufacturer, by telephone December 4, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Georgia.
+QUANTITY       1 unit.
+REASON         Blood product, labeled with the incorrect expiration date,
+               was distributed.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-336-4.
+CODE           Unit #03K01387.
+MANUFACTURER   American Red Cross, Atlanta, Georgia.
+RECALLED BY    Manufacturer, by letter January 14, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   California.
+QUANTITY       1 unit.
+REASON         Recovered Plasma, corresponding to a unit of Red Blood Cells
+               contaminated with Alpha Streptococcus, was distributed.
+
+_______________
+PRODUCT        Cryoprecipitated AHF.  Recall #B-337-4.
+CODE           Unit numbers:  11K64979, 11K65346, 11F86180.
+MANUFACTURER   The American National Red Cross, St. Louis, Missouri.
+RECALLED BY    Manufacturer, telephone December 2, 1992, followed by letter
+               January 4, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Missouri.
+QUANTITY       3 units.
+REASON         Blood product, which was exposed to unacceptable storage
+               temperatures and allowed to thaw, was distributed.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-340-4.
+CODE           Unit #03FT11965.
+MANUFACTURER   The American National Red Cross, Atlanta, Georgia.
+RECALLED BY    Manufacturer, by letter March 3, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   California.
+QUANTITY       1 unit.
+REASON         Blood product collected from a donor who reported a history
+               of cancer was distributed.
+
+
+                                    -8-
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Glucose Test Strips for use with Glucometer 3, for in-vitro
+               (external) diagnostic use, under the following labels: 
+               Family Pharmacy, Health Mart, Full Value, Good Neighbor
+               Pharmacy, Valu Rite, Relief Plus, Quick Check 3, Perry
+               Healthcare, and Longs.  Recall #Z-930-4.
+CODE           Lot Numbers:  30152, 30173, 30187, 30190B, 30193, 30216,
+               30228, 30238, 30242, 30244, 30251A, 30251B, 30259, 30263,
+               30264, 30266, 30270, 30272, 30276, 30278, 30280, 30284,
+               30285, 30293, 30294, 30300, 30301A, 30301B, 30303, 30310,
+               30313, 30314, 30319, 30320, 30324, 30333, 30336, and 30356; 
+MANUFACTURER   Diagnostic Solutions, Inc., Irvine, California.
+RECALLED BY    Manufacturer, by letter April 4, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       37,458 bottles were distributed from 7/7/93 to 1/14/94.
+REASON         The product does not meet its labeling claims.  The device
+               also gives results which are significantly higher than those
+               obtained by the reference method.
+
+_______________
+PRODUCT        Radiofocus Introducer B Kit, intended to be inserted
+               percutaneously into a vein or artery to facilitate the
+               insertion of angiographic, electrode, balloon or similar
+               catheters.  Recall #Z-962-4.
+CODE           8893I20A, 8893I20, 8893I23, 8893I25, 8893I25A.
+MANUFACTURER   Terumo Corporation, Toyko, Japan.
+RECALLED BY    Terumo Medical Corporation, Elkton, Maryland, by letters
+               sent March 11, 1994, and April 6, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Massachusetts, Canada.
+QUANTITY       16,600 kits were distributed.
+REASON         The hemostasis valve within the introducer device may leak,
+               depending upon the orientation (positioning) of the valve.
+
+_______________
+PRODUCT        Model 3000LE Ophthalmic Laser System, for use in ophthalmic
+               surgery - posterior capsulotomies.  Recall #Z-966-4.
+CODE           Model 3000LE.
+MANUFACTURER   Alcon Surgical Inc., Irvine, California.
+RECALLED BY    Manufacturer.  FDA approved the firm's corrective action
+               plan May 20, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       56 units.
+REASON         Joystick aiming control was poorly seated causing internal
+               electrical wires to become prematurely worn and broken.
+
+
+                                    -9-RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Simmons Plating System Locking Nut, Catalog #SP-1003, non-
+               sterile, intended for sterilization by hospital, used in
+               lumbar spinal fusions.  Recall #Z-940-4.
+CODE           All lots.
+MANUFACTURER   Smith & Nephew Richards, Inc., Memphis, Tennessee.
+RECALLED BY    Manufacturer, by voice mail message March 2, 1994, followed
+               by letter March 8, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       20,534 locking nuts were distributed from October 1990 until
+               January 1994.
+REASON         The nuts were manufactured from a type of 300 stainless
+               steel other than type 316LVM (ASTM F138).
+
+_______________
+PRODUCT        Automated Chemiluminiscene System (ACS):Cuvette Part
+               #672002, used with the ACS:180.  A cuvette is a tall plastic
+               container which carries a patient sample and to which test
+               reagents are dispensed where a test reaction takes place. 
+               Recall #Z-943-4.
+CODE           Lot numbers D01600 - D02175.
+MANUFACTURER   Carrera Corporation, Export, Pennsylvania.
+RECALLED BY    Ciba Corning Diagnostics Corporation, Norwood,
+               Massachusetts, by letter March 28, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Undetermined.
+REASON         The ASC:180 system had a track jam caused by a deformity in
+               the neck of the cuvette.
+
+_______________
+PRODUCT        Automated Chemiluminiscene System (ACS) Multicalibrator A
+               Lot CA27 and CA31 the Low and High Calibrators contained in
+               the ACS Calibrator A are for calibrating the ACS
+               immunoassays:  (a) Part #672170000; 
+               (b) Part #672180000.  Recall #Z-944/945-4.
+CODE           Lot numbers CA27 and CA31, EXP 27 Jul 94 packaged in ACS
+               Multicalibrator kit lot numbers:
+               (a) 22911, 22951, 23027, 23591, 23611, 23779, 23824; 
+               (b) 22913, 22952, 23592, 23610, 23655.
+MANUFACTURER   Ciba Corning Diagnostics Corporation, East Walpole,
+               Massachusetts.
+RECALLED BY    Manufacturer, by telephone February 10, 1994.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       (a) 741 kits; (b) 249 kits were distributed.
+REASON         The theoretical concentrations of master curve standards
+               were incorrectly assigned by quality control.  The values
+               were not obtained via referenced standard values used in
+               testing.
+
+                                   -10-_______________
+PRODUCT        Automated Chemiluminiscene System (ACS):180 SPT (System
+               Performance Tests) Reagent, Part #672196 SPT used to
+               evaluate the performance of the ACS:180 subassemblies at
+               installation, after repair procedures, and as a
+               troubleshooting aid.  Recall #Z-946-4.
+CODE           Reagent Lot 2773 packaged in kit lot numbers 1506, 4005,
+               4007, 4308, 4309, 4310, 6006, 01113; Wash Solid Phase lot
+               LOP 2993 in kit lot numbers 14007, 16003, 16809; Reagent
+               Dispense Check  lot LOL 0604 in kit lot #182302.
+MANUFACTURER   Ciba Corning Diagnostics Corporation, East Walpole,
+               Massachusetts.
+RECALLED BY    Manufacturer, by telephone April 14, 1993, and by recall
+               notice July 21, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       480 units of lot 2773, 270 units of lot 2993, and 42 units
+               of lot 0604.
+REASON         The lot of reagent 2773 was contaminated with lactobacillus
+               Coryniformis.  The (SPT) reagents have degraded in their
+               performance specifications resulting in check problems in
+               the ACS operations.
+
+_______________
+PRODUCT        Automated Chemiluminiscene System (ACS) T4 Master Curve Card
+               used with ACS T4/50 test and 300 test kits, intended for the
+               quantitative determination of Thyroxine (T4) in serum using
+               the ACS:180 system:  (a) Catalog #672200; (b) Catalog
+               #672201.  Recall #Z-947/948-4.
+CODE           Lot numbers:  (a) 02003; (b) 02004.
+MANUFACTURER   Ciba Corning Diagnostics Corporation, East Walpole,
+               Massachusetts.
+RECALLED BY    Manufacturer, by telephone February 5, 1993, and by fax to
+               international account January 3, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   New York, Michigan, Pennsylvania, Massachusetts, Ohio,
+               California, Rhode Island, Oklahoma, Japan.
+QUANTITY       (a) 350 kits; (b) 39 kits.
+REASON         The standard value printed on the master curve card was
+               incorrect.
+
+_______________
+PRODUCT        Cell Culture Tube and Drams, Catalog #71-217 D, used for
+               isolation of virus in clinical specimens.  Recall #Z-949-4.
+CODE           Lot numbers:  1C2818 (tubes), 1C2804 (drams).
+MANUFACTURER   Whittaker Bioproducts, Inc., Walkersville, Maryland.
+RECALLED BY    Manufacturer, by telephone October 18, 1991.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       670 units of lot 1C2804 and 3,755 units of 1C2818 were
+               distributed.
+REASON         Device was contaminated with IBR bovine herpes virus.
+
+                                   -11-_______________
+PRODUCT        EMEM Cell Culture Medium, in 100 ml bottles, used for the
+               growth and maintenance of cells in culture.  
+               Recall #Z-952-4.
+CODE           Catalog #12-125A, Lot 1M0865.
+MANUFACTURER   Whittaker Bioproducts, Inc., Walkersville, Maryland.
+RECALLED BY    Manufacturer, by telephone on or about October 9, 1992. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide, Germany, Spain, France, Japan.
+QUANTITY       1,226 units were distributed.
+REASON         The device had a pH of 7.6 which is higher that the firm's
+               established specification of 6.7 to 7.3.
+
+_______________
+PRODUCT        Rubecap-M Test Kit, an enzyme-linked antibody capture assay
+               for Rubella Virus IgM antibody in human serum.  
+               Recall #Z-953-4.
+CODE           Catalog #31-002U, lot 1E2241.
+MANUFACTURER   Mercia Diagnostics supplies the kit format and Whittaker
+               Bioproducts labels and packages the kits.
+RECALLED BY    Whittaker Bioproducts, Inc., Walkersville, Maryland, by
+               telephone October 31, 1991, followed by letter November 30,
+               1991.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide, Austria, Germany, France, England, Italy.
+QUANTITY       70 kits were distributed.
+REASON         Device had a pH of 7.6 which is higher than the firm's
+               established specification of 6.7 to 7.3.  The control ranges
+               for positive and negative controls included in the kit are
+               incorrectly stated on the component label.
+
+_______________
+PRODUCT        QuinEvac IIa Smoke Evacuator, Model #SE-11111-E, used in
+               hospital operating rooms where there is a large volume of
+               smoke plume generated during laser surgery or electrosurgery
+               products.  Recall #Z-967-4.
+CODE           Serial numbers:  155300, 155302, 155309-18.
+MANUFACTURER   Linemaster Switch Corporation, Woodstock, Connecticut.
+RECALLED BY    Recto Molded Products, Inc., (doing business as Quinn
+               Healthcare Products), Cincinnati, Ohio, by telephone and fax
+               March 29, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       20 units.
+REASON         The footswitch may stick in the open or closed position. 
+
+_______________
+PRODUCT        Triage brand Drugs of Abuse in-Vitro Diagnostic Test Kits, a
+               urine test for screening seven classes of drugs: (a) Catalog
+               #95000 (25 determinations); (b) 95004 (10 determinations). 
+               Recall #Z-970/971-4.
+CODE           Lot numbers:  (a) W4095 through W4377 EXP 11/29/94 through
+               2/5/95; (b) W4467 through W4598 EXP 2/15/95 through 3/28/95.
+MANUFACTURER   Biosite Diagnostics, Inc., San Diego, California.
+
+                                   -12-RECALLED BY    Manufacturer, by letter April 22, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide, Canada, Japan, Singapore, China, Malaysia.
+QUANTITY       (a) 11,462 kits; (b) 387 kits were distributed between
+               December 1993 and April 1994.
+REASON         The test results may indicate false positive for the THC
+               (marijuana) portion of the panel.  The performance of the
+               THC assay in the Triage Panel degrades at a faster rate than
+               indicated by the expiration date on the product labeling.
+
+
+MEDICAL DEVICE SAFETY ALERTS: 
+============================================
+_______________
+PRODUCT        Kangaroo Enteral Feeding Pumps Model 224, Reorder #8884-
+               322408, and Model 324, Reorder #8884-322407.
+               Safety Alert #N-050/051-4.
+CODE           All serial numbers.
+MANUFACTURER   Sherwood Medical Watertown, New York.
+ALERTED BY     Sherwood Medical Company, St. Louis, Missouri, by letter
+               February 10, 1994.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       35,048 Model 224 pumps and 71,588 Model 324 pumps since
+               1988.
+REASON         Arcing may occur between electrical components leading to
+               electrical fires.
+
+                                   -13-
+
+END OF ENFORCEMENT REPORT FOR JUNE 22, 1994.  BLANK PAGES MAY FOLLOW.
+                                   ####

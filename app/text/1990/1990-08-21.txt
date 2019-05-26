@@ -1,0 +1,423 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  18
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      31 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+08/21/1990   
+
+FDA Enforcement for the week of August 22, 1990.
+
+
+
+                            FDA ENFORCEMENT REPORT
+
+                                                           August 22, 1990
+Recalls and Field Corrections:
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  Product will cause serious adverse health consequences or 
+                  death.
+
+                                     NONE 
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the 
+                  probability of serious adverse health consequences is 
+                  remote. 
+
+                                     NONE 
+
+                                      -1- 
+
+
+
+
+
+
+                  Class III - A situation in which the use of, or exposure
+                  to a violative product is not likely to cause adverse 
+                  health consequences.
+
+
+Product:          Various Mexican food products:
+                  (a) Fresh Bean Dip, 10 ounces;
+                  (b) Beef Burrito Mix, 8 ounces; 
+                  (c) Mexican Gravy, 8 ounces and in one gallon containers. 
+                  Recall #F-596/598-0.
+Code:             All lots. 
+Manufacturer:     Mexican Village Wholesale Foods, Inc., Grand Forks, 
+                  North Dakota. 
+Recalled by:      Manufacturer.  Firm's products in stores were labeled 
+                  with the supplemental "Keep Refrigerated" label stickers
+                  starting on March 30, 1990.  Firm-initiated field correction
+                  complete. 
+Distribution:     North Dakota, Minnesota.
+Quantity:         (a) 180 retail containers; (b) 80 containers; (c) 120 
+                  containers were distributed.
+Reason:           Retail containers require refrigeration but are not labeled 
+                  "Keep Refrigerated."
+
+                                     ---- 
+
+                           HUMAN DRUGS AND BIOLOGICS
+
+                                     NONE 
+
+                         MEDICAL DEVICES AND RADIOLOGY
+
+                  Class I - 
+                                     NONE 
+
+                  Class II -
+
+Product:          Model LS 1001 LASTAC Cardiovascular Laser System, used with 
+                  2CM830 LASTAC Control Monitors for cardiac monitoring.
+                  Recall #Z-745-0.
+Code:             Serial numbers: JM000148, JM000135, JM000137. 
+Manufacturer.     GV Medical, Inc., Minneapolis, Minnesota. 
+Recalled by:      Manufacturer.  FDA approved the firm's corrective 
+                  action plan July 24, 1990.  Firm-initiated field
+                  correction ongoing. 
+Distribution:     Georgia, Louisiana, Alabama.
+Quantity:         3 units were distributed. 
+Reason:           Noncompliance with performance standard for laser 
+                  products in that maintenance procedures at the optical
+                  coupler could cause access to Class IV laser radiation and
+                  no interlocks were provided to preclude such access.
+
+                                     ---- 
+
+                                      -2- 
+
+
+
+
+
+Product:          Laserflo Blood Perfusion Monitors used for continuous 
+                  monitoring of local microvascular blood flow: 
+                  (a) Laserflo Blood Perfusion Monitor, Model BPM403; 
+                  (b) Laserflo Blood Perfusion Monitor, Model BPM403A.
+                  Recall #Z-785/786-0.
+Code:             Serial numbers: (a) 1101 through 1175;
+                  (b) 2000 through 2267.
+Manufacturer:     TSI, Inc./Vasamedics, Inc., St. Paul, Minnesota.
+Recalled by:      Manufacturer, by letter January 19, 1990.  Firm-initiated 
+                  field correction complete.
+Distribution:     Nationwide and international. 
+Quantity:         (a) 75 units; (b) 268 units were distributed. 
+Reason:           A grounding fault may occur in the chassis of the monitor 
+                  which may result in continuous or intermittent errors in
+                  blood flow measurements.
+
+                                     ---- 
+
+Product:          Providone Iodine Cleansing Gel, used to cleanse continuous
+                  ambulatory peritoneal dialysis (CAPD) exchange sets.
+                  Recall #Z-778-0.
+Code:             Lot #K2-10 EXP 5/10/90. 
+Manufacturer:     Huntington Laboratories, Inc., Huntington, Indiana. 
+Recalled by:      Kendall McGaw Laboratories, Inc., Irvine, California, by
+                  letter February 8, 1990.  Firm-initiated recall complete. 
+Distribution:     Nationwide, Canada. 
+Quantity:         4,095 cases (40 tubes/case) were distributed; firm
+                  estimates none remains on market. 
+Reason:           Product contains 0.77% available iodine instead of
+                  1.00% as stated on the label. 
+
+                                     ---- 
+
+Product:          Schneider Open-Ended Guidewires for negotiating the 
+                  vascular system and allowing fluid delivery to a
+                  predetermined site.  Recall #Z-779-0. 
+Code:             Lot numbers: 14958, 15034, 15595, 17026, 17027 of 
+                  Model 0ESM35145IT7, lot numbers: 14959 and 15035 of 
+                  Model 0ESM38145IT7. 
+Manufacturer:     Schneider (USA), Inc., formerly Medrad Inc., Pittsburgh,
+                  Pennsylvania. 
+Recalled by:      Schneider (USA), Inc., Minneapolis, Minnesota, by 
+                  letter July 13, 1990.  Firm-initiated recall ongoing. 
+Distribution:     Nationwide, Canada, Switzerland.
+Quantity:         1,040 units were distributed. 
+Reason:           The product's instructions for use state that "during 
+                  injection do not exceed the maximum recommended pressure
+                  of 500 PSI."  They should read not to exceed 200 PSI. 
+
+                                     ---- 
+
+                                      -3- 
+
+
+
+
+
+Product:          MR MAX Systems with head holders: 
+                  (a) G.E. MR MAX  with Head Holder, Model P9300HE; 
+                  (b) G.E. MR MAX Head Holder with Operator's Console,
+                  Model 46-282269G1;
+                  (c) G.E. MR Max Head Holder with Operator's Console 
+                  Model P3901AE.  Recall #Z-780/782-0.
+Code:             Serial numbers: (a) 24762YM7 through 24820YM3;
+                  (b) 28273YM1, 28285YM5, 28286YM3, 15860YM0 through
+                  15868YM3; 
+                  (c) 24261YM0, 24278YM4, 24288YM3 through 24303YM0.
+Manufacturer:     Yokogawa Medical Systems, Hino-Shi, Tokyo, Japan. 
+Recalled by:      General Electric Company, Medical Systems, Waukesha,
+                  Wisconsin, by Field Modification Instruction 61054, 
+                  April 1990.  Firm-initiated field correction ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         89 units were distributed.
+Reason:           The microphone is covered with a thin film of rubber
+                  which may deteriorate.  A radio frequency burn may
+                  occur if the metal housing of the microphone is touched 
+                  during the scan.
+
+                                     ---- 
+
+Product:          Fiber-Optic Blood Perfusion Probes, used in conjunction 
+                  with a blood perfusion monitor (BPM).  The BPM is used for
+                  continuous monitoring of local microvascular blood flow:
+                  (a) Model PR-434 Implantable Prism Probe; 
+                  (b) Model PD-434 Implantable Disk Probe;
+                  (c) Model P-430 Right Angle Probe;
+                  (d) Model P-431 Hard Tip Pencil Probe;
+                  (e) Model P-433 Needle Probe; 
+                  (f) Model P-435 Soft-Tip Pencil Probe;
+                  (g) Model PR-436 Endoscopy Probe Side-View; 
+                  (h) Model PE-436 Endoscopy Probe End-View.
+                  Recall #Z-787/794-0.
+Code:             Products manufactured between June 1, 1985 and
+                  December 31, 1989 and have sequence numbers between 
+                  1,000 and 2,244.
+Manufacturer:     TSI, Inc./Vasamedics, Inc., St. Paul, Minnesota.
+Recalled by:      Manufacturer, by letters of March 15, 1990, April 16, 1990
+                  and May 21, 1990.  Firm-initiated field correction ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         903 probes were distributed.
+Reason:           The ambient light which is not absorbed by the optical
+                  filter may be transmitted through the fiber-optic cable 
+                  and into the optical detector.  This provides erroneous 
+                  information which could lead to inappropriate diagnosis or
+                  therapeutic intervention. 
+
+                                     ---- 
+
+                                      -4- 
+
+
+
+
+
+CORRECTION:       Recall #Z-761/763-0, Bard Woven Phillips Follower Urethral
+                  Catheters which appeared in the August 8, 1990 Enforcement
+                  Report is a Class II recall.  The listing for product (c) 
+                  should read:
+
+                  (c) Urethral Catheter Gift Set, No. 021519, 19 Fr.
+
+                                     ---- 
+                  Class III - 
+
+                                     NONE 
+
+                              VETERINARY PRODUCTS 
+
+                  Class I - 
+                                     NONE 
+
+                  Class II -
+
+Product:          Oxytetracycline Hydrochloride (HCl) Injection, in 500 
+                  ml vials, a broad spectrum antibiotic for use in beef 
+                  cattle, beef calves, non-lactating dairy cattle and dairy 
+                  calves for the treatment of a variety of diseases caused
+                  by pathogens sensitive to Oxytetracycline HCl, under the
+                  Fermenta, IBA and Tech America labels.  Recall #V-053-0.
+Code:             Lot #9251B EXP 9/92, 9101A EXP 4/92.
+Manufacturer:     Fermenta Animal Health Company, Elwood, Kansas. 
+Recalled by:      Manufacturer, by letter June 19, 1990.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         12,666 vials were distributed.
+Reason:           The lots under recall were not manufactured in accordance 
+                  with current good manufacturing practice regulations. 
+
+                                     ---- 
+
+Product:          Sodium Iodide 20% Sterile Injectable Solution, in 250 ml
+                  vials, for use as an aid in the treatment of Actinomycosis
+                  (lumpy jaw), and Actinobacillosis (wooden tongue, necrotic
+                  stomatitis) in cattle, an Rx drug under the Lextron and Tech
+                  America labels.  Recall #V-054-0. 
+Code:             Lot #9136A EXP 5/92.
+Manufacturer:     Fermenta Animal Health Company, Elwood, Kansas. 
+Recalled by:      Manufacturer, by letter June 19, 1990.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         10,764 vials were distributed.
+Reason:           The lot under recall was not manufactured in accordance 
+                  with current good manufacturing practice regulations. 
+
+                                     ---- 
+
+
+                                      -5- 
+
+
+
+
+
+Product:          50% Dextrose Sterile Injectable Solution, in 500 ml 
+                  vials, for use as an aid in the treatment of uncomplicated
+                  primary ketosis in cattle, under the Durvet, Lextron, and 
+                  Tech America labels.  Recall #V-055-0.
+Code:             Lot #9128B EXP 5/92.
+Manufacturer:     Fermenta Animal Health Company, Elwood, Kansas. 
+Recalled by:      Manufacturer, by letter June 19, 1990.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         12,787 vials were distributed.
+Reason:           The lot under recall was not manufactured in accordance 
+                  with current good manufacturing practice regulations. 
+
+                                     ---- 
+
+Product:          Tylosin Injection, sterile, in 200 mg/ml vials, an
+                  antibiotic for use in beef cattle, calves, nonlactating 
+                  dairy cattle, and swine, for the treatment of a variety 
+                  of diseases, under the Agrilabs, Coop, Butler, Fermenta,
+                  RXV and Tech America labels.  Recall #V-056-0.
+Code:             Lot #9137A EXP 5/91.
+Manufacturer:     Fermenta Animal Health Company, Elwood, Kansas. 
+Recalled by:      Manufacturer, by letter June 19, 1990.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         7,199 vials were distributed. 
+Reason:           The lot under recall was not manufactured in accordance 
+                  with current good manufacturing practice regulations. 
+
+                                     ---- 
+
+Product:          Vitamin A-D Injectable Sterile Solution, in 100 ml and
+                  250 ml vials for use as a supplemental source of vitamins 
+                  A and D3 in cattle, 100 ml, under the Agrilabs, Butler, 
+                  Durvet, and Tech America labels, 250 ml under the 
+                  Durvet, Lextron, RXV, and Tech America labels.
+                  Recall #V-057-0.
+Code:             Lot #9135A EXP 5/92.
+Manufacturer:     Fermenta Animal Health Company, Elwood, Kansas. 
+Recalled by:      Manufacturer, by letter June 19, 1990.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         9,935/100 ml vials and 12,619/250 ml vials were 
+                  distributed.
+Reason:           The lot under recall was not manufactured in accordance 
+                  with current good manufacturing practice regulations. 
+
+                                     ---- 
+
+                  Class III - 
+                                     NONE

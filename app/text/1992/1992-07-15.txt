@@ -1,0 +1,499 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  16
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      36 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+07/15/1992
+
+
+RECALLS AND FIELD CORRECTIONS: July 15, 1992
+
+                                 FOODS - CLASS III
+                                                                  92-29
+              
+PRODUCT        Various frozen baked goods or frozen products used as            
+               ingredients in the manufacture of baked goods:
+               Retail/Consumer Products:
+               1.  Rich's Chocolate Eclairs with Bavarian Cream Filling;
+               2.  Rich's Double Chocolate Eclairs;
+               3.  Hadder Chocolate Filling & Frosting Mix;
+               4.  Hadder Vanilla Filling & Frosting Mix;
+               5.  Rich's Cream Puffs;
+               Bakery/Food Service Products:
+               6.  Rich's Vanilla Rich'n Smooth Non-Dairy Dessert Topping;
+               7.  Rich's Vanilla Bettercreme Non-Dairy Filling & Icing;
+               8.  Rich's Chocolate Bettercreme Non-Dairy Filling & Icing;
+               9.  Redstar Starcreme Vanilla Non-Dairy Filling & Icing;
+               10. Rich's Prewhipped Chocolate Bettercreme Non-Dairy Filling
+                   and Icing;
+               11. Rich's Prewhipped Vanilla Bettercreme Non-Dairy Filling &
+                   Icing;
+               12. Rich's Toplife Vanilla Non-Dairy Filling & Icing;
+               13. Rich's Chocolate Eclair;
+               14. Rich's New York Style Eclair;
+               15. Rich's Chocolate Eclair with Freezeflo Bavarian Cream
+                   Filling;
+
+                                       
+               16. Rich's Cream Puffs with Freezeflo Bavarian Cream Filling;
+               17. Redstar Chocolate Starcreme Non-Dairy Filling & Icing;
+               18. Rich's New York Style Chocolate Eclair;
+               19. Petite Custard Eclairs;
+               20. Petite Custard Creme Puffs;
+               21. White Creme Filled Long John Donuts;
+               22. Thrift Pack Eclairs.  Recall #F-371/392-2.
+CODE           For the Rich's retail/consumer products:  All products prior to  
+               production code P2155.  For bakery/food service products:  All   
+               products prior to the productions code of C2155, B2145, P2155.
+MANUFACTURER   Rich Products Corporation, Buffalo, New York;
+               Rich Ice Cream Company, West Palm Beach, Florida;
+               Rich Products Corporation, Claremont, California.
+RECALLED BY    Rich Products Corporation, Buffalo, New York, by telephone,      
+               June 5, 1992, followed by letter June 8, 1992.  Firm-initiated   
+               recall ongoing.
+DISTRIBUTION   Nationwide, Canada, Mexico, Israel.
+QUANTITY       Firm estimates little if any product remains on the market.
+REASON         Sodium Caseinate substituted for soy protein concentrate.
+
+              
+PRODUCT        Cod Liver Oil, Regular and Mint Flavor, in 4 ounce bottles,      
+               used as a supplemental source of Vitamins A & D, under the       
+               following labels:  Reliable Drug Stores, CVS, Peoples Drug       
+               Stores, Good Health, American Drug Stores.  Recall #F-393/394-2.
+CODE           Lot numbers:  Reliable label - G1488D;
+               Peoples label - Regular:  C1106D, B1038E, M1479D;
+               Peoples label - Mint:  A1350D, G1489D, K1519D, A1467E, C1044E;
+               CVS label - D1477D, E1552D, J2015D, M1301D, A1311E, B1038E,
+               C1043C, C1546E, D1208E, F1526E, H1470E, J1429E, B1305F, B1364F,
+               C1046F, A1149D, B1185D, C1106D, C1366D, C1195F;
+               Good Health label (sold by Pic N Save) - Mint flavor:  D1318D.
+MANUFACTURER   Pennex Products Company, Inc., Verona, Pennsylvania; R.W.        
+               Grief, Old Greenwich, Connecticut (suppliers).
+RECALLED BY    Pennex Products Company, Inc., Verona, Pennsylvania, by letter   
+               April 6, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Eastern United States.
+QUANTITY       Firm estimates 250 dozen bottles remain on the market.
+REASON         Product is superpotent for Vitamins A and D.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS - CLASS III
+              
+PRODUCT        Oxygen USP Compressed Medical Gas transfilled into size E        
+               cylinders.  Recall #D-409-2.
+CODE           Lot numbers:  1-31-92, 2-13-92, 2-19-92, 3-12-92, 3-19-92.
+MANUFACTURER   Eastern Home Health Supply & Equipment Company, Inc., Ayden,     
+               North Carolina.
+RECALLED BY    Manufacturer, by letter March 26, 1992.  Firm-initiated recall   
+               complete.
+DISTRIBUTION   North Carolina.
+
+                                      -2-
+QUANTITY       79 units were distributed.
+REASON         Current good manufacturing practice deficiencies.
+
+              
+PRODUCT        Hydroxyzine Hydrochloride Tablets, USP 50 mg, 100 tablets per    
+               blister pack, a Rx drug used for symptomatic relief of           
+               anxiety.  Recall #D-410-2.
+CODE           Lot #430-031 EXP 9/93.
+MANUFACTURER   Sidmak Laboratories, Inc., East Hanover, New Jersey.
+RECALLED BY    Medirex, Inc., Pine Brook, New Jersey (responsible firm), by     
+               letter April 29, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   New Jersey, Virginia, South Carolina, Illinois, California,      
+               Massachusetts, New York, Minnesota.
+QUANTITY       434 boxes each containing 100 tablets were distributed; firm     
+               estimates 289 boxes remain on the market.
+REASON         The product name was misspelled omitting the letter "Z".
+
+
+              
+PRODUCT        VIP Bird Infant/Pediatric Ventilator, Part #15003, an            
+               electrically powered, microprocessor controlled, pneumatically   
+               activated, volume or time cycled critical care ventilator        
+               designed for neonatal, infant and pediatric applications.        
+               Recall #Z-772-2.
+CODE           All V.I.P. Bird devices produced before serial number KB002099.
+MANUFACTURER   Bird Products Corporation, Palm Springs, California.
+RECALLED BY    Manufacturer, by letter dated April 21, 1992.  Firm-initiated    
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       216 units were distributed.
+REASON         Potential for premature failure of any one of three component    
+               voltage regulators on the device printed circuit board.  The     
+               regulator may short out and fail due to improper encapsulation   
+               of the regulator within it's encasement at the time of           
+               component manufacture.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES - II
+              
+PRODUCT        Baxter Arterial Bloodlines.  Recall #Z-253-2.
+CODE           Catalog #5M4238, lot #R1N606.
+MANUFACTURER   National Medical Care, Medical Product Division, Mexico.
+RECALLED BY    National Medical Care, Medical Product Division, Rockleigh, New  
+               Jersey, by letter dated March 31, 1992.  Firm-initiated recall   
+               ongoing.
+DISTRIBUTION   Tennessee.
+QUANTITY       412 cases (12 units/case) were distributed.  Firm estimates      
+               2,000 units remain on the market.
+REASON         An incomplete bond of the bushing to the pressure pillow could   
+               result in a blood leak if not detected during priming.
+
+                                      -3-
+              
+PRODUCT        Cypress Medical Products, Ltd., Clinical Thermometers, Oral      
+               (mercury in glass), tri-top color coded yellow back, in pencil   
+               cases.  Recall #Z-836-2.
+CODE           All lots of catalog #94-05.
+MANUFACTURER   China Jiangsu Machinery Import & Export Corporation, Nanjing,    
+               China.
+RECALLED BY    Cypress Medical Products, Ltd., McHenry, Illinois, by telephone  
+               May 26-27, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       80,928 units were distributed; firm estimates 1,200 units        
+               remain on the market.
+REASON         The device was found to be inaccurate and when tested failed to  
+               meet the ASTM E-667 performance standard as stated on the        
+               product label.
+
+              
+PRODUCT        Gish Biomedical D401S Sterile Disposable Pressure Monitoring     
+               Dome, intended to be used with a Statham Cardiovascular          
+               Pressure Transducer to measure arterial pressure during          
+               perfusion procedures.  Recall #Z-837-2.
+CODE           Lot #016281.
+MANUFACTURER   Gish Biomedical, Santa Ana, California.
+RECALLED BY    Manufacturer, by letter April 8, 1992.  Firm-initiated recall    
+               ongoing.
+DISTRIBUTION   Oklahoma, South Africa, Italy.
+QUANTITY       500 units were distributed.
+REASON         Device is not compatible with a Statham Transducer as labeled.
+
+              
+PRODUCT        5 mm Laparoscopic ABC Electrosurgical Probe.  Recall #Z-839-2.
+CODE           Catalog #160655, lot numbers:  J70240, J70240A, J70240B,         
+               J82682, J82682A, J82682B.
+MANUFACTURER   Birtcher Medical Systems, Inc., Irvine, California.
+RECALLED BY    Manufacturer, by telephone completed March 31, 1992 and by       
+               letter dated March 31, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       960 units were distributed; firm estimates 150 units remain on   
+               the market.
+REASON         There is a current leak near the probe tip which could allow an  
+               argon plasma jet to occur at a right angle to the electrode      
+               approximately 2" from the tip.
+
+              
+PRODUCT        (a) Theraplan and (b) TP-11 Treatment Planning Systems,          
+               computerized workstations used to calculate and determine        
+               appropriate radiation treatment programs for doctors to          
+               administer to cancer patients.  Recall #Z-840/841-2.
+CODE           (a) Serial number range 01 through 3101 beginning with a "TH"    
+               or "THL" prefix; (b) Serial number range 07 through 543          
+               beginning with a "TP" or "TPL" prefix.
+MANUFACTURER   Theratronics International, Ltd., formerly Atomic Energy of      
+               Canada, Ltd. (AECL Medical), Carrollton, Texas.
+
+                                      -4-
+RECALLED BY    Theratronics International, Ltd., formerly Atomic Energy of      
+               Canada, Ltd. (AECL Medical), by user bulletin TH UB 00-001 sent  
+               January 31, 1992, Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 193 units; (b) 56 units were distributed.
+REASON         The 2 MByte National Memory Board responds incorrectly to a      
+               floating point divide by zero error which may result in          
+               creating a hazardous condition.
+
+              
+PRODUCT        Theraplan Treatment Planning System, a radiation treatment       
+               planning computer system.  Recall #Z-842-2.
+CODE           Serial numbers:  THL-500, THL-501, THL-504, THL-505, THL-513,    
+               THL-528, THL-529, THL-531.
+MANUFACTURER   Theratronics International, Ltd., formerly Atomic Energy of      
+               Canada, Ltd. (AECL Medical), Carrollton, Texas.
+RECALLED BY    Theratronics International, Ltd., formerly Atomic Energy of      
+               Canada, Ltd. (AECL Medical), by user bulletin TH HB 03-001.      
+               Firm-initiated field correction complete.
+DISTRIBUTION   Hawaii, Michigan, New York, Ohio, Pennsylvania, Wisconsin.
+QUANTITY       8 units were distributed.
+REASON         A change in the type of chip used in the manufacture of the MAP  
+               4000 Array Processor circuit board can cause erroneous dose      
+               calculations.
+
+              
+PRODUCT        Model PE 3000 Laser Graphic System.  Recall #Z-852-2.
+CODE           Serial numbers:  Undetermined.
+MANUFACTURER   Purup Electronics, Saint Paul, Minnesota.
+RECALLED BY    Manufacturer.  FDA approved the firm's corrective action plan    
+               June 23, 1992.  Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       9 units were distributed.
+REASON         Noncompliance with applicable performance and labeling           
+               requirements for laser products.  Further, product reports were  
+               not submitted for the device prior to its introduction into      
+               commerce.
+
+              
+PRODUCT        Holmium:  Yttrium Aluminum Garnet (YAG) Laser System Model       
+               Omni-Pulse 1210.  Recall #Z-853-2.
+CODE           Serial #160.
+MANUFACTURER   Trimedyne, Inc., Irvine, California.
+RECALLED BY    Manufacturer.  FDA approved the firm's corrective action plan    
+               June 23, 1992.  Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       28 units were distributed.
+
+                                      -5-
+REASON         Noncompliance with performance standard for laser products.  If  
+               the foot switch is immersed in conductive liquid (such as        
+               saline) the laser may continue lasing even if the footswitch is  
+               deactivated (released).
+
+              
+PRODUCT        Entera-Flo Stationary Enteral Feeding Pump, for dietary          
+               products systems stationary tube feeding.  Recall #Z-856-2.
+CODE           Each unit has unique number, the sequence is:
+               0G10061 through 0G10207 except 0G10187
+               0G10771 through 0G10780
+               9G10001 through 9G10060 except 9G10002 and 9E10021.
+MANUFACTURER   Fresenius AG, Bad Homburg, Germany.
+RECALLED BY    Fresenius Pharma, USA, Inc., New Brunswick, New Jersey.  Pumps   
+               were removed from the field between 10/1/90 through 12/30/90.    
+               Firm-initiated recall complete.
+DISTRIBUTION   Indiana, Pennsylvania, New Jersey, Ohio.
+QUANTITY       136 units were distributed; firm estimates none remains on the   
+               market.
+REASON         The pump may fail due to frozen or blank screens, unresponsive   
+               pumps or keyboards.  The pump will not respond to commands and   
+               will therefore fail to deliver feeding formula.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES - CLASS III
+              
+PRODUCT        Multi Level Protein Control Sera for Turbitime System (Human),   
+               a diagnostic tool used to measure serum proteins.
+               Recall #Z-838-2.
+CODE           Catalog #OWIG 11, lot numbers:  23006 and 22857 EXP 6/30/92 on   
+               kits; lot numbers:  018702 on Level L vial, 081802 on Level M    
+               vial, 081902 on Level H vial.
+MANUFACTURER   Behringwerke AG, Marburg, Germany.
+RECALLED BY    Behring Diagnostics, Inc., Somerville, New Jersey, by telephone  
+               March 12, 1992 and by letters March 23, 1992.  Firm-initiated    
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       885 kits were distributed.
+REASON         The reported albumin values were greater than the allowable 15%  
+               deviation from the assigned value for each level (low, medium    
+               and high) of the control.
+
+              
+PRODUCT        In-vitro diagnostic test kits for utilization of the             
+               cyanmethemoglobin technique as a method for the quantitative     
+               assay of whole blood hemoglobin:
+               (a) CMH Cyanmethemoglobin Liquid Reagent;
+               (b) Unitized Hemoglobin Test Kit Catalog #12-321-100A;
+               (c) Unitized Hemoglobin Test Kit Catakig #12-321-100B;
+               (d) Unitized Hemoglobin Test Kit Catakig #2321-100;
+               (e) Hemoglobin Test Kit Catalog #G507-00 and #G507-25.
+               Recall #Z-843/847-2.
+
+                                      -6-
+CODE           (a) CMH Cyanmethemoglobin Liquid Reagent
+               Catalog No.           Control No.   EXP Date
+               0321-380              91231         8/93
+               0321-380              91263         9/93
+               Each kit contains one 3800 ml flask of CMH Reagent
+               (b) Unitized Hemoglobin Test Kit -- 100 Tests
+               Catalog No.          Control No.     EXP Date
+               12-321-100A          91218            7/93
+               12-321-100A          91239            8/93
+               12-321-100A          91245            8/93
+               Each kit contains 100-2.5 ml vials of CMH Reagent
+               (c) Unitized Hemoglobin Test Set -- 100 Tests
+               Catalog No         Control No.     EXP Date
+               12-321-100B        91224           8/93
+               12-321-100B        91253           8/93
+               Each kit contains 100-5.0 ml vials of CMH Reagent
+               (d) Unitized Hemoglobin Test Kit -- 100 Tests
+               (Unitized for the Unimeter)
+               Catalog No.          Control No.     EXP Date
+               2321-100             91221           7/93
+               (e) Hemoglobin Test Kit (for use on Premiere, Eskalab-CCS or
+                         Serometer Filter Photometer)
+               Catalog No.           Control N.    EXP Date
+               G507-00 (100 tests)   91225        2/93
+               G507-25 (25 tests)    91225        2/93
+               Each of these test kits contain the component cyanmethemoglobin  
+               reagent (CMH) manufactured under one of the batch lot numbers    
+               19711, 20611, 22511, 23111 and 25511
+MANUFACTURER   Stanbio Laboratory, Inc., San Antonio, Texas.
+RECALLED BY    Manufacturer, by telephone and by letter dated November 8,       
+               1991.  Firm-initiated recall complete.
+DISTRIBUTION   Mississippi, Florida, California, Virginia, South Carolina,      
+               Maryland, Oregon, Tennessee, Pennsylvania, North Carolina, New   
+               Jersey, Iowa, Illinois, Indiana, Kentucky, Ohio, Oklahoma, West  
+               Virginia, Texas.
+QUANTITY       597 kits were distributed; firm estimates none remains on the    
+               market.
+REASON         Reports of contamination and low hemoglobin results involving    
+               their test kits.  Results of bacteriological studies revealed    
+               that all water samples and reagent vials contained Pseudomonas   
+               sp., now called Xanthomonas.
+
+SEIZURES:
+              
+PRODUCT        Chunk Light Tuna Fish (92-543-696).
+CHARGE         Adulterated - The product consists in part of decomposed
+               tuna fish; and the product is pet food which has been
+               relabeled as human food, thus concealing its inferiority.
+               Misbranded - The product is offered for sale under the name
+               of another food.
+FIRM           Food Bank of Central New York, North Syracuse, New York.
+
+                                      -7-
+FILED          April 6, 1992 - U.S. District Court for the Northern
+               District of New York; Civil #92-CV-441; FDC #66400.
+SEIZED         April 14, 1992 - goods valued at approximately $2,400.
+
+               
+PRODUCT        Chunk Light Tuna Fish (92-543-695).
+CHARGE         Adulterated - The product consists in part of decomposed
+               tuna fish; and the product is pet food which has been
+               relabeled as human food, thus concealing its inferiority.
+               Misbranded - The product is offered for sale under the name
+               of another food.
+FIRM           The Reclamation Center, Division of Victory Markets, Inc.,
+               Norwich, New York.
+FILED          April 6, 1992 - U.S. District Court for the Northern
+               District of New York; Civil #92-CV-441; FDC #66396.
+SEIZED         April 14, 1992 - goods valued at approximately $11,500.
+
+              
+PRODUCT        Surgical Stockinettes (92-647-548).
+CHARGE         Adulterated - The methods used in, and the facilities and
+               controls used for, their manufacture and packing are not
+               in conformity with current good manufacturing practice
+               requirements.
+FIRM           Etex Company, Division of Eagle Beef Cloth Co., Inc.,
+               Hauppauge, New York.
+FILED          June 15, 1992 - U.S. District Court for the Eastern District
+               of New York; Civil #CV 92-2805; FDC #66047.
+SEIZED         June 22, 1992 - goods valued at approximately $58,000.
+
+              
+PRODUCT        Dried Fungus and Hoisin Sauce (92-664-806/7).
+CHARGE         Adulterated - The products consist in part of a filthy
+               substance.  Misbranded - The product label is false and
+               misleading because it incorrectly represents the distributor
+               as the packer, and misidentifies the location of the firm.
+FIRM           Intertrade Import-Export, Inc., San Lorenzo, California.
+FILED          June 11, 1992 - U.S. District Court for the Northern
+               District of California; Civil #C92 2206; FDC #66454.
+SEIZED         June 12, 1992 - goods valued at approximately $5,550.
+
+                                      -8-
+
+
+END OF ENFORCEMENT REPORT FOR JULY 15, 1992.  BLANK PAGES MAY FOLLOW.
+
+                                     ###

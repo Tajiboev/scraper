@@ -1,0 +1,542 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      30 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+11/31/1994
+
+Recalls and Field Corrections:  Drugs -- Class III -- 11/31/1994
+
+November 30, 1994                                               94-48
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Chlorpromazine HCl 10 mg/5 ml Syrup, 4 ounces, Rx oral
+               tranquilizer/antiemetic.  Recall #D-032-5.
+CODE           75357 EXP 4/95.
+MANUFACTURER   Geneva Pharmaceuticals, Inc., Broomfield, Colorado.
+RECALLED BY    Manufacturer, by letter May 17, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Product found marginally superpotent.
+
+_______________
+PRODUCT        Levothyroxine Sodium Tablets, USP 0.1 mg, used in the
+               treatment of thyroid insufficiency, under the PBI and
+               Goldline labels, in bottles of 100 and 1000.  
+               Recall #D-033-5.
+CODE           Lot numbers:  T-036-01 (Goldline), T-036-02, T-036-03 (PBI).
+MANUFACTURER   Rosemont Pharmaceutical Corporation, formerly PBI, Denver,
+               Colorado.
+RECALLED BY    Manufacturer, by letter November 11, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,097 bottles of 100 tablets and 5,749 bottles of 1,000
+               tablets were distributed.
+REASON         Some individual tablets were found to be superpotent.
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        Cryoprecipitated AHF.  Recall #B-043-5.
+CODE           696 units.  Contact FDA, Center for Biologics Evaluation and
+               Research, Recall and Administrative Actions Branch 
+               (301)827-6220* for individual unit numbers recalled.
+MANUFACTURER   The Blood Center for Southeast Louisiana, New Orleans,
+               Louisiana.
+RECALLED BY    Manufacturer, by letters sent from November 15, 1993,
+               through April 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Louisiana, Massachusetts, Virginia.
+QUANTITY       696 units.
+REASON         Cryoprecipitated AHF, incorrectly processed, was
+               distributed.
+
+_______________
+PRODUCT        (a) Whole Blood; (b) Red Blood Cells; (c) Red Blood Cells,
+               expired; (d) Platelets; (e) Platelets, Pheresis; (f)
+               Platelets, Expired; (g) Cryoprecipitated AHF; (h) Fresh
+               Frozen Plasma; (i) Single Donor Plasma; (j) Recovered
+               Plasma.  Recall #B-046/055-5.
+CODE           Unit numbers:  (a) 15H42373, 15H42626, 15H42921, and
+               15J35741 
+               (b) 15F71095, 15F73626, 15F75710, 15F84931, 15F85643,
+               15F88768, 15F89523, 15F93786, 15F95293, 15G03814, 15G06425,
+               15G07303, 15G10396, 15G11396, 15G15879, 15G16724, 15G18224,
+               15G20752, 15G22865, 15G23767, 15G27849, 15G28205, 15G28492,
+               15G30495, 15G32171, 15G32960, 15G37634, 15G39305, 15G40901,
+               15G41369, 15G42233, 15G43520, 15G46111, 15G46601, 15G48196,
+               15G52103, 15G54517, 15G60302, 15G63757, 15G65615, 15G66254,
+               15J31077, 15J31850, 15J32704, 15J33393, 15J34037, 15J35587,
+               15J36281, 15J37805, 15J38572, 15J39150, 15J39890, 15J40989,
+               15J41791, 15J42416, 15J43065, 15J43753, 15J44455, 15J45194,
+               15J45738, 15J46400, 15J47021, 15J47454, 15J48051, 15J48702,
+               15J51346, 15J52022, 15J52630, 15J53205, 15J53894, 15J54473,
+               15J55148, 15J55842, 15J56415, 15K15839, 15K20249, 15K20369,
+               15K23303, 15K23907, 15K24380, 15KG03974, 15KG08635,
+               15KG12004, 15KG12221, 15KG16615, 15KG20449, 15KH00067,
+               15KH00709, 15KJ03201, 15KJ04293, 15KJ05512, and 20KK02437
+               (c) 20KK05079
+               (d) 15F71095, 15F73626, 15F75710, 15F84931, 15F88768,
+               15F93786, 15F95293, 15G10396, 15G16724, 15G22865, 15G28492,
+               15G32171, 15G32960, 15G40901, 15G52103, 15G54517, 15G60302,
+               15G65615, 15G66254, 15H42035, 15J31850, 15J32704, 15J33393,
+               15J36281, 15J37805, 15J39150, 15J39890, 15J42416, 15J43065,
+               15J43753, 15J44455, 15J45194, 15J45738, 15J46400, 15J47454,
+               15J48051, 15J48702, 15J51346, 15J52022, 15J53205, 15J53894,
+               15J54473, 15J55148, 15J55842, 15J56415, 15K15839, 15K20249,
+               15K20369, 15K23303, 15K24380, 15KJ03201, and 20KK02437
+               (e) 15P01055
+               (f) 15KG03974 and 15KH00709
+
+                                    -2-               (g) 15J33393, 15F84931, 15G23767, 15K21297, 15K23907, and
+               15KG08635
+               (h) 15J45738, 15G18224, 15G27849, 15G41369, and 15F75710 
+               (i) 15J44455, 15KJ05512, 15G06425, 15G28492, 15F88768,
+               15F89523, 15G60302, and 15F95293
+               (j) 15F71095, 15F73626, 15F84931, 15F93786, 15G03814,
+               15G07303, 15G10396, 15G11396, 15G15879, 15G16724, 15G20752,
+               15G22865, 15G23767, 15G24318, 15G28205, 15G30495, 15G32171,
+               15G32960, 15G37634, 15G39305, 15G40901, 15G42233, 15G43520,
+               15G46111, 15G46601, 15G48196, 15G52103, 15G54517, 15G60046,
+               15G63757, 15G65615, 15G66254, 15H42035, 15J31077, 15J31850,
+               15J32704, 15J33393, 15J34037, 15J35587, 15J36281, 15J37805,
+               15J38572, 15J39150, 15J39890, 15J40989, 15J41791, 15J42416,
+               15J43065, 15J43753, 15J45194, 15J46400, 15J47021, 15J47454,
+               15J48051, 15J48702, 15J51346, 15J52022, 15J52630, 15J53205,
+               15J53894, 15J54473, 15J55148, 15J55842, 15J56415, 15K15839,
+               15K20249, 15K20369, 15K21297, 15K23303, 15K23907, 15K24380,
+               15KG03974, 15KG08635, 15KG12004, 15KG12221, 15KG16615,
+               15KG20449, 15KH00067, 15KH00709, 15KJ03201, 15KJ04293,
+               20KK02437, and 20KK05079.
+MANUFACTURER   The American National Red Cross, Boise, Idaho.
+RECALLED BY    Manufacturer, by letters issued in March 1994, June 1, 1994,
+               and August 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Montana, New Jersey, Florida, Michigan, California, New
+               York, The Netherlands.
+QUANTITY       (a) 4 units; (b) 92 units; (c) 1 unit; (d) 52 units; (e) 1
+               unit; (f) 2 units; (g) 6 units; (h) 5 units; (i) 8 units;
+               (j) 83 units.
+REASON         Blood products that either:  tested repeatedly reactive for
+               the antibody to human immunodeficiency virus type 1 (anti-
+               HIV-1); tested negative for the anti-HIV-1 but were
+               collected from donors who previously tested initially or
+               repeatedly reactive for anti-HIV-1; or were not tested for
+               anti-HIV-1, were distributed.
+
+_______________
+PRODUCT        (a) Whole Blood; (b) Red Blood Cells; (c) Red Blood Cells,
+               Leukocytes Removed; (d) Platelets; (e) Platelets, Pooled;
+               (f) Cryoprecipitated AHF; (g) Fresh Frozen Plasma; (h) Red
+               Blood Cells for Further Manufacture; (i) Recovered Plasma;
+               (j) Recovered Plasma, Pooled.  Recall #B-076/085-5.
+CODE           552 unit numbers.  Contact FDA, Center for Biologics
+               Evaluation and Research, Recalls and Administrative Actions
+               Branch (301) 827-6220* for individual unit numbers recalled.
+MANUFACTURER   The Blood Center of Central Iowa, Des Moines, Iowa.
+RECALLED BY    Manufacturer, by letters of August 15 and 18, 1994, and
+               September 19, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   California, Illinois, Iowa, Louisiana, Michigan, Minnesota,
+               New York, Pennsylvania, Texas.
+QUANTITY       (a) 5 units; (b) 196 units; (c) 2 units; (d) 48 units; (e)
+               51 pools; (f) 1 unit; (g) 21 units; (h) 6 units; (i) 174
+               units; (j) 48 pools.
+
+                                    -3-REASON         Blood products, incorrectly tested for either anti-HIV-1/2;
+               HBsAg or anti-HTLV-I, were distributed. 
+
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Cryoprecipitated
+               AHF; (d) Recovered Plasma.  Recall #B-056/059-5.
+CODE           Unit numbers:  (a) 15F71092, 15F71093, 15F71094, 15F73624,
+               15F73625, 15F73627, 15F73628, 15G08035, 15G15310, 15G18000,
+               15K21336, 15L06657
+               (b) 15F71092, 15F71093, 15F71094, 15F73624, 15F73625,
+               15F73627, 15F73628, 15G15310
+               (c) 15K21336 
+               (d) 15F71092, 15F71093, 15F71094, 15F73624, 15F73625,
+               15F73627, 15F73628, 15G08035, 15G15310, 15G18000, 15K21336,
+               15L06657.
+MANUFACTURER   The American National Red Cross, Boise, Idaho.
+RECALLED BY    Manufacturer, by letters issued March 1994, June 1, 1994,
+               and August 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Montana, New Jersey, Florida, Michigan, California, New
+               York, The Netherlands.
+QUANTITY       (a) 12 units; (b) 8 units; (c) 1 unit; (d) 12 units.
+REASON         Blood products were not tested for anti-HIV-1, were
+               distributed.
+
+_______________
+PRODUCT        (a) Whole Blood; (b) Red Blood Cells; (c) Red Blood Cells,
+               Leukocytes Removed; (d) Red Blood Cells, Washed; (e) Red
+               Blood Cells, Deglycerolized; (f) Platelets; (g) Platelets,
+               Pheresis; (h) Platelets, Pooled; (i) Cryoprecipitated AHF;
+               (j) Fresh Frozen Plasma; (k) Red Blood Cells for Further
+               Manufacture; (l) Recovered Plasma; (m) Recovered Plasma,
+               Pooled.  Recall #B-086/098-5.
+CODE           2006 unit numbers.  Contact FDA, Center for Biologics
+               Evaluation and Research Recalls and Administrative Actions
+               Branch (301) 827-6220* for individual unit numbers recalled.
+MANUFACTURER   The Blood Center of Central Iowa, Des Moines, Iowa.
+RECALLED BY    Manufacturer, by letter September 19, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   California, Illinois, Iowa, Louisiana, Michigan, Minnesota,
+               New York, Pennsylvania, Texas.
+QUANTITY       (a) 5 units; (b) 823 units; (c) 4 units; (d) 1 unit; (e) 5
+               units; (f) 181 units; (g) 5 units; (h) 50 pools; (i) 39
+               units; (j) 93 units; (k) 15 units; (l) 739 units; (m) 46
+               pools.
+
+                                    -4-REASON         Blood products, incorrectly tested for either anti-HIV-1/2;
+               HBsAg; or anti-HTLV-I, were distributed for transfusion or
+               further manufacture into injectable products.
+
+
+RECALLS AND FIELD CORRECTION:  DEVICES -- CLASS II
+========================
+_______________
+PRODUCT        Gonogen Test Kit, used for the confirmatory identification
+               of Neisseria gonorrheae.  Recall #Z-010-5.
+CODE           Lot #126.
+MANUFACTURER   New Horizons Diagnostics Corporation, Columbia, Maryland.
+RECALLED BY    Manufacturer, by telephone on or about April 1992.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Undetermined.
+REASON         The kit's sensitivity was decreasing because the strong
+               binding monoclonal of the antibody pool was losing
+               stability.
+
+_______________
+PRODUCT        Coltolux curing light dental devices designed for intra-oral
+               polymerization of all visible light cured restorative dental
+               materials: (a) Coltolux 3, Catalog numbers:  C7910, C7911,
+               C7913; (b) Coltolux 4, Catalog numbers:  C7915, C7916,
+               C7918.  Recall #Z-098/099-5.
+CODE           All serial numbers ending in the 4 digit range of 0001 to
+               2399.
+MANUFACTURER   Coltene/Whaledent, Inc., Mahwah, New Jersey.
+RECALLED BY    Manufacturer, by technical bulletin letters dated April
+               1994.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       2,399 units were distributed; firm estimates none remains on
+               the market.
+REASON         Some of the filters used in the curing lights were
+               defective.
+
+_______________
+PRODUCT        Safetex Super Sensitive Lubricated Condoms, Product #908.
+               Recall #Z-104-5.
+CODE           All lots manufactured and introduced into interstate
+               commerce from 1/21/94 to 9/28/94 at Safetex, Division of
+               Aladan, Colonial Heights, Virginia, or Eufaula, Alabama.
+MANUFACTURER   Safetex, Division of Aladan Corporation,
+               Eufaula, Alabama.
+RECALLED BY    Safetex, Division of Aladan Corporation, Colonial Heights,
+               Virginia, by telephone, and by fax October 14, 1994.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   New York, Illinois, New Jersey, North Carolina, Arizona,
+               California, Ohio, Wisconsin, Texas, Missouri, Nebraska.
+QUANTITY       7,232 gross were distributed; firm estimated that 1,000
+               gross remained on market at time of recall.
+
+                                    -5-REASON         The subject lots failed to meet the airburst test
+               specification of Aladan's original customer, USAID.  They
+               were subsequently shipped to Safetex where they were packed
+               and distributed to other customers.  Water leak testing of
+               four of the suspect lots revealed that three lots exceeded
+               the 0.4 AQL adulteration level.
+
+_______________
+PRODUCT        McGaw Protected Needle, (Needleless Needle), a sheathed and
+               recessed safety needle used for accessing I.V. lines during
+               I.V. therapy, sold individually or in sets:
+               (a) Catalog #N2319, Protected Needle 19 gauge;
+               (b) Catalog #V1921-19, Protected Needle 19 gauge packaged
+               with I.V. administration set;
+               (c) Catalog #V1922-19, Protected Needle 19 gauge packaged
+               with a vented I.V. administration set;
+               (d) Catalog #V6312-22, Protected Needle 22 gauge packaged
+               with microbore extension set.  Recall #Z-113/116-5.
+CODE           Lot numbers:  (a) F4H166, FHJ155, F45156; (b) F4H232,
+               F4H233, F4J037, F4J038, F4J203; (c) F4J039; (d) F4E165,
+               F4E276, F4E373, F4H043, F4H372.
+MANUFACTURER   McGaw of Puerto Rico, Sabana Grande, Puerto Rico.
+               Inland Technologies, Inc., Fontana, California (plastic
+               shield).
+RECALLED BY    McGaw, Inc., Irvine, California, by letter September 2,
+               1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       214,100 units were distributed; firm estimated that 20% of
+               the distributed units remained on the market at the time the
+               recall was initiated.
+REASON         The needle sheaths were manufactured with a defective
+               plastic shield which may break during use and cause I.V.
+               fluid leakage.
+
+_______________
+PRODUCT        Apnea Monitors, multiple models with unprotected (exposed
+               pin style) lead wires and unprotected patient cables.
+               Recall #Z-117-5.
+CODE           None.
+MANUFACTURER   Air-Shields Vickers Medical, Hatboro, Pennsylvania.
+RECALLED BY    Manufacturer, by letter January 17, 1994.  Firm-initiated
+               field correction ongoing.
+DISTRIBUTION   Undetermined.
+QUANTITY       Undetermined.
+REASON         Product labeling fails to provide adequate directions for
+               use and the devices pose an unwarranted risk of injury to
+               patients, because the product is not labeled to warn against
+               the hazards of unprotected electrode lead wires being
+               connected to electrical power sources.
+
+                                    -6-_______________
+PRODUCT        Electrode Lead Wires, multiple models, used with
+               electroencephalograph, electromyograph and electrophysiology
+               monitors, and other similar devices.  Recall #Z-118-5.
+CODE           All models with unprotected exposed metal pins, marketed in
+               the past 3 years.
+MANUFACTURER   Staodyn, Inc., Longmont, Colorado.
+RECALLED BY    Manufacturer, by letters August 1994. Firm-initiated field
+               correction ongoing.
+DISTRIBUTION   Undetermined.
+QUANTITY       Undetermined.
+REASON         Product labeling fails to provide adequate directions for
+               use and the devices pose an unwarranted risk of injury to
+               patients, because the products are not labeled to
+               contraindicate use with apnea monitors.
+
+_______________
+PRODUCT        5/0 Blue TI.Cron with Teflon Pledget, polyester
+               nonabsorbable surgical suture, Catalog #3297-71.  
+               Recall #Z-123-5.
+CODE           Lot numbers:  927726 EXP 7/99, 923251 EXP 6/99, 926563 EXP
+               6/99, 924586 EXP 6/99.
+MANUFACTURER   Davis & Geck, Inc., Manati, Puerto Rico.
+RECALLED BY    Davis & Geck, Division of American Cyanamid Company,
+               Danbury, Connecticut, by letter September 6, 1994.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide, Finland, Israel, France, Austria, Poland, Italy
+               United Kingdom.
+QUANTITY       5,724 units were distributed.
+REASON         The teflon pledge attachment strength may be affected due to
+               incorrect radiation sterilization processing.
+
+_______________
+PRODUCT        Triad DuaLine Dual-Cure Reline Material used for the
+               relining of dentures usually after gums have receded in the
+               following products:
+               (a) DuaLine Introductory Kit (Catalog No. 89825);
+               (b) DuaLine Refill Kit (Catalog No. 89820);
+               (c) Triad VLC Material Sample Kit (Catalog No. 90130). 
+               Recall #Z-124/126-5.  
+CODE           Lot numbers:  (a) 940119, 940120A-D; 940203A,B; 940204A;
+               940511A; 940405A,B; 940503A,B; 940505A,B; 940517A.  
+               (b) 931217b; 931220A; 931221A; 940105A; 940110A; 
+               940120A,B; 940221A; 940307A; 940331A,B; 940401A,B; 
+               940401C; 940404A. 
+               (c) 940111A; 940211A,B; 940302A-E; 940303A-I; 
+               940317A,B; 940318A,B; 940321A; 940322A; 940323A-E; 
+               940330A-C; 940331A-B; 940428A; 940429A-C; 
+               940520A-D.
+MANUFACTURER   Dentsply Trubyte Division (formerly York Division), York,
+               Pennsylvania.
+
+                                    -7-RECALLED BY    Dentsply International, Inc., York, Pennsylvania, by letter
+               July 6, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       3,707 kits were distributed.
+REASON         Some of the denture reline material was not curing properly.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Stratus Ultra-Sensitive Human Thyroid Stimulating Hormone
+               (hTSH) Fluorometric Enzyme Immunoassay, an automated
+               procedure for the quantitative determination of hTSH in
+               serum and plasma samples.  Recall #Z-088-5.
+CODE           Catalog #B5700-44, Lot # KXTS-516M.
+MANUFACTURER   Baxter Diagnostic of Puerto Rico, Inc., Aguada, Puerto Rico.
+RECALLED BY    Baxter Diagnostic, Inc., Miami, Florida, by letter August
+               1994.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       491 kits were distributed.
+REASON         An incorrect checksum was calculated by using the wrong
+               expiration date in the original calculation provided to the
+               customers in the product label.
+
+_______________
+PRODUCT        Dade brand TDM (Therapeutic Drug Monitoring) Control, Level
+               I-Low, Level II-Intermediate and Level III-High: 
+               (a) Catalog #B5700-1; (b) Catalog # B5700-2; (c) Catalog
+               #B5700-3; (d) Catalog #B5700-4; (e) Catalog #B5700-S. 
+               Recall #Z-093/097-5.
+CODE           Lot numbers:  (a) TDMK-24; (b) TDM1-124; (c) TDM2-224; 
+               (d) TDM3-324; (e) TDMK-24.  All reagent expire 8/28/96.
+MANUFACTURER   Baxter Diagnostics, Inc., Miami, Florida.
+RECALLED BY    Manufacturer, by letter July 20, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       20,907 units were distributed.
+REASON         There has been a change in the published expected range of
+               the mean for the TDM control.
+
+___________
+PRODUCT        Captia Rubella-G, enzyme immunoassay for the detection of
+               IgG antibodies to Rubella Virus in human serum, under the
+               following labels:  (a) Centocor; (b) Syva; (c) Fresenius;
+               (d) Dako.  Recall #Z-119/122-5.
+CODE           Lot numbers:  (a) 4161053, 4164053, 4165053, 35K0054; (b)
+               4162053, 35K0054; (c) 4163053, 35K0054; (d) 35K0054.
+MANUFACTURER   Centocor, Inc., Malvern, Pennsylvania.
+RECALLED BY    Manufacturer, by letter dated May 20, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   California, Massachusetts, international.
+
+                                    -8-QUANTITY       The firm estimated that 300 kits of lot 35K0054 remained on
+               market at time of recall.  The other lots have passed their
+               expiration date and therefore should not be in the
+               commercial channel.
+REASON         The high and low titer positive controls supplied with the
+               device tested positive to antibodies to Hepatitis C.
+
+_______________
+PRODUCT        Frozen Shrimp (94-595-108/9).
+CHARGE         Adulterated - The articles consist in part of a filthy
+               substance by reason of the presence therein of insects,
+               rodent hair, and cat or dog hair.
+LOCATION       Northwestern Meat, Inc., Miami, Florida.
+FILED          September 21, 1994; U.S. District Court for the Southern
+               District of Florida; Civil #94-1970-CIV-MOORE; FDC #66961.
+SEIZED         October 16, 1994 - goods valued at approximately $18,045.
+
+_______________
+PRODUCT        Acu-Stop 2000 (plastic ear piece that is promoted for weight
+               loss) (94-682-497).
+CHARGES        Adulterated - The article is a class III device for which no
+               approved premarket approval application is in effect. 
+               Misbranded - The article was manufactured in an establish-
+               ment not duly registered as required, and the article was
+               not included in a required list.
+LOCATION       Original Marketing, Inc., Coral Springs, Florida.
+FILED          October 21, 1994; U.S. District Court for the Southern
+               District of Florida; Civil #94 7021 CIV-RYSKAMP; FDC #66976.
+SEIZED         November 1, 1994 - goods valued at approximately $568,431.
+
+                                    -9-
+
+
+END OF ENFORCEMENT REPORT FOR NOVEMBER 30, 1994.  BLANK PAGES MAY
+FOLLOW.
+
+                                   ####
+
+
+*Telephone number changed April 16, 1999
+(Hypertext updated by jch 1999-APR-29)

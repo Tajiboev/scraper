@@ -1,0 +1,640 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  May
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      32 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+05/01/1990       
+
+FDA Enforcement for the week of MAY 2, 1990 
+
+
+
+                            FDA ENFORCEMENT REPORT
+                                FOR MAY 2, 1990 
+
+                                                          May 2, 1990 
+Recalls and Field Corrections:
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  Product will cause serious adverse health consequences or 
+                  death.
+
+                                     NONE 
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the 
+                  probability of serious adverse health consequences is 
+                  remote. 
+
+
+Product:          Porcelain hand painted China bowls (10", 12" and 14"),
+                  manufactured in China and imported through Hong 
+                  Kong and the port of Philadelphia:
+
+                                      -1- 
+
+
+
+
+
+                  Item            Pattern #'s     Design
+                  (a) 12" BOWL    087*-575E-BE    BLUE FAMILE ROSE
+                  (b) 14" BOWL    087*-575E-BE    BLUE FAMILE ROSE
+                  (c) 10" BOWL    087*-575N-GF    CHINESE FAMILE ROSE 
+                  (d) 12" BOWL    087*-575N-GF    CHINESE FAMILE ROSE 
+                  (e) 14" BOWL    087*-575N-GF    CHINESE FAMILE ROSE 
+                  (f) 10" BOWL    087*-588-BK     BLACK FLORAL
+                  (g) 12" BOWL    087*-588-BK     BLACK FLORAL
+                  (h) 14" BOWL    087*-588-BK     BLACK FLORAL
+                  (i) 10" BOWL    087*-627-WT     JAPANESE IMARI
+                  (j) 12" BOWL    087*-627-WT     JAPANESE IMARI
+                  (k) 14" BOWL    087*-627-WT     JAPANESE IMARI
+                  (l) 14" BOWL    087*-625-WT     KUTAI FAN 
+                  (m) 12" BOWL    087*-TKJ-WT     KUTAI GOLD
+                  (n) 14" BOWL    087*-TKJ-WT     KUTAI GOLD. 
+                  Recall #F-490/503-0.
+Code:             Not coded.
+Manufacturer:     Product of China. 
+Recalled by:      Pearl of the East, Inc., Philadelphia, Pennsylvania.
+                  by press release March 2, 1990 and by telephone or
+                  letter.  Firm-initiated recall ongoing. 
+Distribution:     Pennsylvania. 
+Quantity:         25 bowls were distributed.
+Reason:           Products contain excessive levels of leachable lead and 
+                  lack permanent warnings.
+
+                                     ---- 
+
+                  Class III - A situation in which the use of, or exposure to 
+                  a violative product is not likely to cause adverse health 
+                  consequences. 
+
+
+Product:          Duke's Balsamic Vinegar of Modena, in 16.5 ounce jars.
+                  Recall #F-488-0.
+Code:             All lots. 
+Manufacturer:     Aceto Balsamico Del Duca, Adriano Grusoli s.r.l., 
+                  S. Vito, Modena, Italy. 
+Recalled by:      Haddon House Food Products Inc., Medford, New Jersey, by
+                  letter to salesmen November 28, 1989.  Firm-initiated field 
+                  correction ongoing. 
+Distribution:     Nationwide. 
+Quantity:         2,553 cases were distributed. 
+Reason:           Product contains undeclared sulfites. 
+
+                                     ---- 
+
+                                   COSMETICS
+
+                                     NONE 
+
+                                      -2- 
+
+
+
+
+
+
+                           HUMAN DRUGS AND BIOLOGICS
+
+                  Class I - 
+                                     NONE 
+
+                  Class II -
+
+Product:          Rugby brand Ergoloid Mesylates Oral Tablets, 1.0 mg,
+                  in bottles of 100, 500 and 1,000 an Rx drug used for
+                  treatment of cerebrovascular insufficiency, especially in 
+                  elderly patients.  Recall #D-230-0. 
+Code:             Lot No:            Exp. Date   Lot No.        Exp. Date 
+                  803PR042           April 90    810PR021       Oct 90
+                  803PR043           April 90    812PR006       Dec 90
+                  803PR044           April 90    812PR007       Dec 90
+                  803PR045           April 90    812PR017       Dec 90
+                  804PR010           May 90      905PR003       May 91
+                  804PR011           May 90      907PR013       Aug 92
+                  804PR012           May 90      908PR010       Aug 92
+                  804PR013           May 90      910PR017       Oct 92
+                  804PR014           May 90      911PR025       Nov 92
+                  804PRO15           May 90      901PR028       Feb 91
+                  809PR002           Sept 90     001PR009       Jan 93
+                  001PR023           Jan 93 
+Manufacturer:     Chelsea Laboratories, Caribe, Inc., Bayamon, Puerto Rico. 
+Recalled by:      Chelsea Laboratories, Inc., West Hempstead, New York, 
+                  by letter April 2, 1990.  Firm-initiated recall ongoing.
+Distribution:     New York. 
+Quantity:         54,474 bottles of 100, 4,629 bottles of 500 and 13,651
+                  bottles of 1,000 were distributed.
+Reason:           Lack of assurance of bioequivalency and Abbreviated New 
+                  Drug Application discrepancies. 
+
+                                     ---- 
+
+Product:          Rugby brand Doxycycline Hyclate Tablets, 100 mg., in
+                  bottles of 100, 500, and 1000 an Rx tetracycline-type 
+                  antibiotic used for treatment of a variety of microbial 
+                  conditions including those affecting the genito-urinary 
+                  tract.  Recall #D-231-0.
+Code:             Lot No      Exp. Date       Lot No       Exp. Date
+                  803PR047    April 90        905PR028     Jun 91 
+                  803PR002    April 90        907PR007     Aug 91 
+                  811PR034    Nov 90          911PR019     Nov 91 
+                  901PR014    Jan 91          911PR019     Nov 91 
+                  903PR001    Mar 91          002PR015     Mar 92 
+                  903PR001    Mar 91
+Manufacturer:     Chelsea Laboratories, Caribe, Inc., Bayamon, Puerto Rico. 
+Recalled by:      Chelsea Laboratories, Inc., West Hempstead, New York, by
+                  letter April 2, 1990.  Firm-initiated recall ongoing. 
+Distribution:     New York. 
+                                      -3- 
+
+
+
+
+
+Quantity:         48,386 bottles of 100; 11,338 bottles of 500; 
+                  and 15,709 bottles of 1,000 were distributed. 
+Reason:           Lack of assurance of bioequivalency and Abbreviated 
+                  New Drug Application discrepancies. 
+
+                                     ---- 
+
+Product:          Penicillin G Potassium Tablets, 250,000 units, in 1,000 
+                  tablet bottles, an Rx antibiotic product, under the Purepac,
+                  Wesley, and Rugby labels.  Recall #D-232-0. 
+Code:             Lot #17594 EXP 06/92. 
+Manufacturer:     Biocraft Laboratories, Elmwood Park, New Jersey.
+Recalled by:      Biocraft Laboratories, Fairlawn, New Jersey, by telephone 
+                  February 22, 1990 followed by letter February 27, 1990. 
+                  Firm-initiated recall ongoing.
+Distribution:     New Jersey, New York, Pennsylvania. 
+Quantity:         972 bottles were distributed (???)
+Reason:           Subpotency. 
+
+                                     ---- 
+
+Product:          Lannett Probalan Tablets, 500 mg., in 100, 500, and 
+                  1,000 tablet bottles, an Rx product for treatment of
+                  hyperuricemia associated with gout and gouty arthritis. 
+                  Recall #D-233-0.
+Code:             Lot numbers: 24542 EXP 4/90, 24807 EXP 7/90,
+                  24841 EXP 8/90, 24874 EXP 10/90, 24877 EXP 11/91, 
+                  24543 EXP 8/92, 24544 EXP 8/92. 
+Manufacturer:     Lannett Company, Inc., Philadelphia, Pennsylvania.
+Recalled by:      Manufacturer, by letter March 13, 1990.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Alabama, New York, California, Massachusetts, Missouri, 
+                  Maryland, Illinois, Ohio, Tennessee, Oklahoma, Arizona, 
+                  Florida, Michigan, Utah.
+Quantity:         1,004,600 tablets were distributed; firm estimates none 
+                  remains on market.
+Reason:           Product was marketed as a reformulated product without
+                  approval. 
+
+                                     ---- 
+
+Product:          Propranolol HCl Tablets USP, packaged in bottles of 100,
+                  500, and 1,000 an Rx beta adrenergic receptor blocking
+                  agent indicated in the management of hypertension, may be 
+                  used alone or used in combination with other anti-
+                  hypertenssive agents, particulary a thiazide diuretic,
+                  under the Bioline, Goldline, URL, and Superpharm labels:
+                  (a) 10 mg.; (b) 20 mg.; (c) 40 mg.; (d) 80 mg.
+                  Recall #D-238/241-0.
+Code:             All unexpired lots manufactured by Superpharm Corp. 
+Manufacturer:     Superpharm Corporation, Bayshore, New York. 
+Recalled by:      Manufacturer, by letter March 13, 1990.   Firm-initiated
+                  recall ongoing. 
+
+                                      -4- 
+
+
+
+
+
+Distribution:     Florida, California, Ohio, Texas, Connecticut, New York 
+                  Pennsylvania. 
+Quantity:         (a) 2,000 (100's), 2,300 (1,000's); 
+                  (b) 2,100 (100's), 2,200 (1,000's); 
+                  (c) 2,100 (100's), 2,400 (1,000's); 
+                  (d) 1,800 (100's), 200 (500's) bottles were distributed.
+Reason:           Lack of assurance of bioequivalency and Abbreviated 
+                  New Drug Application discrepancies. 
+
+                                     ---- 
+
+Product:          (a) Red Blood Cells; (b) Cryoprecipitated AHF;
+                  (c) Recovered Plasma.  Recall #B-118/120-0. 
+Code:             Unit #17H70064. 
+Manufacturer:     American Red Cross Blood Services, St. Paul, Minnesota. 
+Recalled by:      Manufacturer, by telephone and by telefax March 28, 1989. 
+                  Firm-initiated recall complete. 
+Distribution:     Massachusetts, Minnesota and Washington, D.C. 
+Quantity:         1 unit of each component was distributed. 
+Reason:           Blood products, drawn from a donor who participated in
+                  high-risk behavior, were distributed. 
+
+                                     ---- 
+
+                  Class III-
+
+Product:          Platelets.  Recall #B-121-0.
+Code:             Unit #17L84086. 
+Manufacturer:     American Red Cross Blood Services, St. Paul, Minnesota. 
+Recalled by:      Manufacturer, by telephone May 8, 1989.  Firm-
+                  initiated recall complete.
+Distribution:     Minnesota.
+Quantity:         1 unit was distributed and destroyed. 
+Reason:           Platelets were improperly tested for the antibody to the
+                  human immunodeficiency virus (anti-HIV-1).
+
+                                     ---- 
+
+                         MEDICAL DEVICES AND RADIOLOGY
+
+                  Class I - 
+
+                                     NONE 
+
+                  Class II -
+
+Product:          Model EW100 TOM Laser System, an optical gauging device 
+                  used in manufacturing control, machine tool control and 
+                  inspection.  Recall #Z-462-0. 
+
+                                      -5- 
+
+
+
+
+
+Code:             Model Nos.             Serial Nos.: 
+                  EW 100/112, 411       03-085E, 016, 112, 02-063-C,
+                                        03-018-C; 
+                  EW 100/412, 432/113   00-046-5, 462, 00-067/0039, 
+                                        00-084/3503;
+                  EW 100/412, 412/113   00-071/3003, 00-051/0113, 
+                                        00-070/3003.
+Manufacturer:     Haenni & Company, Ltd., Jegenstorf, Switzerland.
+Recalled by:      Haenni Instruments, Inc., Gretna, Louisiana.  FDA 
+                  approved the firm's corrective action plan February 27, 
+                  1990.  Firm-initiated field correction ongoing. 
+Distribution:     Michigan, Pennsylvania, California, Indiana, Ohio, Virginia.
+Quantity:         16 units were distributed.
+Reason:           Noncompliance with the performance standard for laser 
+                  products in that the product lacked adequate required 
+                  labeling, beam attenuator, remote control connector and 
+                  key switch. 
+                                     ---- 
+
+Product:          (a) Latex and (b) Vinyl Examination Gloves, medium size 
+                  only, packaged 100 gloves per box, 20 boxes per case. 
+                  Recall #Z-540/541-0.
+Code:             Not coded.
+Manufacturer:     Spectrum Brokers, Inc., Twinsburg, Ohio.
+Recalled by:      Manufacturer, by telephone and visit on or about
+                  February 5, 1990.  Firm-initiated recall complete.
+Distribution:     Ohio, Indiana, Michigan, Wisconsin, Minnesota.
+Quantity:         (a) 205 cases; (b) 150 cases were distributed.
+Reason:           Products contain holes in excess of the 20% limit of FDA's
+                  leak test.
+                                     ---- 
+
+Product:          Cobe BRAT (Baylor Rapid Autologous Transfusion) System
+                  Bowl, a microprocessor controlled and designed for
+                  intraoperative blood recovery and cell washing, and return
+                  of washed cells to the patient  Recall #Z-542-0.
+Code:             Catalog numbers:  007250-000, 007125-000, 007214-000, 
+                  lot numbers: F10039A, F10039B, F10039C, F10039D, F10039E, 
+                  F11039A, F11039B, F11039C, F12039A, F12039B, F12039C, 
+                  F11159A.
+Manufacturer:     Cobe Laboratories, Arvada, Colorado.
+Recalled by:      Manufacturer, by letter February 8, 1990.  Firm-initiated 
+                  field correction ongoing. 
+Distribution:     Nationwide, Belgium, Australia, Canada, France, Japan.
+Quantity:         Approximately 3,338 units were distributed. 
+Reason:           The bowls may leak after the wash cycle.
+
+                                     ---- 
+
+Product:          Cobe BRAT (Baylor Rapid Autologous Transusion) System,
+                  a microprocessor controlled and designed for intraoperative 
+                  blood recovery and cell washing, and return of washed 
+                  cells to the patient.  Recall #Z-543-0. 
+
+                                      -6- 
+
+
+
+
+
+Code:             All serial numbers. 
+Manufacturer:     Cobe Laboratories, Arvada, Colorado.
+Recalled by:      Manufacturer, by letter February 27, 1990.
+                  Firm-initiated field correction ongoing.
+Distribution:     Nationwide, Belgium, Australia, Canada, France, Japan.
+Quantity:         Approximately 50 units were distributed.
+Reason:           Software error in the auto wash function may cause the
+                  wash bag to overfill and burst. 
+
+                                     ---- 
+
+Product:          Bennett X-Ray System Control Model D-325.  Recall #Z-549-0. 
+Code:             Serial #B-12860.
+Manufacturer:     Bennett X-Ray Corporation, Copiague, New York.
+Recalled by:      Radco Imaging Technologies, Odessa, Texas (assembler).
+                  FDA approved the firm's corrective action plan April 9, 
+                  1990.  Firm-initiated field correction complete.
+Distribution:     Texas.
+Quantity:         1 unit was distributed and was corrected. 
+Reason:           Noncompliance with the performance standard for diagnostic
+                  x-ray products in that it did not have a SID indicator. 
+
+                                     ---- 
+
+Product:          Universal Allied X-Ray System, Model No. 3490, for
+                  chiropractic use.  Recall #Z-550-0. 
+Code:             Serial #KF3994-0280.
+Manufacturer:     Universal Allied Imaging, Inc., Chicago, Illinois.
+Recalled by:      Alpha X-Ray, Inc., Tulsa, Oklahoma.  FDA approved 
+                  the firm's corrective action plan March 16, 1990.  Firm-
+                  initiated field correction complete.
+Distribution:     Oklahoma. 
+Quantity:         1 unit was distributed and was corrected. 
+Reason:           Noncompliance with the performance standard for diagnostic
+                  x-ray products in that a means to align the center of the 
+                  x-ray field with respect to the center of the image receptor
+                  to within two percent of the SID was not provided.
+
+                                     ---- 
+
+Product:          Raytheon X-Ray System Model RME-325R.  Recall #Z-551-0. 
+Code:             Serial #1-12-84-055.
+Manufacturer:     Fisher Imaging Corporation, Raytheon Medical Systems
+                  Division, Denver, Colorado. 
+Recalled by:      L & W X-Ray Company, Inc., Beaumont, Texas (assembler), 
+                  FDA approved the firm's corrective action plan March 19 
+                  1990.  Firm-initiated field correction complete.
+Distribution:     Texas.
+Quantity:         1 unit was distributed and was corrected. 
+
+                                      -7- 
+
+
+
+
+
+Reason:           Noncompliance with the performance standard for diagnostic
+                  x-ray products in that the x-ray field size was misaligned
+                  to the undertable image receptor. 
+
+
+                                      --- 
+
+Product:          Bennett Stationary Radiographic X-Ray Unit Model P-325AT. 
+                  Recall #Z-554-0.
+Code:             Serial #B12074. 
+Manufacturer:     Bennett X-Ray Corporation, Copiague, New York.
+Recalled by:      Radco Imaging Technologies, Odessa, Texas.  FDA approved
+                  the firm's corrective action plan April 9, 1990.
+                  Firm-initiated field correction complete. 
+Distribution:     Texas.
+Quantity:         1 unit was distributed and was corrected. 
+Reason:           Noncompliance with the performance standard for diagnostic
+                  x-ray products in that the x-ray field size was misaligned
+                  to the undertable image receptor. 
+
+                                     ---- 
+
+                  Class III - 
+
+Product:          Beckman Digoxin Reagent Kit, used for the quantitative
+                  determination of digoxin consentration in serum using the 
+                  Beckman Synchron CX4 and CX5 Analyzer Systems.
+                  Recall #Z-487-0.
+Code:             Part #442887 -- All lots. 
+Manufacturer:     Beckman Instruments, Inc., San Diego, California. 
+Recalled by:      Beckman Instruments, Inc., Brea, California, by 
+                  letters of December 11, 1989 and January 22, 1990.
+                  Firm-initiated field correction ongoing.
+Distribution:     Nationwide and international. 
+Quantity:         Approximately 340 units were distributed. 
+Reason:           Loss of recovery of quality control materials before the
+                  36 hour calibration interval. 
+
+                                     ---- 
+
+Product:          550 Express Analyzer, a chemistry analyzer for
+                  in-vitro diagnostic use.  Recall #Z-539-0.
+Code:             Various serial numbers starting with 101 and going
+                  through 1745.  Serial numbers are not all consecutive and 
+                  many were not released for distribution.
+Manufacturer:     Ciba Corning Diagnostics Corporation, Oberlin, Ohio.
+Recalled by:      Manufacturer, by letter dated February 9,1990.
+                  Firm-initiated field correction ongoing.
+Distribution:     Nationwide. 
+Quantity:         1,302 units were distributed. 
+
+                                      -8- 
+
+
+
+
+
+Reason:           If a position sensor in the sample transport were to fail,
+                  this would result in the device failing to home the 
+                  sample transport correctly. 
+
+                                     ---- 
+
+Product:          Air Shields Remote Alarm Module (RAM), Model AM68-1 
+                  Compatible with Air-Shields Vickers Model C100, C200, 
+                  C100QT and C200QT Isolette Infant Incubators.  This 
+                  optional accessory provides the unit with enhanced
+                  audible and visual alarm capabilities.  Recall #Z-544-0.
+Code:             All serial numbers. 
+Manufacturer:     Air-Shield Vickers, Hatboro, Pennsylvania.
+Recalled by:      Manufacturer, by letter the week of April 8, 1990.
+                  Firm-initiated field correction ongoing.
+Distribution:     Nationwide and international. 
+Quantity:         Approximately 631 units were distributed. 
+Reason:           Failure to fully insert the 1/4 diameter phono jack 
+                  connector on the incubator can disable the audible and
+                  visual alarms on the remote alarm module and the audible
+                  alarms on the incubator.
+
+                                     ---- 
+
+                              VETERINARY PRODUCTS 
+
+                  Class I - 
+                                     NONE 
+
+                  Class II -
+
+Product:          Life Cycle 30% Lamb Grower-Finisher-LS-100 Medicated
+                  Feed containing Lasalocid Sodium 100 gm/ton, in 50
+                  pound bags, used for the prevention of coccidiosis. 
+                  Recall #V-040-0.
+Code:             Lot numbers: 11319X, 111324X, 111317, 111325, 111326. 
+Manufacturer:     Indiana Farm Bureau Cooperative Association, Inc.,
+                  Indianapolis, Indiana and Rochester, Indiana. 
+Recalled by:      Manufacturer, by telephone February 22, 1990.  Firm-
+                  initiated recall complete.
+Distribution:     Indiana.
+Quantity:         362 bags were distributed; firm estimates none remains on 
+                  market. 
+Reason:           The product is superpotent in Lasalocid sodium. 
+
+                                     ---- 
+
+                  Class III - 
+                                     NONE 
+
+                                      -9- 
+
+
+
+
+
+Medical Device Safety Alert:
+
+Product:          Clip-on Spray Tube Assembly, an air water spray accessory 
+                  used with the Midwest Shorty Low Speed Handpiece Air Motor
+                  Dental units: 
+                  (a) Catalog #710012; (b) Catalog #710013; (c) Catalog 
+                  #710022;
+                  (d) Catalog 230601.  Safety Alert #M-035/038-0. 
+Code:             All lots. 
+Manufacturer:     Midwest Dental Products Corporation, Des Plaines, Illinois. 
+Alerted by:       Manufacturer, by letter dated April 3, 1990.
+Distribution:     Nationwide. 
+Quantity:         Unknown.
+Reason:           The devices present a possible risk of air embolism or acute
+                  emphysema with a risk for infection in an oral cavity when
+                  a soft tissue wound is present. 
+
+                                     ---- 
+
+Product:          Star Exhalation Isolation System, Siemens Version, a
+                  ventilator circuit heating device used with the Siemens 
+                  900B, 900C and 900D Servo Ventilators to improve the
+                  stability of the flow sensor by keeping the components of 
+                  the ventilator both clean and dry.  Safety Alert #M-039-0.
+Code:             Product #45 40 50 -- All serial numbers.
+Manufacturer:     Infrasonics, Inc., San Diego, California. 
+Alerted by:       Siemens Life Support Systems, Division of 
+                  Elema-Schonander, Inc., Schaumburg, Illinois, by
+                  letter November 17, 1989. 
+Distribution:     Nationwide. 
+Quantity:         1,836 units were distributed. 
+Reason:           There is no indicator on the front panel of the Exhalation
+                  Isolation System to indicate internal component failure,
+                  which could result in an inability of the unit to heat
+                  expired respiratory gases, which in turn could result in a
+                  partial or complete blockage of the bacterial filter
+                  cartridge.

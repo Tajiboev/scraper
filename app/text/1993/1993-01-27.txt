@@ -1,0 +1,634 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Dec
+		
+		
+		
+		  
+		  20
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      28 captures
+	      25 Feb 1997 - 14 Jun 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+Correction to recall number F-202-3:  FDA has recently been advised by Scrava Pty. Ltd, Smithfield, N.S.W. Australia that the recalled Pinuli Herbal Tea was packed for, rather than manufactured by, Scrava Pty. Ltd. by Instituto Botanica La Selva, Monte Video, Uruquay.
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+01/27/1993
+
+Recalls and Field Corrections:  Foods -- Class I -- 01/27/1993
+
+
+JANUARY 27, 1993                                               93-4
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+
+PRODUCT        Cold Smoked Sablefish (black cod), sold as loose fillets packed
+               in boxes.  Recall #F-125-3.
+CODE           NONE.  All product smoked on 10/8/92.
+MANUFACTURER   Blue Ribbon Smoked Fish Company, Brooklyn, New York.
+RECALLED BY    Manufacturer, by letter November 17, 1992.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   New York.
+QUANTITY       Approximately 189 pounds were distributed.
+REASON         The product is contaminated with Listeria monocytogenes.
+
+
+PRODUCT        (a) Triple Decker (Ham and Turkey) QT Quik'n Tasty Jumbo
+               Sandwich, 10.5 ounces;
+               (b) Quik'n Tasty QT Roast Beef'n Turkey Combo Sandwich, 5.5
+               ounces;
+               (c) Quik'n Tasty QT Texas Ham'n Cheese Sandwich, 6 ounces.
+               Recall #F-126/128-3.
+CODE           (a) 212 (Julian date of manufacture); (b & c) All lots.
+MANUFACTURER   Quik'n Tasty Foods, Belton, Missouri.
+RECALLED BY    Manufacturer, (a) by telephone November 3, 1992; (b) by
+               telephone December 4, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Missouri, Kansas, Iowa, Oklahoma, Illinois, Georgia.
+QUANTITY       (a) 8,290 sandwiches; (b) 39,294 sandwiches; (c) 82,656
+               sandwiches were distributed.
+REASON         The products contain Listeria monocytogenes.
+
+
+
+
+PRODUCT        (a) La Loma brand Meatless Fried Chicken, manufactured from
+               texturized vegetable protein, packaged in 8 ounce boxes;
+               (b) Grillers, artificial hamburger flavored patties,
+               manufactured from vegetable protein, 4 patties per box, 12
+               boxes per case.  Recall #F-129/130-3.
+CODE           Lot numbers:  (a) 2259-30; (b) 2272-10.
+MANUFACTURER   Worthington Foods, Inc., Worthington, Ohio.
+RECALLED BY    Manufacturer, (a) by letter December 1, 1992; (b) by letter
+               November 13, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 229 cases; (b) 1,474 cases were distributed.
+REASON         The products contain Listeria monocytogenes.
+
+
+PRODUCT        (a) Dole brand Coleslaw Mix, in 10 ounce, 1 pound, 3 pound and
+               5 pound plastic bags;
+               (b) Dole brand Shredded Green Cabbage, in 1 pound plastic bags;
+               (c) Dole brand Pre-Cut Green Cabbage, in 5 pound plastic bags;
+               (d) Aunt Mid's Coleslaw Mix, in 1 pound plastic bags.
+               Recall #F-162/165-3.
+CODE           All lots and all shipping dates.
+MANUFACTURER   Dole Fresh Vegetables Company, Marina, California.
+RECALLED BY    Dole Fresh Vegetables Company, Inc., Salinas, California, by
+               press release and letter November 14, 1992, and letters of
+               November 18, 19, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   (a-c) Nationwide, Canada; (d) Michigan, Ohio, Canada.
+QUANTITY       Approximately 1,700 tons were distributed.
+REASON         Products contain Listeria monocytogenes.
+
+
+PRODUCT        Pride of Alaska Snow Crab Legs and Claws, 2.5 pound pack.
+               Recall #F-201-3.
+CODE           72992A, 72992B, 72992C, 72992D located on the inside flap of
+               the box and the shipping case.
+MANUFACTURER   Unisea Foods, Inc., Redmond, Washington.
+RECALLED BY    Manufacturer, by telephone.  Firm-initiated recall complete.
+DISTRIBUTION   Northwest United States and Canada.
+QUANTITY       109 cases (10 packs per case) were distributed.
+REASON         Product is contaminated with Listeria monocytogenes.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+
+PRODUCT        Various ice cream and sherbet products, in pint, quart, half
+               gallon and three gallon containers:
+               (a) Buttered Pecan Ice Cream;
+               (b) Butter Brickle Ice Cream;
+               (c) Caramel Toffee Crunch Ice Cream;
+               (d) Cookies and Cream Ice Cream;
+               (e) Macinac Island Fudge Ice Cream;
+
+                                      -2-
+
+
+               (f) French Vanilla Ice Cream;
+               (g) Lemon Ice Cream;
+               (h) Mint Chip Ice Cream;
+               (i) Lime Sherbet.  Recall #F-177/185-3.
+CODE           All lots without extra ingredient sticker label.
+MANUFACTURER   Freer's Ice Cream Company, Inc., Elkhart, Indiana.
+RECALLED BY    Manufacturer, by visit beginning December 14, 1992.
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   Indiana, Michigan.
+QUANTITY       Unknown.
+REASON         Product contains undeclared FD&C; Yellow No. 5.
+
+
+PRODUCT        Pinuli Herbal Tea, 25 teabags per box.  Recall #F-202-3.
+CODE           All lots.
+MANUFACTURER   Scrava Pty. Ltd., Smithfield N.S.W., Australia.
+RECALLED BY    Victory Markets, Inc., Norwich, New York, by letter November
+               27, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   New York, Pennsylvania.
+QUANTITY       Firm estimates not more than 800 boxes remain on the market.
+REASON         Product contains a food additive, Cassia Senna, in excess of
+               GRAS limits.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+
+PRODUCT        Propylthiouracil Tablets, 50 mg, a Rx drug used for treatment
+               of hyperthyroidism, in bottles of 100 and 1,000.
+               Recall #D-103-3.
+CODE           Lot numbers:  0I089AK EXP 10/93, 1C089EV EXP 5/94.
+MANUFACTURER   Barr Laboratories, Inc., Northvale, New Jersey.
+RECALLED BY    Barr Laboratories, Inc., Pomona, New York, by letter dated
+               January 6, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       19,530 bottles of lot 0I089AK and 16,347 bottles of lot 1C089EV
+               were distributed.
+REASON         Product does not meet dissolution specifications.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+
+PRODUCT        Seba-Clear Therapeutic Shampoo, in 1 fluid ounce (professional
+               sample) and 4 fluid ounce bottles, non-Rx product labeled as an
+               antiseborrheic.  Recall #D-102-3.
+CODE           Lot #32792, manufactured March 27,1992.
+MANUFACTURER   Heran Pharmaceutical, Inc., San Antonio, Texas.
+RECALLED BY    Manufacturer, by letter January 8,1993.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Unknown.
+QUANTITY       1,116 4-fluid ounce bottles and an unknown number of sample
+               size bottles were distributed.
+REASON         Product is subpotent for salicylic acid ingredient and also not
+               in compliance in formulation for dandruff and psoriasis
+               products.
+                                     -3-
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+
+PRODUCT        Source Plasma.  Recall #B-128-3.
+CODE           Unit numbers:  22916921, 22916938,
+               22916945, 22916952, 22916969, 22916976, 22916983, 22916990,
+               22917003, 22917010, 22917027, 22917034, 22917041, 22917058,
+               22917065, 22917072, 22917089, 22917096, 22917126, 22917133,
+               22917140, 22917157, 22917164, 22917195, 22917201, 22917218,
+               22917225, 22917232, 22917249, 22917256, 22917287, 22917294,
+               22917300, 22917317, 22917324, 22917331, 22917348, 22917355,
+               22917362, 22917379, 22917386, 22917409, 22917416, 22917423,
+               22917430, 22917454, 22917461, 22917478, 22917485, 22917492,
+               22917508, 22917515, 22917539, 22917546, 22917553, 22917560,
+               22917577, 22917591, 22917614, 22917621, 22917638, 22917669,
+               22917676, 22917683, 22917690, 22917706, 22917713, 22917737,
+               22917744, 22917775, 22917782, 22917805, 22917812, 22917829,
+               22917836, 22917843, 22917850, 22917867, 22917874, 22917881,
+               22917898.
+MANUFACTURER   Premier BioResources, Inc., Corpus Christi, Texas.
+RECALLED BY    Premier BioResources, Inc., Fort Worth, Texas, by telephone
+               October 7, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Indiana.
+QUANTITY       81 units.
+REASON         Source Plasma, exposed to unacceptable temperatures, was
+               distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+
+PRODUCT        Drills used for Integral Biointegrated Dental Implant Systems:
+               (a) 10 mm Intermediate Drill, Catalog #0203;
+               (b) 8 mm Final Spade Drill, Catalog #0207;
+               (c) Surgical Instrumentation Kit, Catalog #0350;
+               (d) Surgical Autoclave Kit, Catalog #0326.  Recall #Z-001/004-3.
+CODE           Lot numbers:  (a) 926038; (b) 926039; (c) 926200 0005;
+               (d) 926006 0005.
+MANUFACTURER   Calcitek, Inc., Carlsbad, California.
+RECALLED BY    Manufacturer, by telephone November 17, 1992.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide, UK.
+QUANTITY       (a) 50 units; (b) 14 units; (c) 1 kit; (8) 1 kits.
+               All product involved was returned and reworked.
+REASON         Drills packaged and labeled as 8 mm Final Spade Drills were
+               actually 10 mm Intermediate Drills and vice versa.
+
+
+PRODUCT        Luxar Model LX-15 and LX-20 C02 Surgical Lasers.
+               Recall #Z-164-3.
+CODE           Serial numbers:  Undetermined.
+MANUFACTURER   Luxar Corporation, Bothell, Washington.
+RECALLED BY    Manufacturer.  FDA approved the firm's corrective action plan
+               December 8,    1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+
+                                         -4-
+
+
+QUANTITY       639 units were distributed.
+REASON         Noncompliance with performance standards for laser products in
+               that the mechanical mounting of the laser beam shutter could
+               become loose possibly resulting in failure to block emission
+               from the device.
+
+
+PRODUCT        AC Adapter/Charger, date codes 1191 or 0192, used with Laerdal
+               Compact Suction Units with serial numbers ending in A282
+               through E042, used as an accessory with a compact suction
+               unit.  Recall #Z-167-3.
+CODE           Date codes 1191 or 0192 on adapter/charger.
+MANUFACTURER   DeVilbiss Health Care, Inc., Somerset, Pennsylvania.
+RECALLED BY    Manufacturer to sole direct account, Laerdal Medical
+               Corporation on August 14, 1992.  Laerdal sent 2 "Important
+               Notifications" dated August 12, 1992 and August 17, 1992 to
+               distributors.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       497 units.
+REASON         The adapter/charger may fail to adequately charge the internal
+               battery, resulting in the battery failing to operate the device
+               as long as stated in the labeling.
+
+
+PRODUCT        Adapter/Charger with date codes 0491 to 0692 used with the
+               DeVilbiss Pulmo-Aide Traveler, Model 6610D, which is a portable
+               compressor/nebulizer.  Recall #Z-168-3.
+CODE           Date codes 0491 to 0692.
+MANUFACTURER   Devilbiss Health Care, Inc., Somerset, Pennsylvania.
+RECALLED BY    Manufacturer to distributors via a service bulletin in October
+               1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Undetermined.
+REASON         The adapter/charger may fail to adequately charge the internal
+               battery, resulting in the battery failing to operate the device
+               as long as stated in the labeling.
+
+
+PRODUCT        VHA+Plus brand Non-sterile Latex Examination Gloves:
+               (a) Small/Medium, Product #V7266;
+               (b) Medium, Product #V7857.  Recall #Z-204/205-3.
+CODE           Lot numbers:  (a) 205016105, 206000105, 206015805, 206020505;
+               (b) 206421505, 208403105.
+MANUFACTURER   Ansell, Inc., Byagama, Sri Lanka.
+RECALLED BY    Ansell, Inc., Dothan, Alabama, by telephone on or about
+               December 12, 1992, followed by letter December 23,    1992.
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       140 cases (20 boxes of 100 gloves per box) were distributed.
+REASON         Gloves failed to comply with requirements for patient
+               examination gloves due to leakage defects.
+
+                                     -5-
+
+
+PRODUCT        Baxter Custom Sterile Surgical Packs which contain Argyle 18
+               French Ferguson Left Vent Catheters:
+               (a) CV Accessory Pack, Catalog Numbers SCV41BSAMW, SCV41BSAMX,
+               SCV41BSAMY, SCV41BSAMZ
+               (b) CV Pack, Catalog Nos. SCV46OHHCC, SCV46OHHCB,
+               SCV46OHHCA, SCV46OHSHH, SCV46OHSHI, SCV46OHSHG,
+               SCV46OHSHF, SCV46OHSHC, SCV46OHSHE, SCV46OHSHD,
+               SCV46OHMCA
+               (c) Cheatam/Kanaly CV Pack, Catalog Nos. SCV47BSMHF,
+               SCV47BSMHE, SCV47BSMHD, SCV47BSMHC
+               (d) Toal/Kanaly/Randolph CV Pack, Catalog No. SCV47MJNRA
+               (e) CV Set Up Pack, Catalog Nos. SCV47BSPHL, SCV47BSPHM,
+               SCV47BSPHK, SCV47BSPHI, SCV47BSPHJ, SCV47BSPHH,
+               SCV47BSPHG, SCV47BSPHE
+               (f) Open Heart Pack, Catalog Nos. SCV43OH691, SCV43OH692,
+               SCV43OH69C, SCV43OH69A, SCV43OH69B
+               (g) Knee Pack, Catalog No. SOP39KNMCF
+               (h) Coronary Tray, Catalog Nos. SAN21CCMLC, SAN23CCMLD,
+               SAN23CCMLE, SAN21CCMLB, SAN21CCMLA
+               (i) Valve Tray, Catalog Nos. SCV21HVMLB, SCV23HVMLC,
+               SCV21HVMLA
+               (j) Open Heart Set Up Pack, Catalog Nos. SCV47BSCCC,
+               SCV47BSCCD, SCV47BSCCB, SCV47BSCCA
+               (k) CV Pack II, Catalog Nos. SCV46BSMMC, SCV46BSMMB, SCV46BSMMA.
+               Recall #Z-220/230-3.
+CODE           Catalog Nos        Manufacturing Dates
+               (a) #SCV41BSAMW    7/7/92, 9/30/92, 1/17/92, 10/21/91, 11/27/91
+               SCV41BSAMX         3/8/91, 5/6/91, 12/11/90
+               SCV41BSAMY         7/2/90, 9/19/90,
+               SCV41BSAMZ         1/9/90, 10/13/89, 5/4/89
+               (b) SCV46OHHCC     7/27/92, 9/24/92, 4/17/92
+               SCV46OHHCB         2/18/92, 2/13/91, 11/6/91
+               SCV46OHHCA         1/7/91, 6/5/90, 9/20/90, 10/26/89, 5/25/89
+               SCV46OHSHH         6/10/92
+               SCV46OHSHI         8/26/92
+               SCV46OHSHG         4/6/92, 2/28/92
+               SCV46OHSHF         2/12/92, 2/21/91, 6/17/91, 8/20/91, 10/21/91
+               SCV46OHSHC         6/14/90, 3/28/90, 9/28/89, 5/25/89, 4/25/89
+               SCV46OHSHE         12/19/90
+               SCV46OHSHD         10/8/90
+               SCV46OHMCA         4/24/89, 9/26/89
+               (c) SCV47BSMHF     7/10/92, 4/2/92
+               SCV47BSMHE         11/6/91, 11/13/90
+               SCV47BSMHD         3/8/90, 4/19/90
+               SCV47BSMHC         2/21/90
+               (d) SCV47MJNRA     8/14/92, 6/3/92
+               (e) SCV47BSPHL     8/4/92, 5/6/92
+               SCV47BSPHM         9/22/92
+               SCV47BSPHK         2/10/92, 12/26/91
+               SCV47BSPHI         1/15/91, 8/16/91
+               SCV47BSPHJ         4/24/91
+
+                                      -6-
+
+
+               SCV47BSPHF         3/23/90, 1/10/90
+               SCV47BSPHH         11/1/90
+               SCV47BSPHG         5/15/90
+               SCV47BSPHE         2/23/89
+               (f) SCV43OH691     7/14/92
+               SCV43OH692         9/11/92
+               SCV43OH69C         6/4/92, 4/27/92
+               SCV43OH69A         1/18/91, 2/9/91
+               SCV43OH69B         8/23/91, 9/23/91, 11/22/91, 12/31/91
+               (g) SOP39KNMCF     2/13/92
+               (h) SAN21CCMLC     2/8/91, 3/20/91
+               SAN23CCMLD         5/20/91
+               SAN23CCMLE         7/19/91
+               SAN21CCMLB         12/4/90
+               SAN21CCMLA         10/16/90
+               (i) SCV21HVMLB     1/18/91
+               SCV23HVMLC         8/9/91
+               SCV21HVMLA         11/26/90, 10/12/90
+               (j) SCV47BSCCC     3/1/91
+               SCV47BSCCD         5/1/91, 6/21/91, 7/18/91, 9/5/91, 12/18/91
+               SCV47BSCCB         11/14/90
+               SCV47BSCCA         8/14/90, 3/29/90
+               (k) SCV46BSMMC     2/28/91, 4/1/91
+               SCV46BSMMB         1/8/91
+               SCV46BSMMA         5/29/90, 10/27/90, 9/17/90, 3/1/89
+MANUFACTURER   Sherwood Medical, St. Louis, Missouri (catheter).
+RECALLED BY    Baxter Healthcare Corporation, McGaw Park, Illinois, by letter
+               October 20, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Texas, Oklahoma, Iowa, North Carolina, Florida.
+QUANTITY       7,260 custom packs were distributed; firm estimates 100 packs
+               remain on the market.
+REASON         The Argyle 18 French Ferguson Left Vent Catheters (Sherwood
+               Catalog No. 5558-590013 recalled under Z-051-3) contained in
+               these packs may contain a hole or channel which could allow
+               blood or air leakage at the proximal end.
+
+
+PRODUCT        Gas Analyzer used with certain lots of the Bird Sentry Blender
+               Part #10209.  The blender provides precise mixing of medical
+               grade air and oxygen which is delivered via breathing circuits
+               to the patient.  Recall #Z-219-3.
+CODE           Serial numbers:  KCF01855 through KCF01858, KCF02110 through
+               KCF02159, KCF02772 through KCF02786.
+MANUFACTURER   Vascular Technology, Inc., Chelmaford, Massachusetts
+               (component).
+RECALLED BY    Bird Products Corporation, Palm Springs, California, by letter
+               dated September 10, 1992, followed by telephone.
+               Firm-initiated recall ongoing.
+DISTRIBUTION   California, Florida, Illinois, Louisiana, New York, Minnesota,
+               Tennessee, Utah, England, Sweden.
+QUANTITY       59 units were distributed.
+REASON         A stray segment, period, or colon may appear on the analyzer
+               display panel.
+
+                                      -7-
+
+
+
+PRODUCT        Quartz Micropipette Puller Model P-2000, used to pull glass or
+               quartz tubing under controlled heating conditions to make
+               micropipettes with the desired characteristics.
+               Recall #Z-246-3.
+CODE           Serial numbers:  Undetermined.
+MANUFACTURER   Sutter Instrument Company, Novato, California.
+RECALLED BY    Manufacturer.  FDA approved the firm's corrective action plan
+               dated December 23, 1992.  Firm-initiated field correction
+               ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Between 11 and 20 units were distributed.
+REASON         Noncompliance with performance standard for light-emitting
+               products.  The noncompliance consists of inadequate protective
+               housing, a lack of redundant microswitch interlocks, incomplete
+               operation's manuals, missing certification statement and date
+               of manufacture, no initial report, and no formalized,
+               documented quality control test procedures.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+
+PRODUCT        Endotyer, suturing aid.  Recall #Z-203-3.
+CODE           Catalog #GS-4130.
+MANUFACTURER   Birtcher/Solos Medical Systems, Duluth, Georgia.
+RECALLED BY    Birtcher Medical Systems, Irvine, California, by telephone,
+               followed by letter November 23, 1992.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 69 units were distributed.
+REASON         The device was marketed without an approved 510(k).
+
+
+PRODUCT        Cards O.S. Strep A Test Kit, an in-vitro diagnostic device and
+               its purpose is to detect group A streptococcal antigen directly
+               from throat swabs.  Recall #Z-217-3.
+CODE           Catalog numbers    Lot numbers
+               CR7740             490314.1, 490470.1, 490497.1, 500227.1,
+                                  500227.2, 530135.1
+               CR7741             490316.1, 490316.2, 490472.1, 530043.1,
+                                  530044.1, 530044.2, 530155.1
+               CR7742             490318.1, 490318.2
+MANUFACTURER   Pacific Biotech, Inc., San Diego, California.
+RECALLED BY    Manufacturer, by letter dated December 1, 1992.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide, Austria, Canada, Denmark, Finland, Italy, Spain,
+               Sweden, Switzerland.
+QUANTITY       2,717 kits were distributed.
+REASON         The product may exhibiting false positive results.
+
+                                         -8-
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY -- CLASS III
+
+PRODUCT        Coop Pig Starter #10 CSP and #20 CSP, in 50 pound multi-layered
+               paper bags.  Recall #V-011-3.
+CODE           HJ262 and HJ1452 (#10); HJ222, HJ1202, HJ1972, IJ1222 (#20).
+MANUFACTURER   Farmland Industries, Inc., Kansas City, Missouri.
+RECALLED BY    Farmland Industries, Centralia, Missouri, by telephone,
+               followed by letter dated October 10, 1992 and December 2,
+               1992.  Firm-initiated recall complete.
+DISTRIBUTION   Missouri, Illinois.
+QUANTITY       4,216 50-pound bags were distributed.
+REASON         Products are subpotent in chlortetracycline and sulfathiazole.
+
+
+INJUNCTIONS:
+
+PRODUCT        Liquid Injectable Silicone (polydimethylsiloxane) (LIS)(91-
+               663-382).
+DEFENDANTS     James E. Fulton, Jr. M.D., Ph.D., individual, and Vivant,
+               Inc., also known as Fulton Pharma-Cal, Inc., a corporation,
+               and Acne Research Institute, Inc., a non-profit research
+               foundation, Newport Beach, California.
+FILED          February 28, 1992 - Complaint; December 2, 1992 - Consent
+               decree of Permanent Injunction; U.S. District Court for the
+               Central District of California; Civil #92-1279 WJR (EEx),
+               INJ 1263.
+DISPOSITION    Liquid injectable silicone intended for injection into
+               humans does not have in effect the required approved
+               premarket application or investigational device exemption
+               and thus the defendants are prohibited from the following
+               activities:  interstate commerce of LIS (introduction,
+               delivery for introduction, or receipt in interstate
+               commerce); manufacturing, processing, holding for sale, or
+               storing LIS; promoting through the use of advertising or
+               labeling the use of LIS in medical or surgical procedures;
+               and using or administering LIS in medical or surgical
+               procedures on humans.  These activities are prohibited
+               unless and until there is in effect an approved application
+               for premarket approval or an approved application for
+               investigational device exemption that authorizes the
+               defendants' use of LIS.  These restrictions apply without
+               regard to whether the defendants contend that the activity
+               is undertaken in connection with the practice of medicine.
+
+SEIZURES:
+
+PRODUCT        Single use syringes (92-657-114/21).
+CHARGE         Adulterated and Misbranded - The devices' quality falls below
+               that which they purport or are represented to possess, in that
+               they are labeled to:  (1) be sterile, whereas some are packaged
+               in defective packaging which cannot assure or maintain
+               sterility; and (2) all bear precise markings and gradations,
+
+                                     -9-
+
+
+               whereas the markings and gradations are illegible, omitted, or
+               partially omitted; and, the devices' labeling is false and
+               misleading as indicated above.
+FIRM           Mediverse, Inc., St. Paul, Minnesota.
+FILED          December 9, 1992; U.S. District Court for the District of
+               Minnesota; Civil #3-92-820, FDC #66622.
+SEIZED         December 21, 1992 - goods valued at approximately $21,000.
+
+
+PRODUCT        Radiation detectors (92-590-536/7).
+CHARGE         Misbranded - The devices' labeling fails to bear adequate
+               directions for use for the purposes for which they are intended.
+FIRM           Keizer Chiropractic Clinic, Salem, Oregon.
+FILED          December 2, 1992; U.S. District Court for the District of
+               Oregon; Civil #92-6404-HO, FDC #66358.
+SEIZED         December 2, 1992 - goods valued at approximately $1,600.
+
+
+PRODUCT        Benztropine Mesylate Tablets, USP (92-613-907/910).
+CHARGE         Adulteration - the methods used in, and the facilities and
+               controls used for, the product's manufacture, processing,
+               packing, and holding do not conform to and are not operated
+               and administered in conformity with current good
+               manufacturing practice regulations.
+FIRM           Sidmak Laboratories, Inc., East Hanover, New Jersey.
+FILED          July 22, 1992 - U.S. District Court for the District of New
+               Jersey; Civ. #92-3031; FDC #66463.
+SEIZED         August 5, 1992; goods valued at approximately $470,000.
+
+
+PRODUCT        Peas and beans (92-676-333).
+CHARGE         Adulterated - Some of the articles consist in part of a
+               filthy substance.  All of the articles have been held under
+               insanitary conditions whereby they may have become
+               contaminated with filth.
+FIRM           Casera Foods, Inc., Barceloneta, Puerto Rico.
+FILED          October 20, 1992; U.S. District Court for the District of
+               Puerto Rico; Civ. #92-2471(CC); FDC #66610.
+SEIZED         December 4, 1992 - goods valued at approximately $41,000.
+
+                                    -10-
+
+
+END OF ENFORCEMENT REPORT FOR JANUARY 27, 1993.  BLANK PAGES MAY
+FOLLOW.

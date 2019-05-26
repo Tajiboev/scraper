@@ -1,0 +1,749 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Feb
+		  SEP
+		  Nov
+		
+		
+		
+		  
+		  26
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      32 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dm
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+10/07/1992
+
+RECALLS AND FIELD CORRECTIONS: October 7, 1992
+
+                                FOODS -- CLASS I
+                                                                92-41
+              
+PRODUCT        Royal Baltic brand:  (a) Vacuum Packed Smoked Shad, packed       
+               either whole or in slices in clear plastic packages with gold,   
+               black and red paper stick-on label on each package.  Whole fish  
+               weighs between 1 and 2 pounds;
+               (b) Air Packed Shad, packed loose in cardboard boxes with gold,  
+               black and red paper stick-on label affixed to box.
+               Recall #F-568/569-2.
+CODE           211-CJ through 218-CJ appearing on the plastic package or the    
+               cardboard box.
+MANUFACTURER   Royal Baltic Ltd., Brooklyn, New York.
+RECALLED BY    Manufacturer, by telephone and by letter September 4, 1992.      
+               Firm-initiated recall ongoing.
+DISTRIBUTION   New York.
+QUANTITY       Approximately 200 pounds were distributed.
+REASON         The product is contaminated with Listeria monocytogenes.
+
+                                       
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+              
+PRODUCT        Canned beans:  (a) Campbell Soup brand Hot Chili Beans, in       
+               15-1/2 ounce cans; (b) Ranchero Beans, in 7-3/4 ounce, 15-1/2    
+               ounce and 21 ounce cans.  Recall #F-566/567-2.
+CODE           All lots.
+MANUFACTURER   Campbell Soup Company, Paris, Texas.
+RECALLED BY    Campbell Soup Company, Camden, New Jersey, by letter August 31,  
+               1992.  Firm-initiated recall complete.
+DISTRIBUTION   West, southwest, and southeast areas of the United States.
+QUANTITY       21,321 cases were distributed.
+REASON         Product is contaminated with sharp seed pods (sandburrs).
+
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+              
+PRODUCT        Montco brand Sauerkraut, in 8 ounce and 16 ounce cans.
+               Recall #F-482-2.
+CODE           All lots with the Montco label.
+MANUFACTURER   Fleming Foods, Inc., Oklahoma City, Oklahoma (distributor).
+RECALLED BY    Distributor, by letter July 31, 1992.  Firm-initiated recall     
+               ongoing.
+DISTRIBUTION   Delaware, Maryland, New Jersey, Pennsylvania.
+QUANTITY       Firm estimates that little product remains on the market.
+REASON         Product is mislabeled as to sodium content.
+
+              
+PRODUCT        Kings Pantry brand Pieces and Stems Canned Mushrooms, in 4       
+               ounce cans.  Recall F-546-2.
+CODE           NL 299 1 155 VPS 110, NL 306 1 115 VPS 110, NL 87 2 115 VPS 23.
+MANUFACTURER   Vervuurt, Horst, Holland (packer).
+RECALLED BY    C.M.G. Trading, Inc., Short Hills, New Jersey, by letter July    
+               7, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Michigan, New York, Florida.
+QUANTITY       3,100 cases (24 cans per case) were distributed.
+REASON         Containers do not bear an identifying code as required by        
+               regulation.
+
+              
+PRODUCT        Mushrooms, stems and pieces, in 68 ounce cans, product of Hong   
+               Kong.  Recall #F-565-2.
+CODE           MPS/CS/2411, MPS/CS/2320, MPS/CS/2429, MPS/CS/2629.
+MANUFACTURER   Ho Tung Lau Koo Tung Village, Kowloon, Hong Kong.
+RECALLED BY    Sandler Foods, Virginia Beach, Virginia, by letters distributed  
+               to customers by September 10, 1992.  Firm-initiated recall       
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,029 cases were distributed.
+REASON         Product is contaminated with filth.
+
+                                      -2-
+RECALLS AND FIELD CORRECTION:  DRUGS -- CLASS II
+              
+PRODUCT        Chlordiazepoxide HCl Capsules, USP:  (a) 10 mg; (b) 25 mg, in    
+               bottles of 100, 500, and 1,000, a Rx drug with anti-anxiety and  
+               sedative actions, under the Pioneer and URL labels.
+               Recall #D-520/521-2.
+CODE           Lot numbers and EXP dates:  (a) 4011-13 6/92, 4011-14 EXP 11/92,
+               4011-15 EXP 2/93, 4011-18 EXP 10/93, 4011-19 EXP 11/93,
+               4011-20 EXP 11/93; (b) 4012-7 9/92, 4012-7A 9/92.
+MANUFACTURER   Pioneer Pharmaceuticals, Inc., Irvington, New Jersey.
+RECALLED BY    Manufacturer, by letters of  March 27, 1992 and April 13,        
+               1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Indiana, Maryland, Michigan, Pennsylvania.
+QUANTITY       Firm estimates (a) 3,037,000 capsules; (b) 453,000 capsules      
+               remain on the market.
+REASON         Use of unapproved manufacturing procedures.
+
+              
+PRODUCT        Indomethacin Capsules, in bottles of 100 and 500, Rx             
+               non-sterodial anti-inflammatory, antipyretic and analgesic,      
+               under the Pioneer, Major and URL labels:  (a) 25 mg;
+               (b) 50 mg.  Recall #D-522/523-2.
+CODE           Lots numbered consecutively (a) 4005-8 through 4005-19;
+               (b) 4006-9 through 4006-15.
+MANUFACTURER   Pioneer Pharmaceuticals, Inc., Irvington, New Jersey.
+RECALLED BY    Manufacturer, by fax April 9, 1992, and by letter April 13,      
+               1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   California, Florida, Illinois, Indiana, Kentucky, Maryland,      
+               Michigan, New York, Pennsylvania.
+QUANTITY       Firm estimates (a) 2,700,000 capsules; (b) 1,580,000 capsules    
+               remain on the market.
+REASON         Use of unapproved manufacturing procedure.
+
+              
+PRODUCT        Resporal TR Tablets, in bottles of 50, 100 and 1,000, a Rx drug  
+               under Pioneer, Goldline and Rugby labels.  Recall #D-524-2.
+CODE           Lot numbers and EXP dates:  3003-36 12/92, 3003-41 12/92,        
+               3003-45 9/92, 3003-47 11/92, 3003-48 12/92, 3003-52 3/95,        
+               3003-53 3/95, 3003-54 7/95.
+MANUFACTURER   Pioneer Pharmaceuticals, Irvington, New Jersey.
+RECALLED BY    Manufacturer, by fax May 6, 1992 and by letter May 8, 1992.      
+               Firm-initiated recall ongoing
+DISTRIBUTION   Florida, Iowa, Maryland, New Jersey, New York.
+QUANTITY       Firm estimates 3,465,000 tablets remain on the market.
+REASON         Use of unapproved manufacturing procedures.
+
+              
+PRODUCT        Diphenhydramine HCl Capsules, (a) 25 mg; (b) 50 mg, packaged in  
+               bottles of 100, 500, and 1000, a Rx antihistamine, under the     
+               Pioneer, Goldline, Rugby, and Bioline labels.
+               Recall #D-005/006-3.
+
+                                      -3-
+CODE           Lot numbers and EXP dates:  (a) 4103-35 5/92, 4013-36 6/92,      
+               4013-37 6/92, 4013-38 7/92, 4013-39 8/92, 4013-40 8/92, 4013-41  
+               8/92, 4013-42 10/92, 4013-43 10/92 4013-44 12/92, 4013-45 1/93;
+               (b) 4008-39 6/92, 4008-40 6/92, 4008-41 7/92, 4008-42 8/92,
+               4008-43 8/92, 4008-44 9/92, 4008-45 12/93.
+MANUFACTURER   Pioneer Pharmaceuticals, Irvington, New Jersey.
+RECALLED BY    Manufacturer, by telephone May 5, 1992, by fax May 6, 1992, and  
+               by letter May 8, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   (a) Florida, Indiana, Tennessee, Puerto Rico; (b) Florida,       
+               Tennessee, Puerto Rico.
+QUANTITY       Firm estimates (a) 5,418,000 capsules; (b) 2,656,000 capsules    
+               remain on the market.
+REASON         Use of unapproved manufacturing procedures.
+
+              
+PRODUCT        (a) Beclovent Beconase (Beclomethasone Dipropionate, USP)        
+               Inhalation Aerosol Refill, 16.8 grams, 200 metered inhalations,  
+               for use with either the Beclovent Oral Adapter or the Beconase   
+               Nasal Adapter;
+               (b) Beclovent (Beclomethasone Dipropionate, USP) Inhalation      
+               Aerosol, 6.7 grams, 80 metered inhalations, for oral inhalation  
+               with the beclovent inhalation aerosol adapter;
+               (c) Beclovent (Beclomethasone Dipropionate, USP) Inhalation      
+               Aerosol, 6.7 grams, 80 metered inhalations, for oral inhalation  
+               with the beclovent inhalation aerosol adapter.  This 6.7 gram    
+               Beclovent is a professional sample, not for sale.
+               Recall #D-009/010-3.
+CODE:          Lot numbers:  (a) Z8262DA and Z8272DA EXP May 1994;
+               (b) Z4932BA  EXP MAY 1994; (c) Z5072BA, Z5082BA AND Z8432DA EXP  
+               JUNE 1994.
+MANUFACTURER   Glaxo, Inc., Zebulon, North Carolina.
+RECALLED BY    Manufacturer, by electronic mail September 1, 1992, and by       
+               letters of September 15 and 17, 1992.  Firm-initiated recall     
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       61,793 cans were distributed.
+REASON         Subpotency.
+
+              
+UPDATE         Adenocard (adenosine) 3 mg/ml, Recall #D-398-2, manufactured by  
+               Lyphomed, Division of Fujisawa USA, Inc., which appeared in the  
+               June 24, 1992 Enforcement Report has been extended to include    
+               lot numbers 320340 and 320460.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+              
+PRODUCT        Full Value and Health Mart brands of Isopropyl Rubbing Alcohol,  
+               70%, 16 fluid ounces.  Recall #D-001-3.
+CODE           Lot numbers:  126011 and 220631.
+MANUFACTURER   Cumberland-Swan, Inc., Smyrna, Tennessee.
+
+                                      -4-
+RECALLED BY    Manufacturer, by telephone August 26, 1992, by electronic mail   
+               August 28, 1992, and by letter September 1, 1992.                
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Arkansas, Colorado, Florida, Illinois, Louisiana, Missouri,      
+               Ohio, Oklahoma, Texas, Wisconsin.
+QUANTITY       4,804 cases of lot 216001 and 295 cases of lot 220631,
+               12 bottles per case were distributed.
+REASON         Label fails to bear indications, ingredients and caution         
+               statements.
+
+              
+PRODUCT        Norwich Aspirin, 325 mg, 100 coated tablets in plastic bottle.   
+               Recall #D-002-3.
+CODE           Lot #206777 EXP APR 97.
+MANUFACTURER   Procter & Gamble Pharmaceuticals, Inc., Norwich, New York.
+RECALLED BY    Chattem, Inc., Chattanooga, Tennessee, by letter September 22,   
+               1992, to be followed by visit or telephone.  Firm-initiated      
+               recall ongoing.
+DISTRIBUTION   California, Colorado, Connecticut, Florida, Georgia, Minnesota,  
+               New Jersey, New York, North Carolina, North Dakota, Ohio,        
+               Oklahoma, Pennsylvania, Texas, Virginia, Washington state, West  
+               Virginia, Indiana, Kentucky, Massachusetts.
+QUANTITY       Approximately 1,400 dozen bottles were distributed beginning on  
+               8/26/92.
+REASON         Incorrect wording in caution statement.
+
+              
+PRODUCT        (a) MHL Decongestant Pseuodephedrine Hydrochloride Tablets, in   
+               36 and 100 tablet bottles; (b) MHL Decongestant Plus             
+               Pseudoephedrine HCl, 60 mg Chlorpheniramine Maleate, 4 mg, in    
+               36 and 100 tablet bottles.  Recall #D-003/004-2.
+CODE           (a) 8480 11 94; (b) 8510 12 94.
+MANUFACTURER   Magno-Humphries, Inc., Tigard, Oregon.
+RECALLED BY    Manufacturer, by letter April 24, 1992.  Firm-initiated recall   
+               ongoing.
+DISTRIBUTION   Oregon, Washington state.
+QUANTITY       (a) 2,096 36-count bottles and 7,930 100-count bottles; (b) 372  
+               36-count bottles and 1,002 100-count bottles were distributed.
+REASON         Presence of a foreign tablet in each product, identified as      
+               bisacodyl and biotin.
+
+              
+PRODUCT        Brioschi for upset stomach, powder/granules packaged in 8-1/2    
+               ounce bottles and 12 x 6 gm foil packs.  Recall #D-007-3.
+CODE           Returned packages coded:  Lot #92021 EXP 1/97, unopened cases    
+               coded 92021.
+MANUFACTURER   Brioschi, Inc., Fairlawn, New Jersey.
+RECALLED BY    Manufacturer, by visit on or about June 23, 1992 and by fax      
+               June 26, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+
+                                      -5-
+QUANTITY       8,820 (8-1/2 ounce bottles), and 1,944 (12 x 6 gm foil packs)    
+               were distributed; firm estimates 2,600 8-1/2 ounce bottles and   
+               200 foil packs remain on the market.
+REASON         Presence of trace quantities of sulfides.
+
+              
+PRODUCT        Fentanyl Citrate, USP, 5 cc Carpuject prefilled syringe, a Rx    
+               analgesic.  Recall #D-008-3.
+CODE           M500JA EXP July 1993.
+MANUFACTURER   Sanofi Winthrop Pharmaceuticals, McPherson, Kansas.
+RECALLED BY    Sterling Winthrop, New York, New York, by letter dated           
+               September 8, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       2,266 boxes each containing 10 syringes were distributed.
+REASON         Some units were found to malfunction not permitting penetration  
+               of the rubber stopper.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+              
+PRODUCT        Reagent Red Blood Cells.  Recall #B-447-2.
+CODE           Unit #101430.
+MANUFACTURER   Tennessee Blood Services Corporation, Memphis, Tennessee.
+RECALLED BY    Manufacturer, by telephone November 4, 1991.  Firm-initiated     
+               recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       1 unit.
+REASON         Unit repeatably reactive for the antibody to the human           
+               immunodeficiency virus (anti-HIV-1) was distributed for further  
+               manufacturing.
+               
+PRODUCT        (a) Red Blood Cells; (b) Red Blood Cells, Expired;
+               (c) Platelets; (d) Cryoprecipitated AHF;
+               (e) Fresh Frozen Plasma; (f) Recovered Plasma.
+               Recall #B-451/456-2.
+CODE           Unit numbers:  (a) 1062661, 1068816, 1071299, 1074477, 1165307,  
+               1366581, 1471329, 1476075, 1560489, 1658055, 1661143, 1664604,   
+               1667029, 2461281, 5066051, 5072053, 5764322, 5771184, 5771678,   
+               6070200, 6070802, 6071421, 6170545, 9060332, 9062558, 9161292,   
+               9363715, 9370802, 9460968, 9464866, 9661416;
+               (b) 1065224, 1662128;
+               (c) 1062661, 1471329, 1661143, 1664604, 1667029, 1688055,        
+               5771184, 5771678, 9062558, 9161292, 9363715;
+               (d) 1476075, 5072053;
+               (e) 1661143, 1664604, 1667029, 1071299, 1071299 (Pedi),          
+               7760426, 7763193, 7764104, 9062558, 9161292, 9363715;
+               (f) 1062661, 1068816, 1074477, 1165307, 1471329, 1476075,        
+               1560489, 1563312, 1662128, 1688055, 2461281, 5764322, 5771184,   
+               5771678, 6070200, 6070802, 6071421, 6170545, 9060332, 9370802,   
+               9460968, 9464866, 9661416.
+MANUFACTURER   Oklahoma Blood Institute, Oklahoma City, Oklahoma.
+RECALLED BY    Manufacturer, by letters dated between March 14, 1991, and July  
+               8, 1992.  Firm-initiated recall ongoing.
+
+                                      -6-
+DISTRIBUTION   Arkansas, Florida, New Jersey, New York, Oklahoma,               
+               Pennsylvania, Texas.
+QUANTITY       (a) 31 units; (b) 2 units; (c) 11 units; (d) 2 units;
+               (e) 11 units; (f) 23 units.
+REASON         Blood products, which tested negative for the antibody to human  
+               immunodeficiency virus type 1 (anti-HIV-1), but were collected   
+               from donors who previously tested repeatedly reactive for        
+               anti-HIV-1, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+              
+PRODUCT        Red Blood Cells.  Recall #B-333-2.
+CODE           Unit numbers: 0448518, 0449101.
+MANUFACTURER   Coffee Memorial Blood Center, Amarillo, Texas.
+RECALLED BY    Manufacturer, by telephone December 29, 1991.  Firm-initiated    
+               recall complete.
+DISTRIBUTION   Indiana, Texas.
+QUANTITY       2 units.
+REASON         Blood products labeled with incorrect expiration dates were      
+               distributed for transfusion.
+
+              
+PRODUCT        Source Plasma.  Recall #B-448-2.
+CODE           Unit numbers:  FO1114-094, F001301-094, F001262-094,             
+               F001505-094. 
+MANUFACTURER   Premier BioResources, Inc., Fort Worth, Texas.
+RECALLED BY    Manufacturer, by letters dated July 8 and 10, 1992.              
+               Firm-initiated recall complete.
+DISTRIBUTION   New York.
+QUANTITY       4 units.
+REASON         Unlicensed blood products were shipped in interstate commerce.
+
+              
+PRODUCT        Red Blood Cells.  Recall #B-449-2.
+CODE           Unit #1769128.
+MANUFACTURER   Greater New York Blood Program, New York, New York.
+RECALLED BY    Consignee notified firm and returned unit on or about July 11,   
+               1991.  Firm-initiated recall complete.
+DISTRIBUTION   New Jersey.
+QUANTITY       1 unit.
+REASON         Blood product labeled with incorrect expiration date was         
+               distributed for transfusion.
+
+              
+PRODUCT        Red Blood Cells.  Recall #B-450-2.
+CODE           Unit #1125698.
+MANUFACTURER   Manatee Community Blood Center, Inc., Bradenton, Florida.
+RECALLED BY    Consignee notified firm and returned the unit as instructed on   
+               July 30, 1991.  Firm-initiated recall complete.
+DISTRIBUTION   Florida.
+QUANTITY       1 unit.
+REASON         Blood product labeled with an incorrect expiration date was      
+               distributed.
+                                      -7-
+MEDICAL DEVICE MANDATORY RECALLS:
+              
+PRODUCT        Life Pulse High Frequency Jet Ventilator, an infant ventilating  
+               system used with critically ill infants suffering from hyaline   
+               membrane disease and who are failing on conventional             
+               ventilation.  Recall #Z-1307-2.
+CODE           All codes.
+MANUFACTURER   Bunnell Inc., Salt Lake City, Utah.
+RECALLED BY    Manufacturer per 518(e) amended order of 9-8-92.  Units are to   
+               be retrofitted and replaced.  FDA-ordered recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       267 units were distributed as of November 1991.
+REASON         Mandatory 518(e) recall.  Among the more significant of the      
+               numerous defects are:  High intermittent pressures and high      
+               peak pressure; pinch valve malfunctions; humidification          
+               component failures and numerous software failures.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+              
+PRODUCT        Hemaflex Absorbable Collagen Hemostat 5 cm x 8 cm.
+               Recall #Z-1308-2.
+CODE           Lot #19111D EXP 12/94.
+MANUFACTURER   Bioplex Medical, Vaals, Holland
+RECALLED BY    Bioplex Corporation, Montvale, New Jersey, by telephone June     
+               26, 1992, followed by letter July 2, 1992.  Firm-initiated       
+               recall ongoing.
+DISTRIBUTION   Massachusetts.
+QUANTITY       75 boxes (10 units per box) were distributed.
+REASON         The outer Tyvek pouch may not be sealed at the bottom.
+
+              
+PRODUCT        Exactech Blood Glucose Strips, used to monitor the blood sugar   
+               level of diabetics.  Recall #Z-1310-2.
+CODE           All lot numbers from and including 14232 through 14394, and lot  
+               14665.
+MANUFACTURER   Medisense Contract Manufacturing, Inc., United Kingdom.
+RECALLED BY    Medisense, Inc., Cambridge, Massachusetts, by letter April       
+               1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 325,000 packages of mixed package sizes of 25      
+               strips, 50 strips and 100 strips were distributed.
+REASON         The device may provide lower than actual glucose values at low   
+               glucose concentration levels.
+
+              
+PRODUCT        Flo-Gard 8200 Volumetric Infusion Pump, a positive-displacement  
+               infusion pump which uses cassette administration sets to         
+               deliver a variety of fluids, including blood, over a wide range  
+               of infusion rates.  Recall #Z-1311-2.
+CODE           Product code 2M8023.  All serial numbers ending in "S".
+MANUFACTURER   Baxter Healthcare Corporation, I.V. Systems Division, Savage,    
+               Maryland.
+
+                                      -8-
+RECALLED BY    Baxter Healthcare Corporation, I.V. Systems Division, Round      
+               Lake, Illinois, by letter August 17, 1992.  Firm-initiated       
+               field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       76 units were distributed.
+REASON         A software error causes a program error to occur if a certain    
+               sequence is used, which could lead to incorrect infusion rates   
+               or volume to be infused to the patient.
+
+              
+PRODUCT        Vascular Punch Blade in Tyvek Pouch, intended for use with the   
+               Deknatel Reusable Precision Vascular Punch, for creating an      
+               opening(s) in the wall of the aorta or other selected vessels    
+               to prepare a site for anastomosis, as in bypass surgery.         
+               Recall #Z-1312-2.
+CODE           Catalog #ARB-091, lot numbers:  01471, 01471A, 02397A, 02558P.
+MANUFACTURER   Goosen Enterprises, Inc., Oviedo, Florida.
+RECALLED BY    Deknatel, Inc., Fall River, Massachusetts, by letter June 1,     
+               1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 396 pieces were distributed.
+REASON         4.4 mm blades were found in pouches labeled 2.7 mm punch blades.
+
+
+               
+PRODUCT        Mobile "E" Stand for N20/02 "E" Cylinders, Stock #2045, a        
+               portable stand designed as a mounting system for supplying       
+               oxygen (02) and nitrous oxide (N20) packaged in "E" size gas     
+               cylinders to a N20/02 flowmeter.  Recall #Z-1313-2.
+CODE           Serial #E-5547 to E-5571.
+MANUFACTURER   Porter Instrument Company, Inc., Hatfield, Pennsylvania.
+RECALLED BY    Manufacturer, by letter June 10, 1992.  Firm-initiated field     
+               correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       24 units were distributed; firm estimates no recalled product    
+               with the defect remain on the market.
+REASON         A nitrous oxide yoke was fitted in a place where an oxygen yoke  
+               should have been.  This defect could result in the patient       
+               receiving 100 percent nitrous oxide instead of a nitrous         
+               oxide/oxygen mixture.
+
+              
+PRODUCT        LifeStyles Nuda Plus with Spermicide Ultra-Thin Condoms,         
+               packaged in boxes of 3, 12 and 3 shrink-wrapped boxes of 12.     
+               Recall #Z-1314-2.
+CODE           Lot #6118189F2 EXP 4/93.
+MANUFACTURER   Ansell, Inc., Dothan, Alabama.
+RECALLED BY    Manufacturer, by letter June 19, 1992.  Firm-initiated recall    
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       5,726.88 gross were distributed.
+REASON         Complaints of breakage during use.
+
+                                      -9-
+              
+PRODUCT        Endoscopic Surgical Instruments with Ratchets:
+               (a) Endoscopy Mayo Hegar Needle Holder, 33 cm, Straight Insert
+                   Jaws;
+               (b) Endoscopy Crile-Wood Needle Holder, 33 cm, Curved Insert
+                   Jaws;
+               (c) Endoscopy Allis Tissue Forceps, 33 cm;
+               (d) Endoscopy Babcock Tissue Forceps, 33 cm;
+               (e) Endoscopy Crile Grasping Forceps, 33 cm, Straight;
+               (f) Endoscopy Crile Grasping Forceps, 33 cm Light Curve;
+               (g) Endoscopy Mixter Grasping Forceps, 33 cm Strong Curve.       
+               Recall #Z-1315/1321-2.
+CODE           Catalog numbers:  (a) 114705; (b) 114740; (c) 114712;
+               (d) 114713; (e) 114730; (f) 114631l (g) 114732.
+MANUFACTURER   Edward Weck & Company, Research Triangle Park, North Carolina.
+RECALLED BY    Manufacturer, by letters of June 4, 1992 and July 6, 1992.       
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       2,657 units were distributed.
+REASON         Devices may experience premature breakage at the jaw or handle   
+               joint.
+
+
+RECALLS AND FIELD CORRECTION:  DEVICES -- CLASS III
+              
+PRODUCT        Ophthalmic Trephine Blade, Catalog #9715, used to prepare both   
+               donor and recipient corneas for implantation.  Recall #Z-1309-2.
+CODE           Lot #1G1471.
+MANUFACTURER   Edward Weck & Company, Inc., Research Triangle Park, North       
+               Carolina.
+RECALLED BY    Manufacturer, by telephone April 11 and 13, 1992, followed by    
+               letter April 14, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Canada, Colombia, South Africa.
+QUANTITY       398 blades were distributed.
+REASON         The outside label card indicates 8.5 mm blade while the package  
+               may contain a 7.5 mm blade.
+
+              
+PRODUCT        "STD" Contact Lenses, all sizes and powers.  Recall #Z-1327-2.
+CODE           Lot #1221670.
+MANUFACTURER   Ciba Vision Corporation, Atlanta, Georgia.
+RECALLED BY    Manufacturer, by letter September 6, 1991.  Firm-initiated       
+               recall complete.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       1,348 lenses were distributed; firm estimates 69 units remain    
+               on the market.
+REASON         Lenses do not have a minus (-) designation in front of the       
+               dioptric power.
+
+                                     -10-
+              
+PRODUCT        In vitro Diagnostic Kits:
+               (a) AFT System 1 Kit, Catalog #879020;
+               (b) AFT System I ASMA, Catalog #879017;
+               (c) Anti-Human IgG Conjugate (Fluorescein Labeled), product      
+               code 20523.  Recall #Z-1328/1330-2.
+CODE           Lot numbers:  (a) M92018, M92016; (b) M92017; (c) 205024.
+MANUFACTURER   Immco Diagnostics, Buffalo, New York.
+RECALLED BY    Manufacturer, by letters of August 11 and 12, 1992.
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Maryland, New Jersey.
+QUANTITY       (a) 134 kits; (b) 150 kits; (c) 2 bulk plasma packs (1805 ml     
+               and 1802 ml) were distributed.
+REASON         Products were manufactured with microbially-contaminated         
+               deionized water which could lead to erroneous testing results.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY -- CLASS II
+              
+PRODUCT        Pig Starter:  (a) #20 CSP, in 50 pound multi-layered paper       
+               bags; (b) #10, in 50 pound multi-layered paper bags, a           
+               medicated feed for reduction of incidence of cervical abcesses   
+               and treatment of bacterial swine enteritis.
+               Recall #V-051/052-2.
+CODE           Lot numbers:  (a) FJ852, FJ1662, FJ2192, GJ562, GJ1642, HJ72;
+               (b) FJ2482, GJ2212.
+MANUFACTURER   Farmland Industries, Inc., Centralia, Missouri.
+RECALLED BY    Manufacturer, by telephone followed by letter August 4, 1992.    
+               Firm-initiated recall complete.
+DISTRIBUTION   Missouri, Illinois.
+QUANTITY       (a) 3,463 50-pound bags; (b) 727 50-pound bags were              
+               distributed; firm estimates none remains on the market.
+REASON         Products manufactured with twice the concentration of            
+               chlortetracycline/sulfathiazole/penicillin as required.
+
+SEIZURES:
+              
+PRODUCT        Oxygen, USP (92-613-677).
+CHARGE         Adulterated - The methods used in, and the facilities and
+               controls used for, the products' processing, packing, and
+               holding do not conform to and are not operated and
+               administered in conformity with current good manufacturing
+               practice requirements.
+FIRM           Oxygen Support Systems, Inc., Riverside, New Jersey.
+FILED          June 29, 1992; U.S. District Court for the District of New
+               Jersey; Civil #92-2698, FDC #66427.
+SEIZED         July 7, 1992 - goods valued at approximately $4,000.
+
+
+                                     -11-
+              
+PRODUCT        Akne-Mycin (erythromycin) ointment (92-544-652).
+CHARGE         Adulterated - The product purports to be and is represented
+               as a drug, the name of which is recognized in an official
+               compendium, and its strength differs from the standard set
+               forth in such compendium.
+FIRM           Stiefel Laboratories, Inc., Oak Hill, New York.
+FILED          June 16, 1992; U.S. District Court for the Northern
+               District of New York; Civil #92-CV-771CGC, FDC #66453.
+SEIZED         June 23, 1992 - goods valued at approximately $5,780.
+
+              
+PRODUCT        Cholesterol free pasta (92-635-153).
+CHARGE         Misbranded - All of the products bear a nutritional claim
+               that they are cholesterol free, and fail to provide complete
+               nutritional information as required.  All of the products
+               lack words, statements, and other information required
+               (i.e., the ingredients statement and location of the
+               manufacturer) because they are not prominently placed
+               thereon with such conspicuousness as to render them likely
+               to be read by the ordinary individual under customary
+               conditions of purchase, since the letters are less than 1/16
+               inch in height.  Some of the products are foods for which a
+               standard of identity has been established (angel hair,
+               fettuccine, and linguine), and their labels fail to bear the
+               name of the food specified in the regulation.  All of the
+               products are fabricated from two or more ingredients and
+               their labels fail to list the ingredients in descending
+               order of predominance.
+FIRM           Chin Family Foods, Inc., trading and doing business as
+               International Noodle Company, Philadelphia, Pennsylvania.
+FILED          August 2, 1992; U.S District Court for the Eastern
+               District of Pennsylvania; Civil #92-4521, FDC #66471.
+SEIZED         August 3, 1992 - goods valued at approximately
+               $645.
+
+              
+PRODUCT        "Irish Style" Oatmeal (92-613-410).
+CHARGE         Misbranded - The product label falsely represents and
+               suggests that the article is a "high fiber cereal," low in
+               calories, and contains no cholesterol.  The product label
+               fails to include the street address of the distributor;
+               the net quantity of contents does not appear on the package
+               in conspicuous type in distinct contrast with other matter
+               on the package, and the statement of net quantity of
+               contents on the package does not contain letters or numerals
+               in a type size established by regulation in relationship to
+               the area of the principal display panel of the package.
+FIRM           I. Epstein and Sons, Inc., Irvington, New Jersey.
+FILED          June 4, 1992; U.S. District Court for the District of New
+               Jersey; Civil #92-2350, FDC #66435.
+SEIZED         June 17, 1992 - goods valued at approximately $800.
+
+                                     -12-
+              
+PRODUCT        Lemon strips (92-664-531).
+CHARGE         Adulterated - The product contains cyclamate salt, an unsafe
+               food additive, in that there is no regulation in effect
+               describing the conditions under which it may be safely used.
+               In addition, the product contains saccharin salt, a food
+               additive which is unsafe because its use is not in
+               conformance with the regulation which prescribes the
+               conditions under which it may be safely used.
+               Misbranded - The product is misbranded because:  it is
+               offered for sale under the name of another food since it is
+               contained in cases labeled as soup mix base; the label fails
+               to bear the common or usual name of the food; it is
+               fabricated from two or more ingredients and its label fails
+               to declare the presence of saccharin or cyclamate; and, the
+               product contains saccharin and the label fails to bear the
+               required saccharin warning statement.
+FIRM           Wing Coffee Company, Ltd., Honolulu, Hawaii.
+FILED          July 23, 1992; U.S. District Court for the District
+               of Hawaii; Civil #92-00477, FDC #66464.
+SEIZED         July 27, 1992 - goods valued at approximately $1,450.
+
+              
+PRODUCT        Canned mushroom pieces and stems (90-611-987/8).
+CHARGE         Adulterated - The product is unfit for food because it is
+               contained in rusted, swollen, and leaking cans.
+FIRM           Commercial Warehousing Co., Philadelphia, Pennsylvania.
+FILED          September 22, 1992; U.S. District Court for the Eastern
+               District of Pennsylvania; Civil #92-CV-5491, FDC #66484.
+SEIZED         September 28, 1992 - goods valued at approximately $2,785.
+
+                                     -13-
+
+END OF ENFORCEMENT REPORT FOR OCTOBER 7, 1992.  BLANK PAGES MAY
+FOLLOW.
+
+                                     ###

@@ -1,0 +1,458 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Feb
+		  DEC
+		  Apr
+		
+		
+		
+		  
+		  28
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      29 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: Alexa Crawls DO
+		
+	  
+	  Crawl data donated by Alexa Internet. This data is currently not publicly accessible
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+11/10/1993
+
+Recalls and Field Corrections:  Foods -- Class I -- 11/10/1993
+
+November 10, 1993                                             93-45
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+==========================
+_______________
+PRODUCT           Fresh ready-to-eat cooked crabmeat in 1 pound plastic
+                  containers:  (a) Special Crabmeat; (b) Lump Crabmeat. 
+                  Recall #F-051/052-4.
+CODE              None.  All crabmeat processed during the period of 8/11/93-
+                  9/10/93.
+MANUFACTURER      Simonson Seafood Ltd., Warsaw, Virginia.
+RECALLED BY       Manufacturer, by telephone August 31, 1993 and September
+                  24, 1993.  Firm-initiated recall complete.
+DISTRIBUTION      Pennsylvania, Virginia.
+QUANTITY          Firm estimates none remains on the market.
+REASON            Products are contaminated with Listeria monocytogenes.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT           Nectarines, fresh, raw, US Grades No. 1 and No. 2, packed
+                  in 20 pound cardboard boxes.  Recall #F-533-3.
+CODE              0817 EOO G 32.
+MANUFACTURER      Ray Beauleaurer, Beauleaurer Farms, Grandview, Washington
+                  (Grower).
+RECALLED BY       E.W. Brandt & Sons, Wapato, Washington, by telephone August
+                  31, 1993.  Firm-initiated recall complete.
+DISTRIBUTION      Minnesota.
+QUANTITY          50 boxes.
+REASON            Product contained illegal residues of Dimethoate.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT           Dressings and condiments:
+                  (a) Salad Dressing, in 1 gallon plastic jars;
+                  (b) Lite Salad Dressing, in 32 ounce glass jars;
+                  (c) Tarter Sauce, in 8 ounce glass jars and in 1 gallon
+                  plastic jars;
+                  (d) Cole Slaw Dressing, in 1 gallon plastic jars;
+                  (e) Thousand Island Dressing, in 1 gallon plastic jars;
+                  (f) Ollie Sauce, in 1 gallon plastic jars;
+                  (g) Burger Tarter Sauce, in 8 ounce glass jars.
+                  Recall #F-006/012-4.
+CODE              Lot numbers:  (a) S3522, S3532, S3562, S3572, S3642, S0043,
+                  S0053, S0063, S0083, S0263, S0323;
+                  (b) S0153; (c) S0043; (d) S0063; (e) S3532; (f) S3582,
+                  S0213; (g) S0063.
+MANUFACTURER      Silver Foods, Corporation, Louisville, Kentucky.
+RECALLED BY       Manufacturer, by telephone on or around January 1993 -
+                  February 1993.  Firm-initiated recall complete.
+DISTRIBUTION      Illinois, Ohio, Kentucky, Virginia, California, Wisconsin,
+                  Tennessee.
+QUANTITY          3,736 cases were distributed; firm estimates none remains
+                  on the market.
+REASON            Products were contaminated with mold and yeast.
+ 
+_______________
+PRODUCT           "Astro for Bison" Lowfat Yogurt and Apple Crisp Granola, in
+                  4.4 ounce plastic containers.  Recall #F-013-4.
+CODE              All code dates up to and including SEP 1 93.
+MANUFACTURER      Bison Foods Company, Buffalo, New York.
+RECALLED BY       Manufacturer, by letter dated July 26, 1993, followed by
+                  telephone.  Firm-initiated recall complete.
+DISTRIBUTION      New York, Pennsylvania, New Jersey, Maryland, Vermont.
+QUANTITY          1,808 cases were distributed; firm estimates none remains
+                  on the market.
+REASON            Product contains undeclared sulfites.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT           Atenolol with Chlorthalidone Tablets, 50 mg/25 mg, Rx used
+                  as a combination antihypertensive/diuretic, packaged in
+                  bottles of 100.  Recall #D-018-4.
+CODE              Lot numbers:  25322 EXP 7/95 (Rugby & Mutual), 25323 EXP
+                  7/95 (Mutual, URL & Geneva), 25324 EXP 7/95 (URL, Goldline,
+                  Mutual).
+MANUFACTURER      Mutual Pharmaceutical Company, Inc., Philadelphia,
+                  Pennsylvania.
+                                      -2-RECALLED BY       Manufacturer, by letter September 15, 1993.  Firm-initiated
+                  recall complete.
+DISTRIBUTION      Nationwide.
+QUANTITY          Lot #25322 -- 1,662 bottles (Rugby), 1,675 bottles
+                  (Mutual); Lot #25323 -- 352 bottles (Mutual), 144 bottles
+                  (URL), 4,320 bottles (Geneva); Lot #25324 -- 288 bottles
+                  (URL), 49 bottles (Goldline), 809 bottles (Mutual).
+REASON            Product does not meet disintegration specifications.
+
+_______________
+PRODUCT           Compressed Medical Oxygen, USP, in size E cylinders.
+                  Recall #D-019-4.
+CODE              12 cylinders without lot numbers.  11 with the following
+                  serial numbers and one cylinder with an unknown serial
+                  number:
+                  Serial Number       Hydrostatic Testing Date 
+                  0191A021852                12/16/92 
+                  0191A0221819               12/16/92  
+                  16694                      12/16/92  
+                  0890A017230                12/16/92  
+                  0191A021903                12/16/92  
+                  15642                      2/01/93  
+                  6293A060712                3/22/93  
+                  15015D                     7/15/93  
+                  0011042                    8/09/93  
+                  0293A060706                8/25/93 
+                  IT5647                     9/03/93.  
+MANUFACTURER      County Health Services, Inc., doing business as American
+                  Medical Equipment (AME), Georgetown, Texas.
+RECALLED BY       Manufacturer, by visit between September 22-28, 1993. 
+                  Firm-initiated recall ongoing.
+DISTRIBUTION      Texas.
+QUANTITY          Firm estimates none remains on the market. 
+REASON            Current good manufacturer practice deficiencies.
+
+_______________
+PRODUCT           Lacrisert, a sterile Rx 5 mg Hydroxypropyl Cellulose
+                  Ophthalmic Insert and Applicator, indicated in patients
+                  with moderate to severe dry eye syndromes.  Recall #D-020-
+                  4.
+CODE              Lot #W0213.
+MANUFACTURER      Merck Manufacturing Division, Division of Merck & Company,
+                  Inc., West Point, Pennsylvania.
+RECALLED BY       Manufacturer, by letters beginning November 4, 1993.  Firm-
+                  initiated recall ongoing.
+DISTRIBUTION      Nationwide and international.
+QUANTITY          4,077 units were distributed; firm estimates that very
+                  little if any of the product remains on the market.
+REASON            Lack of assurance of sterility.
+
+                                      -3-_______________
+PRODUCT           Cortisone Acetate Tablets USP, 10 mg and 25 mg, in bottles
+                  of 100, used as replacement therapy in adrenocortical
+                  deficiency states.   Recall #D-021/022-4.
+CODE              Lot numbers:  982DF, 733HS (10 mg); 561FD, 616HJ, 535DW
+                  (25 mg).
+MANUFACTURER      The Upjohn Company, Kalamazoo, Michigan.
+RECALLED BY       Manufacturer, by letters December 4, 1992 and November 8,
+                  1993.  Firm-initiated recall ongoing.
+DISTRIBUTION      Nationwide and international.
+QUANTITY          29,790 bottles of lot numbers 982DF, 733HS, 561FD and 616HJ
+                  and 14,539 bottles of lot numbers 535DW were distributed.
+REASON            Product does not meet dissolution specifications through
+                  expiration date.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT           Olympus PK 7100 Data Diskettes, used to store data from the
+                  hard drive of the Olympus PK 7100 Automated Pretransfusion
+                  Blood Testing System.  Recall #B-032-4.
+CODE              Catalog #ZM0472; Lot P111.
+MANUFACTURER      Formats Unlimited, East Farmingdale, New York.
+RECALLED BY       Olympus America, Inc., Lake Success, New York, by letter
+                  June 2, 1993.  Firm-initiated recall complete.
+DISTRIBUTION      Nationwide.
+QUANTITY          46 diskettes.
+REASON            Diskettes were defective.
+
+_______________
+PRODUCT           (a) Red Blood Cells; (b) Platelets; (c) Recovered Plasma. 
+                  Recall #B-034/036-4.
+CODE              Unit #04K34211.
+MANUFACTURER      American Red Cross Blood Services, Dedham, Massachusetts.
+RECALLED BY       Manufacturer, by letter September 24, 1992.  Firm-initiated
+                  recall complete.
+DISTRIBUTION      Massachusetts.
+QUANTITY          1 unit of each component.
+REASON            Blood products, which tested negative for the antibody to
+                  human immunodeficiency virus type 1 (anti-HIV-1), but were
+                  collected from a donor who previously tested repeatedly
+                  reactive for anti-HIV-1, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT           Software programs:  (a) UPS Version 10.22 DOS; (b) Unix
+                  Systems, used for the re-entering of catheter description
+                  points in the Nucletron Planning System.
+                  Recall #Z-046/047-4.
+CODE              All Nucletron Planning Systems.
+MANUFACTURER      Nucletron B.V., Waardegelder 1, The Netherlands.
+
+                                      -4-RECALLED BY       Nucletron Corporation, Columbia, Maryland, by sending
+                  Technical Notes to all NPS users on October 15, 1992. 
+                  Firm-initiated recall ongoing.
+DISTRIBUTION      Nationwide, Brazil, Canada, West Indies.
+QUANTITY          231 units.
+REASON            In a situation with implants of two or more cathetrs, an
+                  error situation can occur when the catheters are described
+                  with catheter description points.  
+
+_______________
+PRODUCT           Adams Compact II Centrifuge, distributed as a Primary Care
+                  Diagnostic product and through several private label
+                  distributors and clinical laboratories which include:
+                  (a) Catalog #0225 - Becton Dickinson
+                  (b) Catalog #0226 - Allied Clinical Laboratories
+                  (c) Catalog #0230 - Methpath
+                  (d) Catalog #0231 - Roche
+                  (e) Catalog #0232 - Damon Clinical Laboratories
+                  (f) Catalog #0234 - Mawd Medical Laboratories
+                  (g) Catalog #0236 - Eastside Medical Laboratories
+                  (h) Catalog #0237 - Laboratory of Clinical Medicine
+                  (i) Catalog #0238 - Metwest Clinical Laboratories
+                  (j) Catalog #0239 - Clinical Diagnostic Services.
+                  Recall #Z-064/073-4.
+CODE              Serial numbers:  25101 through 262348.  
+MANUFACTURER      Becton Dickinson, Sparks, Maryland.
+RECALLED BY       Manufacturer, by letter March 24, 1993.  Firm-initiated
+                  recall ongoing.
+DISTRIBUTION      Nationwide.
+QUANTITY          Approximately 13,177 units were distributed; firm estimates
+                  2,215 units remain on the market.
+REASON            Under certain operating conditions, the rotating tube
+                  shields may contact the wiring within the housing resulting
+                  in abraded insulation or exposed wires.
+
+_______________
+UPDATE            Dilipan Hygroscopic Cervical Dilator, listed in the
+                  November 3, 1993 Enforcement Report should read Recall #Z-
+                  035-4.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT           Dermatology laser systems:
+                  (a) Candela SPTL-1a Dermatology Laser System (P/N
+                  9904-10-0300/0302); Candela SPTL-1aG (Germany) Dermatology
+                  Laser System (P/N 9904-10-0302);
+                  (b)  Candela SPTL IEC Dermatology Laser System (P/N
+                  9904-0010-0250).  Recall #Z-018/019-4.
+CODE              (a) SPTL-1a (9904-10-0300), Serial Nos. 2106, 2219, 
+               2220, 3109-3149, 3151-3164, 3167, & 3169 
+               SPTL-1aG (Germany) (9904-10-0302), Serial Nos. 
+               3150, 3165, 3166, 3168, 3170, 3171, 3173, 3174;
+
+                                      -5-                  (b) SPTL IEC (9904-10-0250), Serial Nos. 2217, 
+               2244-2267, 2269-2290.
+MANUFACTURER      Candela Laser Corporation, Wayland, Massachusetts.
+RECALLED BY       Manufacturer, by letter March 17, 1993.  Firm-initiated
+                  field correction ongoing.
+DISTRIBUTION      Nationwide and international.
+QUANTITY          (a) 64 units; (b) 54 units.
+REASON            The design allowed for possible internal fires.
+
+_______________
+PRODUCT           Techmate 1000, an automated immunostaining system for
+                  tissue samples placed on microscope slides.
+                  Recall #Z-061-4.
+CODE              All serial numbers are prefixed with alphabetic code TMR
+                  followed by 10001, 10006-13, 10015-25, 10027-33, 10035-43.
+MANUFACTURER      Biotek Instruments Inc., Santa Barbara, California.
+RECALLED BY       Manufacturer, by letter dated June 24, 1993.  Firm-
+                  initiated recall ongoing.
+DISTRIBUTION      California, Colorado, Connecticut, Illinois, Massachusetts,
+                  Maryland, Michigan, Minnesota, North Carolina, New Jersey,
+                  New York, Ohio, Oregon, Pennsylvania, Texas, Washington,
+                  Vermont, District of Columbia.
+QUANTITY          40 units.
+REASON            The device's mechanical arm will stop after the failure of
+                  an electronic component which senses the position of the
+                  mechanical arm.  The component failure is caused by an
+                  improperly designed resistor.
+
+_______________
+PRODUCT           Bioscan Reagent Strips Dip and Read Test for measuring
+                  glucose, ketone, bilirubin, protein, pH and blood in urine,
+                  in bottles each holding 100 test strips.  Recall #Z-062-4.
+CODE              Lot 28202.
+MANUFACTURER      Yeong Dong Pharmaceutical Corporation, Seoul, Korea.
+RECALLED BY       Dia-Screen Corporation, Minneapolis, Minnesota, by letter
+                  September 20, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION      Massachusetts, Michigan, Ohio.
+QUANTITY          120 bottles.
+REASON            The test strips are not detecting blood urine in the
+                  specified time.  The test strips are intended to detect 5-
+                  15 blood cells per microliter one minute after being dipped
+                  in a positive urine sample.
+
+_______________
+PRODUCT           Ortho brand, Round Bottom, MRC-5 Human Embryonic Lung
+                  (Diploid) Cell Culture tubes, used for the isolation of
+                  infectious agents and as an indicator system for the
+                  presence of toxins.  Recall #Z-063-4.
+CODE              Product #505050, lot #063050 EXP 7/29/93.
+MANUFACTURER      Ortho Diagnostic Systems, Inc., Carpinteria, California.
+RECALLED BY       Manufacturer, by telephone on June 28 & 29, 1993.  Firm-
+                  initiated recall complete.
+
+                                      -6-DISTRIBUTION      California, Connecticut, Illinois, Maine, Missouri, New
+                  Jersey, New York, Ohio, Oklahoma, Oregon.
+QUANTITY          1,995 tubes were distributed; firm estimates none remains
+                  on the market.
+REASON            Tubes are contaminated with the organism Xanthonas
+                  (pseudomonas) Maltophilia which causes the device not to
+                  function as designed. 
+
+
+MEDICAL DEVICE SAFETY ALERTS: 
+============================================
+_______________
+PRODUCT            Acufex Orthopedic Screwdrivers:
+                   (a) Part #013108, 7 mm Cannulated Driver, Large Handle;
+                   (b) Part #013109, 9 mm Cannulated Driver, Large Handle;
+                   (c) Part #013426, 7 mm Cannulated Driver, Small Handle;
+                   (d) Part #013427, 9 mm Cannulated Driver, Small Handle.
+                   Safety Alert #N-063/064-3 & N-087/088-3.
+CODE               Lot numbers:  (a) LCN 591, LCN 691, LCN 791, LCN 891, LCN 991, LCN
+                   1091, LCN 1191, LCN 1291, LCN 1391, LCN 192, LCN 292, LCN 392, LCN
+                   492, LCN 592, LCN 692, LCN 792, LCN 892, LCN 992, LCN 1092, LCN 1192,
+                   LCN 1292, LCN 1392, LCN 1492.
+                   (b) LCN 391, LCN 491, LCN 591, LCN 691, LCN 791, LCN 891, LCN 192, LCN
+                   292, LCN 392, LCN 492, LCN 592, LCN 692, LCN 792, LCN 892; (c) LCN
+                   491, LCN 591, LCN 691, LCN 791, LCN 891, LCN 991, LCN 1091, LCN 192,
+                   LCN 292, LCN 392, LCN 492, LCN 592, LCN 692, LCN 792, LCN 892, LCN
+                   992, LCN 1092, LCN 1192, LCN 1292, LCN 1392, LCN 1492, LCN 1592, LCN
+                   1692, LCN 1792; (d) LCN 491, LCN 591, LCN 691, LCN 791, LCN 192, LCN
+                   292, LCN 392, LCN 492, LCN 592, LCN 692, LCN 792, LCN 892, LCN 992,
+                   LCN 1092, LCN 1192.
+MANUFACTURER       Acufex Microsurgical, Inc., Mansfield, Massachusetts.
+ALERTED BY         Manufacturer, by letter dated October 15, 1992.
+DISTRIBUTION       Nationwide and international.
+QUANTITY           (a) 1,235 units; (b) 793 units; (c) 734 units; (d) 454. 
+REASON             There is a potential for tip breakage.
+
+
+SEIZURE:
+==================================================================
+______________
+PRODUCT            Pickled gouramy fish (93-683-331).
+CHARGES            Adulterated - The article consists in part of a filthy substance by
+                   reason of the presence therein of insects, and rodent, human, and
+                   cat/dog hair.
+FIRM               Cathay Company, Los Angeles, California.
+FILED              October 21, 1993; U.S. District Court for the Central District of
+                   California: Civil #93-6380LBG; FDC #66788.
+SEIZED             November 2, 1993 - goods valued at approximately $25,000.
+
+                                             -7-
+END OF ENFORCEMENT REPORT FOR NOVEMBER 10, 1993.  BLANK PAGES MAY
+FOLLOW.
+                                            ####

@@ -1,0 +1,657 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Feb
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      28 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+09/15/1993
+
+Recalls and Field Corrections:  Drugs -- Class II -- 09/15/1993
+
+September 15, 1993                                        93-37
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+______________
+PRODUCT        Cefzil (Ceprozil HCl) 500 mg unit dose Tablets, a
+broad
+               spectrum antibiotic.  Recall #D-333-3.
+CODE           Lot numbers:   B2V77A EXP 3/94, C2W64B EXP 4/94.
+MANUFACTURER   Bristol-Myers Carceloneta, Barceloneta, Puerto Rico.
+RECALLED BY    Bristol-Myers Squibb Company, New Brunswick, New
+Jersey, by
+               letter dated August 18, 1993.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       922 units of lot B2V77A 449 units of lot C2W64B were
+               distributed.
+REASON         Strips of 500 mg unit dose tablets were packaged in
+some
+               cartons labeled as 250 mg.
+
+_______________
+PRODUCT        Nitrous Oxide, Compressed, USP, Medical Gas,
+Anhydrous, Rx
+               medical gas used in anesthesia, in blue N (64
+pound), G (56
+               pound), and E (6.9 pound) size cylinders.  Recall
+#D-334-3.
+CODE           Lot #CGH193P EXP AUG1998.
+MANUFACTURER   Liquid Carbonic Industries Corporation, Chicago,
+Illinois.
+RECALLED BY    Liquid Carbonic Industries Corporation, Oak Brook,
+Illinois,
+               by telephone September 1, 1993, followed by letter. 
+Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Illinois, Indiana.
+QUANTITY       1 E-cylinder, 10 G-cylinders, and 13 N-cylinders
+were
+               distributed; firm estimates none remains on the
+market.
+REASON         Some cylinders were contaminated with carbon
+dioxide.
+
+_______________
+PRODUCT        Compressed Medical Oxygen, USP, packaged in D and E
+size
+               cylinders, Rx drug used for inhalation therapy.
+               Recall #D-336-3.
+CODE           All codes.
+MANUFACTURER   TriWeld Industries, Bayshore, New York (bulk
+supplier).
+RECALLED BY    Newbridge Surgical Supply, Inc., Bellmore, New York, 
+by
+               visit September 1, 1993.  Firm-initiated recall
+complete.
+DISTRIBUTION   New York.
+QUANTITY       17 cylinders were distributed.
+REASON         Current good manufacturing practice deficiencies.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+______________
+PRODUCT        Sodium Polystyrene Sulfonate Suspension, USP, in 1
+pint and
+               60 ml plastic bottles.  Recall #D-335-3.
+CODE           All lots.
+MANUFACTURER   Carolina Medical Products Company, Farmville, North
+               Carolina.
+RECALLED BY    Manufacturer, by telephone August 30, 1993, and by
+letter
+               August 31, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Canada.
+QUANTITY       Firm estimates 200 pint bottles and 75 10-bottle
+cartons of
+               60 ml bottles remain on the market.
+REASON         Use of non-approved formulation.
+
+______________
+PRODUCT        Kondremul Plain, in 16 ounce bottles, used for the
+temporary
+               relief of constipation and sold under Fisons label.
+               Recall #D-337-3.
+CODE           Lot #RK2065 EXP 9/95 (Fisons lot 38487).
+MANUFACTURER   Barre-National, Inc., Baltimore, Maryland.
+RECALLED BY    Manufacturer, by letter April 7, 1993. 
+Firm-initiated
+               recall complete.
+DISTRIBUTION   New York.
+QUANTITY       60,864 units were distributed; firm estimates none
+remains
+               on the market.
+REASON         Product fails stability specifications for total
+microbial
+               count.
+
+                                    -2-RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS I
+========================
+______________
+PRODUCT        Lifepak (LP) 10 Defibrillator/Cardiac Monitor
+(including
+               paddles), a stand alone external medical device.
+               Recall #Z-678-3.
+CODE           All units manufactured and distributed prior to June
+1992. 
+               Also, units shipped between May 18, 1993 and
+mid-August 1993
+               pertain to this recall only regarding the coil cord. 
+These
+               units received the other 3 upgrades prior to being
+shipped.
+MANUFACTURER   Physio Control Corporation, Redmond, Washington.
+RECALLED BY    Manufacturer, by letter dated July 9, 1993, followed
+by
+               visit beginning July 21, 1993.  Firm-initiated field
+               correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       115,000 units were distributed prior to June 1992. 
+An
+               additional 1,000-1,500 units were distributed from
+May 18,
+               1993 through mid-August 1993.
+REASON         Inherent reliability problems.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+______________
+PRODUCT        Osteogen (HA) Synthetic Non-Ceramic Hydroxylapatite
+               OsteoConductive Implant Material, indicated for the
+               contouring and improvement of alveolar ridge
+deformities and
+               for the support and filling of tooth sockets and
+cyst
+               defects following extraction or removal.  Recall
+#Z-280-3.
+CODE           Lot numbers: T002EJ, 040015, 040071.
+MANUFACTURER   Impladent Ltd. Holliswood, New York.
+RECALLED BY    Manufacturer, by letter December 4, 1992. 
+Firm-initiated
+               recall complete.
+DISTRIBUTION   Michigan.
+QUANTITY       4,668 vials were distributed; firm estimates none
+remains on
+               the market.
+REASON         Product may contain foreign particles.
+
+______________
+PRODUCT        Howmedica Precision Hip Long Stem Femoral Component
+size #2
+               Left 225 mm, used for reconstructive hip
+replacement.
+               Recall #Z-640-3.
+CODE           L0t #B4XIA, sterile lot #9127106.
+MANUFACTURER   Howmedica Division, Pfizer Hospital Products Gropup,
+Inc.,
+               Rutherford, New Jersey.
+RECALLED BY    Manufacturer, by telephone August 24, 1992. 
+Firm-initiated
+               recall complete.
+DISTRIBUTION   Maryland, Tennessee, Arizona, Pennsylvania,
+California,
+               Florida, New York, Canada.
+QUANTITY       12 units were distributed.  All distributed product
+have
+               been accounted for.
+REASON         Devices are labeled with an incorrect size.
+
+                                    -3-______________
+PRODUCT        Star Dental High Speed Handpiece, used with various
+dental
+               tools:  (a) 430 SWL High Speed Fiber Optic
+Handpiece;
+               (b) 430/K/SW High Speed Handpiece.  Recall
+#Z-656/657-3.
+CODE           Lot numbers K0001 through K0046.
+MANUFACTURER   Nakanishi Dental Manufacturing Company, Ltd., Japan.
+RECALLED BY    Den-Tal-Ez, Inc., Star Dental Division, Lancaster,
+               Pennsylvania, by letter on or about September 10,
+1993. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 20,032 units were distributed.
+REASON         Accidental contact of the end cap with the turbine
+shaft can
+               cause sudden and severe heat rise in the distal end
+of the
+               handpiece, which may result in burns to the oral
+mucosa of
+               patients.
+
+______________
+PRODUCT        Model BLR-15AA Beam-Limiting Device, used to limit
+the beam
+               on an x-ray machine.  Recall #Z-663-3.
+CODE           All serial numbers.
+MANUFACTURER   Toshiba America Medical Systems, Inc., Tustin,
+California.
+RECALLED BY    Manufacturer.  FDA approved the firm's corrective
+action
+               plan August 5, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Undetermined.
+QUANTITY       Undetermined.
+REASON         The beam limiting device does not numerically
+indicate the
+               field size in the plane of the image receptor to
+which it is
+               adjusted when the positive-beam limitation (PBL)
+override
+               key is turned to the override position.
+
+______________
+PROBLEM        Battery assembly for the LifePak 8 ECG Monitor, used
+as a
+               backup DC power source for the LifePak 8 ECG
+Monitor.  
+               Recall #Z-737-3.
+CODE           Battery assembly part #802850-01, date code 9238.
+MANUFACTURER   Gates Energy Products, Inc., Gainesville, Florida
+(battery
+               assembly).
+RECALLED BY    Physio Control Corporation (PCC), Redmond,
+Washington, by
+               telephone March 23, 1993.  Firm-initiated recall
+ongoing.
+DISTRIBUTION   Connecticut, Indiana, Nebraska, Idaho, Washington
+state,
+               Alaska, Alabama, Virginia, California, Canada,
+Japan.
+QUANTITY       27 battery assemblies were distributed.
+REASON         Miswiring resulting in battery failure.
+
+
+MEDICAL DEVICE SAFETY ALERTS:
+=============================================
+______________
+PRODUCT        Manan "Accura" Automatic Cutting Needle with
+Ultrasound Tip
+               & Depth Markings (ACN), sterile single use biopsy
+needles
+               for use in spring loaded biopsy guns; 5 needles per
+box:
+               (a) Catalog #1810: 18 gauge x 4" 
+
+                                    -4-               (b) Catalog #1816: 18 gauge x 6" 
+               (c) Catalog #1820: 18 gauge x 8" 
+               (d) Catalog #1610: 16 gauge x 4" 
+               (e) Catalog #1616: 16 gauge x 6" 
+               (f) Catalog #1620: 16 gauge x 8" 
+               (g) Catalog #1410: 14 gauge x 4" 
+               (h) Catalog #1416: 14 gauge x 6" 
+               (i) Catalog #1420: 14 gauge x 8" 
+               (j) Catalog #2010: 20 gauge x 4" 
+               (k) Catalog #2016: 20 gauge x 6" 
+               (l) Catalog #2020: 20 gauge X 8"
+               Safety Alert #N-065/076-3.
+CODE           All lots.
+MANUFACTURER   Manan Medical Products, Northbrook, Illinois. 
+ALERTED BY     Manufacturer, by letter June 11, 1993.
+DISTRIBUTION   Nationwide, Canada.
+QUANTITY       24,000 units were distributed; firm estimates 2,000
+units
+               remain on the market.
+REASON         Device may malfunction if used with BIP HS/1 & HS/2
+core
+               cutter.  This malfunction is evidenced by the
+extended
+               travel of the inner stylet.  This may cause
+unanticipated
+               needle placement and possible structural damage to
+the
+               tissue being biopsied.
+
+
+CONSENT DECREE OF PERMANENT INJUNCTION:
+===================================
+_______________
+PRODUCT        Infant formulas, special nutritional dietary
+formulas, and
+               dried dairy blend foods (93-658-050).
+AGAINST        Maple Island, Inc., a corporation, and Daniel W.
+O'Brien and
+               Ronald D. Zirbel, individuals, Stillwater and
+Wanamingo,
+               Minnesota.
+CHARGES        The defendants were charged with adulterating their
+products
+               because they were manufactured, prepared, processed,
+               packaged, and held for sale under insanitary
+conditions
+               whereby they may have become contaminated with filth
+or
+               rendered injurious to health.  Defendants were
+further
+               charged with adulterating products manufactured at
+their
+               facilities due to the presence in those products and
+in the
+               equipment that produced those products, of
+salmonella
+               bacteria, a poisonous or deleterious substance,
+which may
+               have rendered them injurious to health.
+FILED          August 17, 1993, Complaint for Injunction; August
+20, 1993, 
+               Consent Decree of Permanent Injunction; U.S.
+District Court
+               for the District of Minnesota; Civil #4-93-789; INJ
+1332.
+
+                                    -5-SEIZURES:
+=================================================================
+_______________
+PRODUCT        Frequency generator instruments and various other
+medical
+               devices (92-641-318).
+CHARGES        Adulterated - The articles are class III medical
+devices for
+               which no approved premarket approval application is
+in
+               effect.  Misbranded - The articles' labeling
+contains
+               statements which represent that the devices are
+effective
+               for treating conditions including cancer, AIDS,
+heart
+               disease, arthritis, diabetes, infections, burns, and
+pain,
+               which representations and suggestions are false and
+               misleading and otherwise contrary to fact.  The
+articles'
+               labeling fails to bear adequate directions for use
+for the
+               purposes for which they are intended, because
+adequate
+               directions cannot be written for such purposes; the
+articles
+               were not manufactured in an establishment duly
+registered as
+               required; they were not included in a list as
+required; and,
+               premarket notification covering these devices was
+not filed
+               as required.
+FIRM           Crane Foundation, San Diego, California.
+FILED          February 12, 1993; U.S. District Court for the
+Southern
+               District of California; Civil #93-0230S(CM); FDC
+#66496.
+SEIZED         July 28, 1993 - goods valued at approximately
+$16,000.
+
+_______________
+PRODUCT        Thor of Genesis I vibrational sound system
+(93-670-674/8).
+CHARGES        Adulterated - The article is a class III medical
+device 
+               for which no approved premarket approval application
+is in
+               effect.  Misbranded - The article's labeling is
+false and 
+               misleading and otherwise contrary to fact; and, a
+notice or
+               other information respecting the device was not
+provided as
+               required.
+FIRM           Windows of the Mind Bookstore (also known as Calf
+Mother
+               Company), South Euclid, Ohio.
+FILED          August 17, 1993; U.S. District Court for the
+Northern
+               District of Ohio, Eastern Division; Civil #1:93CV
+1724;
+               FDC #66704.
+SEIZED         August 18, 1993 - goods valued at approximately
+$4,000.
+
+_______________
+PRODUCT        "Relaxman" Synchro Energizer and accompanying
+literature
+               (93-670-602).
+CHARGES        Adulterated - The article is a class III medical
+device for  
+               which no approved premarket approval application is
+in
+               effect. 
+               Misbranded - The article's labeling is false,
+misleading,
+               and contrary to fact.  The article's labeling fails
+to bear  
+               adequate directions for use for the purposes for
+which it is
+               intended and against use in those pathological
+conditions
+               where its use may be dangerous to health, or against
+unsafe
+               dosage or methods or duration of administration or 
+
+                                    -6-               application, in such manner and form, as are
+necessary for
+               the protection of users.  The use of the article is
+a danger
+               to health when used in the dosage or manner, or with
+the
+               frequency or duration prescribed, recommended, or
+suggested
+               in the labeling; and, the device is not listed as
+required.
+FIRM           Meta Brain/Mind Biomedical Research Foundation,
+Cleveland,
+               Ohio.
+FILED          July 28, 1993; U.S. District Court for the Northern
+               District of Ohio, Eastern Division; Civil #1:93CV
+1577;
+               FDC #66662.
+SEIZED         August 3, 1993 - goods valued at approximately
+$30,000.
+
+_______________
+PRODUCT        Lymphtech Neon-Argon Photon Particle Beam Generator,
+an
+               electrotherapy device which is held against the
+lymph
+               channels of the body (93-670-824, et al.).
+CHARGES        Adulterated - The article is a class III medical
+device for
+               which no approved premarket approval application is
+in
+               effect. 
+               Misbranded - The article's labeling fails to bear
+adequate
+               directions for use; and, in that the article was
+               manufactured in an establishment not duly registered
+as
+               required, it was not included in a required list,
+notices or
+               other information respecting the device were not
+provided as
+               required, and orders finding the device
+substantially
+               equivalent did not issue.
+FIRM           Lymphtech N.A., Toledo, Ohio.
+FILED          August 20, 1993; U.S. District Court for the
+Northern
+               District of Ohio, Western Division; Civil
+#3-93-CV-7466;
+               FDC #66707.
+SEIZED         August 24, 1993 - goods valued at approximately
+$1,500.
+
+_______________
+PRODUCT        Breaded haddock fillets (93-660-372/373).
+CHARGES        Adulterated - Pollock has been substituted wholly or
+in part
+               for haddock in the articles.  Misbranded - The
+articles'
+               labeling is false and misleading because it
+represents and
+               suggests that the only fish in the articles is
+haddock,
+               which is contrary to fact; and, pollock is offered
+for sale
+               under the name of another food, haddock.
+FIRM           Americold Cold Storage Warehouse, Watertown,
+Massachusetts.
+FILED          August 26, 1993; U.S. District Court for the
+District of
+               Massachusetts; Civil #93-11860-WF; FDC #66770.
+SEIZED         September 1, 1993 - goods valued at approximately
+$7,000.
+
+_______________
+PRODUCT        Electrosurgery Units, Lletz-Leep Electrosurgical
+               Electrodes, and accompanying promotional literature
+(93-662-
+               287, et al).
+CHARGES        Adulterated - The articles are class III medical
+devices for
+               which no approved premarket approval applications
+are in
+               effect.  
+                                    -7-FIRM           Cameron-Miller, Inc., Chicago, Illinois.
+FILED          September 1, 1993; U.S. District Court for the
+Northern
+               District of Illinois, Eastern Division; Civil #93C
+5350;
+               FDC #66721.
+SEIZED         September 1, 1993 - goods valued at approximately
+$35,000.
+
+_______________
+PRODUCT        Various articles of device for use in the practice
+of
+               obstetrics and gynecology, and device components
+used to
+               make them (93-544-578).
+CHARGES        Adulterated - Some of the articles are class III
+devices
+               that lack approved premarket approval applications. 
+The
+               methods used in, and the facilities and controls
+used for,
+               all of the articles' manufacture, packing, and
+storage are
+               not in conformity with current good manufacturing
+practice
+               requirements.  Misbranded - Labeling for all of the
+articles
+               represents and suggests that the devices are
+sterile, which
+               representations and suggestions are false and
+misleading or
+               otherwise contrary to fact.  The articles' labeling
+lacks
+               adequate directions for use for the purposes for
+which the
+               devices are intended because adequate directions
+cannot be
+               written for devices labeled as sterile which have
+not been
+               sterilized.  The articles are misbranded in that
+they are
+               dangerous to health when used in the manner
+prescribed,
+               recommended, or suggested in their labeling.  All of
+the
+               articles were manufactured, prepared, propagated,
+compounded
+               or processed in an establishment not duly
+registered, and
+               were not included in a required list.  A notice or
+other
+               information for some of the articles was not
+provided as
+               required.
+FIRM           International Medical Technologies Group, Inc.,
+Glens Falls,
+               New York.
+FILED          July 30, 1993; U.S. District Court for the Northern
+               District of New York; Civil #93-VO-683; FDC #66736.
+SEIZED         August 6 & 9, 1993 - goods valued at approximately
+$113,000.
+
+                                    -8-
+END OF ENFORCEMENT REPORT FOR SEPTEMBER 15, 1993.  BLANK PAGES MAY
+FOLLOW.
+                                   ####

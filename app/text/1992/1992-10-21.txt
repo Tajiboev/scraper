@@ -1,0 +1,401 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  NOV
+		  Mar
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      26 captures
+	      25 Feb 1997 - 02 Mar 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+10/21/1992
+
+RECALLS AND FIELD CORRECTIONS: October 21, 1992
+
+                                 FOODS -- CLASS II
+                                                              92-43
+              
+PRODUCT        Fresh tuna, unlabeled, varying weights ranging from 61 pounds    
+               to 216 pounds:  (a) Yellow Fin Tuna; (b) Big Eye Tuna.
+               Recall #F-538/539-2.
+CODE           None.
+MANUFACTURER   Phillips Seafood, Inc., Point Pleasant, New Jersey.
+RECALLED BY    Manufacturer, by telephone May 21, 1992.  Firm-initiated recall  
+               complete.
+DISTRIBUTION   New Jersey, Rhode Island, Massachusetts, Maryland.
+QUANTITY       12 units were distributed; firm estimates none remains on the    
+               market.
+REASON         The product is decomposed and contains histamines.
+
+              
+PRODUCT        Mushrooms, in 4 ounce cans, under Eastwind and Parade labels.    
+               Recall #F-094-3.
+CODE           Lot #CMPS 1518.
+MANUFACTURER   S.K. Foods, Inc., Bangkok, Thailand.
+RECALLED BY    Connell Foods, Inc., Westfield, New Jersey, by telephone July    
+               14, 1992, and by letter July 15, 1992.  Firm-initiated recall    
+               ongoing.
+DISTRIBUTION   New York.
+                                       
+QUANTITY       3,000 cases (24 cans per case) were distributed; firm estimates  
+               that no more than 10 percent remains on the market.
+REASON         Product is contaminated with Staphylococcus enterotoxin.
+
+              
+PRODUCT        Leslie Ann brand:  (a) Mint Pastels, in 4 ounce cellophane       
+               bags; (b) Candy Corn, in 5 ounce cellophane bags.
+               Recall #F-096/097-3.
+CODE           None.
+MANUFACTURER   Becksmith Company, Cincinnati, Ohio.
+RECALLED BY    Manufacturer, by memorandum August 28, 1992.  Firm-initiated     
+               field correction (relabeling) complete.
+DISTRIBUTION   Ohio, Kentucky, Indiana.
+QUANTITY       Since June 1, 1992, the firm has distributed no bags of the      
+               candy corn, and 72 bags of the mint pastels.  The firm also      
+               estimates that 6 bags of mint pastels remain on the market.
+REASON         Product contains undeclared FD&C; Yellow No. 5.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+              
+PRODUCT        (a) Pfeiffer brand Ranch Dressing, in 8 ounce glass bottles;
+               (b) Marzetti brand Ranch Dressing, in 8 ounce glass bottles.     
+               Recall #F-092/093-3.
+CODE           Lot numbers:  (a) 1-20-93; (b) 1-25-93.
+MANUFACTURER   Pfeiffer Foods, Wilson, New York.
+RECALLED BY    T. Marzetti Company, Columbus, Ohio, by letter dated August 21,  
+               1992.  Firm-initiated recall complete.
+DISTRIBUTION   (a) Florida, New Jersey, New York, Texas; (b) Iowa, Missouri,    
+               Wisconsin, West Virginia, Ohio.
+QUANTITY       (a) 947 cases (12 bottles per case); (b) 942 cases (12 bottles   
+               per case were distributed.
+REASON         Products are contaminated with Lactobacillus bacteria.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+              
+PRODUCT        Therapy Bayer Enteric Aspirin, 325 mg, in 50 and 100 count       
+               bottles, and in 7-pack sample packages, an OTC analgesic.        
+               Recall #D-015-3.
+CODE           Lot numbers:  1C404R, 1E409R, 1F411, 1H415, 1H422, 1J420 (50     
+               count); 1C404R, 1D405R, 1D407R, 1E410R, 1F411, 1F413, 1H415,     
+               1H419, 1H421, 1H422, 1H423, 1J420 (100 count), 1D405R, 1D406R,   
+               1E408R (7 pack sample).
+MANUFACTURER   Sterling Winthrop, Myerstown, Pennsylvania.
+RECALLED BY    Sterling Health, Division of Sterling Winthrop, Inc., New York,  
+               New York, by letter dated September 15, 1992.  Firm-initiated    
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       7,674 7-pack sample were distributed, firm estimates 350,000     
+               bottles of 50 and/or 100 tablets remain on the market.
+REASON         Product does not meet dissolution specifications through         
+               expiration date.
+
+                                      -2-
+              
+PRODUCT        Flutex Cream 0.1%, (Triamcinolone Acetonide Cream, USP, 0.1%),   
+               in 4 ounce tubes, a Rx drug.  Recall #D-016-3.
+CODE           Lot #G216 EXP 8/93.
+MANUFACTURER   Syosset Laboratories Company, Inc., Syosset, New York.
+RECALLED BY    Manufacturer, by telephone August 27, 1992.  Firm-initiated      
+               recall complete.
+DISTRIBUTION   California, Georgia.
+QUANTITY       79 units were distributed.
+REASON         80 gram size was mislabeled as 4 ounces.
+
+              
+PRODUCT        Blue Lightning Therapeutic Rub, an OTC analgesic balm, in 8      
+               ounce jars.  Recall #D-017-3.
+CODE           Lots #H311 EXP 1/94.
+MANUFACTURER   Syosset Laboratories, Company, Inc., Syosset, New York.
+RECALLED BY    Manufacturer, by letter September 25, 1992.  Firm-initiated      
+               recall ongoing.
+DISTRIBUTION   Florida, Virginia, Georgia, Maryland, New York, Louisiana.
+QUANTITY       1,586 units were distributed.
+REASON         Product contains 2% menthol.  Label incorrectly declares 4%.
+
+              
+PRODUCT        Thioridazine HCl Oral Solution, USP (Concentrate) 100 mg/3.4     
+               ml, a Rx oral psychotropic used for the management of            
+               manifestations of psychotic disorders.  Recall #D-018-3.
+CODE           Lot #202606 EXP 8/93, 204609 EXP 2/94, 205614 EXP 2/94.
+MANUFACTURER   Pharmaceutical Basics, Inc. (PBI), Morton Grove, Illinois.
+RECALLED BY    Xactdose, Inc., South Beloit, Illinois, by letter October 5,     
+               1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       734 cartons (10 cups per tray, 10 trays per carton) were         
+               distributed; firm estimates 75 cartons remain on the market.
+REASON         Product fails stability specifications for color prior to        
+               expiration date.
+
+              
+PRODUCT        Chlorpromazine HCl Oral Concentrate, USP, 100 mg/3.4 ml, an      
+               oral psychotropic used for the management of manifestations of   
+               psychotic disorders, in 3.4 ml unit dose cups.  Recall #D-019-3.
+CODE           Lot numbers:  202608 EXP 12/93, 206602 EXP 12/93.
+MANUFACTURER   Roxane Labs., Inc., Columbus, Ohio.
+RECALLED BY    Xactdose, Inc., South Beloit, Illinois, by letter September 29,  
+               1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       492 cartons (10 cups per tray, 10 trays per carton) were         
+               distributed; firm estimates 75 cartons remain on the market.
+REASON         The solution reacted with the aluminum foil cups causing         
+               leakage. 
+
+                                      -3-
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+              
+PRODUCT        (a) Whole Blood; (b) Red Blood Cells.  Recall #B-439/440-2.
+CODE           Unit numbers:  (a) S66253; (b) S68115, S68116.
+MANUFACTURER   San Diego Blood Bank, San Diego, California.
+RECALLED BY    Manufacturer, by telephone September 30, 1991, and December 30,  
+               1991.  Firm-initiated recall complete.
+DISTRIBUTION   California.
+QUANTITY       (a) 1 unit; (b) 2 units.
+REASON         Blood products labeled with incorrect expiration dates were      
+               distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+              
+PRODUCT        Medionics QC Transfer Sets, sterile, Rx quick connect device     
+               used between the patient line and tubing set during peritoneal   
+               dialysis:  (a) Medionics' Catalog #QT008C, Abbott List #2661;    
+               (b) Medionics' Catalog #QT-008CA, Abbott List #21662.
+               Recall #Z-1257/1258-2.
+CODE           Lot numbers: 
+               Medionics                         Abbott
+               (a) 910520 through 911120        54-026J2 through 61-009J2
+               (b) 910626                       55021J2.
+MANUFACTURER   Medionics International, Inc., Markham, Ontario, Canada.
+RECALLED BY    Abbott Laboratories, Hospital Products Division, Abbott Park,    
+               Illinois, by letter February 6, 1992.  Firm-initiated recall     
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 9,400 sets; (b) 418 sets were distributed; firm estimates    
+               none remains on the market.
+REASON         Sets may develop a leak at the distal connection site when       
+               connected to the Abbott Cycler Set or Biocap Y-set.
+
+              
+PRODUCT        Marathon Guiding Catheter, Model 77-160S-8F, JL5.0 STD.
+               Recall #Z-008-3.
+CODE           Lot #2D0563-4037.
+MANUFACTURER   Baxter Healthcare Corporation, Edwards LIS Division, Irvine,     
+               California.
+RECALLED BY    Manufacturer, by letter July 13 and 14, 1992.  Firm-initiated    
+               recall ongoing.
+DISTRIBUTION   Alabama, Arizona, California, Georgia, Hawaii, Illinois,         
+               Kansas, Louisiana, Michigan, Minnesota, Missouri, New Jersey,    
+               Pennsylvania, Tennessee, Tesas, Wisconsin, France, Japan,        
+               Belgium, Israel.
+QUANTITY       212 units were distributed.  FDA estimates that very little      
+               product remains on the market.
+REASON         The device was labeled as a "JL5.0" catheter (Judkins-left, 5.0  
+               cm width) but contained a "JL4.0" catheter.
+
+                                      -4-
+              
+PRODUCT        Foursight Visual Systems Model 4 Laser Projector.
+               Recall #Z-013-3.
+CODE           Serial #001.
+MANUFACTURER   Crystal Cathedral, Garden Grove, California.
+RECALLED BY    Manufacturer.  FDA approved the firm's corrective action plan    
+               September 23, 1992.  Firm-initiated field correction ongoing.
+DISTRIBUTION   California.
+QUANTITY       1 unit.
+REASON         Noncompliance with performance standard for laser products in    
+               that the removable lasers incorporated in the projector are not  
+               certified to be in compliance with the performance standard;     
+               the portions of the protective housing designed to be removed    
+               for user maintenance are not safety interlocked; there is no     
+               user information that complies with the performance standard;    
+               and there are no certification or identification labels as       
+               required.
+
+              
+PRODUCT        UroView Fluoroscopic Urology System.  Recall #Z-016-3.
+CODE           Serial numbers:  Undetermined.
+MANUFACTURER   OEC-Diasonics, Salt Lake City, Utah.
+RECALLED BY    Manufacturer.  FDA approved the firm's corrective action plan    
+               August 17, 1992.  Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       53 units were distributed.
+REASON         Noncompliance with the performance standard for diagnostic       
+               x-ray products in that it failed to meet the primary protective  
+               barrier-limitation of useful beam as required.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY -- CLASS II
+              
+PRODUCT        Tiguvon brand of Fenthion Cattle Insecticide Pour-on, in 1       
+               gallon metal containers, for the control of grubs and lice on    
+               cattle.  Recall #V-003-3.
+CODE           Lot numbers:  440045, 440068, 440094, 440046, 440069, 440095,    
+               440047, 440073, 440100, 440048, 440078, 440101, 440052, 440082,  
+               440102, 440053, 440084, 440103, 440054, 440092, 440104, 440065,  
+               440093, 440121.
+MANUFACTURER   Miles, Inc., Animal Health Products Division, Shawnee Mission,   
+               Kansas.
+DISTRIBUTION   Nationwide.
+QUANTITY       144,000 1-gallon cans distributed.
+REASON         Product becomes subpotent prior to end of 36-month expiration    
+               date.
+
+
+MEDICAL DEVICE SAFETY ALERTS:
+              
+PRODUCT        Autotransfusion System, Model AT1000, used to collect, clean     
+               and return blood to a patient during surgery.
+               Safety Alert #M-001-3.
+
+                                      -5-
+CODE           All serial numbers.
+MANUFACTURER   Electromedics, Inc., Englewood, Colorado.
+ALERTED BY     Manufacturer, by letter August 24, 1992.
+DISTRIBUTION   Nationwide, Australia, Germany.
+QUANTITY       409 units were distributed.
+REASON         Centrifuge bowl may crack during operation.
+
+
+INJUNCTION:
+              
+PRODUCT        Crabmeat (92-652-513).
+CHARGE         Adulterated - The crabmeat contains a filthy substance,          
+               indicated by the presence of E. coli, and by the presence of     
+               blow flies (calliphoridae), and is further adulterated in that   
+               it has been prepared, packed, or held under insanitary           
+               conditions whereby it may have become contaminated with filth.
+AGAINST        Seafood, Inc. of Henderson, Louisiana, and Pamela A.
+               Friedman, Charles J. Friedman, and Steven LeGrand.
+FILED          Complaint, September 29, 1992; Consent Decree of Permanent
+               Injunction, October 8, 1992; U.S. District Court for the
+               Western District of Louisiana, Lafayette-Opelousas Division;
+               Civil #92-1819, INJ 1305.
+
+
+SEIZURES:
+              
+PRODUCT        Canned sardines (92-664-536).
+CHARGE         Adulterated - The product consists in whole or in part of a
+               decomposed substance.
+FIRM           Shimaya Shoten, Ltd., Honolulu, Hawaii.
+FILED          October 1, 1992; U.S. District Court for the District
+               of Hawaii; Civil #92 00639 SPK, FDC #66606.
+SEIZED         October 7, 1992 - goods valued at approximately $11,600.
+
+              
+PRODUCT        Various articles of food (92-667-308).
+CHARGE         Adulterated - Four lots of product contain various elements
+               of filth, including insects, insect fragments, feather
+               barbules, and rodent and other animal hair.
+               Misbranded - One lot contains artificial coloring, a yellow
+               carotenoid color additive, and the product label fails to
+               state that fact.
+FIRM           Seasia/Uwajimaya, Inc., Seattle, Washington.
+FILED          August 18, 1992; U.S. District Court for the Western
+               District of Washington; Civil #C92-1296, FDC #66452.
+SEIZED         August 24, 1992 - goods valued at approximately $6,000.
+
+
+                                      -6-
+
+
+END OF ENFORCEMENT REPORT FOR OCTOBER 21, 1992.  BLANK PAGES MAY
+FOLLOW.
+                                     ###

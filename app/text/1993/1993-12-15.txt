@@ -1,0 +1,624 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      34 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+12/15/1993
+
+Recalls and Field Corrections:  Foods -- Class I -- 12/15/1993
+
+DECEMBER 15, 1993                                          93-50
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+==========================
+_______________
+PRODUCT        Crabmeat in 1-pound plastic containers:
+               (a) Jumbo Crabmeat picked 9/29/93
+               (b) Special Crabmeat picked 9/29/93
+               (c) Claw Crabmeat picked 9/29/93
+               (d) Special Crabmeat picked 10/28/93
+               (e) Backfin Crabmeat picked 10/28/93
+               (f) Jumbo Crabmeat picked 10/28/93.  Recall #F-114/119-4.
+CODE           None.
+MANUFACTURER   Gloucester Seafood, Inc., Gloucester, Virginia.
+RECALLED BY    Manufacturer, by telephone beginning October 13, 1993. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Maryland, Virginia.
+QUANTITY       1,100 pounds were distributed.
+REASON         Product is contaminated with Listeria monocytogenes.
+
+_______________
+PRODUCT        Light 'N Fluffy Macaroni Dumplings, in 12 ounce cellophane
+               packages.  Recall #F-122-4.
+CODE           Lot numbers:  31011SBT and 31011SBU.
+MANUFACTURER   Hershey Pasta Group, Lebanon, Pennsylvania.
+RECALLED BY    Hershey Pasta Group, Hershey, Pennsylvania, by press relese
+               and letter October 21, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Pennsylvania, New Jersey, New York, Maryland, Virginia, West
+               Virginia, Delaware, Washington, D.C.
+QUANTITY       480 cases (12 packages per case) were distributed.
+REASON         Some bags may include egg containing bow-tie noodles.  Eggs
+               are not declared on label.
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Ice cream in cardboard cartons:  (a) Lemon Meringue Flavored
+               Ice Cream, in half-gallon containers; (b) Clover Leaf Peach
+               Flavored Ice Cream, in half-gallon containers.  
+               Recall #F-110/111-4.
+CODE           Lot numbers:  (a) 22392, 18093, 18893, 19393; (b) 21192,
+               17493.
+MANUFACTURER   Clover Leaf Dairy, Helena, Montana.
+RECALLED BY    Manufacturer, by visit October 25, 1993, followed by letter
+               October 26, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Montana.
+QUANTITY       (a) 986 units; (b) 618 units were distributed.
+REASON         Product contains undeclared FD&C; Yellow No. 5.
+
+_______________
+PRODUCT        Nursoy Soy Protein, iron fortified infant formula
+               concentrate, in 13-ounce cans.  Recall #F-113-4.
+CODE           Two line code:  AF28A/NOV94 and BG28A/NOV94.
+MANUFACTURER   Wyeth-Ayerst Laboratories, Inc., Mason, Michigan.
+RECALLED BY    Wyeth-Ayerst Laboratories, Inc., St. Davids, Pennsylvania,
+               by letter October 5, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Ohio, Michigan, Illinois, Pennsylvania, Wisconsin.
+QUANTITY       10,250 cases (12 cans per case) were distributed.
+REASON         Some cans are contaminated with Klebsiella pneumoniae and
+               Pseudomonas aeruginosa which poses a mild to moderate hazard
+               to health in the form of gastrointestinal stress to infants
+               and new borns with developing microbial flora.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        Ben & Jerry's Chunky Monkey Banana Ice Cream with Chocolate
+               Flavored Chunks and Walnuts, in one-pint containers.
+               Recall #F-112-4.
+CODE           Lot numbers with expiration dates between 6/28/94 through
+               10/22/94. 
+MANUFACTURER   Ben & Jerry's, Waterbury, Vermont; and Edy's Grand Ice
+               Cream, Fort Wayne, Indiana. 
+RECALLED BY    Ben & Jerry's Homemade, Inc., Waterbury, Vermont, by
+               telephone October 26, 1993, followed by letter dated October
+               27, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+
+                                    -2-QUANTITY       182,880 pint containers were distributed; firm estimates
+               60,960 to 81,280 pint containers remain on the market.
+REASON         The firm omitted the ingredient "Walnuts" from the label
+               ingredient declaration, however, the main panel listed
+               walnuts in the ice cream name.
+
+_______________
+PRODUCT        Smokey Mountain Mama's brand Barbecue Glaze, packed in 5
+               ounce bottles.  Recall #F-120-4.
+CODE           None.
+MANUFACTURER   Riverview Foods, Inc., Glencoe, Kentucky.
+RECALLED BY    Booneway Farms, Inc., Berea, Kentucky, by visit August 5,
+               1992.  Firm-initiated recall complete.
+DISTRIBUTION   Tennessee, Georgia, South Carolina, Florida.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Product is contaminated with yeast.
+
+_______________
+PRODUCT        (a) Food Service of America brand Mayonnaise, in individual
+               serving packets, 12 grams; (b) Amaricana brand Mayonnaise in
+               individual serving packets, 9 grams .  Recall #F-121-4.
+CODE           Lot numbers:  (a) H02383 H01083, H10403; (b) H03083.
+MANUFACTURER   Bordens Food Service, Chatsworth, California.
+RECALLED BY    Manufacturer, by telephone on September 22, 1993, and
+               October 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   California, Idaho, Montana, Oregon, Texas, Washington state.
+QUANTITY       5,115 cases.
+REASON         Product is contained in swollen packages.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Transfilled Liquid Oxygen into patient cryogenic vessels. 
+               Recall #D-047-4.
+CODE           All fill dates.
+MANUFACTURER   Home Care Concepts, Inc, Farmingdale, New York.
+RECALLED BY    Manufacturer, by visit beginning November 22, 1993.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   New York.
+QUANTITY       17 units were distributed.
+REASON         Current good manufacturing practice deficiencies.
+
+_______________
+PRODUCT        Transfilled Compressed Medical Oxygen in C, D, E, and N size
+               cylinders.  Recall #D-048-4.
+CODE           All fill dates.
+MANUFACTURER   Home Care Concepts, Inc., Farmingdale, New York.
+RECALLED BY    Manufacturer, by visit beginning November 22, 1993.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   New York.
+QUANTITY       343 cylinders were distributed.
+REASON         Current good manufacturing practice deficiencies.
+
+                                    -3-RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Omniscan (Gadodiamide) 287 mg/ml Injection Solution, used as
+               a contrasting agent during radiographic processes.
+               Recall #D-031-4.
+CODE           B705KB, B840KC, B846KD, B46KA, B776KB.
+MANUFACTURER   Sterling Pharmaceutical Inc., Barceloneta, Puerto Rico.
+RECALLED BY    Manufacturer, by Sterling Winthrop, Inc., New York, by
+               letter November 3, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 21,780 vials were distributed.
+REASON         Product does not meet specifications for particulate matter.
+
+_______________
+PRODUCT        Nonprescription drug products:
+               (a) Chlor-A-Tab, 4 mg antihistamine caplet, in bottles of
+               100, and Chlor-A-Tab Bulk; (b) Neo-Codion DX, Cough and cold
+               medicine, in blister packs of 24; (c) Act-A-Met,
+               antihistamine caplet, in blister packs of 100; (d) Maximum
+               Strength Amdol, 650 mg, analgesic caplet, blister packed;
+               (e) Extra Strength Amdol, 500 mg, analgesic caplet, in
+               blister packs of 100.  Recall #D-041/045-4.
+CODE           All lots.
+MANUFACTURER   International Pharmaceutical Distribution Company, Ltd.,
+               doing business as Ampharco USA, Anaheim, California
+               (repacker).
+RECALLED BY    Repacker, by letter October 6, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   California, Texas, Massachusetts, Hawaii, Virginia, New
+               York, Washington state, Hong Kong.
+QUANTITY       Undetermined.
+REASON         Products lack assurance of potency through expiration date.
+
+_______________
+PRODUCT        Expectorant Cough Syrup containing 100 mg/5 ml guaifenesin,
+               packaged in 6-fluid ounce amber glass bottles, OTC.
+               Recall #D-049-4.
+CODE           Lot numbers:  X-1573 EXP 3/97, X-1583 EXP 8/97, X-1593 EXP
+               8/97.
+MANUFACTURER   Weeks & Leo Company, Inc., Des Moines, Iowa.
+RECALLED BY    Manufacturer, by letter October 28, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       2,079 bottles of lot X-1573, 2,065 bottles of lot X-1583 and
+               300 bottles of lot X-1593.
+REASON         Product does not meet potency specifications.
+
+_______________
+PRODUCT        Natus Patch, pain relief patches containing methyl
+               salicylate 11%, menthol 2%, and camphor 3.5%, in single-use
+               packages and boxes of 30.  Recall #D-050-4.
+CODE           Lot numbers:  3225, 3229, 3253.
+
+                                    -4-MANUFACTURER   LecTec Corporation, Minetonka, Minnesota.
+RECALLED BY    Manufacturer, by November 29, 1993.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       411,600 units were distributed.
+REASON         Potency not assured through expiration date.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma.  
+               Recall #B-087/088-4.
+CODE           Unit #KH32571.
+MANUFACTURER   Virginia Blood Services, Richmond, Virginia.
+RECALLED BY    Manufacturer, by telephone September 3, 1993, followed by
+               letter dated September 17, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Virginia.
+QUANTITY       1 unit of each component.
+REASON         Blood products, which tested negative for hepatitis B
+               surface antigen (HBsAg), but were collected from a donor who
+               previously tested repeatedly reactive for HBsaG and
+               confirmed positive, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Recovered Plasma;
+               (d) Cryoprecipitated AHF.  Recall #B-082/085-4.
+CODE           Unit numbers:  (a) 21Y00511, 21Y01123; (b) 21Y00511; (c)
+               21Y00511, 21Y01123; (d) 21Y01123.
+MANUFACTURER   American Red Cross Blood Services, Portland, Oregon.
+RECALLED BY    Manufacturer, by letters of March 17, 1993, and April 21 and
+               27, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   California, Oregon, Washington state, Switzerland.
+QUANTITY       (a) 2 units; (b) 1 unit; (c) 2 units; (d) 1 unit.
+REASON         Blood products, which tested non-reactive for the antibody
+               to the human immunodeficiency virus type 1 (anti-HIV-1), but
+               were collected from a donor who previously tested repeatedly
+               reactive to anti-HIV-1, were distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-086-4.
+CODE           04V90416.
+MANUFACTURER   American Red Cross Blood Services,Dedham, Massachusetts.
+RECALLED BY    Manufacturer, by letter November 15, 1991.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Massachusetts.
+QUANTITY       1 unit.
+
+                                    -5-REASON         Blood product, which tested repeatedly reactive for the
+               antibody to the human T-lymphotropic virus type I (anti-
+               HTLV-I), was distributed.
+
+_______________
+PRODUCT        Spacell Leukocyte Removal Filter for Red Blood Cells.
+               Recall #B-096-4.
+CODE           Lot numbers:  H93G15332R, H93H09424R, H93H16437R,
+               H93H20314R.
+MANUFACTURER   Baxter Healthcare Corporation, Mountain Home, Arkansas.
+RECALLED BY    Baxter Healthcare Corporation, Deerfield, Illinois, by
+               letter September 30, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Canada, Belgium.
+QUANTITY       11,821 units were distributed; firm estimates 2,000 units
+               remain on the market.
+REASON         Red Blood Cell filters that separate from the tubing while
+               in use, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        MDE Escort 100 Series Portable Patient Monitors with
+               Software Versions 1.6, 1.7, or 1.8.  Recall #Z-102/104-4.
+CODE           Serial numbers:  3744 through 11951.
+MANUFACTURER   Medical Data Electronics (MDE), Arleta, California.
+RECALLED BY    Manufacturer, by letter June 2, 1993.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide, Canada, Sweden, Hong Kong, Thailand.
+QUANTITY       249 units were distributed.
+REASON         160 milliseconds of ECG data is not transmitted to the
+               Central station.
+
+_______________
+PRODUCT        Modules used in the Corometrics Model 556 Monitor:
+               (a) Model 5560AAX ECG/RESP/PRESS;
+               (b) Model 5561AAX ECG/RESP/TEMP;
+               (c) Model 5567AAX ECG/RESP/PRESS/TEMP.
+               Recall #Z-105/107-4.
+CODE           Units shipped between 12/16/91 through 7/31/92.
+MANUFACTURER   Corometrics Medical Systems, Inc., Wallingford, Connecticut.
+RECALLED BY    Manufacturer, by letter August 31, 1993.  Firm-initiated
+               field correction ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       218 modules remain on the market.
+REASON         The devices fail to emit an audible alarm during an episode
+               of bradycardia, if preceded by a self-correcting asystolic
+               event.
+
+_______________
+PRODUCT        Mammography (X-Ray) Units:
+               (a) Model ZT005THF, Senographe 500;
+               (b) Model ZT006THF, Senographe 600T;
+
+                                    -6-               (c) Model ZFH000HF, Senix HF Mammography, equipped with
+               Stereotix biopsy equipment, Model ZRLSTX5T.  
+               Recall #Z-120/122-4.
+CODE           All serial numbers.
+MANUFACTURER   GE-CGR Medical System (formerly Thompson CGR), Buc, Paris,
+               France.
+RECALLED BY    General Electric Company, Medical Systems Division,
+               Waukesha, Wisconsin, by Urgent Safety Notice July 19, 1993. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       95 units.
+REASON         The elevator (tube/image receptor carriage) of a unit may
+               move following release of the up/down motion control, and
+               this could result in injury to the patient.
+
+_______________
+PRODUCT        Anago and Abco brand Laparotomy Sponges, used during
+               surgical procedures to absorb blood, packed in cases
+               containing 20 pouches, 5 sponges each.  Recall #Z-132-4.
+CODE           Lot numbers:  AC294, AC337, AD005, AD007, AD019.
+MANUFACTURER   Anago, Inc., Del Rio, Texas and Ciudad Acuna, Mexico.
+RECALLED BY    Anago, Inc., Fort Worth, Texas, by letters of September 10
+               and 15, 1993, and October 7, 1993.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide, Canada.
+QUANTITY       857 cases.
+REASON         The laparotomy sponges were found to be nonsterile.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Awareness Technology EPROM Computer Firmware Version 1.04,
+               used in photometric diagnostice devices.  Recall #Z-084-4.
+CODE           None.
+MANUFACTURER   Awareness Technology, Inc., Palm City, Florida.
+RECALLED BY    Manufacturer, by telephone of October 5, 1992, and letter of
+               October 8, 1992.  Firm-initiated field correction complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       130 chips were distributed; firm estimates none remains on
+               the market.
+REASON         A manufacturing defect caused the software in the EPROM to
+               misinterpret light transmission through reaction wells,
+               providing erroneous results.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS III
+==========
+_______________
+PRODUCT        Metofane (methoxyflurane) Inhalation Anesthetic for
+               Veterinary Use, in 118 ml glass bottles, Rx used for the
+               induction and maintenance of general anesthesia for all
+               types of surgery in a wide variety of animal species. 
+               Recall #V-003-4.
+CODE           All lots.
+                                    -7-MANUFACTURER   Pitman-Moore Pharmaceuticals, Ltd., Bray, County Wicklow,
+               Ireland (since 2/90); Pitman-Moore, Inc., Washington
+               Crossing, New Jersey (prior to 2/90).
+RECALLED BY    Pitman-Moore, Inc., Kansas City, Kansas, by letter September
+               29, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       248,836 units were distributed.
+REASON         Product leaking around the caps.
+
+
+MEDICAL DEVICE SAFETY ALERTS: 
+============================================
+_______________
+PRODUCT        Eagle Patient Monitor, designed to monitor a fixed set of
+               parameters including ECG, two invasive blood pressures, non-
+               invasive blood pressure, impedance respiration, Sp02, and
+               temperature.  Safety Alert #N-001-4.
+CODE           All serial numbers.
+MANUFACTURER   Marquette Electronics, Inc., Milwaukee, Wisconsin.
+ALERTED BY     Manufacturer, by letter May 3, 1993.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       1,379 units were distributed.
+REASON         The display of inaccurate pulse oximetry values by the
+               device has been linked to the presence of low signal
+               strength or artifacts due to patient motion during signal
+               analysis.  This has resulted in the display of erroneously
+               low or unstable values.
+
+_______________
+PRODUCT        Pacemaker Models 1230, 1204, 8220, and 8222.  
+               Safety Alert #N-031/034-4.
+CODE           Various individually serial numbered units.
+MANUFACTURER   Telectronics Pacing Systems, Englewood, Colorado.
+ALERTED BY     Manufacturer, by letter September 30, 1993, and by safety
+               alert issued October 1, 1993.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       3,324 units were implanted of these 2,825 remain implanted.
+REASON         The pacers may fail without warning, and exhibit a sudden no
+               output condition due to loss of hermeticity as a result of
+               cracked ceramic feedthrough assemblies.
+
+
+SEIZURES:
+=================================================================
+_______________
+PRODUCT        Canned mushrooms (93-690-604, et al).
+CHARGES        Adulterated - The articles have been prepared and packed 
+               under conditions whereby they may have been rendered
+               injurious to health.  Misbranded - The articles' labeling is
+               false and misleading because it represents and suggests that
+               the articles were packed and grown in Taiwan, which is
+               contrary to fact.
+FIRM           New Orleans Cold Storage, New Orleans, Louisiana.
+
+                                    -8-FILED          November 3, 1993; U.S. District Court for the Eastern
+               District of Louisiana; Civil #93-3623 SECT. NMAG.2;
+               FDC #66771.
+SEIZED         November 10, 1993 - goods valued at approximately $68,500.
+
+_______________
+PRODUCT        UV absorbing posterior chamber intraocular lenses (IOL) 
+               (93-676-676/80.
+CHARGE         Adulterated - The methods used in, and the facilities and 
+               controls used for, the articles' manufacture, packing, and
+               storage are not in conformity with current good
+               manufacturing practice regulations.
+FIRM           Optical Radiation Corporation, Azusa, California.
+FILED          November 16, 1993; U.S. District Court for the Central
+               District of California; Civil #93 6928 WDK(SHX); FDC #66754.
+SEIZED         November 23, 1993 - goods valued at approximately
+               $30 million.
+
+_______________
+PRODUCT        Frozen concentrated orange juice (94-697-527).
+CHARGES        Adulterated - Pineapple concentrate has been substituted in
+               part for orange juice concentrate.  Misbranded - The label
+               represents and suggests that the product is frozen
+               concentrated orange juice, which representation and
+               suggestion is false and misleading because the product
+               consists in part of pineapple juice concentrate.  The label
+               represents and suggests that the product is frozen
+               concentrated orange juice, a food for which a definition and
+               standard of identity has been prescribed, and the article
+               fails to conform to that standard because it contains
+               pineapple concentrate, an ingredient not permitted by the
+               standard.
+FIRM           Walker Meats, Inc., Carrollton, Georgia.
+FILED          December 1, 1993; U.S. District Court for the Northern
+               District of Georgia, Civil #93-CV-116-JTC; FDC #66909.
+SEIZED         December 2, 1993 - 19 cases of frozen concentrated orange
+               juice, valued at approximately $375.
+
+_______________
+PRODUCT        100% Pure Orange Juice from Concentrate (93-719-884).
+CHARGES        Adulterated - Pineapple juice has been substituted in part 
+               for orange juice.  Misbranded - The label represents and
+               suggests that the product is 100 percent pure orange juice
+               from concentrate, which representation and suggestion is
+               false and misleading because the product consists in part of
+               pineapple juice solids.  The label represents and suggests
+               that the product is orange juice from concentrate, a food
+               for which a definition and standard of identity has been
+               prescribed, and the article fails to conform to such
+               definition and standard because it contains pineapple juice
+               solids, an ingredient not permitted by the definition and
+               standard.  
+                                    -9-FIRM           Gracewood State School and Hospital, Gracewood, Georgia.
+FILED          November 30, 1993; U.S. District Court for the Southern
+               District of Georgia; Civil #CV-193-193; FDC #66910.
+SEIZED         December 3, 1993 - 150 cases of 48 4-ounce containers of
+               orange juice from concentrate, valued at approximately $870.
+
+_______________
+PRODUCT        Various articles of food and porcelain ware (93-449-929).
+CHARGES        Adulterated - One lot of lemon juice ginger and two lots of
+               preserved plum contain cyclamate, a food additive which is
+               unsafe because its presence in the foods is not in
+               conformity with any regulation or exemption.  One lot of
+               sweetened wintermelon contains filth, namely live and dead
+               insects.  Two lots of red beans have been held under
+               insanitary conditions whereby they may have become
+               contaminated with rodent filth.  Articles of porcelain ware
+               contain food additives, lead (spoons and bowl) and cadmium
+               (bowl), which are unsafe because their use or intended use
+               are not in conformity with a regulation.  Misbranded - The
+               labeling of the lot of sweetened wintermelon is false and
+               misleading since it fails to reveal that the product
+               contains sulfites.  The labeling of two lots of red beans
+               and the lot of sweetened wintermelon fails to declare
+               (1) the place of business of the manufacturer, packer, or
+               distributor; (2) an accurate statement of the quantity of
+               contents in terms of weight, measure or numerical count; and
+               (3) the common or usual name of the food.  The lot of lemon
+               juice ginger, two lots of preserved plum, and the lot of
+               sweetened wintermelon are fabricated from two or more
+               ingredients and their labels fail to bear the common or
+               usual name of each such ingredient.  The lot of lemon juice
+               ginger and two lots of preserved plum contain saccharin and
+               their labels fail to bear the required warning statement.   
+FIRM           Lop Sing Trading Company, South San Francisco, California.
+FILED          September 2, 1993; U.S. District Court for the Northern
+               District of California; Civil #C 93-3245-SBA; FDC #66759.
+SEIZED         September 10, 1993 - goods valued at approximately $20,300.
+
+_______________
+PRODUCT        Ear candles, components, and brochures (93-671-958).
+CHARGES        Adulterated - The article is a class III medical device for
+               which no approved premarket approval application is in
+               effect; and, the methods used in, and the facilities and
+               controls used for, its manufacture, packing, and storage are
+               not in conformity with current good manufacturing practice. 
+               Misbranded - The article's labeling represents and suggests
+               that it is adequate and effective for reducing ear wax,
+               fever, and infections associated with a ruptured ear drum,
+               and that it may be used as a replacement for surgical tubes
+               inserted in the ear, which representations and suggestions
+
+                                   -10-               are contrary to fact.  The article's labeling fails to bear
+               adequate directions for use for the purposes for which it is
+               intended.  The article is dangerous to health when used in
+               the manner recommended and suggested in the labeling
+               Attachment too large to be entirely displayed.
+
+                                   -11-
+END OF ENFORCEMENT REPORT FOR DECEMBER 15, 1993.  BLANK PAGES MAY
+FOLLOW.
+                                   ####

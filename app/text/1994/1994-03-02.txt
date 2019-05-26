@@ -1,0 +1,878 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Aug
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      38 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+03/02/1994
+
+Recalls and Field Corrections:  Foods -- Class I -- 03/02/1994
+
+March 2, 1994                                                  94-9 -- Recalls and Field Corrections:  Foods --
+Class I
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+==========================
+_______________
+PRODUCT        Gift boxes labeled (a) 8 Nights of Hanukkah (4 ounce boxes
+               of nuts); (b) 12 Days of Christmas (6 ounce toxes of mixed
+               nuts).  Recall #F-299/300-4.
+CODE           All product shipped prior to and including 12/14/93.
+MANUFACTURER   Harry & David Corporation, Medford, Oregon.
+RECALLED BY    Manufacturer, by mailgram December 15, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 3,018 boxes; (b) 8,433 boxes were distributed.
+REASON         Products contained peanuts which are not declared on the
+               label.
+
+_______________
+PRODUCT        Satay's Original All Natural Spicy Peanut Sauce in various
+               size bottles.  Recall #F-309-4.
+CODE           All lots.
+MANUFACTURER   Texas Food Research, Inc., Austin, Texas.
+RECALLED BY    Manufacturer, by telephone on or about January 6, 1994. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       761 cases (4 units 8-ounce jars) 8 cases (6 units 1.5-ounce
+               jars); 15 cases 7 units 16-ounce jars (12 jars per case)
+               were distributed.
+REASON         Product has the potential to support the outgrowth of
+               Clostridium botulinum toxin.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Mocha Mix Lite Non-Dairy Creamer, liquid, 1 quart size. 
+               Recall #F-298-4.
+CODE           Lot #A2523 47-126 10/21/93.
+MANUFACTURER   Presto Food Products, Inc., Arlington, Tennessee.
+RECALLED BY    Presto Food Products, Inc., City of Industry, California, by
+               verbally notifying sales representatives on October 15,
+               1993.  Firm-initiated recall complete.
+DISTRIBUTION   Tennessee, Illinois, Minnesota, Missouri, Texas.
+QUANTITY       766 cases (12 units per case) were distributed.
+REASON         Product was contaminated with sanitizer.
+
+_______________
+PRODUCT        Various Cheeses:  (a) Monterey Jack Cheese; (b) Brick
+               Cheese; (c) Pizza Shredded Cheese; (d) Taco Nacho Shredded
+               Cheese Blend.  Recall #F-305/308-4.
+CODE           (a) Crystal Farms Monterey Jack Cheese, Net Wt. 8 ounces,
+                   sell by 5-23-94;
+                   Crystal Farms Monterey Jack Cheese in random weight
+                   packages of about 15 ounces each, sell by 5-20-94 and
+                   5-29-94;
+                   Crystal Farms Monterey Jack Cheese in random weight
+                   packages of about 24 ounces each, sell by 5-20-94 and
+                   6-04-94;
+                   Crystal Farms Monterey Jack Cheese in random weight
+                   packages of about 35 ounces each, sell by 5-20-94;
+                   Crystal Farms Monterey Jack Cheese, Net Wt. 5 pounds,
+                   sell by 5-23-94;
+               (b) Crystal Farms Brick Cheese in random weight packages of
+                   about 15 ounces each, sell by 5-20-94 and 5-29-94;
+               (c) Crystal Farms Pizza Shredded Cheese Blend, Net Wt. 16
+                   Ounces, sell by 4-29-94 and 5-06-94   
+               (d) Crystal Farms Taco Nacho Shredded Cheese Blend, Net Wt.
+                   8 ounces, sell by 5-30-94 and 6-04-94.  
+MANUFACTURER   Associated Milk Producers, Inc., Rochester, Minnesota.
+RECALLED BY    Crystal Farms, Inc., Minneapolis, Minnesota, by telephone
+               January 7, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Colorado, Minnesota, Missouri, Nebraska, Ohio, Pennsylvania,
+               Wisconsin.
+QUANTITY       4,239 cases were distributed; firm estimates none remains on
+               the market.
+REASON         Products were contaminated with pieces of metal.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        Geneva brand Ferrous Gluconate 5 grains, 100 tablet bottles,
+               nonprescription dietary supplement.  Recall #F-301-4.
+                                    -2-CODE           Lot numbers:  111051A EXP 11/93, 203032B EXP 5/94, 208116A
+               EXP 9/94.
+MANUFACTURER   Able Laboratories, Inc., S. Plainfield, New Jersey.
+RECALLED BY    Manufacturer, by letter dated September 13, 1993.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       86,770 bottles were distributed.
+REASON         Product fails dissolution test.
+
+_______________
+PRODUCT        "ONDO" "OPC" brand High Potency Multi-Vitamin & Mineral
+               Tablets with Beta-Carotene, in bottles of 30.  
+               Recall #F-302-4.
+CODE           Lot #29654 EXP 7/96.
+MANUFACTURER   International Vitamin Corporation, Irvington, New Jersey.
+RECALLED BY    Manufacturer, by telephone September 15, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Illinois, California.
+QUANTITY       14,760 bottles were distributed.
+REASON         Labeling error, label read Vitamin C (acetate and Beta-
+               Carotene) when it should have read Vitamin A (acetate and
+               Beta-Carotene).
+
+_______________
+PRODUCT        Celebrity Fancy Whole Segments Mandarin Oranges in Light
+               Syrup, in 11 ounce cans.  Recall #F-304-4.
+CODE           All codes.
+MANUFACTURER   Product of the Peoples Republic of China.
+RECALLED BY    Atalanta Corporation, Elizabeth, New Jersey, by letters
+               dated October 21, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       101,000 cases (24 cans per case) were distributed.
+REASON         Product is contained in detinning cans.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        Synarel (nafarelin acetate) Nasal Solution 2 mg/ml (as
+               nafarelin base), Rx for the treatment of endometriosis and
+               central precocious puberty (CPP).  Recall #D-133-4.
+CODE           Lot #05949D.
+MANUFACTURER   Syntex Laboratories, Inc., Palo Alto, California.
+RECALLED BY    Manufacturer, by letter January 18, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide and Belgium.
+QUANTITY       7,224 bottles were distributed.
+REASON         Bottle label does not provide complete dosage information.
+
+_______________
+PRODUCT        Various Rx drugs packaged by Allscrips Pharmaceuticals    
+               Inc., Vernon Hills, Illinois:
+               Hydroxyzine Hydrochloride Tablets, for symptomatic relief of
+               anxiety and tension associated with psychoneurosis: 
+                                    -3-               (a) 10 mg, packaged in bottles of 30, 100, 50, 20, 10 and 15
+               tablets; 
+               (b) 25 mg, packaged in  bottles of 20, 30, 100, 21, 60, 10,
+               15, 12, 6, 40 and 30 tablets; 
+               (c) 50 mg, packaged in bottles of 100 and 30 tablets; 
+               (d) 25 mg; packaged in bottles of 50, 12, 20, 6, 100 and 30
+               capsules;
+               Hydroxyzine Pamoate Capsules, for symptomatic relief of
+               anxiety and tension associated with psychoneurosis:
+               (e) 50 mg, packaged in bottles of 12, 20, 100 and 50
+               capsules; 
+               (f) Indomethazine Capsules, 50 mg, packaged in bottles of
+               21, 30, 100, 15, 60, 20 and 24 capsules, for the treatment
+               of the active stages of moderate to severe rheumatoid
+               arthritis and osteoarthritis;
+               (g) Methylprednisolone Tablets, 4 mg, packaged in bottles of
+               30 and 60 tablets, a glucocorticoid anti-inflammatory; 
+               (h) Phenylbutazone Tablets, 100 mg, packaged in bottles of
+               15, 30 and 21 tablets, an anti-inflammatory for the
+               treatment of acute gouty arthritis, active rheumatoid
+               arthritis and active ankylosing spondylitis;
+               (i) Spironolactone Tablets, 25 mg, packaged in bottles of
+               100, 30, and 250 tablets; a diuretic and antihypertensive;
+               (j) Sulfamethoxazole & Trimethoprim Tablets, 800/160 mg,
+               packaged in bottles of 10, 14, 20 and 28 tablets, a
+               synthetic antibacterial combination product used for the
+               treatment of urinary tract infections and other infections
+               due to susceptible strains of organisms.
+               Recall #D-136/145-4. 
+CODE           All unexpired lots.
+MANUFACTURER   Chelsea Laboratories Caribe, Inc., Bayamon, Puerto Rico
+               (products a-e); Chelsea Laboratories, Inc., Monroe, North
+               Carolina (products f-j). 
+RECALLED BY    Allscrips Pharmaceuticals Inc., Vernon Hills, Illinois
+               (repacker), by  letters dated January 5, 1994.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 1,120 bottles of 30, 145 bottles of 100, 64 bottles of
+               50, 475 bottles of 20, 47 bottles of 10, 247 bottles of 15
+               were distributed.
+               (b) 8,893 bottles of 20, 20,263 bottles of 30, 84 bottles of 
+               100, 152 bottles of 21, 30 bottles of 60, 450 bottles of 10,
+               1,147 bottles of 15, 390 bottles of 12, 452 bottles of 6 and
+               6 bottles of 40 were distributed. 
+               (c) 41 bottles of 100 and 201 bottles of 30 were
+               distributed.
+               (d) 42 bottles of 50, 30 bottles of 12, 145 bottles of 20,   
+               1 bottle of 6, 18 bottles of 100 and 61 bottles of 30 were   
+               distributed. 
+               (e) 15 bottles of 12, 100 bottles of 20, 35 bottles of 100
+               and 32 bottles of 50 were distributed. 
+
+                                    -4-               (f) 194 bottles of 21, 693 bottles of 30, 35 bottles of 100,
+               137 bottles of 15, 15 bottles of 60, 32 bottles of 20 and 83
+               bottles of 24 were distributed.  
+               (g) 23 bottles of 30 and 5 bottles of 60 were distributed. 
+               (h) 118 bottles of 15, 252 bottles of 30 and 979 bottles of
+               21 were distributed. 
+               (i) 96 bottles of 100, 271 bottles of 30 and 8 bottles of
+               250 were distributed. 
+               (j) 850 bottles of 10, 710 bottles of 14, 2,469 bottles of
+               20 and 150 bottles of 28 were distributed.  Firm estimates
+               that about 25% of the products remain on the market. 
+REASON         Abbreviated New Drug Approval discrepancies.
+
+_______________
+PRODUCT        Sulfasalazine Tablets, USP 500 mg, indicated for the
+               treatment of mild to moderate ulcerative colitis, in bottles
+               of 500 under Lederle, Schein, and Goldline labels.
+               Recall #D-146-4.
+CODE           All lots.
+MANUFACTURER   Lederle Laboratories Pearl River, New York.
+RECALLED BY    Manufacturer, by letter January 21, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide, Jorda, Quatar, United Arab Emirates.
+QUANTITY       Approximately 250,000 bottles were distributed.
+REASON         Product does not meet dissolution specifications.
+
+_______________
+PRODUCT        Medical Oxygen USP, in size E and K cylinders. 
+               Recall #D-147-4.
+CODE           Lot numbers 14-18 manufactured February 2-14, 1994.
+MANUFACTURER   Acetylene Oxygen Company (AOC), Rosenberg, Texas.
+RECALLED BY    Manufacturer, by visit February 18, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Texas.
+QUANTITY       33 cylinders were distributed.
+REASON         Current good manufacturing practice discrepancies.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Mylanta Double Strength, liquid antacid, in 1 ounce units,
+               for hospital use.  Recall #D-135-4.
+CODE           Lot numbers:  JFP335 EXP 5/94, JSP706 EXP 11/94.
+MANUFACTURER   Johnson & Johnson Merck Consumer Products Company, Pasadena,
+               California.
+RECALLED BY    Johnson & Johnson Merck Consumer Pharmaceutical Company,
+               Fort Washington, Pennsylvania, by  letter dated February 2,
+               1994. Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       Firm estimates that little of the product remains at the
+               hospital level.
+REASON         Subpotency of simethicone ingredient.
+
+                                    -5-_______________
+PRODUCT        Genaton, in 12 fluid ounce bottles, an OTC liquid antacid.
+               Recall #D-148-4.
+CODE           Lot numbers:  13-2P004, 13-2P005, 13-2P006 EXP 12/94.
+MANUFACTURER   KC Pharmaceuticals, Inc., Pomona, California.
+RECALLED BY    Manufacturer, by letter July 8, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   California, Ohio.
+QUANTITY       Approximately 26,000 bottles were distributed.
+REASON         Label incorrectly declares "Each teaspoonful (15 ml)
+               contains ..." instead of "Each tablespoonful (15 ml)
+               contains ..."
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Infusion Sets:  (a) Angio-Set; (b) Intima brand Infusion
+               Sets, sterile I.V. catheter/needle units.  
+               Recall #Z-733/734-3.
+CODE           Catalog numbers:  (a) 3861181, 3861201, 3861221, 3862201,
+               3862221, 3864161, 3864181, 3864201, 3864221; (b) 3863181,
+               3863201, 3863221, 3863241, 3867201, 3867221, 3867241,
+               3869181, 3869201, 3869221, 3869241.
+MANUFACTURER   Micropette, Inc., Division of Becton Dickinson Company,
+               Juncos, Puerto Rico.
+RECALLED BY    Becton Dickinson Vascular Access, Sandy, Utah, April 1,
+               1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Canada, Australia, Belgium, Singapore, Brazil,
+               Japan.
+QUANTITY       1.4 million units were distributed.
+REASON         The stylet hub glued to the intermittent infusion diaphragm
+               could cause a needle stick injury to the patient or
+               healthcare professional.
+
+_______________
+PRODUCT        Volume Ventilator Breathing Circuits:
+               (a) Custom Configuration Pediatric, Product Code 156355;
+               (b) Adult Heated Wire, Product Code 157627;
+               (c) Adult Heated Wire, Product Code 1576380;
+               (d) Bear 1 and 2 Adult Heated Wire, Product Code 1576689;
+               (e) Heated Wire for LP-6, PLV100, & 102, PB2800 & 2800, Bear
+               33, Product Code 1576712.  Recall #Z-771/775-3.
+CODE           Lot numbers:  (a) 67297;, 67298, 67298A; (b) 65683, 66701;
+               (c) 65758, 66909 66909A, 68220, 68430, 68589, 68634, 68893;
+               (d) 65490, 68635, 68894; (e) 66734, 66735, 66736, 66737.
+MANUFACTURER   Marquest Medical Products, Inc., Englewood, Colorado.
+RECALLED BY    Manufacturer, by letter July 14, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide, Canada, Puerto Rico.
+QUANTITY       Approximately 467 cases (10 units per case) were
+               distributed; firm estimates that 389 cases remain on the
+               market.
+REASON         The breathing circuits may contain exhalation valve caps
+               that have cracked and/or are loose.
+                                    -6-
+
+_______________
+PRODUCT        National Medical Care Catheter Co-Pack:
+               (a) Catheter Adapter Co[Pack, Catalog #48-0122-7;
+               (b) DextroLyte II CAPD Training Kit, Catalog #48-0110-6;
+               (c) DextroLyte II CCPD Training Kit, Catalog #48-0120-5;
+               (d) DextroLyte II Bagless Training Kit, Catalog #48-0140-3.
+               Recall #Z-212/215-4.
+CODE           Lot numbers:  (a) M3C511, M3CD505, M2S510, M3L503;
+               (b) M3D524; (c) M3C502, M3D525; (d) M3C501, M3D526.
+MANUFACTURER   National Medial Care, Medical Products Division, McAllen,
+               Texas.
+RECALLED BY    National Medical Care, Medical Products Division, Rockleigh,
+               New Jersey, by letter dated October 19, 1993.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,454 units were distributed.
+REASON         Incorrect assembly of the threaded portion of the patient
+               catheter adapter could confuse home patients who need to
+               adapt their treatment.
+
+_______________
+PRODUCT        Fortress "Scooter" Line of Motorized Wheelchairs for adult
+               and pediatric use:
+               (a) Model 1700 FS; (b) Model 1704 FS; (c) Model 2000 FS,
+               Model 2000 PD, Model 2000 S (variations of the 2000FS); (d)
+               Model 2001 LX; (e) Model 2001 LXS; (f) Model 2500 FS.
+               Recall #Z-217/222-4.
+CODE           Serial numbers represent all units built between January 1,
+               1991 and August 18, 1993. 
+               (b) 1001 - 1888; (b) 1043 - 1490; (c) 39793 - 46512;
+               (d) 2574 - 4585; (e) 101 - 227; (f) 586 - 649.
+MANUFACTURER   Fortress Scientific Ltd., Downsview, Ontario, Canada.
+RECALLED BY    Fortress Scientific Ltd., Buffalo, New York, by letters
+               dated October 22, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide. 
+QUANTITY       2,380 units were distributed.
+REASON         The scooters contain potentiometers which may malfunction
+               and cause unintentional movement.
+
+_______________
+PRODUCT        Sensormedics Model 3100A high frequency oscillatory
+               ventilator, intended for normal and emergency treatment of
+               respiratory failure and barotrauma in neonates.  
+               Recall #Z-224-4.
+CODE           All units within the serial number range 31449 through
+               31508.
+MANUFACTURER   Sensormedics Corporation, Yorba Linda, California.
+RECALLED BY    Manufacturer, by letter September 7, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Alaska, Arizona, Colorado, Florida, Georgia, Hawaii,
+               Illinois, Louisiana, Massachusetts, Michigan, Minnesota,
+               Missouri, New Mexico, Nevada, Texas, Virginia, Wisconsin,
+               Canada, Mexico, The Netherlands, Austria, Germany, Italy,
+                                    -7-               Switzerland, The United Kingdom.
+QUANTITY       60 units were distributed.
+REASON         The product has incorrectly soldered electronic components
+               causing the piston centering voltage to float resulting in
+               the delivery piston periodically exceeding its normal range
+               of operation, I.e., drifts from center.  This could cause a
+               failure to deliver positive pressure ventilation.
+
+_______________
+PRODUCT        Three Wheel Scooters, motorized, self-operated wheel chairs
+               for disabled persons:
+               (a) Lark Front Wheel Drive Scooters, Models 4302, 4303,
+                   4304
+               (b) Lark Rear Wheel Drive Scooters, Models 4350 & 4351 
+               (c) Lark XT Scooters, Models 4370 & 4371 
+               (d) TraveLark Front Wheel Drive Scooters, Model 4371 
+               (e) Park Lark, Models 4355 & 4356 
+               (f) Pony, Junior, Model 4310 
+               (g) Pony, Senior, Model 4311 
+               (h) Pony II, Junior, Model 4312 
+               (i) Pony II, Senior, Model 4313 
+               (j) Dart, Model 4320 & 4330 
+               (k) Spirit, Model 433 
+               (l) Bravo, Model 434 
+               (m) Sierra Front Wheel Drive, Model 440 & 441 
+               (n) Sierra Rear Wheel Drive, Model 445 & 446 
+               (o) Colt, Front Wheel Drive, Model 4360 
+               (p) Colt, Rear Wheel Drive, Model 4365 
+               (q) Encore, Model 4380 
+               (r) Triumph, Model 4390 
+               (s) E-Z Shopper/Lark E-Z Shopper, Model 4700 
+               (t) Mini-Shopper/Mall Lark, 4710.  Recall #Z-227/246-4. 
+CODE           Scooters manufactured from April 1983 through October 1991. 
+               Serial numbers are below 85430.
+MANUFACTURER   Ortho-Kinetics, Inc., Waukesha, Wisconsin.
+RECALLED BY    Manufacturer, by letters sent September 24, 1993.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Approximately 64,000 units were distributed.
+REASON         The scooter seats may break away from the scooter.
+
+________________
+PRODUCT        Podiatry X-Ray Systems, mobile and wall mounted, used in
+               podiatric studies:  (a) Model PW200; (b) Model PW300; (c)
+               Model PM200; (d) Model PM300.  Recall #Z-248/251-4.
+CODE           Model numbers: PW200, PW300, PM200, PM300 podiatric systems
+               containing the R-120 series collimators.
+MANUFACTURER   Mikasa X-ray Company, Ltd., Tokyo, Japan.
+RECALLED BY    MinXray, Inc., Northbrook, Illinois.  FDA approved the
+               firm's corrective action plan February 16, 1994.  Firm-
+               initiated field correction ongoing.
+DISTRIBUTION   Nationwide.
+                                    -8-QUANTITY       More than 200 units.
+REASON         Units failed to met light illuminance requirement at a
+               source to image distance (SID) of 40 inches and failed to
+               meet edge contrast ratio requirement at an SID of 40 inches.
+
+_______________
+PRODUCT        Accu-Sorb Sterile Laparotomy Sponges, single use, x-ray
+               detectable:
+               (a) 4" X 18" Lap Sponges, Part Numbers: MDS 22-1104, MDS
+               22-1104NL, MDS 23-1104, MDS 23-1104R, MDS 23-1304, MDS
+               23-1504, MDS 23-2104, MDS 24-1504;
+               (b) 8" X 36" Lap Sponges, Part Numbers: MDS 22-1136R, MDS
+               23-1136, MDS 23-1136R, MDS 23-1336, MDS 23-1536, MDS
+               24-1536; 
+               (c) 8" X 108" Lap Sponges, Part Number: MDS 22-11108; 
+               (d) 12" X 12" Lap Sponges, Part Numbers: MDS 22-1112, MDS
+               23-1112, MDS 23-1112R, MDS 23-1312, MDS 23-1512, MDS
+               23-2112, MDS 24-1512, MDS 24-1512R, MDS 23-4612;  
+               (e) 18" X 18" Lap Sponges, Part Numbers: MDS 22-1118, MDS
+               23-1118, MDS 23-1118R, MDS 23-1118NL, MDS 23-1318, MDS
+               23-1318NL, MDS 23-1518, MDS 23-1518R, MDS 23-1518NL, MDS
+               23-2118, MDS 24-1518, MDS 24-1518R.  Recall #Z-308/312-4.
+CODE           All lots.
+MANUFACTURER   Medline Industries, Inc., Mundelein, Illinois.
+RECALLED BY    Manufacturer, by letters dated January 18, 1994.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       Approximately 133,900 cases were distributed; firm estimates
+               30 percent of the product remains on the market.
+REASON         The lap sponges may be nonsterile due to possible
+               contamination with mold and/or bacteria.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Baxter "Smart Label", Catalog #6461610, designed for
+               attachment to the Bard Infuso.R Pump.  Microprocessors in
+               the pump decodes magnetic sensors in the card, which called
+               a "smart label", to determine the delivery rate of the drug. 
+               Recall #Z-730-3.
+CODE           Catalog #6461610, lot #77322 (on white envelope); also known
+               as Assembly Order number on Smart Label - Reorder #6461610,
+               lot 30305001, Rev. 0.
+MANUFACTURER   Labels, Inc., Amesbury, Massachusetts.
+RECALLED BY    Baxter Healthcare Corporation, N. Reading, Massachusetts, by
+               telephone followed by letter April 15, 1993.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       86 labels were distributed.
+REASON         The Smart Label illustrations contain an error which may
+               result in incorrect volume infusion of a drug.
+
+                                    -9-_______________
+PRODUCT        Volumetric Infusion Pump, IVAC Model 599, used for the
+               delivery of drugs.  Recall #Z-804-3.
+CODE           All lot numbers.
+MANUFACTURER   IVAC Corporation, Creedmor, North Carolina.
+RECALLED BY    IVAC Corporation, San Diego, California, by letter June 8,
+               1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       1,359,631 sets were distributed; firm estimates none remains
+               on the market.
+REASON         Design defect.  The lower segment does not always seat fully
+               into the air-in-line assembly causing a delay in the loading
+               of the set and administering the medication.
+
+_______________
+PRODUCT        HCL Bi-Layer Blood Agar, 4% Horse Blood, Prepared Culture
+               Media Plates, for in-vitro diagnostic use to differentiate
+               hemolytic bacteria from non-hemolytic bacteria, Product
+               #S1170.  Recall #Z-255-4.
+CODE           Lot #2343 EXP 11/9/93.
+MANUFACTURER   Micro Diagnostics, Inc., Lombard, Illinois.
+RECALLED BY    Manufacturer, by telephone December 15, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Iowa, Maryland.
+QUANTITY       40 plates were distributed.
+REASON         The media started to hemolyze the plates prior to their
+               expiration date.
+
+_______________
+PRODUCT        SafeCrit-Heparinized Micro-hct Tubes, used to measure packed
+               red cell volume via capillary (fingerstick) blood sampling
+               by the microhematocrit method:
+               (a) Safe-Crit-heparinized micro-hematocrit tube, 75 mm
+               length, Catalog #HP4H;
+               (b) Safe-Crit-heparinized microhematocrit tube, 40 mm
+               length, Catalog #HP8H.  Recall #Z-256/257-4.
+CODE           Lot numbers:  (a) 3278, 3216, 3111, 3034, 2350, 2300, 2126,
+               1298; (b) 3281, 3280, 3167, 3109, 2351, 2338, 2295, 2224,
+               2059.
+MANUFACTURER   KABE Labortechnik GmbH, Nuembrecht, Elsentotz, Germany.
+RECALLED BY    StatSpin Technologies, Norwood, Massachusetts, by letters
+               November 11 and 29, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, England, Portugal, Thailand, Japan, Canada.
+QUANTITY       2,428,600 units were distributed.
+REASON         Product results in falsely high hematocrit readings
+               associated with variation in the heparin anticoagulant
+               coating.
+
+_______________
+PRODUCT        Coulter Dacos Glucose Reagent, in 24 ml vials, for the
+               quantitative determination of glucose.  Recall #Z-313-4.
+CODE           Coulter Part #2907085 (box), lot #15800 EXP 5/95.
+
+                                   -10-MANUFACTURER   Trace America, Inc., Australia.
+RECALLED BY    Coulter Corporation, Miami, Florida, by letter dated October
+               5, 1993.  Firm-initiated field correction ongoing.
+DISTRIBUTION   Florida, Georgia, Illinois, Indiana, Kansas, Michigan, New
+               York, Ohio, Pennsylvania, Texas, Turkey, United Kingdom,
+               Canada.
+QUANTITY       Undetermined.
+REASON         The reagent bottle states that the reagent should be
+               reconstituted with 24 ml of diluent and the package insert
+               states 20 ml.  The 24 ml is correct.
+
+_______________
+PRODUCT        Coulter 5C Abnormal II Cell Control, a vial of liquid
+               control material, designed to represent defined abnormal
+               human blood, and intended for use in specific Coulter
+               instruments/systems which are named in the labeling.
+               Recall #Z-314-4.
+CODE           Lot numbers:  860400, 860500, 860600.
+MANUFACTURER   Coulter Corporation, Hialeah, Florida.
+RECALLED BY    Coulter Corporation, Miami, Florida, by letter beginning May
+               20, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide, Canada.
+QUANTITY       Firm estimates none remains on the market.
+REASON         The white blood cell parameters sometimes exceed the labeled
+               range.
+
+_______________
+PRODUCT        Dacos Cuvettes, for use with the Dacos Chemistry Analyzer
+               for in-vitro diagnostic use, Part #1016508.  
+               Recall #Z-315-4.
+CODE           All lot numbers below 190102, Catalog #6603624.
+MANUFACTURER   Tech Plastics, Tempe, Arizona.
+RECALLED BY    Coulter Corporation, Miami, Florida, by letters beginning
+               February 25, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Undersized cuvettes are pulled out of the wheel by the wash
+               station causing the wheel to jam and the analyzer to stop.
+
+_______________
+PRODUCT        Coulter Isovial White and Red Capillary Pipets:
+               (a) Part #7546971 Coulter Isovial White, intended for
+               counting leukocytes and measuring hemoglobin; (b) Part
+               #7546970 Red Capillary Pipets, intended for counting and
+               sizing erythrocytes.  Recall #Z-316/317-4.
+CODE           Lot numbers:  (a) 107978K, 107979K1, 107979K2, 107980K,
+               107981K1, 107981K2, 107982K, 107983K1, 107983K2, 107984K1,
+               107984K2, 107985K, 107986K, 107987K1, 107987K2, 107988K,
+               107989K, 107990K, 107991K1, 107991K2, 107992K, 107993K,
+               107994K, 107995K1, 107996K1, 107996K2, 107999K;
+               (b) 108055K, 108056K, 108057K, 108058K, 108059K, 108060K,
+               108061K, 108062K, 108063K, 108064K, 108065K, 108065K1,
+               108066K 108067K, 108068K.
+                                   -11-MANUFACTURER   Coulter Corporation, Hialeah, Florida.
+RECALLED BY    Coulter Corporation, Miami, Florida, by letters dated July
+               28, 1992, September 16 and 28, 1992.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       41 lots of Isovial Red and White (approximately 142,000
+               individual units of sale) covered on recall letter dated
+               7/28/92.  Recall of Isovial White lot 107999K involved 4,920
+               individual units.  An individual unit of sale consists of 1
+               package of 30 vials.
+REASON         Pipets may leak.
+
+_______________
+PRODUCT        Coulter 5C Cell Controls, 3.3ml, for in-vitro diagnostic
+               use: (a)  Normal; (b) Abnormal I; (c) Abnormal II.
+               Recall #Z-318/320-4.
+CODE           Lot numbers:  (a) 882300, 882400, 882500, 882600, 882700;
+               (b) 872300, 872400, 872500, 872600;
+               (c) 862300, 862400, 862500, 862600.
+MANUFACTURER   Coulter Corporation, Hialeah, Florida.
+RECALLED BY    Coulter Corporation, Miami, Florida, by letter beginning
+               February 15, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   nationwide and international.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Reported low eosinophil percent and numbers. 
+
+_______________
+PRODUCT        Dacos and Dacos 2 Chemistry Software, with revisions 1.74,
+               1.75, and 1.76.  Recall #Z-321/328-4.
+CODE           Catalog numbers:  6602008, 6602278, 6602842, 6602843,
+               6603321, 6603322, 6603323, 6603324.
+MANUFACTURER   Coulter Corporation, Hialeah, Florida.
+RECALLED BY    Coulter Corporation, Miami, Florida, by letter beginning
+               June 4, 1992.  Firm-initiated field correction ongoing.
+DISTRIBUTION   South Carolina, California, Australia, Canada, France,
+               Germany, United Kingdom, Japan, Hong Kong.
+QUANTITY       Undetermined.
+REASON         While programming samples, if the cursor is moved into the
+               year section of the field, the year 1992 and all subsequent
+               years cannot be entered in the appropriate field.
+
+_______________
+PRODUCT        Coulter Epic DNA Software, Version 2.1, designed for use on
+               the customer's own computers, i.e., not internally in
+               Coulter's line of flow cytometers, some of which are
+               computer-equipped.  Recall #Z-329/340-4.
+CODE           (a) Part No. 6603581, Pkg, Cytologic Swre Multi User Combo;
+               (b) Part No. 6603582, Pkg, Cytologic Swre Single User Combo;
+               (c) Part No. 6603915, Pkg, Swre, Library, DNA; 
+               (d) Part No. 6603916, Pkg, Swre, Library, Immuno;  
+               (e) Part No. 6603917, Pkg, Swre, Library, Immuno, Plural; 
+               (f) Part No. 6603918, Pkg, Swre, DNA, Plural; 
+
+                                   -12-               (g) Part No. 6912692, Mod Kit, Swre Library, Immuno; 
+               (h) Part No. 6912694, Mod Kit, Swre Library, (Plural); 
+               (i) Part No. 6912695, Mod Kit, Swre Library, DNA Plural; 
+               (j) Part No. 6912696, Mod Kit, Swre Library, DNA; 
+               (k) Part No. 6912699, Mod Kit, Swre Library, DNA, Immuno; 
+               (l) Part No. 6912700, Mod Kit, Swre Library, DNA/Immuno
+               (Plural).
+MANUFACTURER   Coulter Corporation, Miami Lakes, Florida.
+RECALLED BY    Coulter Corporation, Miami, Florida, by letter beginning
+               October 15, 1991.  Firm-initiated field correction complete.
+DISTRIBUTION   Maryland, Louisiana, Texas, Kentucky, Arkansas, Illinois,
+               Massachusetts, Wisconsin, Washington, D.C., New Jersey,
+               Connecticut, Minnesota, North Carolina, Missouri, Virginia,
+               Michigan, Georgia, Florida, Belgium, Canada, The United
+               Kingdom, France, Germany, India, Italy, The Netherlands,
+               Norway, South Africa, Spain.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Some of the computer disks which were labeled as version 2.1
+               were in fact, version 2.01.
+
+
+RECALLS AND FIELD CORRECTIONS:  VETERINARY PRODUCTS -- CLASS II
+===========
+_______________
+PRODUCT        Radix Labs Milk Fever 23% Sterile non-pyrogenic
+               (Injectable), in 500 ml bottles nutritional supplement for
+               bovine.  Recall #V-032-4.
+CODE           Lot #R4A001.
+MANUFACTURER   Laboratories, Inc., Eau Claire, Wisconsin.
+RECALLED BY    Manufacturer, by telephone January 25, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Iowa, New York, Wisconsin.
+QUANTITY       912 bottles were distributed.
+REASON         Precipitate matter formed in the product caused by use of an
+               unstable ingredient in the production. 
+
+
+MEDICAL DEVICE SAFETY ALERTS
+==============================================
+_______________
+PRODUCT        Ace Aerosol Cloud Enhancer, Rx device designed to assist
+               with the delivery of aerosolized medications from metered
+               dose inhalers (MDI):
+               (a) Reorder #DHD 11-1010, Ace MDI Spacer;
+               (b) Reorder #DHD 11-1020, Ace MDI Spacer Kit (contains 1 Ace
+               and 1 Adapter Kit);
+               (c) Reorder #DHD 11-2020 (same as DHD 11-1020 except for
+               immediate product packaging).  Safety Alert #N-036/038-4.
+CODE           Reorder numbers        Lot numbers
+               DHD 11-1010            135480, 191269
+               DHD 11-1020            135475, 189434
+               DHD 11-2020            209721. 
+MANUFACTURER   DHD - Diemolding Healthcare Division, Wampsville, New York.
+ALERTED BY     DHD - Diemolding Healthcare Division, Canastota, New York,
+               by letter December 29, 1993.
+                                   -13-DISTRIBUTION   Nationwide and Canada.
+QUANTITY       (a) 29,615; (b) 175,400; (c) 2,245 units were distributed.
+REASON         After prolonged use the ACE MDI spray dispenser could crack. 
+               This can cause the whole dispenser to drop into the body of
+               the ACE when the MDI canister is actuated.
+
+_______________
+PRODUCT        All Purpose Chair (APC), a chair which converts to a
+               reclining position, used in hospitals for patient treatment
+               and for patient transport operations.
+               Safety Alert #N-039-4.
+CODE           Model Numbers     Serial Numbers
+               APC000            1 through 1203
+               APC200            1 through 1789
+               APC300            1 through 23
+               APC400            1 through 110
+               APCFLR            6 through 31
+               APCEYE            1 through 21
+               VIC               1 through 70.
+MANUFACTURER   Hausted, Inc., Medina, Ohio.
+ALERTED BY     Manufacturer, by Custom Bulletin distributed on or around
+               May 1, 1990.
+DISTRIBUTION   Nationwide.
+QUANTITY       3,241 chairs were distributed.
+REASON         Chairs may tip or flip over.  The firm emphasized their
+               warning already on the All Purpose Chair by use of statement
+               "Do Not Sit on End - Tipping May Occur" in a customer
+               Bulletin distributed to all consignees.
+
+
+CRIMINAL INFORMATION:
+=====================================================
+
+DEFENDANT      Jesus A. Rodriguez, doing business as Farmacia de Watto,
+               Canovanas, Puerto Rico.
+CHARGE         In a one-count Information, the Defendant plead guilty to 
+               knowingly selling and offering to sell Triphasil-28, a
+               prescription drug that was clearly labeled "Sample-Not for
+               Sale," on or about January 17, 1991.  Sentencing has been
+               scheduled for May 17, 1994.
+FILED          February 4, 1994; U.S. District Court for the District of
+               Puerto Rico; Cr. #94-40(RLA); FDC #66548.
+
+
+SEIZURES:
+=================================================================
+_______________
+PRODUCT        Canned mushrooms (93-594-119 and 93-593-934).
+CHARGES        Adulterated - A sample from one of the same can codes as
+               present in this lot contains an added poisonous and
+               deleterious substance, staphylococcal enterotoxin, which may
+               render it injurious to health and the articles were prepared
+               and packed under conditions whereby they may have been
+               rendered injurious to health.  Misbranded - All of the
+
+                                   -14-               articles' labeling is false and misleading because it
+               represents and suggests that the articles were grown and
+               packed in Taiwan, which is contrary to fact.
+LOCATIONS      Smith's Terminal Distribution Systems, and Hammersmith,
+               Inc., Miami, Florida.
+FILED          January 11 and 27, 1994; U.S. District Court for the
+               Southern District of Florida; Civ. ##94-166-CIV-HIGHSMITH
+               and 94-165-CIV-HOEVLER; FDC ##66792, 66794.
+SEIZED         February 1, 1994 - goods valued at approximately $29,760 and
+               $16,900.
+
+_______________
+PRODUCT        Cyan-5 Five Way Wormer (93-505-983/4).
+CHARGES        New animal drug - The article is unsafe because no approved
+               application is in effect with respect to its intended use. 
+               Misbranded - The article's labeling bears no accurate
+               statement of the quantity of its contents and no caution
+               statement for veterinary prescription drugs; and, the
+               article is offered for sale to lay persons without the
+               benefit of a veterinarian/client relationship and the
+               labeling bears no adequate directions for its intended use.
+LOCATION       National Hog Medicine Company, d/b/a National Livestock 
+               Supply Company, Raleigh, North Carolina.
+FILED          January 28, 1994; U.S. District Court for the Eastern
+               District of North Carolina, Raleigh Division; Civ. 
+               #5:94-CV-46-F3; FDC #66800.
+SEIZED         February 16, 1994 - goods valued at approximately $5,827.
+
+_______________
+PRODUCT        Frozen Pollock Fillets (94-710-328).
+CHARGE         Adulterated - The article consists in whole or in part of
+               decomposed seafood.
+LOCATION       Fulton Market Cold Storage Company, Chicago, Illinois.
+FILED          February 14, 1994; U.S. District Court for the Northern 
+               District of Illinois, Eastern Division; Civ. #94C 922;
+               FDC #66928.
+SEIZED         February 16, 1994 - goods valued at approximately $37,400.
+
+                                   -15-
+
+END OF ENFORCEMENT REPORT FOR MARCH 2, 1994. BLANK PAGES MAY
+FOLLOW.

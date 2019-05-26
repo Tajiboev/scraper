@@ -1,0 +1,619 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      31 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+06/01/1994
+
+Recalls and Field Corrections:  Foods -- Class I -- 06/01/1994
+
+June 1, 1994                                                      94-22
+   
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+==========================
+_______________
+PRODUCT        Keebler Fudge Shoppe Fudge 'n Caramel Shortbread Cookies, 11
+               ounces.  Recall #F-403-4.
+CODE           Lot #L261.
+MANUFACTURER   Emerald Industries, Inc., Florence, Kentucky.
+RECALLED BY    Keebler Company, Elmhurst, Illinois, by issuing press
+               release on March 1, 1994, and by letter March 2, 1994. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       2,686 cases (12 packages per case) were distributed.
+REASON         Product contains peanuts or peanut containing ingredients
+               which are not declared on the label.
+
+_______________
+PRODUCT        Smoked Salmon, in chunks of various sizes.  Recall #F-407-4.
+CODE           None.
+MANUFACTURER   Multiple Products, Inc., doing business as The Fish Outlet,
+               Bow, Washington.
+RECALLED BY    Manufacturer, by letter February 10, 1994, and by telephone
+               February 17, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Washington state.
+QUANTITY       Approximately 300 pounds.
+REASON         Product is contaminated with Listeria monocytogenes.
+_______________
+PRODUCT        Seafood salads:  (a) Diamond Island Maine Lobster Salad, in
+               5 ounce and 2 pound plastic containers; (b) Diamond Island
+               Maine Shrimp Salad, in 5 ounce and 2 pound plastic
+               containers.  Recall #F-408/409-4.
+CODE           All lots.
+MANUFACTURER   Diamond Island Seafood, Portland, Maine.
+RECALLED BY    Manufacturer, by telephone and fax February 9, 1994.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Massachusetts, Maine.
+QUANTITY       (a) 60 5-ounce containers, and 6 2-pound containers; (b) 36
+               5-ounce containers were distributed.
+REASON         Product is contaminated with Listeria monocytogenes.
+
+_______________
+PRODUCT        Sea Garden Crabmeat, fresh all lump, in 16 ounce plastic
+               tub.  Recall #F-410-4.
+CODE           None.
+MANUFACTURER   Sea Garden Seafoods, Inc., Valona, Georgia.
+RECALLED BY    Manufacturer, by telephone December 23, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   New Jersey.
+QUANTITY       90 pounds were picked; firm estimates none remains on the
+               market.
+REASON         Product is contaminated with Listeria monocytogenes.
+
+_______________
+PRODUCT        (a) Nova Salmon Bits; (b) White Fish Salad, both are packed
+               in 8 ounce rigid plastic containers.  Recall #F-411/412-4.
+CODE           Sell by date 0315.
+MANUFACTURER   Blue Ribbon Smoked Fish, Brooklyn, New York.
+RECALLED BY    Manufacturer, by letter March 9, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   New York.
+QUANTITY       Approximately 100 pounds of both products were distributed;
+               firm estimates none remains on the market.
+REASON         Product is contaminated with Listeria monocytogenes.
+
+_______________
+PRODUCT        French Vanilla Ice Cream, in 3 gallon bulk containers. 
+               Recall #F-413-4.
+CODE           None.
+MANUFACTURER   Taylor Milk Company, Ambridge, Pennsylvania.
+RECALLED BY    Tri-Point Ice Cream Sales Company, Ambridge, Pennsylvania,
+               by letter March 24, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Pennsylvania, West Virginia, Ohio.
+QUANTITY       Undetermined.
+REASON         Product contains eggs and eggs are not declared on the
+               label.
+
+                                    -2-RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Fleishmann's Cream Yeast (Saccharomyces cerevisiae), bulk,
+               used in manufacture of bread products.  Recall #F-405-4.
+CODE           Lot or mash numbers 75009, 16148, 75043, 75041, 16141,
+               16143, 16151, 16161, 16158 were co-mingled and distributed
+               in six lots.
+MANUFACTURER   Burns Philip Food, Inc., Oakland, California.
+RECALLED BY    Manufacturer, by telephone April 1, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Arizona, California.
+QUANTITY       Approximately 26,020 gallons were distributed.
+REASON         Product is contaminated with glass.
+
+_______________
+PRODUCT        Hospitality brand Crisp Rice Cereal, packaged in 35 ounce
+               bags.  Recall #F-406-4.
+CODE           DEC0994S & T through DEC1994S &T.;
+MANUFACTURER   Gilster-Mary Lee Corporation, Perryville, Missouri.
+RECALLED BY    Gilster-Mary Lee Corporation, Chester, Illinois, by
+               telephone on or about January 28, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Texas, Arizona.
+QUANTITY       852 cases (8 bags per case) were distributed.
+REASON         Product is contaminated with glass.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        LaCroix brand Bottled Spring Water in 0.5 and 1.5 liter
+               bottles.  Recall #F-404-4.
+CODE           1773QC, 1793QC, 1823QC, 1983QC, 1993QC, 2073QC, 2083QC,
+               2093QC, 2213QC, 2363QC, 2373QC, 2523QC, 2633QC, 2653QC,
+               2683QC, 2803QC.
+MANUFACTURER   North American Water Group, Liberty, Illinois (bottler).
+RECALLED BY    Winterbrook Beverage Group, Bellevue, Washington, by fax and
+               by telephone February 9, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       9,268 1.5-liter cases and 5,419 0.5-liter cases were
+               distributed.
+REASON         Product is contaminated with mold.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        OTC antacid products:  (a) Extra Strength Antacid/Antigas
+               Oral Liquid, in 12 fluid ounce plastic bottles; (b) Myla-
+               Care Antacid/Anti-gas Oral Liquid, in 12 fluid ounce 
+               bottles; (c) Antacid Oral Suspension, Antacid Oral Liquid
+               suspension, in 12 fluid ounce plastic bottles.  Private
+               labels and product names:  Valumed, Mylagel (Moore Medical 
+
+                                    -3-               Corp.); Pic N' Save, Antacid/Anti-Gas Suspension (National
+               Merchandise Co.); Valumed, Mylagel (Moore Medical Corp.);
+               WGI, Genlanta (Bart Pharmacal, Inc.); Myla-Kare, (Qualitest
+               Products, Inc.) Pic N' Save, Antacid/Antigas Suspension
+               (National Merchandise Co.); Antacid Oral Suspension
+               (Qualitest Products, Inc.) WGI, Almagma (Bart Pharmacal,
+               Inc).  Recall #D-285/287-4. 
+CODE           (a) Lot #40021 EXP 1/96 (Altaire label only);
+               (b) Lot #30335 EXP 12/95 (Altaire label only); 
+               Lot #30231 EXP 10/95 (Private labels only); 
+               Lot #30321 EXP 12/95 (Altaire and private labels);
+               Lot #30336 EXP 12/95 (Altaire and private labels);
+               (c) Lot #30312 (Altaire label only);
+               Lot #30304 (private labels only).
+MANUFACTURER   Altaire Pharmaceuticals, Inc., Holbrook, New York.
+RECALLED BY    Manufacturer, by telephone April 11, 1994, and by letters of
+               April 11 and 15, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       37,233 units were distributed; firm estimated 2,870 bottles
+               of product remained on the market at time of recall.
+REASON         Bacterial contamination.
+
+_______________
+PRODUCT        Medical Oxygen USP, delivered to patients for home use, in E
+               size cylinders.  Recall #D-291-4.
+CODE           All lots.
+MANUFACTURER   Roadrunner Oxygen and Medical Supply, Inc., Tucson, Arizona.
+RECALLED BY    Manufacturer, by letter April 15, 1994.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Arizona.
+QUANTITY       Not available.
+REASON         Current good manufacturing practice deficiencies.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Ban-Tuss HC, (hydrocodone Bitartrate 10 mg, Phenylephrine
+               HCl 30 mg, Phenylpropanolamine Hydrochloride 20 mg,
+               Pyrilamine Maleate 20 mg, Pheniramine Maleate 20 mg), in
+               gallon bottles, used as an anti-tussive, under the H.N.
+               Norton Co/Luchem label.  Recall #D-288-4.
+CODE           Lot #7384.
+MANUFACTURER   H.N. Norton Company, Shreveport, Louisiana.
+RECALLED BY    Manufacturer, by telephone and letter May 5, 1994.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       420 gallon bottles were distributed; firm estimated 133
+               gallons remained on the market at time of recall.
+REASON         Potency not assured through expiration date.
+
+                                    -4-_______________
+PRODUCT        Chemdal Expectorant, (Codeine Phosphate 10 mg,
+               Phenylpropanolamine Hydrochloride 12.5 mg, Guaifenesin 100
+               mg), in pint bottles, under the H.N. Norton/Chemdal and
+               Qualitest/Quendal labels.  Recall #D-289-4.
+CODE           Lot #6169.
+MANUFACTURER   H.N. Norton Company, Shreveport, Louisiana.
+RECALLED BY    Manufacturer, by telephone and by letter April 25, 1994. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       4,220 bottles were distributed.
+REASON         Subpotency of codeine phosphate ingredient.
+
+_______________
+PRODUCT        Urimar-T 100's Rx tablets, indicated for the relief of local
+               symptoms which accompany urinary tract infections caused by
+               diagnostic procedures.  Recall #D-290-4.
+CODE           All product with lot #A10M, EXP 8/95.
+MANUFACTURER   Manufacturing Chemists, Inc., Indianapolis, Indiana.
+RECALLED BY    Marnel Pharmaceutical, Inc., Lafayette, Louisiana, by
+               written notice May 11, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       1,216 bottles of 100 tablets were distributed.
+REASON         Tablets may be cracked.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Cryoprecipitated
+               AHF; (d) Fresh Frozen Plasma; (e) Recovered Plasma.
+               Recall #B-243/247-4.
+CODE           Unit numbers:  (a) 1132AR, 1138BR, 381546, 440739, 620927,
+               631700; (b) 381546, 440739, 620927, 631700; (c) 1138BR;
+               (d) 631700; (e) 1132AR, 381546, 440739, 620927.
+MANUFACTURER   Belle Bonfils Memorial Blood Center, Denver, Colorado.
+RECALLED BY    Manufacturer, by letters in April and May 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   California, Colorado, Missouri, New York, Florida.
+QUANTITY       (a) 6 units; (b) 4 units; (c) 1 unit; (d) 1 unit; 
+               (e) 4 units.
+REASON         Blood products, which tested non-reactive for hepatitis B
+               surface antigen (HBsAg), but were collected from donors who
+               reported a history of hepatitis, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets.  Recall #B-284/285-4.
+CODE           Unit #4432579.
+MANUFACTURER   Sarasota Community Blood Bank, Sarasota, Florida.
+RECALLED BY    Manufacturer, by telephone August 5, 1993, followed by
+               letter August 10, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Florida.
+QUANTITY       1 unit of each component.
+
+                                    -5-REASON         Blood products, which were collected from a donor who had
+               visited an area designated as endemic for malaria, were
+               distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Fresh Frozen Plasma. 
+               Recall #B-286/288-4.
+CODE           Unit numbers:  (a) 31F05493, 31L78068; (b) 31F05493;
+               (c) 31F05493.
+MANUFACTURER   The American National Red Cross, Buffalo, New York.
+RECALLED BY    Manufacturer, by letters of September 2 and 9, 1992, and
+               December 7, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   New York, South Carolina. 
+QUANTITY       (a) 2 units; (b) 1 unit; (c) 1 unit.
+REASON         Blood products, collected from a donor who either reported
+               medication with methotrexate or reported a history of
+               cancer, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Red Blood Cells, Leukocytes
+               Removed; (c) Recovered Plasma.  Recall #B-297/299-4.
+CODE           Unit numbers:  (a) H25342, M64917, M64931; (b) M64935;
+               (c) M64917, M64931, M64935.
+MANUFACTURER   Tacoma Pierce County Blood Bank, Tacoma, Washington.
+RECALLED BY    Manufacturer, by telephone February 1 and 2, 1994, and April
+               14, 1994, followed by letters dated February 28, 1994, March
+               1, 1994, and April 14, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   California, Washington state, Missouri.
+QUANTITY       (a) 3 units; (b) 1 unit; (c) 3 units.
+REASON         Blood products, that tested initially reactive for HBsAg,
+               were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-289-4.
+CODE           Unit #31L78068.
+MANUFACTURER   The American National Red Cross, Buffalo, New York.
+RECALLED BY    Manufacturer, by letter September 11, 1992. Firm-initiated
+               recall complete.
+DISTRIBUTION   Switzerland.
+QUANTITY       1 unit.
+REASON         Blood product, collected from a donor who reported a history
+               of cancer, was distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Red Blood Cells, Leukocytes
+               Removed; (c) Platelets; (d) Platelets, Pheresis; (e) Fresh
+               Frozen Plasma; (f) Recovered Plasma.  Recall #B-300/305-4.
+
+                                    -6-CODE           Unit numbers:  (a) H25318, H25326, H25330, H25601, H25344,
+               H25353, H25354, L03926, L03932, L03934, L03940, L04330,
+               M64916, M64918, M64932, M64936; (b) M64929;
+               (c) H25318, L03926, L03932, L03934; (d) H25327, H25355;
+               (e) H25318, H25326, H25344, H25354, L03926, L03932, L03934;
+               (f) H25353, L04330, M64916, M64918, M64929, M64932, M64936,
+               M66543.
+MANUFACTURER   Tacoma Pierce County Blood Bank, Tacoma, Washington.
+RECALLED BY    Manufacturer, by telephone February 1 and 2, 1994, followed
+               by letters dated February 28, 1994, and March 1, 1994. 
+               Firm-initiated recall complete.
+DISTRIBUTION   California, Washington state, Missouri. 
+QUANTITY       (a) 16 units; (b) 1 unit; (c) 4 units; (d) 2 units; 
+               (e) 7 units; (f) 8 units.
+REASON         Blood products, that either tested initially reactive for
+               HBsAg or negative for HBsAg, but were collected from donors
+               who previously tested initially reactive for HBsAg, were
+               distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Ames Brand Glucostix Reagent Strips: 
+               (a) Glucostix bottles of 50, product code 2627; 
+               (b) Glucostix bottles of 100, product code 2628; 
+               (c) Glucostix bottles of 25, product code 2629; 
+               (d) Gluco Meter II, II w/ memory, M, & QA kits w/           
+               glucostix; 
+               (e) Glucofilm bottles of 25, product code 2585; 
+               (f) Glucofilm bottles of 50, product code 2582; 
+               (g) Glucofilm bottles of 100, product code 2583; 
+               (h) Glucometer 3, QA, & M+ 1 kit and kits w/             
+               glucofilm.  Recall #Z-689/696-4.
+CODE           All codes.
+MANUFACTURER   Miles, Inc., Diagnostics Division, Elkhart, Indiana.
+RECALLED BY    Miles, Inc., Diagnostic Div., Mishawaka, Indiana, by, letter
+               February 1, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       Over 1 million.
+REASON         Lower than expected results can be obtained from areas of
+               high altitude, which may be due to the barometric pressure
+               and lower oxygen content at higher altitudes. 
+
+_______________
+PRODUCT        Pulmanex Pulmonary Manual Resuscitators, neonatal,
+               pediatric, infant and adult sizes, used to provide emergency
+               mechanical ventilation.  Recall #Z-792-4.
+CODE           All units with lot numbers 348079 through 352058.
+MANUFACTURER   Bird Life Design (BLD), Dallas, Texas.
+RECALLED BY    Manufacturer, by telephone April 22 and 25, 1994.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+
+                                    -7-QUANTITY       39,297 units were distributed.
+REASON         Packaging may not include a mask or elbow accessories
+               resulting in a inoperable critical device.
+
+________________
+PRODUCT        Adult, Pediatric, and Infant Resuscitators:
+               (a) Adult Resuscitators Model numbers: K4000EA, K4001,
+               K4020, K4020EA, K4021, K4021EA;
+               (b) Pediatric Resuscitators Model numbers: K4130, K4130EA,
+               K4133, K4133, K4133EA, K4143EA;
+               (c) Infant Resuscitators Model numbers:  K4230, K4230EA,
+               K4235, K4235EA, K4245, K4245EA.  Recall #Z-794/796-4.
+CODE           (a) 34048, 34049, 34047, 34056, 34046, 34050 
+               (b) 34053, 34028, 34030, 34051, 34032, 34057 
+               (c) 34054, 34037, 34029, 34055, 34052, 34027. 
+MANUFACTURER   Kirk Specialty Systems (KSS), Carrollton, Texas.
+RECALLED BY    Manufacturer, by telephone followed by letter March 28,
+               1994.  Firm-initiated recall complete.
+DISTRIBUTION   Arkansas, Florida, Indiana, Missouri, New Jersey, New York,
+               Ohio, Oregon, Pennsylvania, Texas, Washington state.
+QUANTITY       443 units were distributed; firm estimates none remains on
+               the market.
+REASON         The carbon dioxide color indicator strip may show an
+               insufficient or slower than expected color change in the
+               presence of carbon dioxide.
+
+_______________
+PRODUCT        Dual Lumen Catheters, intended for use in vascular access,
+               primarily in hemodialysis.  Recall #Z-841-4.
+CODE           Lot numbers:  AT111, AT180, AT110, AS530, AT181, AT182,
+               AT186.
+MANUFACTURER   Neostar Medical Technologies, Inc., King of Prussia,
+               Pennsylvania.
+RECALLED BY    Manufacturer, by telephone April 5 or 6, 1994, followed by
+               letter dated April 15, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Austria, England, Pakistan, The Netherlands.
+QUANTITY       All but 10 units.
+REASON         There appeared to be compromised seals and some evidence of
+               seal creep on the product that had been processed using an
+               impulse sealer.  Because of the potential for compromised
+               seals in the involved lots there is a lack of assurance of
+               sterility.
+
+_______________
+PRODUCT        Medcomp Mini-Kit Trays, containing either duo-flow XTP
+               double lumen catheter and accessories or femoral vein
+               catheter and accessories, and are used for hemodialysis with
+               the double lumen catheter being used for temporary vascular
+               access in the hemodialysis, apheresis hemofiltraton or
+               plasmapheresis treatments and the femoral vein catheter
+               being used for use in attaining short term vascular access
+               for hemodialysis in the femoral veins:
+
+                                    -8-               (a) Medcomp Mini-Kit Tray, Catalog No. XTP114MT. 
+               (b) Medcomp Mini-Kit Tray, Catalog No. XTP116CT. 
+               (c) Medcomp Mini-Kit Tray, Catalog No. XTP116MT, 
+               (d) Medcomp Mini-Kit Tray, Catalog No. XTP116MT, 
+               (e) Medcomp Mini-Kit Tray, Catalog No. XTP118MT, 
+               (f) Medcomp Mini-Kit Tray, Catalog No. XTP118MT, 
+               (g) Medcomp Mini-Kit Tray, Catalog No. MCFK100PA, 
+               (h) Medcomp Mini-Kit Tray, Catalog No. MCFK64, 
+               (i) Medcomp Mini-Kit Tray, Catalog No. SSL122OM, 
+               (j) Medcomp Mini-Kit Tray, Catalog No. TRAY #128, 
+               (k) Medcomp Mini-Kit Tray, Catalog No. TRAY #141, 
+               (l) Medcomp Mini-Kit Tray, Catalog No. TRAY #254.
+               Recall #Z-842/853-4.
+CODE           Lot Numbers:  (a)  M418280; (b) M416050; (c) M416770,
+               M417440; (d) M417620, M416410, M418000, M418610; 
+               (e) M416040, M417290, M418560, M418570, M419280; 
+               (f) M417960, M418240, M418440; (g) M415930; 
+               (h) M416280; (i) M413830; (j) M416530; (k) M416540, M418200,
+               M418960; (l) M415330.  
+MANUFACTURER   Medical Components, Harleysville, Pennsylvania.
+RECALLED BY    Manufacturer, by telephone and by Fax April 15, 1994,
+               followed by letter April 18, 1994.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   New Jersey, Florida, Tennessee, Kansas, and international.
+QUANTITY       615 units.
+REASON         1mm to 5mm holes found in the trays due to a low sheet
+               temperature of the tray material and a difficult draw ratio.
+ 
+_______________
+PRODUCT        Sterile Laparotomy Sponges: 
+               (a) 4" X 8" Lap Sponges, Product No. 9-408E; 
+               (b) 4" X 18" Lap Sponges, Product Nos.:  0-418, 
+               1-418, 1-418-1, 5-418, 6-418, 8-418, 9-418, 
+               9-418B-N, 9-418E, 21-418, 200-418, 1-418NH, 
+               1-418PB, 5-419, 6-419, 5-419R, 0-418R, 1-418R,  
+               5-418R, 200-418R, 31-554, 31-641, 1-418F; 
+               (c) 8" X 36" Lap Sponges, Product Nos.:  0-836, 0-836-1,
+               1-836, 1-836-1, 5-836, 6-836, 9-836, 32-219, 200-836,
+               1-836NH, 1-836PB, 5-837, 6-837, 5-837R, 0-836R, 1-836R,
+               5-836R, 200-836R, 31-897; 
+               (d) 12" X 12" Lap Sponges, Product Nos.:  0-1212, 1-1212,
+               5-1212, 6-1212, 8-1212, 9-1212, 9-1212E, 9-1212V, 200-1212,
+               1-1212NH, 5-1212NH, 5-1213NH, 5-1213, 6-1213, 5-1213R,
+               0-1212R, 1-1212R, 5-1212R, 9-1212R, 200-1212R;   
+               (e) 18" X 18" Lap Sponges, Product Nos.:  0-1818,  
+               1-1818, 1-1818-2, 1-1818-B, 5-1818, 6-1818, 
+               8-1818, 9-1810-V, 9-1818, 9-1818B-N, 9-1818E,   
+               9-1820-V, 21-1818, 25-1818, 200-1818, 
+               1-1818NH, 5-1818NH, 200-1818NH, 5-1819NH, 
+               5-1819, 8-1819, 26-1818PB, 0-1819R, 5-1819R,    
+               6-1819R, 6-1818MR, 0-1818R, 1-1818R, 
+               1-1818R-N, 5-1818R, 6-1818R, 200-1818R, 31-943; 
+
+                                    -9-               (f) 18" X 36" Lap Sponges, Product Nos.:  1-1836, 
+               1-1836-3, 1-1836-5, 6-1836, 9-1836E, 32-099.  
+               Recall #Z-855/860-4. 
+CODE           All lots distributed since 01/01/91, and bearing lot numbers
+               greater than 12683 and less than 17013. 
+MANUFACTURER   Qualtex, Inc., Rose Hill, Virginia.
+RECALLED BY    DeRoyal Industries, Inc., Powell, Tennessee, by letters sent
+               on or about April 8, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Puerto Rico.
+QUANTITY       Firm estimated that no more than 2,500 cases of all products
+               remained in commerce at the time of recall initiation.
+REASON         Devices may be non-sterile due to possible microbiological
+               contamination.
+
+_______________
+UPDATE         Recall #Z-711/719-4, Cobe Spectra Apheresis System - Pump
+               Rotor, which appeared in the May 18, 1994, Enforcement
+               Report should read:
+               (a) Catalog #950000-000
+               (b) Catalog #950000-001
+               (c) Catalog #950000-002
+               (d) Catalog #950000-003
+               (e) Catalog #950000-004
+               (f) Catalog #950000-005
+               (g) Catalog #950000-006
+               (h) Catalog #950000-008.  Recall #Z-711/718-4.
+
+
+SEIZURES:
+=================================================================
+_______________
+PRODUCT        "Jogging in a Jug" and accompanying promotional literature
+               (94-650-492, et al).
+CHARGES        New drug - There is no approved application in effect for
+               such article.  Misbranded - The article's labeling fails to
+               bear adequate directions for use, and it is not exempt from
+               such requirements since it is an unapproved new drug.
+LOCATION       Third Option Laboratories, Inc., Muscle Shoals, Alabama.
+FILED          May 18, 1994; U.S. District Court for the Northern
+               District of Alabama, Northern Division; Civil #CV-94-U-1209-
+               NW; FDC #66906.
+SEIZED         May 19, 1994 - goods valued at approximately $77,000.
+
+_______________
+PRODUCT        Liquid Medical Oxygen and components (94-610-670).
+CHARGE         Adulterated - The methods used in, and the facilities and 
+               controls used for, the articles' manufacture, processing,
+               packing, and holding do not conform to and are not operated
+               and administered in conformity with current good
+               manufacturing practice requirements.
+
+                                   -10-LOCATION       Homedco, Peoria, Illinois.
+FILED          May 11, 1994; U.S. District Court for the Central District 
+               of Illinois; Civil #94-1217; FDC #66953.
+SEIZED         May 13, 1994 - goods valued at approximately $75,000.
+
+                                   -11-
+
+END OF ENFORCEMENT REPORT FOR JUNE 1, 1994.  BLANK PAGES MAY FOLLOW.
+                                   ####

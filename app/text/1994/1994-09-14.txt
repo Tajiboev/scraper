@@ -1,0 +1,383 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  18
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      23 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+09/14/1994
+
+Recalls and Field Corrections:  Foods -- Class I -- 09/14/1994
+
+September 14, 1994                                              94-37
+ 
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+==========================
+_______________
+PRODUCT        C. Ochoa Mexican Style Soft White Cheese in 8 and 12 ounce
+               plastic packages.  Recall #F-825-4.
+CODE           All lots distributed prior to May 20, 1994. 
+MANUFACTURER   C. Ochoa Cheese, Brownsville, Texas.
+RECALLED BY    Manufacturer, by visit May 20-21, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Texas.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Product was contaminated with Listeria monocytogenes.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+========================
+______________
+PRODUCT        Procainamide Hydrochloride Extended-release Tablets, USP,
+               500 mg, 100 tablet, 500 tablet and 1,000 tablet bottles, Rx
+               drug used for the treatment of ventricular arrhythmias. 
+               Recall #D-379-4.
+CODE           (a) (Schein label; 100 tablets), Lot #s: 43537D, 43679D,
+               43681D, 43682D, 43683D, 43687D, 43752D, 43936D, 43937D,
+               44210D, 44211D; (b) (Schein label; 500 tablet bottles) Lot
+               #s: 43753D, 43934D; (c) (Danbury label; 1000 tablet bottles)
+               Lot #s: 43757D, 43758D.
+MANUFACTURER   Danbury Pharmacal Inc., Danbury, Connecticut.
+RECALLED BY    Danbury Pharmacal Inc., Brewster, New York by letter August
+               5, 1994.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       26,850 bottles were distributed.  Firm estimates that
+               approximately 10% of the product remains on market.
+REASON         Product does not meet dissolution specifications.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS --  CLASS III
+=====================
+______________
+PRODUCT        Cardilate Tablets (Generic name of Erythrityl Tetranitrate)
+               10 mg bottles of 100 tablets, used for prophylaxis and long-
+               term treatment of patients with frequent or recurrent
+               anginal pain and reduced exercise tolerance associated with
+               angina pectoris.  Recall #D-380-4.
+CODE           All lots.  Expiration date of April 1995.
+MANUFACTURER   Burroughs Wellcome Company, Greenville, North Carolina.
+RECALLED BY    Burroughs Wellcome Company, Research Triangle Park, North
+               Carolina by letter June 6, 1994.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       54,000 bottles were distributed.
+REASON         Potential for subpotency prior to expiration date.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+====================
+______________
+PRODUCT        Cryoprecipitated AHF.  Recall #B-458-4.
+CODE           Unit number 17033-8313.
+MANUFACTURER   Blood Systems, Inc., doing business as United Blood
+               Services, McAllen, Texas.
+RECALLED BY    Manufacturer by telephone December 3, 1993 with follow-up
+               letter dated December 20, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Texas.
+QUANTITY       One unit. 
+REASON         Blood product, processed from improperly stored plasma, was
+               distributed.
+
+______________
+PRODUCT        Source Plasma.  Recall #B-459-4.
+CODE           Unit GU6672.
+MANUFACTURER   Alabama Plasma, Inc., Birmingham, Alabama.
+RECALLED BY    Manufacturer by facsimile September 30, 1992.  Firm-
+               initiated recall complete.
+DISTRIBUTION   North Carolina.
+QUANTITY       One unit.
+REASON         Blood product which tested initially reactive for the
+               antibody to the hepatitis C virus encoded antigen (anti-
+               HCV), was distributed.
+
+
+                                    -2-RECALLS FIELD CORRECTIONS:  BIOLOGICS --  CLASS III
+======================
+______________
+PRODUCT        Spectrogen-Trio(R) Reagent Red Blood Cells.
+               Recall #B-453-4.
+CODE           Lot #93215, EXP 6/11/93.
+MANUFACTURER   Organon Teknika Corporation, West Chester, Pennsylvania.
+RECALLED BY    Manufacturer by letters of May 5 and 6, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide, Argentina, Canada, France, Hong Kong, Ireland,
+               Italy, Japan, The Netherlands, United Kingdom.
+QUANTITY       505 kits.
+REASON         Reagent Red Blood Cells which were found to be hemolyzed
+               were distributed.
+
+______________
+PRODUCT        (a) Whole Blood; (b) Red Blood Cells; (c) Single Donor
+               Plasma Liquid.  Recall #B-455/457-4.
+CODE           Unit numbers: (a) C40308; (b) C37146 through C37149, C40332;
+               (c) C40332.
+MANUFACTURER   Northern Illinois Blood Bank, Rockford, Illinois.
+RECALLED BY    Manufacturer by letter June 27, 1994.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Illinois.
+QUANTITY       (a) 1 unit; (b) 5 units; (c) 1 unit. 
+REASON         Blood products which were incorrectly tested for the
+               hepatitis B surface antigen (HBsAg);  tested initially
+               reactive for HBsAg, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+======================
+
+______________
+PRODUCT        Kinemax Superstabilizer Prosthetic Knee System and
+               Components: 
+               1.   Catalog No. 6478-1-315, Small Tibial Baseplate; 
+               2.   Catalog No. 6478-3-315, Medium Tibial Baseplate; 
+               3.   Catalog No. 6478-5-315, Large Tibial Baseplate; 
+               4.   Catalog No. 6478-1-610, Tibial Insert W/Support Post,  
+                    Small 10mm; 
+               5.   Catalog No. 6478-3-610, Tibial Insert W/Support Post,  
+                    Medium 10mm; 
+               6.   Catalog No. 6478-5-610, Tibial Insert W/Support Post,  
+                    Large 10mm; 
+               7.   Catalog No. 6478-1-612, Tibial Insert W/Support Post,  
+                    Small 12mm; 
+               8.   Catalog No. 6478-3-612, Tibial Insert W/Support Post,  
+                    Medium 12mm; 
+               9.   Catalog No. 6478-5-612, Tibial Insert W/Support Post,  
+                    Large 12mm; 
+               10.  Catalog No. 6478-1-615, Tibial Insert W/Support Post,  
+                    Small 15mm; 
+
+                                    -3-               11.  Catalog No. 6478-3-615, Tibial Insert W/Support Post, 
+                    Medium 15mm; 
+               12.  Catalog No. 6478-5-615, Tibial Insert W/Support Post,  
+                    Large 15mm; 
+               13.  Catalog No. 6478-1-618, Tibial Insert W/Support Post,  
+                    Small 18mm; 
+               14.  Catalog No. 6478-3-618, Tibial Insert W/Support Post,  
+                    Medium  18mm; 
+               15.  Catalog No. 6478-5-618, Tibial Insert W/Support Post,  
+                    Large 18mm; 
+               16.  Catalog No. 6478-1-621, Tibial Insert W/Support Post,  
+                    Small 21mm; 
+               17.  Catalog No. 6478-3-621, Tibial Insert W/Support Post,  
+                    Medium 21mm; 
+               18.  Catalog No. 6478-5-621, Tibial Insert W/Support Post,  
+                    Large 21mm; 
+               19.  Catalog No. 6478-1-625, Tibial Insert W/Support Post,  
+                    Small 25mm; 
+               20.  Catalog No. 6478-3-625, Tibial Insert W/Support Post,  
+                    Medium 25mm; 
+               21.  Catalog No. 6478-5-625, Tibial Insert W/Support Post,  
+                    Large 25mm; 
+               22.  Catalog No. 6478-1-010, Femoral Component Assembly,  
+                    Small Left 65mm M/L 57mm A/P; 
+               23.  Catalog No. 6478-1-110, Femoral Component Assembly,  
+                    Small Right 65mm M/L 57mm A/P; 
+               24.  Catalog No. 6478-3-010, Femoral Component Assembly,  
+                    Medium Left 70mm M/L 62mm A/P; 
+               25.  Catalog No. 6478-3-110, Femoral Component Assembly,  
+                    Medium Right 70mm M/L 62mm A/P; 
+               26.  Catalog No. 6478-5-010, Femoral Component Assembly,  
+                    Large Left 75mm  M/L 66mm A/P; 
+               27.  Catalog No. 6478-5-110, Femoral Component Assembly,  
+                    Large Right 75mm M/L 66mm A/P.  Recall #Z-1326/1352-4.
+CODE           All lots.
+MANUFACTURER   Howmedica Inc., Division of Pfizer Hospital Products,
+               Rutherford, New Jersey.
+RECALLED BY    Manufacturer by letter January 18, 1994.  Firm-initiated
+               recall complete.
+DISTRIBUTION   Nationwide, Canada, Ireland.
+QUANTITY       5,757 components were distributed.  Firm estimates none
+               remains on market.
+REASON         The stabilizer post/tibial insert components of the Kinemax
+               Superstabilizer Prosthetic Knee System loosened or 
+               completely disassociated from the tibial baseplate 
+               component.
+
+______________
+PRODUCT        Modular Shoulder Humeral Cutting Block, used in orthopedic
+               surgery.  Recall #Z-1353-4.
+CODE           Lot number 2698-02, Catalog No. 9945-00-101.
+MANUFACTURER   Kirschner Medical Corporation, Fair Lawn, New Jersey.
+
+                                    -4-RECALLED BY    Manufacturer, by telephone January 4, 1994, and by letter
+               January 12, 1994.  Firm-initiated recall complete.
+DISTRIBUTION   Alabama, Arkansas, California, Illinois, Maryland, New
+               Jersey, New York, Oregon, Tennessee, Texas, Italy, France,
+               Japan.
+QUANTITY       17 pieces distributed.
+REASON         The neck resection angle of the humeral cutting block was
+               inadvertently changed to 40 degrees on this one
+               manufacturing lot number.
+
+______________
+PRODUCT        Profect brand Sterile 18" x 18" Laparotomy Sponges
+               and 17" x  30" Operating Room Towels used during surgical
+               procedures to absorb blood.  Recall #Z-1364/1365-4.
+CODE           Lot numbers: 202375, 202442, 202376, 202445, 202377, 202447
+               (laparotomy sponges); Lot numbers: 202249, 202261, 202268,
+               202276, 202282, 202286, 202312, 202563, 202598, 202791,
+               203096, 203209, 203214, 203229, 203248, 203249, 203294,
+               203393, 203394, 203468, 203469, 203470, 203472 (operating
+               room towels).
+MANUFACTURER   Grand Medical Products, Houston, Texas.
+RECALLED BY    Manufacturer by letter July 27, 1994.  Firm-initiated recall
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       225 cases/100 sponges; 670 cases/80 towels and 583 cases/72
+               towels were distributed.
+REASON         The sterility of the devices may be compromised due to
+               package integrity and possible lack of adequate
+               sterilization.
+
+______________
+PRODUCT        Threaded Metal Post Component of Knee Prosthesis:
+               (a) Product numbers 1866-30/75, Posterior Stabilized Tibial
+               Insert with Post; (b) Product Numbers 1866-84/89, Posterior
+               Stabilized Tibial Stabilizing Post.  Recall #Z-1366/1367-4.
+CODE           All lots.
+MANUFACTURER   Lydo Precision Products, Mountain Lakes, New Jersey.
+RECALLED BY    DePuy Inc., Warsaw, Indiana, by letter May 7, 1993.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       7,980 units.
+REASON         The threaded metal stabilizing post is of this knee
+               prosthesis is "backing out" of the tibial inserts.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+=====================
+______________
+PRODUCT        Dade Actin Cephaloplastin Reagent, in vitro diagnostic
+               product intended for use in activated partial thromboplastin
+               times and heparin therapy monitoring.  Recall #Z-1358/1362.
+CODE           Lot numbers: APAC-578A/B/C/D/E/F; APAC-579A/B/C/D/E/F;
+               Catalog numbers B4218-1, B4218-2, B4218-999, 291010, 191011.
+
+                                    -5-MANUFACTURER   Baxter Diagnostic of Puerto Rico, Aguada, Puerto Rico.
+RECALLED BY    Baxter Diagnostic Inc., Miami, Florida by letter August 4, 
+               1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Canada.
+QUANTITY       12,565 packages (APAC-578); 12,680 (APAC-579) were
+               distributed.
+REASON         Product may give unusually prolonged activated partial 
+               thromboplastin time (aPTTs) when used with Citrol
+               Coagulation controls in normal and heparinized patients.
+
+______________
+PRODUCT        Paramax Uric Reagent, in-vitro diagnostic, used for the
+               measurement of uric acid in serum, plasma or urine.  
+               Recall #Z-1370-4.
+CODE           Lot numbers: AURC-502 through 510, Catalog #B6106-26.
+MANUFACTURER   Baxter Diagnostic of Puerto Rico, Aguada, Puerto Rico.
+RECALLED BY    Baxter Diagnostic, Inc., Irvine, California by letter
+               February 5, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide, Canada, Belgium, France, Germany, Japan, Norway,
+               Taiwan.
+QUANTITY       34,791 packages were distributed; firm estimates none
+               remains on the market.
+REASON         The product does not meet the typical precision claim nor
+               the stability 90 day claim.
+
+                                    -6-
+
+END OF ENFORCEMENT REPORT FOR SEPTEMBER 14, 1994.  BLANK PAGES MAY
+FOLLOW.
+                                   ####

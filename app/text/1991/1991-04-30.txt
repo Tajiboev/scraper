@@ -1,0 +1,901 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  OCT
+		  Mar
+		
+		
+		
+		  
+		  02
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2004
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      27 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+04/30/1991    
+
+FDA Enforcement for the week of 5/1/91
+
+
+
+                            FDA ENFORCEMENT REPORT
+                               FOR APRIL 1, 1991
+
+                                                           May 1, 1991
+Recalls and Field Corrections:
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  Product will cause serious adverse health consequences or 
+                  death.
+
+                                     NONE 
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the 
+                  probability of serious adverse health consequences is 
+                  remote. 
+
+                                     NONE 
+
+Product:          (a) Frozen Breaded Zucchini Slices/Discs, in various
+                  sizes under the following labels:  Pride of The West, 
+                  Flagship Food Products, Kronos-Central, C & E, Aspen
+                  Bel Pak and Garden Foods; 
+                  (b) Frozen Breaded/Batter-Dipped Cauliflower in various 
+                  sizes under the following labels:  Garden Foods, Grennan
+                  Meats, Andoro, Charles Schmidtke, CSC, Droege's Finest, 
+                  Colony Lane, Ferko Meat, Vienna Beef, Quality Finest, 
+                  Happy Valley Packers.  Recall # F-363/364-1.
+
+                                      -1- 
+
+
+
+
+
+
+Code:             All lots. 
+Manufacturer:     Garden Products, Inc., Piedmont, Missouri.
+Recalled by:      Manufacturer, by letter March 22, 1991.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         (a) 2,716 cases; (b) 2,037 cases were distributed.
+Reason:           Product contained undeclared FD&C; Yellow No. 5. 
+
+                                     ---- 
+
+Product:          Tom's Nacho Cheese Tortilla Chips, 1.125 ounces 
+                  (36 bags/case), 1.25 ounces, (36 bags/case), 2.5 ounces 
+                  (28 bags/case),  and 6.5 ounces (14 bags/case). 
+                  Recall #F-365-1.
+Code:             All packages coded    K     or  K        or   K 
+                                    APR10 A1    APR10 A2     APR10 A3.
+Manufacturer:     Tom's Foods Inc., Knoxville, Tennessee. 
+Recalled by:      Manufacturer, by telephone and letter March 11, 1991. 
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide. 
+Quantity:         4,845 cases of package sizes were distributed.
+Reason:           Product is contaminated with sodium hydroxide and 
+                  sodium tripolyphosphate.
+
+                                     ---- 
+
+                  Class III - A situation in which the use of, or exposure
+                  to a violative product is not likely to cause adverse 
+                  health consequences.
+
+
+Product:          (a) Salmon Caviar, in 2 ounce and 4 ounce jars; 
+                  (b) Golden Whitefish Caviar in 2 oz. and 4 oz. jars.
+                  Recall #F-360/361-1.
+Code:             None. 
+Manufacturer:     Epicurean International, Rockville, Maryland. 
+Distributed by:   Iron Gate Products Company, Inc., New York, New York. 
+Recalled by:      Manufacturer, telephone February 15, 1991.  Firm-initiated
+                  recall ongoing. 
+Distribution:     New York. 
+Quantity:         (a) 984/2 oz. , 492/4 oz. jars; (b) 1,056/2 oz. and 552/4 
+                  oz. jars were distributed.
+Reason:           New York State Department of Agriculture and Markets
+                  collected and analyzed samples and determined that
+                  products labeled "refrigerate after opening" should have
+                  stated "keep refrigerated."  Department of Agriculture
+                  and Markets is monitoring the recall. 
+
+                                     ---- 
+
+Product:          Vitamin C Syrup in 4 oz. and 16 oz. glass bottles.
+                  Recall #F-362-1.
+Code:             All lots within expiration date.
+                  92024, 02002, 92234, 03229, 92448, 03551, 92689 
+
+                                      -2- 
+
+
+
+
+
+Manufacturer:     Barre National, Inc., Baltimore, Maryland.
+Recalled by:      Manufacturer, by letter January 28, 1991 with certified 
+                  return receipt.  Firm-initiated recall ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         64,039  cases were distributed. 
+Reason:           Container closures leak and fail to maintain product
+                  integrity.
+                                     ---- 
+
+Product:          Optimum brand Timed Release Niacin Tablets, 500 mg, 
+                  in 100 tablet and bulk (50,000) containers, a dietary 
+                  supplement under the Hi-School Pharmacy and Carter & Lee
+                  labels.  Recall #F-366-1. 
+Code:             Lot numbers 1451 and 1453.
+Manufacturer:     Magno-Humphries, Inc., Tigard, Oregon.
+Recalled by:      Manufacturer, for lot 1453 by visit October 23, 1990 and
+                  for lot 1451 by letter December 24, 1990.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Oregon, Washington state, California. 
+Quantity:         998  100-tablet containers of lot 1451 and 50,000 bulk
+                  tablets and 479  100-tablet containers of lot 1453 were 
+                  distributed.
+Reason:           Product formulated as timed release, but not labeled as such. 
+
+                                     ---- 
+
+                                   COSMETICS
+
+                                     NONE 
+
+                           HUMAN DRUGS AND BIOLOGICS
+
+                  Class I - 
+
+                                     NONE 
+                  Class II -
+
+Product:          Repository Corticotropin Injection USP, 40 units/mL ACTH, 5 
+                  ml vials packaged in individual carton, 1008 vials per
+                  shipping case, an Rx hormone product.  Recall #D-313-1. 
+Code:             Lot number L1005, EXP 9/91. 
+Manufacturer:     Organics/LaGrange, Inc., Chicago, Illinois. 
+Recalled by:      Manufacturer, by telephone on April 4, 1991.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Wisconsin and New York. 
+Quantity:         34,609 vials were distributed.
+Reason:           Subpotent.
+
+                                     ---- 
+
+                                      -3- 
+
+
+
+
+
+Product:          Colchicine Tablets 0.6 mg, in bottles of 100, 250 and 1000
+                  tablets, an Rx product used for gout, under the following 
+                  labels: Major Pharmaceuticals, Purepac, Rugby, Genetco, 
+                  Best generics, Moore drug exchange, United Research,
+                  Harber Pharmaceutical, and West-ward labels.
+                  Recall #D-382-1.
+Code:             All lots. 
+Manufacturer:     West-ward Pharmaceutical, Eatontown, New Jersey.
+Recalled by:      Manufacturer, by letters on February 25, 1991.
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide. 
+Quantity:         18,500 bottles were distributed.
+Reason:           Subpotent.
+                                     ---- 
+
+Product:          Carbamazepine Tablets, USP, 200 mg, unit dose packaged in 
+                  unit cartons of 100 tablets each, an Rx oral tablet used to 
+                  control and preclude epileptic episodes.  Recall #D-384-1.
+Code:             lot numbers 9S847, 0B158, 0H460, 0I608, 0J702, 0J711, 0M910,
+                  0S150, 0V211, 1A289.
+Manufacturer:     Pharmaceutical Basics, Inc., Denver Colorado. 
+Recalled by:      UDL Laboratories, Rockford, Illinois (repacker), by letters 
+                  on March 19, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide. 
+Quantity:         26,986 unit cartons were distributed. 
+Reason:           Lack of assurance of bioequivalency and ANDA discrepancies. 
+
+                                     ---- 
+
+Product:          Amino Acid Injection, 500 ml 8.5% FreAmine III with 
+                  Electrolytes, an Rx product indicated to prevent nitrogen 
+                  loss or treat negative nitrogen balance.  Recall #D-385-1.
+Code:             Lot numbers:  J0N008, J1A021. 
+Manufacturer:     McGaw, Inc., Irvine, California.
+Recalled by:      Manufacturer, by letters on March 5, 1991.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         (a) 13,728 units were distributed.
+Reason:           Some unit box labels did not have the statement "With 
+                  Electrolytes".
+                                     ---- 
+
+Product:          Thiothixene Capsules, USP, 1 mg., 2 mg., 5 mg., 10 mg., and 
+                  20 mg., packaged in bottles of 100's, 500's, and 1000's, an 
+                  Rx product for the management of psychotic disorders, under 
+                  the following labels: American Therapeutics, Best Generics, 
+                  Bioline, Genetco, Goldline, H.L. Moore, Qualitest, Scheir,
+                  Harber, J.J. Balan, Major Pharmaceutical, Martec, Mason 
+                  Distributors, Parmed, Rugby.  Recall #D-386/389-1.
+Code:             All lots within expiration period.
+Manufacturer:     American Therapeutics, Inc., Bohemia, New York. 
+Recalled by:      Manufacturer, by letter on or about December 21, 1990.
+                  Firm-initiated recall ongoing.
+
+                                      -4- 
+
+
+
+
+
+Distribution:     Nationwide. 
+Quantity:         7 million capsules were distributed.
+Reason:           Lack of assurance of bioequivalence and Abbreviated 
+                  New Drug Application discrepancies. 
+
+                                     ---- 
+
+Product:          Metaproterenol Sulfate Tablets, 5 mg. and 20 mg., 
+                  an  Rx bronchodilator under the following labels: 
+                  ATI, Best Generics, Harber, H.L. Moore, Major, Schein,
+                  Mason Distributors, Martec, Parmed, Qualitest, Rugby, 
+                  and URL.  Recall #D-390-1.
+Code:             All lots. 
+Manufacturer:     American Therapeutics, Inc., Bohemia, New York. 
+Recalled by:      Manufacturer, by letter December 21, 1990.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         Approximately 2,000,000 tablets remain on the market. 
+Reason:           Lack of assurance of bioequivalence and Abbreviated New 
+                  Drug Application discrepancies. 
+
+                                     ---- 
+
+Product:          Prochlorperazine Maleate Tablets, USP, (a) 5 mg; (b) 10 mg; 
+                  (c) 25 mg, in 100 and 1,000 tablet bottles, an Rx 
+                  product under the following labels: Duramed, Best, Parmed,
+                  Qualitest, and URL.  Recall #D-391/393-1. 
+Code:             Lot numbers: (a) 90084, 90218, 90239, 90460, 90533; 
+                  (b) 90085, 90219, 90240; (c) 90086. 
+Manufacturer:     Duramed Pharmaceuticals, Inc., Cincinnati, Ohio.
+Recalled by:      Manufacturer, by letter March 21, 1991.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         Approximately one million tablets in each lot of 5 mg 
+                  and 10 mg strength and 800,000 tablets in the 25 mg 
+                  strength were distributed.
+Reason:           The products were not manufactured in accordance with 
+                  Abbreviated New Drug Apprication specifications.
+
+                                     ---- 
+
+Product:          (a) Somatomax PM, distributed in either 100 gms of powdered 
+                  product per bottle or 100  500 mg capsules per bottle;
+                  (b) GHB-PM, distributed in bottles containing 100 gms of
+                  powder, an OTC product.  Recall # D-395/396-1.
+Code:             All lots. 
+Manufacturer:     (a) Amino Discounters, Tucson, Arizona; (b) Ultimate
+                  Strength Systems, Newington, Connecticut. 
+Recalled by:      Forcite Distributors, Inc., Lodi, New Jersey by letter
+                  February 24, 1991.  Firm-initiated recall ongoing.  See 
+                  also FDA press release P90-53, November 8, 1990.
+Distribution:     New York and New Jersey.
+Quantity:         (a) 96 units; (b) 36 units were distributed.
+
+                                      -5- 
+
+
+
+
+
+Reason:           Product marketed without new drug approval. 
+
+                                     ---- 
+
+Product:          GHB Granules (Gamma Hydroxybutryic Acid), packaged in 60 gm.
+                  and 100 gm size bottles, an OTC product used to stimulate 
+                  growth hormones and prolactin release and cause an increase 
+                  in muscle mass and weight loss.  Recall # D-398-1.
+Code:             All lots. 
+Manufacturer:     Pacifico Enterprises, Dayton, Ohio. 
+Recalled by:      Manufacturer, by letter on April 8, 1991.  Firm-initiated 
+                  recall ongoing.  See also FDA press release P90-53
+                  November 8, 1990. 
+Distribution:     Nationwide. 
+Quantity:         1,000 bottles (700/60 gm. and 300/100 gm size) were 
+                  distributed.
+Reason:           Product marketed without new drug approval. 
+
+                                     ---- 
+
+Product:          Gaviscon Liquid Antacid, 6 ounce, an OTC product. 
+                  Recall #D-400-1.
+Code:             Lot number K02452, EXP 8/92.
+Manufacturer:     Marion Merrell Dow, Inc., Kansas City, Missouri.
+Recalled by:      Marion Merrell Dow, Inc., Cincinnati, Ohio by 
+                  letter April 18, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide. 
+Quantity:         4,500 cases (12 bottles/case) were distributed. 
+Reason:           Bacterial contamination with Klebsiella Pneumoniae. 
+
+                                     ---- 
+
+Product:          Intal Nebulizer Solution, 2 ml ampules (cromolyn sodium 
+                  inhalation, USP), an Rx product.  Recall #D-401-1.
+Code:             Lot number HN3701A, EXP 11/94.
+Manufacturer:     Fisons plc, LeTrait, France.
+Recalled by:      Fisons Corporation, Rochester, New York, by telephone March 
+                  15, 1991, FAX March 18, 1991 and by letter March 2, 1991. 
+                  Firm-initiated recall ongoing.
+Distribution:     Illinois. 
+Quantity:         999 boxes were distributed. 
+Reason:           Trace contamination with a detergent product. 
+
+                                     ---- 
+                  Class III - 
+
+Product &         Various unit-dose, strip packed Rx and OTC drugs: 
+Codes:                                                              ASSIGNED
+                                                         LOT       EXPIRATION 
+         PRODUCT/STRENGTH/SIZE                         NUMBER         DATE
+
+1.       ACTIGALL, 300 mg., 1's                         188         06/17/91
+          (URSODIOL)                                    194         06/19/91
+
+                                      -6- 
+
+
+
+
+
+2.       ALBUTEROL, 2 mg., 1's                          912410      05/02/91
+3.       AMANTIDINE HCl, 100 mg., 1's                   50277       07/02/91
+                                                        50306       07/02/91
+4.       AMILORIDE/HYDROCHLOROTHIAZIDE,                 14464       06/12/91
+             5 mg./50 mg., 1's
+5.       AMOXAPINE, 50 mg., 1's                         9K15676     05/02/91
+6.       ARTANE SEQUELS, 5 mg., 1's                     282342      05/30/91
+          (TRIHEXYPHENIDYL HCl)                         282342      07/22/91
+7.       ASPIRIN, 800 mg.,                              E00890      07/07/91
+          CONTROLLED RELEASE, 1's 
+8.       AXID, 150 mg., 1's                             4LZ37A      05/01/91
+          (NIZATIDINE)                                  4LZ37A      05/05/91
+                                                        4LZ37A      05/09/91
+                                                        4LZ37A      05/20/91
+                                                        4LZ37A      05/30/91
+                                                        4MJ89A      06/14/91
+                                                        4MJ90A      05/12/91
+                                                        4MJ90A      05/19/91
+                                                        4MJ90A      05/26/91
+                                                        4MJ90A      05/30/91
+                                                        4MJ90A      06/10/91
+9.       BACLOFEN, 10 mg., 1's                          4096722     05/01/91
+                                                        4096725     05/20/91
+10.      CARDIZEM SR, 60 mg., 1's                       E00024      06/26/91
+          (DILTIAZEM) 
+11.      CARISOPRODOL, 350 mg., 1's                     70866       07/22/91
+12.      CEPHALEXIN, 500 mg., 1's                       51180       06/04/91
+13.      CHLORDIAZEPOXIDE/AMITRIPTYLINE,                OB244EY     06/17/91
+                    5 mg./12.5 mg., 1's                 OB244EY     07/23/91
+                                                        T042N       06/24/91
+                                                        T042N       07/14/91
+                                                        M757-01     05/30/91
+                                                        M757-01     06/18/91
+14.      CLONIDINE HCl, 0.3 mg., 1's                    136389      05/01/91
+15.      CLONIDINE HCl/CHLORTHALIDONE,                  T069M       06/11/91
+               0.1 mg./15 mg., 1's
+16.      CYSTOSPAZ, 0.15 mg., 1's                       20BN        06/18/91
+          (HYOSCYAMINE SULPHATE)
+17.      CYTOTEC, 200 mcg., 1/2's                       1090-233    06/27/91
+          (MISOPROSTOL)                                 1090-236    06/17/91
+                                                        1290-245    07/23/91
+18.      DIAZEPAM, 5 mg., 1/2's                         3926809     05/05/91
+19.      DIETHYLSTILBESTEROL, 1 mg., 1's                4LL89B      01/01/91
+                                                        4MK08A      05/19/91
+                                                        4NA53A      07/22/91
+                                                        4NA53A      07/23/91
+20.      DILITRATE SR, 40 mg., 1's                      890501      06/24/91
+          (ISOSORBIDE DINITRATE)
+21.      DYMELOR, 250 mg., 1's                          3D576B      05/12/91
+          (ACETOHEXAMIDE) 
+22.      ELDEPRYL, 5 mg., 1's                           1270390     06/12/91
+          (SELEGILINE HCl)                              1350390     06/03/91
+                                                        1350390     07/22/91
+
+                                      -7- 
+
+
+
+
+
+23.      ESTRATAB, 0.625 mg., 1's                       81801       07/22/91
+          (ESTERIFIED ESTROGENS)
+24.      FUROSEMIDE, 20 mg., 1/2's                      31101C0     07/02/91
+25.      HALOPERIDOL, 0.5 mg., 1/2's                    70216       06/19/91
+                               1's                      70216       05/19/91
+                                                        70216       05/28/91
+                                                        70216       06/11/91
+                                                        70216       06/26/91
+                                                        70216       07/02/91
+                                                        70216       07/16/91
+                                                        V078B       07/03/91
+26.      HALOPERIDOL, 1 mg., 1's                        4079B       07/09/91
+27.      HALOPERIDOL, 5 mg., 1's                        91270       07/16/91
+28.      IBUPROFEN, 200 mg., 1's                        14315       06/27/91
+29.      IBUPROFEN, 300 mg., 1's                        13142       05/20/91
+                                                        13142       06/12/91
+30.      ISORDIL TEMBIDS, 40 mg., 1's                   1890596     05/29/91
+          (ISOSORBIDE DINITRATE)                        9903072     06/24/91
+                                                        9903080     06/24/91
+31.      ISOSORBIDE DINITRATE, 5 mg., 1's               116689      07/23/91
+32.      K PHOS NEUTRAL, 1's                            0511        07/22/91
+          (PHOSPHOROUS SUPPLEMENT)
+33.      KU-ZYME, 1's                                   17926       06/17/91
+          (AMYLASE, LIPASE,                             17931       07/23/91
+            PROTEASE AND CELLULASE) 
+34.      LEVSIN/SL, 0.125 mg., 1's                      16003       05/05/91
+          (HYOSCYAMINE SULPHATE)                        17193       05/12/91
+                                                        17194       05/26/91
+                                                        17194       06/10/91
+                                                        17194       06/17/91
+                                                        17194       06/24/91
+35.      LOXAPINE, 25 mg., 1's                          37102G0     07/02/91
+36.      MAG-TAB SR, 84 mg., 1's                        M383        05/26/91
+          (MAGNESIUM SUPPLEMENT)                        M631        06/24/91
+37.      METHYLDOPA/HYDROCHLOROTHIAZIDE                 0553340     07/23/91
+           250 mg./15 mg., 1's
+38.      METOCLOPRAMIDE, 10 mg., 1/2's                  70957       06/11/91
+                                                        90B045      06/27/91
+39.      NEOTHYLLINE, 200 mg., 1's                      7704        06/10/91
+          (DYPHYLLINE)                                  7704        06/17/91
+40.      NEOTHYLLINE, 400 mg., 1's                      7559        06/18/91
+          (DYPHYLLINE)                                  7923        07/15/91
+41.      NEOTHYLLINE-GG, 1's                            8031        06/27/91
+          (DYPHYLLINE/GUAIFENESIN)                      8031        07/03/91
+             (200 mg./200 mg.)
+42.      PARLODEL, 2.5 mg., 1's                         767M1496    06/11/91
+          (BROMOCRIPTINE MESYLATE)
+43.      PARLODEL, 5 mg., 1's                           109P1761    06/10/91
+          (BROMOCRIPTINE MESYLATE)
+44.      PBZ, 25 mg., 1's 
+                GEIGY       1B130513    07/23/91
+          (TRIPELENNAMINE HCl)
+45.      PEDAMETH, 200 mg., 1's                         7895        05/21/91
+          (RACEMETHIONINE)
+
+                                      -8- 
+
+
+
+
+
+46.      PRAZOSIN HCl, 1 mg., 1's                       904102      01/31/91
+47.      PRILOSEC, 20 mg., 1's                          59401       06/11/91
+          (OMEPRAZOLE)
+48.      PRIMIDONE, 250 mg., 1/2's                      03540C      06/11/91
+49.      PROBENECID/COLCHICINE                          2193110     06/18/91
+            500 mg./0.5 mg., 1's                        2193117     07/22/91
+50.      RESERPINE/HYDROCHLOROTHIAZIDE                  03334C      07/08/91
+         0.125 mg./50 mg., 1's
+51.      RESERPINE/HYDROCHLOROTHIAZIDE/                 02892C      07/16/91
+          HYDRALAZINE HCl 
+         0.1 mg./25 mg./15 mg., 1's 
+52.      ROCALTROL, 0.25 mcg., 1's                      0181        07/08/91
+          (CALCITROL) 
+53.      ROCALTROL, 0.5 mcg., 1's                       0561        07/02/91
+          (CALCITROL) 
+54.      SLOW MAG DR, 1's                               0D082       06/10/91
+          (MAGNESIUM CHLORIDE, EQUIVALENT 
+            TO 64 mg. OF MAGNESIUM) 
+55.      SORBITRATE, 10 mg., 1's                        4283K       06/17/91
+          (ISOSORBIDE DINITRATE)                        4283K       07/16/91
+56.      SYNTHROID, 112 mcg., 1's                       JE210A      06/12/91
+          (LEVOTHYROXINE SODIUM)
+57.      SYNTHROID, 175 mcg., 1's                       JE200       06/12/91
+          (LEVOTHYROXINE SODIUM)
+58.      SYNTHROID, 200 mcg., 1's                       JD220       06/18/91
+          (LEVOTHYROXINE SODIUM)
+59.      THEO-DUR, 100  mg., 1/2's                      90184       07/22/91
+          (THEOPHYLLINE)
+60.      THIORIDAZINE HCl, 200 mg., 1's                 70472       07/08/91
+                                                        71199       07/08/91
+61.      TOLFRINIC, 1's                                 G026971     07/22/91
+          (IRON/VITAMINS) 
+62.      TRAZODONE HCl, 50 mg., 1's                     005PR021    07/02/91
+63.      TRICOSAL, 500 mg., 1's                         9H14        06/18/91
+          (CHOLINE SALICYLATE, 293 mg. &
+          MAGNESIUM SALICYLATE, 362 mg.)
+64.      URIDON MODIFIED, 1's                           9D088       05/14/91
+           (METHENAMINE, 40.8 mg./ATROPINE SULPHATE, 0.03 mg./
+           HYOSCYAMINE, 0.03 mg./METHYLENE BLUE, 5.4 mg./ 
+           BENZOIC ACID, 4.5 mg./PHENYLSALICYLATE, 18.1 mg.)
+65.      UROQID-ACID NO. 2, 1's                         0K08        07/07/91
+          (METHENAMINE MANDELATE, 500 mg./
+           SODIUM ACID PHOSPHATE MONOHYDRATE, 500 mg.)
+66.      VERAPAMIL, 80 mg., 1's                         70815       06/11/91
+                                                        34305B0     06/03/91
+67.      VERAPAMIL, 120  mg., 1/2's                     T085K       05/05/91
+68.      WELLBUTRIN, 75 mg., 1's                        903014      06/12/91
+           (BUPROPION).  Recall #D-314/381-1. 
+Manufacturer:     Various.
+Recalled by:      Pharmaceutical Services of Middle Tennessee, Inc. 
+                  Nashville, Tennessee (repacker), by telephone on or about 
+                  January 31, 1991 followed by letter February 1, 1991. 
+                  Firm-initiated recall ongoing.
+Distribution:     Tennessee.
+                                      -9- 
+
+
+
+
+
+Quantity:         20,633 unit dose packages were distributed; firm
+                  estimates none remains on the market. 
+Reason:           Repacking firm assigned expiration dates in excess of 
+                  permitted expiration periods. 
+
+                                     ---- 
+Product:          Kasdenol, in 10 gram amber glass bottles, an OTC product. 
+                  Recall #D-383-1.
+Code:             Lot #60-8903 EXP 7/91.
+Manufacturer:     United Guardian, Inc., Hauppauge, New York. 
+Recalled by:      Manufacturer, by letter March 15 and 18, 1991.
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide. 
+Quantity:         4,130 bottles were distributed. 
+Reason:           Available chlorine is below specification.
+
+                                     ---- 
+
+Product:          Nifedipine Soft gelatin Capsules, 100 mg, in bottles of 
+                  100 and 300 capsules, an Rx drug indicated as an
+                  anti-anginal and calcium channel blocker, under the 
+                  following labels:  Purepac, Drug Guild, Darby Drug
+                  VIP, H.L. Moore Drug Exchange, Novopharm, Mason 
+                  Distributors.  Recall #D-394-1. 
+Code:             Lot #032HO EXP 10/92. 
+Manufacturer:     Kalipharma, Inc., Elizabeth, New Jersey.
+Recalled by:      Manufacturer, by telephone February 27-28, 1991.
+                  Firm-initiated recall ongoing.
+Distribution:     Connecticut, Florida, New Jersey, New York. 
+Quantity:         8,023 units of 100 and 7,721 units of 300 were distributed. 
+Reason:           Expiration date of 10/92 was used instead of correct
+                  date of 8/92. 
+                                     ---- 
+
+Product:          Esscolloid Blue Label Bulk Forming Laxative Made
+                  from All Natural Ingredients, an OTC product. 
+                  Recall #D-397-1.
+Code:             Lot #69026. 
+Manufacturer:     Wisconsin Pharmacal Company, Inc., Jackson, Wisconsin 
+                  (repacker). 
+Recalled by:      Repacker., by telephone November 1990.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Midwest.
+Quantity:         605 units were distributed. 
+Reason:           Irradiation used to treat presence of yeast and mold in 
+                  product.
+                                     ---- 
+
+Product:          Oxygen U.S.P. in size E and 265 cubic foot cylinders. 
+                  Recall #D-399-1.
+Code:             Lot numbers: 11-120-B and 15-011-B. 
+Manufacturer:     77 Welding Supply, Inc., San Benito, Texas. 
+Recalled by:      Manufacturer, by visit January 17, 1991.  Firm-initiated
+
+                                     -10- 
+
+
+
+
+
+                  recall ongoing. 
+Distribution:     Texas.
+Quantity:         931 cylinders were distributed. 
+Reason:           Current good manufacturing practice deficiencies. 
+
+                                     ---- 
+
+Product:          Blood Grouping Reagent Anti-K, in 3 ml vials, an in-vitro 
+                  diagnostic test reagent.  Recall #B-215-1.
+Code:             Lot #LK144B EXP 15 JAN 92.
+Manufacturer:     Ortho Diagnostic Systems, Inc., Raritan, New Jersey.
+Recalled by:      Manufacturer, by letter February 14, 1991 and by FAX
+                  February 19, 1991.  Firm-initiated field correction 
+                  complete. 
+Distribution:     Nationwide and international. 
+Quantity:         1,191 vials were distributed. 
+Reason:           Product gives weak reactivity with some examples of k 
+                  (Cellano) negative, Rho(D) positive cells.
+
+                                     ---- 
+
+Product:          Red Blood Cells.  Recall #B-223-1.
+Code:             Unit numbers: 4427138 and 4227407.
+Manufacturer:     J.K. and Susie L. Wadley Research Institute and 
+                  Blood Bank, doing business as The Blood Center at 
+                  Wadley, Dallas, Texas.
+Recalled by:      Manufacturer, by visit September 6, 1990.  Firm-
+                  initiated recall complete.
+Distribution:     Texas, Illinois.
+Quantity:         2 units.
+Reason:           Blood products labeled with incorrect expiration dates. 
+
+                                     ---- 
+
+                         MEDICAL DEVICES AND RADIOLOGY
+
+                  Class I - 
+
+Product:          Reusable, Pre-Set Magnetic PEEP Valve, BE 171,
+                  BE 142 and BE30-142 series: 
+                  1.  BE 171-2.5, Pre-Set Magnetic PEEP Valve for 2.5 cm
+                  H20;
+                  2.  BE 171-5.0, Pre-Set Magnetic PEEP Valve for 5.0 cm
+                  H20;
+                  3.  BE 171-7.5, Pre-Set Magnetic PEEP Valve for 7.5 cm H20; 
+                  4.  BE 171-10.0, Pre-Set Magnetic PEEP Valve for 10.0 cm HC2; 
+                  5.  BE 171--12.5, Pre-Set Magnetic PEEP Valve for 12.5 cm 
+                  H20;
+                  6.  BE 171-15.0, Pre-Set Magnetic PEEP Valve for 15.0 cm
+                  H20;
+                  7.  BE-171-20.0, Pre-Set Magnetic PEEP Valve for 20.0 cm
+                  H20;
+                  8.  BE 171/10, Any Combination of ten PEEP Valves;
+                  9.  BE-171/20, Any Combination of twenty PEEP Valves; 
+                  10. BE 142, Magnetic PEEP Valve;
+                                     -11- 
+
+
+
+
+
+                  11. BE 142-10, Magnetic PEEP valve with Spring Loaded Valve;
+                  12. BE 142-40, Magnetic PEEP Valve with Pressure Port;
+                  13. BE 142-3, Amber Outlet Port 22 mm O.D. (component); 
+                  14. BE-30-142-3, Amber Outlet Port 30 mm O.D. (component);
+                  15. BE-30-142, Magnetic PEEP Valve with 30 mm Standard; 
+                  16. BE 30-142-10, Magnetic PEEP Valve with Spring Valve 
+                  Port and 30 mm Standard;
+                  17. BE 30-142-40, Magnetic PEEP Valve with Pressure Port and
+                  30 mm Standard; 
+                  18. BE 171-3, Replacement 30 mm O.D. Outlet Port (component); 
+                  19. BE-142-70A, Non-Rebreathing valve with PEEP and 
+                  Standard 22 mm Bag Port;
+                  20. BE-142-70B, Non-Breathing valve with PEEP and Laerdal 
+                  23 mm Port.  Recall #Z-578/597-1. 
+Code:             All units shipped after January 1, 1988 are being recalled. 
+Manufacturer:     Instrumentation Industries, Inc., Bethel Park, Pennsylvania.
+Recalled by:      Manufacturer, by letter October 3, 1990.  Firm-initiated
+                  recall ongoing. 
+Distribution:     Nationwide and international. 
+Quantity:         Undetermined. 
+Reason:           Product may have received improper machine threading
+                  during manufacture.  This defect would allow the outlet 
+                  port to thread too far into the center body precluding
+                  the magnetic valve from opening during exhalation.
+
+                                     ---- 
+                  Class II -
+
+Product:          Davol, Inc., CV Catheter 8 French with Groshong Valve,
+                  Long Term, Single Lumen, Percutaneous Procedure Tray, 
+                  Recall #Z-479-1.
+Code:             Catalog #60312, Lot #36KA9323.
+Manufacturer:     Davol, Inc., subsidiary of C.R. Bard, Inc., Salt Lake 
+                  City, Utah. 
+Recalled by:      Manufacturer, by FAX February 7, 1991 and by letter 
+                  February 11, 1991.  Firm-initiated recall complete. 
+Distribution:     Alabama, New Jersey.
+Quantity:         55 units were distributed.
+Reason:           Kit contains incorrect instructions for the sheath
+                  introducer. 
+                                     ---- 
+
+Product:          Hawkins I Breast Lesion Localization System, Catalog #42-503, 
+                  Needle gauge 20, needle length 5 cm.  Recall #Z-558-1.
+Code:             Lot numbers: 260582 and 260682. 
+Manufacturer:     Medical Device Technologies (formerly National Standard 
+                  Medical Products) Gainesville, Florida. 
+Recalled by:      Manufacturer, by letter September 17, 1990.  Firm-initiated 
+                  recall ongoing. 
+                                     -12- 
+
+
+
+
+
+Distribution:     Massachusetts.
+Quantity:         225 units were distributed. 
+Reason:           The sterility of the device has been compromised by loss
+                  of package integrity. 
+
+                                     ---- 
+
+Product:          Model #665.400 14" x 14" Multiformat Spot Filmer, 
+                  Catalog #6650.400.  Recall #Z-559-1.
+Code:             Serial numbers:  887808, 889307, 892317, 894702, 896715,
+                  898426, 898427, 898711, 900012, 901002, 902007, 902507, 
+                  903207, 904320, 904506, 904903, 905930, 905932, 907108, 
+                  907416, 909316. 
+Manufacturer:     Continental X-Ray Corporation, Broadview, Illinois. 
+Recalled by:      Manufacturer.  FDA approved the firm's corrective action
+                  plan March 22, 1991.  Firm-initiated field correction 
+                  ongoing.
+Distribution:     Nationwide. 
+Quantity:         22 units. 
+Reason:           Noncompliance with 21.CFR 1020.32(a)(1), Primary
+                  Protective Barrier.  The fluoroscopy system may operate 
+                  in the fluoroscopic mode even when the spot film device 
+                  (which acts as the primary protective barrier) does not 
+                  intercept the entire useful beam. 
+
+                                     ---- 
+
+Product:          Patella Reamer Clamp, Catalog #00-5120-070-00, a
+                  manual orthopedic surgical instrument used to hold
+                  in place and guide the patella reamer bit as the patella
+                  bone is reamed in preparation for implantation of the 
+                  patellar component of a knee prosthesis.  Recall #Z-560-1 
+Code:             Lot numbers: 73304000 and 73457700. 
+Manufacturer:     Nemco, Inc., Hicksville, Ohio.
+Recalled by:      Zimmer, Inc., Warsaw, Indiana, by telephone and by
+                  letter March 8, 1991.  Firm-initiated recall ongoing
+Distribution:     Nationwide and Japan. 
+Quantity:         97 units were distributed.
+Reason:           The set screw that holds the spring-loaded "stop" 
+                  of the depth gauge in place, backs out during use.
+
+                                     ---- 
+
+Product:          Motor-driven radiologic and spot-film tilt tables:
+                  (a) CXT-90 90/90 Diagnostic Tilt Table, Catalog #T-8501;
+                  (b) CXT-45 90/45 Diagnostic Tilt Table, Catalog #T-8800.
+                  Recall #Z-566/567-1.
+Code:             (a) Model 6806.100, serial numbers:  886613, 894701,
+                  906929, 905201; 
+                  (b) Model 6806.101, serial numbers: 883907, 884934, 
+                  887809, 889306, 892205, 896714, 897801, 898303, 898504, 
+                  900006, 901001, 901716, 902606, 903206, 904319, 904505, 
+                  904904, 905931, 907424, 909315. 
+
+                                     -13- 
+
+
+
+
+
+Manufacturer:     Continental X-Ray Corporation, Broadview, Illinois, 
+                  Manufacturer, by field service bulletin #9109,
+                  February 6, 1991.  Firm-initiated field correction ongoing. 
+Distribution:     Nationwide. 
+Quantity:         24 units were distributed.
+Reason:           A relay in the table top drive printed circuit board, 
+                  (part #5284.061.08 rev. 1), has a component with
+                  marginal rating for its application.
+
+                                     ---- 
+                  Class III - 
+
+Product:          Hawkins III Breast Lesion Localization System, needle 
+                  gauge 20, needle length 3.0 cm. used to assist surgeons 
+                  in pinpointing potential problem areas in the breast as 
+                  identified by mammography.  Recall #Z-568-1.
+Code:             Catalog #42-534, Lot numbers: 31082 and 1310182.
+Manufacturer:     Medical Device Technologies (formerly National Standard 
+                  Medical Products), Gainesville, Florida.
+Recalled by:      Manufacturer, by telephone November 6, 1990 followed by 
+                  letter November 15, 1990.  Firm-initiated recall ongoing. 
+Distribution:     Massachusetts.
+Quantity:         725 units were distributed. 
+Reason:           The cable inner core calibration markings are missing.
+
+                                     ---- 
+
+                              VETERINARY PRODUCTS 
+
+                                     NONE 
+Medical Device Safety Alerts: 
+
+RETRACTION:       Medical Device Safety Alert #M-005-1 which appeared in
+                  the April 24, 1991 Enforcement Report was reprinted in error. 
+                  This Safety Alert originally appeared in the December 19, 
+                  1990 Enforcement Report.

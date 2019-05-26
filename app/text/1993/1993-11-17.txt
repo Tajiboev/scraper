@@ -1,0 +1,809 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Dec
+		
+		
+		
+		  
+		  17
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      33 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+11/17/1993
+
+Recalls and Field Corrections:  Foods -- Class I -- 11/17/1993
+
+November 17, 1993                                         93-46
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS I
+==========================
+_______________
+PRODUCT        Packaged fish (a) Ocetrina Hot Smoked Sturgeon, sliced and
+               vacuum packed, approximately 4-ounce packages; (b) Nova
+               Smoked Salmon sliced and vacuum packaged, approximately 4-
+               ounce packages.  Recall #F-094/095-4.
+CODE           Lot numbers:  (a) 793175; (b) 793165.
+MANUFACTURER   International Gold Star Trading Corporation, Brooklyn, New
+               York.
+RECALLED BY    Manufacturer, by telephone September 14, 1993.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 38 pounds - Approximately 152 packages; (b) 164 pounds -
+               Approximately 656 packages.
+REASON         The product is contaminated with Listeria monocytogenes.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS II
+=========================
+_______________
+PRODUCT        Fresh Artichokes, packed in 16.5 pound wooden crates.  
+               Recall #F-221-3.
+CODE           Each carton has a packed date which varies throughout 
+               October and November 1992.
+MANUFACTURER   Commercial Abastefrut, Ltd., Curico, Chile and Rafael
+               Zamorano Acevedo, Curico, Chile (Growers).RECALLED BY    Carben, Inc., Miami, Florida, by letter December 21, 1992. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Florida. 
+QUANTITY       Firm estimates none remains on the market.
+REASON         Product was contaminated with Captan.
+
+_______________
+PRODUCT        Koppers brand Raisins in Dark Chocolate in 7-ounce
+               containers.  Recall #F-048-4.
+CODE           All lots distributed from January to March 1993.
+MANUFACTURER   Koppers Chocolate Specialty Company, Inc., New York, New
+               York.
+RECALLED BY    Manufacturer, by letter dated September 22, 1993.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide and Canada.
+QUANTITY       134 dozen units were distributed.
+REASON         Product is mislabeled - Contains Pistachios instead of
+               labeled raisins.
+
+_______________
+PRODUCT        Kix Crispy Corn Puffs (breakfast cereal), in boxes holding
+               13 ounces and 9 ounces.  Recall #F-049-4.
+CODE           Lot numbers:  22MAR94 X212 and 23MAR94 X212 of the 13-ounce
+               boxes; 23MAR94 X210 of the 9-ounce boxes.
+MANUFACTURER   General Mills, Inc, South Chicago, Illinois.
+RECALLED BY    General Mills, Inc., Minneapolis, Minnesota, by memorandum
+               and press release October 14, 1993.  An October 14, 1993
+               notice, similar to the press release, was issued by the firm
+               to the Food Allergy Network.  The Food Allergy Network
+               reportedly sent the notice to their members on October 14,
+               1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       Approximately 14,000 cases (16 9-ounce and 14 13-ounce boxes
+               per case) were distributed.
+REASON         Product contaminated with pieces of honey nut cherrios,
+               which contain undeclared almonds.
+
+_______________
+PRODUCT        Ice cream, all flavors (except vanilla), packed in 3-1/2
+               gallon containers:
+               1.  Butter Pecan
+               2.  Chocolate Chip
+               3.  Cookies N' Cream
+               4.  Peaches N' Peach
+               5.  Natural Strawberry
+               5.  Cherry Cordial
+               6.  Mint Chocolate Chip
+               7.  P Butter N' Chip
+               9.  Chocolate Chip Cookie Dough
+               10. English Toffee Bar
+               11. Honey N Cashew Bulk
+
+                                    -2-               12. Yogurt Cookies
+               13. Peach Melba
+               14. Car. Pecan Fudge
+               15. Strawberry Yogurt
+               16. Milk Chocolate Yogurt
+               17. No Name Candy Bar
+               18. Chocolate
+               19. Strawberry
+               20. Whitehouse
+               21. Chocolate Marshmallow
+               22. Swiss Chocolate
+               23. Fudge Nut Sundae
+               24. Mint Chip
+               25. Orange Sherbet
+               26. Pineapple Sherbet
+               27. Rainbow Sherbet
+               28. Strawberry Sherbet
+               29. Peach
+               30. Strawberry Cheesecake
+               31. Lemon Lime
+               32. Lime Sherbet
+               33. Vanilla Orange
+               34. Peppermint Stick
+               35. DBL Chocolate Malted
+               36. Pnut Bric Crunch
+               37. Pnut Butter Fudge.  Recall #F-054/090-4.
+CODE           All lot numbers.
+MANUFACTURER   United Dairy Farmers (UDF), Cincinnati, Ohio.
+RECALLED BY    Manufacturer, by having store supervisors visually inspect
+               all stock on September 17, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   Kentucky, Ohio.
+QUANTITY       Approximately 12,000 3-1/2 gallon containers were
+               distributed.
+REASON         Product is contaminated with ammonia.
+
+
+RECALLS AND FIELD CORRECTIONS:  FOODS -- CLASS III
+========================
+_______________
+PRODUCT        Heller's brand Nitrite/Phosphate cure, used on meat and
+               fish. 3.5 pounds.  Recall #F-053-4.
+CODE           Date 5/17/93 - No lot number on label.
+MANUFACTURER   Heller Seasonings & Ingredients, Bethlehem, Pennsylvania.
+RECALLED BY    Manufacturer, by letter June 9, 1993, followed by telephone. 
+               Firm-initiated recall complete.
+DISTRIBUTION   Pennsylvania.
+QUANTITY       20 twin packs were distributed.
+REASON         Product lacks the labeled ingredient sodium nitrite.
+
+_______________
+PRODUCT        Shop Rite brand Diet Ginger Ale, in 16-ounce bottles. 
+               Recall #F-092-4.
+
+                                    -3-CODE           ****/012193 - All products with the second line as 012193.
+MANUFACTURER   Premium Beverage Packers, Inc., Wyomissing, Pennsylvania.
+RECALLED BY    Manufacturer, by telephone October 26, 1992.  Firm-initiated
+               recall complete.
+DISTRIBUTION   New Jersey.
+QUANTITY       Firm estimates none remains on the market.
+REASON         Product was mislabeled - Does not contain declared
+               Aspartame.
+
+_______________
+PRODUCT        NutriSystem Artificially Flavored Blueberry Muffins with
+               imitation blueberry bits, in 2-ounce packages each
+               containing 3 muffins.  Recall #F-093-4.
+CODE           All codes.
+MANUFACTURER   Pewter Pot Muffin Company, Waltham, Massachusetts.
+RECALLED BY    Nutri/System, Bluebell, Pennsylvania, by letter September
+               16, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Missouri, Massachusetts.
+QUANTITY       Firm estimates less than 1,000 cases of product remain on
+               the market.
+REASON         Product is contaminated with mold.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+=========================
+_______________
+PRODUCT        DMSA Kidney Reagent Kit for the preparation of Technetium
+               TC99m Succimer Injection, Rx intravenous sterile diagnostic
+               radiopharmaceutical.  Recall #D-023-4.
+CODE           Lot numbers:  002, 002A, 002B.
+MANUFACTURER   Amersham International plc, Gloucester, England.
+RECALLED BY    Medi-Physics, Inc., Arlington Heights, Illinois, by letter
+               October 12, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide, Canada.
+QUANTITY       724 kits were distributed; firm estimates 150 kits remain on
+               the market.
+REASON         Kits bear an expiration date of March 24, 1994 instead of
+               Sept 24, 1993.
+
+_______________
+PRODUCT        Videx (Didanosine) Chewable/Dispersible Buffered Tablets, 25
+               mg, in 60 tablet bottles, Rx, used in the treatment of AIDS. 
+               Recall #D-025-4.
+CODE           Batch code MBE15.
+MANUFACTURER   Bristol-Myers Squibb Company, Evansville, Indiana.
+RECALLED BY    Bristol-Myers Squibb HIV Products, Princeton, New Jersey, by
+               letter June 3, 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       207 cases (12 bottles per case) were distributed.
+REASON         Product does not meet content uniformity specifications.
+
+                                    -4-RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS III
+========================
+_______________
+PRODUCT        Novafed, brown and orange colored hard gelatin capsules, in
+               bottles of 100, a controlled release Rx decongestant. 
+               Recall #D-024-4.
+CODE           Lot #1127BC EXP 12/94.
+MANUFACTURER   KV Pharmaceuticals, St. Louis, Missouri.
+RECALLED BY    Marion Merrell Dow, Inc., Cincinnati, Ohio, by letter
+               October 7, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and Puerto Rico.
+QUANTITY       19,467 bottles were distributed; firm estimates very little
+               stock remains on the market.
+REASON         Product failed stability testing for dissolution.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS II
+=====================
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Fresh Frozen Plasma; (c) Recovered
+               Plasma.  Recall #B-011/-013-4.
+CODE           Unit numbers:  (a) 0238177, 0239878, 0240652, 0244526,
+               0244920, 4414079; (b) 0231555, 0233859, 0236282, 0238811,
+               0239878, 0240652, 0244526, 0244920; (c) 0238177, 4414079.
+MANUFACTURER   Inland Northwest Blood Center, Spokane, Washington.
+RECALLED BY    Manufacturer, by letters between February 21, 1992 through
+               March 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Washington state, Idaho, California, North Carolina.
+QUANTITY       (a) 6 units; (b) 8 units; (c) 2 units.
+REASON         Blood products which tested negative for human
+               immunodeficiency virus type 1 (anti-HIV-1), but were
+               collected from a donor who previously tested repeatedly
+               reactive for anti-HIV-1; tested improperly for the hepatitis
+               B surface antigen (HBsAg); were collected from a donor
+               reporting recent ear piercing by a non-sterile method; were
+               collected as a therapeutic bleed, but were not labeled to
+               reflect the donor's condition.   
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-016-4.
+CODE           Unit #X44263.
+MANUFACTURER   Central California Blood Bank, Fresno, California.
+RECALLED BY    Manufacturer, by telephone February 25, 1991, followed by
+               letter.  Firm-initiated recall ongoing.
+DISTRIBUTION   California.
+QUANTITY       1 unit.
+REASON         Blood product which tested repeatedly reactive for the
+               hepatitis B surface antigen (HBsAg), and initially reactive
+               to hepatitis B core antigen (anti-HBc), with no repeat
+               testing, was distributed.
+
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-030-4.
+CODE           Unit 20G96737.
+
+                                    -5-MANUFACTURER   American Red Cross, Boise, Idaho.
+RECALLED BY    Manufacturer, by letter December 21, 1990.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   California.
+QUANTITY       1 unit.
+REASON         Red Blood Cells, collected from a donor who traveled to an
+               endemic area for malaria less than three months prior to
+               donation, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Recovered Plasma. 
+               Recall #B-040/042-4.
+CODE           Unit numbers:  (a) 53KL22382, 53KT29582; (b) 53F73602; (c)
+               53KL22382, 53KT29582.
+MANUFACTURER   The American Red Cross Blood Services, Baltimore, Maryland.
+RECALLED BY    Manufacturer, by letters of October 29, 1992, November 4 and
+               18, 1992, and March 18, 1993, and by telephone March 2,
+               1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Washington, D.C., Maryland, California, Switzerland.
+QUANTITY       (a) 2 units; (b) 1 unit; (c) 2 units.
+REASON         Blood products, which either tested non-reactive for the
+               antibody to the human immunodeficiency virus type 1 (anti-
+               HIV-1), but were collected from a donor who previously
+               tested repeatedly reactive for anti-HIV-1; or contained
+               alloantibodies, but were labeled as negative for unexpected
+               antibodies, were distributed.
+
+_______________
+PRODUCT        Vironostika HIV-1 Microelisa System Test Kits, used in the
+               quantitative determination of antibody to HIV-1 in human
+               serum.  Recall #B-043-4.
+CODE           Lot numbers 120584 and 141571.
+MANUFACTURER   Organon Teknika Corporation, Durham, North Carolina.
+RECALLED BY    Manufacturer, by telephone and by letters dated June 24,
+               1993.  Firm-initiated recall complete.
+DISTRIBUTION   Nationwide, Canada, The Netherlands.
+QUANTITY       670 kits were distributed.
+REASON         Antibody to human immunodeficiency virus type 1 (anti-HIV-1)
+               test kits, containing wash concentrate incorrectly labeled
+               as diluent concentrate, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma.
+               Recall #B-045/046-4.
+CODE           (a) 4129775, 4130538, 4131569, 4132113, 4132622, 4133133,
+               4133675, 4134154, 4134711; (b) 4129775, 4130538, 4131052,
+               4131569, 4132113, 4132622, 4133133, 4133675, 4134154,
+               4134711.
+MANUFACTURER   Central Florida Blood Bank, Inc., Orlando, Florida.
+RECALLED BY    Manufacturer, by letter August 10, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Florida, Massachusetts, Alabama.
+
+                                    -6-QUANTITY       (a) 9 units; (b) 10 units.
+REASON         Blood products, which tested negative for the antibody to
+               the human immunodeficiency virus type 1 (anti-HIV-1), but
+               were collected from a donor who previously tested repeatedly
+               reactive for anti-HIV-1, were distributed.
+
+_______________
+PRODUCT        Recovered Plasma.  Recall #B-047-4.
+CODE           Unit numbers:  0002548, 0004188, 0006095.
+MANUFACTURER   Community Blood Center, Naples, Florida.
+RECALLED BY    Manufacturer, by letters of March 2, 1993, and April 2,
+               1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Florida, California, New Jersey.
+QUANTITY       3 units.
+REASON         Blood products, which tested negative for the antibody to
+               the human immunodeficiency virus type 1 (anti-HIV-1), but
+               were collected from a donor who previously tested repeatedly
+               reactive for anti-HIV-1, were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Platelets.  Recall #B-048/049-4.
+CODE           Unit numbers:  (a) 04H92258; (b) 04H92258.
+MANUFACTURER   The American National Red Cross, Dedham, Massachusetts.
+RECALLED BY    Manufacturer, by telephone July 23, 1991, followed by letter
+               dated August 14, 1991.  Firm-initiated recall complete.
+DISTRIBUTION   Massachusetts.
+QUANTITY       1 unit of each component.
+REASON         Blood products, that tested initially reactive for syphilis
+               and were not retested in accordance with the manufacturer's
+               test kit instructions, were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS -- CLASS III
+====================
+_______________
+PRODUCT        Red Blood Cells.  Recall #B-014-4.
+CODE           Unit numbers: 2223814 and 1159314.
+MANUFACTURER   Inland Northwest Blood Center, Spokane, Washington.
+RECALLED BY    Manufacturer, by letters between February 21, 1992 through
+               March 1993.  Firm-initiated recall complete.
+DISTRIBUTION   Idaho, Washington state.
+QUANTITY       2 units.
+REASON         Blood products which tested improperly for HBsAg; or were
+               labeled with the incorrect expiration dates were
+               distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma.
+               Recall #B-026/027-4.
+CODE           Unit #CF0104306.
+MANUFACTURER   Cape Fear Valley Medical Center, Fayetteville, North
+               Carolina.
+
+                                    -7-RECALLED BY    Manufacturer, by letter and telephone August 10, 1993. 
+               Firm-initiated recall complete.
+DISTRIBUTION   North Carolina, Florida.
+QUANTITY       1 unit of each component.
+REASON         Blood products, which were not tested for Hepatitis B
+               surface antigen (HBsAg), and the antibodies to the human
+               immunodeficiency virus type 1/2 (anti-HIV-1/2) and human T-
+               lymphotropic virus type I (anti-HTLV-I), were distributed.
+
+_______________
+PRODUCT        (a) Red Blood Cells; (b) Fresh Frozen Plasma; (c) Recovered
+               Plasma.  Recall #B-037/039-4.
+CODE           Unit numbers:  (a) 36LP01166, 36LP01170, 36LP01171,
+               36LP01172, 36LP01173, 36LP01174, 36LP01175, 36LP01176,
+               36LP01177, 36LP01178, 36LP01179, 36LP01180, 36LP01181,
+               36LP01182, 36LP01183, 36LP01185, 36LP01186, 36LP01187,
+               36LP01188, 36LP01189, 36LP01190, 36LP01191, 36LP01193,
+               36LP01194, 36LP01195, 36LP01196, 36LP01197, 36LP01198,
+               36LP01199; (b) 36LP01178, 36LP01179, 36LP01185, 36LP01187;
+               (c) 36LP01171, 36LP01172, 36LP01173, 36LP01197.
+MANUFACTURER   American Red Cross Blood Services, Columbia, South Carolina.
+RECALLED BY    Manufacturer, by letter May 17, 1993.  Firm-initiated recall
+               complete.
+DISTRIBUTION   South Carolina, Georgia.
+QUANTITY       (a) 29 units; (b) 4 units; (c) 4 units.
+REASON         Blood products, collected from donors who received monetary
+               payment for donating, were mislabeled as volunteer donations
+               and distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS II
+=======================
+_______________
+PRODUCT        Laerdal Silicone Resuscitators:
+               (a) Laerdal Silicone Resuscitators, Catalog numbers: 
+               850000, 850001, 850005, 850016, 860000, 860001, 860003,
+               860005, 870000, 870001, 870005, 870016; 
+               (b) Non-rebreathing Valve Assemblies and individual Lip
+               Membranes, Catalog Numbers 851200, 560200, 540103.
+               Recall #Z-768/769-3.
+CODE           Lot numbers:  1293, 1393, 1593, 1793, 1893, 1993, 2193,
+               2393.
+MANUFACTURER   Laerdal Medical Corporation, Armonk, New York
+RECALLED BY    Manufacturer, by telephone and by letter on June 30, 1993. 
+               Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       2,749 units.
+REASON         Some lip membranes in the silicone resuscitators may
+               partially collapse resulting in partial blockage of the
+               expiratory gas pathway.
+
+                                    -8-_______________
+PRODUCT        Sechrist Model 2200B Ventilator.  Recall #Z-060-4.
+CODE           Serial numbers:  91596 to 91655, 91657 to 91745, 91760 and
+               91762.
+MANUFACTURER   Sechrist Industries, Anaheim, California.
+RECALLED BY    Manufacturer, by letters from April 7, 1993 through April
+               27, 1993.  Firm-initiated recall ongoing.
+DISTRIBUTION   Puerto Rico, Texas, New Jersey, Florida, California and
+               international.
+QUANTITY       151 units.
+REASON         A software problem can cause a serious error in the tidal
+               volume delivered to the patient.
+
+_______________
+PRODUCT        Nucletron MicroSelectron-HDR and MicroSelectron-PDR System,
+               used in the treatment of radiation therapy.  
+               Recall #Z-085/086-4.
+CODE           All lots.
+MANUFACTURER   Nucletron B.V., Waardgelder 1, The Netherlands.
+RECALLED BY    Nucletron Corporation, Columbia, Maryland, by technical
+               notes on October 5, 1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       242 high dose rate units.
+REASON         There is a safety feature that checks for the presence of a
+               applicator using a photo-detector that has been known to
+               fail.  If this failure mode occurs and the catheter or
+               applicator is incorrectly placed in a channel other than the
+               one for which it is programmed, the machine may send out the
+               cable or source, resulting in misadministration of dosage to
+               the patient.
+
+_______________
+PRODUCT        Gamma Nail Instrument, K-Wire 3.2 mm x 450 mm, used in the
+               treatment of unstable proximal femoral fractures.
+               Recall #Z-087-4.
+CODE           Reference 1210-6450.
+MANUFACTURER   Howmedica GMbH, Germany.
+RECALLED BY    Howmedica, Division of Pfizer Hospital Products Group, Inc.,
+               Rutherford, New Jersey, by telephone July 16, 1992.  Firm-
+               initiated recall complete.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       201 units.
+REASON         The package is labeled as Cat 3371-1-0600, size 3.2 mm x 450
+               mm in length, but some packages contain a guide wire that is
+               440 mm in length.
+
+_______________
+PRODUCT        Inflatable penile prosthesis preparation packages:
+               (a) American Medical Systems Inflatable Penile Prosthesis 
+               Package (Needles/Tubing), Product No. 72400001;
+
+                                    -9-               (b) American Medical Systems Sphincter 800 Urinary
+               Prosthesis Preparation Package (Needles/Tubing/Cuff Sizer),
+               Product No. 72400002;
+               (c) American Medical Systems Malleable 600 Penile
+               Prosthesis, 20 cm, Product No. 72400142;
+               (d) American Medical Systems Ultrex 100ml Reservoir, Product
+               No. 72401130;
+               (e) American Medical Systems Sphincter 800 Securo-T Urinary
+               Prosthesis (Artificial Sphincter), Product No. 72401811.
+               Recall #Z-089/093-4. 
+CODE           Lot numbers
+               (a)  6919P    7112P    7113P    7114P
+                    7115P    7116P    7117P    7118P
+                    7452P    7453P    7773P    7774P
+                    7775P    8959P    7776P    7454P
+                    7455P    7456P    7458P    8480P
+                    8481P    8482P    8483P    8960P
+                    8961P    8962P    9729P    9728P
+                    9730P    0088Q    9727P    0091Q
+                    0089Q    0090Q    0276Q    7457P
+                    0594Q    0277Q    0278Q    0279Q
+                    0593Q    0595Q    0596Q    0597Q
+                    0731Q    0559Q    0598Q    0726Q
+                    0727Q    0728Q    0725Q    0729Q
+                    0870Q    0871Q    0875Q    0869Q
+                    1001Q    0114Q    1005Q    0730Q
+                    0872Q    1002Q    1003Q    1006Q
+                    1007Q    0873Q    0874Q    1117Q
+                    1118Q    1119Q    1120Q    1121Q
+                    1122Q    1123Q    1465Q    1466Q
+                    1643Q    1467Q    1468Q    1642Q
+                    1769Q    1771Q    1772Q    1967Q
+                    1770Q    1968Q    1969Q    1970Q
+                    1971Q    2165Q    2169Q    1768Q
+                    2166Q    2167Q    2168Q    2425Q
+                    2426Q    2427Q    2429Q    2572Q
+                    4506Q    2568Q    2570Q    2170Q
+                    2428Q    2569Q    2571Q    2573Q
+                    2430Q    2659Q    2661Q    2662Q
+                    2663Q    2664Q    2743Q    2745Q
+                    2918Q    2920Q    2660Q    2742Q
+                    2744Q    2746Q    2919Q    4505Q
+                    2921Q    2922Q    3031Q    3032Q
+                    3033Q    3034Q    3035Q    3132Q
+                    3130Q    3131Q    3172Q    3174Q
+                    3175Q    3334Q    0038T    3173Q
+                    3176Q    3338Q    0035T    0036T
+                    0037T    0115T    0116T    0117T
+                    3335Q    3337Q    0039T    3336Q
+                    0134T    0135T    0358T    0401T
+                    0404T    0133T    0359T    0360T
+                    0361T    0402T    0403T    0556T
+
+                                   -10-                    0558T    0555T    0557T    0768T
+                    0771T    0769T    0948T    0770T
+                    0945T    0946T    0947T    4605T
+                    1123T    1126T    1122T    1124T
+                    1125T    1275T    1273T    1274T
+                    1305T    1306T    1307T    1646T
+                    1645T    1644T    2216T    2217T
+                    2218T    2219T    2644T    2645T
+                    2646T    2647T    2737T    2739T
+                    2743T
+               (b)  8484P    8485P    8963P    8964P
+                    9553P    9554P    9732P    9733P
+                    0280Q    0600Q    0601Q    0092Q
+                    0093Q    0281Q    0733Q    0877Q
+                    0732Q    0876Q    1008Q    1009Q
+                    1124Q    1125Q    1470Q    1471Q
+                    1645Q    1646Q    1647Q    1773Q
+                    1774Q    1775Q    1972Q    1974Q
+                    1973Q    2172Q    2171Q    2431Q
+                    2432Q    2574Q    2665Q    2575Q
+                    2666Q    2747Q    2748Q    2923Q
+                    2924Q    3036Q    2027Q    3133Q
+                    3343Q    3177Q    3339Q    0041T
+                    3178Q    3340Q    0040T    0018T
+                    0137T    0406T    0363T    0362T
+                    0136T    0405T    0559T    0560T
+                    0772T    0773T    0949T    0950T
+                    1127T    4613T    1128T    1276T
+                    1277T    1308T    1309T    1648T
+                    1647T    1805T    1506T    2659T
+                    2658T    2660T    2661T    2662T
+                    2745T    2746T    2748T    2751T
+                    2907T    2747T    2750T    2752T
+                    2904T    2749T    2903T    2905T
+                    2906T    3115T    3116T    3117T
+                    3119T    4750R    3134T    4754R
+               (c)  2438Q    2778Q    1137T    1642T
+                    2582Q    3137Q    1280T    1643T
+                    2178Q    0565T    1281T    1811T
+                    4526R    0566T    4610R    1967T
+                    2439Q    0954T    1312T    1968T
+                    2671Q    0955T    1313T    2476T
+                    2672Q    1136T
+               (d)  4148R    7952P    7547P    7549P
+                    7550P    9094P    8627P    8628P
+                    8707P    8708P    9093P    9095P
+                    9566P    9567P    9568P    9569P
+                    9570P    9571P    9792P    9793P
+                    9794P    9795P    9933P    9934P
+                    9935P    9936P    9937P    9938P
+                    9939P    0179Q    0180Q    0181Q
+                    0182Q    0392Q    0393Q    0394Q
+
+                                   -11-                    0391Q    0657Q    0658Q    0659Q
+                    0660Q    0777Q    0779Q    0776Q
+                    0778Q    0962Q    0963Q    0964Q
+                    0965Q    1167Q    1168Q    1169Q
+                    1170Q    1377Q    1378Q    1379Q
+                    1380Q    1381Q    1492Q    1494Q
+                    1495Q    1490Q    1493Q    1679Q
+                    1682Q    1684Q    1680Q    1681Q
+                    1901Q    1902Q    2495Q    1896Q
+                    1900Q    1903Q    1904Q    2089Q
+                    2090Q    2091Q    2092Q    2093Q
+                    2094Q    2496Q    2497Q    2498Q
+                    2499Q    2500Q    2501Q    2320Q
+                    2322Q    2323Q    2324Q    2325Q
+                    2326Q    2327Q    2328Q    2329Q
+                    2631Q    2632Q    2634Q    2636Q
+                    2637Q    2731Q    2633Q    2635Q
+                    2727Q    2730Q    2725Q    2726Q
+                    2728Q    2729Q    2850Q    2851Q
+                    2852Q    2853Q    2854Q    2849Q
+                    3011Q    3016Q    3012Q    3014Q
+                    3013Q    3015Q    3018Q    3019Q
+                    3017Q    3020Q    3022Q    3021Q
+                    2321Q    3364Q    3368Q    3363Q
+                    3367Q    3432Q    3365Q    3366Q
+                    3435Q    4546R    0282T    0283T
+                    3431Q    3433Q    3434Q    3436Q
+                    0483T    0485T    0484T    0616T
+                    0617T    0718T    0720T    0719T
+                    0941T    0940T    0942T    1118T
+                    1117T    1119T    1246T    1247T
+                    1505T    1506T    1507T    1630T
+                    1631T    1632T    1795T    1796T
+                    1797T    1910T    1911T    1912T
+                    2023T    2024T    2269T    2022T
+                    2265T    2267T    2268T    2266T
+                    2395T    2397T    2398T    2619T
+                    2620T
+               (e)  3044T    3045T    3043T    3165T    3302T.
+MANUFACTURER   American Medical Systems, Pfizer Hospital Products Group,
+               Minnetonka, Minnesota.
+RECALLED BY    Manufacturer, by letter July 28, 1993.  Firm-initiated
+               recall ongoing
+DISTRIBUTION   Nationwide and international.
+QUANTITY       (a) 9,848 units; (b) 3,896 units; (c) 353 units; (d) 1,965
+               units; (e) 90 units.
+REASON         The Tyvek lids of the sterile packaging of some of the
+               product units separated from the plastic trays of the
+               sterile packaging, therefore rendering the devices
+               unsterile.
+
+                                   -12-RECALLS AND FIELD CORRECTIONS:  DEVICES -- CLASS III
+======================
+_______________
+PRODUCT        Hoffman Mini-Swivel Clamps for external fixation of distal
+               radius fractures:
+               (a) Catalog #5079-1-110; (b) Catalog #5079-1-120.
+               Recall #Z-013/014-4.
+CODE           None.
+MANUFACTURER   Jaquet Orthopedie SA, Geneva, Switzerland.
+RECALLED BY    Howmedica Division, Pfizer Hospital, Product Group Inc.,
+               Rutherford, New Jersey, by letter November 25, 1992.  Firm-
+               initiated recall ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 93 units; (b) 268 units were distributed; firm estimates
+               (a) 75 units; (b) 200 units remain on the market.
+REASON         The clamps fail to tighten sufficiently causing the external
+               fixation frame to be unstable.
+
+_______________
+PRODUCT        Micro Ventricular Bolt Pressure Monitoring Kit Model 1109-
+               4HM, used to provide a means of access to the cerebral
+               ventricles for CSF sampling and drainage, fluid injection
+               and intracranial pressure monitoring.  Recall #Z-059-4.
+CODE           Sterilization lot numbers:  D2004, E2004, E2005, F2002,
+               F2003, C3002, G2001-G2004, H2001, H2004, I2001-I2004, J2001-
+               J2005, K2001-K2004, L2001-L2004, A3001, A3002, B3001.
+MANUFACTURER   Camino Laboratories, Inc., San Diego, California.
+RECALLED BY    Manufacturer, by letter April 23, 1993.  Firm-initiated
+               recall ongoing.
+DISTRIBUTION   Nationwide, Denmark, Great Britain, Holland, Canada, Spain,
+               New Zealand, Germany.
+QUANTITY       3,377 units.
+REASON         The package is labeled for Model 110-4HM, while the stylets
+               in the package are for Model 110-4H, which are too short to
+               hold the introducer rigid for proper access to the
+               ventricles.
+
+_______________
+UPDATE         Ortho brand, Round Bottom , MRC-5 Human Embryonic Lung,
+               (Diploid) Cell Culture Tubes, which appeared in the November
+               10, 1993 Enforcement Report should read Product #505050, lot
+               #063050 EXP 6/29/93.
+
+MASS SEIZURE:
+=============================================================
+_______________
+PRODUCT        Basmati rice, lentils, mung beans, spices, and all other
+               food products in insect susceptible containers 
+               (94-710-287, et al.).
+CHARGE         Adulterated - The articles have been held under insanitary
+               conditions whereby they may have become contaminated with
+               filth.
+FIRM           House of Spices, Inc., Elk Grove Village, Illinois.
+
+                                   -13-FILED          October 22, 1993; U.S. District Court for the Northern
+               District of Illinois; Civ. #93C 6467; FDC #66799.
+SEIZED         October 25, 1993 - goods valued at approximately $250,000.
+
+
+SEIZURES:
+================================================================
+_______________
+PRODUCT        Raw and roasted chickpeas, tamarind concentrate, and basmati
+               rice (93-709-874, et al.).
+CHARGES        Adulterated - The tamarind concentrate contains insects,
+               insect fragments, mites, and feather barbules; and, the raw
+               chickpeas, roasted chickpeas and basmati rice have been held
+               under insanitary conditions whereby they may have become
+               contaminated with filth.
+FIRM           International Golden Foods, Inc., Niles, Illinois.
+FILED          October 22, 1993; U.S. District Court for the Northern
+               District of Illinois, Civ. #93-C-6465; FDC #66795.          
+SEIZED         November 4, 1993 - goods valued at approximately $3,700.
+
+_______________
+PRODUCT        Latex surgical and examination gloves (93-610-624/9).
+CHARGE         Adulterated - The methods used in, and the facilities and
+               controls used for, the articles' manufacture, packing, and
+               storage are not in conformity with current good
+               manufacturing practice regulations.
+FIRM           American Pro Latex, Inc., Monmouth, Illinois.
+FILED          October 4, 1993; U.S. District Court for the Central
+               District of Illinois; Civ. #93-4085; FDC #66766.
+SEIZED         October 26, 1993 - goods valued at approximately
+               $30,000.
+
+                                   -14-
+
+
+END OF ENFORCEMENT REPORT FOR NOVEMBER 17, 1993.  BLANK PAGES MAY
+FOLLOW.
+                                   ####
+.EX
+.S
+.END

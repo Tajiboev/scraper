@@ -1,0 +1,851 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  SEP
+		  Aug
+		
+		
+		
+		  
+		  26
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      29 captures
+	      25 Feb 1997 - 19 Jan 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dm
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+06/25/1991     
+
+FDA Enforcement for the week of June 26, 1991 
+
+
+
+                            FDA ENFORCEMENT REPORT
+                               FOR JUNE 26, 1991
+
+                                                             June 26, 1991
+Recalls and Field Corrections:
+
+                                     FOODS
+
+                  Class I - A situation in which there is a reasonable
+                  probability that the use of, or exposure to, a violative
+                  Product will cause serious adverse health consequences or 
+                  death.
+
+                                     NONE 
+
+                  Class II - A situation in which the use of, or exposure to
+                  a violative product may cause temporary or medically
+                  reversible adverse health consequences or where the 
+                  probability of serious adverse health consequences is 
+                  remote. 
+
+                                     NONE 
+
+                  Class III - A situation in which the use of, or exposure
+                  to a violative product is not likely to cause adverse 
+                  health consequences.
+
+                                     NONE 
+
+
+                                      -1- 
+
+
+
+
+
+
+                                   COSMETICS
+
+                                     NONE 
+
+                           HUMAN DRUGS AND BIOLOGICS
+
+                  Class I - 
+                                     NONE 
+                  Class II -
+
+Product:          Ultra-Technekow FM Technetium TC99M Generator, an Rx
+                  product used as a radiopharmaceutical product.
+                  Recall #D-444-1.
+Code:             Lot #107-1017.
+Manufacturer:     Mallinckrodt Medical, Inc., Maryland Heights, Missouri. 
+Recalled by:      Manufacturer, by letter April 29, 1991.  Firm-initiated 
+                  field correction ongoing. 
+Distribution:     Ohio, Michigan, Minnesota, Illinois.
+Quantity:         4 mislabeled units were distributed.
+Reason:           Product is mislabeled in that four generators were
+                  labeled with lot number 107-1017M and a calibration 
+                  date of April 29, 1991.  The correct labeling is
+                  lot 107-1017T and a calibration date of May 2, 1991.  The 
+                  generators contain approximately twice the labeled activity.
+
+                                     ---- 
+
+Product:          Wyeth Wydase (Hyaluronidase) Lyophilized, 150 USP (TR)
+                  units, an Rx drug indicated as an adjuvant to increase
+                  the absorption and dispersion of other drugs upon 
+                  injection.  The Lyophilized powder is reconstituted with
+                  USP Saline.  Recall #D-445-1. 
+Code:             All lots. 
+Manufacturer:     Wyeth-Ayerst Laboratories Inc., Radnor, Pennsylvania. 
+Recalled by:      Manufacturer, by letter May 9, 1991.  Firm-initiated
+                  field correction ongoing. 
+Distribution:     Nationwide, Puerto Rico.
+Quantity:         Approximately 88,000 vials were distributed.
+Reason:           Loss of potency observed beyond 24 hours after
+                  reconstitution. 
+
+                                     ---- 
+
+Product:          Chlorpropamide Tablets, USP, (a) 100 mg; (b) 250 mg; an 
+                  Rx hypoglycemic, packaged in 100, 250, 500 and 1,000 count
+                  bottles and have a two year expiration date under the 
+                  following labels: Best, Bioline, Dixons (250 mg only),
+                  Duramed, Genetco, Goldline, Mason, Moore, Parmed, 
+                  Qualitest, Rugby.  Recall #D-446/447-1. 
+Code:             All lots. 
+
+                                      -2- 
+
+
+
+
+
+Manufacturer:     Duramed Pharmaceuticals, Inc., Cincinnati, Ohio.
+Recalled by:      Manufacturer, by letter May 17, 1991.  Firm-
+                  initiated recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         Approximately (a) 7,400,000 tablets; (b) 59,520,000 
+                  tablets were distributed. 
+Reason:           The products were not manufactured in accordance with 
+                  Abbreviated New Drug Application specifications.
+
+                                     ---- 
+
+Product:          Diazepam Tablets, USP (a) 2 mg; (b) 5 mg; (c) 10 mg,
+                  packaged in 100, 500 and 1,000 tablet bottles,
+                  an Rx drug indicated for the management of anxiety
+                  disorders, under the Duramed, Genetco and URL 
+                  labels.  Recall #D-448/450-1. 
+Code:             All lots. 
+Manufacturer:     Duramed Pharmaceuticals, Inc., Cincinnati, Ohio.
+Recalled by:      Manufacturer, by letter dated May 17, 1991. 
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide. 
+Quantity:         Approximately (a) 9,400,000 tablets; (b) 28,800,000 
+                  tablets; (c) 11,520,000 tablets were distributed. 
+Reason:           The products were not manufactured in accordance with 
+                  Abbreviated New Drug Application specifications.
+
+                                     ---- 
+
+Product:          Cyproheptadine HCl USP, 4 mg, packaged in 100, 500, 
+                  and 1,000 tablet bottles, an Rx antihistaminic, under the 
+                  following labels: Best, Duramed, Genetco, Geneva, Generics, 
+                  Harber, Parmed, Purepac, Qualitest, Schein.  Recall #D-451-1. 
+Code:             All lots. 
+Manufacturer:     Duramed Pharmaceuticals, Inc., Cincinnati, Ohio.
+Recalled by:      Manufacturer, by letter dated May 1, 1991.
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide. 
+Quantity:         Approximately 24,030,000 tablets were distributed.
+Reason:           The product was not manufactured in accordance with 
+                  Abbreviated New Drug application specifications.
+
+                                     ---- 
+
+Product:          Prochlorperazine Maleate Tablets, USP (a) 5 mg; 
+                  (b) 10 mg, packaged in 100 and 1,000 tablet bottles,
+                  an Rx drug used to treat psychotic disorders under the
+                  following labels: Aligen, Best, Bioline, Duramed, 
+                  Genetco, Geneva, Goldline, Mayor, Moore, Parmed,
+                  Qualitest, Rugby, Schein and URL.  Recall #D-453/454-1. 
+Code:             All lots. 
+
+                                      -3- 
+
+
+
+
+
+Manufacturer:     Duramed Pharmaceuticals, Inc., Cincinnati, Ohio.
+Recalled by:      Manufacturer, by letter dated May 17, 1991. 
+                  Firm-initiated recall ongoing.
+Distribution:     Nationwide. 
+Quantity:         Approximately (a) 15,242,500 tablets; (b) 18,200,000 tablets
+                  were distributed. 
+Reason:           Lack of assurance of bioequivalency.
+
+                                     ---- 
+
+Product:          Prednisone Tablets, USP, (a) 5 mg; (b) 10 mg; 
+                  (c) 20 mg, packaged in 100, 500 and 1000 tablet bottles,
+                  an Rx drug indicated for the treatment of several 
+                  conditions including endocrine and rheumatic disorders, 
+                  under the following labels, Best, Bioline, Dixons 
+                  (5 mg only), Duramed, Genetco, Goldline, Major, Mason,
+                  Mayrand, Moore, Parmed, and Qualitest.  Recall #D-455/457-1.
+Code:             All lots. 
+Manufacturer:     Duramed Pharmaceuticals, Inc., Cincinnati, Ohio.
+Recalled by:      Manufacturer, by letter dated May 17, 1991.  Firm-
+                  initiated recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         Approximately (a) 93,930,000 tablets; (b) 36,270,00 
+                  tablets; (c) 13,020,000 tablets were distributed. 
+Reason:           The products were not manufactured in accordance with 
+                  Abbreviated New Drug Application specifications.
+
+                                     ---- 
+
+Product:          Temazepam Capsules USP, (a) 15 mg; (b) 30 mg, in
+                  30, 100, 500 and 1,000 capsule bottles, an Rx 
+                  drug used for the relief of insomnia, under the 
+                  following labels:  Aligen, Duramed, Rugby, Schein, and
+                  URL.  Recall #D-458/459-1.
+Code:             All lots. 
+Manufacturer:     Duramed Pharmaceuticals, Inc., Cincinnati, Ohio.
+Recalled by:      Manufacturer, by letter dated May 17, 1991.  Firm-
+                  initiated recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         Approximately (a) 7,905,000 capsules; (b) 7,360,000 
+                  capsules were distributed.
+Reason:           The products were not manufactured in accordance with 
+                  Abbreviated New Drug Application specifications.
+
+                                     ---- 
+
+Product:          Phentermine HCl Capsules, USP, 30 mg, in 100, 1,000 
+                  capsule bottles, an Rx drug used in weight reduction, 
+                  under the following labels, Aligen, Duramed, Glenlawn,
+                  Mason, Schein, and URL.  Recall #D-460-1. 
+Code:             All lots. 
+
+                                      -4- 
+
+
+
+
+
+Manufacturer:     Duramed Pharmaceuticals, Inc., Cincinnati, Ohio.
+Recalled by:      Manufacturer, by letter dated May 17, 1991.  Firm-
+                  initiated recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         Approximately 9,765,000  capsules were distributed. 
+Reason:           The product was not manufactured in accordance with 
+                  Abbreviated New Drug Application specifications.
+
+                                     ---- 
+
+Product:          Propranolol HCl Tablets, (a) 10 mg; (b) 20 mg;
+                  (c) 40 mg; (d) 60 mg; (e) 80 mg; (f) 90 mg, 
+                  in 100, 120, 200, 500, 1,000 and 5,000 tablet 
+                  bottles, an Rx drug used for the management of
+                  hypertension, angina pectoris due to coronary 
+                  atherosclerosis, and cardiac arrhythmias, under the 
+                  following labels:  Best, Bioline, Dixons, Duramed,
+                  Genetco, Glenlawn, Goldline, Harber, Kaiser Foundation, 
+                  Mason, Moore, Parmed, Qualitest, and Rugby. 
+                  Recall #D-461/466-1.
+Code:             All lots. 
+Manufacturer:     Duramed Pharmaceuticals, Inc., Cincinnati, Ohio.
+Recalled by:      Manufacturer, by letter dated May 17, 1991.  Firm-
+                  initiated recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         Approximately (a) 96,600,000; (b) 114,400,000 tablets;
+                  (c) 148,800,000 tablets; (d) 2,700,000 tablets; 
+                  (e) 27,900,000 tablets; (f) 232,500 tablets were
+                  distributed.
+Reason:           The products were not manufactured in accordance with 
+                  Abbreviated New Drug Application specifications.
+
+                                     ---- 
+
+Product:          Methyldopa Tablets, USP, (a) 250 mg; (b) 500 mg,
+                  in 100, 500, and 1000 tablet bottles, an Rx drug
+                  used to treat hypertension, under the following 
+                  labels:  Bioline, Duramed, Genetco, Glenlawn, Goldline, 
+                  Mason, Parmed, Qualitest, and Rugby.  Recall #D-467/468-1.
+Code:             All lots. 
+Manufacturer:     Duramed Pharmaceuticals, Inc., Cincinnati, Ohio.
+Recalled by:      Manufacturer, by letter dated May 17, 1991.  Firm-
+                  initiated recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         Approximately (a) 52,440,000 tablets; (b) 14,720,000
+                  tablets were distributed. 
+Reason:           The products were not manufactured in accordance with 
+                  Abbreviated New Drug Application specifications.
+
+                                     ---- 
+
+                                      -5- 
+
+
+
+
+
+Product:          Haloperidol Tablets, USP, (a) 0.5 mg; (b) 1 mg; 
+                  (c) 2 mg; (d) 5 mg; (e) 10 mg; (f) 20 mg, in 100, 250,
+                  500 and 1,000 tablet bottles, an Rx drug for use in the 
+                  management of manifestations of psychotic disorders,
+                  under the following labels: Aligen, Best, Bioline, Duramed, 
+                  Genetco, Goldline, Major, Mason, Moore, Parmed, Qualitest,
+                  Rugby, Schein, and URL.  Recall #D-469/474-1. 
+Code:             All lots. 
+Manufacturer:     Duramed Pharmaceuticals, Inc., Cincinnati, Ohio.
+Recalled by:      Manufacturer, by letter dated May 17, 1991.  Firm-
+                  initiated recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         Approximately (a) 6,300,000 tablets; (b) 8,010,000 tablets; 
+                  (c) 7,120,000 tablets; (d) 9,300,000 tablets; 
+                  (e) 11,440,000 tablets; (f) 4,500,000 tablets were
+                  distributed.
+Reason:           The products were not manufactured in accordance with 
+                  Abbreviated New Drug Application specifications.
+
+                                     ---- 
+
+Product:          Indomethacin Capsules, USP, 25 mg, in 100 and 1,000 
+                  capsule bottles, an Rx drug used for rheumatoid arthritis,
+                  under the following labels: Duramed, Genetco, Glenlawn, 
+                  Parmed, and Qualitest.  Recall #D-475-1.
+Code:             All lots. 
+Manufacturer:     Duramed Pharmaceuticals, Inc., Cincinnati, Ohio.
+Recalled by:      Manufacturer, by letter dated May 17, 1991.  Firm-
+                  initiated recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         Approximately 6,900,000 capsules were distributed.
+Reason:           The product was not manufactured in accordance with 
+                  Abbreviated New Drug Application specifications.
+
+                                     ---- 
+
+Product:          Isoniazid Tablets, USP, (a) 100 mg; (b) 300 mg, in 30,
+                  100, 1,000 and 5,000 tablet bottles, an Rx drug used for
+                  the treatment of tuberculosis in.under the following
+                  labels:  Aligen, Duramed, Rugby, and URL. 
+                  Recall #D-476/477-1.
+Code:             All lots. 
+Manufacturer:     Duramed Pharmaceuticals, Inc., Cincinnati, Ohio.
+Recalled by:      Manufacturer, by letter Mary 17, 1991.  Firm-inititated 
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         Approximately (a) 108,810,000 tablets; (b) 21,375,000 
+                  tablets were distributed. 
+Reason:           The products were not manufactured in accordance with 
+                  Abbreviated New Drug Application specifications.
+
+                                     ---- 
+
+
+                                      -6- 
+
+
+
+
+
+Product:          Tolazamide Tablets, USP, (a) 100 mg; (b) 250 mg;
+                  (c) 500 mg, in 100, 200, 500 and 1,000 tablet bottles,
+                  an Rx hypoglycemic drug, under the following labels:
+                  Duramed, Genetco, Major, Parmed and Qualitest.
+                  Recall #D-478/480-1.
+Code:             All lots. 
+Manufacturer:     Duramed Pharmaceuticals, Inc., Cincinnati, Ohio.
+Recalled by:      Manufacturer, by letter May 17, 1991.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Nationwide. 
+Quantity:         Approximately (a) 1,320,000 tablets; (b) 5,400,000 tablets; 
+                  (c) 1,500,000 tablets were distributed. 
+Reason:           The products were not manufactured in accordance with 
+                  Abbreviated New Drug Application specifications.
+
+                                     ---- 
+
+Product:          Recovered Plasma.  Recall #B-288-1. 
+Code:             Unit numbers:  1271041, 1276017, 1286981, 12900926, 1290918,
+                  1457985, 1460461, 1465285, 1465855, 1465863, 1465864, 
+                  1465881, 1465884, 1466318, 1466756, 1466764, 1469581, 
+                  1470066, 1470097, 1470102, 1470104, 1470120, 1470222, 
+                  1470224, 1470643, 1470645, 1470687, 1470695, 1471783, 
+                  1471856, 1471960, 1471965, 1471967, 1472093, 1472097, 
+                  1472168  1472616  1476060.
+Manufacturer:     Greater New York Blood Program, doing business as 
+                  Long Island Blood Services, Melville, New York. 
+Recalled by:      Manufacturer, by telephone September 25 and 26, 1990, 
+                  followed by letter September 26 and 28, 1990. 
+                  Firm-initiated recall complete. 
+Distribution:     New York. 
+Quantity:         38 units
+Reason:           Recovered Plasma, incorrectly labeled as Fresh Frozen 
+                  Plasma, was distributed.
+
+                                     ---- 
+
+Product:          (a) Red Blood Cells; (b) Fresh Frozen Plasma. 
+                  Recall #B-251/252-1.
+Code:             Unit #2212492.
+Manufacturer:     Edison Regional Blood Center, Fort Meyers, Florida. 
+Recalled by:      Manufacturer, by letter February 15, 1991.
+                  Firm-initiated recall complete. 
+Distribution:     Florida.
+Quantity:         1 unit. 
+Reason:           Blood components, which tested repeatably reactive
+                  for the antibody to hepatitis C virus encoded antigen 
+                  (anti-HCV), were distributed. 
+
+                                     ---- 
+
+Product:          (a) Platelets; (b) Recovered Plasma.  Recall #B-278/279-1.
+Code:             Unit numbers: (a) 7743266; (b) 0900509. 
+
+                                      -7- 
+
+
+
+
+
+Manufacturer:     North Jersey Blood Center, East Orange, New Jersey. 
+Recalled by:      (a) Consignee returned product to firm October 21, 1990;
+                  (b) Manufacturer, by telephone June 6, 1990.  Firm-initiated
+                  recall complete.
+Distribution:     New Jersey. 
+Quantity:         1 unit of each component. 
+Reason:           Blood products 1) were labeled with incorrect 
+                  expiration dates and released for transfusion or 2) 
+                  tested repeatably reactive for hepatitis B surface
+                  antigen (HBsAg) and were released for use in research.
+
+                                     ---- 
+
+Product:          (a) Red Blood Cells; (b) Platelets; (c) Cryoprecipitated
+                  AHF; (d) Recovered Plasma.  Recall #B-297/300-1.
+Code:             Unit numbers:  (a) 21H03892, 21M67082, 21S94265, 21S94318;
+                  (b) 21H03892, 21S94265, 21S94318; (c) 21M67082, 21S94265, 
+                  21S94318; (d) 21H03892, 21M67082, 21S94265, 21S94318. 
+Manufacturer:     American Red Cross Blood Services, Portland, Oregon.
+Recalled by:      Manufacturer, by letters dated March 14, 21, 22 and 28, 
+                  1991.  Firm-initiated recall ongoing. 
+Distribution:     Oregon, Washington state, Ohio, California, Switzerland.
+Quantity:         (a) 4 units; (b) 3 units; (c) 3 units; (d) 4 units. 
+Reason:           Blood products, which were inadequately tested for the
+                  antibody to the human immunodeficiency virus type 1 
+                  (anti-HIV-1) or hepatitis B surface antigen (HBsAg), were 
+                  distributed.
+
+                                     ---- 
+
+Product:          Red Blood Cells, Washed.  Recall #B-301-1.
+Code:             Unit #18E05212, 18S01009, 18Q04069. 
+Manufacturer:     American Red Cross Blood Services, Lansing, Michigan. 
+Recalled by:      Manufacturer, by telephone November 14, 1990.  Firm-
+                  initiated recall complete.
+Distribution:     Michigan. 
+Quantity:         3 units.
+Reason:           Blood products were distributed for transfusion labeled 
+                  with incorrect expiration dates.
+
+                                     ---- 
+
+Product:          Source Plasma.  Recall #B-303-1 
+Code:             Unit numbers:  69199332, 69307614, 69310171, 71936208,
+                  71936420, 71936185, 71937397. 
+Manufacturer:     Plasma-Tec, Ltd., Erie, Pennsylvania. 
+Recalled by:      The consignee discovered the error and destroyed units. 
+                  Firm-initiated recall complete. 
+Distribution:     California. 
+Quantity:         7 units.
+
+                                      -8- 
+
+
+
+
+
+Reason:           Blood products, which tested non-reactive for 
+                  hepatitis B surface antigen (HBsAg), but collected
+                  from donors who previously tested repeatably reactive 
+                  for HBsAg, were distributed.
+
+                                     ---- 
+
+Product:          (a) Red Blood Cells; (b) Fresh Frozen Plasma; 
+                  (c) Recovered Plasma.  Recall #B-304/306-1. 
+Code:             Unit numbers: (a) CB83711; (b) CB83711; (c) CB80007.
+Manufacturer:     Community Blood Bank of Southern New Jersey, Inc.,
+                  Cherry Hills, New Jersey. 
+Recalled by:      Manufacturer, (a) by telephone February 8, 1991 and 
+                  by letters of February 1, 2, 6, and 14, 1991. 
+                  Firm-initiated recall ongoing.
+Distribution:     New Jersey, Pennsylvania, New York. 
+Quantity:         1 unit of each component. 
+Reason:           Blood products, testing repeatably reactive for the 
+                  antibody to the human immunodeficiency virus type I 
+                  anti-HIV-1), were distributed.
+
+                                     ---- 
+
+Product:          Platelets, Pheresis.  Recall #B-318-1.
+Code:             Unit #50T08633. 
+Manufacturer:     American Red Cross Blood Services, Toledo, Ohio.
+Recalled by:      Manufacturer, by telephone September 5, 1990. 
+                  Firm-initiated recall complete. 
+Distribution:     Ohio. 
+Quantity:         1 unit. 
+Reason:           Blood products labeled with incorrect expiration date,
+                  were distributed. 
+
+                                     ---- 
+
+                  Class III - 
+
+Product:          Phenazopyridine HCl Tablets USP, 200 mg, in bottles 
+                  of 100, an Rx urinary analgesic, under the Abel and Bioline 
+                  labels.  Recall #D-452-1. 
+Code:             Lot #012015 *L EXP 12/92 (Able); 012015 *K (Bioline). 
+Manufacturer:     Able Laboratories, Inc., South Plainfield, New Jersey.
+Recalled by:      Manufacturer, by telephone April 24, 1991 followed by 
+                  letter April 25, 1991.  Firm-initiated recall ongoing.
+Distribution:     North Carolina, South Carolina, Georgia, Florida, 
+                  Tennessee, Wisconsin, Illinois, Texas, Arizona, Ohio. 
+Quantity:         2,359 bottles were distributed. 
+Reason:           Incorrect package insert; labeling contains insert for
+                  a phenylpropanolamine/quaifenesin product.
+
+                                     ---- 
+
+                                      -9- 
+
+
+
+
+
+Product:          Fresh Frozen Plasma.  Recall #B-280-1.
+Code:             Unit numbers: 0713434, 0901245, 1153771, 1153777, 
+                  1153781, 1153784, 1153786, 1153790, 1153791, 1153800, 
+                  1153803, 1153811, 1153860, 1153862, 1153865, 1153866, 
+                  1153868, 1153974, 1153961, 1153965, 4558072, 4558084. 
+Manufacturer:     North Jersey Blood Center, East Orange, New Jersey. 
+Recalled by:      Manufacturer, by telephone August 7, 1990.
+                  Firm-initiated recall complete. 
+Distribution:     New Jersey. 
+Quantity:         22 units
+Reason:           Fresh Frozen Plasma, labeled with an incorrect expiration 
+                  date was released for transfusion.
+
+                                     ---- 
+
+Product:          (a) Platelets, Pheresis; (b) Granulocytes.
+                  Recall #B-283/284-1.
+Code:             Unit numbers: (a) 02P10792, 02P10795, 02P10802, 
+                  02P10806; (b) 02P10799. 
+Manufacturer:     American Red Cross, Wichita, Kansas.
+Recalled by:      Manufacturer, by letter April 29, 1991.  Firm-initiated 
+                  recall complete.
+Distribution:     Kansas. 
+Quantity:         (a) 4 units; (b) 1 unit.
+Reason:           Blood products which were untested for the antibody 
+                  to the human immunodeficiency virus (anti-HIV-1), 
+                  were distributed. 
+
+                                     ---- 
+
+Product:          Basic Low Volume High Speed Cell Saver Pack,
+                  List Number 241.  Recall #B-289-1.
+Code:             Lot numbers: L90054, L90058.
+Manufacturer:     Haemonetics Corporation, Braintree, Massachusetts.
+Recalled by:      Manufacturer, by telephone January 25, 1991 followed
+                  by letters of January 28, 1991 and February 20, 1991. 
+                  Firm-initiated recall complete. 
+Distribution:     Nationwide and international. 
+Quantity:         2 lots were distributed.
+Reason:           Basic Low Volume High Speed Cell Saver Packs (list
+                  number 241) mislabeled as Basic High Speed Cell Saver Packs 
+                  (list number 243), were distributed.
+
+                                     ---- 
+
+Product:          Cryoprecipitated AHF.  Recall #B-296-1. 
+Code:             Unit numbers: 4402294, 4768300, 4768542, 5015393, 5130291,
+                  5130386, 5157977, 5200612, 5265662, 5265740.
+Manufacturer:     J.K. and Susie L. Wadley Research Institute and Blood 
+                  Bank, doing business as The Blood Center at Wadley, 
+                  Dallas, Texas.
+Recalled by:      Consignee returned product to manufacturing firm on 
+                  September 6, 1990.  Firm-initiated recall complete. 
+
+                                     -10- 
+
+
+
+
+
+Distribution:     Texas.
+Quantity:         10 units. 
+Reason:           Cryoprecipitated AHF, which was shipped at a
+                  temperature greater than -18 degrees C, was distributed.
+
+                                     ---- 
+
+Product:          Red Blood Cells.  Recall #B-317-1.
+Code:             Unit numbers: 11T21055, 11T21056, 11T21057, 11T21058, 
+                  11T21059. 
+Manufacturer:     American Red Cross Blood Services, St. Louis, Missouri. 
+Recalled by:      Manufacturer, by telephone January 30, 1991 followed
+                  by letter February 12, 1991.  Firm-initiated recall 
+                  complete. 
+Distribution:     Missouri. 
+Quantity:         5 units.
+Reason:           Blood products labeled with incorrect expiration
+                  dates were distributed. 
+
+                                     ---- 
+
+                       DEVICES AND RADIOLOGICAL PRODUCTS
+
+                  Class I - 
+                                     NONE 
+
+                  Class II -
+
+Product:          Model LP-6 Volume Ventilator.  Recall #Z-745-1. 
+Code:             Serial numbers: 1061, 1082, 1355, 1627, 2459, 2736, 
+                  3852, 3872, 4615, 5536, 7593, 7605, 8084, 8142, 8200, 8276, 
+                  8485, 8534, 8640, 8705, 8968, 9049, 9223, 9277, 9283, 9318, 
+                  9352, 9523, 9691, 9740, 9872, 9929, 10034, 10279, 10454,
+                  10461, 10670, 10914, 11150, 11271, 11302, 11429, 11530, 
+                  11635, 11756. 
+Manufacturer:     Aquitron Medical, Inc., Plymouth, Minnesota.
+Recalled by:      Manufacturer, by telephone February 13, 1991. 
+                  Firm-initiated recall complete. 
+Distribution:     Nationwide. 
+Quantity:         45 units were distributed.
+Reason:           During the period from 1/29/91 to 2/7/91, when 45 LP-6
+                  units had gearbox servicing or preventative maintenance,
+                  a torque driver used for tightening the screw holding the 
+                  crank arm to the crankshaft was out of calibration resulting
+                  in loose screws.
+                                     ---- 
+
+Product:          Ohmeda Advent Ventilator.  Recall #Z-751-1. 
+Code:             All serial numbers. 
+Manufacturer:     Maurepas Cedex, France. 
+Recalled by:      Ohmeda, Madison, Wisconsin, by letter May, 8, 1991. 
+                  Firm-initiated recall ongoing.
+
+                                     -11- 
+
+
+
+
+
+Distribution:     Nationwide and international. 
+Quantity:         607 units were distributed. 
+Reason:           An incorrect resistor was installed on the interface
+                  board.  This problem could allow the battery which drives 
+                  the power failure alarm to become overcharged.  Overcharging
+                  this battery could disable the alarm which alerts the user
+                  when the ventilator looses power. 
+
+                                     ---- 
+
+Product:          Pulsator 2000 (Electronic Muscle Stimulator), an Rx 
+                  medical device.  Recall #Z-756-1. 
+Code:             Serial numbers:  All codes.  No lot or serial numbers 
+                  appear on packaging.
+Manufacturer:     Unknown.
+Recalled by:      Damark International, Inc., Minneapolis, Minnesota by 
+                  letter May 23, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide. 
+Quantity:         1,901 units were distributed. 
+Reason:           The firm failed to submit a 510(k) and a PMA to the FDA.
+
+                                     ---- 
+
+Product:          SEARCH N' Stim Electronic Acupuncture, Model SW-103.
+                  Recall #Z-757-1.
+Code:             Serial numbers:  All codes.  No lot or serial numbers 
+                  appear on packaging.
+Manufacturer:     Unknown.
+Recalled by:      Damark International, Inc., Minneapolis, Minnesota by 
+                  letter May 23, 1991.  Firm-initiated recall ongoing.
+Distribution:     Nationwide. 
+Quantity:         48 units were distributed.
+Reason:           The device was distributed to the general public without
+                  an approved PMA Supplement or IDE.
+
+                                     ---- 
+
+                  Class III - 
+
+Product:          Cardiomet 4000 Sensor Store Kit, used with Shiley 
+                  Cardiomet 4000 Extracorporeal Blood Gas Monitoring System.
+                  Recall #Z-755-1.
+Code:             Product #CS-4621, lot numbers: CSK0043 EXP 7/91,
+                  CSK0044 EXP 9/91. 
+Manufacturer:     Biomedical Sensors Ltd., England. 
+Recalled by:      Shiley, Inc., Irvine, California by letter April 22, 1991.
+                  Firm-initiated recall complete. 
+Distribution:     Michigan, Texas, Pennsylvania.
+
+                                     -12- 
+
+
+
+
+
+Quantity:         150 units were distributed; firm estimates none remains 
+                  on the market.
+Reason:           The device has exhibited mold growth on some of the PC02
+                  sensor store pod labels.
+
+                                     ---- 
+
+Product:          EB-VCA IFA Kit II and EB-VCA Slides, in-vitro 
+                  diagnostics used to detect antibodies to Epstein-Barr 
+                  Viral Capsid Antigen (EB-VCA) by the indirect 
+                  fluorescent antibody (IFA) method:
+                  (a) Product No. 37184, EB-VCA Kit;
+                  (b) Product No. 37187, EB-VCA Slide.  Recall #760/761-1.
+Code:             (a) Lot numbers: 143151, 143445, 143455, all
+                  with EXP date of 5/91;
+                  (b) Lot numbers: 143465 EXP 5/91. 
+Manufacturer:     Organon Teknika Corporation, Durham, North Carolina.
+Recalled by:      Manufacturer, by letter March 19, 1991.  Firm-initiated 
+                  recall ongoing. 
+Distribution:     Nationwide, Australia, Belgium, Japan, France,
+                  Germany, Italy, Canada, Yugoslavia, Indonesia,
+                  Uruguay, Norway, The Netherlands. 
+Quantity:         1,669 kits/slide packages were distributed. 
+Reason:           Some slides were found to exhibit variability and 
+                  loss of fluorescence which could result in inaccurate 
+                  interpretation of the test. 
+
+                                     ---- 
+
+Seizure Actions Filed:
+
+Product:          Pita Bread (91-610-425).
+Charge:           Product was prepared and packed under insanitary
+                  conditions. 
+Firm:             Ziyad Brothers, Division of Syrian Bakery and Grocery 
+                  Company, Inc., Chicago, Illinois. 
+Filed:            May 20, 1991 - U.S. District Court for the Northern 
+                  District of Illinois, Eastern Division; 
+                  Civil #91-C3441, FDC #66157.
+
+                                     ---- 
+
+Product:          Comingled lot of Black/Green Olives (91-610-427/429). 
+Charge:           Adulterated - Product is contaminated with yeast and mold.
+Firm:             Ziyad Brothers, Division of Syrian Bakery and Grocery 
+                  Company, Inc., Chicago, Illinois. 
+Filed:            June 5, 1991 - U.S. District Court for the Northern 
+                  District of Illinois, Eastern Division; 
+                  Civil #91-C3441, FDC 66164. 
+
+                                     ---- 
+
+                                     -13- 
+
+
+
+
+
+Product:          Multiple Food Products (91-614-402).
+Charge:           Adulterated - Products were held under insanitary conditions
+                  whereby they may have become contaminated with filth. 
+Firm:             Westlake Noodle Company of Houston, Houston, Texas. 
+Filed:            May 29, 1991 - U.S. District Court for the Southern 
+                  District of Texas, Houston Division; Civil #H-91-1505,
+                  FDC #66168.

@@ -1,0 +1,747 @@
+success
+          fail
+          
+            
+          
+          
+            
+          
+          
+        	
+	
+      
+      
+	
+	
+      
+    
+    
+      
+	
+	  
+	    
+	  
+	  
+	    
+	      
+		
+		
+		  Jun
+		  NOV
+		  Mar
+		
+		
+		
+		  
+		  20
+		  
+		
+		
+		
+		  2001
+		  2002
+		  2003
+		
+	      
+	    
+	  
+	
+	
+	  
+	    	    
+	      	      27 captures
+	      25 Feb 1997 - 06 Apr 2009
+	      
+	  
+	  
+	    
+	      
+		
+	      
+	    
+	  
+	
+      
+    
+    
+       About this capture
+    
+  
+    
+            COLLECTED BY
+    
+            
+			
+		Organization: Alexa Crawls
+		
+	  
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+	      
+      
+			
+		Collection: alexa_dn
+		
+	  
+	  this data is currently not publicly accessible.
+	
+	      
+    
+    TIMESTAMPS
+    
+      
+      
+    
+  
+
+FDA            
+Enforcement Report
+The FDA Enforcement Report is published weekly by the Food and Drug
+Administration,
+U.S. Public Health Service, Department of Health and Human Services.  It contains
+information
+on actions  taken in connection with agency regulatory activities.
+
+ ENFORCE
+08/05/1992
+
+RECALLS AND FIELD CORRECTIONS: August 5, 1992
+
+                              FOODS - CLASS I
+                                                                     92-32
+              
+PRODUCT        Fresh picked crabmeat processed on 8/14/91, in 16 ounce          
+               containers:
+               (a) Jumbo Crabmeat; (b) Backfin Crabmeat;
+               (c) Claw Crabmeat; (d) Special Crabmeat.  Recall #F-455/458-2.
+CODE           None.
+MANUFACTURER   Gloucester Seafood, Inc., Gloucester, Virginia.
+RECALLED BY    Manufacturer, by telephone October 25, 1991.  Firm-initiated     
+               recall complete.
+DISTRIBUTION   Maryland, Virginia.
+QUANTITY       Approximately 1,605 pounds were distributed; firm estimates      
+               none remains on the market.
+REASON         Product was contaminated with Listeria monocytogenes.
+
+              
+PRODUCT        Fresh picked crabmeat processed on 10/29/91, in 16 ounce         
+               containers:  (a) Clawmeat; (b) Special Crabmeat;
+               (c) Jumbo Lump Crabmeat.  Recall #F-459/461-2.
+CODE           None.
+MANUFACTURER   Gloucester Seafood, Gloucester, Virginia.
+RECALLED BY    Manufacturer, by telephone February 20, 1992.  Firm-initiated    
+               recall complete.
+                                      -1-
+                                       
+DISTRIBUTION   Maryland.
+QUANTITY       341 pounds were distributed; firm estimates none remains on the  
+               market.
+REASON         Product was contaminated with Listeria monocytogenes.
+
+
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- CLASS II
+              
+PRODUCT        Cephradine Capsules, 250 mg, a semi-synthetic cephalosporin, in  
+               100 capsule bottles, under Barr and Major labels.
+               Recall #D-438-2.
+CODE           Lot #OI55OCZ EXP 9/92 (or 10/92 on some Barr labels).
+MANUFACTURER   Barr Laboratories, Inc., Pomona, New York.
+RECALLED BY    Manufacturer, by letter July 17, 1992.  Firm-initiated recall    
+               ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       11,457 bottles were distributed.
+REASON         Subpotency.
+
+              
+PRODUCT        Various Rx injectable drug products:
+               (a) Atropine Sulfate Injection, USP, 1 ml, in multiple dose      
+               vials, (i) 1 mg/ml, (ii) 0.3 mg/ml;
+               (b) Heparin Sodium Injection, 1,000 USP units/ml, in 1 ml        
+               single dose vials;
+               (c) Magnesium Sulfate Injection, USP, 50%, 500 mg/ml; in 2 ml    
+               single dose vials.  Recall #D-440/443-2.
+CODE           Lot numbers:  (a) 1 mg/ml: lot #311331 EXP 12/94,
+               320144 EXP 2/95; 0.3 mg/ml: lot #320154 EXP 2/94;
+               (b) 320282 EXP 3/94;
+               (c) 320141 EXP 7/93, 320219 EXP 8/93, 320086 EXP 7/93.
+MANUFACTURER   Lyphomed, Division of Fujisawa USA, Inc., Grand Island,
+               New York.
+RECALLED BY    Lyphomed, Division of Fujisawa USA, Inc., Melrose Park,          
+               Illinois, by letter July 16, 1992.  Firm-initiated recall        
+               ongoing.
+DISTRIBUTION   (a & b) Nationwide; (c) Nationwide and Hong Kong.
+QUANTITY       (a) 309,375 vials (1 mg/ml) and 2,925 vials (0.3 mg/ml) of       
+               Atropine Sulfate were distributed, with the firm estimating      
+               that 87,000 vials of 1 mg and 1,000 vials of 0.3 mg product      
+               remain on the market;
+               (b) 123,975 vials were distributed, with the firm estimating
+               that 31,000 vials remain on the market;
+               (c) 492,600 vials were distributed, with the firm estimating
+               that 96,000 vials remain on the market.
+REASON         The vials have a low fill volume.
+
+              
+UPDATE         Recall #D-435-2, Disopyramide Phosphate Capsules, 100 mg, which  
+               appeared in the July 29, 1992 Enforcement Report should read:    
+               Recalled by Barr Pharmaceuticals, Inc., Pomona, New York by      
+               letter July 9, 1992.
+
+                                      -2-
+RECALLS AND FIELD CORRECTIONS:  DRUGS -- Class III
+              
+PRODUCT        Technetium Tc 99m Generator, sterile, non-pyrogenic, a           
+               diagnostic agent for intravenous injection.  Recall #D-436-2.
+CODE           Lot #9221-4F-071.
+MANUFACTURER   The Dupont Merck Pharmaceutical Company, No. Billerica,          
+               Massachusetts.
+RECALLED BY    Firm notified of the problem by the consignee on June 1, 1992.   
+               Unit was returned to the firm on the same date.  Firm-initiated  
+               recall complete.
+DISTRIBUTION   California.
+QUANTITY       1 unit was distributed and was destroyed 7/15/92.
+REASON         Unit received less than intended fill.
+
+              
+PRODUCT        Valpin 50, anisotropine methylbromide, 50 mg oral tablets, in    
+               100 tablet bottles, a Rx anticholinergic.  Recall #D-437-2.
+CODE           Lot #DN236A 12/94.
+MANUFACTURER   Du Pont Pharmaceuticals, Garden City, New York.
+RECALLED BY    Manufacturer, by letter June 9, 1992.  Firm-initiated recall     
+               ongoing.
+DISTRIBUTION   Nationwide, Puerto Rico.
+QUANTITY       6,003 bottles were distributed; firm estimates 2,500 bottles     
+               remain on the market.
+REASON         Product does not meet content uniformity specifications.
+
+              
+PRODUCT        Naturlax, sugar free orange flavored psyllium hydrophilic        
+               mucelloid, a natural fiber laxative.  Recall #D-439-2.
+CODE           Lot #910936.
+MANUFACTURER   Cenci Powder Products, Inc., Fresno, California.
+RECALLED BY    Manufacturer, by telephone and by letters of January 8 and 27,   
+               1992.  Firm-initiated recall ongoing.
+DISTRIBUTION   California, Florida, Minnesota, New Jersey, Tennessee.
+QUANTITY       1,224 bottles distributed.
+REASON         Sugar free product packed in bottles labeled as containing       
+               sugar. 
+
+              
+PRODUCT        MMI Opti-UP brand Barium Sulfate for suspension for use in air   
+               contrast examination of the upper gastrointestinal tract, in     
+               312 gram cups.  Recall #D-444-2.
+CODE           Lot #904920.
+MANUFACTURER   Century Pharmaceutical, Inc., Indianapolis, Indiana.
+RECALLED BY    MMI, Inc., Southfield, Michigan, by letter April 7, 1992.        
+               Firm-initiated recall complete.
+DISTRIBUTION   New Jersey, Michigan, Missouri, Texas, South Carolina, Abu       
+               Dhabi UAE, Switzerland.
+QUANTITY       1,536 cups were distributed; firm estimates none remains on the  
+               market.
+REASON         Incorrect expiration date on product.
+
+                                      -3-
+RECALLS AND FIELD CORRECTIONS:  BIOLOGICS - CLASS II
+
+              
+PRODUCT        (a) Red Blood Cells, Washed; (b) Platelets, Pooled;
+               (c) Cryoprecipitated AHF, Pooled.  Recall #B-361/363-2.
+CODE           Unit numbers:  (a) 3117813; (b) 32424, 33158, 32472; (c) 32891.
+MANUFACTURER   Carter Blood Center, Fort Worth, Texas.
+RECALLED BY    Manufacturer, (a & b) by telephone December 5, 1991, July 16,    
+               1991 and September 4, 1991; (c) by telephone July 19, 1991 and   
+               August 16, 1991.  Firm-initiated recall ongoing.
+DISTRIBUTION   Texas.
+QUANTITY       (a) 1 Unit; (b) 3 units; (c) 1 unit.
+REASON         Blood products, which were either 1) labeled with the incorrect  
+               expiration date; or 2) pooled products which contained expired   
+               single donor units, were distributed.
+
+              
+PRODUCT        Platelets.  Recall #B-364-2.
+CODE           Unit #KX31592.
+MANUFACTURER   Central Blood Bank, Pittsburgh, Pennsylvania.
+RECALLED BY    Manufacturer, by telephone November 30, 1990.  Firm-initiated    
+               recall complete.
+DISTRIBUTION   Pennsylvania.
+QUANTITY       1 unit.
+REASON         Blood product, which tested repeatedly reactive for the          
+               antibody to human T-lymphotropic virus type I (anti-HTLV-I),     
+               was distributed.
+
+              
+PRODUCT        Red Blood Cells.  Recall #B-372-2.
+CODE           Unit numbers:  11E57097 and 11F74348.
+MANUFACTURER   American Red Cross, St. Louis, Missouri.
+RECALLED BY    Manufacturer, by telephone January 3, 1992, followed by letter   
+               January 8, 1992 for unit 11E57097; by telephone, followed by     
+               letter November 7, 1991 for unit 11F74348.  Firm-initiated       
+               recall complete.
+DISTRIBUTION   Missouri.
+QUANTITY       2 units.
+REASON         Blood products which 1) tested repeatedly reactive for the       
+               hepatitis B surface antigen (HBsAg), or 2) tested non-reactive   
+               for the antibody to the human immunodeficiency virus type 1      
+               (anti-HIV-1), but were collected from a donor who previously     
+               tested repeatedly reactive for anti-HIV-1, were distributed.
+
+              
+PRODUCT        Source Plasma.  Recall #B-370-2.
+CODE           Unit numbers:  N-59719-024 and N-59725-024.
+MANUFACTURER   Pine Bluff Plasma Center, Inc., Pine Bluff, Arkansas.
+RECALLED BY    Manufacturer, by telephone January 30, 1992.  Firm-initiated     
+               recall complete.
+DISTRIBUTION   California.
+QUANTITY       2 units were distributed.
+
+                                      -4-
+REASON         Blood products which tested repeatedly reactive for hepatitis B  
+               surface antigen (HBsAg), were distributed.
+
+              
+PRODUCT        Source Plasma.  Recall #B-386-2.
+CODE           Unit #10917F.
+MANUFACTURER   Allegheny Biologicals, Inc., Jacksonville, Florida.
+RECALLED BY    Manufacturer, by letter May 26, 1992.  Firm-initiated recall     
+               complete.
+DISTRIBUTION   North Carolina.
+QUANTITY       1 unit.
+REASON         Source Plasma, which tested negative for hepatitis B surface     
+               antigen (HBsAg), but was collected from a donor who previously   
+               tested repeatedly reactive for HBsAg, was distributed.
+
+
+RECALLS AND FIELD CORRECTION:  BIOLOGICS - CLASS III
+              
+PRODUCT        (a) Red Blood Cells; (b) Platelets; (c) Fresh Frozen Plasma;
+               (d) Recovered Plasma.  Recall #B-349/352-2.
+CODE           Unit numbers:  (a) 16F52348, 16L41036; (b) 16L41036;
+               (c) 16L41036; (d) 16F52348.
+MANUFACTURER   American Red Cross, Columbus, Ohio.
+RECALLED BY    Manufacturer, by telephone February 7, 1992 followed by letters  
+               of February 14, 1992 and March 13, 1992.  Firm-initiated recall  
+               complete.
+DISTRIBUTION   Ohio, California.
+QUANTITY       (a) 2 units; (b) 1 unit; (c) 1 unit; (d) 1 unit.
+REASON         Blood products which tested repeatedly reactive for hepatitis B  
+               surface antigen (HBsAg), were distributed.
+
+              
+PRODUCT        Source Plasma.  Recall #B-359-2.
+CODE           Unit #PF10388.
+MANUFACTURER   Community Bio-Resources, Inc., New Orleans, Louisiana.
+RECALLED BY    Manufacturer, by telephone March 25, 1992, followed by letter    
+               March 26, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   California.
+QUANTITY       1 unit.
+REASON         Blood component not tested for the antibody to the human         
+               immunodeficiency virus, type 1/2 (anti-HIV-1/2) was distributed.
+
+              
+PRODUCT        Recovered Plasma.  Recall #B-360-2.
+CODE           M4162.
+MANUFACTURER   Montrose Memorial Hospital, Montrose, Colorado.
+RECALLED BY    Manufacturer, by telephone June 12, 1992 and by letter June 13,  
+               1992.  Firm-initiated recall complete.
+DISTRIBUTION   Colorado, Florida.
+QUANTITY       1 unit.
+
+                                      -5-
+REASON         Blood product, which tested initially reactive for hepatitis B   
+               surface antigen (HBsAg) was incorrectly interpreted as           
+               nonreactive and was distributed.
+
+              
+PRODUCT        (a) Red Blood Cells; (b) Recovered Plasma.  Recall #B-375/376-2.
+CODE           Unit #8158931.
+MANUFACTURER   J.K. and Susie L. Wadley Research Institute and Blood Bank,      
+               Dallas, Texas.
+RECALLED BY    Consignee of Red Blood Cells notified firm by telephone May 15,  
+               1992.  Recalling firm notified firm of Recovered Plasma by       
+               letter July 6, 1992.  Firm-initiated recall complete.
+DISTRIBUTION   Texas, California.
+QUANTITY       1 unit of each component.
+REASON         Blood products labeled with two unit numbers were distributed.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES - CLASS II 
+              
+PRODUCT        Treatment Table Models 73 and 73M used with the Theratron Model  
+               T1000 Cobalt 60 Radiation Therapy Devices.  Recall #Z-905-2.
+CODE           Serial numbers:  001, 002, 007, 010, 012.
+MANUFACTURER   Theratronics International, Ltd., formerly Atomic Energy of      
+               Canada, Ltd. (AECL Medical), Carrollton, Texas;
+               Theratronics International, Ltd., formerly Atomic Energy of      
+               Canada, Ltd. (AECL Medical), Ontario, Canada.
+RECALLED BY    Manufacturer, by implementing a design change (DC 16167) on      
+               March 20, 1992.  Firm-initiated field correction ongoing.
+DISTRIBUTION   California, Florida, Illinois, Kansas.
+QUANTITY       All units were modified.
+REASON         The table(s) continue to rise for 2-3 seconds after the          
+               operator released the "deadman" enabling switch.
+
+              
+PRODUCT        Cobalt 60 Radiation Therapy Units:
+               (a) Model T780; (b) Model 780C; (c) T1000.  Recall #Z-907/909-2.
+CODE           Serial number range (a) 003 through 433; (b) 002 through 103;
+               (c) 001 through 012.
+MANUFACTURER   Theratronics International, Ltd., formerly Atomic Energy of      
+               Canada, Ltd. (AECL Medical), Carrollton, Texas;
+               Theratronics International, Ltd., formerly Atomic Energy of      
+               Canada, Ltd. (AECL Medical), Ontario, Canada.
+RECALLED BY    Manufacturer, by bulletin issued September 24, 1991.             
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 142 units; (b) 19 units; (c) 9 units were distributed.
+REASON         The collimator rotation drive system on the units may not be     
+               able to hold the position the operator chooses during a          
+               treatment if an unbalanced configuration of accessories is used.
+
+                                      -6-
+              
+PRODUCT        Cobalt 60 Radiation Therapy Units:
+               (a) Theratron Model T780; (b) Theratron Model T780C;
+               (c) Eldorado Model E76; (d) Eldorado Model E78.
+               Recall #Z-910/913-2.
+CODE           Serial number range:  (a) 003 through 433; (b) 002 through 103;
+               (c) 003, 005, 1X; (d) 002 through 903.
+MANUFACTURER   Theratronics International, Ltd., formerly Atomic Energy of      
+               Canada, Ltd. (AECL Medical), Carrollton, Texas;
+               Theratronics International, Ltd., formerly Atomic Energy of      
+               Canada, Ltd. (AECL Medical), Ontario, Canada.
+RECALLED BY    Manufacturer, by User Bulletin CUB-92-10 sent on or before June  
+               1, 1992.  Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 142 units; (b) 19 units; (c) 3 units; (d) 15 units were      
+               distributed.
+REASON         Some of these units were shipped with grade 5 bolts instead of   
+               grade 8 bolts, which are used to secure the head, beamstopper    
+               and counterweight to the arm, and also to secure the arm to the  
+               tube shaft for rotational units.  These bolts are also used to   
+               secure the head/neck assembly to the carriage assembly of        
+               vertical units.  Use of incorrect bolt grade may compromise      
+               safety to due to fatigue failure.
+
+              
+PRODUCT        Cobalt Radiation Therapy Units, Theratron and ELdorado Models:
+               (a) T80; (b) T765; (c) T780; (d) E6; (e) E8;
+               (f) E76; (g) E78; (h) EG; (i) ESG.  Recall #Z-914/922-2.
+CODE           (a) Serial number range 012 though 156;
+               (b) Serial number 007;
+               (c) Serial number range 003 through 433;
+               (d) Serial number range 008 through 097;
+               (e) Serial number range 005 through 102;
+               (f) Serial numbers 003, 005, 1X;
+               (g) Serial number range 002 through 903;
+               (h) Serial numbers 021, 034, 027;
+               (i) Serial number XXX (unknown) and 004.
+MANUFACTURER   Theratronics International, Ltd., formerly Atomic Energy of      
+               Canada, Ltd. (AECL Medical), Carrollton, Texas;
+               Theratronics International, Ltd., formerly Atomic Energy of      
+               Canada, Ltd. (AECL Medical), Ontario, Canada.
+RECALLED BY    Manufacturer, by User Bulletin CUB-92-03 dated May 11, 1992.     
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 156 units; (b) 1 unit; (c) 142 units; (d) 18 units;
+               (e) 24 units; (f) 3 units; (g) 15 units; (h) 3 units;
+               (i) 2 units were distributed.
+REASON         The firm's User Bulletin CUB-92-03 dated 11 May 1992, provided   
+               maintenance instructions to reduce a mechanical timer problem    
+               that could result in radiation overdose due to timing error.
+
+                                      -7-
+              
+PRODUCT        Cobalt Radiation Therapy Units, Theratron, ELdorado, and         
+               Phoenix Models:
+               (a) T80; (b) T765; (c) T780; (d) T780C; (e) T1000;
+               (f) E6; (g) E8; (h) E76; (i) E78; (j) Phoenix;
+               Recall #Z-923/932-2.
+CODE           (a) Serial number range 012 though 156;
+               (b) Serial number 007;
+               (c) Serial number range 003 through 433;
+               (d) Serial number range 002 through 103;
+               (e) Serial number range 001 through 012;
+               (f) Serial number range 008 through 097;
+               (g) Serial number range 005 through 102;
+               (h) Serial numbers 003, 005, 1X;
+               (i) Serial number range 002 through 903;
+               (j) Serial number range 001 through 036;
+MANUFACTURER   Theratronics International, Ltd., formerly Atomic Energy of      
+               Canada, Ltd. (AECL Medical), Carrollton, Texas;
+               Theratronics International, Ltd., formerly Atomic Energy of      
+               Canada, Ltd. (AECL Medical), Ontario, Canada.
+RECALLED BY    Manufacturer, by User Bulletin CUB-92-04 dated May 11, 1992.     
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 156 units; (b) 1 unit; (c) 142 units; (d) 19 units; (e) 9    
+               units; (f) 18 units; (g) 24 units; (h) 3 units; (i) 15 units     
+               (j) 15 units were distributed.
+REASON         Use of Molykote lubricants in air cylinders may lead to a stuck  
+               or slow moving source which may result in a radiation overdose.
+
+              
+PRODUCT        Cobalt 60 and Linear Accelerator Radiation Therapy Units, and    
+               Simulators:
+               (a) T80; (b) T780; (c) T780C;
+               Linear Accelerator, Theratron Models;
+               (d) T6; (e) T20; (f) T25;
+               Simulators, Therasim Models:
+               (g) T720; (h) T750.  Recall #Z-933/940-2.
+CODE           (a) Serial number range 012 through 156;
+               (b) Serial number range 003 through 433;
+               (c) Serial number range 002 through 103;
+               Linear Accelerator, Theratron Models;
+               (d) Serial number range 010 through 563;
+               (e) Serial number range 031 through 813;
+               (f) Serial number range 022 through 033;
+               Simulators, Therasim Models:
+               (g) Serial number range 038 through 601;
+               (h) serial number range 007 through 135.
+MANUFACTURER   Theratronics International, Ltd., formerly Atomic Energy of      
+               Canada, Ltd. (AECL Medical), Carrollton, Texas;
+               Theratronics International, Ltd., formerly Atomic Energy of      
+               Canada, Ltd. (AECL Medical), Ontario, Canada.
+
+                                      -8-
+RECALLED BY    Manufacturer, by User Bulletin CUB-92-09 sent on or before June  
+               1, 1992, User Bulletin AUB-92-02 sent to  all accelerator users  
+               on or before June 1, 1992, and by User Bulletin SUB-92-01 sent   
+               to all Simulator users on or before June 1, 1992.                
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       (1) 56 units; (2) 142 units; (3) 19 units; (4) 16 units;
+               (5) 16 units; (6) 4 units; (7) 14 units; (8) 84 units were       
+               distributed.
+REASON         The key in the pulley bushing attached to the gantry gear drive  
+               reducer may become loose and fall out with extended use and      
+               cause the pulley to slip, resulting in unwanted gantry motion    
+               and possible incorrect radiation dose administration.
+
+              
+PRODUCT        Cobalt 60 Radiation Therapy Units, Theratron and Phoenix Models:
+               (a) T780C; (b) T1000; (c) Phoenix.  Recall #Z-941/943-2.
+CODE           (a) Serial number range 002 through 103;
+               (b) Serial number range 001 through 012;
+               (C) Serial number range 001 through 036.
+MANUFACTURER   Theratronics International, Ltd., formerly Atomic Energy of      
+               Canada, Ltd. (AECL Medical), Carrollton, Texas;
+               Theratronics International, Ltd., formerly Atomic Energy of      
+               Canada, Ltd. (AECL Medical), Ontario, Canada.
+RECALLED BY    Manufacturer, by User Bulletin CUB-92-07 dated April 3, 1992.    
+               Firm-initiated field correction ongoing.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 19 units; (b) 9 units; (c) 15 units were distributed.
+REASON         Fuses can blow during beam treatment causing misadministration   
+               of radiation dosage.
+
+              
+PRODUCT        (a) Peripheral Rotablator, designed for use in arms and legs;
+               (b) Coronary Rotablator, designed to remove plaque and           
+               calcified deposits from arteries leading to the heart.
+               Recall #Z-944/945-2.
+CODE           All lots.
+MANUFACTURER   Heart Technology, Bellevue, Washington.
+RECALLED BY    Manufacturer, by letter June 24 & 25, 1992.  Firm-initiated      
+               recall ongoing.
+DISTRIBUTION   Nationwide and international.
+QUANTITY       13,000 units were distributed; firm estimates 2,000 to 3,000     
+               units remain on the market.
+REASON         The device may contain a small protruding loop of one of the     
+               three wires that make up the drive shaft, which can cause the    
+               device to fail.
+
+
+RECALLS AND FIELD CORRECTIONS:  DEVICES - CLASS III
+              
+PRODUCT        Phoenix Model Cobalt 60 Radiation Therapy Unit with Console      
+               A112709-113.  Recall #Z-906-2.
+
+                                      -9-
+CODE           Serial numbers:  001, 003, 005, 006, 008, 010, 012, 014, 017,    
+               018, 020, 023, 032, 036, one unknown serial number.
+MANUFACTURER   Theratronics International, Ltd., formerly Atomic Energy of      
+               Canada, Ltd. (AECL), Carrollton, Texas; Theratronics             
+               International, Ltd, formerly Atomic Energy of Canada, Ltd.,      
+               (AECL Medical), Ontario, Canada.
+RECALLED BY    Manufacturer, by User Bulletin CUB-91-08EX sent September 26,    
+               1991.  Firm-initiated field correction complete.
+DISTRIBUTION   Nationwide.
+QUANTITY       Firm estimates all units have been modified in accordance with   
+               the user bulletin.
+REASON         A wide-component-to-component variation in the characteristic    
+               of a chip in the timer control console circuit could result in   
+               the circuit triggering improperly.
+
+              
+PRODUCT        Seldinger Needles, 18 gauge TW, angiographic needles designed    
+               for the percutaneous puncture of the anterior wall of a vessel   
+               in order to provide a suitable entry site for intravascular      
+               guide wire, vessel dilator (when necessary) and catheter         
+               introduction.  Recall #Z-946-2.
+CODE           Lot #44198.
+MANUFACTURER   Mallinckrodt Medical, Inc., Angelton, Texas.
+RECALLED BY    Manufacturer, by telephone January 1, 1989.  Firm-initiated      
+               recall completed on March 1, 1989.
+DISTRIBUTION   Virginia, Illinois, Missouri, Florida.
+QUANTITY       Firm estimates none remains on the market.
+REASON         The device was mislabeled as a Seldinger needle, when it         
+               actually contained a Potts-Cournand needle.
+
+              
+UPDATE         Schneider Teflon Fixed Core .025 inches, 145 cm Straight Tip     
+               Guidewires, Recall #Z-866-2, which appeared in the July 22,      
+               1992 Enforcement Report is a completed recall.
+
+
+MEDICAL DEVICE SAFETY ALERTS
+
+              
+PRODUCT        Cobalt 60 Radiation Therapy Units, Linear Accelerators and       
+               Simulators:
+               Theratron Models: (a) T780; (b) T780C; (c) T1000; (d) T80;
+               Eldorado Models:  (e) E6; (f) E8; (g) E76; (h) E78;
+               (i) Phoenix;
+               Linear Accelerator Models (j) T6; (k) T20; (l) T25;
+               Therasim Simulator Models:  (m) T720; (n) T750.
+               Safety Alert #M-063/076-2.
+CODE           (a) Serial number range 003 through 433;
+               (b) Serial number range 002 through 103;
+               (c) Serial number range 001 through 012;
+               (d) Serial number range 012 through 156;
+               (e) Serial number range 008 through 097;
+
+                                     -10-
+               (f) Serial number range 005 through 102;
+               (g) Serial numbers 003, 005, 1X;
+               (h) Serial number range 002 through 903;
+               (i) Serial number range 001 through 036;
+               Linear Accelerator, Theratron Models:
+               (j) Serial range 010 through 563;
+               (k) Serial number range 031 through 813;
+               (l) Serial range 022 through 033:
+               Simulators, Therasim Models:
+               (m) Serial number range 038 through 601;
+               (n) Serial number range 006 through 142.
+MANUFACTURER   Theratronics International, Ltd., formerly Atomic Energy of      
+               Canada, Ltd. (AECL), Carrollton, Texas; Theratronics             
+               International, Ltd, formerly Atomic Energy of Canada, Ltd.,      
+               (AECL Medical), Ontario, Canada.
+ALERTED BY     Manufacturer, by User Bulletin CUB-91-05, dated 9/16/91 and      
+               User Bulletins CUB-92-06, AUB-92-03 and SUB-92-02, all dated     
+               5/11/92.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 142 units; (b) 19 units; (c) 9 units; (d) 156 units; (e) 18  
+               units; (f) 24 units; (g) 3 units; (h) 15 units; (i) 15 units;    
+               (j) 16 units; (k) 16 units; (l) 4 units; (m) 14 units; (n) 84    
+               units were distributed.
+REASON         The firm issued User Bulletin CUB-91-05, dated 9/16/91, to       
+               T780, T780C, T1000 and Phoenix users warning them that the       
+               hardware securing the lead wedges to the wedge filter tray may   
+               become loose and allow the lead wedge to fall.  The firm also    
+               issued User Bulletins CUB-92-06, AUB-92-03 and SUB-92-02, all    
+               dated 5/11/92, to all users of the above listed units and        
+               refurbishers of the older models T80, T780, E6, E8, E76 and E78  
+               units to warn them that accessories such as rails, beam shaping  
+               trays, wedge filters, and other collimator mounted hardware may  
+               become loose, disengage, and fall, possibly striking a           
+               patient.  All bulletins asked the users to examine all screws    
+               for accessories and rails to verify they are secure, and served  
+               as a reminder to perform proper routine checks.
+
+              
+PRODUCT        Cobalt 60 Radiation Therapy Devices Eldorado Models:
+               (a) E6; (b) E8; (c) E76; (d) E78; (e) EG; (f) ESG.
+               Safety Alert #M-077/082-2.
+CODE           (a) Serial number range 008 through 097;
+               (b) Serial number range 005 through 102;
+               (c) Serial numbers 003, 005, 1X;
+               (d) Serial number range 002 through 903;
+               (e) Serial numbers 021, 034, 027;
+               (f) Serial numbers XXX (unknown) and 004.
+MANUFACTURER   Theratronics International, Ltd., formerly Atomic Energy of      
+               Canada, Ltd. (AECL), Carrollton, Texas; Theratronics             
+               International, Ltd, formerly Atomic Energy of Canada, Ltd.,      
+               (AECL Medical), Ontario, Canada.
+ALERTED BY     Manufacturer, by telephone June 12 and 19, 1992 followed by      
+               memorandums dated June 16, 1992.
+
+                                     -11-
+DISTRIBUTION   Nationwide and international.
+QUANTITY       (a) 18 units; (b) 24 units; (c) 3 units; (d) 15 units;
+               (e) 3 units; (f) 2 units were distributed.
+REASON         The treatment head of an Eldorado unit fell suddenly.  Users     
+               were requested to discontinue use of the units until the firm    
+               could determine the possible cause of the incident and identify  
+               preventive measures to follow.  Users were then advised of the   
+               results of the firm's investigation and provided with            
+               inspection procedures to follow before returning units to        
+               service.
+
+              
+PRODUCT        Cobalt 60 Radiation Therapy Units, Eldorado Models:
+               (a) E6; (b) E8; (c) E76; (d) E78.  Safety Alert #M-083/086-2.
+CODE           (a) Serial number range 007 through 080;
+               (b) Serial number range 005 through 102;
+               (c) Serial numbers 003, 005, 1X;
+               (d) Serial number range 002 through 903.
+MANUFACTURER   Theratronics International, Ltd., formerly Atomic Energy of      
+               Canada, Ltd. (AECL), Carrollton, Texas; Theratronics             
+               International, Ltd, formerly Atomic Energy of Canada, Ltd.,      
+               (AECL Medical), Ontario, Canada.
+ALERTED BY     Manufacturer, by User Bulletin CUB-92-11NA sent to users on or   
+               about June 1, 1992.
+DISTRIBUTION   Nationwide.
+QUANTITY       (a) 18 units; (b) 24 units; (c) 3 units; (d) 15 units.
+REASON         An incident occurred in China in which a treatment table         
+               attached to an Eldorado unit raised suddenly possibly due to     
+               improper installation.  The bulletin stated that precautions     
+               should be taken when installing a table to an Eldorado unit to   
+               help prevent collisions and/or injury should unwanted motion     
+               occur and provided instructions for installing a table.
+
+MASS SEIZURE
+              
+PRODUCT        Frozen shrimp (92-658-730).
+CHARGE         Adulterated - The products contain saccharin, a food
+               additive which is unsafe because its use is not in
+               conformity with the regulation which prescribes the
+               conditions under which it may be safely used.
+FIRM           New England Shrimp Company, Inc., Ayer, Massachusetts.
+FILED          July 13, 1992; U.S. District Court for the District
+               of Massachusetts; Civil #92-11715MA, FDC #66479.
+SEIZED         July 16, 1992 - goods valued at approximately $2.75 million.
+
+
+SEIZURES
+              
+PRODUCT        Latex patient examination gloves (92-646-766/76).
+CHARGE         Adulterated - The quality of the gloves falls below that
+               which they purport or are represented to possess since they
+               exceed the defect rate established by regulation.
+
+                                     -12-
+FIRM           American International Medical Equipment Sales, Inc., Bronx,
+               New York.
+FILED          May 22, 1992 - U.S. District Court for the Southern
+               District of New York; Civil #92CV3606, FDC #66419.
+SEIZED         June 1, 1992 - goods valued at approximately $21,000.
+
+              
+PRODUCT        Canned sliced peaches (92-643-805).
+CHARGE         Adulterated - The products consist in part of a filthy
+               substance, Geotrichum mold.
+               Misbranded - The products purport to be and are represented
+               as canned peaches, a food for which a standard of identity
+               has been prescribed, and their quality falls below such
+               standard because they contain pit fragments in excess of the
+               amount allowed by the standard, and their labels fail to
+               bear a statement that they fall below such standard.
+FIRM           Apollo Warehouse, Newark, New Jersey.
+FILED          May 5, 1992 - U.S. District Court for the District
+               of New Jersey; Civil #92-1866; FDC #66412.
+SEIZED         May 19, 1992 - goods valued at approximately $6,456.
+
+                                     -13-
+
+END OF ENFORCEMENT REPORT FOR AUGUST 5, 1992.  BLANK PAGES MAY
+FOLLOW.
+                                     ###
